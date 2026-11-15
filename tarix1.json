@@ -1,0 +1,23 @@
+{
+  "title": "Turkiston general-gubernatorligi",
+  "time": 30,
+  "questions": [
+    {
+      "q": "Turkiston general-gubernatorligi qachon tashkil topgan?",
+      "options": ["1865-yil", "1867-yil", "1868-yil", "1873-yil"],
+      "answer": 1,
+      "explanation": "1867-yil 11-iyulda tashkil etilgan."
+    },
+    {
+      "q": "Turkistonning birinchi general-gubernatori kim bo'lgan?",
+      "options": ["M.G. Chernyayev", "K.P. fon Kaufman", "M.D. Skobelev", "N.O. Rozenbax"],
+      "answer": 1
+    },
+    {
+      "q": "XIII asrda qurilgan Oq pagoda joylashgan mamlakat xaritada nechanchi raqam bilan belgilangan?",
+      "image": "img/xarita1.jpg",
+      "options": ["1", "2", "3", "4"],
+      "answer": 1
+    }
+  ]
+}
