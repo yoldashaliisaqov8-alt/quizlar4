@@ -1,0 +1,157 @@
+{
+ "title": "Huquq 10-sinf · 24-dars. Intellektual mulk",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“G'oyalar arzon mahsulotlardir. G'oyalardan ko'ra ularni ro'yobga chiqarish qimmatliroqdir” degan fikr muallifi kim?",
+   "options": [
+    "Maykl Dell",
+    "Bill Geyts",
+    "Stiv Jobs",
+    "Robert Kiyosaki"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Inson yaratadigan ijodiy aqliy faoliyat mahsuli nima deb ataladi?",
+   "options": [
+    "Ommaviy mulk",
+    "Intellektual mulk",
+    "Xususiy mulk",
+    "Umumiy mulk"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekiston Jahon intellektual mulk tashkilotiga qachon a'zo bo'lgan?",
+   "options": [
+    "1993-yil 1-yanvarda",
+    "1992-yil 2-martda",
+    "1991-yil 25-dekabrda",
+    "1991-yil 31-avgustda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbekiston qaysi yildan Sanoat mulkini muhofaza qilish Parij konvensiyasiga qo'shilgan?",
+   "options": [
+    "1993-yildan",
+    "1991-yildan",
+    "1995-yildan",
+    "2008-yildan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Insonning ijodiy faoliyati natijalariga bo'lgan huquqi nima deb ataladi?",
+   "options": [
+    "Vorislik huquqi",
+    "Mulk huquqi",
+    "Majburiyat huquqi",
+    "Intellektual mulk huquqi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Intellektual mulk obyektlari ro'yxati Fuqarolik kodeksining qaysi moddasida berilgan?",
+   "options": [
+    "149-moddasida",
+    "41-moddasida",
+    "1031-moddasida",
+    "1001-moddasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muallifning mulkiy huquqlari boshqa shaxsga o'tganda uning shaxsiy nomulkiy huquqlari bilan nima bo'ladi?",
+   "options": [
+    "Davlatga o'tadi",
+    "O'zida saqlanib qoladi",
+    "Bekor bo'ladi",
+    "Boshqa shaxsga o'tadi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Intellektual mulk obyektlariga nisbatan shaxsiy nomulkiy huquqlar qancha muddat amal qiladi?",
+   "options": [
+    "Muddatsiz",
+    "Muallif vafotigacha",
+    "50 yil",
+    "70 yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h10-17-09.jpg"
+  },
+  {
+   "q": "Ikki yoki undan ortiq shaxsning birgalikdagi ijodiy mehnati bilan yaratilgan asar mualliflari qanday ataladi?",
+   "options": [
+    "Vorislar",
+    "Hammualliflar",
+    "Merosxo'rlar",
+    "Akseptantlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mualliflik huquqiga xos xususiyatni aniqlang!",
+   "options": [
+    "Faqat ro'yxatdan o'tgandan keyin vujudga keladi",
+    "Mulkiy huquq bo'lib, sotilishi mumkin",
+    "Shaxsiy nomulkiy huquq bo'lib, boshqa shaxsga o'tkazilmaydi",
+    "Faqat 18 yoshdan vujudga keladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mualliflik huquqini o'zlashtirib olish va hammualliflikka majburlash uchun javobgarlik Jinoyat kodeksining qaysi moddasida belgilangan?",
+   "options": [
+    "109-moddasida",
+    "149-moddasida",
+    "136-moddasida",
+    "1031-moddasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ijodiy mehnati bilan asar yaratgan jismoniy shaxs kim?",
+   "options": [
+    "Patent vakili",
+    "Ijrochi",
+    "Muallif",
+    "Noshir"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fan, adabiyot va san'at asarlarini yaratish va ulardan foydalanishda vujudga keladigan munosabatlarni tartibga soladigan fuqarolik huquqi me'yorlari majmuasi nima?",
+   "options": [
+    "Vorislik huquqi",
+    "Oila huquqi",
+    "Majburiyat huquqi",
+    "Mualliflik huquqi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Muallifning mulkiy huquqlari qaysi hujjat asosida boshqa shaxsga o'tkazilishi mumkin?",
+   "options": [
+    "Hadya shartnomasi",
+    "Vasiyatnoma",
+    "Nikoh shartnomasi",
+    "Mualliflik shartnomasi"
+   ],
+   "answer": 3
+  }
+ ]
+}

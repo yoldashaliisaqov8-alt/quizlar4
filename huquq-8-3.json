@@ -1,0 +1,249 @@
+{
+ "title": "Huquq 8-sinf · 4–5-dars. Davlat",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“El nazaridan qolsang, Davlating bo'lg'ay barbod!” — ushbu hikmatli so'z muallifi kim?",
+   "options": [
+    "Alisher Navoiy",
+    "Amir Temur",
+    "Konfutsiy",
+    "Nizomulmulk"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Davlat” va “jamiyat” tushunchalari haqidagi TO'G'RI fikrni aniqlang!",
+   "options": [
+    "Jamiyat davlatning siyosiy instituti hisoblanadi",
+    "Bu tushunchalar aynan bir xil ma'noni anglatadi",
+    "Davlat jamiyatdan kengroq tushuncha",
+    "Bu tushunchalar bir xil ma'noni anglatmaydi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Jamiyatning shakllangan siyosiy instituti” — bu nima?",
+   "options": [
+    "Davlat",
+    "Qabila",
+    "Mahalla",
+    "Siyosiy partiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikda jamiyat va davlat qanday obrazli ifodalangan?",
+   "options": [
+    "Davlat va jamiyat — “aka-uka”",
+    "Jamiyat — davlatning “onasi”, davlat — jamiyat “farzandi”",
+    "Davlat — jamiyatning “onasi”, jamiyat — davlat “farzandi”",
+    "Jamiyat — davlatning “boshi”, davlat — uning “qo'li”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi tushuncha kengroq hisoblanadi?",
+   "options": [
+    "Davlat apparati",
+    "Jamiyat",
+    "Huquq tizimi",
+    "Davlat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jamiyat dastlab qanday tuzilma bo'lgan?",
+   "options": [
+    "Ijtimoiy hokimiyat, ya'ni barcha odamlar tomonidan boshqariladigan tuzilma",
+    "Parlament tomonidan boshqariladigan tuzilma",
+    "Monarx tomonidan boshqariladigan tuzilma",
+    "Maxsus boshqaruv apparatiga ega tuzilma"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qabila ishlarini boshqarishda hammaning ishtirok etishi qanday nomlanadi?",
+   "options": [
+    "Monarxiya",
+    "Ibtidoiy demokratiya",
+    "Teokratiya",
+    "Totalitar tartibot"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jamiyatda siyosiy munosabatlar nima natijasida paydo bo'lgan?",
+   "options": [
+    "Yozma qonunlarning qabul qilinishi natijasida",
+    "Diniy ta'limotlarning tarqalishi natijasida",
+    "Qabila boshliqlarining kelishuvi natijasida",
+    "Ishlab chiqarishning o'sishi, taraqqiyot natijasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Dastlabki bosqichda davlat boshqaruvi, eng avvalo, qanday usulga asoslangan?",
+   "options": [
+    "Kelishuv usuliga",
+    "Ishontirish usuliga",
+    "Majburlash usuliga",
+    "Saylov usuliga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlatning asosiy belgilari TO'G'RI berilgan javobni aniqlang!\nI. Aholining hududiy asosga ko'ra birlashganligi; II. Maxsus boshqaruv apparatining mavjudligi; III. Yagona dinning mavjudligi; IV. Huquq tizimining mavjudligi; V. Soliq tizimiga egaligi; VI. Suvereniteti; VII. Monarxning mavjudligi.",
+   "options": [
+    "I, II, IV, V va VI",
+    "I, III, IV, V va VII",
+    "I, II, III, IV va VII",
+    "II, III, V, VI va VII"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h8-03-11.jpg"
+  },
+  {
+   "q": "Darslikda davlat murakkab inshootga o'xshatilsa, uning asosiy belgilari qanday rolni bajaradi?",
+   "options": [
+    "Davlatning eshigi rolini",
+    "Davlatning ustunlari rolini",
+    "Davlatning poydevori rolini",
+    "Davlatning tomi rolini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Muayyan hududda ommaviy hokimiyatni amalga oshiradigan, umummajburiy normalar o'rnatadigan va suverenitetga ega bo'lgan ... boshqa davlatlar bilan siyosiy, iqtisodiy, madaniy aloqalarni amalga oshiradigan mustaqil siyosiy tashkilot” — bu nima?",
+   "options": [
+    "Davlat",
+    "Jamiyat",
+    "Siyosiy partiya",
+    "Xalqaro tashkilot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Davlat ta'rifiga ko'ra davlat kimlarning manfaatlarini himoya qiladi?",
+   "options": [
+    "Faqat o'z fuqarolarining",
+    "Faqat davlat xizmatchilarining",
+    "O'z fuqarolari, shuningdek, hududda istiqomat qiluvchi barcha insonlarning",
+    "Faqat mulkdorlarning"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Davlat xalq irodasini ifoda etib, uning manfaatlariga xizmat qiladi. Davlat organlari va mansabdor shaxslar jamiyat va fuqarolar oldida mas'uldirlar” — bu qoida O'zbekiston Respublikasi Konstitutsiyasining nechanchi moddasida belgilangan?",
+   "options": [
+    "13-moddasida",
+    "2-moddasida",
+    "1-moddasida",
+    "7-moddasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikka ko'ra davlatning asosiy maqsadi nima?",
+   "options": [
+    "Faqat jamoat tartibini saqlash",
+    "Boshqa davlatlar ustidan hukmronlik qilish",
+    "Jamiyatga xizmat qilish, jamiyat a'zolarining huquq va erkinliklari hamda qonuniy manfaatlarini himoya qilish",
+    "Davlat budjetini ko'paytirish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qulog'i og'ir shoh zulm ko'rgan kishilarni tanib olish uchun ularga qanday kiyim kiyishni buyurgani haqidagi rivoyat qaysi asarda keltirilgan?",
+   "options": [
+    "Amir Temur, “Temur tuzuklari”",
+    "Abu Nasr Forobiy, “Fozil odamlar shahri”",
+    "Nizomulmulk, “Siyosatnoma” (“Siyar ul-muluk”)",
+    "Yusuf Xos Hojib, “Qutadg'u bilig”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Siyosatnoma”dagi rivoyatga ko'ra shoh zulm ko'rgan kishilarga qanday rangdagi kiyim kiyishni buyurgan?",
+   "options": [
+    "Oq",
+    "Qora",
+    "Yashil",
+    "Qizil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Ijtimoiy davlat” tushunchasi qaysi tushuncha bilan chambarchas bog'liq?",
+   "options": [
+    "“Inson qadri” tushunchasi bilan",
+    "“Davlat apparati” tushunchasi bilan",
+    "“Davlat suvereniteti” tushunchasi bilan",
+    "“Soliq tizimi” tushunchasi bilan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ijtimoiy davlat modelining xususiyatlari TO'G'RI berilgan javobni aniqlang!\nI. Har bir inson uchun farovon turmush darajasi; II. Sifatli ta'lim va kafolatli tibbiy xizmat; III. Davlat boshqaruvining majburlash usuliga asoslanishi; IV. Munosib mehnat sharoiti va adolatli ish haqi; V. Ijtimoiy tafovutlarni kuchaytirish; VI. Pensiya, nafaqalar va ijtimoiy yordam tizimi.",
+   "options": [
+    "II, III, V va VI",
+    "III, IV, V va VI",
+    "I, III, IV va V",
+    "I, II, IV va VI"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ijtimoiy davlat modeli qanday tafovutlarni yumshatishga qaratilgan?",
+   "options": [
+    "Til tafovutlarini",
+    "Ijtimoiy tafovutlarni",
+    "Diniy tafovutlarni",
+    "Hududiy tafovutlarni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyaning 1-moddasiga ko'ra O'zbekiston qanday davlat?",
+   "options": [
+    "Boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat",
+    "Parlamentar respublika shaklidagi dunyoviy davlat",
+    "Boshqaruvning monarxiya shakliga ega bo'lgan suveren, demokratik davlat",
+    "Federativ tuzilishga ega bo'lgan huquqiy, ijtimoiy davlat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "image": "img/h8-03-23.jpg"
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni toping.\na) soliq tizimiga ega bo'ladi;\nb) muayyan hududda mavjud bo'ladi.\nc) odamlardan tashkil topadi;\nd) dastlab barcha odamlar tomonidan boshqariladigan tuzilma bo'lgan;\ne) davlatning “onasi” deb ta'riflanadi;\nf) suverenitetga ega bo'ladi;",
+   "options": [
+    "I-d, e; II-b, c; III-a, f",
+    "I-a, f; II-d, e; III-b, c",
+    "I-e, f; II-a, d; III-b, c",
+    "I-d, e; II-a, f; III-b, c"
+   ],
+   "answer": 3,
+   "image": "img/h8-03-24.jpg"
+  }
+ ]
+}

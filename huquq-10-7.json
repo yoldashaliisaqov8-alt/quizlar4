@@ -1,0 +1,207 @@
+{
+ "title": "Huquq 10-sinf · 11–12-dars. Nikoh, uni tuzish va tugatish asoslari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Baxtli oila qurishning ikki sharti bordir: yaxshi turmush o'rtoqni tanlay bilmoq va yaxshi turmush o'rtoq bo'lmoq” degan fikr muallifi kim?",
+   "options": [
+    "Tohir Malik",
+    "Jaloliddin Rumiy",
+    "Alisher Navoiy",
+    "Abu Ali ibn Sino"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Nikoh” so'zi qaysi tildan olingan va qanday ma'noni anglatadi?",
+   "options": [
+    "Forscha — oila, xonadon",
+    "Turkiy — to'y, bazm",
+    "Arabcha — jamoa, jamlangan",
+    "Arabcha — birlashish, kelishish, ittifoq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Erkak va ayolning FHDY organlarida tuziladigan, o'zaro hurmat, muhabbat va ishonchga asoslangan ixtiyoriy kelishuvi nima?",
+   "options": [
+    "Oila",
+    "Nikoh",
+    "Shartnoma",
+    "Fotiha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oila kodeksining 13-moddasiga ko'ra diniy rasm-rusumlarga binoan tuzilgan nikoh qanday ahamiyatga ega?",
+   "options": [
+    "Huquqiy ahamiyatga ega emas",
+    "Faqat mulkiy munosabatlar uchun ahamiyatga ega",
+    "Sud tasdiqlasa huquqiy ahamiyatga ega",
+    "To'liq huquqiy ahamiyatga ega"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ayolni erga tegishga majbur qilish yoki uning erga tegishiga to'sqinlik qilish uchun javobgarlik Jinoyat kodeksining qaysi moddasida belgilangan?",
+   "options": [
+    "57-moddasida",
+    "136-moddasida",
+    "135-moddasida",
+    "122-moddasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nikoh nikohlanuvchilar FHDY organlariga ariza berganlaridan keyin qancha vaqt o'tgach tuziladi?",
+   "options": [
+    "Ikki hafta o'tgach",
+    "Uch oy o'tgach",
+    "Bir oy o'tgach",
+    "Olti oy o'tgach"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nikohni qayd etishda guvohlar soni necha kishidan kam bo'lmasligi kerak?",
+   "options": [
+    "Ikki kishidan",
+    "Uch kishidan",
+    "Bir kishidan",
+    "To'rt kishidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekistonda erkaklar va ayollar uchun nikoh yoshi necha yosh etib belgilangan?",
+   "options": [
+    "18 yosh",
+    "17 yosh",
+    "Erkaklar uchun 18, ayollar uchun 17 yosh",
+    "Erkaklar uchun 20, ayollar uchun 18 yosh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nikohlanuvchi shaxslarning tibbiy ko'rikdan o'tish muddati qancha vaqtdan oshmasligi kerak?",
+   "options": [
+    "Uch kundan",
+    "Bir oydan",
+    "Ikki haftadan",
+    "Bir haftadan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h10-07-10.jpg"
+  },
+  {
+   "q": "Nikohlanuvchi shaxslarni tibbiy ko'rikdan o'tkazishning maqsadi nima?",
+   "options": [
+    "Nikoh guvohnomasini rasmiylashtirish",
+    "Nikoh yoshini aniqlash",
+    "Sog'lom oilani shakllantirish va irsiy hamda tug'ma kasalliklarga chalingan bolalar tug'ilishining oldini olish",
+    "Davlat bojini undirish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nikoh tuzishga monelik qiladigan holatlarni aniqlang! I. loaqal bittasi boshqa ro'yxatga olingan nikohda turgan shaxslar; II. to'g'ri tutashgan qarindoshlar; III. farzandlikka oluvchi va farzandlikka olingan; IV. turli millat vakillari; V. sud muomalaga layoqatsiz deb topgan shaxs",
+   "options": [
+    "I, IV, V",
+    "II, III, IV, V",
+    "I, II, III, V",
+    "I, II, IV"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Oila kodeksining 57-moddasiga ko'ra nevara bobosiga va buvisiga nisbatan to'g'ri shajaradagi necha darajali qarindosh hisoblanadi?",
+   "options": [
+    "Ikkinchi darajali",
+    "Birinchi darajali",
+    "To'rtinchi darajali",
+    "Uchinchi darajali"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Evara katta bobosi va katta buvisiga nisbatan necha darajali qarindosh hisoblanadi?",
+   "options": [
+    "Ikkinchi darajali",
+    "Birinchi darajali",
+    "To'rtinchi darajali",
+    "Uchinchi darajali"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Er-xotindan birining vafoti yoki sud ulardan birini vafot etgan deb e'lon qilishi oqibatida nikohning bekor bo'lishi qanday ataladi?",
+   "options": [
+    "Nikohdan ajratish",
+    "Nikohni to'xtatib turish",
+    "Nikohni haqiqiy emas deb topish",
+    "Nikohni tugatish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nikoh qanday holatda FHDY organida ajratiladi?",
+   "options": [
+    "Har qanday holatda",
+    "Voyaga yetmagan bolalari bo'lmasa, o'zaro rozi bo'lsalar va mulkiy nizo bo'lmasa",
+    "Bolalar borasida nizo bo'lsa",
+    "Er-xotindan biri rozi bo'lmasa"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sud er-xotinga yarashish uchun qancha muddatgacha muhlat tayinlaydi?",
+   "options": [
+    "Bir yilgacha",
+    "Olti oygacha",
+    "Bir oygacha",
+    "Uch oygacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Er xotinining roziligisiz qachon nikohdan ajratish to'g'risida da'vo qila olmaydi?",
+   "options": [
+    "Nikohdan keyingi birinchi yil davomida",
+    "Xotini ishlamayotgan vaqtda",
+    "Xotinining homiladorlik vaqtida va bola tug'ilganidan keyin bir yil mobaynida",
+    "Bola tug'ilganidan keyin uch yil mobaynida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nikohdan ajratish ishi ko'rilayotganda qaysi talab qanoatlantirilmaydi?",
+   "options": [
+    "Umumiy mol-mulkni bo'lish haqidagi talab",
+    "Mehnatga layoqatsiz er (xotin)ga ta'minot berish haqidagi talab",
+    "Bolalar kim bilan yashashi haqidagi talab",
+    "To'yni o'tkazishga ketgan sarf-xarajatlarni undirish haqidagi talab"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sud yarashish uchun muhlat tayinlaganda er-xotinni yarashtirish choralarini ko'rish uchun qaysi tuzilmani xabardor qiladi?",
+   "options": [
+    "Prokuraturani",
+    "Ichki ishlar organini",
+    "Vasiylik va homiylik organini",
+    "Fuqarolar yig'inining yarashtirish komissiyasini"
+   ],
+   "answer": 3
+  }
+ ]
+}

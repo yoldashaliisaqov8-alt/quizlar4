@@ -1,0 +1,603 @@
+{
+ "title": "Huquq 8-sinf · 7–8-dars. Davlat shakllari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Biror mamlakat ishlarining orqaga ketishiga sabab — tuzuklari-yu tartibotlarining susayishidandir” — ushbu fikr muallifi kim?",
+   "options": [
+    "Amir Temur",
+    "Mahmud az-Zamaxshariy",
+    "Burhoniddin Marg'inoniy",
+    "Nizomulmulk"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davlat shakllari deyilganda nima tushuniladi?",
+   "options": [
+    "Davlatning boshqaruv, hududiy tuzilishi va siyosiy tartiboti jihatidan qanday shakllarga bo'linishi",
+    "Davlat organlarining tizimi va tarkibi",
+    "Davlatning ichki va tashqi funksiyalari",
+    "Davlatning faqat boshqaruv shakli"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h8-05-03.jpg"
+  },
+  {
+   "q": "Boshqaruv shakliga ko'ra davlatlar qanday turlarga bo'linadi?",
+   "options": [
+    "Fashistik va totalitar",
+    "Monarxiya va respublika",
+    "Demokratik va nodemokratik",
+    "Unitar, federativ va konfederativ"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Oliy hokimiyat yakka davlat boshlig'ining qo'lida bo'lgan va bu hokimiyat avloddan avlodga meros qilib beriladigan davlat boshqaruv shakli” — bu nima?",
+   "options": [
+    "Konfederatsiya",
+    "Respublika",
+    "Federatsiya",
+    "Monarxiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Monarxiyaning asosiy belgilari TO'G'RI berilgan javobni aniqlang!\nI. Monarx davlatni yakka o'zi boshqaradi; II. Hokimiyat oliy idoralari ma'lum muddatga saylanadi; III. Monarx o'z boshqaruvining natijasi uchun yuridik jihatdan javobgar bo'lmaydi; IV. Monarx hokimiyati muqaddas va ilohiy deb e'lon qilinadi; V. Fuqarolar davlat ishlarini boshqarishda ishtirok eta oladi; VI. Monarx o'z faoliyatida mustaqil bo'ladi.",
+   "options": [
+    "I, III, IV va VI",
+    "II, III, V va VI",
+    "II, IV, V va VI",
+    "I, II, III va V"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "image": "img/h8-05-07.jpg"
+  },
+  {
+   "q": "Monarx o'z davlatini boshqarishda uning boshqaruvi boshqa biron-bir idora bilan cheklanmasa, bunday monarxiya qanday ataladi?",
+   "options": [
+    "Teokratik monarxiya",
+    "Noan'anaviy monarxiya",
+    "Mutlaq monarxiya",
+    "Cheklangan monarxiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikda mutlaq monarxiyaga misol qilib qaysi davlatlar keltirilgan?",
+   "options": [
+    "Malayziya",
+    "Qatar, O'mon sultonligi",
+    "Daniya, Norvegiya",
+    "Vatikan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Monarxning hukmronligi konstitutsiya yoki parlament bilan cheklanadigan monarxiya qanday ataladi?",
+   "options": [
+    "Noan'anaviy monarxiya",
+    "Mutlaq monarxiya",
+    "Cheklangan monarxiya",
+    "Teokratik monarxiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikda cheklangan monarxiyaga misol qilib qaysi davlatlar keltirilgan?",
+   "options": [
+    "Qatar, O'mon sultonligi",
+    "Daniya, Norvegiya",
+    "Malayziya, Qatar",
+    "Vatikan, Saudiya Arabistoni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davlat boshqaruvi va diniy hokimiyat monarx qo'lida to'planishini anglatuvchi monarxiya turini va unga misolni aniqlang!",
+   "options": [
+    "Noan'anaviy monarxiya — Malayziya",
+    "Mutlaq monarxiya — Qatar",
+    "Cheklangan monarxiya — Norvegiya",
+    "Teokratik monarxiya — Vatikan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Monarx maxsus saylov bilan hokimiyatga keladigan monarxiya qanday ataladi?",
+   "options": [
+    "Teokratik monarxiya",
+    "Mutlaq monarxiya",
+    "Cheklangan monarxiya",
+    "Noan'anaviy monarxiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikka ko'ra Malayziya qiroli necha yilga saylanadi?",
+   "options": [
+    "5 yilga",
+    "7 yilga",
+    "Umrbod",
+    "4 yilga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Monarxiya turlarini ularga misol bo'lgan davlatlar bilan TO'G'RI moslashtiring!\nJADVAL0:\n1 | Mutlaq monarxiya | a | Vatikan\n2 | Cheklangan monarxiya | b | Malayziya\n3 | Teokratik monarxiya | c | Qatar\n4 | Noan'anaviy monarxiya | d | Norvegiya",
+   "options": [
+    "1-c, 2-d, 3-a, 4-b",
+    "1-b, 2-d, 3-a, 4-c",
+    "1-d, 2-c, 3-a, 4-b",
+    "1-c, 2-a, 3-d, 4-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Davlat boshqaruvining shunday shakliki, unda hokimiyat oliy idoralari ma'lum muddatga saylanadi” — bu qaysi boshqaruv shakli?",
+   "options": [
+    "Monarxiya",
+    "Konfederatsiya",
+    "Unitar davlat",
+    "Respublika"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Respublika shaklidagi boshqaruvga ega bo'lgan davlatning asosiy belgilari XATO berilgan javobni aniqlang!\nI. Hokimiyat oliy idoralarining saylab qo'yilishi; II. Hokimiyatning avloddan avlodga meros qilib berilishi; III. Hokimiyat vakolatlarining qonun chiqaruvchi, ijro etuvchi va sud hokimiyatiga bo'linishi; IV. Davlat boshlig'ining yuridik jihatdan javobgar bo'lmasligi; V. Hokimiyat oliy idoralarining o'z qarorlarini saylangan muddati davomida qabul qilishi; VI. Fuqarolarning davlat ishlarini boshqarishda ishtirok eta olishi.",
+   "options": [
+    "V va VI",
+    "II va IV",
+    "III va V",
+    "I va III"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Respublikalar qanday turlarga bo'linadi?",
+   "options": [
+    "Unitar va federativ respublika",
+    "Demokratik va teokratik respublika",
+    "Mutlaq va cheklangan respublika",
+    "Prezidentlik, parlamentar va aralash shakldagi respublika"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Davlatni bevosita xalq saylaydigan va juda keng vakolatlarga ega bo'lgan prezident boshqaradigan, prezident ijro hokimiyatining bevosita boshqaruvchisi bo'lgan respublika qanday ataladi?",
+   "options": [
+    "Parlamentar respublika",
+    "Noan'anaviy monarxiya",
+    "Aralash shakldagi respublika",
+    "Prezidentlik respublikasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikda prezidentlik respublikasiga misol qilib keltirilgan davlatlarni belgilang!\nI. AQSH; II. Germaniya; III. Rossiya Federatsiyasi; IV. Fransiya; V. O'zbekiston; VI. Italiya.",
+   "options": [
+    "I, IV va V",
+    "II, IV va VI",
+    "I, III va V",
+    "II, III va VI"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlat boshlig'i saylanuvchi mansabdor shaxs bo'lib, asosan, parlament tomonidan saylanadigan respublika qanday ataladi?",
+   "options": [
+    "Aralash shakldagi respublika",
+    "Cheklangan monarxiya",
+    "Parlamentar respublika",
+    "Prezidentlik respublikasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikda parlamentar respublikaga misol qilib keltirilgan davlatlarni belgilang!\nI. Germaniya; II. Janubiy Koreya Respublikasi; III. Italiya; IV. AQSH; V. Gretsiya; VI. Fransiya.",
+   "options": [
+    "III, IV va V",
+    "I, III va V",
+    "I, II va VI",
+    "II, IV va VI"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Prezidentlik va parlamentar respublika elementlari aralashib ketgan boshqaruvga darslikda qaysi davlatlar misol qilib keltirilgan?",
+   "options": [
+    "Fransiya, Janubiy Koreya Respublikasi",
+    "Germaniya, Italiya",
+    "AQSH, O'zbekiston",
+    "Gretsiya, Rossiya Federatsiyasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni toping.\na) davlat boshqaruv shakli hisoblanadi;\nb) hokimiyat vakolatlari qonun chiqaruvchi, ijro etuvchi va sud hokimiyatiga bo'linadi;\nc) davlat boshlig'i o'z boshqaruvining natijasi uchun yuridik jihatdan javobgar bo'lmaydi;\nd) hokimiyat avloddan avlodga meros qilib beriladi;\ne) davlat shakllaridan biriga kiradi.\nf) hokimiyat oliy idoralari ma'lum muddatga saylanadi;",
+   "options": [
+    "I-a, d; II-b, f; III-c, e",
+    "I-c, d; II-a, e; III-b, f",
+    "I-b, f; II-c, d; III-a, e",
+    "I-c, d; II-b, f; III-a, e"
+   ],
+   "answer": 3,
+   "image": "img/h8-05-24.jpg"
+  },
+  {
+   "q": "“Davlatning ma'muriy-hududiy tashkil etilishi” — bu nima?",
+   "options": [
+    "Davlatning boshqaruv shakli",
+    "Davlatning funksiyasi",
+    "Davlatning siyosiy tartiboti",
+    "Davlatning tuzilish shakli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tuzilish jihatidan davlatlar qanday turlarga bo'linadi?",
+   "options": [
+    "Prezidentlik va parlamentar",
+    "Oddiy (unitar) va murakkab (federativ, konfederativ)",
+    "Demokratik va nodemokratik",
+    "Monarxiya va respublika"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Unitar” so'zi qaysi tildan olingan va qanday ma'noni bildiradi?",
+   "options": [
+    "Lotincha; “ittifoq”, “birlashma”",
+    "Lotincha; “oddiy”, “yagona”",
+    "Yunoncha; “xalq hokimiyati”",
+    "Arabcha; “jamlangan”, “birlashgan”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Butun bir mamlakat miqyosida umumiy tizimga ega bo'lgan qonunchilik, ijro va sud idoralari bo'ladigan davlat qanday tuzilish shakliga ega?",
+   "options": [
+    "Unitar",
+    "Federativ",
+    "Aralash",
+    "Konfederativ"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Unitar davlatning belgilari TO'G'RI berilgan javobni aniqlang!\nI. Yagona konstitutsiya, yagona qonunchilik tizimi; II. Subyektlarning alohida konstitutsiyasi; III. Yagona armiya; IV. Yagona pul birligi; V. Ikki palatali parlamentning yuqori palatasi subyektlar manfaatini ifoda etishi; VI. Yagona fuqarolik.",
+   "options": [
+    "II, III, V va VI",
+    "II, IV, V va VI",
+    "I, II, IV va V",
+    "I, III, IV va VI"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Unitar davlatning belgilari qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Federatsiya hududi uning subyektlari hududi yig'indisidan iborat bo'lishi",
+    "Barcha ma'muriy-hududiy birliklar uchun umumiy bo'lgan soliq va kredit siyosati",
+    "Qat'iy tartibdagi ma'muriy-hududiy tuzilishga egaligi",
+    "Yagona fuqarolik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Bir necha davlatlarning birlashuvidan hosil bo'lgan murakkab, ittifoqdosh davlat” — bu qaysi tuzilish shakli?",
+   "options": [
+    "Federativ davlat",
+    "Konfederatsiya",
+    "Unitar davlat",
+    "Teokratik davlat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h8-05-32.jpg"
+  },
+  {
+   "q": "Federatsiya subyektlari o'zaro birlashganidan keyin asosiy hokimiyat vakolatlari kimga beriladi?",
+   "options": [
+    "Xalqaro tashkilotlarga",
+    "Federatsiyaning markaziy organlariga",
+    "Mahalliy vakillik organlariga",
+    "Federatsiya subyektlariga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Federativ davlatning belgilari TO'G'RI berilgan javobni aniqlang!\nI. Federatsiya hududi uning subyektlari hududi yig'indisidan iborat bo'ladi; II. Yagona hudud va yagona fuqarolik bo'lmaydi; III. Oliy qonun chiqaruvchi, ijro etuvchi va sud hokimiyati federal davlat idoralariga tegishli bo'ladi; IV. Federatsiya subyektlarining har biri o'z konstitutsiyasi, qonun chiqaruvchi, ijro etuvchi va sud organlariga ega bo'ladi; V. Har bir subyekt xalqaro huquqning teng huquqli subyekti bo'ladi.",
+   "options": [
+    "I, II va V",
+    "I, III va IV",
+    "II, IV va V",
+    "II, III va V"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Federativ davlatda oliy qonun chiqaruvchi idora odatda necha palatali bo'ladi va uning yuqori palatasi nimani ifoda etadi?",
+   "options": [
+    "Uch palatali; yuqori palata sud hokimiyatini ifoda etadi",
+    "Ikki palatali; yuqori palata faqat siyosiy partiyalar manfaatini ifoda etadi",
+    "Ikki palatali; yuqori palata federatsiya a'zolarining manfaatlarini ifoda etadi",
+    "Bir palatali; federatsiya markaziy hokimiyati manfaatini ifoda etadi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Federatsiyaning umumiy konstitutsiyasi nimani belgilaydi?",
+   "options": [
+    "Faqat xalqaro shartnomalar tartibini",
+    "Faqat soliq stavkalarini",
+    "Faqat subyektlarning ma'muriy chegaralarini",
+    "Federatsiya subyektlari va markaziy hokimiyat o'rtasidagi huquqiy munosabatlarni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikka ko'ra hozirda jahonda nechta federativ davlat mavjud?",
+   "options": [
+    "10 tadan ortiq",
+    "Taxminan 15 ta",
+    "20 tadan ortiq",
+    "50 tadan ortiq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlatlar u yoki bu maqsadni ko'zlab, o'z suvereniteti va mustaqilligini saqlagan holda birlashsa, bunday ittifoq qanday ataladi?",
+   "options": [
+    "Federatsiya",
+    "Monarxiya",
+    "Konfederatsiya",
+    "Unitar davlat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konfederatsiyaga xos belgilarni aniqlang!\nI. Yagona hudud bo'lmaydi; II. Yagona pul birligi mavjud; III. Yagona fuqarolik bo'lmaydi; IV. Har bir davlat xalqaro huquqning teng huquqli subyekti bo'ladi; V. Yagona konstitutsiya va qonunchilik tizimi bo'ladi.",
+   "options": [
+    "I, III va IV",
+    "I, II va V",
+    "II, IV va V",
+    "II, III va V"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davlat qadimda konfederativ davlat shaklida tashkil topgan bo'lsa-da, bugungi kunda konstitutsiyaviy islohotlar natijasida federativ davlat sifatida e'tirof etiladi?",
+   "options": [
+    "Daniya",
+    "Norvegiya",
+    "Shveysariya",
+    "Italiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikka ko'ra hozirgi davrda konfederativ davlatlar haqidagi TO'G'RI fikrni aniqlang!",
+   "options": [
+    "Sof ko'rinishdagi konfederativ davlat uchramaydi",
+    "Barcha federativ davlatlar aslida konfederatsiyadir",
+    "Konfederatsiyada yagona fuqarolik mavjud bo'ladi",
+    "Jahonda 20 tadan ortiq konfederativ davlat mavjud"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni toping.\na) ma'muriy-hududiy tashkil etilishga ega.\nb) yagona konstitutsiya, yagona qonunchilik tizimi;\nc) “oddiy”, “yagona” ma'nosini bildiradi;\nd) subyektlarining alohida konstitutsiyasi bo'ladi;\ne) davlatning tuzilish shakli;\nf) murakkab, ittifoqdosh davlat;",
+   "options": [
+    "I-d, f; II-b, c; III-a, e",
+    "I-b, c; II-d, f; III-a, e",
+    "I-b, c; II-a, e; III-d, f",
+    "I-b, e; II-d, f; III-a, c"
+   ],
+   "answer": 1,
+   "image": "img/h8-05-42.jpg"
+  },
+  {
+   "q": "“Davlat hokimiyatini amalga oshirish usullari va uslublari tizimi” — bu nima?",
+   "options": [
+    "Siyosiy tartibot",
+    "Davlat funksiyasi",
+    "Boshqaruv shakli",
+    "Tuzilish shakli"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mamlakatdagi siyosiy vaziyat, ya'ni jamiyatdagi siyosiy erkinlik darajasini nima belgilaydi?",
+   "options": [
+    "Davlatning hududi",
+    "Siyosiy tartibot",
+    "Davlatning tuzilish shakli",
+    "Davlatning boshqaruv shakli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Siyosiy tartibot qanday turlarga bo'linadi?",
+   "options": [
+    "Unitar va federativ",
+    "Demokratik va nodemokratik",
+    "Monarxiya va respublika",
+    "Fashistik va teokratik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Demokratiya” so'zi qaysi tildan olingan va qanday ma'noni anglatadi?",
+   "options": [
+    "Arabcha; “jamoa”",
+    "Lotincha; “oddiy”, “yagona”",
+    "Lotincha; “xalq irodasi”",
+    "Yunoncha; “xalq hokimiyati”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikka ko'ra demokratik hokimiyatning yagona manbai nima hisoblanadi?",
+   "options": [
+    "Siyosiy partiyalar dasturi",
+    "Prezident farmoni",
+    "Xalq irodasi",
+    "Parlament qarori"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Demokratik tartibot belgilari TO'G'RI berilgan javobni aniqlang!\nI. Shaxs o'z huquqlarini amalga oshirishda qonunga zid bo'lmagan holda erkin bo'lishi; II. Yagona partiyaning hukmronligi; III. Hokimiyat vakolatlarining bo'linishi; IV. Biron-bir irqning hukmronligi e'lon qilinishi; V. Ijtimoiy hayotda fikrlar turli xilligi (pluralizm); VI. Qonun ustuvorligi.",
+   "options": [
+    "II, III, IV va V",
+    "I, III, V va VI",
+    "II, IV, V va VI",
+    "I, II, IV va VI"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h8-05-49.jpg"
+  },
+  {
+   "q": "Demokratik davlatda g'oyaviy va siyosiy pluralizm konstitutsiya tomonidan qo'llab-quvvatlanishi natijasida nimaga ruxsat etiladi?",
+   "options": [
+    "Faqat bitta partiyaning faoliyatiga",
+    "Parlamentni tarqatib yuborishga",
+    "Siyosiy partiyalarning faoliyatiga",
+    "Muxolifatni ta'qib qilishga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Demokratik saylovda g'alaba qozongan siyosiy partiyalar qanday huquqqa ega bo'ladilar?",
+   "options": [
+    "Hukumatni tuzish va o'z siyosatini o'tkazish huquqiga",
+    "Konstitutsiyani bekor qilish huquqiga",
+    "Sud qarorlarini bekor qilish huquqiga",
+    "Boshqa partiyalarni taqiqlash huquqiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nodemokratik tartibotga xos belgilarni aniqlang!\nI. Davlat idoralari demokratik tamoyillar va qoidalarga rioya etmaydi; II. Fuqarolarning huquq va erkinliklari poymol etiladi; III. Hokimiyat vakolatlari bo'linadi; IV. Muxolifat ba'zan juda shafqatsizlik bilan bartaraf etiladi; V. Ba'zida parlament singari demokratik institutlar yo'q qilinadi; VI. Pluralizm qo'llab-quvvatlanadi.",
+   "options": [
+    "I, III, V va VI",
+    "III, IV, V va VI",
+    "I, II, IV va V",
+    "II, III, IV va VI"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nodemokratik tartibotlar ichida darslikda qaysilari haqida alohida to'xtalib o'tilgan?",
+   "options": [
+    "Monarxiya va respublika",
+    "Teokratik va an'anaviy tartibotlar",
+    "Unitar va federativ tartibotlar",
+    "Fashistik va totalitar tartibotlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fashistik tartibotning belgilari TO'G'RI berilgan javobni aniqlang!\nI. Har qanday hukmron muxolifat yakson etiladi; II. Ijtimoiy hayotda pluralizm qo'llab-quvvatlanadi; III. Biron-bir irqning hukmronligi e'lon qilinadi; IV. Hokimiyat vakolatlari bo'linadi; V. Boshqa hududlarni bosib olishga harakat kuchayadi.",
+   "options": [
+    "I, III va V",
+    "II, IV va V",
+    "II, III va V",
+    "I, II va IV"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikda fashistik tartibotga qaysi davlatlar misol qilib keltirilgan?",
+   "options": [
+    "Sobiq Sovet Ittifoqi",
+    "XIX asrdagi Fransiya va Ispaniya",
+    "1933–1945-yillardagi Germaniya va o'sha davrdagi Italiya",
+    "1945–1950-yillardagi Yaponiya va Turkiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yagona partiyaning hukmronligi, huquq va erkinliklarning poymol etilishi kabi salbiy xususiyatlarga ega bo'lgan tartibot qanday ataladi?",
+   "options": [
+    "Totalitar tartibot",
+    "Demokratik tartibot",
+    "Fashistik tartibot",
+    "Teokratik tartibot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Totalitar tartibotga xos belgilarni aniqlang!\nI. O'zgacha fikrlarga qarshi kurashiladi; II. Saylovchilarning saylovda muqobil deputatlarni saylash imkoniyati bo'lmaydi; III. Fuqarolar umume'tirof etilgan huquq va erkinliklardan to'la foydalanadi; IV. Yagona partiya hukmronlik qiladi; V. Hokimiyat vakolatlari bo'linadi.",
+   "options": [
+    "I, III va V",
+    "I, II va IV",
+    "II, III va V",
+    "III, IV va V"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikda totalitar davlat misoli sifatida qaysi davlat keltirilgan?",
+   "options": [
+    "Vatikan",
+    "Fashistlar Germaniyasi",
+    "Fashistlar Italiyasi",
+    "Sobiq Sovet Ittifoqi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni toping.\na) nodemokratik tartibot turi;\nb) 1933–1945-yillardagi Germaniya va Italiya;\nc) yagona partiyaning hukmronligi;\nd) sobiq Sovet Ittifoqi;\ne) fuqarolarning huquq va erkinliklari poymol etiladi.\nf) biron-bir irqning hukmronligi e'lon qilinadi;",
+   "options": [
+    "I-c, d; II-b, f; III-a, e",
+    "I-b, f; II-a, e; III-c, d",
+    "I-b, f; II-c, d; III-a, e",
+    "I-a, f; II-c, d; III-b, e"
+   ],
+   "answer": 2,
+   "image": "img/h8-05-59.jpg"
+  }
+ ]
+}

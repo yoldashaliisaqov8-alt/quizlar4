@@ -1,0 +1,176 @@
+{
+ "title": "Huquq 8-sinf · 33-dars. Mehnat qonunchiligida voyaga yetmaganlarning huquqlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Har bir insonning qadr-qimmati o'z ishini qoyil qilib bajarishidadir” — ushbu fikr muallifi kim?",
+   "options": [
+    "Abu Ali ibn Sino",
+    "Arastu",
+    "Al-Xorazmiy",
+    "Abu Rayhon Beruniy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'quvchilar o'qishdan bo'sh vaqtida yengil ishni bajarishi uchun necha yoshga to'lganidan keyin va qanday sharoitda ishga qabul qilinishi mumkin?",
+   "options": [
+    "12 yoshdan, maktab direktori roziligi bilan",
+    "15 yoshga to'lganidan keyin, ota-onasidan birining (yoki o'rnini bosuvchi shaxsning) yozma roziligi bilan",
+    "14 yoshdan, hech kimning roziligisiz",
+    "16 yoshdan, faqat sud ruxsati bilan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Voyaga yetmaganlar mehnatidan noqonuniy foydalanish hisoblanadigan holatlarni aniqlang!\nI. Mehnat qilish yoshiga to'lmagan voyaga yetmaganlarni ishga qabul qilish; II. 15 yoshli o'quvchini ota-onasining yozma roziligi bilan yengil ishga olish; III. Sog'lig'i, xavfsizligi yoki axloq-odobiga ziyon yetkazishi mumkin bo'lgan ishlarda foydalanish; IV. Jazo qo'llash tahdidi bilan ish bajarishga majburlash.",
+   "options": [
+    "I, III va IV",
+    "I, II va III",
+    "II, III va IV",
+    "I, II va IV"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Voyaga yetmaganlar mehnatidan biron-bir jazoni qo'llash tahdidi bilan majburlash orqali foydalanish qanday ataladi?",
+   "options": [
+    "Ta'lim jarayoni",
+    "Ijtimoiy foydali mehnat",
+    "Noqonuniy foydalanish va majburiy mehnat",
+    "Ixtiyoriy mehnat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mehnat kodeksining 412-moddasiga ko'ra 18 yoshgacha bo'lgan shaxslar mehnatini qo'llash taqiqlangan ishlar qatorida berilMAGAN javobni aniqlang!",
+   "options": [
+    "Mehnat sharoiti zararli va xavfli ishlar",
+    "O'qishdan bo'sh vaqtdagi yengil ishlar",
+    "Yerosti ishlari",
+    "Tungi kafe va klublardagi ishlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "18 yoshgacha bo'lgan xodimlar mehnati taqiqlanadigan ishlar ro'yxati qaysi organlar tomonidan tasdiqlanadi?",
+   "options": [
+    "Maktabgacha va maktab ta'limi vazirligi tomonidan",
+    "Faqat Vazirlar Mahkamasi tomonidan",
+    "Bandlik va mehnat munosabatlari vazirligi hamda Sog'liqni saqlash vazirligi tomonidan",
+    "Ichki ishlar vazirligi tomonidan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qishdan bo'sh vaqtlarida ishlayotgan o'quvchilarning ish vaqti qancha bo'lishi mumkin?",
+   "options": [
+    "Kuniga 10 soatgacha",
+    "16–18 yoshdagi bolalar ish vaqti eng ko'p muddatining yarmidan ortib ketmasligi kerak",
+    "Kattalar bilan bir xil",
+    "Cheklanmagan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bolalarni qanday ishlarga jalb qilish mumkin emas?\nI. Tungi ishlarga; II. Ish vaqtidan tashqari ishlarga; III. Dam olish kunlaridagi ishlarga; IV. O'qishdan bo'sh vaqtdagi yengil ishlarga.",
+   "options": [
+    "I, III va IV",
+    "I, II va IV",
+    "I, II va III",
+    "II, III va IV"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ham o'qib, ham mehnat qilishni xohlovchi voyaga yetmagan bolalarga mehnat qonunchiligida berilgan imtiyozlarga misolni aniqlang!",
+   "options": [
+    "Soliqdan to'liq ozod qilish",
+    "Tungi ishga ustuvor qabul qilish",
+    "Ikki baravar ish haqi",
+    "Qo'shimcha ta'tilga chiqish, qisqartirilgan ish haftasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mehnat qonunchiligiga ko'ra 18 yoshgacha bo'lgan shaxslar mehnatga oid yakka tartibdagi huquqiy munosabatlarda qanday huquqqa ega?",
+   "options": [
+    "Katta yoshdagi xodimlar bilan teng huquqlarga ega",
+    "Faqat ota-onasi orqali huquqqa ega",
+    "Hech qanday huquqqa ega emas",
+    "Kattalardan kam huquqqa ega"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "16 yoshdan 18 yoshgacha bo'lgan bolalar uchun ish vaqti haftasiga qancha soatdan oshmasligi kerak?",
+   "options": [
+    "36 soatdan",
+    "30 soatdan",
+    "40 soatdan",
+    "24 soatdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ta'til davrida ishlayotgan 15 yoshdan 16 yoshgacha bo'lgan o'quvchilar uchun ish vaqti haftasiga qancha soatdan oshmasligi kerak?",
+   "options": [
+    "18 soatdan",
+    "30 soatdan",
+    "24 soatdan",
+    "36 soatdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "15–16 yoshgacha bo'lgan xodimlarning olti kunlik ish haftasida har kunlik ish vaqti qancha vaqtdan oshmasligi kerak?",
+   "options": [
+    "Ikki soatdan",
+    "Olti soatdan",
+    "Besh soatdan",
+    "To'rt soatdan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "16–18 yoshgacha bo'lgan xodimlarning besh kunlik ish haftasida har kunlik ish vaqti qancha vaqtdan oshmasligi kerak?",
+   "options": [
+    "Besh soatdan",
+    "Yetti soat-u o'ttiz daqiqadan",
+    "Sakkiz soatdan",
+    "Olti soatdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'quv yili davomida ishni o'qish bilan birga olib boruvchi 15–16 yoshgacha bo'lgan o'quvchilarning olti kunlik ish haftasida har kunlik ish vaqti qancha?",
+   "options": [
+    "Ikki soatdan oshmasligi kerak",
+    "To'rt soatdan oshmasligi kerak",
+    "Ikki soat-u o'ttiz daqiqadan oshmasligi kerak",
+    "Uch soatdan oshmasligi kerak"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'quv yili davomida o'qish bilan birga ishlaydigan 16–18 yoshgacha bo'lgan o'quvchilarning besh kunlik ish haftasida har kunlik ish vaqti qancha?",
+   "options": [
+    "To'rt soatdan oshmasligi kerak",
+    "Ikki soatdan oshmasligi kerak",
+    "Olti soatdan oshmasligi kerak",
+    "Uch soatdan oshmasligi kerak"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarixiy shaxslarni ular davlatni boshqara boshlagan yoshi bilan TO'G'RI moslashtiring!\nJADVAL0:\n1 | Mirzo Ulug'bek | a | 12 yoshida Andijon taxtiga o'tirgan\n2 | Zahiriddin Bobur | b | 15 yoshida Yaponiya imperatori bo'lgan\n3 | Mutsuxito (Meydzi) | c | 15–16 yoshidan Samarqandni boshqara boshlagan",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-c, 2-a, 3-b"
+   ],
+   "answer": 3
+  }
+ ]
+}

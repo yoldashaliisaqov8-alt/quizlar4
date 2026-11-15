@@ -1,0 +1,127 @@
+{
+ "title": "Huquq 10-sinf · 14-dars. Oilada bolalarning huquq va majburiyatlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Odamlar! Eng avvalo ezgu axloqqa ega bo'lishga harakat qiling, zero, axloq qonunning asosidir” degan fikr muallifi kim?",
+   "options": [
+    "Pifagor",
+    "Platon",
+    "Suqrot",
+    "Aristotel"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "BMTning Bola huquqlari to'g'risidagi konvensiyasi qachon qabul qilingan?",
+   "options": [
+    "1948-yil 10-dekabrda",
+    "1979-yil 18-dekabrda",
+    "1989-yil 1-iyunda",
+    "1989-yil 20-noyabrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Bola huquqlarining kafolatlari to'g'risida”gi qonunga ko'ra “bola” kim?",
+   "options": [
+    "O'n sakkiz yoshga to'lgunga qadar bo'lgan shaxs",
+    "Maktabni bitirgunga qadar bo'lgan shaxs",
+    "O'n olti yoshga to'lgunga qadar bo'lgan shaxs",
+    "O'n to'rt yoshga to'lgunga qadar bo'lgan shaxs"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h10-09-04.jpg"
+  },
+  {
+   "q": "Oliy Majlisning Bola huquqlari bo'yicha vakili (Bolalar ombudsmani) instituti qaysi hujjat bilan ta'sis etilgan?",
+   "options": [
+    "Prezidentning 2021-yil 9-avgustdagi PF-6275- sonli farmoni",
+    "Prezidentning 2021-yil 14-yanvardagi PQ-4951- son qarori",
+    "Vazirlar Mahkamasining 2012-yildagi 139-son qarori",
+    "Prezidentning 2022-yil 7-martdagi farmoni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ota-onasining nikohdan ajralishi bolaning huquqlariga qanday ta'sir qiladi?",
+   "options": [
+    "Bola faqat ona bilan ko'rishish huquqiga ega bo'ladi",
+    "Ta'sir qilmaydi",
+    "Bolaning familiyasi o'zgartiriladi",
+    "Bola ota-onadan ta'minot olish huquqini yo'qotadi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bolaning familiyasi qanday belgilanadi?",
+   "options": [
+    "Bobosining ismiga qarab",
+    "Faqat otaning familiyasiga qarab",
+    "Ota-onaning familiyasiga qarab",
+    "FHDY organi tomonidan ixtiyoriy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Farzandlar ota-onalarining nasl- nasabidan va fuqarolik holatidan qat'i nazar, qonun oldida tengligi Konstitutsiyaning qaysi moddasida belgilangan?",
+   "options": [
+    "80-moddasida",
+    "76-moddasida",
+    "55-moddasida",
+    "78-moddasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ota-onasining davlat yoki nodavlat muassasasi qaramog'ida ekanligi voyaga yetgan mehnatga layoqatli bolalarni ota-onaga yordam berish majburiyatidan ozod qiladimi?",
+   "options": [
+    "Faqat davlat muassasasida bo'lsa ozod qiladi",
+    "Yo'q, ozod qilmaydi",
+    "Faqat sud qarori bilan ozod qiladi",
+    "Ha, to'liq ozod qiladi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ota-onasiga moddiy yordam berish to'g'risidagi sudning hal qiluv qarorini bajarmaslik qanday javobgarlikka sabab bo'ladi?",
+   "options": [
+    "Hech qanday javobgarlikka sabab bo'lmaydi",
+    "Faqat axloqiy javobgarlikka",
+    "Faqat intizomiy javobgarlikka",
+    "Jinoiy javobgarlikka"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bola huquqlari bo'yicha qonunning 10- moddasida belgilangan huquqlarni aniqlang! I. erkinlik va shaxsiy daxlsizlik; II. turarjoy daxlsizligi; III. xat-xabarlarini sir tutish; IV. saylash va saylanish",
+   "options": [
+    "I, II, IV",
+    "I, II, III",
+    "II, III, IV",
+    "I, IV"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bolalarning ta'lim-tarbiyasiga taalluqli masalalar qanday hal etiladi?",
+   "options": [
+    "Faqat vasiylik va homiylik organi tomonidan",
+    "Faqat maktab ma'muriyati tomonidan",
+    "Bolalar manfaatidan kelib chiqib, ularning fikrini hisobga olgan holda ota-ona tomonidan o'zaro kelishuv asosida",
+    "Faqat ota tomonidan"
+   ],
+   "answer": 2
+  }
+ ]
+}

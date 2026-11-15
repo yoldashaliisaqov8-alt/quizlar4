@@ -1,0 +1,86 @@
+{
+ "title": "Huquq 9-sinf · 17-dars. Inson va fuqarolarning asosiy huquq va erkinliklari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Inson huquqlari va qonun ustuvorligi hurmat qilinmasa, barqaror tinchlik va rivojlanish bo'lmaydi” — ushbu fikr muallifi kim?",
+   "options": [
+    "Kofi Annan",
+    "Jan Eliasson",
+    "Indira Gandi",
+    "Martin Lyuter King"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikka ko'ra erkinlik nima?",
+   "options": [
+    "Inson uchun oliy ne'mat bo'lib, uning qonunda taqiqlanmagan har qanday ishni qila olishi",
+    "Har qanday ishni, shu jumladan taqiqlanganini ham qila olish",
+    "Faqat siyosiy faoliyat bilan shug'ullanish",
+    "Faqat davlat ruxsat bergan ishni qilish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiyaning qaysi bo'limi inson va fuqarolarning asosiy huquqlari, erkinliklari va burchlariga bag'ishlangan?",
+   "options": [
+    "Uchinchi bo'limi",
+    "Beshinchi bo'limi",
+    "Birinchi bo'limi",
+    "Ikkinchi bo'limi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiya inson huquqlariga oid qanday muhim qoidalarga asoslangan? TO'G'RI javobni aniqlang! I. Inson huquqlarini himoya qilish — davlatning majburiyati; II. Huquqlar tizimi xalqaro huquq normalariga mos kelishi; III. Huquqlar faqat 18 yoshdan tegishli bo'lishi; IV. Huquqlar sud organlari tomonidan himoya qilinishi; V. Huquqlarni amalga oshirishda boshqalarning huquqlarini poymol qilmaslik.",
+   "options": [
+    "II, III, IV va V",
+    "I, III, IV va V",
+    "I, II, IV va V",
+    "I, II, III va IV"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Barcha ashyolarning mezoni insondir” — ushbu fikr muallifi kim?",
+   "options": [
+    "Qadimgi yunon faylasufi Protagor",
+    "Arastu",
+    "Aflotun",
+    "Suqrot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Inson huquqlari qanday turlarga bo'linadi?",
+   "options": [
+    "Faqat fuqarolarga beriladigan huquqlar",
+    "Tug'ilish bilan vujudga keladigan tabiiy huquqlar va davlat tomonidan beriladigan siyosiy, iqtisodiy, ijtimoiy, madaniy huquqlar",
+    "Faqat xalqaro huquqlar",
+    "Faqat siyosiy va iqtisodiy huquqlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyadagi huquqlar guruhlarini ular joylashgan bob va moddalar bilan TO'G'RI moslashtiring! 1 Shaxsiy huquq va erkinliklar a VIII bob, 36– 40-moddalar 2 Siyosiy huquqlar b IX bob, 41– 53-moddalar 3 Iqtisodiy, ijtimoiy, madaniy va c VII bob, 25– ekologik huquqlar 35-moddalar",
+   "options": [
+    "1-c, 2-b, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-c, 2-a, 3-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyada mustahkamlangan huquq va erkinliklar mos keladigan xalqaro hujjatlar va ular qabul qilingan yillar TO'G'RI berilgan javobni aniqlang!",
+   "options": [
+    "Inson huquqlari umumjahon deklaratsiyasi (1966), ikki xalqaro pakt (1948)",
+    "Inson huquqlari umumjahon deklaratsiyasi (1948), ikki xalqaro pakt (1976)",
+    "Inson huquqlari umumjahon deklaratsiyasi (1948), Fuqaroviy va siyosiy huquqlar to'g'risidagi pakt (1966), Iqtisodiy, ijtimoiy va madaniy huquqlar to'g'risidagi pakt (1966)",
+    "BMT Nizomi (1945), Bola huquqlari konvensiyasi (1989)"
+   ],
+   "answer": 2
+  }
+ ]
+}

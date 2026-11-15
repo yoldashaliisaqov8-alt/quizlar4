@@ -1,0 +1,167 @@
+{
+ "title": "Huquq 10-sinf · 21-dars. Majburiyatlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Hayotda muvaffaqiyatga erishish uchun uch narsa kerak: diqqat, intizom va harakat” degan fikr muallifi kim?",
+   "options": [
+    "Konfutsiy",
+    "Benjamin Franklin",
+    "Mahatma Gandi",
+    "Jaloliddin Rumiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fuqarolik huquqida bir shaxs (qarzdor) boshqa shaxs (kreditor) foydasiga muayyan harakatni amalga oshirishi, kreditor esa buni talab qilish huquqiga ega bo'lishi nima deb ataladi?",
+   "options": [
+    "Kafolat",
+    "Majburiyat",
+    "Bitim",
+    "Burch"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ijtimoiy ma'noda majburiyat qaysi tushuncha bilan bog'liq?",
+   "options": [
+    "Mulk",
+    "Erkinlik",
+    "Huquq",
+    "Burch"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Majburiyat kelib chiqish asoslariga ko'ra qanday guruhlarga bo'linadi?",
+   "options": [
+    "Mulkiy va nomulkiy majburiyat",
+    "Og'zaki va yozma majburiyat",
+    "Bir taraflama va ko'p taraflama majburiyat",
+    "Shartnomaga asoslangan va shartnomaga asoslanmagan majburiyat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shartnomaga asoslanmagan majburiyat nimadan kelib chiqadi?",
+   "options": [
+    "Zarar yetkazishdan",
+    "Mulk ijarasidan",
+    "Taraflarning kelishuvidan",
+    "Oldi-sotdi shartnomasidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqarolik kodeksiga ko'ra ma'naviy zarar qanday qoplanadi?",
+   "options": [
+    "Qoplanmaydi",
+    "Faqat uzr so'rash bilan",
+    "Pul bilan",
+    "Mol-mulk bilan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Majburiyatning taraflari kimlar?",
+   "options": [
+    "Garovga qo'yuvchi va kafil",
+    "Offerent va akseptant",
+    "Kreditor va qarzdor",
+    "Sotuvchi va sotib oluvchi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Majburiyatni bajarishdan bir tomonlama bosh tortishga yo'l qo'yiladimi?",
+   "options": [
+    "Yo'l qo'yilmaydi",
+    "Faqat qarzdor uchun yo'l qo'yiladi",
+    "Faqat kreditor uchun yo'l qo'yiladi",
+    "Har doim yo'l qo'yiladi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h10-14-09.jpg"
+  },
+  {
+   "q": "Qarzdor majburiyatni bajarmaganda kreditorga to'laydigan pul summasi nima deb ataladi?",
+   "options": [
+    "Neustoyka",
+    "Garov",
+    "Kafillik",
+    "Aliment"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Neustoyka qanday shakllarda bo'ladi?",
+   "options": [
+    "Garov yoki ipoteka shaklida",
+    "Kafillik yoki kafolat shaklida",
+    "Hadya yoki xayr-ehson shaklida",
+    "Jarima yoki penya shaklida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Majburiyatni ta'minlashning eng ko'p tarqalgan usuli qaysi?",
+   "options": [
+    "Neustoyka",
+    "Zakalat",
+    "Garov",
+    "Kafillik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bir shaxsning boshqa shaxsga mol- mulkni yoki unga bo'lgan huquqni majburiyatlarini ta'minlash uchun berishi nima deb ataladi?",
+   "options": [
+    "Hadya",
+    "Garov",
+    "Neustoyka",
+    "Ijara"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Garov turlari qaysi javobda to'g'ri ko'rsatilgan?",
+   "options": [
+    "Kafillik, kafolat",
+    "Zakalat, ipoteka",
+    "Oferta, aksept",
+    "Jarima, penya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qarzdor majburiyatlarining bajarilishi uchun uchinchi shaxs javobgar bo'ladigan fuqarolik-huquqiy munosabat qanday ataladi?",
+   "options": [
+    "Garov",
+    "Neustoyka",
+    "Kafillik",
+    "Vakillik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Majburiyat, qoida tariqasida, qachon bekor bo'ladi?",
+   "options": [
+    "Bir yil o'tgach",
+    "Lozim darajada bajarilishi bilan",
+    "Kreditor vafot etganda",
+    "Qarzdor rad etganda"
+   ],
+   "answer": 1
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "title": "Huquq 11-sinf · 29-dars. Ekologiya huquqi tushunchasi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Atrof-muhitni muhofaza qilish, tabiiy boyliklardan oqilona foydalanish va ekologik xavfsizlikni ta'minlashga qaratilgan huquqiy normalar tizimi qaysi?",
+   "options": [
+    "Ma'muriy huquq",
+    "Ekologiya huquqi",
+    "Fuqarolik huquqi",
+    "Agrar huquq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Har kimning qulay atrof-muhitga va uning holati to'g'risidagi ishonchli axborotga ega bo'lish huquqi Konstitutsiyaning qaysi moddasida belgilangan?",
+   "options": [
+    "43-moddasida",
+    "49-moddasida",
+    "68-moddasida",
+    "62-moddasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fuqarolarning atrof tabiiy muhitga ehtiyotkorona munosabatda bo'lish majburiyati Konstitutsiyaning qaysi moddasida belgilangan?",
+   "options": [
+    "68-moddasida",
+    "29-moddasida",
+    "62-moddasida",
+    "49-moddasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h11-21-04.jpg"
+  },
+  {
+   "q": "BMTning atrof-muhit bo'yicha maxsus dasturi (YUNEP) qachon va qayerda tashkil etilgan?",
+   "options": [
+    "1945-yilda San-Fransiskoda",
+    "1992-yilda Rio-de-Janeyroda",
+    "1972-yilda Nayrobida",
+    "1972-yilda Stokgolmda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "YUNEPning bosh qarorgohi qayerda joylashgan?",
+   "options": [
+    "AQSHning Nyu-York shahrida",
+    "Shveytsariyaning Jeneva shahrida",
+    "Shvetsiyaning Stokgolm shahrida",
+    "Keniya poytaxti Nayrobi shahrida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "YUNEP tashabbusi bilan har yili qaysi kun “Butunjahon atrof-muhit kuni” sifatida nishonlanadi?",
+   "options": [
+    "16-sentyabr",
+    "1-iyun",
+    "5-iyun",
+    "22-aprel"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mamlakat hududida daraxt ekish orqali yashil maydonlarni kengaytirishga qaratilgan umummilliy ekologik loyiha qanday nomlanadi?",
+   "options": [
+    "“Toza havo”",
+    "“Yashil iqtisodiyot”",
+    "“Obod mahalla”",
+    "“Yashil makon”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Transchegaraviy chang-qum bo'ronlari ta'sirini kamaytirish uchun “Yashil makon” loyihasi doirasida nimalar yaratilmoqda?",
+   "options": [
+    "“Yashil qalqon”lar",
+    "“Yashil jamoat parklari”",
+    "“Yashil to'lov” platformalari",
+    "Suv omborlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekistonda atrof-muhit muhofazasiga oid asosiy qonun hujjatlari qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Yer kodeksi",
+    "Mehnat kodeksi",
+    "“Atmosfera havosini muhofaza qilish to'g'risida”gi qonun",
+    "“Suv va suvdan foydalanish to'g'risida”gi qonun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi davlatda 2017-yildan boshlab bir martalik plastik paketlardan foydalanish to'liq taqiqlangan?",
+   "options": [
+    "Keniyada",
+    "Shvetsiyada",
+    "Singapurda",
+    "Yaponiyada"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abu Rayhon Beruniyning 300 dan ziyod minerallarning xususiyatlarini tushuntirib bergan asari qaysi?",
+   "options": [
+    "“Mineralogiya” (“Kitob al-jamohir fi ma'rifat al-javohir”)",
+    "“Qadimgi xalqlardan qolgan yodgorliklar”",
+    "“Tib qonunlari”",
+    "“Hindiston”"
+   ],
+   "answer": 0
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "title": "Huquq 8-sinf · 3-dars. Jamiyat",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Agar qilmadi el himoyat senga, O'zingdin kerakdir shikoyat senga” — ushbu misralar muallifi kim?",
+   "options": [
+    "Amir Temur",
+    "Abu Ali ibn Sino",
+    "Konfutsiy",
+    "Alisher Navoiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ibtidoiy jamoa tuzumi davrida odamlar ilk bora to'da, urug' jamoalari va qabilalarga birlashganlarida nima qilganlar?",
+   "options": [
+    "Yozma qonunlar to'plamini qabul qilganlar",
+    "Soliq tizimini joriy etganlar",
+    "Sud va prokuratura organlarini tuzganlar",
+    "O'zlariga yo'lboshchi, urug' va qabila boshliqlarini tayinlaganlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikka ko'ra mehnat taqsimotini nima keltirib chiqargan?",
+   "options": [
+    "Yozuvning kashf etilishi",
+    "Davlatning paydo bo'lishi",
+    "Mehnat qurollarining takomillashuv jarayoni",
+    "Shaharlarning vujudga kelishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mehnat taqsimoti natijasida qanday maqsad va mashg'ulotga ega kishilarning maxsus guruhlari vujudga kelgan?",
+   "options": [
+    "Diniy marosimlarni o'tkazish",
+    "Xususiy mulkchilik munosabatlari va mulkdorlar manfaatini muhofaza qilish",
+    "Faqat dehqonchilik va chorvachilik bilan shug'ullanish",
+    "Qabilalar o'rtasida savdo-sotiq qilish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Odamlarning birgalikdagi hayotiy faoliyatlarida birlashgan muayyan murakkab tuzilma” — bu nima?",
+   "options": [
+    "Jamiyat",
+    "Qabila",
+    "Davlat",
+    "Oila"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra jamiyat haqidagi TO'G'RI fikrni aniqlang!",
+   "options": [
+    "Jamiyat odamlarning oddiy guruhi yoki to'plami emas, balki muayyan qoidalarga asosan birlashgan jamoasidir",
+    "Jamiyat odamlarning tasodifiy, oddiy to'plamidir",
+    "Jamiyatda biologik qonunlar ustuvor bo'ladi",
+    "Jamiyat faqat bir xil huquqli kishilardan tashkil topadi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Jamiyat” so'zi qaysi tildan olingan va qanday ma'nolarni bildiradi?",
+   "options": [
+    "Yunoncha; “xalq hokimiyati”",
+    "Arabcha; “jamoa”, “jamlangan”, “birlashgan”",
+    "Forscha; “to'plam”, “guruh”, “el”",
+    "Lotincha; “xalq”, “birlik”, “hamjamiyat”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Muayyan hududda yashovchi, o'z ehtiyoj va manfaatlariga ko'ra birlashgan kishilardan iborat jamoa” — ushbu ta'rif qaysi tushunchaga tegishli?",
+   "options": [
+    "Siyosiy partiya",
+    "Davlat",
+    "Mahalla",
+    "Jamiyat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Jamoa a'zolarining barchasi uchun majburiy-huquqiy qonunlar zarur bo'ladi. Jamoaning barcha a'zolari mehnat bilan shug'ullanmoqlari zarur” — ushbu fikr muallifi va asarini aniqlang!",
+   "options": [
+    "Nizomulmulk, “Siyosatnoma”",
+    "Alisher Navoiy, “Mahbub ul-qulub”",
+    "Abu Ali ibn Sino, “Al-ishorat va al-tanbihot”",
+    "Abu Nasr Forobiy, “Fozil odamlar shahri”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abu Ali ibn Sinoning fikricha, nima uchun inson boshqalardan ajralgan holda yashay olmaydi?",
+   "options": [
+    "U insoniyatning boshqa vakillari bilan munosabatdagina ehtiyojlarini qondira oladi",
+    "Davlat unga yolg'iz yashashni taqiqlaydi",
+    "Qonunlar faqat jamoa a'zolariga tatbiq etiladi",
+    "Insonning mehnat qilishga ehtiyoji yo'q"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra jamiyat qanday tuzilma hisoblanadi?",
+   "options": [
+    "Biologik qonunlarga bo'ysunuvchi oddiy jamoa",
+    "Turli odamlar guruhining oddiy majmuyi",
+    "Murakkab ijtimoiy tuzilma, odamlarning o'zaro munosabatlari, aloqalari mahsuli",
+    "Faqat iqtisodiy manfaatga asoslangan birlashma"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Odamlarning hayoti, eng avvalo, qanday mushtarak faoliyat zamirida kechadi?",
+   "options": [
+    "Faqat diniy va madaniy marosimlar",
+    "Urush va mudofaa",
+    "Faqat davlat xizmatini o'tash",
+    "Ishlab chiqarish, iste'mol buyumlari yaratish va ularni o'zaro ayirboshlash"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jamiyatda qanday qonunlar ustuvor bo'ladi?",
+   "options": [
+    "Ijtimoiy qonunlar",
+    "Tabiat qonunlari",
+    "Faqat diniy qonunlar",
+    "Biologik qonunlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi fikrlardan XATO berilganini aniqlang!",
+   "options": [
+    "Jamiyat insonsiz, inson esa jamiyatsiz mavjud bo'la olmaydi",
+    "Har qanday jamoa jamiyat hisoblanadi",
+    "Jamiyat murakkab tirik organizm kabi muttasil o'zgarib, rivojlanib turadi",
+    "Istalgan jamiyat jamoa hisoblanadi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jamiyat a'zolari haqidagi darslik fikriga mos javobni aniqlang!",
+   "options": [
+    "Faqat teng huquqli odamlar jamiyat a'zosi bo'la oladi",
+    "Faqat bir millatga mansub odamlar jamiyat a'zosi bo'ladi",
+    "Odamlar boy yoki kambag'al, teng huquqli yoki turli huquqli bo'lishidan qat'i nazar, jamiyat a'zolari hisoblanadi",
+    "Faqat mulkdorlar jamiyat a'zosi hisoblanadi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni toping.\na) odamlardan tashkil topadi;\nb) arabcha “jamoa”, “jamlangan”, “birlashgan” ma'nolarini bildiradi;\nc) ijtimoiy qonunlar ustuvor bo'lgan, yuksak shakllangan mushtarak birlik;\nd) kishilarning birlashuvi hisoblanadi.\ne) masalan, sinf jamoasi yoki ishxona jamoasi;\nf) har qanday ko'rinishi ham jamiyat bo'lavermaydi;",
+   "options": [
+    "I-b, c; II-a, d; III-e, f",
+    "I-b, c; II-e, f; III-a, d",
+    "I-a, b; II-e, f; III-c, d",
+    "I-e, f; II-b, c; III-a, d"
+   ],
+   "answer": 1,
+   "image": "img/h8-02-16.jpg"
+  }
+ ]
+}

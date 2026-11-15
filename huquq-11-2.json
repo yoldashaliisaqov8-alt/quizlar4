@@ -1,0 +1,147 @@
+{
+ "title": "Huquq 11-sinf · 3-dars. Mehnat shartnomasi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Ish beruvchi va xodim o'rtasida tuziladigan, mehnat munosabatlarining asosiy shartlari belgilab qo'yiladigan huquqiy hujjat nima?",
+   "options": [
+    "Xizmat ko'rsatish shartnomasi",
+    "Ichki mehnat tartibi qoidalari",
+    "Mehnat shartnomasi",
+    "Jamoa kelishuvi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mehnat shartnomasining taraflari kimlar?",
+   "options": [
+    "Xodim va kasaba uyushmasi",
+    "Xodim va ish beruvchi",
+    "Xodim va mehnat inspeksiyasi",
+    "Ish beruvchi va davlat mehnat organi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mehnat shartnomasi qachondan kuchga kiradi?",
+   "options": [
+    "Ish beruvchi va xodim tomonidan imzolangan kundan",
+    "Birinchi ish haqi to'langan kundan",
+    "Xodim ishga chiqqan kundan",
+    "Notarius tasdiqlagan kundan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mehnat shartnomasini tuzish, bekor qilish va unga o'zgartish kiritish qaysi tizimda ro'yxatdan o'tkazilishi shart?",
+   "options": [
+    "“Ijtimoiy himoya yagona reyestri”da",
+    "“Yagona milliy mehnat tizimi” idoralararo dasturiy-apparat kompleksida",
+    "“Yagona interaktiv davlat xizmatlari portali”da",
+    "“Elektron hukumat” tizimida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mehnatga oid ko'plab huquqiy harakatlarni qaysi sayt orqali amalga oshirish mumkin?",
+   "options": [
+    "lex.uz",
+    "my.mehnat.uz",
+    "my.gov.uz",
+    "soliq.uz"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mehnat kodeksining 106-moddasiga ko'ra mehnat shartnomasi qanday tuziladi?",
+   "options": [
+    "Bir xil kuchga ega kamida ikki nusxada yozma (qog'ozda yoki elektron) shaklda",
+    "Bir nusxada og'zaki shaklda",
+    "Faqat elektron shaklda bir nusxada",
+    "Uch nusxada notarial shaklda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ishga joylashishda o'n olti yoshgacha bo'lgan shaxslardan qaysi hujjat talab etiladi?",
+   "options": [
+    "Diplom",
+    "Pasport",
+    "Tug'ilganlik to'g'risidagi guvohnoma",
+    "Harbiy guvohnoma"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ishga joylashishda talab etiladigan hujjatlar qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Jismoniy shaxsning shaxsiy identifikatsiya raqami (JShShIR)",
+    "Pasport yoki ID-karta",
+    "Mahalla fuqarolar yig'inidan tavsifnoma",
+    "Mehnat daftarchasi yoki undan ko'chirma"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mehnat shartnomasiga xodimning holatini qonunchilikka nisbatan yomonlashtiradigan shartlar kiritilsa nima bo'ladi?",
+   "options": [
+    "Xodim jarimaga tortiladi",
+    "Shartnoma o'z kuchida qoladi",
+    "Butun shartnoma avtomatik bekor bo'ladi",
+    "Shartnomaning mazkur qismi haqiqiy emas deb topiladi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h11-02-10.jpg"
+  },
+  {
+   "q": "Xodimni boshqa ishga doimiy o'tkazishga qanday holatda yo'l qo'yiladi?",
+   "options": [
+    "Har qanday holatda",
+    "Ish beruvchining xohishi bilan",
+    "Kasaba uyushmasi qarori bilan",
+    "Faqat xodimning roziligi bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xodimning mehnat shartlarini o'zgartirish haqidagi arizasi ish beruvchi tomonidan qancha muddatda ko'rib chiqilishi shart?",
+   "options": [
+    "Bir oydan kechiktirmay",
+    "Uch kundan kechiktirmay",
+    "O'n kundan kechiktirmay",
+    "Bir haftadan kechiktirmay"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mehnat shartlarini o'zgartirish haqidagi talab rad etilsa, rad etish sababi qanday ma'lum qilinadi?",
+   "options": [
+    "Yozma shaklda",
+    "Ma'lum qilinmaydi",
+    "Telefon orqali",
+    "Og'zaki shaklda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1997-yilda bo'lib o'tgan “Vizcaino Microsoft korporatsiyasiga qarshi” sud ishidan qanday xulosa kelib chiqadi?",
+   "options": [
+    "Xizmat ko'rsatish shartnomasi taqiqlanadi",
+    "Korporatsiyalar sudda doim yutadi",
+    "Xizmat ko'rsatuvchilar hech qanday imtiyozga ega emas",
+    "Mehnat shartnomasi va xizmat ko'rsatish shartnomasini o'zaro farqlab olish talab etiladi"
+   ],
+   "answer": 3
+  }
+ ]
+}

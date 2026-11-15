@@ -1,0 +1,307 @@
+{
+ "title": "Huquq 9-sinf · 1-dars. Konstitutsiya — davlatning asosiy qonuni",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Konstitutsiya men hech qachon tark etmaydigan yo'riqnomadir” — ushbu fikr muallifi kim?",
+   "options": [
+    "Sharl Monteskyo",
+    "Avraam Linkoln",
+    "Tomas Jefferson",
+    "Jorj Vashington"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Konstitutsiya” so'zi qaysi tildan olingan va qanday ma'nolarni anglatadi?",
+   "options": [
+    "Yunoncha “constitutio” — xalq hokimiyati",
+    "Lotincha “constitutio” — tuzilish, tuzuk, belgilash, tartib o'rnatish",
+    "Lotincha “constitutio” — umumxalq ishi",
+    "Fransuzcha “constitution” — oliy hokimiyat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Konstitutsiya” atamasi ilk bor qaysi davlat qonunchiligida ishlatilgan?",
+   "options": [
+    "Qadimgi Misr",
+    "Qadimgi Yunoniston",
+    "Qadimgi Rim",
+    "Qadimgi Bobil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikka ko'ra konstitutsiyalar paydo bo'lishiga nima zarurat yaratgan?",
+   "options": [
+    "Insonlarning huquq va erkinliklarini qonunlarda mustahkamlash, davlat va inson munosabatlarini huquqiy tartibga solish",
+    "Davlatlarning paydo bo'lishi bilan bir vaqtda soliq yig'ish zarurati",
+    "Monarxlarning hokimiyatini kuchaytirish zarurati",
+    "Faqat urushlarni to'xtatish zarurati"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dunyo tarixidagi dastlabki konstitutsiya qaysi?",
+   "options": [
+    "1787-yilgi AQSH konstitutsiyasi",
+    "1791-yilgi Fransiya konstitutsiyasi",
+    "1215-yilgi Angliya “Buyuk erkinliklar xartiyasi”",
+    "1791-yilgi Polsha konstitutsiyasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dastavval AQSH konstitutsiyasida nimalar belgilangan edi?",
+   "options": [
+    "Faqat soliq tizimi",
+    "Hokimiyatlar bo'linishi prinsiplari va tartibi, federatsiya subyektlari huquqlari",
+    "Faqat prezident vakolatlari",
+    "Faqat inson va fuqaro huquqlari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "AQSH konstitutsiyasidan so'ng qaysi davlatlarda konstitutsiyalar qabul qilingan?",
+   "options": [
+    "Rossiya va Yaponiyada",
+    "Angliya va Ispaniyada",
+    "Polsha va Fransiyada",
+    "Germaniya va Italiyada"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikka ko'ra bugungi kunda jahondagi nechtadan ortiq davlatda o'z konstitutsiyasi amal qiladi?",
+   "options": [
+    "100 dan ortiq",
+    "150 dan ortiq",
+    "300 dan ortiq",
+    "200 dan ortiq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'zbekiston qonunchilik tizimi piramidasining cho'qqisida nima turadi?",
+   "options": [
+    "Oliy Majlis palatalarining qarorlari",
+    "O'zbekiston Respublikasining Konstitutsiyasi",
+    "O'zbekiston Respublikasining qonunlari",
+    "Prezidentning farmonlari va qarorlari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyaga oid bilimlar, uning mazmuni, rivojlanish tarixi, turlari haqidagi ma'lumotlar qaysi huquq sohasida o'rganiladi?",
+   "options": [
+    "Konstitutsiyaviy huquqda",
+    "Fuqarolik huquqida",
+    "Xalqaro huquqda",
+    "Ma'muriy huquqda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiyaviy huquqning asosiy manbayi nima?",
+   "options": [
+    "Prezident farmonlari",
+    "Sud qarorlari",
+    "Konstitutsiya",
+    "Xalqaro shartnomalar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "image": "img/h9-00-12.jpg"
+  },
+  {
+   "q": "Ifoda qilish shakliga ko'ra konstitutsiyalar qanday turlarga bo'linadi?",
+   "options": [
+    "Yumshoq va qattiq",
+    "Federal va unitar",
+    "Hadya qilingan va xalq konstitutsiyasi",
+    "Yozilgan va yozilmagan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyasi yagona hujjat shaklida qabul qilinmagan, turli qonunlar yig'indisi konstitutsiya hisoblanadigan davlatlarni aniqlang!",
+   "options": [
+    "AQSH, Fransiya",
+    "Germaniya, Hindiston",
+    "Qatar, Yaponiya",
+    "Buyuk Britaniya, Yangi Zelandiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikka ko'ra hadya qilingan konstitutsiyaga misol bo'ladigan davlatlarni aniqlang!",
+   "options": [
+    "Buyuk Britaniya va Yangi Zelandiya",
+    "AQSH va Fransiya",
+    "Qatar va Yaponiya",
+    "Ispaniya va Shvetsiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hadya qilingan konstitutsiya qanday kuchga kiradi?",
+   "options": [
+    "Davlat rahbarining (yuqori ijro etuvchi hokimiyat organi) akti bilan",
+    "Sud qarori bilan",
+    "Referendum orqali",
+    "Parlament qarori bilan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zgartirish kiritish tartibiga ko'ra konstitutsiyalar qanday turlarga bo'linadi?",
+   "options": [
+    "Monarxiya va respublika",
+    "“Yumshoq” va “qattiq”",
+    "Yozilgan va yozilmagan",
+    "Federal va unitar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oddiy qonunlarga qaraganda ancha murakkab tarzda qabul qilinadigan va o'zgartiriladigan asosiy qonun qanday ataladi?",
+   "options": [
+    "“Yumshoq” konstitutsiya",
+    "Yozilmagan konstitutsiya",
+    "Hadya qilingan konstitutsiya",
+    "“Qattiq” konstitutsiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikka ko'ra AQSH konstitutsiyasi qabul qilinganiga 200 yildan oshgan bo'lsa ham, unga nechta o'zgartirish kiritilgan?",
+   "options": [
+    "10 ta",
+    "16 ta",
+    "27 ta",
+    "35 ta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikka ko'ra monarxiya konstitutsiyalari amal qiladigan davlatlarni aniqlang!",
+   "options": [
+    "Fransiya, Germaniya, AQSH",
+    "Ispaniya, Yaponiya, Shvetsiya",
+    "Fransiya, Italiya",
+    "Hindiston, Rossiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikka ko'ra federal konstitutsiyaga misol bo'ladigan davlatlarni aniqlang! I. AQSH; II. Fransiya; III. Hindiston; IV. Italiya; V. Germaniya; VI. Rossiya.",
+   "options": [
+    "I, III, V va VI",
+    "II, III, IV va V",
+    "II, IV, V va VI",
+    "I, II, IV va VI"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston Respublikasi Konstitutsiyasining turlarga ko'ra tavsifi TO'G'RI berilgan javobni aniqlang!",
+   "options": [
+    "Yozilgan; xalq tomonidan qabul qilingan; “yumshoq”; respublika; federal",
+    "Yozilgan; hadya qilingan; “qattiq”; monarxiya; unitar",
+    "Yozilgan; xalq tomonidan qabul qilingan; “qattiq”; respublika; unitar",
+    "Yozilmagan; hadya qilingan; “yumshoq”; respublika; federal"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiyamizning mafkuraviy kirish qismi qanday ataladi?",
+   "options": [
+    "Muqaddima",
+    "Preambula qonuni",
+    "Asosiy prinsiplar",
+    "Birinchi bob"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiya muqaddimasi qaysi tushuncha bilan boshlanadi?",
+   "options": [
+    "“Inson — oliy qadriyat”",
+    "“O'zbekistonning yagona xalqi”",
+    "“Biz, O'zbekiston fuqarolari”",
+    "“O'zbekiston — suveren davlat”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyaning birinchi bo'limi qanday nomlanadi?",
+   "options": [
+    "“Davlat hokimiyatining tashkil etilishi”",
+    "“Asosiy prinsiplar”",
+    "“Inson va fuqaroning asosiy huquqlari, erkinliklari va burchlari”",
+    "“Jamiyat va shaxs”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyaning “Asosiy prinsiplar” bo'limi qaysi boblarga ajratilgan?",
+   "options": [
+    "Davlat suvereniteti, Xalq hokimiyatchiligi, Konstitutsiya va qonunning ustunligi, Tashqi siyosat",
+    "Oliy Majlis, Prezident, Vazirlar Mahkamasi, Sud hokimiyati",
+    "Fuqarolik, Siyosiy huquqlar, Iqtisodiy huquqlar, Burchlar",
+    "Oila, Bolalar, Yoshlar, Ommaviy axborot vositalari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiya bo'limlarini ularning nomlari bilan TO'G'RI moslashtiring! 1 Ikkinchi a “Ma'muriy-hududiy va davlat bo'lim tuzilishi” 2 Uchinchi b “Davlat hokimiyatining tashkil bo'lim etilishi” 3 To'rtinchi c “Inson va fuqaroning asosiy bo'lim huquqlari, erkinliklari va burchlari” 4 Beshinchi d “Jamiyat va shaxs” bo'lim",
+   "options": [
+    "1-c, 2-d, 3-a, 4-b",
+    "1-d, 2-c, 3-a, 4-b",
+    "1-c, 2-d, 3-b, 4-a",
+    "1-c, 2-a, 3-d, 4-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiyaning eng katta bo'limi qaysi?",
+   "options": [
+    "Ikkinchi bo'lim — “Inson va fuqaroning asosiy huquqlari...”",
+    "Uchinchi bo'lim — “Jamiyat va shaxs”",
+    "Birinchi bo'lim — “Asosiy prinsiplar”",
+    "Beshinchi bo'lim — “Davlat hokimiyatining tashkil etilishi”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyaning so'nggi oltinchi bo'limi nimaga bag'ishlangan?",
+   "options": [
+    "Sud hokimiyatiga",
+    "Qoraqalpog'iston Respublikasiga",
+    "Mudofaa va xavfsizlikka",
+    "Konstitutsiyani o'zgartirish tartibiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yangi tahrirdagi O'zbekiston Respublikasi Konstitutsiyasi tuzilishi TO'G'RI berilgan javobni aniqlang!",
+   "options": [
+    "Muqaddima, 6 bo'lim, 26 bob va 128 modda",
+    "Muqaddima, 6 bo'lim, 28 bob va 150 modda",
+    "Muqaddima, 6 bo'lim, 27 bob va 155 modda",
+    "Muqaddima, 5 bo'lim, 27 bob va 155 modda"
+   ],
+   "answer": 2
+  }
+ ]
+}

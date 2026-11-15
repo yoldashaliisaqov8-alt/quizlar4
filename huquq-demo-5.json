@@ -1,0 +1,356 @@
+{
+ "title": "Huquqshunoslik Milliy sertifikat demo test 5 (1–35)",
+ "time": 45,
+ "questions": [
+  {
+   "q": "(a) Prezidentlik respublikasi hamda (b) Parlamentar respublikaga misollarni to'g'ri moslashtiring. (8-sinf, 7–8-dars)\n1) AQSH; 2) Germaniya; 3) O'zbekiston; 4) Italiya",
+   "options": [
+    "a – 2, 4; b – 1, 3",
+    "a – 1, 4; b – 2, 3",
+    "a – 1, 2; b – 3, 4",
+    "a – 1, 3; b – 2, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilardan qaysi biri darslikka ko'ra davlatning asosiy belgilari qatoriga KIRMAYDI? (8-sinf, 4–5-dars)",
+   "options": [
+    "Soliq tizimi",
+    "Yagona din",
+    "Davlat suvereniteti",
+    "Maxsus boshqaruv apparati"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yuridik pretsedent huquq manbasi sifatida qaysi davlatlarda keng qo'llaniladi? (8-sinf, 11–12-dars)",
+   "options": [
+    "Xitoy, Yaponiya, Koreya",
+    "Fransiya, Germaniya, Italiya",
+    "Buyuk Britaniya, AQSH, Kanada, Avstraliya",
+    "O'zbekiston, Qozog'iston, Qirg'iziston"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan qaysi biri darslikka ko'ra huquqning vazifalari qatoriga KIRMAYDI? (8-sinf, 9–10-dars)",
+   "options": [
+    "Jazolash",
+    "Tarbiyalash",
+    "Tartibga solish",
+    "Qo'riqlash"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston hududidagi ilk davlatlar va ularning markazlarini to'g'ri moslashtiring. (8-sinf, 4–5-dars)\n1) Qadimgi Xorazm; 2) Qadimgi Baqtriya\na) Baqtra; b) Ko'zaliqir; c) Afrosiyob",
+   "options": [
+    "1-b, 2-a",
+    "1-a, 2-b",
+    "1-b, 2-c",
+    "1-c, 2-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1992-yil 8-dekabrda qabul qilingan Konstitutsiyaning tuzilishi to'g'ri berilgan javobni aniqlang. (9-sinf, 2-dars)",
+   "options": [
+    "6 bo'lim, 28 bob va 128 modda",
+    "Muqaddima, 6 bo'lim, 27 bob va 155 modda",
+    "Muqaddima, 5 bo'lim, 27 bob va 155 modda",
+    "Muqaddima, 6 bo'lim, 26 bob va 128 modda atida | To'g'ri javob “+” va qizil rang bilan belgilangan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiya tarixiga oid hujjat va voqealarni sanalar bilan to'g'ri moslashtiring. (9-sinf, 2-dars)\n1) Mustaqillik deklaratsiyasining qabul qilinishi; 2) Konstitutsiyaning Oliy Kengash XI sessiyasida qabul qilinishi; 3) Konstitutsiyaviy komissiyaning tashkil etilishi; 4) Yangi tahrirdagi Konstitutsiyaning referendumda qabul qilinishi\na) 1990-yil 20-iyun; b) 1992-yil 8-dekabr; c) 2022-yil 20-may; d) 2023-yil 30-aprel",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-a, 2-c, 3-b, 4-d",
+    "1-b, 2-a, 3-c, 4-d"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra O'zbekiston tashqi siyosatining bosh ustuvor yo'nalishi qaysi mintaqa va O'zbekiston BMTga qachon a'zo bo'lgan? (9-sinf, 7-dars)",
+   "options": [
+    "Janubiy Osiyo; 1992-yil 8-dekabr",
+    "Markaziy Osiyo; 1992-yil 2-mart",
+    "Markaziy Osiyo; 1945-yil 24-oktyabr",
+    "Yevropa; 1991-yil 31-avgust"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "16 yoshgacha bo'lgan bolaning O'zbekiston fuqaroligini tasdiqlovchi hujjat qaysi? (9-sinf, 11-dars)",
+   "options": [
+    "Maktab o'quvchisi guvohnomasi",
+    "Tug'ilganlik to'g'risidagi guvohnoma (yoki tegishli ma'lumotnoma)",
+    "Ota-onaning pasporti",
+    "Xorijga chiqish pasporti"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fuqarolikka oid TO'G'RI ma'lumotlarni aniqlang. (9-sinf, 12-dars; 10-sinf, 32-dars)\n1) xorijda doimiy yashovchi fuqaro yetti yil mobaynida uzrsiz konsullik hisobida turmasa, fuqaroligini yo'qotishi mumkin; 2) chet davlatning harbiy xizmatiga kirgan shaxs fuqaroligini yo'qotadi; 3) O'zbekiston fuqaroligini istalgan marta tiklash mumkin; 4) fuqaroning fuqaroligini yo'qotishi turmush o'rtog'i va farzandlarining fuqaroligiga ta'sir etmaydi",
+   "options": [
+    "1, 2, 4",
+    "1, 3",
+    "2, 3, 4",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra Amudaryoda kema va parom qatnovi qachondan to'xtatilgan? (9-sinf, 22-dars)",
+   "options": [
+    "1991-yildan",
+    "1972-yildan",
+    "1981-yildan",
+    "1960-yildan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mahalliy hokimiyat rahbarlari va ularni tayinlash tartibini to'g'ri moslashtiring. (9-sinf, 31-dars)\n1) viloyat hokimi; 2) tuman (shahar) hokimi; 3) fuqarolar yig'ini raisi\na) Prezident tomonidan tayinlanadi; b) viloyat hokimi tomonidan tayinlanib, tegishli Kengash tomonidan tasdiqlanadi; c) fuqarolar yig'ini tomonidan saylanadi",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Odamlar tabiat bilan uyg'unlikda sog'lom va samarali hayot kechirish huquqiga ega” degan qoida qaysi hujjatda belgilangan? (9-sinf, 22-dars)",
+   "options": [
+    "1945-yilgi BMT Nizomida",
+    "1948-yilgi Inson huquqlari umumjahon deklaratsiyasida",
+    "1969-yilgi Vena konvensiyasida",
+    "1992-yilgi Rio-de-Janeyro deklaratsiyasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "(a) Huquq layoqati hamda (b) Muomala layoqatiga oid belgilarni to'g'ri moslashtiring. (10-sinf, 18–19-dars)\n1) fuqaro tug'ilgan paytdan vujudga keladi; 2) o'z harakatlari bilan huquqlarga ega bo'lish va ularni amalga oshirish layoqati; 3) fuqaro vafot etishi bilan tugaydi; 4) to'la hajmda, qoida tariqasida, 18 yoshdan vujudga keladi",
+   "options": [
+    "a – 2, 4; b – 1, 3",
+    "a – 1, 4; b – 2, 3",
+    "a – 1, 3; b – 2, 4",
+    "a – 1, 2; b – 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikka ko'ra qaysi shaxslar tomonidan tuzilgan bitim haqiqiy hisoblanmaydi? (10-sinf, 17-dars)",
+   "options": [
+    "16 yoshli talaba tomonidan",
+    "Emansipatsiya qilingan shaxs tomonidan",
+    "Pensiya yoshidagi shaxs tomonidan",
+    "O'n to'rt yoshga to'lmagan shaxs va muomalaga layoqatsiz shaxs tomonidan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fuqarolar o'rtasidagi qarz shartnomasi qarz summasi qancha bo'lganda oddiy yozma shaklda tuziladi? (10-sinf, 22-dars)",
+   "options": [
+    "BHMning yuz baravaridan ortiq bo'lsa",
+    "Bazaviy hisoblash miqdorining o'n baravaridan ortiq bo'lsa",
+    "Har qanday summada",
+    "BHMning ikki baravaridan ortiq bo'lsa"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Iste'molchilar huquqlariga oid TO'G'RI ma'lumotlarni aniqlang. (10-sinf, 23-dars)\n1) tovarni kassa yoki tovar chekini bermasdan sotish taqiqlanadi; 2) kafolat muddati tovar iste'molchiga sotilgan kundan boshlab hisoblanadi; 3) iste'molchiga yetkazilgan ma'naviy zarar uchun haq miqdorini sud belgilaydi; 4) nuqsonli tovar faqat sotuvchining roziligi bilan almashtiriladi",
+   "options": [
+    "3, 4",
+    "2, 4",
+    "1, 2, 3",
+    "1, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Intellektual mulkka oid tasdiqlarning to'g'ri yoki noto'g'ri ekanligini belgilang. (10-sinf, 24-dars) I. O'zbekiston Jahon intellektual mulk tashkilotiga 1991-yil 25-dekabrda a'zo bo'lgan. II. O'zbekiston 1993-yildan Sanoat mulkini muhofaza qilish Parij konvensiyasiga qo'shilgan. III. Intellektual mulk obyektlariga nisbatan shaxsiy nomulkiy huquqlar muddatsiz amal qiladi. IV. Muallifning mulkiy huquqlari boshqa shaxsga o'tganda uning shaxsiy nomulkiy huquqlari ham o'tadi.",
+   "options": [
+    "I – to'g'ri; II – noto'g'ri; III – to'g'ri; IV – to'g'ri",
+    "I – to'g'ri; II – to'g'ri; III – noto'g'ri; IV – to'g'ri",
+    "I – to'g'ri; II – to'g'ri; III – to'g'ri; IV – noto'g'ri",
+    "I – noto'g'ri; II – to'g'ri; III – to'g'ri; IV – noto'g'ri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vorislikka oid TO'G'RI ma'lumotlarni aniqlang. (10-sinf, 25-dars)\n1) qonun bo'yicha vorislar beshta navbatga bo'linadi; 2) merosdan voz kechish notariusga ariza berish orqali amalga oshiriladi; 3) meros qoldiruvchining hayotlik paytida homila bo'lib, meros ochilgandan keyin tirik tug'ilgan bola merosxo'r bo'la oladi; 4) vasiyatnoma vakil orqali ham tuzilishi mumkin",
+   "options": [
+    "1, 4",
+    "3, 4",
+    "2, 3, 4",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "BMT organlari va ularning tavsifini to'g'ri moslashtiring. (10-sinf, 30-dars)\n1) Bosh assambleya; 2) Xavfsizlik kengashi; 3) Iqtisodiy va ijtimoiy kengash; 4) Xalqaro adolat sudi\na) 15 a'zodan iborat, shundan 5 tasi doimiy; b) barcha a'zo davlatlarning umumiy yig'ilishi, har bir davlat bir ovozga ega; c) 54 a'zo, uch yilga saylanadi; d) 15 nafar sudyadan iborat",
+   "options": [
+    "1-b, 2-a, 3-c, 4-d",
+    "1-b, 2-a, 3-d, 4-c",
+    "1-b, 2-c, 3-a, 4-d",
+    "1-a, 2-b, 3-c, 4-d"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xalqaro shartnomalarni tuzish va tugatish bilan bog'liq munosabatlar qaysi hujjat bilan tartibga solinadi? (10-sinf, 28-dars)",
+   "options": [
+    "1969-yildagi “Xalqaro shartnomalar huquqi to'g'risida”gi Vena konvensiyasi",
+    "1961-yildagi Fuqarosizlikni qisqartirish to'g'risidagi konvensiya",
+    "1648-yildagi Vestfal tinchlik shartnomasi",
+    "1945-yildagi BMT Nizomi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra uch fuqarolikka ham ruxsat beradigan davlat qaysi? (10-sinf, 32-dars)",
+   "options": [
+    "Shveytsariya",
+    "Ispaniya",
+    "Malta",
+    "Portugaliya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "BMT Xavfsizlik kengashining doimiy a'zolari to'g'ri ko'rsatilgan javobni toping. (10-sinf, 30-dars)",
+   "options": [
+    "Rossiya, Xitoy, Germaniya, Fransiya, Italiya",
+    "AQSH, Rossiya, Xitoy, Buyuk Britaniya, Fransiya",
+    "AQSH, Rossiya, Xitoy, Germaniya, Yaponiya",
+    "AQSH, Buyuk Britaniya, Fransiya, Hindiston, Braziliya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mehnat huquqiga oid ko'rsatkichlarni to'g'ri moslashtiring. (11-sinf, 4-dars)\n1) ish vaqtining haftalik normal davomiyligi; 2) tungi vaqt; 3) har yilgi asosiy eng kam mehnat ta'tili; 4) ish vaqtidan tashqari ishning yillik chegarasi\na) qirq soatdan oshmaydi; b) soat 22:00 dan 6:00 gacha; c) yigirma bir kalendar kun; d) bir yuz yigirma soat",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-c, 2-b, 3-a, 4-d"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mehnat shartnomasiga oid TO'G'RI ma'lumotlarni aniqlang. (11-sinf, 3-dars)\n1) kamida ikki nusxada yozma (qog'ozda yoki elektron) shaklda tuziladi; 2) ish beruvchi va xodim imzolagan kundan kuchga kiradi; 3) xodimni boshqa ishga doimiy o'tkazishga faqat uning roziligi bilan yo'l qo'yiladi; 4) ishga joylashishda mahalla fuqarolar yig'inidan tavsifnoma talab qilinadi",
+   "options": [
+    "2, 3, 4",
+    "1, 2, 3",
+    "1, 4",
+    "3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mehnatga haq to'lashga oid NOTO'G'RI ma'lumotni aniqlang. (11-sinf, 5-dars)",
+   "options": [
+    "Mehnatga haq to'lash biror-bir eng ko'p miqdor bilan cheklanmaydi",
+    "Ish haqi har yarim oyda kamida bir marta to'lanadi",
+    "Ish haqi milliy valyutada to'lanadi",
+    "Ish haqini qarz majburiyatlari va tilxatlar tarzida to'lashga yo'l qo'yiladi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Intizomiy javobgarlikka oid NOTO'G'RI ma'lumotni aniqlang. (11-sinf, 6-dars)",
+   "options": [
+    "Intizomiy jazo chorasini tanlash huquqi ish beruvchiga tegishli",
+    "Intizomiy jazoning amal qilish muddati bir yildan oshmaydi",
+    "Intizomiy jazo qilmish aniqlangan kundan e'tiboran bir oydan kechiktirmay qo'llaniladi",
+    "Bitta intizomiy qilmish uchun bir nechta intizomiy jazo qo'llanilishi mumkin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fuqaro davlat organining qaroridan norozi bo'lsa, shikoyat qilishning to'g'ri ketma-ketligini aniqlang. (11-sinf, 12-dars)",
+   "options": [
+    "Prezident qabulxonasiga → ma'muriy sudga → tashkilotning o'ziga",
+    "Murojaat qilgan tashkilotning o'ziga → yuqori turuvchi tashkilotga → ma'muriy sudga",
+    "Yuqori turuvchi tashkilotga → tashkilotning o'ziga → jinoyat ishlari sudiga",
+    "Ma'muriy sudga → yuqori turuvchi tashkilotga → prokuraturaga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jinoyat huquqi prinsiplari va ularga misollarni to'g'ri moslashtiring. (11-sinf, 17-dars)\n1) demokratizm; 2) ayb uchun javobgarlik; 3) odillik\na) “Temur tuzuklari”: “Biror kimsaning gunohi isbotlangandan keyin undan jarima olsalar, so'ng yana darra bilan urmasinlar”; b) jamoat birlashmalari va fuqarolar yig'inlarining jinoyat sodir etganlar axloqini tuzatishga jalb qilinishi; c) shaxs aybi isbotlangan ijtimoiy xavfli qilmishlari uchungina javobgar bo'ladi",
+   "options": [
+    "1-c, 2-b, 3-a",
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Umrbod ozodlikdan mahrum qilish jazosi kimlarga nisbatan tayinlanishi MUMKIN EMAS? (11-sinf, 18-dars)\n1) ayollarga; 2) 18 yoshga to'lmasdan jinoyat sodir etganlarga; 3) 60 yoshdan oshgan erkaklarga; 4) chet el fuqarolariga",
+   "options": [
+    "1, 2, 3",
+    "2, 4",
+    "1, 4",
+    "3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra ozodlikdan mahrum qilish jazosi qancha muddatga belgilanadi? (11-sinf, 18-dars)",
+   "options": [
+    "Uch oydan o'n yilgacha",
+    "Bir oydan yigirma yilgacha",
+    "Bir yildan yigirma besh yilgacha",
+    "Olti oydan o'n besh yilgacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vaziyat: Tergovchiga jinoyat ishi uchun ahamiyatli hujjat aynan kimda va qayerda ekani ma'lum, uni qidirishga hojat yo'q. Qanday tergov harakati o'tkaziladi? (11-sinf, 26–27-dars)",
+   "options": [
+    "Yuzlashtirish",
+    "Tintuv",
+    "Olib qo'yish",
+    "Ko'zdan kechirish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "YUNEPga oid tasdiqlarning to'g'ri yoki noto'g'ri ekanligini belgilang. (11-sinf, 29-dars) I. YUNEP 1972-yilda Stokgolmda tashkil etilgan. II. YUNEPning bosh qarorgohi Keniya poytaxti Nayrobi shahrida joylashgan. III. YUNEP tashabbusi bilan har yili 5-iyun “Butunjahon atrof-muhit kuni” sifatida nishonlanadi. IV. YUNEPning bosh qarorgohi Jenevada joylashgan.",
+   "options": [
+    "I – to'g'ri; II – to'g'ri; III – to'g'ri; IV – noto'g'ri",
+    "I – noto'g'ri; II – to'g'ri; III – noto'g'ri; IV – noto'g'ri",
+    "I – to'g'ri; II – noto'g'ri; III – to'g'ri; IV – to'g'ri",
+    "I – to'g'ri; II – to'g'ri; III – noto'g'ri; IV – to'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra qaysi davlatda 2017-yildan boshlab bir martalik plastik paketlardan foydalanish to'liq taqiqlangan? (11-sinf, 29-dars)",
+   "options": [
+    "Yaponiyada",
+    "Kanadada",
+    "Germaniyada",
+    "Keniyada"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos javobni aniqlang (I — faqat intizomiy javobgarlikka, II — faqat ma'muriy javobgarlikka, III — ikkalasiga tegishli). (8-sinf, 21–24-dars; 11-sinf, 6, 13–14-dars)\na) ish beruvchi tomonidan qo'llaniladi; b) jazo turi sifatida jarima qo'llanilishi mumkin; c) hayfsan; d) ma'muriy qamoq; e) sud tomonidan ham qo'llanilishi mumkin; f) huquqbuzarlik sodir etganlik uchun yuzaga keladigan yuridik javobgarlik turi",
+   "options": [
+    "I – a, c; II – b, e; III – d, f",
+    "I – a, d; II – c, e; III – b, f",
+    "I – a, c; II – d, e; III – b, f",
+    "I – c, e; II – a, d; III – b, f"
+   ],
+   "answer": 2
+  }
+ ]
+}

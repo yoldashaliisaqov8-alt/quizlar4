@@ -1,0 +1,226 @@
+{
+ "title": "Huquq 9-sinf · 2-dars. O'zbekiston respublikasi konstitutsiyasining qabul qilinishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Barcha jamoalar uchun umumiy va doimiy konstitutsiya yaratish imkonsiz, har bir avlod o'z konstitutsiyasini yaratish huquqiga ega” — ushbu fikr muallifi kim?",
+   "options": [
+    "Jon Lokk",
+    "Jorj Vashington",
+    "Jan Boden",
+    "Tomas Jefferson"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yangi konstitutsiyani yaratish uchun asos bo'lgan Mustaqillik deklaratsiyasi qachon qabul qilingan?",
+   "options": [
+    "1990-yil 20-iyunda",
+    "1989-yil 21-oktyabrda",
+    "1991-yil 31-avgustda",
+    "1992-yil 8-dekabrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiya loyihasini tayyorlash uchun necha kishidan iborat komissiya tuzilgan?",
+   "options": [
+    "100 kishidan",
+    "64 kishidan",
+    "32 kishidan",
+    "46 kishidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1992-yilgi Konstitutsiya loyihasining umumxalq muhokamasi qancha davom etgan?",
+   "options": [
+    "Uch oy",
+    "Bir oy",
+    "Olti oy",
+    "Bir yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1992-yilgi Konstitutsiya loyihasi umumxalq muhokamasida kelib tushgan nechta taklif asosida unga nechtadan ortiq tuzatish kiritilgan?",
+   "options": [
+    "6 000 ta taklif asosida 80 dan ortiq tuzatish",
+    "220 ming taklif asosida 80 dan ortiq tuzatish",
+    "6 000 ta taklif asosida 16 ta tuzatish",
+    "8 000 ta taklif asosida 60 dan ortiq tuzatish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston Respublikasining Konstitutsiyasi qachon va qayerda qabul qilingan?",
+   "options": [
+    "1992-yil 8-dekabrda, Oliy Majlisning I sessiyasida",
+    "1992-yil 8-dekabrda, Oliy Kengashning XI sessiyasida",
+    "1990-yil 20-iyunda, Oliy Kengashning II sessiyasida",
+    "1991-yil 31-avgustda, Oliy Kengashning VI sessiyasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1992-yil 8-dekabrda qabul qilingan Konstitutsiya tuzilishi TO'G'RI berilgan javobni aniqlang!",
+   "options": [
+    "Muqaddima, 6 bo'lim, 27 bob va 155 modda",
+    "Muqaddima, 6 bo'lim, 26 bob va 150 modda",
+    "Muqaddima, 5 bo'lim, 26 bob va 128 modda",
+    "Muqaddima, 6 bo'lim, 26 bob va 128 modda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyaga o'zgartish va qo'shimchalar kiritish bo'yicha Konstitutsiyaviy komissiya qachon va qanday hujjat bilan tashkil etilgan?",
+   "options": [
+    "2021-yil 20-mayda, Vazirlar Mahkamasi qarori bilan",
+    "2022-yil 20-mayda, Oliy Majlis palatalarining qo'shma qarori bilan",
+    "2022-yil 20-iyunda, Prezident farmoni bilan",
+    "2023-yil 30-aprelda, referendum natijasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bugungi islohotlarning bosh tamoyili qanday yondashuv hisoblanadi?",
+   "options": [
+    "“Inson — jamiyat — davlat”",
+    "“Qonun — davlat — inson”",
+    "“Davlat — jamiyat — inson”",
+    "“Jamiyat — davlat — inson”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Bosh maqsadimiz — har bir yurtdoshimiz ushbu hujjatni mening Konstitutsiyam deb faxrlanadigan mukammal darajaga olib chiqishdir” — ushbu so'zlar kimga tegishli?",
+   "options": [
+    "Islom Karimov",
+    "Shavkat Mirziyoyev",
+    "Tanzila Norboyeva",
+    "Nuriddin Ismoilov"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yangi tahrirdagi Konstitutsiya qachon va qanday yo'l bilan qabul qilingan?",
+   "options": [
+    "2023-yil 30-aprelda, Prezident farmoni bilan",
+    "2022-yil 8-dekabrda, referendum orqali",
+    "2023-yil 30-aprelda, referendum orqali bevosita fuqarolar tomonidan",
+    "2023-yil 1-mayda, Oliy Majlis tomonidan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi tahrirdagi Konstitutsiyaning 1- moddasiga ko'ra O'zbekiston qanday davlat?",
+   "options": [
+    "Suveren, demokratik, federativ davlat",
+    "Demokratik, parlamentar, unitar monarxiya",
+    "Suveren, demokratik, huquqiy, ijtimoiy, dunyoviy davlat",
+    "Huquqiy, ijtimoiy, diniy davlat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Diniy tashkilot va birlashmalar davlatdan, davlat hokimiyati dindan ajratilgan, boshqaruv diniy qoidalar bilan emas, Konstitutsiya va qonunlar bilan tartibga solinadigan davlat” — bu qanday davlat?",
+   "options": [
+    "Dunyoviy davlat",
+    "Ijtimoiy davlat",
+    "Teokratik davlat",
+    "Huquqiy davlat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Har bir inson uchun farovon turmush darajasi, sifatli ta'lim, kafolatli tibbiy xizmat... mavjud bo'lgan, hech bir fuqaro o'z muammolari bilan yolg'iz qolmaydigan adolatli davlat” — bu qanday davlat?",
+   "options": [
+    "Suveren davlat",
+    "Dunyoviy davlat",
+    "Huquqiy davlat",
+    "Ijtimoiy davlat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yangilangan Konstitutsiyada shaxsiy huquq va erkinliklar, iqtisodiy va ijtimoiy huquqlar borasidagi normalar qariyb necha baravarga ko'paydi?",
+   "options": [
+    "5 baravarga",
+    "1,5 baravarga",
+    "2 baravarga",
+    "3,5 baravarga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Davlatning o'qituvchilarning sha'ni va qadr-qimmatini himoya qilishi yangi tahrirdagi Konstitutsiyaning nechanchi moddasida mustahkamlangan?",
+   "options": [
+    "50-moddasida",
+    "57-moddasida",
+    "52-moddasida",
+    "41-moddasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi tahrirdagi Konstitutsiya haqidagi TO'G'RI ma'lumotlarni aniqlang! I. Referendumga qadar loyiha bo'yicha 220 mingdan ortiq takliflar kelib tushdi; II. Moddalar soni 128 tadan 155 taga oshdi; III. Matn qariyb 65 foizga yangilandi; IV. Moddalar soni 155 tadan 128 taga kamaydi; V. Oliy Kengash tomonidan qabul qilindi.",
+   "options": [
+    "I, IV va V",
+    "II, III va V",
+    "I, II va III",
+    "III, IV va V"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiyaga o'zgartirish kiritish tartibi va shartlari Konstitutsiyaning qaysi bo'limida bayon etilgan?",
+   "options": [
+    "VI bo'limida",
+    "V bo'limida",
+    "I bo'limida",
+    "II bo'limida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiyaning 154-moddasiga ko'ra Konstitutsiyaga o'zgartirish va qo'shimchalar qanday kiritiladi?",
+   "options": [
+    "Faqat Prezident farmoni bilan",
+    "Faqat Konstitutsiyaviy sud qarori bilan",
+    "Qonunchilik palatasi deputatlarining yarmidan ko'pi qabul qilgan qonun bilan",
+    "Qonunchilik palatasi deputatlari va Senat a'zolari umumiy sonining kamida uchdan ikki qismi qabul qilgan konstitutsiyaviy qonun yoki referendum bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oliy Majlis tegishli taklif kiritilganidan keyin qancha muddat mobaynida Konstitutsiyaga o'zgartirish kiritish to'g'risida konstitutsiyaviy qonun qabul qilishi mumkin?",
+   "options": [
+    "Bir yil mobaynida",
+    "Olti oy mobaynida",
+    "Uch oy mobaynida",
+    "Bir oy mobaynida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Agar Oliy Majlis Konstitutsiyani o'zgartirish to'g'risidagi taklifni rad etsa, taklif qachon qayta kiritilishi mumkin?",
+   "options": [
+    "Olti oy o'tganidan keyin",
+    "Bir yil o'tganidan keyingina",
+    "Darhol",
+    "Besh yil o'tganidan keyin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "2023-yil 30-aprelgacha O'zbekiston Respublikasi Konstitutsiyasiga necha marta o'zgartirish va qo'shimchalar kiritilgan?",
+   "options": [
+    "27 marta",
+    "10 marta",
+    "16 marta",
+    "6 marta"
+   ],
+   "answer": 2
+  }
+ ]
+}

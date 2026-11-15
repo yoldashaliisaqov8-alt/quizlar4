@@ -1,0 +1,178 @@
+{
+ "title": "Huquq 10-sinf · 6-dars. Inson huquqlari va ijtimoiy himoya",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Bu dunyoda abadiy qolmoq mumkin emas, biroq yaxshi nom qoldirmoq katta saodatdir” — ushbu fikr muallifi kim?",
+   "options": [
+    "Alisher Navoiy",
+    "Abu Ali ibn Sino",
+    "Jaloliddin Rumiy",
+    "Amir Temur"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kishilarni butun hayoti davomida turli ijtimoiy xatarlardan himoyalash, munosib turmush sharoitiga erishish yoki uni saqlab qolishga qaratilgan choralar va dasturlar majmui nima deb ataladi?",
+   "options": [
+    "Huquq ustuvorligi",
+    "Ijtimoiy himoya",
+    "Ijtimoiy sug'urta",
+    "Insonparvarlik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ijtimoiy ta'minot olish huquqi mustahkamlangan xalqaro hujjatlarni aniqlang! I. Inson huquqlari umumjahon deklaratsiyasi (1948); II. Ijtimoiy, iqtisodiy va madaniy huquqlar to'g'risidagi xalqaro pakt (1966); III. BMT Ustavi (1945); IV. Vena konvensiyasi (1969)",
+   "options": [
+    "III, IV",
+    "I, III",
+    "II, IV",
+    "I, II"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ijtimoiy ta'minot huquqi O'zbekiston Konstitutsiyasining qaysi moddasida kafolatlangan?",
+   "options": [
+    "64-moddasida",
+    "46-moddasida",
+    "13-moddasida",
+    "58-moddasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "image": "img/h10-03-05.jpg"
+  },
+  {
+   "q": "Mehnat qobiliyatini va daromadlarni yo'qotish bilan bog'liq ijtimoiy xatarlarning oqibatlaridan aholini kompensatsiyalash tizimi qanday ataladi?",
+   "options": [
+    "Ijtimoiy sug'urta",
+    "Ijtimoiy reyestr",
+    "Ijtimoiy yordam",
+    "Vaqf"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ijtimoiy sug'urta qanday mablag'lar hisobidan shakllantiriladi?",
+   "options": [
+    "Faqat davlat byudjeti hisobidan",
+    "Homiylik mablag'lari hisobidan",
+    "Xalqaro tashkilotlar grantlari hisobidan",
+    "Ish beruvchilar va xodimlarning sug'urta badallari hisobidan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Aholining yordamga muhtoj qatlamining minimal ehtiyojlarini qondirishga qaratilgan, davlat tomonidan moliyalashtiriladigan ijtimoiy himoya turi qaysi?",
+   "options": [
+    "Pensiya jamg'armasi",
+    "Vaqf",
+    "Ijtimoiy sug'urta",
+    "Ijtimoiy yordam"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Eyler-Venn diagrammasida I – ijtimoiy sug'urta, II – ijtimoiy yordam, III – ikkalasiga ham xos belgilarni joylashtiring! a) ijtimoiy himoya turi hisoblanadi b) sug'urta badallari hisobidan shakllanadi c) yoshga doir pensiyalar to'lanadi d) aholini ijtimoiy xatarlardan himoyalaydi e) natural shaklda ham taqdim etiladi f) davlat tomonidan moliyalashtiriladi",
+   "options": [
+    "I-b, c; II-e, f; III-a, d",
+    "I-b, c; II-a, d; III-e, f",
+    "I-e, f; II-b, c; III-a, d",
+    "I-a, b; II-e, f; III-c, d"
+   ],
+   "answer": 0,
+   "image": "img/h10-03-09.jpg"
+  },
+  {
+   "q": "Ijtimoiy yordamning ijtimoiy sug'urtadan farqi nimada?",
+   "options": [
+    "Faqat ish beruvchilar hisobidan to'lanadi",
+    "Faqat ishlayotgan shaxslarga beriladi",
+    "Sug'urta badallarini to'lash-to'lamaslikdan qat'i nazar, manzilli va maqsadli taqdim etiladi",
+    "Faqat pul ko'rinishida beriladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Insonning hayoti, erkinliklari, sha'ni, qadr-qimmati va boshqa daxlsiz huquqlari oliy qadriyat ekani Konstitutsiyaning qaysi moddasida mustahkamlangan?",
+   "options": [
+    "19-moddasida",
+    "46-moddasida",
+    "13-moddasida",
+    "1-moddasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Insonni sevish” ma'nosini bildirib, insonga oliy qadriyat sifatida yondashishni anglatuvchi tamoyil qaysi?",
+   "options": [
+    "Ijtimoiy adolat",
+    "Insonparvarlik",
+    "Profilaktik yo'naltirilganlik",
+    "Manzillilik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekistonda aholini ijtimoiy himoya qilish dasturlari asoslanadigan tamoyillarni aniqlang! I. insonparvarlik; II. ijtimoiy adolat; III. manzillilik; IV. profilaktik yo'naltirilganlik; V. mutanosiblik",
+   "options": [
+    "I, II, V",
+    "I, III, IV, V",
+    "I, II, III, IV",
+    "II, III, V"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ehtiyojmand qatlamni qo'llab- quvvatlashga qaratilgan tizimlar qaysi javobda to'g'ri ko'rsatilgan?",
+   "options": [
+    "“Ayollar daftari”, “Temir daftar”",
+    "“Yoshlar ittifoqi”, “Kamolot”",
+    "“Mahalla”, “Nuroniy”",
+    "“Obod qishloq”, “Obod mahalla”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "18 yoshgacha bolalari bo'lgan oilalarga nafaqa va kam ta'minlangan oilalarga moddiy yordam qaysi axborot tizimi orqali aniqlanadi?",
+   "options": [
+    "“Elektron hukumat” tizimi",
+    "“Yagona interaktiv davlat xizmatlari portali”",
+    "“Ijtimoiy himoya yagona reyestri”",
+    "“Temir daftar” tizimi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bolani parvarish qilish nafaqasi bola necha yoshga to'lguniga qadar tayinlanadi?",
+   "options": [
+    "3 yoshga",
+    "18 yoshga",
+    "6 yoshga",
+    "2 yoshga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur davrida masjid, madrasa, musofirxona va bemorxonalar ehtiyojiga daromadi sarflangan mulk qanday atalgan?",
+   "options": [
+    "Mulki xolis",
+    "Suyurg'ol",
+    "Iqto",
+    "Vaqf mulki"
+   ],
+   "answer": 3
+  }
+ ]
+}

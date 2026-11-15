@@ -1,0 +1,177 @@
+{
+ "title": "Huquq 10-sinf · 10-dars. Jamiyatda oilaning o'rni",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Agar oilaning baxtini boylik belgilaganda edi, bironta boy xonadonda oilaviy janjal ko'tarilmas edi” — ushbu fikr muallifi kim?",
+   "options": [
+    "Tohir Malik",
+    "Jaloliddin Rumiy",
+    "Alisher Navoiy",
+    "Abdulla Avloniy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qon-qarindoshlik, birga istiqomat qilish orqali bog'langan, bir-biriga nisbatan huquq va majburiyatlarga ega bo'lgan odamlardan iborat ijtimoiy guruh nima?",
+   "options": [
+    "Jamiyat",
+    "Mahalla",
+    "Oila",
+    "Nikoh"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Oila jamiyatning asosiy bo'g'inidir hamda u jamiyat va davlat muhofazasidadir” degan me'yor Konstitutsiyaning qaysi moddasida belgilangan?",
+   "options": [
+    "78-moddasida",
+    "77-moddasida",
+    "76-moddasida",
+    "80-moddasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiya moddalarini ularning mazmuni bilan TO'G'RI moslashtiring! 1 76-modda a Onalik, otalik va bolalik davlat tomonidan muhofaza qilinadi 2 77-modda b Voyaga yetgan mehnatga layoqatli farzandlar ota-onalari haqida g'amxo'rlik qilishga majbur 3 78-modda c Oila jamiyatning asosiy bo'g'inidir 4 80-modda d Ota-onalar farzandlarini voyaga yetguniga qadar boqishga majbur",
+   "options": [
+    "1-c, 2-d, 3-b, 4-a",
+    "1-c, 2-d, 3-a, 4-b",
+    "1-c, 2-a, 3-d, 4-b",
+    "1-d, 2-c, 3-a, 4-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "BMT Bosh Assambleyasi qaysi sanani Xalqaro oila kuni deb belgilagan?",
+   "options": [
+    "1-iyun",
+    "8-mart",
+    "1-oktyabr",
+    "15-may"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xalqaro oila kuni qaysi yildan buyon nishonlanib kelinadi?",
+   "options": [
+    "1989-yildan",
+    "1994-yildan",
+    "1948-yildan",
+    "2000-yildan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oilani mustahkamlash va oilaviy qadriyatlarni rivojlantirishga munosib hissa qo'shgan oilalarga beriladigan ko'krak nishoni qaysi?",
+   "options": [
+    "“Ibratli oila”",
+    "“Fazilatli oila”",
+    "“Sog'lom oila”",
+    "“Namunali oila”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eyler-Venn diagrammasida I – oila, II – nikoh, III – ikkalasiga ham xos belgilarni joylashtiring! a) Oila kodeksi bilan tartibga solinadi b) jamiyat va davlat muhofazasida c) erkak va ayolning ixtiyoriy kelishuvi d) qat'iy tuzilish va tugatilish sanasiga ega emas e) FHDY organlarida tuziladi f) a'zolari soni o'zgarishi mumkin",
+   "options": [
+    "I-d, f; II-a, b; III-c, e",
+    "I-d, f; II-c, e; III-a, b",
+    "I-c, e; II-d, f; III-a, b",
+    "I-b, d; II-c, e; III-a, f"
+   ],
+   "answer": 1,
+   "image": "img/h10-06-08.jpg"
+  },
+  {
+   "q": "Oiladagi qaysi munosabat huquq normalari bilan tartibga solinadi?",
+   "options": [
+    "Oila a'zolariga “siz” deb murojaat qilish",
+    "Er-xotinning shaxsiy va mulkiy huquq va majburiyatlari",
+    "Kattalarni hurmat qilish",
+    "Salom-alik qilish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Huquq qoidalari bilan tartibga solinadigan oilaviy munosabatlar qanday ataladi?",
+   "options": [
+    "Oiladagi huquqiy munosabatlar",
+    "Fuqarolik munosabatlari",
+    "Oiladagi axloqiy munosabatlar",
+    "Ijtimoiy munosabatlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston Respublikasining Oila kodeksi qachon qabul qilingan va qachon kuchga kirgan?",
+   "options": [
+    "1998-yil 1-sentyabrda qabul qilinib, 1999-yil 1- yanvardan kuchga kirgan",
+    "1996-yil 30-aprelda qabul qilinib, 1997-yil 1- yanvardan kuchga kirgan",
+    "1995-yil 21-dekabrda qabul qilinib, 1996-yil 1- martdan kuchga kirgan",
+    "1998-yil 30-aprelda qabul qilinib, 1998-yil 1- sentyabrdan kuchga kirgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oila kodeksi nechta bo'lim va nechta moddadan iborat?",
+   "options": [
+    "10 ta bo'lim, 300 ta modda",
+    "8 ta bo'lim, 220 ta modda",
+    "8 ta bo'lim, 238 ta modda",
+    "6 ta bo'lim, 238 ta modda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Oilani mustahkamlash maqsadida qaysi g'oya asosida islohotlar olib borilmoqda?",
+   "options": [
+    "“Inson qadri uchun”",
+    "“Oila – mahalla – maktab”",
+    "“Ibratli oila – ibratli jamiyat”",
+    "“Sog'lom oila – sog'lom jamiyat”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yangi O'zbekiston Taraqqiyot strategiyasining qaysi maqsadida yosh oilalarni qo'llab-quvvatlash belgilangan?",
+   "options": [
+    "80-maqsadida",
+    "60-maqsadida",
+    "71-maqsadida",
+    "70-maqsadida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oila kodeksining 4¹-moddasiga ko'ra qanday oila ko'p bolali oila hisoblanadi?",
+   "options": [
+    "To'rt nafar va undan ortiq o'n sakkiz yoshga to'lmagan bolasi bo'lgan oila",
+    "Besh nafar va undan ortiq bolasi bo'lgan oila",
+    "Uch nafar va undan ortiq bolasi bo'lgan oila",
+    "Ikki nafar va undan ortiq voyaga yetmagan bolasi bo'lgan oila"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bolalardan biri kunduzgi ta'limda o'qiyotgan bo'lsa, u necha yoshga to'lmaguncha oila ko'p bolali oila hisoblanadi?",
+   "options": [
+    "22 yoshga",
+    "25 yoshga",
+    "18 yoshga",
+    "21 yoshga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ijtimoiy himoyaga muhtoj xotin-qizlarni ro'yxatga olish uchun Oila va xotin-qizlar qo'mitasi tomonidan ishlab chiqilgan elektron tizim qaysi?",
+   "options": [
+    "“Temir daftar”",
+    "“Mahalla daftari”",
+    "“Ayollar daftari”",
+    "“Yoshlar daftari”"
+   ],
+   "answer": 2
+  }
+ ]
+}

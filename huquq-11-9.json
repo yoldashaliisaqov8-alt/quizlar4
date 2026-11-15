@@ -1,0 +1,116 @@
+{
+ "title": "Huquq 11-sinf · 11-dars. Davlat xizmatlaridan foydalanish",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Davlat organlari tomonidan jismoniy va yuridik shaxslarga ko'rsatiladigan rasmiy xizmatlar nima deb ataladi?",
+   "options": [
+    "Tijorat xizmatlari",
+    "Davlat xizmatlari",
+    "Kommunal xizmatlar",
+    "Notarial xizmatlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yagona interaktiv davlat xizmatlari portalining veb-sayti qaysi?",
+   "options": [
+    "my.gov.uz",
+    "lex.uz",
+    "advice.uz",
+    "my.mehnat.uz"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yagona interaktiv davlat xizmatlari portali qanday rejimda ishlaydi?",
+   "options": [
+    "Faqat kunduzi",
+    "24/7 rejimida",
+    "Faqat ish kunlari 9:00–18:00",
+    "Faqat dushanbadan jumagacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yagona interaktiv davlat xizmatlari portali (my.gov.uz) qachon ishga tushirilgan?",
+   "options": [
+    "2019-yilda",
+    "2017-yilda",
+    "2013-yilda",
+    "2010-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Barcha davlat xizmatlari portal orqali qaysi prinsip asosida taqdim etiladi?",
+   "options": [
+    "“Yagona darcha” prinsipi",
+    "“Raqamli hukumat” prinsipi",
+    "“Xalq qabulxonasi” prinsipi",
+    "“Ochiq eshiklar” prinsipi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Davlat xizmatlari onlayn ko'rsatilganda pulli xizmatlar uchun nima beriladi?",
+   "options": [
+    "Jarima",
+    "Chegirma",
+    "Navbat raqami",
+    "Qo'shimcha to'lov"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davlat xizmatlarini oflayn shaklda ko'rsatadigan tuzilma qaysi?",
+   "options": [
+    "Kasbiy ko'nikmalar markazi",
+    "Yagona interaktiv davlat xizmatlari portali",
+    "Davlat xizmatlari markazi",
+    "Ma'muriy sud"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlat xizmatlari markaziga murojaat qilishda doimiy ro'yxatda turish joyi ahamiyatga egami?",
+   "options": [
+    "Faqat viloyat markazidagi markazga borish mumkin",
+    "Faqat ro'yxatda turgan joydagi markazga borish mumkin",
+    "Faqat Toshkentdagi markazga borish mumkin",
+    "Ahamiyatga ega emas, eng yaqin markazga borish mumkin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Davlat xizmatlari turlarini ularning mazmuni bilan TO'G'RI moslashtiring! 1 Ko'chmas mulk a Yuridik xizmatlar, notarial harakatlar 2 Transport b Mulkni rasmiylashtirish, kadastr va qurilish 3 Fuqarolik c Fuqarolarni ro'yxatga qo'yish, pasport xizmatlari 4 Adliya d Sug'urta polisi, haydovchilik guvohnomasini almashtirish",
+   "options": [
+    "1-b, 2-c, 3-d, 4-a",
+    "1-b, 2-d, 3-a, 4-c",
+    "1-b, 2-d, 3-c, 4-a",
+    "1-d, 2-b, 3-c, 4-a"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Olis hududlarda davlat xizmatlari qanday ko'rsatiladi?",
+   "options": [
+    "Ko'rsatilmaydi",
+    "Faqat telefon orqali",
+    "Faqat pochta orqali",
+    "Maxsus transportlarda sayyor davlat xizmatlari orqali"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Butun dunyo davlatlaridagi davlat xizmatlarini raqamlashtirish bo'yicha eng muhim ma'lumotlar tizimi qaysi?",
+   "options": [
+    "BMT Elektron hukumat bilim bazasi",
+    "Jahon banki statistikasi",
+    "Xalqaro elektraloqa ittifoqi reytingi",
+    "YuNESKO ma'lumotlar bazasi"
+   ],
+   "answer": 0
+  }
+ ]
+}

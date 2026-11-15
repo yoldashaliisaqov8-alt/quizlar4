@@ -1,0 +1,176 @@
+{
+ "title": "Huquq 9-sinf · 23-dars. Inson huquq va erkinliklarining kafolatlanishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Agar kimda-kim barcha qonunlarni o'rganishni xohlasa, uning qonunlarni buzishga vaqti bo'lmaydi” — ushbu fikr muallifi kim?",
+   "options": [
+    "Gyote",
+    "Aflotun",
+    "Lev Tolstoy",
+    "Voiz Koshifiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Shaxs huquq va erkinliklarini amalga oshirishni ta'minlashga qaratilgan huquqiy vositalar, yuridik usullar va shart-sharoitlar majmuyi” — bu nima?",
+   "options": [
+    "Inson huquq va erkinliklarining kafolatlari",
+    "Huquqiy madaniyat",
+    "Inson huquqlari tizimi",
+    "Fuqarolik jamiyati"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Insonning huquq va erkinliklarini ta'minlash davlatning oliy maqsadidir” — Konstitutsiyaning nechanchi moddasi?",
+   "options": [
+    "56-moddasi",
+    "54-moddasi",
+    "55-moddasi",
+    "59-moddasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Inson huquq va erkinliklarini himoya qilishda asosiy organ qaysi?",
+   "options": [
+    "Prokuratura",
+    "Ombudsman",
+    "Sud",
+    "Mahalla"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sudga shikoyat qilishda avvalo qaysi sudga ariza topshirish kerak?",
+   "options": [
+    "Oliy sudga",
+    "Tuman sudiga",
+    "Konstitutsiyaviy sudga",
+    "Viloyat sudiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Huquq va erkinliklarni sud orqali himoya qilish, sudga shikoyat qilish huquqi va xalqaro organlarga murojaat etish huquqi Konstitutsiyaning nechanchi moddasida?",
+   "options": [
+    "54-moddasida",
+    "28-moddasida",
+    "56-moddasida",
+    "55-moddasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'zbekistonda inson huquqlari bo'yicha milliy institutlar tizimiga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Inson huquqlari bo'yicha Milliy markaz",
+    "Oliy sud",
+    "Bola huquqlari bo'yicha vakil (Bolalar ombudsmani)",
+    "Oliy Majlisning Inson huquqlari bo'yicha vakili (ombudsman)"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Inson huquqlari bo'yicha milliy institutlarga murojaat qilishning suddan farqi nimada?",
+   "options": [
+    "Murojaat faqat yozma bo'ladi",
+    "Faqat advokat orqali murojaat qilinadi",
+    "Davlat boji undirilmaydi",
+    "Faqat fuqarolar murojaat qila oladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ombudsman instituti birinchi marta qachon va qayerda tashkil etilgan?",
+   "options": [
+    "1789-yilda Fransiyada",
+    "1679-yilda Angliyada",
+    "1945-yilda AQSHda",
+    "1809-yilda Shvetsiyada"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Arab xalifaligida qaysi xalifa davrida ombudsman vazifasini bajargan lavozim ta'sis etilgan va u qanday atalgan?",
+   "options": [
+    "Xalifa Abu Bakr davrida; amir",
+    "Xalifa Ali davrida; qozi",
+    "Xalifa Usmon davrida; vazir",
+    "Xalifa Umar davrida; muxtasib"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Ombudsman” so'zi qaysi tildan kelib chiqqan va qanday ma'noni ifodalaydi?",
+   "options": [
+    "Fransuzcha — “sudya”",
+    "Lotincha — “himoyachi”",
+    "Shved tilidagi “ombud” — “vositachi”, “boshqa shaxslarning vakili”",
+    "Inglizcha — “nazoratchi”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ombudsmanga kimlar murojaat qilishi mumkin?",
+   "options": [
+    "O'zbekiston fuqarolari, O'zbekistondagi chet elliklar va fuqaroligi bo'lmagan shaxslar",
+    "Faqat davlat organlari",
+    "Faqat O'zbekiston fuqarolari",
+    "Faqat yuridik shaxslar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ombudsmanga murojaat qiluvchi o'zi haqidagi ma'lumotlarni ko'rsatmasa, nima bo'ladi?",
+   "options": [
+    "Ariza anonim hisoblanib, ko'rib chiqilmaydi",
+    "Ariza prokuraturaga yuboriladi",
+    "Ariza ustuvor tartibda ko'riladi",
+    "Ariza sudga yuboriladi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Davlatning inson huquqlari bo'yicha milliy institutlar faoliyati uchun shart-sharoit yaratishi Konstitutsiyaning nechanchi moddasida?",
+   "options": [
+    "55-moddasida",
+    "56-moddasida",
+    "57-moddasida",
+    "54-moddasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shaxs inson huquqlari bo'yicha xalqaro organlarga qachon murojaat qilishi mumkin?",
+   "options": [
+    "Faqat ombudsman rad etgandan keyin",
+    "Istalgan vaqtda, birinchi navbatda",
+    "Faqat Prezident ruxsati bilan",
+    "Davlatning huquqiy himoyaga doir barcha ichki vositalaridan foydalanib bo'lingandan keyin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xalqaro organga murojaat qilinayotganda shaxs nimani ko'rsatishi lozim?",
+   "options": [
+    "O'zbekiston qo'shilgan xalqaro shartnomalarda belgilangan huquqlari buzilganini",
+    "Faqat milliy qonunlardagi huquqlari buzilganini",
+    "Mahalla tavsiyanomasini",
+    "Ombudsman qarorini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "BMT tizimidagi inson huquqlarini himoya qiluvchi xalqaro organlar qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Bola huquqlari bo'yicha qo'mita",
+    "Qiynoqlarga qarshi qo'mita",
+    "Xalqaro valyuta jamg'armasi",
+    "Inson huquqlari bo'yicha kengash"
+   ],
+   "answer": 2
+  }
+ ]
+}

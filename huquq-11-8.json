@@ -1,0 +1,118 @@
+{
+ "title": "Huquq 11-sinf · 10-dars. Ma'muriy huquq tushunchasi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Davlat boshqaruvi faoliyatida yuzaga keluvchi munosabatlarni, shu jumladan davlat organlari va fuqarolar o'rtasidagi munosabatlarni tartibga soluvchi huquq sohasi qaysi?",
+   "options": [
+    "Jinoyat huquqi",
+    "Mehnat huquqi",
+    "Fuqarolik huquqi",
+    "Ma'muriy huquq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Davlat organlari va fuqarolar yoki tashkilotlar o'rtasida yuzaga keladigan, ma'muriy huquq normalari asosida tartibga solinadigan munosabatlar qanday ataladi?",
+   "options": [
+    "Mehnatga oid munosabatlar",
+    "Jinoyat-protsessual munosabatlar",
+    "Fuqarolik-huquqiy munosabatlar",
+    "Ma'muriy-huquqiy munosabatlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ma'muriy huquq bilan tartibga solinadigan munosabatlarni ishtirokchi organlar bilan TO'G'RI moslashtiring! 1 Avtomashinani davlat a Bilim va malakalarni ro'yxatidan o'tkazish baholash agentligi 2 Tadbirkorlikni b Ichki ishlar organlari ro'yxatdan o'tkazish 3 Oliygoh imtihonlariga c Davlat xizmatlari ro'yxatdan o'tish markazlari",
+   "options": [
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqarolar va yuridik shaxslarning davlat organlari, mansabdor shaxslarning noqonuniy qaror yoki harakatlariga nisbatan shikoyatlarini ko'rib chiqadigan sudlov organi qaysi?",
+   "options": [
+    "Iqtisodiy sud",
+    "Ma'muriy sud",
+    "Konstitutsiyaviy sud",
+    "Jinoyat ishlari bo'yicha sud"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekistonda ma'muriy sudlar tizimi qachondan joriy qilingan?",
+   "options": [
+    "2008-yildan",
+    "2020-yildan",
+    "2017-yildan",
+    "2013-yildan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ma'muriy sudlarning asosiy vazifalari qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Davlat organlari va fuqarolar o'rtasidagi ma'muriy nizolarni hal qilish",
+    "Jinoyat ishlari bo'yicha hukm chiqarish",
+    "Davlat hokimiyati bilan bog'liq ma'muriy-huquqiy nizolarni hal qilish",
+    "Mansabdor shaxslarning noqonuniy qarorlarini bekor qilish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eyler-Venn diagrammasida I – ma'muriy huquq, II – ma'muriy javobgarlik, III – ikkalasiga ham xos belgilarni joylashtiring! a) ma'muriy huquqbuzarlik sodir etilganda yuzaga keladi b) aniq bitta manbasi mavjud emas c) asosiy manbasi Ma'muriy javobgarlik to'g'risidagi kodeks d) litsenziya, ruxsat berish, ro'yxatdan o'tkazishga tatbiq etiladi e) qonunchilik bilan tartibga solinadi f) davlat va shaxs o'rtasidagi munosabatlar bilan bog'liq",
+   "options": [
+    "I-b, d; II-e, f; III-a, c",
+    "I-a, c; II-b, d; III-e, f",
+    "I-b, d; II-a, c; III-e, f",
+    "I-b, f; II-a, c; III-d, e"
+   ],
+   "answer": 2,
+   "image": "img/h11-08-07.jpg"
+  },
+  {
+   "q": "Ma'muriy boshqaruv vakolati berilgan ijro etuvchi hokimiyat organlari, fuqarolarning o'zini o'zi boshqarish organlari va boshqa vakolatli tashkilotlar qanday ataladi?",
+   "options": [
+    "Huquqni muhofaza qiluvchi organ",
+    "Ma'muriy organ",
+    "Vakillik organi",
+    "Sud organi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h11-08-09.jpg"
+  },
+  {
+   "q": "Quyidagi vaziyatlardan qaysi biri “ma'muriy huquq”ga (ma'muriy javobgarlikka emas) tegishli?",
+   "options": [
+    "Yo'lovchining transportda chiptasiz yurishi",
+    "Tungi vaqtda fuqarolar osoyishtaligini buzish",
+    "Nodavlat ta'lim xizmatlarini ko'rsatish uchun litsenziya olish",
+    "Haqorat qilish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi vaziyatlardan qaysi biri ma'muriy javobgarlikka sabab bo'ladi?",
+   "options": [
+    "Tungi soat 23:00 dan 06:00 gacha fuqarolarning osoyishtaligini buzish",
+    "Litsenziya olish uchun ariza berish",
+    "O'zini o'zi band qilgan shaxs sifatida ro'yxatdan o'tish",
+    "Avtotransportni qayta jihozlash uchun ruxsatnoma olish"
+   ],
+   "answer": 0
+  }
+ ]
+}

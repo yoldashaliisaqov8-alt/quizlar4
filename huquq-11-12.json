@@ -1,0 +1,137 @@
+{
+ "title": "Huquq 11-sinf · 15-dars. Huquqbuzarlikning oldini olish",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Huquq-tartibotni saqlash, huquqbuzarliklarni aniqlash, bartaraf etish va ularning sabablarini o'rganishga qaratilgan chora- tadbirlar tizimi nima?",
+   "options": [
+    "Ma'muriy-huquqiy nizo",
+    "Huquqbuzarliklar profilaktikasi",
+    "Ma'muriy javobgarlik",
+    "Jinoyat protsessi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Profilaktika” so'zi qaysi tildan olingan va qanday ma'noni bildiradi?",
+   "options": [
+    "Yunoncha — “oldini olish”",
+    "Fransuzcha — “himoya”",
+    "Lotincha — “jazolash”",
+    "Arabcha — “nazorat”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquqbuzarlikning oldini olish kimning burchi hisoblanadi?",
+   "options": [
+    "Davlat organlari bilan birga har bir O'zbekiston fuqarosining",
+    "Faqat prokuraturaning",
+    "Faqat sudlarning",
+    "Faqat ichki ishlar organlarining"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yoshlar huquqbuzarligining oldini olish bo'yicha milliy qonun hujjatlari qatoriga kirMAYDIGAN javobni toping!",
+   "options": [
+    "“Bola huquqlarining kafolatlari to'g'risida”gi Qonun",
+    "“Iste'molchilarning huquqlarini himoya qilish to'g'risida”gi Qonun",
+    "“Voyaga yetmaganlar o'rtasida nazoratsizlik va huquqbuzarliklarning profilaktikasi to'g'risida”gi Qonun",
+    "“Yoshlarga oid davlat siyosati to'g'risida”gi Qonun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Huquqbuzarliklar profilaktikasi kuni” etib haftaning qaysi kuni belgilangan?",
+   "options": [
+    "Shanba",
+    "Payshanba",
+    "Juma",
+    "Dushanba"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Huquqbuzarliklar profilaktikasi to'g'risida”gi qonun qachon kuchga kirgan?",
+   "options": [
+    "2014-yilda",
+    "2010-yilda",
+    "2019-yilda",
+    "2017-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquqbuzarliklar profilaktikasini amalga oshiruvchi organlarning asosiy vazifasi nimadan iborat?",
+   "options": [
+    "Faqat huquqbuzarlarni jazolash",
+    "Jarimalar undirish",
+    "Shaxslarning huquqlari, erkinliklari va qonuniy manfaatlari himoya qilinishini ta'minlash",
+    "Shaxslarning huquqlarini cheklash"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "image": "img/h11-12-08.jpg"
+  },
+  {
+   "q": "Jabrlanganlarning huquqlari qonun bilan muhofaza qilinishi va davlat ularga odil sudlovdan foydalanishni ta'minlashi Konstitutsiyaning qaysi moddasida belgilangan?",
+   "options": [
+    "55-moddasida",
+    "43-moddasida",
+    "42-moddasida",
+    "29-moddasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Temur tuzuklari”ga ko'ra har bir shahar va qishloqqa soqchilik qilish uchun kim tayinlangan?",
+   "options": [
+    "Qutvol",
+    "Vazir",
+    "Qozi",
+    "Arzbegi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Temur tuzuklari”ga ko'ra sipoh, raiyat va arz-dod qilib keluvchilarning ahvolini hukmdorga yetkazib turuvchi mansabdor kim?",
+   "options": [
+    "Qutvol",
+    "Dorug'a",
+    "Muhtasib",
+    "Arzbegi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Profilaktika choralarini ularning mazmuni bilan TO'G'RI moslashtiring! 1 Profilaktik a G'ayriijtimoiy xulq-atvorni suhbat davom ettirishga yo'l qo'yib bo'lmasligini yozma tushuntirish 2 Rasmiy b Huquqbuzarlik sodir etgan ogohlantirish shaxslarni ichki ishlar organlari tomonidan ro'yxatga olish 3 Profilaktik c Xulq-atvor normalariga rioya hisobga olish etishga ishontirish va oqibatlarni tushuntirish",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-c, 2-a, 3-b",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Berlin shahrida ijara haqini cheklagan “Mietendeckel” qonuni Germaniya Federal Konstitutsiyaviy sudi tomonidan qachon konstitutsiyaga zid deb topilgan?",
+   "options": [
+    "2019-yilda",
+    "2023-yilda",
+    "2021-yilda",
+    "2017-yilda"
+   ],
+   "answer": 2
+  }
+ ]
+}

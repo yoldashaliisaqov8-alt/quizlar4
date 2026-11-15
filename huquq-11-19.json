@@ -1,0 +1,87 @@
+{
+ "title": "Huquq 11-sinf · 25-dars. Boshqaruv tartibiga qarshi jinoyatlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Boshqaruv tartibiga qarshi jinoyatlar ichida keng tarqalgan jinoyatlarni aniqlang! I. pora olish; II. pora berish; III. pora olish-berishda vositachilik qilish; IV. genotsid",
+   "options": [
+    "I, II, IV",
+    "II, III, IV",
+    "I, IV",
+    "I, II, III"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Davlat ulushi ellik foizdan ortiq bo'lgan tijorat tashkiloti yoki davlat organi tomonidan tashkil etilgan notijorat tashkiloti qanday ataladi?",
+   "options": [
+    "Jamoat birlashmasi",
+    "Nodavlat notijorat tashkiloti",
+    "Davlat ishtirokidagi tashkilot",
+    "Xususiy korxona"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Davlat xalq irodasini ifoda etib, uning manfaatlariga xizmat qiladi. Davlat organlari va mansabdor shaxslar jamiyat va fuqarolar oldida mas'uldirlar” degan qoida Konstitutsiyaning qaysi moddasida belgilangan?",
+   "options": [
+    "2-moddasida",
+    "1-moddasida",
+    "27-moddasida",
+    "31-moddasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h11-19-04.jpg"
+  },
+  {
+   "q": "Mansabdor shaxsning tanlov yoki tendersiz davlat idorasini ta'mirlashga o'z qarindoshini jalb etib, budjetga ko'p miqdorda zarar yetkazishi qanday jinoyat?",
+   "options": [
+    "Hokimiyat yoki mansab vakolatini suiiste'mol qilish",
+    "Pora berish",
+    "Firibgarlik",
+    "Talonchilik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shahar hokimining o'z vakolati doirasiga kirmaydigan binolarni ijaraga qo'yish bo'yicha qaror chiqarishi qanday jinoyat?",
+   "options": [
+    "Qo'poruvchilik",
+    "Pora olish",
+    "Tovlamachilik",
+    "Hokimiyat yoki mansab vakolati doirasidan chetga chiqish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jinoyatlarni ularning mazmuni bilan TO'G'RI moslashtiring! 1 Pora olish a Pora oluvchi va pora beruvchi o'rtasida aloqani ta'minlash 2 Pora berish b Mansabdor shaxsning xizmat mavqeyidan foydalanib moddiy manfaat olishi 3 Pora olish- c Mansabdor shaxsga xizmat berishda vazifasini noqonuniy bajarishi vositachilik evaziga moddiy manfaat berish",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-b, 2-c, 3-a",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pora olish va boshqaruv tartibiga qarshi jinoyatlarning asosiy salbiy oqibati nima?",
+   "options": [
+    "Hech qanday oqibat bo'lmaydi",
+    "Xalqning davlat organlariga bo'lgan ishonchiga putur yetadi",
+    "Iqtisodiy o'sish tezlashadi",
+    "Davlat budjeti ko'payadi"
+   ],
+   "answer": 1
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "title": "Huquq 8-sinf · 15-dars. Huquqiy munosabatlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Xalqning o'zi to'g'ridan to'g'ri tasdiqlamagan qonun — haqiqiy emas” — ushbu fikr muallifi kim?",
+   "options": [
+    "Monteskyo",
+    "Jan Jak Russo",
+    "Hyugo Grotiyus",
+    "Ulpian"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikka ko'ra oldi-sotdi bitimlari va jinoyat sodir etish qanday huquqiy munosabatlarga misol bo'ladi?",
+   "options": [
+    "Oldi-sotdi — fuqarolik, jinoyat sodir etish — jinoiy-huquqiy munosabat",
+    "Oldi-sotdi — ma'muriy, jinoyat — mehnat munosabati",
+    "Ikkalasi ham jinoiy-huquqiy munosabat",
+    "Ikkalasi ham fuqarolik munosabati"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Huquq normalari bilan tartibga solinadigan ijtimoiy munosabatlar” qanday ataladi?",
+   "options": [
+    "Ma'naviy munosabatlar",
+    "Axloqiy munosabatlar",
+    "Huquqiy munosabatlar",
+    "Siyosiy munosabatlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Huquqiy munosabatlarning vujudga kelishi uchun nima yuzaga kelishi lozim?",
+   "options": [
+    "Faqat sud qarori",
+    "Yuridik fakt — hodisa yoki harakat",
+    "Faqat davlat organining ruxsati",
+    "Faqat shartnoma"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan qaysi biri yuridik fakt sifatida hodisaga misol bo'ladi?",
+   "options": [
+    "Huquqbuzarlik sodir etish",
+    "Sudga ariza berish",
+    "Shartnoma imzolash",
+    "Insonning tug'ilishi, o'limi, yong'in"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Huquqiy munosabatlarda kamida necha tomon ishtirok etadi?",
+   "options": [
+    "Kamida uch tomon: ikki fuqaro va davlat",
+    "Kamida ikki tomon: huquq egasi va majburiyatni bajaruvchi",
+    "Bir tomon: faqat huquq egasi",
+    "Faqat davlat va fuqaro"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Huquqiy munosabatlarning tarkibiy qismlari TO'G'RI berilgan javobni aniqlang!",
+   "options": [
+    "Huquq normasi, institut va soha",
+    "Hodisa, harakat va natija",
+    "Obyekt, subyekt, subyektiv huquq va yuridik majburiyat",
+    "Gipoteza, dispozitsiya va sanksiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Huquqiy munosabat ishtirokchilarining diqqati qaratilgan aniq narsa nima deyiladi?",
+   "options": [
+    "Huquqiy munosabatning subyekti",
+    "Subyektiv huquq",
+    "Yuridik majburiyat",
+    "Huquqiy munosabatning obyekti"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Huquq va majburiyat egalari huquqiy munosabatlarning nimasi hisoblanadi?",
+   "options": [
+    "Subyektlari",
+    "Yuridik faktlari",
+    "Obyektlari",
+    "Sanksiyalari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquqiy munosabat ishtirokchilarining bir-birlari oldida bajarishlari lozim bo'lgan burchi yoki ba'zi harakatlardan o'zlarini tiyishlari nima deyiladi?",
+   "options": [
+    "Yuridik majburiyat",
+    "Huquq layoqati",
+    "Obyekt",
+    "Subyektiv huquq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oldi-sotdi misolida xaridorning subyektiv huquqi va yuridik majburiyatini aniqlang!",
+   "options": [
+    "Huquqi — tovarning pulini olish; majburiyati — sifatli tovarni taqdim qilish",
+    "Huquqi — tovarni sotish; majburiyati — tovar haqida ma'lumot berish",
+    "Huquqi va majburiyati yo'q",
+    "Huquqi — sifatli tovarni sotib olish; majburiyati — tovarning pulini to'lash"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oldi-sotdi huquqiy munosabatida obyekt nima hisoblanadi?",
+   "options": [
+    "Mahsulotlar (tovar)",
+    "Sotuvchi",
+    "To'lov majburiyati",
+    "Xaridor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquqiy munosabatlarda ishtirok etuvchi subyektlar qanday layoqatlarga ega bo'lishi talab etiladi?",
+   "options": [
+    "Huquq layoqati va muomala layoqatiga",
+    "Faqat mehnat layoqatiga",
+    "Faqat muomala layoqatiga",
+    "Faqat jinoiy javobgarlik layoqatiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yangi tug'ilgan chaqaloq qanday huquqlarga ega bo'ladi?",
+   "options": [
+    "Hech qanday huquqqa ega bo'lmaydi",
+    "Saylovda ishtirok etish huquqiga",
+    "Faqat meros olish huquqiga",
+    "Tibbiy yordam olish, turar joyga, o'z ismi va familiyasiga ega bo'lish huquqlariga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikka ko'ra ayrim davlatlarda hali tug'ilmagan bola qanday huquqqa ega bo'lishi mumkin?",
+   "options": [
+    "Mulkni sotish huquqiga",
+    "Merosxo'r bo'la oladi",
+    "Shartnoma tuzish huquqiga",
+    "Saylov huquqiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Muomala layoqati nimalar bilan bog'liq?",
+   "options": [
+    "Faqat fuqarolik bilan",
+    "Faqat mulkiy holat bilan",
+    "Yosh va ruhiy salomatlik bilan",
+    "Faqat ma'lumot darajasi bilan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbekiston qonunlariga binoan to'la muomala layoqati qachondan boshlanadi?",
+   "options": [
+    "Fuqaro 18 yoshga to'lgandan so'ng",
+    "14 yoshdan",
+    "16 yoshdan",
+    "21 yoshdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra shaxs jinoiy javobgarlikka umumiy qoidaga ko'ra necha yoshdan, ayrim jinoyatlar uchun necha yoshdan tortilishi mumkin?",
+   "options": [
+    "18 yoshdan; 14 yoshdan",
+    "16 yoshdan; 14 yoshdan",
+    "14 yoshdan; 12 yoshdan",
+    "18 yoshdan; 16 yoshdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fuqarolik kodeksining 17-moddasiga ko'ra fuqaroning huquq layoqati qachon vujudga keladi va qachon tugaydi?",
+   "options": [
+    "14 yoshdan vujudga keladi va 70 yoshda tugaydi",
+    "Pasport olgandan keyin vujudga keladi",
+    "18 yoshdan vujudga keladi va vafot etishi bilan tugaydi",
+    "Tug'ilgan paytdan e'tiboran vujudga keladi va vafot etishi bilan tugaydi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Voyaga yetgunga qadar qonuniy asosda nikohdan o'tgan fuqaro qachondan to'la hajmda muomala layoqatiga ega bo'ladi?",
+   "options": [
+    "Farzand ko'rgandan keyin",
+    "Nikohdan o'tgan vaqtdan e'tiboran",
+    "Sud qaroridan keyin",
+    "18 yoshga to'lgandan keyin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nikoh tuzish natijasida ega bo'lingan muomala layoqati 18 yoshga to'lmasdan nikoh bekor qilinsa, qanday bo'ladi?",
+   "options": [
+    "To'la saqlanib qoladi",
+    "Faqat sud qarori bilan saqlanadi",
+    "Butunlay yo'qotiladi",
+    "Yarmi saqlanib qoladi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muomala layoqati Fuqarolik kodeksining nechanchi moddasida, yuridik shaxs tushunchasi nechanchi moddasida belgilangan?",
+   "options": [
+    "22-moddasida; 17-moddasida",
+    "17-moddasida; 22-moddasida",
+    "22-moddasida; 39-moddasida",
+    "39-moddasida; 17-moddasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikdagi misolga ko'ra Bobur do'kondan o'quv qurollarini sotib olganda qanday huquqiy munosabat vujudga keladi?",
+   "options": [
+    "Mehnat munosabati",
+    "Fuqaroviy-huquqiy munosabat",
+    "Jinoiy-huquqiy munosabat",
+    "Ma'muriy huquqbuzarlik munosabati"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ulug'bek Shohistani haqorat qilgan misolda obyekt nima hisoblanadi?",
+   "options": [
+    "Ulug'bek",
+    "Ulug'bekka qo'llanilgan jazo",
+    "Shohistaning murojaati",
+    "Shohistaning sha'ni, qadr-qimmati"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikdagi misolga ko'ra Jahongir korxonada ishlaganda vujudga keladigan mehnat munosabatlarida yuridik majburiyat nima hisoblanadi?",
+   "options": [
+    "Mehnat qilish huquqi",
+    "Ish beruvchi",
+    "Mehnat muhofazasi va xavfsizligiga rioya qilish",
+    "Ish haqi olish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni toping.\na) huquqiy munosabat subyektlariga talab etiladi;\nb) nikohdan o'tish bilan to'la hajmda vujudga kelishi mumkin;\nc) 18 yoshga to'lgach to'la hajmda vujudga keladi;\nd) Fuqarolik kodeksida belgilangan.\ne) tug'ilgan paytdan vujudga keladi;\nf) vafot etishi bilan tugaydi;",
+   "options": [
+    "I-e, f; II-a, d; III-b, c",
+    "I-b, c; II-e, f; III-a, d",
+    "I-e, f; II-b, c; III-a, d",
+    "I-a, e; II-b, c; III-d, f"
+   ],
+   "answer": 2,
+   "image": "img/h8-10-26.jpg"
+  }
+ ]
+}

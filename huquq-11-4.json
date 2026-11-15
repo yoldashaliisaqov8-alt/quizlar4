@@ -1,0 +1,137 @@
+{
+ "title": "Huquq 11-sinf · 5-dars. Mehnatga haq to'lash",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Ish beruvchi tomonidan xodimga uning mehnati uchun to'lovlar belgilash va ularni amalga oshirishga oid munosabatlar tizimi nima?",
+   "options": [
+    "Mehnatga haq to'lash",
+    "Ijtimoiy sug'urta",
+    "Moddiy javobgarlik",
+    "Kompensatsiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ish haqi qaysi valyutada to'lanadi?",
+   "options": [
+    "Yevroda",
+    "AQSH dollarida",
+    "Xodim tanlagan valyutada",
+    "Milliy valyutada"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ish haqini to'lashga oid TO'G'RI fikrni aniqlang!",
+   "options": [
+    "Mehnatga natura shaklida haq to'lash cheklanadi, qarz majburiyatlari va tilxatlar tarzida to'lash taqiqlanadi",
+    "Ish haqi faqat chet el valyutasida to'lanadi",
+    "Ish haqini mahsulot bilan to'lash har doim mumkin",
+    "Ish haqini tilxat tarzida to'lash mumkin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mehnatga haq to'lash miqdori qanday cheklanadi?",
+   "options": [
+    "Eng kam miqdorning o'n baravari bilan cheklanadi",
+    "Davlat tomonidan cheklanadi",
+    "Rahbar maoshi bilan cheklanadi",
+    "Biror-bir eng ko'p miqdor bilan cheklanmaydi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mehnatga haq to'lash sohasidagi asosiy kafolatlar qatoriga kirMAYDIGAN javobni toping!",
+   "options": [
+    "Mehnatga haq to'lashning eng kam miqdorini belgilash",
+    "Barcha xodimlarga bir xil miqdorda haq to'lash",
+    "Teng qiymatli mehnat uchun erkaklar va ayollarga teng haq to'lash",
+    "Ish haqidan ushlab qolish miqdorini cheklash"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mehnatga haq to'lashning eng kam miqdori kimlar uchun majburiy?",
+   "options": [
+    "Faqat davlat tashkilotlari uchun",
+    "Tashkiliy-huquqiy va mulkchilik shaklidan qat'i nazar barcha ish beruvchilar uchun",
+    "Faqat budjet tashkilotlari uchun",
+    "Faqat xususiy korxonalar uchun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ish haqi to'lash muddatlari qanchadan kam bo'lishi mumkin emas?",
+   "options": [
+    "Har chorakda bir martadan",
+    "Har haftada bir martadan",
+    "Har yarim oyda bir martadan",
+    "Har oyda bir martadan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ish beruvchi ish haqini to'lash muddatini buzsa, kechiktirilgan har bir kun uchun foizlar qaysi stavkadan kelib chiqib to'lanadi?",
+   "options": [
+    "Tijorat banklarining kredit stavkasidan",
+    "Markaziy bankning qayta moliyalashtirish stavkasidan",
+    "Inflyatsiya darajasidan",
+    "Bazaviy hisoblash miqdoridan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ish haqini taqiqlangan shakllarda to'laganlik uchun mansabdor shaxslarga qanday javobgarlik belgilangan?",
+   "options": [
+    "Intizomiy hayfsan",
+    "Faqat ogohlantirish",
+    "Jinoiy javobgarlik",
+    "Ma'muriy jarima"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h11-04-10.jpg"
+  },
+  {
+   "q": "Ish haqi to'lash uchun pul mablag'lari berishni bank xodimi asossiz kechiktirsa, Ma'muriy javobgarlik to'g'risidagi kodeksning 241¹-moddasiga ko'ra qanday jarima solinadi?",
+   "options": [
+    "Bazaviy hisoblash miqdorining ellik baravaridan yuz baravarigacha",
+    "Bazaviy hisoblash miqdorining bir baravaridan uch baravarigacha",
+    "Bazaviy hisoblash miqdorining yigirma baravaridan qirq baravarigacha",
+    "Bazaviy hisoblash miqdorining besh baravaridan o'n baravarigacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ish haqi shakllarini ularning tavsifi bilan TO'G'RI moslashtiring! 1 Ishbay a Samaradorlikning asosiy ko'rsatkichlari 2 Vaqtbay b Xodimga bajargan ish miqdoriga qarab haq to'lanadi 3 KPI c Xodimga ishlagan vaqti uchun haq to'lanadi",
+   "options": [
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "AQSH ayollar futbol jamoasi gender tengligi bo'yicha da'vo bilan qachon sudga murojaat qilgan va qancha kompensatsiya olgan?",
+   "options": [
+    "2019-yilda; 24 million dollar",
+    "2021-yilda; 24 million dollar",
+    "2019-yilda; 50 million dollar",
+    "2015-yilda; 10 million dollar"
+   ],
+   "answer": 0
+  }
+ ]
+}

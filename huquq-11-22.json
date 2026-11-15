@@ -1,0 +1,108 @@
+{
+ "title": "Huquq 11-sinf · 30–31-dars. Ekologik-huquqiy javobgarlik",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Atrof-muhitga zarar yetkazgan shaxslarga nisbatan qonun asosida qo'llaniladigan javobgarlik shakli nima?",
+   "options": [
+    "Ekologik-huquqiy javobgarlik",
+    "Konstitutsiyaviy javobgarlik",
+    "Moddiy javobgarlik",
+    "Intizomiy javobgarlik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ekologik-huquqiy javobgarlik necha shaklda bo'lishi mumkin?",
+   "options": [
+    "Uch shaklda: ma'muriy, jinoiy va moddiy",
+    "Ikki shaklda: ma'muriy va jinoiy",
+    "To'rt shaklda: intizomiy, ma'muriy, fuqaroviy-huquqiy va jinoiy",
+    "Besh shaklda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ekologik-huquqiy javobgarlik shakllari orasida eng ko'p uchraydigani qaysi?",
+   "options": [
+    "Fuqaroviy-huquqiy javobgarlik",
+    "Ma'muriy javobgarlik",
+    "Jinoiy javobgarlik",
+    "Intizomiy javobgarlik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ma'muriy javobgarlik to'g'risidagi kodeksning qaysi bobi ekologiyaga oid huquqbuzarliklarga bag'ishlangan?",
+   "options": [
+    "Birinchi bobi",
+    "Sakkizinchi bobi",
+    "O'ninchi bobi",
+    "To'rtinchi bobi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jinoyat kodeksining “Ekologiya sohasidagi jinoyatlar” deb nomlangan bo'limi qaysi?",
+   "options": [
+    "To'rtinchi bo'limi",
+    "Oltinchi bo'limi",
+    "Sakkizinchi bo'limi",
+    "Ikkinchi bo'limi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "image": "img/h11-22-06.jpg"
+  },
+  {
+   "q": "Eyler-Venn diagrammasida I – ekologik ma'muriy javobgarlik, II – ekologik jinoiy javobgarlik, III – ikkalasiga ham xos belgilarni joylashtiring! a) ekologik qonunlarni buzganlik uchun qo'llaniladi b) ozodlikdan mahrum qilish jazosi qo'llanilishi mumkin c) faqat sud tomonidan jazo belgilanadi d) ko'p hollarda jarima jazosi qo'llaniladi e) sudlanganlik holatini keltirib chiqarmaydi f) tabiatni muhofaza qilishga xizmat qiladi",
+   "options": [
+    "I-d, e; II-a, f; III-b, c",
+    "I-e, f; II-b, c; III-a, d",
+    "I-d, e; II-b, c; III-a, f",
+    "I-b, c; II-d, e; III-a, f"
+   ],
+   "answer": 2,
+   "image": "img/h11-22-07.jpg"
+  },
+  {
+   "q": "“Tabiatni muhofaza qilish to'g'risida”gi qonunning 49-moddasiga ko'ra ma'muriy yoki jinoiy javobgarlikka tortilish aybdorni nimadan ozod etmaydi?",
+   "options": [
+    "Ishdan bo'shatishdan",
+    "Atrof tabiiy muhitga yetkazilgan zararni qoplash majburiyatidan",
+    "Soliq to'lashdan",
+    "Ma'muriy jarimani to'lashdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yuridik va jismoniy shaxslarning ekologiya jihatidan zararli faoliyatni to'xtatish to'g'risida sudga da'vo bilan murojaat qilish huquqi qaysi hujjatda belgilangan?",
+   "options": [
+    "Yer kodeksining 1-moddasida",
+    "Konstitutsiyaning 2-moddasida",
+    "Mehnat kodeksining 535-moddasida",
+    "“Tabiatni muhofaza qilish to'g'risida”gi qonunning 52-moddasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ekologiya sohasidagi jinoyatlarga misol bo'ladigan javobni aniqlang!",
+   "options": [
+    "Atrof tabiiy muhitni ifloslantirib odamlarning ommaviy kasallanishiga sabab bo'lish",
+    "Soliq to'lashdan bo'yin tovlash",
+    "Ishga kech qolish",
+    "Haqorat qilish"
+   ],
+   "answer": 0
+  }
+ ]
+}

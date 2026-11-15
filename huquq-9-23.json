@@ -1,0 +1,148 @@
+{
+ "title": "Huquq 9-sinf · 31-dars. Mahalliy davlat hokimiyati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "31-darsdagi epigraf kimga tegishli?",
+   "options": [
+    "Aristotel",
+    "Jan Le Ron Alamber",
+    "Mahatma Gandi",
+    "Frensis Bekon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xalq deputatlari viloyat, tuman va shahar Kengashlarining vakolat muddati qancha?",
+   "options": [
+    "7 yil",
+    "5 yil",
+    "4 yil",
+    "3 yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kengash raisi lavozimini bir shaxs ketma- ket necha muddatdan ortiq egallay olmaydi?",
+   "options": [
+    "Uch muddatdan ortiq",
+    "Ikki muddatdan ortiq",
+    "Bir muddatdan ortiq",
+    "Cheklov yo'q"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xalq deputatlari Kengashi vakolatiga kirMAYDIGAN javobni toping!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "image": "img/h9-23-04.jpg"
+  },
+  {
+   "q": "Hokim bir vaqtning o'zida Xalq deputatlari Kengashi raisi bo'la oladimi?",
+   "options": [
+    "Faqat Prezident ruxsati bilan bo'la oladi",
+    "Faqat viloyat darajasida bo'la oladi",
+    "Yo'q, bo'la olmaydi",
+    "Ha, bo'la oladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hokimlarning vakolat muddati qancha?",
+   "options": [
+    "5 yil",
+    "4 yil",
+    "7 yil",
+    "3 yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Viloyat va Toshkent shahar hokimlarini kim tayinlaydi?",
+   "options": [
+    "Xalq deputatlari viloyat Kengashi",
+    "Prezident",
+    "Bosh vazir",
+    "Senat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tuman va shahar hokimlari qanday tartibda tayinlanadi?",
+   "options": [
+    "Viloyat hokimi tomonidan tayinlanib, tegishli Kengash tomonidan tasdiqlanadi",
+    "Bosh vazir tomonidan tayinlanadi",
+    "Aholi tomonidan saylanadi",
+    "Prezident tomonidan tayinlanadi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqarolarning o'zini o'zi boshqarish organlari to'g'ri ko'rsatilgan javobni toping!",
+   "options": [
+    "Tuman hokimliklari",
+    "Viloyat hokimliklari",
+    "Xalq deputatlari Kengashlari",
+    "Shaharchalar, qishloqlar va ovullar, shuningdek mahallalardagi fuqarolar yig'inlari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fuqarolar yig'ini raisini kim saylaydi?",
+   "options": [
+    "Fuqarolar yig'ini",
+    "Viloyat hokimi",
+    "Xalq deputatlari tuman Kengashi",
+    "Tuman hokimi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eyler-Venn diagrammasida I – Xalq deputatlari Kengashi, II – hokim, III – ikkalasiga ham xos belgilarni joylashtiring! a) hokim nomzodini tasdiqlaydi b) mahalliy byudjetni qabul qiladi c) mahalliy davlat hokimiyati organi hisoblanadi d) vakolat muddati 5 yil e) viloyatda Prezident tomonidan tayinlanadi f) ijro hokimiyatini boshqaradi",
+   "options": [
+    "I-a, b; II-e, f; III-c, d",
+    "I-b, d; II-e, f; III-a, c",
+    "I-a, b; II-d, e; III-c, f",
+    "I-e, f; II-a, b; III-c, d"
+   ],
+   "answer": 0,
+   "image": "img/h9-23-11.jpg"
+  },
+  {
+   "q": "Mahalliy davlat hokimiyati organlariga nimalar kiradi?",
+   "options": [
+    "Fuqarolar yig'inlari va mahalla qo'mitalari",
+    "Tuman sudlari va prokuraturalar",
+    "Xalq deputatlari Kengashlari va hokimlar",
+    "Vazirliklar va idoralar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hokim ayni bir lavozimni ketma-ket necha muddatdan ortiq egallay olmaydi?",
+   "options": [
+    "Cheklov yo'q",
+    "Uch muddatdan ortiq",
+    "Bir muddatdan ortiq",
+    "Ikki muddatdan ortiq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mahalliy byudjetni qaysi organ ko'rib chiqadi va qabul qiladi?",
+   "options": [
+    "Vazirlar Mahkamasi",
+    "Xalq deputatlari Kengashi",
+    "Fuqarolar yig'ini",
+    "Hokim"
+   ],
+   "answer": 1
+  }
+ ]
+}

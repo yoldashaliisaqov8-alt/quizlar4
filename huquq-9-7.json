@@ -1,0 +1,187 @@
+{
+ "title": "Huquq 9-sinf · 10-dars. O'zbekistonda fuqarolikning umumiy qoidalari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Odamlar burchlarini unutishga, huquqlarini eslashga moyil bo'ladilar” — ushbu fikr muallifi kim?",
+   "options": [
+    "Indira Gandi",
+    "Mohandas Gandi",
+    "Aflotun",
+    "Amir Temur"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra fuqarolik huquqi insonning qanday huquqlaridan biridir?",
+   "options": [
+    "Faqat iqtisodiy huquqlaridan",
+    "Eng muhim shaxsiy va siyosiy huquqlaridan",
+    "Faqat madaniy huquqlaridan",
+    "Faqat ekologik huquqlaridan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fuqaroligi bo'lmagan shaxslar qaysi huquqlardan foydalana olmaydi? I. Partiyalarga a'zo bo'lish; II. Davlat organlarida rahbarlik lavozimlarini egallash; III. Saylovlarda qatnashish; IV. Xalqaro hujjatlarda berilgan asosiy shaxsiy huquqlar; V. Qonunlar himoyasidan foydalanish.",
+   "options": [
+    "I, IV va V",
+    "I, II va III",
+    "II, IV va V",
+    "III, IV va V"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chet davlat fuqarolari va apatridlar xalqaro-huquqiy hujjatlarda berilgan qaysi huquqlardan foydalana olmaydi?",
+   "options": [
+    "Mehnat qilish va dam olish",
+    "Sudga murojaat qilish",
+    "Saylovlarda ishtirok etish va mamlakat qurolli kuchlarida xizmat qilish",
+    "Ta'lim olish va davolanish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Shaxsning muayyan davlat bilan doimiy huquqiy aloqasi, shaxs va davlatning o'zaro huquq va majburiyatlarida ifodalanadi” — bu nima?",
+   "options": [
+    "Vatandoshlik",
+    "Fuqarolik jamiyati",
+    "Fuqarolik",
+    "Yashash guvohnomasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbekiston hududidagi chet el fuqarolari va fuqaroligi bo'lmagan shaxslarning huquq va erkinliklari xalqaro huquq normalariga muvofiq ta'minlanishi Konstitutsiyaning nechanchi moddasida?",
+   "options": [
+    "22-moddasida",
+    "24-moddasida",
+    "8-moddasida",
+    "19-moddasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekiston Respublikasi fuqaroligiga ega bo'lish asoslari TO'G'RI berilgan javobni aniqlang! I. Tug'ilishi bo'yicha; II. Bola asrab olinsa; III. O'zbekistonda 1 yil yashash natijasida; IV. Fuqarolikka qabul qilinishi va tiklanishi natijasida; V. O'zbekistonda ta'lim olish natijasida.",
+   "options": [
+    "II, III va V",
+    "I, II va IV",
+    "I, III va V",
+    "III, IV va V"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bola qayerda tug'ilishidan qat'i nazar, qaysi holatda tug'ilishi bo'yicha O'zbekiston fuqaroligiga ega bo'ladi?",
+   "options": [
+    "Tug'ilgan vaqtda ota-onasi (yoki ulardan biri) O'zbekiston fuqarosi bo'lsa",
+    "Faqat ikkala ota-onasi ham O'zbekistonda yashasa",
+    "Faqat O'zbekiston hududida tug'ilsa",
+    "18 yoshga to'lganda ariza bersa"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h9-07-09.jpg"
+  },
+  {
+   "q": "Fuqarolikka qabul qilishning umumiy tartibi shartlari TO'G'RI berilgan javobni aniqlang! I. Chet davlat fuqaroligidan chiqishni rasmiylashtirgan bo'lishi; II. O'zbekistonda uzluksiz besh yil doimiy yashab kelayotgan bo'lishi; III. Tirikchilikning qonuniy manbayiga ega bo'lishi; IV. Konstitutsiyaga rioya etish majburiyatini olishi; V. Davlat tilini muloqot uchun zarur darajada bilishi; VI. Oliy ma'lumotga ega bo'lishi.",
+   "options": [
+    "I, II, III, IV va VI",
+    "I, II, III, IV va V",
+    "I, III, IV, V va VI",
+    "II, III, IV, V va VI"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Umumiy tartibda fuqarolikka qabul qilishda fuqaroligi bo'lmagan shaxs O'zbekistonda necha yil uzluksiz yashagan bo'lishi kerak?",
+   "options": [
+    "Besh yil",
+    "Yetti yil",
+    "Uch yil",
+    "O'n yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqaroligi bo'lmagan shaxs bir yil davomida jami necha kundan ko'p bo'lmagan muddatda O'zbekistondan tashqariga chiqqan bo'lsa, yashash muddati uzluksiz hisoblanadi?",
+   "options": [
+    "365 kundan",
+    "120 kundan",
+    "90 kundan",
+    "183 kundan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“O'zbekiston hududida doimiy yashab turgan, O'zbekiston fuqarosi bo'lmagan va chet davlat fuqaroligiga mansubligiga doir dalilga ega bo'lmagan shaxs” — bu kim?",
+   "options": [
+    "Chet davlat fuqarosi",
+    "Bipatrid",
+    "Vatandosh",
+    "Fuqaroligi bo'lmagan shaxs"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Fuqaroligi bo'lmagan shaxs yoki chet davlat fuqarosining shaxsini tasdiqlaydigan, O'zbekistonda doimiy yashashga ruxsat etilganligining tasdig'i sifatida berilgan hujjat” — bu nima?",
+   "options": [
+    "ID-karta",
+    "Viza",
+    "Yashash guvohnomasi",
+    "Biometrik pasport"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Ma'lum bir toifadagi fuqarolarning huquqi jinsi, millati, diniy yoki siyosiy e'tiqodi sabab asossiz cheklanishi yoki kamsitilishi” — bu nima?",
+   "options": [
+    "Diskriminatsiya",
+    "Emansipatsiya",
+    "Amnistiya",
+    "Naturallashtirish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Soddalashtirilgan tartibda fuqarolikka qabul qilish kimga nisbatan qo'llaniladi?",
+   "options": [
+    "O'zbekistonda yashaydigan fuqaro bo'lgan, nasl-nasab bo'yicha to'g'ridan to'g'ri tutashgan qarindoshga ega vatandoshga",
+    "Har qanday chet el fuqarosiga",
+    "Faqat olimlar va sportchilarga",
+    "Faqat O'zbekistonda tug'ilgan chet elliklarga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston fuqaroligiga qabul qilish qanday hujjat asosida amalga oshiriladi?",
+   "options": [
+    "Oliy Majlis qaroriga muvofiq",
+    "Sud qaroriga muvofiq",
+    "Ichki ishlar vazirligi buyrug'iga muvofiq",
+    "O'zbekiston Respublikasi Prezidentining farmoniga muvofiq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Milliy manfaatlardan kelib chiqib olimlar, sportchilar, yozuvchilarni fuqarolikka qabul qilish qaysi tartibda amalga oshiriladi?",
+   "options": [
+    "Umumiy tartibda",
+    "Tiklash tartibida",
+    "Soddalashtirilgan tartibda",
+    "Alohida tartibda"
+   ],
+   "answer": 3
+  }
+ ]
+}

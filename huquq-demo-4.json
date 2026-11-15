@@ -1,0 +1,356 @@
+{
+ "title": "Huquqshunoslik Milliy sertifikat demo test 4 (1–35)",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Konstitutsiyaning “Davlat suvereniteti” bobiga oid TO'G'RI ma'lumotlarni aniqlang. (Konstitutsiya, 1, 3, 5-moddalar)\n1) davlatning “O'zbekiston Respublikasi” va “O'zbekiston” degan nomlari bir ma'noni anglatadi; 2) O'zbekistonning davlat chegarasi va hududi daxlsiz va bo'linmasdir; 3) davlat ramzlari — bayroq, gerb va madhiya qonun bilan tasdiqlanadi; 4) davlat ramzlari Vazirlar Mahkamasi qarori bilan tasdiqlanadi",
+   "options": [
+    "1, 4",
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Normani to'g'ri davom ettiring: “Xalq davlat hokimiyatining …” (Konstitutsiya, 7-modda)",
+   "options": [
+    "nazoratchisidir",
+    "asosiy ijrochisidir",
+    "birdan-bir manbaidir",
+    "vakillik organidir"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra quyidagilardan qaysi biri O'zbekiston xalqi nomidan ish olib borishga HAQLI? (Konstitutsiya, 10-modda)",
+   "options": [
+    "Ijtimoiy harakat yetakchisi",
+    "Respublika jamoat birlashmasi",
+    "Xalq saylagan Oliy Majlis va Prezident",
+    "Eng yirik siyosiy partiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra O'zbekiston davlat hokimiyatining tizimi qaysi prinsipga asoslanadi? (Konstitutsiya, 11-modda)",
+   "options": [
+    "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sud hokimiyatiga bo'linishi prinsipiga",
+    "Markazlashtirish prinsipiga",
+    "Hokimiyatning yagonaligi prinsipiga",
+    "Partiyaviylik prinsipiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiyaning 16-moddasiga oid TO'G'RI ma'lumotni aniqlang. (Konstitutsiya, 16-modda)",
+   "options": [
+    "Qonun Konstitutsiyaga zid bo'lsa, qonun qoidalari qo'llaniladi",
+    "Birorta qonun yoki boshqa normativ-huquqiy hujjat Konstitutsiyaning prinsip va normalariga zid bo'lishi mumkin emas",
+    "Konstitutsiya qoidalarini istalgan tarzda talqin etish mumkin",
+    "Prezident farmoni Konstitutsiyadan ustun turadi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davlat o'z faoliyatini qaysi prinsiplar asosida amalga oshiradi? (Konstitutsiya, 14-modda)",
+   "options": [
+    "Mustaqillik, xolislik va kollegiallik",
+    "Qonun ustuvorligi, demokratiya va pluralizm",
+    "Qonuniylik, ijtimoiy adolat va birdamlik",
+    "Oshkoralik, ixtiyoriylik va tenglik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vaziyat: O'zbekiston ratifikatsiya qilgan xalqaro shartnomada O'zbekiston qonunidagidan boshqacha qoida belgilangan. Qaysi qoida qo'llaniladi? (Konstitutsiya, 15-modda)",
+   "options": [
+    "Ikkalasi ham qo'llanilmaydi",
+    "Xalqaro shartnoma qoidalari",
+    "Konstitutsiyaviy sud qaroriga qadar hech biri",
+    "Milliy qonun qoidalari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan qaysi biri Konstitutsiyada O'zbekiston tashqi siyosatining prinsiplari sifatida sanab o'tilMAGAN? (Konstitutsiya, 17-modda)",
+   "options": [
+    "Harbiy bloklarga a'zo bo'lish",
+    "Kuch ishlatmaslik yoki kuch bilan tahdid qilmaslik",
+    "Boshqa davlatlarning ichki ishlariga aralashmaslik",
+    "Davlatlarning suveren tengligi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra inson huquq va erkinliklari qanday maqsadlarda cheklanishi MUMKIN EMAS? (Konstitutsiya, 21-modda)",
+   "options": [
+    "Aholining sog'lig'ini himoya qilish maqsadida",
+    "Jamoat xavfsizligi va jamoat tartibini ta'minlash maqsadida",
+    "Davlat organlarining obro'sini saqlash maqsadida",
+    "Konstitutsiyaviy tuzumni himoya qilish maqsadida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra shaxs insonning huquq va erkinliklarini himoya qiluvchi xalqaro organlarga qachon murojaat etishga haqli? (Konstitutsiya, 55-modda)",
+   "options": [
+    "Istalgan vaqtda, birinchi navbatda",
+    "Faqat Prezident ruxsati bilan",
+    "Davlatning huquqiy himoyaga doir barcha ichki vositalaridan foydalanib bo'lingan bo'lsa",
+    "Faqat Oliy sud rad etgandan keyin bir yil o'tgach"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "(a) Fuqarolarning huquqlari hamda (b) Fuqarolarning burchlarini to'g'ri moslashtiring. (Konstitutsiya, IX va XI boblar)\n1) qonun bilan belgilangan soliqlarni to'lash; 2) ta'lim olish; 3) Konstitutsiya va qonunlarga rioya etish; 4) dam olish",
+   "options": [
+    "a – 1, 2; b – 3, 4",
+    "a – 3, 4; b – 1, 2",
+    "a – 1, 3; b – 2, 4",
+    "a – 2, 4; b – 1, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra mulkdor o'ziga tegishli mol-mulkka nisbatan qanday huquqlarga ega? (Konstitutsiya, 66-modda)",
+   "options": [
+    "Faqat foydalanadi",
+    "Egalik qiladi, lekin tasarruf eta olmaydi",
+    "Faqat davlat ruxsati bilan tasarruf etadi",
+    "O'z xohishicha egalik qiladi, undan foydalanadi va uni tasarruf etadi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra monopol faoliyat qanday tartibga solinadi? (Konstitutsiya, 67-modda)",
+   "options": [
+    "Hech qanday cheklanmaydi",
+    "Qonun bilan tartibga solinadi va cheklanadi",
+    "To'liq taqiqlanadi",
+    "Faqat Prezident farmoni bilan ruxsat etiladi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tabiiy resurslarga oid NOTO'G'RI ma'lumotni aniqlang. (Konstitutsiya, 68-modda)",
+   "options": [
+    "Yer, yer osti boyliklari, suv, o'simlik va hayvonot dunyosi davlat muhofazasidadir",
+    "Yer qonunda nazarda tutilgan shartlar asosida va tartibda xususiy mulk bo'lishi mumkin",
+    "Tabiiy resurslardan oqilona foydalanish zarur",
+    "Yer hech qanday holatda xususiy mulk bo'lishi mumkin emas"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vazirlar Mahkamasining tarkibi to'g'ri ko'rsatilgan javobni aniqlang. (Konstitutsiya, 114-modda)",
+   "options": [
+    "Prezident, Bosh vazir va vazirlar",
+    "Bosh vazir, uning o'rinbosarlari, vazirlar; Qoraqalpog'iston Respublikasi hukumatining boshlig'i lavozimi bo'yicha kiradi",
+    "Bosh vazir va viloyat hokimlari",
+    "Bosh vazir, vazirlar va Oliy Majlis palatalari raislari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Prezident, Qonunchilik palatasi va mahalliy Kengashlarga saylov vakolat muddati tugaydigan yilda qachon o'tkaziladi? (Konstitutsiya, 128-modda)",
+   "options": [
+    "Oktyabr oyi uchinchi o'n kunligining birinchi yakshanbasida",
+    "Oktyabr oyining birinchi dushanbasida",
+    "Dekabr oyining birinchi yakshanbasida",
+    "Sentyabr oyining oxirgi yakshanbasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Saylov tizimiga oid TO'G'RI ma'lumotlarni aniqlang. (Konstitutsiya, 128-modda)\n1) fuqaro bir vaqtning o'zida ikkidan ortiq davlat hokimiyati vakillik organining deputati bo'lishi mumkin emas; 2) Senat a'zolari deputatlar saylanganidan so'ng uch oy ichida saylanadi; 3) Prezident muddatidan ilgari Prezident saylovini tayinlashga haqli; 4) sud hukmi bilan ozodlikdan mahrum etish joyidagi shaxslar saylanishi mumkin",
+   "options": [
+    "1, 3",
+    "3, 4",
+    "1, 2",
+    "2, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilardan qaysi biri Markaziy saylov komissiyasi faoliyatining asosiy prinsiplari qatoriga KIRMAYDI? (Konstitutsiya, 129-modda)",
+   "options": [
+    "Kollegiallik",
+    "Adolatlilik",
+    "Partiyaviylik",
+    "Oshkoralik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Moliya va bank tizimiga oid tushunchalarni to'g'ri moslashtiring. (Konstitutsiya, 148–150-moddalar)\n1) Davlat byudjetining tarkibi; 2) soliqlarni joriy qilish huquqi; 3) pul birligi; 4) pul belgilarini muomalaga kiritish va chiqarishda mutlaq huquq\na) Oliy Majlisga tegishli; b) so'm; c) respublika byudjeti, Qoraqalpog'iston Respublikasi byudjeti va mahalliy byudjetlar; d) Markaziy bankka tegishli",
+   "options": [
+    "1-c, 2-a, 3-b, 4-d",
+    "1-a, 2-c, 3-b, 4-d",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-c, 2-d, 3-b, 4-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra O'zbekiston xalqning oliy manfaatlaridan kelib chiqqan holda nimalarga haqli? (Konstitutsiya, 18-modda)",
+   "options": [
+    "Ittifoqlar tuzishga, hamdo'stliklarga va boshqa davlatlararo tuzilmalarga kirishga hamda ulardan chiqishga",
+    "Faqat iqtisodiy ittifoqlarga kirishga, ulardan chiqmaslikka",
+    "Boshqa davlatlarning ichki ishlariga aralashishga",
+    "Faqat ikki tomonlama munosabatlar o'rnatishga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vaziyat: Nikoh ajrashish bilan tugaganidan 200 kun o'tib Nigora farzand ko'rdi; bu vaqtda u yangi nikohga kirgan edi. Bola qaysi nikohda tug'ilgan hisoblanadi? (Oila kodeksi, 60-modda)",
+   "options": [
+    "Nikohsiz tug'ilgan hisoblanadi",
+    "Faqat sud qaroridan keyin aniqlanadi, nizolashish mumkin emas",
+    "Yangi nikohda tug'ilgan hisoblanadi; sobiq er nasl-nasab xususida nizolashishga haqli",
+    "Sobiq nikohda tug'ilgan hisoblanadi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Otalikni sud tartibida belgilash kimlarning arizasiga muvofiq amalga oshiriladi? (Oila kodeksi, 62-modda)\n1) ota-onadan birining; 2) bolaning vasiysi (homiysi)ning yoki bola kimning qaramog'ida bo'lsa, shu shaxsning; 3) bola voyaga yetganidan keyin uning o'zining; 4) mahalla raisining",
+   "options": [
+    "3, 4",
+    "1, 2, 3",
+    "1, 4",
+    "2, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bolaning otasi deb yozilgan shaxs bu yozuv unga ma'lum bo'lgan vaqtdan e'tiboran qancha muddat ichida sud tartibida e'tiroz bildirishga haqli? (Oila kodeksi, 63-modda)",
+   "options": [
+    "uch yil",
+    "olti oy",
+    "uch oy",
+    "bir yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ota-ona bobo va buvining nevarasi bilan ko'rishishiga imkon bermasa, birinchi navbatda qaysi organ ota-onani bunga majbur qilishi mumkin? (Oila kodeksi, 77-modda)",
+   "options": [
+    "Vasiylik va homiylik organi",
+    "Prokuratura",
+    "Ichki ishlar organi",
+    "Fuqarolik holati dalolatnomalarini qayd etish organi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bolaning hayoti va sog'lig'i bevosita xavf ostida qolganda vasiylik va homiylik organi bolani olgandan keyin necha kun ichida ota-onalik huquqidan mahrum qilish yoki uni cheklash to'g'risida sudga da'vo bilan murojaat etishi kerak? (Oila kodeksi, 87-modda)",
+   "options": [
+    "o'n kun",
+    "uch kun",
+    "bir oy",
+    "yetti kun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Otalik qonuniy tartibda belgilanganda o'zaro nikohda bo'lmagan shaxslardan tug'ilgan bolalar qanday huquqqa ega bo'ladi? (Oila kodeksi, 64-modda)",
+   "options": [
+    "Otasining familiyasini ololmaydi",
+    "Nikohda tug'ilgan bolalar bilan teng huquq va majburiyatlarga ega bo'ladi",
+    "Faqat aliment olish huquqiga ega bo'ladi",
+    "Faqat onasidan meros olish huquqiga ega bo'ladi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sudda bolalar tarbiyasi bilan bog'liq nizolar ko'rilayotganda ishda ishtirok etish uchun albatta qaysi organ jalb qilinishi kerak? (Oila kodeksi, 88-modda)",
+   "options": [
+    "Ichki ishlar organi",
+    "Advokatlar palatasi",
+    "Vasiylik va homiylik organi",
+    "Xalq ta'limi bo'limi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "JPKga ko'ra sudda ishlarni yuritishda tortishuv prinsipiga oid TO'G'RI ma'lumotni aniqlang. (JPK, 25-modda)",
+   "options": [
+    "Tortishuv faqat yuqori instansiya sudida qo'llaniladi",
+    "Ayblash, himoya qilish va ishni hal qilish vazifalari bir-biridan alohida bajariladi va bitta organ zimmasiga yuklatilishi mumkin emas",
+    "Sud himoyachi vazifasini ham bajaradi",
+    "Prokuror bir vaqtda ayblovchi va ishni hal qiluvchi bo'lishi mumkin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan qaysi biri JPKga ko'ra jinoyat ishlari bo'yicha surishtiruvni amalga oshiruvchi organlar qatoriga KIRMAYDI? (JPK, 38-modda)",
+   "options": [
+    "Davlat soliq qo'mitasi",
+    "Milliy gvardiya",
+    "Davlat bojxona qo'mitasi",
+    "Ichki ishlar organlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "MJtKga ko'ra ma'muriy huquqbuzarlik sodir etgan shaxs huquqbuzarlik oqibatida keltirilgan zararga nisbatan qanday majburiyatga ega? (MJtK, 38-modda)",
+   "options": [
+    "Zarar davlat tomonidan qoplanadi",
+    "Zararni faqat sud talab qilsa qoplaydi",
+    "Zararni qoplash majburiyati yo'q",
+    "Zararni qoplashi shart"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "MJtKga ko'ra mansabdor shaxslar qanday hollarda ma'muriy javobgarlikka tortiladi? (MJtK, 15-modda)",
+   "options": [
+    "Mansabdor shaxslar ma'muriy javobgarlikka tortilmaydi",
+    "Faqat jinoyat sodir etganlikda",
+    "Faqat pora olganlikda",
+    "Rioya etilishini ta'minlash o'z xizmat vazifalariga kiradigan qoidalarga rioya etmaganlikda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "MJtKga ko'ra ma'muriy javobgarlik qanday shart bilan amalga oshiriladi? (MJtK, 10-modda)",
+   "options": [
+    "Faqat huquqbuzar o'z aybini tan olsa",
+    "Huquqbuzarlik o'z xususiyatiga ko'ra jinoiy javobgarlikka tortishga sabab bo'lmagan taqdirda",
+    "Huquqbuzarlik jinoiy javobgarlikka ham sabab bo'lsa, ikkalasi qo'llaniladi",
+    "Faqat jabrlanuvchi talab qilsa"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Advokatlar palatasining raisi Qonunchilik palatasining qonun loyihalarini muhokama qilish bo'yicha majlislarida qanday huquqqa ega? (Advokatura to'g'risidagi qonun, 12³-modda)",
+   "options": [
+    "Qonun loyihasini bekor qilish huquqiga",
+    "Ovoz berish huquqiga",
+    "Ishtirok etish va fikr-mulohazalar bildirish huquqiga",
+    "Majlislarda ishtirok etish huquqiga ega emas"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Litsenziyaning amal qilishini to'xtatib turish advokat uchun qanday oqibatga olib keladi? (Advokatura to'g'risidagi qonun, 15-modda)",
+   "options": [
+    "Advokat maqomining to'xtatib turilishiga sabab bo'ladi",
+    "Advokat maqomi tugatiladi",
+    "Advokat Advokatlar palatasidan chiqariladi",
+    "Hech qanday oqibatga olib kelmaydi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Davlat organlari va ular amalga oshiradigan hokimiyat tarmoqlarini to'g'ri moslashtiring. (Konstitutsiya, 11, 114, 130-moddalar)\n1) Oliy Majlis; 2) Vazirlar Mahkamasi; 3) Sudlar\na) qonun chiqaruvchi hokimiyat; b) ijro etuvchi hokimiyat; c) sud hokimiyati (odil sudlov)",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  }
+ ]
+}

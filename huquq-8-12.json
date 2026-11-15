@@ -1,0 +1,309 @@
+{
+ "title": "Huquq 8-sinf · 19–20-dars. Huquqbuzarlik",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Jazolashga qodir bo'lmagan hakam oxir-oqibatda jinoyatga sherik bo'ladi” — ushbu fikr muallifi kim?",
+   "options": [
+    "Jan Jak Russo",
+    "Lev Tolstoy",
+    "Husayn Voiz Koshifiy",
+    "Gyote"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarixning qaysi davri bo'lmasin, huquqiy normalarning buzilishi qanday ataladi?",
+   "options": [
+    "Yuridik fakt",
+    "Huquqiy xulq-atvor",
+    "Huquqbuzarlik",
+    "Huquqiy munosabat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“O'z xatti-harakatini tushunadigan va unga javob bera oladigan shaxsning huquqqa zid xatti-harakatidan kelib chiquvchi qilmish” — bu nima?",
+   "options": [
+    "Huquqbuzarlik",
+    "Yuridik majburiyat",
+    "Betaraf xulq-atvor",
+    "Huquqiy xulq-atvor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h8-12-04.jpg"
+  },
+  {
+   "q": "Huquqbuzarlik belgilarini ularning mazmuni bilan TO'G'RI moslashtiring!\nJADVAL0:\n1 | Ijtimoiy xavflilik | a | Qonun normalari belgilagan majburiy talablarni buzish\n2 | Huquqqa zidlik | b | Huquqbuzarning vakolatli davlat organi tomonidan javobgarlikka tortilishi\n3 | Ayblilik | c | Shaxslar, jamiyat, davlatning qonuniy huquq va manfaatlariga zarar yetkazish\n4 | Jazoga loyiqlik | d | Ijtimoiy xavfli qilmishni qasddan yoki ehtiyotsizlikdan sodir etish",
+   "options": [
+    "1-d, 2-a, 3-c, 4-b",
+    "1-c, 2-a, 3-d, 4-b",
+    "1-c, 2-d, 3-a, 4-b",
+    "1-a, 2-c, 3-d, 4-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikka ko'ra jazo nima?",
+   "options": [
+    "Har qanday shaxsga nisbatan qo'llaniladigan ogohlantirish",
+    "Faqat moddiy zararni qoplash",
+    "Huquqbuzarlik sodir etishda aybli deb topilgan shaxsni muayyan huquq va erkinliklardan mahrum qilishdan iborat majburlov chorasi",
+    "Jamoatchilik tomonidan bildiriladigan tanbeh"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h8-12-07.jpg"
+  },
+  {
+   "q": "Ishga, o'qishga kech qolish, sababsiz kelmaslik yoki ketib qolish huquqbuzarlikning qaysi turiga misol bo'ladi?",
+   "options": [
+    "Intizomiy huquqbuzarlik",
+    "Fuqaroviy huquqbuzarlik",
+    "Jinoiy huquqbuzarlik",
+    "Ma'muriy huquqbuzarlik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qarzni vaqtida qaytarmaslik, shartnoma majburiyatlarini bajarmaslik huquqbuzarlikning qaysi turiga misol bo'ladi?",
+   "options": [
+    "Jinoiy huquqbuzarlik",
+    "Intizomiy huquqbuzarlik",
+    "Ma'muriy huquqbuzarlik",
+    "Fuqaroviy huquqbuzarlik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Jinoyat kodeksi bilan taqiqlangan, aybli ijtimoiy xavfli qilmish (harakat yoki harakatsizlik)” huquqbuzarlikning qaysi turi?",
+   "options": [
+    "Intizomiy huquqbuzarlik",
+    "Fuqaroviy huquqbuzarlik",
+    "Jinoiy huquqbuzarlik (jinoyat)",
+    "Ma'muriy huquqbuzarlik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ma'muriy javobgarlik qachon amalga oshiriladi?",
+   "options": [
+    "Har qanday holatda jinoiy javobgarlik bilan birga",
+    "Huquqbuzarlik o'z xususiyatiga ko'ra jinoiy javobgarlikka tortishga sabab bo'lmagan taqdirda",
+    "Faqat mehnat intizomi buzilganda",
+    "Faqat jinoyat takroran sodir etilganda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Hech kim rasmiy e'lon qilinmagan qonun asosida hukm qilinishi... mumkin emas. Hech kim ayni bir jinoyat uchun takroran hukm qilinishi mumkin emas” — bu qoida Konstitutsiyaning nechanchi moddasida?",
+   "options": [
+    "92-moddasida",
+    "37-moddasida",
+    "28-moddasida",
+    "30-moddasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Huquqbuzarlik subyekti kim hisoblanadi?",
+   "options": [
+    "Huquqqa zid aybli qilmishni sodir etgan, o'z qilmishiga javob bera oladigan, aqli raso shaxs",
+    "Huquqbuzarlikdan jabr ko'rgan shaxs",
+    "Huquq bilan muhofaza qilinadigan ijtimoiy munosabatlar",
+    "Har qanday shaxs, aqli rasoligidan qat'i nazar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquqbuzarlik obyekti nima?",
+   "options": [
+    "Huquqbuzarlikning tashqi belgisi",
+    "Huquqbuzarlik sodir etgan shaxs",
+    "Huquqbuzarning aybi",
+    "Huquq bilan tartibga solinadigan va muhofaza qilinadigan ijtimoiy munosabatlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Huquqbuzarlik sodir etish vaqtida o'z harakatlarining ijtimoiy xavfli xususiyatini anglagan va ularni boshqara olgan shaxs qanday ataladi?",
+   "options": [
+    "Jabrlanuvchi",
+    "Aqli raso shaxs",
+    "Aqli noraso shaxs",
+    "Voyaga yetmagan shaxs"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Huquqbuzarlikning subyektiv tomoni nima va uning zaruriy belgisi qaysi?",
+   "options": [
+    "Shaxsning sodir etilgan qilmishga ruhiy munosabati; zaruriy belgisi — ayb",
+    "Muhofaza qilinadigan munosabatlar; zaruriy belgisi — jazo",
+    "Huquqbuzar shaxsning o'zi; zaruriy belgisi — yosh",
+    "Huquqqa zid xatti-harakatning tashqi belgisi; zaruriy belgisi — zarar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Huquqbuzarning huquqqa xilof xatti-harakatiga va uning ijtimoiy xavfli oqibatiga nisbatan qasd yoki ehtiyotsizlik ko'rinishidagi munosabati” — bu nima?",
+   "options": [
+    "Qilmish",
+    "Jazo",
+    "Sanksiya",
+    "Ayb"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jinoyat sodir etganlikda ayblanayotgan shaxs qachongacha aybdor emas deb hisoblanadi?",
+   "options": [
+    "Hibsga olinguniga qadar",
+    "Ayblov e'lon qilinguniga qadar",
+    "Qonuniy tartibda aybi sudda oshkora ko'rib chiqilib, aniqlanmaganiga qadar",
+    "Tergov boshlangunga qadar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Milliy qonunchilikka ko'ra qasdning qanday turlari mavjud?",
+   "options": [
+    "Oddiy va murakkab qasd",
+    "To'g'ri qasd va egri qasd",
+    "Faol va sust qasd",
+    "O'z-o'ziga ishonish va beparvolik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shaxs qilmishining ijtimoiy xavfli xususiyatini anglagan, oqibatlariga ko'zi yetgan va ularning yuz berishini ISTAGAN bo'lsa, huquqbuzarlik qanday sodir etilgan hisoblanadi?",
+   "options": [
+    "Beparvolik orqasidan",
+    "To'g'ri qasddan",
+    "Egri qasddan",
+    "O'z-o'ziga ishonish oqibatida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shaxs qilmishining ijtimoiy xavfli xususiyatini anglagan, oqibatlariga ko'zi yetgan va ularning yuz berishiga ONGLI RAVISHDA YO'L QO'YGAN bo'lsa, huquqbuzarlik qanday sodir etilgan hisoblanadi?",
+   "options": [
+    "Egri qasddan",
+    "To'g'ri qasddan",
+    "O'z-o'ziga ishonish oqibatida",
+    "Beparvolik orqasidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ehtiyotsizlik orqasidan sodir etilgan jinoyat qanday shakllarda bo'ladi?",
+   "options": [
+    "Harakat va harakatsizlik",
+    "Faol va odatiy",
+    "To'g'ri qasd va egri qasd",
+    "O'z-o'ziga ishonish va beparvolik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shaxs ijtimoiy xavfli oqibatlar kelib chiqishi mumkinligiga ko'zi yeta turib, ehtiyotkorlik choralariga ongli ravishda rioya etmay, oqibatlar kelib chiqmasligiga asossiz umid qilgan bo'lsa, jinoyat qanday sodir etilgan hisoblanadi?",
+   "options": [
+    "Egri qasddan",
+    "Beparvolik orqasidan",
+    "O'z-o'ziga ishonish oqibatida",
+    "To'g'ri qasddan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shaxs ijtimoiy xavfli oqibatlarga ko'zi yetmasa-da, lekin ko'zi yetishi lozim va mumkin bo'lgan bo'lsa, jinoyat qanday sodir etilgan hisoblanadi?",
+   "options": [
+    "Egri qasddan",
+    "O'z-o'ziga ishonish oqibatida",
+    "To'g'ri qasddan",
+    "Beparvolik orqasidan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vaziyat: Haydovchi svetoforning sariq chirog'i yonganini ko'rsa ham, tezkorlik bilan o'tib ketishga harakat qildi va boshqa mashinaga zarar yetkazdi. Bu ehtiyotsizlikning qaysi shakli?",
+   "options": [
+    "Beparvolik",
+    "O'z-o'ziga ishonish",
+    "To'g'ri qasd",
+    "Egri qasd"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vaziyat: Qurilish joyida elektr ustasi elektr uzatkichni o'chirishni unutib qo'ydi va boshqa ustalar zarar ko'rdi. Bu ehtiyotsizlikning qaysi shakli?",
+   "options": [
+    "Beparvolik",
+    "O'z-o'ziga ishonish",
+    "To'g'ri qasd",
+    "Egri qasd"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vaziyat: Sindor qo'shnisining tovuqlarini yo'q qilish uchun suvga kimyoviy modda soldi, qo'shnining bolalari shu suvdan ichayotganini ko'rib ham ogohlantirmadi. Bolalarga yetkazilgan zarar bo'yicha aybning shaklini aniqlang!",
+   "options": [
+    "Egri qasd",
+    "Beparvolik",
+    "O'z-o'ziga ishonish",
+    "To'g'ri qasd"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qasddan va ehtiyotsizlik orqasidan sodir etilgan huquqbuzarliklarga beriladigan jazolar haqida TO'G'RI fikrni aniqlang!",
+   "options": [
+    "Ehtiyotsizlik orqasidan sodir etilganlar jazolanmaydi",
+    "Ikkalasiga ham bir xil jazo beriladi",
+    "Qasddan sodir etilganlarga jazo qattiqroq, ehtiyotsizlik orqasidan sodir etilganlarga yengilroq bo'ladi",
+    "Ehtiyotsizlik orqasidan sodir etilganlarga jazo qattiqroq bo'ladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Huquqqa zid xatti-harakatning tashqi belgisi; huquqbuzarlik qachon, qayerda, qanday usul va vositalar bilan sodir etilganligi” — bu huquqbuzarlikning qaysi tomoni?",
+   "options": [
+    "Subyektiv tomoni",
+    "Obyektiv tomoni",
+    "Subyekti",
+    "Obyekti"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni toping.\na) o'z-o'ziga ishonish va beparvolik ko'rinishlari bor;\nb) huquqbuzarlikning subyektiv tomoniga kiradi.\nc) ayb shakli hisoblanadi;\nd) bunday huquqbuzarlik uchun jazo yengilroq bo'ladi;\ne) shaxs oqibatlarning yuz berishini istaydi yoki ongli ravishda yo'l qo'yadi;\nf) to'g'ri va egri ko'rinishlari bor;",
+   "options": [
+    "I-a, d; II-e, f; III-b, c",
+    "I-e, f; II-a, d; III-b, c",
+    "I-e, f; II-b, c; III-a, d",
+    "I-c, f; II-a, d; III-b, e"
+   ],
+   "answer": 1,
+   "image": "img/h8-12-30.jpg"
+  }
+ ]
+}

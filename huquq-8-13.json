@@ -1,0 +1,198 @@
+{
+ "title": "Huquq 8-sinf · 21–22-dars. Yuridik javobgarlik",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Agar ta'lim-tarbiya va jazo to'g'risida qonun-qoida bo'lmasa, mamlakat ishlari buziladi” — ushbu fikr muallifi kim?",
+   "options": [
+    "Nizomulmulk",
+    "Husayn Voiz Koshifiy",
+    "Gyote",
+    "Xusrav Dehlaviy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikdagi misolga ko'ra Germaniyada 2006-yil 1-yanvardan qish mavsumida shinalarni qishkisiga almashtirmay avtomobil boshqargan shaxs qancha jarimaga tortiladi?",
+   "options": [
+    "10 yevro",
+    "20 yevro",
+    "100 yevro",
+    "50 yevro"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Huquqiy normalarga asoslangan va davlat majburlov normalari bilan bog'liq bo'lgan javobgarlik qanday ataladi?",
+   "options": [
+    "Ijtimoiy javobgarlik",
+    "Siyosiy javobgarlik",
+    "Yuridik javobgarlik",
+    "Axloqiy javobgarlik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Huquqbuzarlikni sodir etgan shaxsning o'z qilmishi uchun huquq normalariga asosan javob berishi va davlat majburlov choralari ko'rinishidagi oqibatlarga duchor bo'lishi” — bu nima?",
+   "options": [
+    "Yuridik javobgarlik",
+    "Ayb",
+    "Huquqiy munosabat",
+    "Huquqiy xulq-atvor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquqiy javobgarlikka nima asos hisoblanadi?",
+   "options": [
+    "Jamoatchilik fikri",
+    "Axloq normalarini buzish",
+    "Huquqbuzarlik, ya'ni huquqiy normalarni buzish",
+    "Shaxsning ijtimoiy kelib chiqishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Huquqbuzarlik turlarini ular keltirib chiqaradigan javobgarlik turlari bilan TO'G'RI moslashtiring!\nJADVAL0:\n1 | Fuqaroviy huquqbuzarlik | a | Intizomiy javobgarlik\n2 | Ma'muriy huquqbuzarlik | b | Jinoiy javobgarlik\n3 | Intizomiy huquqbuzarlik | c | Fuqaroviy (moddiy)-huquqiy javobgarlik\n4 | Jinoiy huquqbuzarlik | d | Ma'muriy javobgarlik",
+   "options": [
+    "1-c, 2-d, 3-a, 4-b",
+    "1-b, 2-d, 3-a, 4-c",
+    "1-d, 2-c, 3-a, 4-b",
+    "1-c, 2-a, 3-d, 4-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquqiy javobgarlik qanday tartibda amalga oshiriladi?",
+   "options": [
+    "Faqat jamoatchilik tomonidan",
+    "Faqat prokuratura tomonidan",
+    "Faqat sud tartibida",
+    "Sud tartibida, ma'muriy yoki intizomiy tartibda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Intizomiy javobgarlik turlari O'zbekiston Respublikasi Mehnat kodeksining nechanchi moddasida belgilangan?",
+   "options": [
+    "128-moddasida",
+    "81-moddasida",
+    "43-moddasida",
+    "312-moddasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h8-13-09.jpg"
+  },
+  {
+   "q": "Intizomiy jazolar kim tomonidan qo'llaniladi?",
+   "options": [
+    "Prokuratura tomonidan",
+    "Ishga qabul qilish huquqiga ega bo'lgan shaxslar (organlar) tomonidan",
+    "Faqat sud tomonidan",
+    "Ichki ishlar organlari tomonidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Fuqaroviy huquqbuzarligi uchun aybdor shaxsning to'liq moddiy va ma'naviy javob berishi” — bu qanday jazo?",
+   "options": [
+    "Intizomiy jazo",
+    "Jinoiy jazo",
+    "Fuqaroviy jazo",
+    "Ma'muriy jazo"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikka ko'ra ma'muriy qamoq muddati qancha?",
+   "options": [
+    "15 sutkadan 30 sutkagacha",
+    "3 sutkadan 15 sutkagacha, ayrim hollarda 30 sutkagacha",
+    "1 oydan 3 oygacha",
+    "1 sutkadan 10 sutkagacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jinoyat sodir etishda aybli deb topilgan shaxslarga nisbatan qo'llaniladigan jazo tizimi Jinoyat kodeksining nechanchi moddasida belgilangan?",
+   "options": [
+    "312-moddasida",
+    "43-moddasida",
+    "17-moddasida",
+    "81-moddasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'n sakkiz yoshga to'lmasdan jinoyat sodir etgan shaxslarga nisbatan qo'llaniladigan jazo tizimi Jinoyat kodeksining nechanchi moddasida qayd etilgan?",
+   "options": [
+    "17-moddasida",
+    "43-moddasida",
+    "30-moddasida",
+    "81-moddasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hindiston mustaqilligining asoschisi Mohandas Karamchand Gandi qaysi kasb egasi bo'lgan?",
+   "options": [
+    "Muhandis",
+    "O'qituvchi",
+    "Huquqshunos (advokat)",
+    "Shifokor"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Gandi 1893–1914-yillarda qayerda huquqshunos bo'lib ishlagan?",
+   "options": [
+    "Kalkuttada",
+    "Londonda",
+    "Janubiy Afrikadagi Gujarot savdo firmasida",
+    "Bombay (Mumbay) shahrida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbekistonda o'lim jazosini bekor qilish to'g'risidagi Prezident farmoni qachon qabul qilingan va o'lim jazosi qachondan bekor qilingan?",
+   "options": [
+    "2005-yil 1-avgust; 2008-yil 1-yanvardan",
+    "2005-yil 1-yanvar; 2006-yil 1-yanvardan",
+    "2008-yil 1-yanvar; 2010-yil 1-yanvardan",
+    "2001-yil 1-avgust; 2005-yil 1-yanvardan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'lim jazosi o'rniga qanday jazo joriy etilgan?",
+   "options": [
+    "Mamlakatdan chiqarib yuborish",
+    "Ozodlikni cheklash",
+    "Majburiy jamoat ishlari",
+    "Umrbod yoki uzoq muddatga ozodlikdan mahrum etish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni toping.\na) jarima;\nb) ma'muriy qamoq;\nc) yuridik javobgarlik ko'rinishi.\nd) maxsus huquqdan mahrum etish;\ne) hayfsan;\nf) mehnat shartnomasini bekor qilish;",
+   "options": [
+    "I-e, f; II-b, d; III-a, c",
+    "I-a, e; II-b, d; III-c, f",
+    "I-e, f; II-a, c; III-b, d",
+    "I-b, d; II-e, f; III-a, c"
+   ],
+   "answer": 0,
+   "image": "img/h8-13-19.jpg"
+  }
+ ]
+}

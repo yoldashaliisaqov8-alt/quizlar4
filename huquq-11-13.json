@@ -1,0 +1,118 @@
+{
+ "title": "Huquq 11-sinf · 17-dars. Jinoyat huquqi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Jinoyat deb hisoblanadigan harakatlarni, ularga nisbatan qo'llaniladigan jazolarni va jinoyat sodir etgan shaxslarning javobgarligini tartibga soluvchi huquqiy normalar tizimi qaysi?",
+   "options": [
+    "Fuqarolik huquqi",
+    "Kriminologiya",
+    "Jinoyat huquqi",
+    "Ma'muriy huquq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jinoyat kodeksi bilan taqiqlangan, aybli ijtimoiy xavfli qilmish (harakat yoki harakatsizlik) jazo qo'llash tahdidi bilan qanday topiladi?",
+   "options": [
+    "Intizomiy qilmish",
+    "Jinoyat",
+    "Fuqaroviy delikt",
+    "Ma'muriy huquqbuzarlik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jinoyat huquqining vazifalari qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Fuqarolar o'rtasidagi mulkiy shartnomalarni tuzish",
+    "Jinoyatlarning oldini olish",
+    "Fuqarolarni Konstitutsiya va qonunlarga rioya qilish ruhida tarbiyalash",
+    "Shaxsni, uning huquq va erkinliklarini jinoiy tajovuzlardan qo'riqlash"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h11-13-04.jpg"
+  },
+  {
+   "q": "Jinoyat huquqi prinsiplarini ularning mazmuni bilan TO'G'RI moslashtiring! 1 Qonuniylik a Jazo jinoyatning og'ir- yengilligiga muvofiq bo'lishi kerak 2 Insonparvarlik b Jinoyat tarkibi aniqlangan har bir shaxs javobgarlikka tortilishi shart 3 Odillik c Qilmishning jinoiyligi faqat Jinoyat kodeksi bilan belgilanadi 4 Javobgarliknin d Jazo jismoniy azob berish yoki g muqarrarligi qadr-qimmatni kamsitishni ko'zlamaydi",
+   "options": [
+    "1-c, 2-d, 3-a, 4-b",
+    "1-d, 2-c, 3-a, 4-b",
+    "1-c, 2-a, 3-d, 4-b",
+    "1-c, 2-d, 3-b, 4-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jamoat birlashmalari va fuqarolarning o'zini o'zi boshqarish organlarining jinoyat sodir etgan shaxslar axloqini tuzatishga jalb qilinishi qaysi prinsipga mos keladi?",
+   "options": [
+    "Ayb uchun javobgarlik",
+    "Demokratizm",
+    "Qonuniylik",
+    "Odillik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shaxs qonunda belgilangan tartibda aybi isbotlangan ijtimoiy xavfli qilmishlari uchungina javobgar bo'lishi qaysi prinsipda ifodalangan?",
+   "options": [
+    "Demokratizm",
+    "Ayb uchun javobgarlik",
+    "Fuqarolarning qonun oldida tengligi",
+    "Javobgarlikning muqarrarligi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eyler-Venn diagrammasida I – jinoyat, II – ma'muriy huquqbuzarlik, III – ikkalasiga ham xos belgilarni joylashtiring! a) huquqiy javobgarlikni keltirib chiqaradi b) jarima, ma'muriy qamoq kabi yengilroq jazolar tayinlanadi c) jazo ichki ishlar yoki boshqa ma'muriy organlar tomonidan ham beriladi d) g'ayriqonuniy aybli qilmish e) ijtimoiy xavflilik darajasi yuqori f) jazosi Jinoyat kodeksi bilan belgilanadi",
+   "options": [
+    "I-e, f; II-a, d; III-b, c",
+    "I-d, f; II-b, c; III-a, e",
+    "I-b, c; II-e, f; III-a, d",
+    "I-e, f; II-b, c; III-a, d"
+   ],
+   "answer": 3,
+   "image": "img/h11-13-08.jpg"
+  },
+  {
+   "q": "Ayblanuvchining aybi sud hukmi bilan aniqlanmaguncha aybsiz deb hisoblanishi (aybsizlik prezumpsiyasi) Konstitutsiyaning qaysi moddasida belgilangan?",
+   "options": [
+    "28-moddasida",
+    "27-moddasida",
+    "29-moddasida",
+    "55-moddasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qilmishlardan qaysi biri ma'muriy huquqbuzarlik hisoblanadi?",
+   "options": [
+    "Sovuq qurol bilan qo'rqitib telefon va pulni tortib olish",
+    "Katta miqdordagi giyohvandlik moddalarini tijorat maqsadida saqlash",
+    "Mashina eshigini buzib, ichidagi pullarni o'g'irlash",
+    "Svetoforning qizil chirog'iga qaramay harakatlanish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Temur tuzuklari”dagi “Biror kimsaning gunohi isbotlangandan keyin undan jarima olsalar, so'ng yana darra bilan urmasinlar” degan qoida jinoyat huquqining qaysi prinsipiga mos keladi?",
+   "options": [
+    "Demokratizm",
+    "Javobgarlikning muqarrarligi",
+    "Odillik",
+    "Qonuniylik"
+   ],
+   "answer": 2
+  }
+ ]
+}

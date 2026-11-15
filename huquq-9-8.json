@@ -1,0 +1,106 @@
+{
+ "title": "Huquq 9-sinf · 11-dars. Fuqarolarning shaxsini tasdiqlovchi hujjatlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Xalq qonunlarga ehtiyoj sezib, ularni puxta o'rgansa, bu faqat uning o'ziga foyda keltiradi...” — ushbu fikr muallifi kim?",
+   "options": [
+    "Amir Temur",
+    "Aflotun",
+    "Indira Gandi",
+    "Arastu"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“O'zbekiston hududida egasining shaxsini va fuqaroligini tasdiqlaydigan, biografik va biometrik ma'lumotlari kiritilgan chipga ega hujjat” — bu nima?",
+   "options": [
+    "Xorijga chiqish biometrik pasporti",
+    "Identifikatsiyalovchi ID-karta",
+    "Tug'ilganlik haqidagi guvohnoma",
+    "Yashash guvohnomasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "ID-karta berish muddatlarini fuqaroning yoshi bilan TO'G'RI moslashtiring! 1 Tug'ilgandan 1 yoshgacha a 5 yil muddatga 2 1 yoshdan 16 yoshgacha b 10 yil muddatga 3 16 yoshdan c 2 yil muddatga",
+   "options": [
+    "1-c, 2-a, 3-b",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xorijga chiqish biometrik pasporti amal qilish muddatlarini yosh bilan TO'G'RI moslashtiring! 1 Tug'ilgandan 1 yoshgacha a 10 yil muddatga 2 1 yoshdan 25 yoshgacha b 2 yil muddatga 3 25 yoshdan oshganlar c 5 yil muddatga",
+   "options": [
+    "1-c, 2-b, 3-a",
+    "1-b, 2-c, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorijga chiqish biometrik pasporti qanday hollarda egasining shaxsi va fuqaroligini tasdiqlaydi?",
+   "options": [
+    "Faqat bank operatsiyalarida",
+    "Faqat saylovlarda",
+    "Faqat O'zbekiston ichida",
+    "Xorijga chiqish, O'zbekistonga kirish va xorijda turish vaqtida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "16 yoshgacha bo'lgan bolaning O'zbekiston fuqaroligini tasdiqlovchi hujjati qaysi?",
+   "options": [
+    "Tug'ilganlik to'g'risidagi guvohnoma yoki ma'lumotnoma (tegishli hujjatlar ko'rsatilganda)",
+    "Maktab guvohnomasi",
+    "Faqat biometrik pasport",
+    "Sog'liqni saqlash kartasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“O'zbekistonda chet el fuqarolari va fuqaroligi bo'lmagan shaxslarning huquqiy holati to'g'risida”gi qonun qachon qabul qilingan?",
+   "options": [
+    "2023-yil 30-aprelda",
+    "2020-yil 23-iyunda",
+    "2021-yil 4-iyunda",
+    "2019-yil 9-yanvarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ikki yoki undan ortiq davlat fuqaroligiga ega chet el fuqarosi O'zbekistonda qaysi davlat fuqarosi hisoblanadi?",
+   "options": [
+    "Qaysi davlat hujjatlari bo'yicha kirgan bo'lsa, o'sha davlatning",
+    "Birinchi olgan fuqaroligi davlatining",
+    "O'zbekiston fuqarosi hisoblanadi",
+    "Tug'ilgan davlatining"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bo'lish qoidalarini buzgan chet el fuqarolariga qanday choralar qo'llanishi mumkin? I. Ma'muriy yoki jinoiy javobgarlik; II. Ma'muriy chiqarib yuborish; III. Hududga kirishiga taqiq qo'yish; IV. Bo'lish muddatini qisqartirish; V. Majburan O'zbekiston fuqaroligini berish.",
+   "options": [
+    "I, III, IV va V",
+    "I, II, III va V",
+    "I, II, III va IV",
+    "II, III, IV va V"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chet el fuqarolarining shaxsini tasdiqlovchi hujjatlar qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Identifikatsiyalovchi ID-karta",
+    "Yashash guvohnomasi",
+    "Siyosiy boshpana berish to'g'risidagi guvohnoma",
+    "Haydovchilik guvohnomasi"
+   ],
+   "answer": 3
+  }
+ ]
+}

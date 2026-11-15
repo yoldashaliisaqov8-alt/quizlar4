@@ -1,0 +1,218 @@
+{
+ "title": "Huquq 10-sinf · 1–2-dars. Jamiyatda inson huquqlarining o'rni",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Odamlarning inson huquqlarini rad etish ularning insoniyligiga qarshi chiqishdir” — ushbu fikr muallifi kim?",
+   "options": [
+    "Mahatma Gandi",
+    "Abu Ali ibn Sino",
+    "Nelson Mandela",
+    "Lev Tolstoy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikda “jamiyat” tushunchasiga berilgan ta'rifni aniqlang!",
+   "options": [
+    "Ma'lum bir hududda yashovchi, qadriyatlari, qoidalari va an'analari o'xshash hamda o'zaro ehtiyoj va manfaatlari yo'lida birlashgan insonlar guruhi",
+    "Bir oilada yashovchi qarindoshlar guruhi",
+    "Bir korxonada ishlovchi xodimlar jamoasi",
+    "Davlat hokimiyati organlarining yig'indisi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Jamiyat” so'zi qaysi tildan olingan va qanday ma'noni anglatadi?",
+   "options": [
+    "Lotincha — ittifoq, birlik",
+    "Arabcha — jamoa, jamlangan, birlashgan",
+    "Forscha — xalq, el",
+    "Turkiy — urug', qabila"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Jamiyat” ta'rifining asosini tashkil qiluvchi ikki muhim belgi qaysi javobda to'g'ri ko'rsatilgan?",
+   "options": [
+    "Davlat hokimiyati va qonunlarning mavjudligi",
+    "Umumiy til va umumiy dinning mavjudligi",
+    "Hudud va chegaraning mavjudligi",
+    "Ko'plab insonlarning mavjudligi va ularning umumiy xususiyatga asoslanib birlashgani"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Insonlarning farovon hayot kechirishi uchun turmush sharoitlaridagi tabaqalanishning oldini olishni maqsad qiladigan, aholining ijtimoiy himoyaga muhtoj qatlamini himoyaga oladigan insonparvar davlat qanday ataladi?",
+   "options": [
+    "Ijtimoiy davlat",
+    "Huquqiy davlat",
+    "Unitar davlat",
+    "Dunyoviy davlat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekistonning ijtimoiy davlat ekanligi Konstitutsiyaning qaysi moddasida o'z aksini topgan?",
+   "options": [
+    "66-moddasida",
+    "25-moddasida",
+    "1-moddasida",
+    "19-moddasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Inson huquqlari umumjahon deklaratsiyasi qachon va qaysi tashkilot tomonidan qabul qilingan?",
+   "options": [
+    "1948-yilda BMT tomonidan",
+    "1950-yilda Yevropa Kengashi tomonidan",
+    "1945-yilda BMT tomonidan",
+    "1966-yilda YeXHT tomonidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Zamonaviy davrdagi inson huquqlari asosan qachon shakllangan?",
+   "options": [
+    "Birinchi jahon urushidan keyin",
+    "Fransuz inqilobi davrida",
+    "Ikkinchi jahon urushidan keyin",
+    "XXI asr boshida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Barcha insonlarning qadr-qimmatini tan oladigan va himoya qiladigan standartlar (mezonlar) qanday ataladi?",
+   "options": [
+    "Davlat siyosati",
+    "Inson huquqlari",
+    "Fuqarolarning burchlari",
+    "Axloq normalari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eyler-Venn diagrammasida I – inson huquqlari, II – fuqarolarning asosiy huquq va erkinliklari, III – ikkalasiga ham xos belgilarni joylashtiring! a) davlat xavfsizligi, favqulodda holatlar bilan cheklanadi b) butun insoniyat uchun bir xilda amal qiladi c) insonning qadr-qimmatini himoya qiladi d) xalqaro huquqdan kelib chiqadi e) asosan shu davlat konstitutsiyasidan kelib chiqadi f) davlat tomonidan himoya qilinadi",
+   "options": [
+    "I-b, f; II-a, e; III-c, d",
+    "I-b, d; II-a, f; III-c, e",
+    "I-a, e; II-b, d; III-c, f",
+    "I-b, d; II-a, e; III-c, f"
+   ],
+   "answer": 3,
+   "image": "img/h10-00-10.jpg"
+  },
+  {
+   "q": "“Inson o'ziga kerakli narsalarni faqat jamiyat yordamida qo'lga kiritishi mumkin” degan fikr muallifi kim?",
+   "options": [
+    "Nelson Mandela",
+    "Abu Ali ibn Sino",
+    "Abu Nasr Forobiy",
+    "Lev Tolstoy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Mol-mulkdan foydalanish atrof-muhitga zarar yetkazmasligi, boshqa shaxslarning, jamiyat va davlatning huquqlarini hamda qonuniy manfaatlarini buzmasligi kerak” degan qoida Konstitutsiyaning qaysi moddasida belgilangan?",
+   "options": [
+    "25-moddasida",
+    "58-moddasida",
+    "33-moddasida",
+    "66-moddasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h10-00-13.jpg"
+  },
+  {
+   "q": "Germaniyada “Havo kemalari bo'yicha xavfsizlik to'g'risida”gi qonun parlament tomonidan qachon tasdiqlangan?",
+   "options": [
+    "2003-yil 5-yanvarda",
+    "2006-yil 15-fevralda",
+    "2004-yil 24-sentyabrda",
+    "2001-yil 11-sentyabrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Germaniya Konstitutsiyaviy sudi “Havo kemalari bo'yicha xavfsizlik to'g'risida”gi qonunni nima sababdan konstitutsiyaga zid deb topdi?",
+   "options": [
+    "Qonun xalqaro shartnomalarga zid bo'lgani sababli",
+    "Konstitutsiyada “Har bir shaxs yashash huquqiga ega” degan qoida mavjudligi sababli",
+    "Qonun parlamentda qabul qilinmagani sababli",
+    "Qonun Prezident tomonidan imzolanmagani sababli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Inson manfaatlari va jamiyat manfaatlarining uyg'unlashuviga qanday holatda erishiladi?",
+   "options": [
+    "Davlat aralashmaganda",
+    "Ular o'rtasidagi ziddiyat adolat bilan hal etilganda",
+    "Har doim jamiyat manfaati ustun qo'yilganda",
+    "Har doim shaxs manfaati ustun qo'yilganda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyaning qaysi bo'limi inson va fuqarolarning asosiy huquq va erkinliklarini himoya qilishga qaratilgan?",
+   "options": [
+    "II bo'limi",
+    "III bo'limi",
+    "I bo'limi",
+    "V bo'limi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiya moddalarini ularda mustahkamlangan huquqlar bilan TO'G'RI moslashtiring! 1 19-modda a Yashash huquqi 2 25-modda b Fikrlash, so'z va e'tiqod erkinligi 3 33-modda c Tenglik va kamsitilmaslik huquqi",
+   "options": [
+    "1-c, 2-a, 3-b",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fikrlash va so'z erkinligidan foydalanishdagi istisnolar qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Davlat sirlarini oshkor qilish",
+    "Konstitutsiyaviy tuzumga qarshi gaplarni aytish",
+    "Diniy adovat qo'zg'atuvchi so'zlarni aytish",
+    "Daraxtlarning kesilayotgani haqida fikr bildirish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikdagi misolga ko'ra, turarjoyi hokimiyat tomonidan olib qo'yilgan shaxs qaysi sudga shikoyat qilishi mumkin?",
+   "options": [
+    "Jinoyat ishlari bo'yicha sudga",
+    "Iqtisodiy sudga",
+    "Konstitutsiyaviy sudga",
+    "Ma'muriy sudga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Inson huquqlari buzilganda ularni davlat tomonidan himoya qilishning klassik usuli qaysi?",
+   "options": [
+    "Siyosiy partiyalar orqali",
+    "Xalqaro tashkilotlar orqali",
+    "Sudlar orqali",
+    "Ommaviy axborot vositalari orqali"
+   ],
+   "answer": 2
+  }
+ ]
+}

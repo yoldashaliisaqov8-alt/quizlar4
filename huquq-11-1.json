@@ -1,0 +1,167 @@
+{
+ "title": "Huquq 11-sinf · 2-dars. Aholini ishga joylashtirish",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Davlat fuqarolarning bandligini ta'minlash, ularni ishsizlikdan himoya qilish va kambag'allikni qisqartirish choralarini ko'rishi Konstitutsiyaning qaysi moddasida belgilangan?",
+   "options": [
+    "48-moddasida",
+    "42-moddasida",
+    "43-moddasida",
+    "46-moddasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h11-01-02.jpg"
+  },
+  {
+   "q": "Ish izlayotgan shaxslar uchun ish beruvchilar bilan hamkorlikda uchrashuvlar tashkil qilinadigan tadbir qanday ataladi?",
+   "options": [
+    "Jamoat ishlari",
+    "Mehnat inspeksiyasi",
+    "Mehnat yarmarkasi",
+    "Kasaba uyushmasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fuqarolarni bepul kasb-hunarga o'rgatish, ishga joylashishda yordam berish va chet tillarini o'rgatishga ko'maklashadigan maxsus markazlar qanday ataladi?",
+   "options": [
+    "Davlat xizmatlari markazlari",
+    "Mehnat yarmarkalari",
+    "Kasbiy ko'nikmalar markazlari",
+    "Bandlik inspeksiyalari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qonunchilikka ko'ra kimlar ishsiz hisoblanadi?",
+   "options": [
+    "Ishlamayotgan barcha fuqarolar",
+    "18 yoshga to'lgan barcha talabalar",
+    "Ta'lim muassasalarida o'qiyotgan shaxslar",
+    "16 yoshdan pensiya huquqini olishgacha bo'lgan, ishi va daromadi yo'q, mahalliy mehnat organida ro'yxatdan o'tgan shaxslar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi shaxslar ishsiz hisoblanmaydi?",
+   "options": [
+    "Birinchi marta ish qidirayotgan va ro'yxatdan o'tganlar",
+    "Daromadi yo'q va ro'yxatdan o'tgan 20 yoshli shaxs",
+    "Ishdan bo'shatilgan va ro'yxatdan o'tganlar",
+    "Ta'lim muassasalarida o'qiyotganlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Davlat ishsiz shaxslarga beradigan kafolatlar qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Ishsizlik nafaqasi to'lash",
+    "Uy-joy bilan bepul ta'minlash",
+    "Kasbga tayyorlash davrida stipendiya to'lash",
+    "Haq to'lanadigan jamoat ishlariga jalb etish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ishsizlik nafaqasi qanday mablag'lar hisobidan to'lanadi?",
+   "options": [
+    "Ishsiz shaxsning yashash joyi bo'yicha davlat jamg'armasi mablag'lari hisobidan",
+    "Kasaba uyushmasi hisobidan",
+    "Mahalla fuqarolar yig'ini hisobidan",
+    "Oxirgi ish beruvchi hisobidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ishsizlik nafaqasiga soliq solinadimi?",
+   "options": [
+    "Soliq solinmaydi",
+    "Faqat yuqori miqdordagisiga soliq solinadi",
+    "12 foiz soliq solinadi",
+    "Yarmiga soliq solinadi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ishsizlik nafaqasi qachondan boshlab hisoblanadi?",
+   "options": [
+    "Ishdan bo'shatilgan kundan",
+    "Mahalliy mehnat organida ish qidirayotgan shaxs sifatida ro'yxatga olingan birinchi kundan",
+    "Ro'yxatga olingandan bir oy o'tgach",
+    "Sud qaroridan keyin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ishsizlik nafaqasi o'n ikki oylik davr ichida ko'pi bilan qancha muddat to'lanadi?",
+   "options": [
+    "Uch kalendar oy",
+    "Yigirma to'rt kalendar hafta",
+    "O'n ikki kalendar oy",
+    "Yigirma olti kalendar hafta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ilgari ishlamagan va birinchi marta ish qidirayotgan shaxslarga ishsizlik nafaqasi qanday miqdorda belgilanadi?",
+   "options": [
+    "Mehnatga haq to'lash eng kam miqdorining kamida 75 foizida",
+    "Avvalgi o'rtacha oylik ish haqining 50 foizida",
+    "Mehnatga haq to'lash eng kam miqdorining 100 foizida",
+    "Mehnatga haq to'lash eng kam miqdorining 50 foizida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "So'nggi o'n ikki oy ichida ishdan va ish haqidan mahrum bo'lgan shaxslarga ishsizlik nafaqasi qanday miqdorda belgilanadi?",
+   "options": [
+    "Avvalgi o'rtacha oylik ish haqining 75 foizi miqdorida",
+    "Avvalgi ish joyidagi o'rtacha oylik ish haqining 50 foizi miqdorida",
+    "Avvalgi o'rtacha oylik ish haqining to'liq miqdorida",
+    "Mehnatga haq to'lash eng kam miqdorida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Temur tuzuklari”ga ko'ra vazirlarga beriladigan to'rt imtiyoz qaysi javobda to'g'ri ko'rsatilgan?",
+   "options": [
+    "Ilm, adolat, saxovat va jasorat",
+    "Asillik, aql, sabr va tinchliksevarlik",
+    "Boylik, mansab, yer va unvon",
+    "Ishonch, e'tibor, ixtiyor va iqtidor"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Temur tuzuklari”da vazirlarga qo'yilgan to'rt sifat qatoriga kirMAYDIGAN javobni toping!",
+   "options": [
+    "Aql-farosatlilik",
+    "Sabr-chidamlilik va tinchliksevarlik",
+    "Boylik va mol-mulkka egalik",
+    "Asillik, toza nasllilik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikda ishga qabul qilishga yo'l qo'yiladigan yosh masalasi Mehnat kodeksining qaysi moddasi asosida muhokama qilinadi?",
+   "options": [
+    "106-moddasi",
+    "118-moddasi",
+    "136-moddasi",
+    "42-moddasi"
+   ],
+   "answer": 1
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "title": "Huquq 11-sinf · 13–14-dars. Ma'muriy huquqbuzarlik va ma'muriy javobgarlik",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Ma'muriy javobgarlikka tortish nazarda tutilgan, shaxsga, fuqarolarning huquqlariga, mulkchilikka, davlat va jamoat tartibiga, tabiiy muhitga tajovuz qiluvchi g'ayriqonuniy, aybli harakat yoki harakatsizlik nima?",
+   "options": [
+    "Jinoyat",
+    "Ma'muriy huquqbuzarlik",
+    "Fuqaroviy delikt",
+    "Intizomiy qilmish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ma'muriy huquqbuzarliklarga misol bo'lMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Mayda bezorilik",
+    "Elektr energiyasidan foydalanish qoidalarini buzish",
+    "Yo'l harakati qoidalarini buzish",
+    "Qasddan odam o'ldirish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ma'muriy huquqbuzarlik turlarini misollar bilan TO'G'RI moslashtiring! 1 Fuqarolarning huquq a Belgilanmagan joylarga va erkinliklariga qurilish chiqindilarini tajovuz tashlash 2 Mulk huquqiga qarshi b Tuhmat, yengil tan huquqbuzarliklar jarohati yetkazish 3 Tabiatdan c Topib olingan mol- foydalanish mulkni yashirish sohasidagi huquqbuzarliklar",
+   "options": [
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Necha yoshga to'lgan aqli raso shaxslar ma'muriy javobgarlikka tortiladi?",
+   "options": [
+    "O'n sakkiz yoshga",
+    "O'n ikki yoshga",
+    "O'n to'rt yoshga",
+    "O'n olti yoshga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ma'muriy jazoning asosiy maqsadi nima?",
+   "options": [
+    "Huquqbuzarni qonunlarni hurmat qilish ruhida tarbiyalash va yangi huquqbuzarliklarning oldini olish",
+    "Davlat budjetini to'ldirish",
+    "Faqat jazolash",
+    "Huquqbuzarni jamiyatdan ajratish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "image": "img/h11-11-06.jpg"
+  },
+  {
+   "q": "Voyaga yetmaganlarga qaysi ma'muriy jazolar qo'llanilmaydi?",
+   "options": [
+    "Faqat jarima",
+    "Huquqbuzarlik qurolini musodara qilish",
+    "Ma'muriy qamoqqa olish va haq to'lanadigan jamoat ishlariga majburiy jalb etish",
+    "Jarima va ogohlantirish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ma'muriy huquqbuzarlik sodir etgan voyaga yetmagan shaxs ushlab turilgani haqida kimga darhol xabar beriladi?",
+   "options": [
+    "Maktab direktoriga",
+    "Ota-onasi yoki ular o'rnini bosuvchi shaxslarga",
+    "Prokurorga",
+    "Mahalla raisiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'n olti yoshdan o'n sakkiz yoshgacha bo'lgan shaxsning mustaqil ish haqi bo'lmasa, jarima kimdan undiriladi?",
+   "options": [
+    "Ota-onalari yoki ular o'rnini bosuvchi shaxslardan",
+    "Undirilmaydi",
+    "Maktabdan",
+    "Davlat budjetidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chet el fuqarolarini va fuqaroligi bo'lmagan shaxslarni O'zbekiston hududidan ma'muriy tarzda chiqarib yuborish nima hisoblanadi?",
+   "options": [
+    "Jinoiy jazo turi",
+    "Intizomiy jazo turi",
+    "Ma'muriy jazo turi",
+    "Fuqarolik-huquqiy sanksiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Huquqbuzarlik turlarini kodekslardagi moddalar bilan TO'G'RI moslashtiring! 1 Tuhmat (MJtK) a 139-modda 2 Haqorat qilish (MJtK) b 40-modda 3 Tuhmat (JK) c 41-modda",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-c, 3-a",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qonunchilik ma'lumotlari milliy bazasining sayti qaysi?",
+   "options": [
+    "my.mehnat.uz",
+    "advice.uz",
+    "my.gov.uz",
+    "lex.uz"
+   ],
+   "answer": 3
+  }
+ ]
+}

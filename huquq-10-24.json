@@ -1,0 +1,187 @@
+{
+ "title": "Huquq 10-sinf · 32-dars. O'zbekiston respublikasi fuqaroligi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“O'zbekistonning birorta fuqarosi o'z holiga tashlab qo'yilmaydi” degan fikr muallifi kim?",
+   "options": [
+    "Leonardo da Vinchi",
+    "Shavkat Mirziyoyev",
+    "Kofi Annan",
+    "Islom Karimov"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Har bir insonning fuqaro bo'lish huquqi bor” degan qoida Inson huquqlari umumjahon deklaratsiyasining qaysi moddasida belgilangan?",
+   "options": [
+    "15-moddasida",
+    "1-moddasida",
+    "24-moddasida",
+    "13-moddasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shaxsni tasdiqlovchi hujjatlarni ular beriladigan shaxslar bilan TO'G'RI moslashtiring! 1 Tug'ilganlik haqidagi a 16 yoshga to'lganlar guvohnoma uchun (ID-karta) 2 Fuqaroning pasporti b 16 yoshga to'lmaganlar uchun 3 Identifikatsiyalovchi c 16 yoshga to'lganlar karta uchun (pasport)",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-b, 2-c, 3-a",
+    "1-c, 2-b, 3-a",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekiston fuqaroligini olish va tugatishga doir munosabatlar qaysi qonun bilan tartibga solinadi?",
+   "options": [
+    "“Chet el fuqarolarining huquqiy holati to'g'risida”gi qonun",
+    "“Xalqaro shartnomalar to'g'risida”gi qonun",
+    "“O'zbekiston Respublikasining fuqaroligi to'g'risida”gi qonun",
+    "Fuqarolik kodeksi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbekiston fuqaroligini olish asoslarini aniqlang! I. tug'ilganlik bo'yicha; II. bola farzandlikka olinganda; III. fuqarolikka qabul qilish bilan; IV. chet davlat harbiy xizmatiga kirganda",
+   "options": [
+    "I, II, IV",
+    "II, III, IV",
+    "I, IV",
+    "I, II, III"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chet el fuqarosini O'zbekiston fuqaroligiga qabul qilish masalasi kim tomonidan hal etiladi?",
+   "options": [
+    "O'zbekiston Respublikasi Prezidenti",
+    "Oliy Majlis Senati",
+    "Vazirlar Mahkamasi",
+    "Ichki ishlar vazirligi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston qanday fuqarolik tamoyilini tan oladi?",
+   "options": [
+    "Ikki fuqarolik",
+    "Ikki va uch fuqarolik",
+    "Yagona fuqarolik",
+    "Ko'p fuqarolik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ikki fuqarolikka ruxsat beruvchi davlatlar qaysi javobda to'g'ri ko'rsatilgan?",
+   "options": [
+    "Malta va Ispaniya",
+    "Ispaniya va Portugaliya",
+    "O'zbekiston va Qozog'iston",
+    "Xitoy va Yaponiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Uch fuqarolikka ham ruxsat beradigan davlat qaysi?",
+   "options": [
+    "Ispaniya",
+    "Norvegiya",
+    "Portugaliya",
+    "Malta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "image": "img/h10-24-10.jpg"
+  },
+  {
+   "q": "O'zbekistonda fuqarolikni tugatishning ikki asosi qaysi?",
+   "options": [
+    "Fuqarolikni tiklash va fuqarolikka qabul qilish",
+    "Fuqarolikdan mahrum qilish va surgun",
+    "Fuqarolikdan chiqish va fuqarolikni yo'qotish",
+    "Deportatsiya va ekstraditsiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi holatda shaxs O'zbekiston fuqaroligini yo'qotadi?",
+   "options": [
+    "Chet davlatning harbiy xizmatiga yoki xavfsizlik organlariga xizmatga kirganda",
+    "Chet el fuqarosiga turmushga chiqqanda",
+    "Chet elda vaqtincha ishlaganda",
+    "Chet elga o'qishga ketganda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xorijda doimiy yashovchi fuqaro necha yil mobaynida uzrli sabablarsiz konsullik hisobida turmasa, fuqaroligini yo'qotishi mumkin?",
+   "options": [
+    "Besh yil",
+    "O'n yil",
+    "Uch yil",
+    "Yetti yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fuqaro O'zbekiston fuqaroligini yo'qotganda bu uning turmush o'rtog'i va farzandlarining fuqaroligiga qanday ta'sir qiladi?",
+   "options": [
+    "Faqat turmush o'rtog'i yo'qotadi",
+    "Faqat farzandlari yo'qotadi",
+    "Ta'sir etmaydi",
+    "Ular ham fuqarolikni yo'qotadi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbekiston fuqarosi bo'lmagan va o'zining chet davlat fuqaroligiga mansubligiga doir dalilga ega bo'lmagan shaxs kim?",
+   "options": [
+    "Fuqaroligi bo'lmagan shaxs",
+    "Bipatrid",
+    "Chet el fuqarosi",
+    "Vatandosh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqaroligi bo'lmagan shaxslarning huquqlari xalqaro huquqqa binoan himoya qilinishi Konstitutsiyaning qaysi moddasida belgilangan?",
+   "options": [
+    "24-moddasida",
+    "23-moddasida",
+    "15-moddasida",
+    "18-moddasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqaroligi bo'lmagan shaxslar uchun cheklangan huquqni aniqlang!",
+   "options": [
+    "Ta'lim olish",
+    "Mamlakat hududida erkin harakatlanish",
+    "Sog'liqni saqlash xizmatidan foydalanish",
+    "Prezident saylovida saylovchi sifatida ishtirok etish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fuqarosizlikka barham berish siyosati BMTning qaysi konvensiyasi maqsadlariga mos keladi?",
+   "options": [
+    "1954-yilgi Apatridlar maqomi to'g'risidagi konvensiya",
+    "1961-yilgi Fuqarosizlikni qisqartirish to'g'risidagi konvensiya",
+    "1969-yilgi Vena konvensiyasi",
+    "1951-yilgi Qochqinlar maqomi to'g'risidagi konvensiya"
+   ],
+   "answer": 1
+  }
+ ]
+}

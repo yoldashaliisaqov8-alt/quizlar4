@@ -1,0 +1,177 @@
+{
+ "title": "Huquq 10-sinf · 5-dars. Inson huquqlari va huquq ustuvorligi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Haqiqat havoga o'xshaydi. Rangini ko'rmaysiz. Ovozini eshitmaysiz... Ammo bir lahza havosiz qolsangiz, bo'g'ilib ketasiz” — ushbu fikr muallifi kim?",
+   "options": [
+    "Abu Ali ibn Sino",
+    "Jaloliddin Rumiy",
+    "Nelson Mandela",
+    "Alisher Navoiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Barcha qonunosti va huquqni qo'llash hujjatlari qonunga muvofiq bo'lishi va unga zid bo'lmasligi qanday ataladi?",
+   "options": [
+    "Qonun ustuvorligi",
+    "Huquq ustuvorligi",
+    "Hokimiyatlar bo'linishi",
+    "Inson huquqlari madaniyati"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Barcha normativ-huquqiy hujjatlar va davlat hokimiyatining butun faoliyati inson huquqlari, qadr-qimmati va erkinliklarini himoya qilishga qaratilishini talab qiluvchi tamoyil qaysi?",
+   "options": [
+    "Aybsizlik prezumpsiyasi",
+    "Qonun ustuvorligi",
+    "Huquq ustuvorligi",
+    "Ijtimoiy davlat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Qonun ustuvorligi” va “huquq ustuvorligi” tushunchalarining o'zaro nisbati TO'G'RI ko'rsatilgan javobni aniqlang!",
+   "options": [
+    "Ular bir-biriga mutlaqo bog'liq emas",
+    "Qonun ustuvorligi huquq ustuvorligining muhim tarkibiy qismi hisoblanadi",
+    "Huquq ustuvorligi qonun ustuvorligining tarkibiy qismi hisoblanadi",
+    "Ular aynan bir xil tushunchalardir"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tuman hokimi qarorining Konstitutsiya va qonunlarga zid bo'lmasligi qaysi tamoyilni namoyon qiladi?",
+   "options": [
+    "Qonun ustuvorligini",
+    "Gender tenglikni",
+    "Huquq ustuvorligini",
+    "Insonparvarlikni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquq ustuvorligiga “barcha shaxslar, muassasalar va tuzilmalar, shu jumladan davlatning o'zi ham ... qonunlarga bo'ysungan holda harakat qiladi” deb ta'rif berilgan hujjat qaysi?",
+   "options": [
+    "Inson huquqlari umumjahon deklaratsiyasi",
+    "Fuqaroviy va siyosiy huquqlar to'g'risidagi xalqaro pakt",
+    "BMT Ustavi",
+    "BMT Bosh kotibining 2004-yilgi ma'ruzasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h10-02-07.jpg"
+  },
+  {
+   "q": "Huquq ustuvorligi tamoyillari qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Odamlar faqat qonunga muvofiq jazolanishi",
+    "Qonunning ochiq e'lon qilinishi",
+    "Davlat rahbarining mutlaq daxlsizligi",
+    "Qonun chiqaruvchi, ijro va sud hokimiyatlarining bo'linishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikdagi chizmaga ko'ra huquq ustuvorligi nechta tamoyilga asoslanadi?",
+   "options": [
+    "12 ta",
+    "5 ta",
+    "7 ta",
+    "10 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Inson oxirgi chora sifatida zulm va istibdodga qarshi isyon ko'tarishga majbur bo'lishining oldini olish maqsadida inson huquqlari qonun kuchi bilan himoya etilishi zarur” degan qoida qaysi hujjatda qayd etilgan?",
+   "options": [
+    "BMT Ustavida",
+    "Inson huquqlari umumjahon deklaratsiyasida",
+    "Yevropa inson huquqlari konvensiyasida",
+    "O'zbekiston Konstitutsiyasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jahon odil sudlov loyihasi (World Justice Project) Huquq ustuvorligi indeksining 2021-yilgi natijalariga ko'ra O'zbekiston necha pog'onaga ko'tarildi?",
+   "options": [
+    "7 pog'onaga",
+    "10 pog'onaga",
+    "14 pog'onaga",
+    "20 pog'onaga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hududlarning huquq ustuvorligi indeksini aniqlash qaysi hujjat bilan belgilangan?",
+   "options": [
+    "Vazirlar Mahkamasining 2021-yil 14-yanvardagi qarori",
+    "Oliy Majlisning 2022-yil 14-yanvardagi qonuni",
+    "Prezidentning 2020-yil 14-yanvardagi PF-5950- son farmoni",
+    "Prezidentning 2021-yil 14-yanvardagi PQ- 4951-son qarori"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hududlarning huquq ustuvorligi indeksi nechta asosiy yo'nalish bo'yicha aniqlanadi?",
+   "options": [
+    "4 ta",
+    "7 ta",
+    "10 ta",
+    "5 ta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hududlarning huquq ustuvorligi indeksi aniqlanadigan yo'nalishlar qatoriga kirMAYDIGAN javobni toping!",
+   "options": [
+    "Aholi sonining o'sishi",
+    "Odil sudlov va sud qarorlarining ijro etilishi",
+    "Hokimiyat institutlarining shaffofligi",
+    "Korrupsiyaga qarshi kurashish samaradorligi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Inson sha'ni, huquq va erkinliklarini tan olish va hurmat qilishga qaratilgan bilimlar hamda ularni amalga oshirish va himoya qilish bo'yicha amaliy ko'nikma va tajribalarni nazarda tutuvchi madaniyatning tarkibiy qismi qanday ataladi?",
+   "options": [
+    "Huquq ustuvorligi",
+    "Ijtimoiy himoya",
+    "Siyosiy madaniyat",
+    "Inson huquqlari madaniyati"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Inson huquqlari madaniyatining yuqori darajasini shakllantirishda birinchi navbatda kimlarni tarbiyalash katta ahamiyatga ega?",
+   "options": [
+    "Yoshlarni",
+    "Keksalarni",
+    "Sudyalarni",
+    "Davlat xizmatchilarini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquq ustuvorligi sudyalardan nimani talab qiladi?",
+   "options": [
+    "Ijro hokimiyatiga bo'ysunishini",
+    "Prezident ko'rsatmalariga amal qilishini",
+    "Qarorlarini faqat dalillar va qonunga asoslanib chiqarishi uchun qonun chiqaruvchi va ijro hokimiyatidan mustaqil bo'lishini",
+    "Qarorlarini yopiq tarzda chiqarishini"
+   ],
+   "answer": 2
+  }
+ ]
+}

@@ -1,0 +1,126 @@
+{
+ "title": "Huquq 10-sinf · 23-dars. Iste'molchilar huquqlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Dunyo har qanday insonning ehtiyojlarini qondirish uchun yetarlicha katta, lekin insonning ochko'zligini qondirish uchun juda kichik” degan fikr muallifi kim?",
+   "options": [
+    "Mahatma Gandi",
+    "Benjamin Franklin",
+    "Robert Kiyosaki",
+    "Nelson Mandela"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Iste'molchilarning huquqlarini himoya qilish to'g'risida”gi qonunga ko'ra iste'molchi kim?",
+   "options": [
+    "Tovarni qayta sotish uchun sotib oluvchi tadbirkor",
+    "Oldi-sotdi shartnomasi bo'yicha tovar realizatsiya qiluvchi shaxs",
+    "Tovar ishlab chiqaruvchi korxona",
+    "Foyda chiqarib olish bilan bog'liq bo'lmagan holda shaxsiy iste'mol yoki boshqa maqsadlarda tovar sotib oluvchi, ish, xizmatga buyurtma beruvchi fuqaro"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oldi-sotdi shartnomasi bo'yicha iste'molchiga tovar realizatsiya qiladigan korxona, tashkilot, muassasa yoki yakka tartibdagi tadbirkor kim?",
+   "options": [
+    "Sotuvchi",
+    "Ijrochi",
+    "Akseptant",
+    "Iste'molchi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Iste'molchilar huquqlari bilan bog'liq munosabatlarni tartibga soluvchi hujjatlarni aniqlang! I. Konstitutsiya; II. “Iste'molchilarning huquqlarini himoya qilish to'g'risida”gi qonun; III. Fuqarolik kodeksi; IV. Oila kodeksi",
+   "options": [
+    "II, III, IV",
+    "I, III, IV",
+    "I, II, III",
+    "I, II, IV"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Iste'molchilarga tovarlar va ularning ishlab chiqaruvchisi to'g'risida haqqoniy ma'lumotlar olishni ta'minlaydigan, huquqlari buzilishi sabablarini tahlil qiladigan organ qaysi?",
+   "options": [
+    "Iste'molchilar huquqlarini himoya qilish agentligi",
+    "Adliya vazirligi",
+    "Soliq qo'mitasi",
+    "Bojxona qo'mitasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tovarni kassa yoki tovar chekini bermasdan sotish mumkinmi?",
+   "options": [
+    "Faqat kichik summalarda mumkin",
+    "Mumkin",
+    "Taqiqlanadi",
+    "Faqat bozorlarda mumkin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kafolat muddati qachondan boshlab hisoblanadi?",
+   "options": [
+    "Tovar ishlab chiqarilgan kundan",
+    "Iste'molchi shikoyat qilgan kundan",
+    "Tovar iste'molchiga sotilgan yoki xizmat ko'rsatilgan kundan",
+    "Tovar omborga kelgan kundan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi tovarlarda ishlab chiqarilgan sanasi, yaroqlilik muddati va saqlash shartlari ko'rsatilishi shart?",
+   "options": [
+    "Faqat kiyim-kechaklarda",
+    "Dori vositalari, tibbiy buyumlar, oziq-ovqat va maishiy kimyo tovarlarida",
+    "Faqat maishiy texnikada",
+    "Faqat avtomobillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Iste'molchiga nuqsonli tovar sotilganda nima qilinishi kerak?",
+   "options": [
+    "Tovar qaytarib olinmaydi",
+    "Faqat sud qarori bilan almashtiriladi",
+    "Iste'molchi jarimaga tortiladi",
+    "Tovar ayni shunday markali sifatli tovarga almashtirib berilishi kerak"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Iste'molchining talablari qanday hujjatlar taqdim etilganda ko'rib chiqiladi?",
+   "options": [
+    "Ish joyidan ma'lumotnoma",
+    "Faqat shaxsni tasdiqlovchi hujjat",
+    "Mahalla ma'lumotnomasi",
+    "Kassa yoki tovar cheki, rasmiylashtirilgan texnik pasport"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Iste'molchiga yetkazilgan ma'naviy zarar uchun to'lanadigan haq miqdorini kim belgilaydi?",
+   "options": [
+    "Mahalla fuqarolar yig'ini",
+    "Sud",
+    "Iste'molchining o'zi",
+    "Sotuvchi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shaxsiy moliyaviy xavfsizlikni ta'minlash, pulni samarali boshqarish va shaxsiy byudjetni boshqarish haqidagi bilimlarga asoslangan tushuncha qaysi?",
+   "options": [
+    "Iste'molchilik",
+    "Moliyaviy savodxonlik",
+    "Huquqiy madaniyat",
+    "Tadbirkorlik"
+   ],
+   "answer": 1
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "title": "Huquq 10-sinf · 22-dars. Majburiyatlarning turlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Agar keraksiz narsani sotib olsangiz, tez orada kerakli narsani sotasiz” degan fikr muallifi kim?",
+   "options": [
+    "Jaloliddin Rumiy",
+    "Benjamin Franklin",
+    "Mahatma Gandi",
+    "Robert Kiyosaki"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fuqarolik huquq va burchlarining vujudga kelishi, o'zgartirilishi va bekor bo'lishi haqidagi kelishuv nima deb ataladi?",
+   "options": [
+    "Oferta",
+    "Shartnoma",
+    "Majburiyat",
+    "Neustoyka"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shartnoma tuzishga majburlash mumkinmi?",
+   "options": [
+    "Mumkin, kreditor talab qilsa",
+    "Mumkin, notarius ruxsat bersa",
+    "Mumkin emas, shartnoma erkin tuziladi",
+    "Mumkin, davlat manfaati bo'lsa"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Oferta” so'zining ma'nosi qaysi javobda to'g'ri ko'rsatilgan?",
+   "options": [
+    "Fransuzcha “offre” — “sovg'a”",
+    "Lotincha “acceptus” — “qabul qilingan”",
+    "Lotincha “offero” — “taklif etaman”",
+    "Inglizcha “offer” — “buyurtma”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fuqarolik huquqida taklifda (ofertada) ko'rsatilgan shartlarga ko'ra shartnoma tuzishga rozilik bildirish nima deb ataladi?",
+   "options": [
+    "Oferta",
+    "Neustoyka",
+    "Kafillik",
+    "Aksept"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tushunchalarni ularning ma'nosi bilan TO'G'RI moslashtiring! 1 Offerent a Ofertada ko'rsatilgan shartlarga rozilik bildirish 2 Akseptant b Shartnoma tuzish taklifini yuborgan shaxs 3 Aksept c Taklif xabarnomasini olgan shaxs",
+   "options": [
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shartnoma turlarini ularning mazmuni bilan TO'G'RI moslashtiring! 1 Oldi-sotdi a Ashyo tekinga mulk qilib shartnomasi beriladi 2 Ayirboshlash b Buyurtmachi topshirig'iga shartnomasi binoan ma'lum ish bajariladi 3 Hadya c Tovar mulk qilib topshirilib, shartnomasi uning uchun pul to'lanadi 4 Pudrat d Bir tovar boshqa tovarga shartnomasi almashtiriladi",
+   "options": [
+    "1-c, 2-d, 3-a, 4-b",
+    "1-c, 2-a, 3-d, 4-b",
+    "1-d, 2-c, 3-a, 4-b",
+    "1-c, 2-d, 3-b, 4-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mol-mulkni fuqaroga xayr-ehson qilish qanday hisoblanadi?",
+   "options": [
+    "Qarz",
+    "Oddiy hadya",
+    "Pudrat",
+    "Ayirboshlash"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xayr-ehsonni qabul qilishda biror kimsaning ruxsati yoki roziligi talab qilinadimi?",
+   "options": [
+    "Sud ruxsati talab qilinadi",
+    "Talab qilinmaydi",
+    "Notarius roziligi talab qilinadi",
+    "Hokim ruxsati talab qilinadi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bank yoki boshqa kredit tashkiloti qarz oluvchiga pul mablag'lari berib, qarz oluvchi uni qaytarish va foiz to'lash majburiyatini oladigan shartnoma qaysi?",
+   "options": [
+    "Pudrat shartnomasi",
+    "Hadya shartnomasi",
+    "Kredit shartnomasi",
+    "Bank omonati shartnomasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "image": "img/h10-15-11.jpg"
+  },
+  {
+   "q": "Fuqarolar o'rtasidagi qarz shartnomasi qarz summasi qancha bo'lganda oddiy yozma shaklda tuziladi?",
+   "options": [
+    "Bazaviy hisoblash miqdorining o'n baravaridan ortiq bo'lsa",
+    "Har qanday summada",
+    "Bazaviy hisoblash miqdorining besh baravaridan ortiq bo'lsa",
+    "Bazaviy hisoblash miqdorining yuz baravaridan ortiq bo'lsa"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bank omonati shartnomasi qachondan tuzilgan hisoblanadi?",
+   "options": [
+    "Omonat summasi bankka kelib tushgan kundan boshlab",
+    "Shartnoma imzolangan kundan bir oy o'tib",
+    "Foiz hisoblangan kundan",
+    "Notarius tasdiqlagan kundan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Uy-joyning mulkdori boshqa tarafga uy- joyda yashash uchun haq evaziga egalik qilish va foydalanishga topshiradigan shartnoma qaysi?",
+   "options": [
+    "Pudrat shartnomasi",
+    "Oldi-sotdi shartnomasi",
+    "Hadya shartnomasi",
+    "Uy-joyni ijaraga berish shartnomasi"
+   ],
+   "answer": 3
+  }
+ ]
+}

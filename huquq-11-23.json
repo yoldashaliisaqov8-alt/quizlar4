@@ -1,0 +1,157 @@
+{
+ "title": "Huquq 11-sinf · 32–33-dars. Biologik xilma-xillikni muhofaza qilish",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Yer yuzidagi barcha tirik organizmlar hamda ularning yashash muhitlari va ekotizimlaridagi turli shakllar yig'indisi nima?",
+   "options": [
+    "Biologik xilma-xillik",
+    "Ekotizim",
+    "Qizil kitob",
+    "Ekologik muvozanat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Biologik xilma-xillikning ahamiyati qatoriga kirMAYDIGAN javobni toping!",
+   "options": [
+    "Inson hayoti uchun zarur resurslarni beradi",
+    "Sanoat chiqindilarini ko'paytiradi",
+    "Ekotizimlarning barqarorligini ta'minlaydi",
+    "Ilm-fan va texnologiyalar rivojiga imkon yaratadi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekiston hududida tabiiy ekotizimlarning nechta asosiy turi mavjud?",
+   "options": [
+    "Uchta",
+    "To'rtta",
+    "Oltita",
+    "Beshta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h11-23-04.jpg"
+  },
+  {
+   "q": "Yer, yerosti boyliklari, suv, o'simlik va hayvonot dunyosi umummilliy boylik ekanligi Konstitutsiyaning qaysi moddasida belgilangan?",
+   "options": [
+    "31-moddasida",
+    "62-moddasida",
+    "68-moddasida",
+    "49-moddasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbekistonda yerni muhofaza qilish bo'yicha asosiy huquqiy hujjat qaysi?",
+   "options": [
+    "Soliq kodeksi",
+    "Yer kodeksi",
+    "Fuqarolik kodeksi",
+    "Shaharsozlik kodeksi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yerni hisobga olish, baholash va qonuniy nazorat qilishga xizmat qiladigan maxsus hujjatlar tizimi nima?",
+   "options": [
+    "Litsenziya",
+    "Reyestr",
+    "Kadastr",
+    "Qizil kitob"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Temur tuzuklari”ga ko'ra sahroni obod qilgan yoki bog' ko'kartirgan kishidan birinchi yili qanday soliq olingan?",
+   "options": [
+    "O'z roziligi bilan berganini olingan",
+    "Yarim xiroj olingan",
+    "To'liq xiroj olingan",
+    "Hech narsa olinmagan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yerosti suvlaridan foydalanish uchun ruxsatnoma qaysi axborot tizimlari orqali olinadi?",
+   "options": [
+    "my.gov.uz yoki license.gov.uz",
+    "lex.uz yoki advice.uz",
+    "soliq.uz",
+    "my.mehnat.uz"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Ey, suvlar! Sizlar yaxshilik bilan ravonasiz...” degan satrlar qaysi qadimiy manbadan olingan?",
+   "options": [
+    "“Qutadg'u bilig”",
+    "“Temur tuzuklari”",
+    "“Qobusnoma”",
+    "“Avesto”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fuqarolarning qulay atmosfera havosidan foydalanish va bu haqda ishonchli axborot olish huquqlari qaysi qonunning 4- moddasida belgilangan?",
+   "options": [
+    "“Suv va suvdan foydalanish to'g'risida”gi qonun",
+    "“Hayvonot dunyosini muhofaza qilish to'g'risida”gi qonun",
+    "“Atmosfera havosini muhofaza qilish to'g'risida”gi qonun",
+    "“Tabiatni muhofaza qilish to'g'risida”gi qonun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yo'qolib ketish xavfi ostida turgan yovvoyi hayvonlar va o'simliklar turlari ro'yxati kiritilgan rasmiy nashr qanday ataladi?",
+   "options": [
+    "“Qizil kitob”",
+    "“Yashil kitob”",
+    "Davlat kadastri",
+    "“Oq kitob”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston “Qizil kitob”i birinchi marta qachon nashr etilgan?",
+   "options": [
+    "1984-yilda",
+    "2003-yilda",
+    "1991-yilda",
+    "1972-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston “Qizil kitob”iga nechta o'simlik va hayvon turi kiritilgan?",
+   "options": [
+    "184 o'simlik va 120 hayvon turi",
+    "314 o'simlik va 206 hayvon turi",
+    "300 o'simlik va 200 hayvon turi",
+    "206 o'simlik va 314 hayvon turi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekiston “Qizil kitob”iga kiritilgan hayvonlar qatoriga kirMAYDIGAN javobni toping!",
+   "options": [
+    "Qor qoploni",
+    "Uy quyoni",
+    "Buxoro bug'usi",
+    "Jayron"
+   ],
+   "answer": 1
+  }
+ ]
+}

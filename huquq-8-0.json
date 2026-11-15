@@ -1,0 +1,77 @@
+{
+ "title": "Huquq 8-sinf · Kirish",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Ta'lim faqat so'z va o'rgatish bilan bo'ladi. Tarbiya esa amaliy ish, tajriba bilan bo'ladi” — ushbu hikmatli so'z muallifi kim?",
+   "options": [
+    "Arastu (Aristotel)",
+    "Umar Hayyom",
+    "Abu Nasr Forobiy",
+    "Alisher Navoiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davlat va huquq jamiyat hayotining qaysi munosabatlarini tartibga soluvchi muhim tarkibiy qismidir?",
+   "options": [
+    "Faqat davlat organlari o'rtasidagi munosabatlarni",
+    "Faqat oilaviy va mulkiy munosabatlarni",
+    "Odamlar, tashkilotlar va ijtimoiy institutlar o'rtasidagi munosabatlarni",
+    "Faqat fuqarolar va chet el fuqarolari o'rtasidagi munosabatlarni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlatning huquqiy tizimi va tuzilishi asoslarini tushunish fuqarolarga nimada yordam beradi?",
+   "options": [
+    "O'z huquq va majburiyatlarini anglashga hamda mamlakat hayotida faol ishtirok etishga",
+    "Soliq va to'lovlardan ozod bo'lishga",
+    "Faqat davlat xizmatiga ishga kirishga",
+    "Faqat saylovlarda ovoz berishga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquqiy bilim va madaniyat, qonunga va boshqa odamlarning huquqlariga hurmat, o'z burch va majburiyatlarini anglash ko'nikmasi nimaning asosi hisoblanadi?",
+   "options": [
+    "Kuchli armiyaning",
+    "Uyg'un va barqaror jamiyatning",
+    "Markazlashgan davlat boshqaruvining",
+    "Iqtisodiy o'sishning"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davlat va huquq asoslari fanini o'rganishda yaqindan yordam beradigan fanlar qatorida darslikda tilga olinMAGAN fanlarni aniqlang!",
+   "options": [
+    "Tarix va tarbiya",
+    "Geografiya, biologiya va matematika",
+    "Kimyo va fizika",
+    "Ona tili va adabiyot, iqtisodiy bilim asoslari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlat va huquq asoslari fanini o'rganish jarayonida shakllanadigan xususiyatlar TO'G'RI berilgan javobni aniqlang!\nI. Huquqiy madaniyatli bo'lish; II. Huquqbuzarliklarga nisbatan murosasizlik; III. Siyosiy partiyaga a'zo bo'lish; IV. O'zgalar huquqlarini hurmat qilish; V. Huquqiy bilim va huquqiy ong; VI. Harbiy tayyorgarlik.",
+   "options": [
+    "I, II, IV va V",
+    "III, IV, V va VI",
+    "II, III, IV va VI",
+    "I, III, V va VI"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "image": "img/h8-00-07.jpg"
+  }
+ ]
+}

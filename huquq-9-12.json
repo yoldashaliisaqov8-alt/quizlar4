@@ -1,0 +1,206 @@
+{
+ "title": "Huquq 9-sinf · 18-dars. Shaxsiy huquq va erkinliklar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Kechiktirilgan huquq — rad etilgan huquqdir” — ushbu fikr muallifi kim?",
+   "options": [
+    "Mohandas Gandi",
+    "Jan Eliasson",
+    "Avraam Linkoln",
+    "Martin Lyuter King"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shaxsiy huquq va erkinliklar haqidagi TO'G'RI fikrni aniqlang!",
+   "options": [
+    "Ular faqat davlat xizmatchilariga tegishli",
+    "Ular faqat O'zbekiston fuqarolariga tegishli",
+    "Ular har qanday insonning huquqlari bo'lib, qaysi davlat fuqaroligiga mansubligiga bog'liq bo'lmaydi",
+    "Ular faqat 18 yoshdan beriladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Insonning sha'ni va qadr-qimmati daxlsizdir... Hech kim ustida uning roziligisiz tibbiy va ilmiy tajribalar o'tkazilishi mumkin emas” — Konstitutsiyaning nechanchi moddasi?",
+   "options": [
+    "27-moddasi",
+    "26-moddasi",
+    "28-moddasi",
+    "25-moddasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shaxsiy huquq va erkinliklar qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Uy-joy daxlsizligi huquqi",
+    "Vijdon erkinligi",
+    "Yashash huquqi",
+    "Saylash va saylanish huquqi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mamlakat bo'ylab erkin harakatlanish, turar va yashash joyini tanlash, O'zbekistondan erkin chiqish va qaytish huquqi Konstitutsiyaning nechanchi moddasida?",
+   "options": [
+    "32-moddasida",
+    "26-moddasida",
+    "35-moddasida",
+    "27-moddasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiyaning 27-moddasiga ko'ra hibsga olish, qamoqqa olish va qamoqda saqlashga qanday holda yo'l qo'yiladi?",
+   "options": [
+    "Ichki ishlar organi qarori bilan",
+    "Hokim qarori bilan",
+    "Prokuror sanksiyasi bilan",
+    "Faqat sudning qaroriga ko'ra"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sud qarorisiz shaxsni 48 soatdan ortiq ushlab turish mumkin emasligi haqidagi norma mazmuni qaysi tarixiy hujjatga muvofiq keladi?",
+   "options": [
+    "1215-yilgi Buyuk erkinliklar xartiyasiga",
+    "1789-yilgi Fransiya deklaratsiyasiga",
+    "1679-yil Angliyada qabul qilingan Xabeas korpus aktiga",
+    "1787-yilgi AQSH konstitutsiyasiga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xabeas korpus qoidasining mohiyati nimadan iborat?",
+   "options": [
+    "Shaxs sudsiz istalgan muddatga qamoqqa olinishi mumkin",
+    "Qamoqqa olingan shaxs hibsning qonuniyligini tekshirish uchun sudga murojaat qilib, maxsus sud qarorini talab qilishi mumkin",
+    "Faqat monarx hibsga olish to'g'risida qaror qabul qiladi",
+    "Sud qarorlari ustidan shikoyat qilish taqiqlanadi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vijdon erkinligi Konstitutsiyaning nechanchi moddasida mustahkamlangan?",
+   "options": [
+    "35-moddasida",
+    "38-moddasida",
+    "32-moddasida",
+    "26-moddasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“O'zbekistonda ta'lim tizimi dindan ajratilgandir. Har kim diniy ta'lim muassasalarida professional diniy ta'lim olish huquqiga ega” — qaysi qonunning nechanchi moddasi?",
+   "options": [
+    "“Vijdon erkinligi va diniy tashkilotlar to'g'risida”gi qonun, 8-modda",
+    "Konstitutsiya, 35-modda",
+    "“Vijdon erkinligi va diniy tashkilotlar to'g'risida”gi qonun, 35-modda",
+    "“Ta'lim to'g'risida”gi qonun, 8-modda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Insonning eng asosiy va muqaddas huquqi yashash huquqidir. O'zbekistonda o'lim jazosi taqiqlanadi” — Konstitutsiyaning nechanchi moddasi?",
+   "options": [
+    "26-moddasi",
+    "25-moddasi",
+    "28-moddasi",
+    "27-moddasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jinoyat kodeksining 97-moddasiga ko'ra qasddan odam o'ldirish (og'irlashtiruvchi holatlarsiz) qanday jazolanadi?",
+   "options": [
+    "Faqat umrbod ozodlikdan mahrum qilish",
+    "O'n besh yildan yigirma besh yilgacha ozodlikdan mahrum qilish",
+    "O'n yildan o'n besh yilgacha ozodlikdan mahrum qilish",
+    "Besh yildan o'n yilgacha ozodlikdan mahrum qilish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbekistonda o'lim jazosi qachondan bekor qilingan?",
+   "options": [
+    "2008-yilning 1-yanvaridan",
+    "2005-yilning 1-avgustidan",
+    "1992-yilning 8-dekabridan",
+    "2023-yilning 1-mayidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Hech kim o'zboshimchalik bilan insonni yashashdan mahrum qila olmaydi” qoidasi qaysi xalqaro hujjatning nechanchi moddasida?",
+   "options": [
+    "BMT Nizomi, 6-modda",
+    "Inson huquqlari umumjahon deklaratsiyasi, 3- modda",
+    "Fuqaroviy va siyosiy huquqlar to'g'risidagi xalqaro pakt, 14-modda",
+    "Fuqaroviy va siyosiy huquqlar to'g'risidagi xalqaro pakt, 6-modda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Aybsizlik prezumpsiyasi tamoyili ilk bor qaysi hujjatda amalga kiritilgan?",
+   "options": [
+    "1787-yilgi AQSH konstitutsiyasida",
+    "1679-yilgi Xabeas korpus aktida",
+    "1789-yilda Fransiyada qabul qilingan Inson va fuqaro huquqlari deklaratsiyasida",
+    "1948-yilgi Inson huquqlari umumjahon deklaratsiyasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'rta asrlar islom huquqshunosligida aybsizlik prezumpsiyasi qanday fiqhiy qoida sifatida e'tirof etilgan?",
+   "options": [
+    "“Iqror — eng yaxshi dalil”",
+    "“Aybsizlik — asosiy qoidadir”",
+    "“Shubha — aybdor foydasiga”",
+    "“Ayb — isbotsiz ham jazolanadi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyaning 28-moddasiga ko'ra aybdorlikka oid shubhalar qanday hal qilinadi?",
+   "options": [
+    "Har doim ayblov foydasiga",
+    "Ularni bartaraf etish imkoniyatlari tugagan bo'lsa, gumon qilinuvchi, ayblanuvchi, sudlanuvchi yoki mahkum foydasiga",
+    "Jabrlanuvchi foydasiga",
+    "Prokuror qaroriga ko'ra"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyaning 28-moddasiga ko'ra ayblanuvchining qanday huquqlari mustahkamlangan?",
+   "options": [
+    "Sukut saqlash taqiqlanadi",
+    "Faqat sud ruxsati bilan advokat oladi",
+    "O'z aybsizligini isbotlashga majbur",
+    "O'zining aybsizligini isbotlashi shart emas va istalgan vaqtda sukut saqlash huquqidan foydalanishi mumkin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sud hukmi qonuniy kuchga kirmay turib shaxsni ijtimoiy tarmoqlarda “o'g'ri”, “firibgar” deb atash qaysi prinsipga zid?",
+   "options": [
+    "Aybsizlik prezumpsiyasiga",
+    "So'z erkinligiga",
+    "Davlat suverenitetiga",
+    "Hokimiyatlar bo'linishiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Aybsizlik prezumpsiyasi mustahkamlangan xalqaro hujjatlarni ularning moddalari bilan TO'G'RI moslashtiring! 1 1789-yilgi Fransiya Inson va fuqaro a 11-modda huquqlari deklaratsiyasi 2 Inson huquqlari umumjahon b 14-modda, deklaratsiyasi 2-band 3 Fuqaroviy va siyosiy huquqlar c 9-modda to'g'risidagi xalqaro pakt",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-c, 2-a, 3-b",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 2
+  }
+ ]
+}

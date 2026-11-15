@@ -1,0 +1,357 @@
+{
+ "title": "Huquqshunoslik Milliy sertifikat demo test 6 (1–35)",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Oliy Majlisga oid quyidagi fikrlarning to'g'ri yoki noto'g'ri ekanini aniqlang. (9-sinf, 28-dars)\n1) Qonunchilik palatasining 75 nafar deputati majoritar, 75 nafari proporsional tizim bo'yicha saylanadi; 2) palata o'zini o'zi tarqatib yuborish to'g'risidagi qarorni deputatlarning oddiy ko'pchilik ovozi bilan qabul qiladi; 3) saylovchi Qonunchilik palatasiga saylovda ikkita byulleten orqali ovoz beradi; 4) Senat 65 nafar senatordan iborat; 5) Qonunchilik palatasi Bosh vazir nomzodini uch marta rad etsa, Prezident Bosh vazirni tayinlab, Qonunchilik palatasini tarqatib yuboradi",
+   "options": [
+    "1 – to'g'ri; 2 – noto'g'ri; 3 – to'g'ri; 4 – to'g'ri; 5 – to'g'ri",
+    "1 – to'g'ri; 2 – to'g'ri; 3 – to'g'ri; 4 – to'g'ri; 5 – noto'g'ri",
+    "1 – noto'g'ri; 2 – noto'g'ri; 3 – to'g'ri; 4 – to'g'ri; 5 – to'g'ri",
+    "1 – to'g'ri; 2 – noto'g'ri; 3 – to'g'ri; 4 – noto'g'ri; 5 – to'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Prezidentga oid muddatlarni to'g'ri moslashtiring. (9-sinf, 29-dars)\n1) Prezident vakolatlari Senat Raisiga o'tganda Prezident saylovi o'tkaziladigan muddat; 2) saylangan Prezident natijalar e'lon qilingandan so'ng qasamyod qiladigan muddat; 3) Prezidentning har yilgi haq to'lanadigan ta'tili; 4) siyosiy partiya nomzod ko'rsatish uchun MSKga murojaat qiladigan muddat\na) uch oy ichida; b) kechi bilan ikki oy ichida; c) 36 ish kuni; d) saylovga kamida 70 kun qolganda",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-b, 2-a, 3-d, 4-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vazirlar Mahkamasiga oid ikki fikrni baholang. I. Qonunchilik palatasi Bosh vazir lavozimiga taqdim etilgan nomzodni 10 kun ichida ko'rib chiqadi. II. Vazirlar Mahkamasi farmonlar va qarorlar qabul qiladi. (9-sinf, 30-dars)",
+   "options": [
+    "Ikkalasi ham noto'g'ri",
+    "Ikkalasi ham to'g'ri",
+    "Faqat I to'g'ri",
+    "Faqat II to'g'ri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sud hokimiyatiga oid quyidagi fikrlarning to'g'ri yoki noto'g'ri ekanini aniqlang. (9-sinf, 32-dars)\n1) Konstitutsiyaviy sud raisini Prezident taqdimiga binoan Senat saylaydi; 2) Konstitutsiyaviy sud qarorlari qat'iy bo'lib, shikoyat qilinmaydi va e'lon qilingan kundan kuchga kiradi; 3) Konstitutsiyaviy sud qonunchilik tashabbusi huquqini Qonunchilik palatasiga kiritish orqali amalga oshiradi; 4) harbiy sudlar tizimi O'zbekiston Respublikasi Harbiy sudi va hududiy harbiy sudlardan iborat",
+   "options": [
+    "1 – noto'g'ri; 2 – noto'g'ri; 3 – to'g'ri; 4 – to'g'ri",
+    "1 – noto'g'ri; 2 – to'g'ri; 3 – to'g'ri; 4 – to'g'ri",
+    "1 – to'g'ri; 2 – to'g'ri; 3 – to'g'ri; 4 – to'g'ri",
+    "1 – noto'g'ri; 2 – to'g'ri; 3 – noto'g'ri; 4 – to'g'ri"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vaziyat: Fuqaroligi bo'lmagan Akmal O'zbekistonda 5 yil yashadi, lekin shu davrdagi bir yilda jami 200 kun chet elda bo'ldi. Umumiy tartibda fuqarolikka qabul qilish uchun yashash muddati talabiga javob beradimi? (9-sinf, 10-dars)",
+   "options": [
+    "Ha, chunki 5 yillik muddat to'liq o'tgan",
+    "Yo'q, chunki umumiy tartibda kamida 10 yil yashash talab qilinadi",
+    "Ha, chunki chet elda bo'lgan kunlar hisobga olinmaydi",
+    "Yo'q, chunki bir yilda jami 183 kundan ortiq chet elda bo'lgani sababli yashash muddati uzluksiz hisoblanmaydi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'zbekiston Respublikasining Ma'muriy javobgarlik to'g'risidagi kodeksining 29-moddasiga ko'ra quyidagilardan qaysilariga ma'muriy qamoqqa olish chorasi qo'llanilmaydi? (01.06.2024-yil holatiga ko'ra) (MJtK, 29-modda)\n1) III guruh nogironligi bo'lgan shaxslarga; 2) o'n sakkiz yoshga to'lmagan shaxslarga; 3) uch yoshgacha bolasi bo'lgan ayollarga; 4) IV guruh nogironligi bo'lgan shaxslarga.",
+   "options": [
+    "2, 3",
+    "1, 3",
+    "1, 4",
+    "2, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ombudsman (a) inson huquqlarining jiddiy buzilishiga yo'l qo'ygan shaxslarni javobgarlikka tortish yuzasidan tegishli organlarga hamda (b) qonunchilik buzilishini bartaraf etish yuzasidan tashkilot rahbarlariga qanday hujjat kiritadi? (10-sinf, 8-dars)",
+   "options": [
+    "a — iltimosnoma; b — taqdimnoma",
+    "a — protest; b — taqdimnoma",
+    "a — iltimosnoma; b — xususiy ajrim",
+    "a — taqdimnoma; b — iltimosnoma"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "K. ismli fuqaro qo'shnisi A. ismli shaxsning telefonidagi shaxsiy rasmlari va ma'lumotlarini uning ruxsatisiz telegram kanallarda masxaralab tarqatdi. Ushbu holatda A. ismli shaxsning qanday konstitutsiyaviy huquqi poymol etilgan? (Konstitutsiya, VII bob)",
+   "options": [
+    "siyosiy",
+    "ekologik",
+    "iqtisodiy",
+    "shaxsiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "To'g'ri moslashtirilgan javobni aniqlang. O'zbekiston Respublikasi Konstitutsiyasi: I. Shaxsiy huquq va erkinliklar; II. Iqtisodiy, ijtimoiy, madaniy va ekologik huquqlar. (Konstitutsiya, VII va IX boblar)\na) har kim o'z shaxsiga doir ma'lumotlarning himoya qilinishi huquqiga, shuningdek, noto'g'ri ma'lumotlarning tuzatilishini, o'zi to'g'risida qonunga xilof yo'l bilan to'plangan yoki huquqiy asoslarga ega bo'lmay qolgan ma'lumotlarning yo'q qilinishini talab qilish huquqiga ega; b) siyosiy partiyalarda, jamoat birlashmalarida, ommaviy harakatlarda, shuningdek, davlat hokimiyati vakillik organlarida ozchilikni tashkil etuvchi muxolifatchi shaxslarning huquqlari, erkinliklari va qadr-qimmatini hech kim kamsitishi mumkin emas; c) har kimga ilmiy, texnikaviy va badiiy ijod erkinligi, madaniyat yutuqlaridan foydalanish huquqi kafolatlanadi; d) hech kim rasmiy e'lon qilinmagan qonun asosida hukm qilinishi, jazoga tortilishi, mol-mulkidan yoki biron-bir huquqidan mahrum etilishi mumkin emas; e) fuqarolar o'z ijtimoiy faolliklarini O'zbekiston Respublikasi qonunlariga muvofiq mitinglar, yig'ilishlar va namoyishlar shaklida amalga oshirish huquqiga ega; f) O'zbekiston Respublikasi fuqarolari tibbiy yordamning kafolatlangan hajmini qonunda belgilangan tartibda davlat hisobidan olishga haqli.",
+   "options": [
+    "I-b, d; II-c, e",
+    "I-a, d; II-c, f",
+    "I-a, e; II-c, f",
+    "I-a, f; II-c, d"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "(a) Ijtimoiy sug'urta hamda (b) Ijtimoiy yordamga oid belgilarni to'g'ri moslashtiring. (10-sinf, 6-dars)\n1) ish beruvchilar va xodimlarning sug'urta badallari hisobidan shakllanadi; 2) sug'urta badallarini to'lash-to'lamaslikdan qat'i nazar, manzilli va maqsadli taqdim etiladi; 3) mehnat qobiliyati va daromadni yo'qotish bilan bog'liq xatarlar oqibatlarini kompensatsiyalaydi; 4) davlat tomonidan moliyalashtirilib, muhtoj qatlamning minimal ehtiyojlarini qondiradi",
+   "options": [
+    "a – 2, 4; b – 1, 3",
+    "a – 1, 3; b – 2, 4",
+    "a – 1, 2; b – 3, 4",
+    "a – 1, 4; b – 2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XMTning “Ishga qabul qilish uchun eng kichik yosh to'g'risida”gi 138-son konvensiyasi O'zbekiston tomonidan qachon ratifikatsiya qilingan va unga ko'ra eng kichik yosh har qanday holda necha yoshdan kichik bo'lmasligi kerak? (10-sinf, 7-dars)",
+   "options": [
+    "2008-yil; 16 yosh",
+    "2008-yil; 15 yosh",
+    "1992-yil; 15 yosh",
+    "1999-yil; 18 yosh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oila kodeksiga ko'ra evara katta buvisiga nisbatan to'g'ri shajaradagi necha darajali qarindosh hisoblanadi? (10-sinf, 11–12-dars)",
+   "options": [
+    "Uchinchi darajali",
+    "Ikkinchi darajali",
+    "Birinchi darajali",
+    "To'rtinchi darajali"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oila va nikohga oid quyidagi fikrlarning to'g'ri yoki noto'g'ri ekanini aniqlang. (10-sinf, 10–12-dars)\n1) nikohni qayd etishda guvohlar soni ikki kishidan kam bo'lmasligi kerak; 2) nikohlanuvchilarning tibbiy ko'rikdan o'tish muddati ikki haftadan oshmasligi kerak; 3) Oila kodeksi 8 ta bo'lim va 238 ta moddadan iborat; 4) Oila kodeksi 1998-yil 1-sentyabrda qabul qilingan; 5) er xotinining homiladorlik vaqtida va bola tug'ilganidan keyin bir yil mobaynida uning roziligisiz nikohdan ajratish da'vosini qila olmaydi",
+   "options": [
+    "1 – to'g'ri; 2 – to'g'ri; 3 – noto'g'ri; 4 – noto'g'ri; 5 – to'g'ri",
+    "1 – to'g'ri; 2 – to'g'ri; 3 – to'g'ri; 4 – to'g'ri; 5 – noto'g'ri",
+    "1 – to'g'ri; 2 – noto'g'ri; 3 – to'g'ri; 4 – noto'g'ri; 5 – to'g'ri",
+    "1 – to'g'ri; 2 – to'g'ri; 3 – to'g'ri; 4 – noto'g'ri; 5 – to'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Aliment ko'rsatkichlarini to'g'ri moslashtiring. (8-sinf; 10-sinf, 15-dars)\n1) voyaga yetmagan har bir bola uchun undiriladigan aliment minimal miqdori; 2) voyaga yetgan mehnatga layoqatli bolalardan ota-onasi uchun undiriladigan aliment minimal miqdori; 3) qarzdorlik “Aliment to'lovlari” jamg'armasidan to'lanishi uchun aliment to'lanmagan muddat\na) eng kam ish haqining 26,5 foizi; b) eng kam ish haqining 11,75 foizi; c) uch oy",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vaziyat: Oilada 4 nafar farzand bor: 17, 15 va 12 yoshli o'quvchilar hamda oliy ta'limning kunduzgi shaklida o'qiyotgan 21 yoshli talaba. Oila kodeksiga ko'ra bu oila ko'p bolali oila hisoblanadimi? (10-sinf, 10-dars)",
+   "options": [
+    "Ha, chunki kunduzgi ta'limda o'qiyotgan farzand 22 yoshga to'lmaguncha hisobga olinadi",
+    "Yo'q, chunki farzandlardan biri 18 yoshdan katta",
+    "Ha, chunki 3 nafar voyaga yetmagan farzand yetarli",
+    "Yo'q, chunki ko'p bolali oila uchun 5 nafar farzand kerak"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi juftliklardan qaysi biri to'g'ri? (10-sinf, 27, 31-dars)",
+   "options": [
+    "MDH nizomi — 1991-yil 8-dekabrda qabul qilingan",
+    "O'zbekiston — 2001-yildan Shanxay hamkorlik tashkiloti a'zosi",
+    "MDH — 1991-yil 21-dekabrda tuzilgan",
+    "Vestfaliya sulhi — Yuz yillik urushdan keyin imzolangan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "BMT Nizomi qoidalari va moddalarini to'g'ri moslashtiring. (9-sinf, 7-dars; 10-sinf, 29, 31-dars)\n1) davlatning o'zini himoya qilish uchun kuch ishlatish huquqi; 2) nizolarni tinch yo'l bilan hal etish; 3) boshqa davlatlarning ichki ishlariga aralashmaslik\na) 51-modda; b) 33-modda; c) 2-moddaning 7-bandi",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ishsizlik nafaqasiga oid quyidagi fikrlarning to'g'ri yoki noto'g'ri ekanini aniqlang. (11-sinf, 2-dars)\n1) ishsizlik nafaqasi o'n ikki oylik davr ichida ko'pi bilan yigirma olti kalendar hafta to'lanadi; 2) ishsizlik nafaqasiga soliq solinmaydi; 3) birinchi marta ish qidirayotganlarga avvalgi o'rtacha ish haqining 75 foizi miqdorida belgilanadi; 4) so'nggi 12 oy ichida ishidan mahrum bo'lganlarga avvalgi o'rtacha oylik ish haqining 50 foizi miqdorida belgilanadi",
+   "options": [
+    "1 – to'g'ri; 2 – to'g'ri; 3 – to'g'ri; 4 – noto'g'ri",
+    "1 – noto'g'ri; 2 – to'g'ri; 3 – noto'g'ri; 4 – to'g'ri",
+    "1 – to'g'ri; 2 – noto'g'ri; 3 – noto'g'ri; 4 – to'g'ri",
+    "1 – to'g'ri; 2 – to'g'ri; 3 – noto'g'ri; 4 – to'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nuqtalar o'rniga “o'ttiz olti” soni TO'G'RI KELMAYDIGAN javobni aniqlang. (9-sinf, 29-dars; 11-sinf, 7-dars)",
+   "options": [
+    "16–18 yoshli xodimlar uchun ish vaqti haftasiga … soatdan oshmasligi kerak",
+    "Prezident har yili … ish kunlik haq to'lanadigan ta'tilga ega",
+    "Uch yoshga to'lmagan bolaning onasiga haftasiga … soatdan oshmaydigan ish vaqti belgilanadi",
+    "I va II guruh nogironligi bo'lgan xodimlar uchun ish vaqti haftasiga … soatdan oshmaydi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mehnat kodekslariga oid to'g'ri juftlikni aniqlang. (11-sinf, 7-dars)",
+   "options": [
+    "Ilk Mehnat kodeksi — 1996-yilda qabul qilingan; amaldagisi — 2022-yilda kuchga kirgan",
+    "Ilk Mehnat kodeksi — 1995-yilda qabul qilinib, 1996-yilda kuchga kirgan; amaldagisi — 2022-yilda qabul qilinib, 2023-yilda kuchga kirgan",
+    "Ilk Mehnat kodeksi — 1995-yilda kuchga kirgan; amaldagisi — 2024-yilda kuchga kirgan",
+    "Ilk Mehnat kodeksi — 1992-yilda qabul qilingan; amaldagisi — 2023-yilda qabul qilingan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vaziyat: Mustaqil ish haqi bo'lmagan 17 yoshli o'quvchiga ma'muriy jarima solindi. Jarima kimdan undiriladi va unga qaysi ma'muriy jazolar qo'llanilmaydi? (11-sinf, 13–14-dars)",
+   "options": [
+    "Maktabdan; jarima va ogohlantirish qo'llanilmaydi",
+    "Ota-onasidan; faqat jarima qo'llanilmaydi",
+    "O'zidan, 18 yoshga to'lgach; faqat ma'muriy qamoq qo'llanilmaydi",
+    "Ota-onasidan; ma'muriy qamoq va haq to'lanadigan jamoat ishlariga jalb etish qo'llanilmaydi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Temur tuzuklari”dagi mansablarni to'g'ri moslashtiring. (11-sinf, 15-dars)\n1) qutvol; 2) arzbegi\na) har bir shahar va qishloqqa soqchilik qilish uchun tayinlangan; b) sipoh, raiyat va arz-dod qilib keluvchilarning ahvolini hukmdorga yetkazib turuvchi; c) xazina va soliqlarni hisobga oluvchi",
+   "options": [
+    "1-a, 2-c",
+    "1-b, 2-a",
+    "1-a, 2-b",
+    "1-c, 2-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vaziyat: Sardor ijtimoiy tarmoqda birinchi marta sinfdoshini haqoratli so'zlar bilan tahqirlab, post joyladi. Darslikka ko'ra u qanday javobgarlikka tortiladi? (11-sinf, 19–20-dars)",
+   "options": [
+    "Javobgarlik yo'q, chunki birinchi marta sodir etilgan",
+    "Bevosita jinoiy javobgarlikka, chunki haqorat internet orqali qilingan",
+    "Avval ma'muriy, faqat takrorlansa jinoiy javobgarlikka",
+    "Faqat intizomiy javobgarlikka"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Iqtisodiyot sohasidagi jinoyatlar va vaziyatlarni to'g'ri moslashtiring. (11-sinf, 24-dars)\n1) ijtimoiy tarmoqda “arzon telefon sotaman” deb oldindan pul olib, telefonni yubormaslik; 2) shaxsiy rasmlarini tarqatish bilan qo'rqitib pul talab qilish; 3) kichik o'quvchidan telefonini ochiqchasiga olib qo'yish\na) firibgarlik; b) tovlamachilik; c) talonchilik",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mansabga oid jinoyatlar va vaziyatlarni to'g'ri moslashtiring. (11-sinf, 25-dars)\n1) mansabdor shaxs tanlovsiz davlat idorasini ta'mirlashga qarindoshini jalb etib, byudjetga ko'p miqdorda zarar yetkazdi; 2) shahar hokimi o'z vakolatiga kirmaydigan binolarni ijaraga berish haqida qaror chiqardi\na) hokimiyat yoki mansab vakolatini suiiste'mol qilish; b) hokimiyat yoki mansab vakolati doirasidan chetga chiqish; c) pora olish",
+   "options": [
+    "1-a, 2-c",
+    "1-b, 2-a",
+    "1-c, 2-b",
+    "1-a, 2-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ekologik-huquqiy javobgarlikka oid quyidagi fikrlarning to'g'ri yoki noto'g'ri ekanini aniqlang. (11-sinf, 30–31-dars)\n1) ekologik-huquqiy javobgarlik intizomiy, ma'muriy, fuqaroviy-huquqiy va jinoiy shakllarda bo'ladi; 2) uning eng ko'p uchraydigan shakli jinoiy javobgarlikdir; 3) MJtKning sakkizinchi bobi ekologiyaga oid huquqbuzarliklarga bag'ishlangan; 4) ma'muriy yoki jinoiy javobgarlikka tortilish aybdorni zararni qoplash majburiyatidan ozod etmaydi; 5) Jinoyat kodeksining “Ekologiya sohasidagi jinoyatlar” bo'limi beshinchi bo'limdir",
+   "options": [
+    "1 – noto'g'ri; 2 – noto'g'ri; 3 – to'g'ri; 4 – to'g'ri; 5 – noto'g'ri",
+    "1 – to'g'ri; 2 – noto'g'ri; 3 – to'g'ri; 4 – noto'g'ri; 5 – noto'g'ri",
+    "1 – to'g'ri; 2 – noto'g'ri; 3 – to'g'ri; 4 – to'g'ri; 5 – noto'g'ri",
+    "1 – to'g'ri; 2 – to'g'ri; 3 – to'g'ri; 4 – to'g'ri; 5 – noto'g'ri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikka ko'ra YUNESKOning Butunjahon merosi ro'yxatiga kiritilgan O'zbekistondagi qadimiy shaharlar qatorida qaysi shahar YO'Q? (9-sinf, 24-dars)",
+   "options": [
+    "Shahrisabz",
+    "Xiva",
+    "Buxoro",
+    "Qo'qon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Muddatli harbiy xizmatga necha yoshdagi O'zbekiston fuqarolari chaqiriladi? (9-sinf, 24-dars)",
+   "options": [
+    "17 yoshdan 27 yoshgacha",
+    "18 yoshdan 30 yoshgacha",
+    "18 yoshdan 27 yoshgacha",
+    "18 yoshdan 25 yoshgacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fuqarolik jamiyati institutlarini tuzishga oid talablarni to'g'ri moslashtiring. (9-sinf, 27-dars)\n1) siyosiy partiya tashabbuskorlari soni; 2) siyosiy partiya tuzishning birinchi bosqichida to'planadigan imzolar soni; 3) jamoat birlashmasini tuzish tashabbuskorlari soni\na) kamida ellik kishi; b) kamida yigirma ming; c) kamida o'n nafar",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-c, 2-b, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1916-yilda Nyu-Yorkda ko'rilgan “Makferson “Buick”ka qarshi” ishi qaysi huquq manbasiga misol bo'ladi va unda jarima kimga solingan? (8-sinf, 11–12-dars)",
+   "options": [
+    "Normativ-huquqiy hujjat; xaridorga",
+    "Yuridik pretsedent; avtomobil ishlab chiqaruvchiga",
+    "Huquqiy odat; avtomobil sotuvchisiga",
+    "Xalqaro shartnoma; sug'urta kompaniyasiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Monarxiyalar va ularning turlarini to'g'ri moslashtiring. (8-sinf, 7–8-dars)\n1) Malayziya; 2) Vatikan; 3) Daniya\na) noan'anaviy (monarx saylov orqali, muayyan muddatga); b) teokratik; c) cheklangan (konstitutsiyaviy)",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekistonda o'lim jazosini bekor qilish to'g'risidagi Prezident farmoni qachon qabul qilingan va o'lim jazosi qachondan bekor qilingan? (8-sinf, 21–24-dars; 9-sinf, 18-dars)",
+   "options": [
+    "2003-yil 1-avgust; 2008-yil 1-yanvardan",
+    "2008-yil 1-yanvar; 2005-yil 1-avgustdan",
+    "2005-yil 1-avgust; 2006-yil 1-yanvardan",
+    "2005-yil 1-avgust; 2008-yil 1-yanvardan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vaziyat: B. otasidan qolgan eski uydan voz kechdi. Ukasi uyni rasmiylashtirgach, uy qimmat ekani ma'lum bo'ldi va B. merosni qaytarib olmoqchi. Darslikka ko'ra B.ning talabi qanday hal etiladi? (9-sinf, 20-dars)",
+   "options": [
+    "B. merosdan voz kechgani uchun uni qaytarib olishga haqli emas",
+    "B. sud orqali merosni to'liq qaytarib oladi",
+    "B. merosning yarmini talab qilishga haqli",
+    "Meros notarius qarori bilan aka-ukaga teng bo'linadi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bola huquqlari to'g'risidagi konvensiya BMT Bosh Assambleyasining nechanchi sessiyasida qabul qilingan va O'zbekiston uni qachon ratifikatsiya qilgan? (10-sinf, 30-dars)",
+   "options": [
+    "75-sessiyasida; 1992-yilda",
+    "72-sessiyasida; 1995-yilda",
+    "44-sessiyasida; 1992-yilda",
+    "44-sessiyasida; 2008-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos javobni aniqlang (I — faqat Prezidentga, II — faqat Senatga, III — ikkalasiga tegishli). (9-sinf, 28–29-dars)\na) Qurolli Kuchlar Oliy Bosh qo'mondoni hisoblanadi; b) iste'foga chiqqan Prezident uning umrbod a'zosi bo'ladi; c) amnistiya masalasini hal etishda ishtirok etadi (taqdimnoma kiritadi yoki hujjatni qabul qiladi); d) Prezident vakolatlari vaqtincha uning Raisiga o'tadi; e) Senat Raisini saylashda ishtirok etadi (nomzodni taqdim etadi yoki saylaydi); f) yetti yil muddatga saylanadi",
+   "options": [
+    "I – a, f; II – b, c; III – d, e",
+    "I – a, d; II – b, f; III – c, e",
+    "I – a, f; II – b, d; III – c, e",
+    "I – c, f; II – b, d; III – a, e"
+   ],
+   "answer": 2,
+   "image": "img/hq9d0a1ebefcf6.jpg"
+  }
+ ]
+}

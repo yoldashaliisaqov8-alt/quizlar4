@@ -1,0 +1,117 @@
+{
+ "title": "Huquq 11-sinf · 24-dars. Iqtisodiyot sohasidagi jinoyatlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Moddiy manfaat orttirish maqsadida iqtisodiy tartiblarni buzish bilan bog'liq jinoiy qilmishlar qanday ataladi?",
+   "options": [
+    "Boshqaruv tartibiga qarshi jinoyatlar",
+    "Iqtisodiyot sohasidagi jinoyatlar",
+    "Shaxsga qarshi jinoyatlar",
+    "Ekologik jinoyatlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h11-18-02.jpg"
+  },
+  {
+   "q": "Jinoyat turlarini ularning mazmuni bilan TO'G'RI moslashtiring! 1 O'g'rilik a O'zganing mulki ochiqdan- ochiq talon-toroj qilinadi 2 Talonchilik b Hayot yoki sog'liq uchun xavfli zo'rlik ishlatib talon-toroj qilish 3 Firibgarlik c Mol-mulkni yashirincha o'zlashtirish 4 Bosqinchilik d Aldash yoki ishonchni suiiste'mol qilish yo'li bilan mulkni qo'lga kiritish",
+   "options": [
+    "1-c, 2-a, 3-b, 4-d",
+    "1-c, 2-d, 3-a, 4-b",
+    "1-a, 2-c, 3-d, 4-b",
+    "1-c, 2-a, 3-d, 4-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Iqtisodiyot sohasidagi jinoyatlar ichida shaxslarning hayoti va sog'lig'iga jiddiy zarar yetkazishi mumkin bo'lgan jinoyat qaysi?",
+   "options": [
+    "Firibgarlik",
+    "Soliq to'lashdan bo'yin tovlash",
+    "Bosqinchilik",
+    "O'g'rilik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shaxsiy rasm va videolarini tarqatish bilan qo'rqitib jabrlanuvchidan pul talab qilish qanday jinoyat?",
+   "options": [
+    "Firibgarlik",
+    "Tovlamachilik",
+    "O'g'rilik",
+    "Talonchilik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ijtimoiy tarmoqda “arzon telefon sotaman” deb e'lon berib, oldindan pul olib, telefonni yubormaslik qanday jinoyat?",
+   "options": [
+    "Firibgarlik",
+    "Tovlamachilik",
+    "Talonchilik",
+    "O'g'rilik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yuqori sinf o'quvchisining kichik o'quvchidan telefonini ochiqchasiga olib qo'yishi qanday jinoyat?",
+   "options": [
+    "Firibgarlik",
+    "Talonchilik",
+    "Bosqinchilik",
+    "O'g'rilik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Iqtisodiyot asoslariga qarshi jinoyatlar qatoriga kirMAYDIGAN javobni toping!",
+   "options": [
+    "Talonchilik",
+    "Qimmatbaho metallarni topshirish qoidalarini buzish",
+    "Soliqlar yoki yig'imlarni to'lashdan bo'yin tovlash",
+    "Qalbaki pul yoki qimmatli qog'ozlarni yasash va o'tkazish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston manfaatlariga xilof ravishda bitimlar tuzish jinoyati odatda kim tomonidan sodir etiladi?",
+   "options": [
+    "Mansabdor shaxslar tomonidan",
+    "Voyaga yetmaganlar tomonidan",
+    "Chet el turistlari tomonidan",
+    "Talabalar tomonidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Soliq to'lashdan bo'yin tovlash, energiyadan foydalanish qoidalarini buzish kabi qilmishlar uchun javobgarlik qanday tartibda qo'llaniladi?",
+   "options": [
+    "Faqat fuqaroviy javobgarlik",
+    "Faqat intizomiy javobgarlik",
+    "Darhol umrbod ozodlikdan mahrum qilish",
+    "Avval ma'muriy jazo, takroran sodir etilsa jinoiy javobgarlik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yer ostidan qazib olingan qimmatbaho metall yoki toshlar kimga topshirilishi lozim?",
+   "options": [
+    "Mahalla fuqarolar yig'iniga",
+    "Xususiy zargarlik do'koniga",
+    "Davlatga",
+    "Topgan shaxs o'zida qoldiradi"
+   ],
+   "answer": 2
+  }
+ ]
+}

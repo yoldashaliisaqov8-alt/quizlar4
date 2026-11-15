@@ -1,0 +1,127 @@
+{
+ "title": "Huquq 11-sinf · 8-dars. Mehnat muhofazasi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Xodimlarning ish joyida xavfsiz ishlashini ta'minlash uchun qabul qilingan qoidalar va choralar nima deb ataladi?",
+   "options": [
+    "Mehnatni muhofaza qilish",
+    "Mehnat intizomi",
+    "Ijtimoiy sheriklik",
+    "Mehnat shartnomasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xodimlarni shaxsiy himoya vositalari bilan ta'minlash xarajatlarini kim qoplaydi?",
+   "options": [
+    "Xodimning o'zi",
+    "Ish beruvchi o'z mablag'lari hisobidan",
+    "Davlat budjeti",
+    "Kasaba uyushmasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mehnatda mayib bo'lish yoki kasb kasalligi munosabati bilan xodimning sog'lig'iga yetkazilgan zararni kim qoplaydi?",
+   "options": [
+    "Xodimning o'zi",
+    "Mahalla",
+    "Ish beruvchi",
+    "Sug'urta agentining xohishi bilan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mehnatni muhofaza qilish talablari buzilib, hayot uchun xavf yuzaga kelsa, xodim ishni bajarishni rad etsa qanday oqibat kelib chiqadi?",
+   "options": [
+    "Mehnat shartnomasi bekor qilinadi",
+    "Jarima solinadi",
+    "Hayfsan beriladi",
+    "Intizomiy javobgarlik kelib chiqmaydi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ish beruvchilarni mehnat qonunchiligiga rioya etilishi yuzasidan rejali va rejadan tashqari tekshiradigan shaxslar kimlar?",
+   "options": [
+    "Davlat mehnat inspektorlari",
+    "Prokurorlar",
+    "Soliq inspektorlari",
+    "Kasaba uyushmasi raislari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mehnat inspeksiyasining davlat nazorati vakolati Mehnat kodeksining qaysi moddasida belgilangan?",
+   "options": [
+    "391-moddasida",
+    "414-moddasida",
+    "314-moddasida",
+    "535-moddasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "image": "img/h11-07-07.jpg"
+  },
+  {
+   "q": "Davlat mehnat inspektorlarining qoidabuzarliklarni bartaraf etish to'g'risidagi ko'rsatmalari ish beruvchi uchun qanday ahamiyatga ega?",
+   "options": [
+    "Faqat sud tasdiqlasa majburiy",
+    "Tavsiyaviy xarakterga ega",
+    "Bajarilishi majburiy",
+    "Ixtiyoriy bajariladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mehnatni muhofaza qilish qoidalariga rioya etmaslik oqibatida xodimga o'rtacha og'ir yoki og'ir tan jarohati yetsa, mas'ul shaxs qanday javobgarlikka tortiladi?",
+   "options": [
+    "Jinoiy javobgarlikka",
+    "Javobgarlikka tortilmaydi",
+    "Faqat intizomiy javobgarlikka",
+    "Faqat moddiy javobgarlikka"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Portallar va markazlarni ular orqali amalga oshiriladigan ishlar bilan TO'G'RI moslashtiring! 1 Kasbiy a Huquqiy axborot portali ko'nikmalar markazi 2 Yagona milliy b Bepul ta'lim olish va kasbga mehnat tizimi tayyorlanish 3 advice.uz c Mehnat daftarchasini rasmiylashtirish",
+   "options": [
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Tibbiyotning asosiy vazifasi — inson sog'lig'ini saqlash...” degan fikr Abu Ali ibn Sinoning qaysi asaridan olingan?",
+   "options": [
+    "“Kitob un-najot”",
+    "“Kitob ash-shifo”",
+    "“Donishnoma”",
+    "“Tib qonunlari”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponiyaning “Sanoat xavfsizligi va sog'liqni saqlash to'g'risida”gi qonuniga ko'ra korxonalar zimmasiga qanday majburiyat yuklangan?",
+   "options": [
+    "Har yili xodimlarni chet elga dam olishga yuborish",
+    "Yiliga kamida bir marta barcha xodimlarning stress darajasini tekshirish",
+    "Xodimlarni haftasiga 30 soatdan ortiq ishlatmaslik",
+    "Har oy xodimlar maoshini oshirish"
+   ],
+   "answer": 1
+  }
+ ]
+}

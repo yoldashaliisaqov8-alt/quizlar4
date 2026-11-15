@@ -1,0 +1,137 @@
+{
+ "title": "Huquq 10-sinf · 20-dars. Mulkiy va nomulkiy munosabatlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Har bir insonga ikkita katta sovg'a beriladi: miya va vaqt” degan fikr muallifi kim?",
+   "options": [
+    "Robert Kiyosaki",
+    "Uorren Baffet",
+    "Mark Avreliy",
+    "Konfutsiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muayyan moddiy-iqtisodiy mazmunga ega bo'lgan munosabatlar qanday ataladi?",
+   "options": [
+    "Oilaviy munosabatlar",
+    "Mulkiy munosabatlar",
+    "Ma'muriy munosabatlar",
+    "Nomulkiy munosabatlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mulk huquqining vujudga kelish asoslariga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Meros qilib olish",
+    "Davlat mol-mulkini xususiylashtirish",
+    "Mehnat faoliyati",
+    "Boshqa shaxsning mulkini o'zboshimchalik bilan egallash"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fuqarolik kodeksiga ko'ra mulk qanday shakllarga bo'linadi?",
+   "options": [
+    "Respublika, munitsipal va xorijiy",
+    "Xususiy, kooperativ va davlat",
+    "Xususiy, ommaviy va umumiy",
+    "Davlat, jamoa va shaxsiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shaxsning qonunchilikka muvofiq qo'lga kiritgan, miqdori va qiymati cheklanmaydigan va daxlsiz bo'lgan mulki qaysi?",
+   "options": [
+    "Xususiy mulk",
+    "Ommaviy mulk",
+    "Umumiy mulk",
+    "Munitsipal mulk"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ommaviy mulk tarkibiga nimalar kiradi?",
+   "options": [
+    "Faqat munitsipal mulk",
+    "Xususiy va umumiy mulk",
+    "Respublika mulki va munitsipal mulk",
+    "Shaxsiy va oilaviy mulk"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mulk obyektlarini ularning turi bilan TO'G'RI moslashtiring! 1 Yer, yerosti boyliklari, oltin a Umumiy zaxirasi mulk 2 Maktab, bog'cha, kutubxona, b Respublika poliklinika mulki 3 Ikki va undan ortiq shaxsning c Munitsipal egaligidagi mol-mulk mulk",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-b, 2-c, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h10-13-08.jpg"
+  },
+  {
+   "q": "Umumiy mulk nimaga asoslanadi?",
+   "options": [
+    "Davlat qaroriga",
+    "Sud hukmiga",
+    "Meros huquqiga",
+    "Shaxslarning kelishuviga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mulkiy xarakterda bo'lmagan, qiymati pul bilan ifodalanmaydigan shaxsiy huquqiy munosabatlar qanday ataladi?",
+   "options": [
+    "Majburiyatlar",
+    "Nomulkiy munosabatlar",
+    "Mulkiy munosabatlar",
+    "Bitimlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fuqaroning sha'ni va qadr-qimmatini qachongacha himoya qilishga yo'l qo'yiladi?",
+   "options": [
+    "Manfaatdor shaxslarning talabiga ko'ra uning vafotidan keyin ham",
+    "Faqat hayotlik chog'ida",
+    "Faqat uch yil davomida",
+    "Faqat 18 yoshga to'lgunga qadar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqaroning sha'niga putur yetkazuvchi ma'lumotlar ommaviy axborot vositalarida tarqatilgan bo'lsa, qanday chora ko'riladi?",
+   "options": [
+    "Muallif fuqarolikdan mahrum qilinadi",
+    "Hech qanday chora ko'rilmaydi",
+    "Ommaviy axborot vositasi yopiladi",
+    "Ayni shu ommaviy axborot vositalarida raddiya berilishi lozim"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mulkdor o'ziga tegishli mol-mulkka nisbatan qanday vakolatlarga ega?",
+   "options": [
+    "Faqat tasarruf etish",
+    "Faqat egalik qilish",
+    "Egalik qilish, foydalanish va tasarruf etish",
+    "Faqat foydalanish"
+   ],
+   "answer": 2
+  }
+ ]
+}

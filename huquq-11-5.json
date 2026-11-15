@@ -1,0 +1,148 @@
+{
+ "title": "Huquq 11-sinf · 6-dars. Intizomiy va moddiy javobgarlik",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Xodim tomonidan mehnat majburiyatlarini qasddan yoki ehtiyotsizlik oqibatida bajarmaganligi qanday javobgarlikni keltirib chiqaradi?",
+   "options": [
+    "Intizomiy javobgarlikni",
+    "Jinoiy javobgarlikni",
+    "Fuqaroviy javobgarlikni",
+    "Ma'muriy javobgarlikni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Har bir intizomiy qilmish uchun nechta intizomiy jazo chorasi qo'llanilishi mumkin?",
+   "options": [
+    "Cheklanmagan",
+    "Faqat bitta",
+    "Uchtagacha",
+    "Ikkita"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Intizomiy jazo chorasini tanlash huquqi kimga tegishli?",
+   "options": [
+    "Sudga",
+    "Kasaba uyushmasiga",
+    "Mehnat inspeksiyasiga",
+    "Ish beruvchiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Intizomiy jazo qo'llash haqidagi buyruq bilan tanishtirilmagan xodim qanday hisoblanadi?",
+   "options": [
+    "Intizomiy jazosi bo'lmagan deb hisoblanadi",
+    "Jarimaga tortilgan deb hisoblanadi",
+    "Ishdan bo'shatilgan deb hisoblanadi",
+    "Jazolangan deb hisoblanadi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h11-05-05.jpg"
+  },
+  {
+   "q": "Intizomiy jazoning amal qilish muddati u qo'llanilgan kundan e'tiboran qancha muddatdan oshmasligi kerak?",
+   "options": [
+    "Uch oydan",
+    "Ikki yildan",
+    "Bir yildan",
+    "Olti oydan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Intizomiy jazo intizomiy qilmish aniqlangan kundan e'tiboran qancha muddatdan kechiktirmay qo'llaniladi?",
+   "options": [
+    "Ikki haftadan",
+    "Bir oydan",
+    "Uch oydan",
+    "Olti oydan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mehnat kodeksining 314-moddasiga ko'ra intizomiy jazo qilmish sodir etilgan kundan e'tiboran qancha muddatdan kechiktirmay qo'llanilishi mumkin?",
+   "options": [
+    "Olti oydan, taftish yoki auditorlik tekshiruvi natijalariga ko'ra esa ikki yildan",
+    "Bir yildan, taftish natijalariga ko'ra esa uch yildan",
+    "Uch oydan, taftish natijalariga ko'ra esa olti oydan",
+    "Bir oydan, taftish natijalariga ko'ra esa bir yildan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Intizomiy jazoni muddatidan oldin olib tashlash qanday rasmiylashtiriladi?",
+   "options": [
+    "Xodimning arizasi bilan",
+    "Sud qarori bilan",
+    "Kasaba uyushmasi qarori bilan",
+    "Ish beruvchining buyrug'i bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shaxs tomonidan yetkazilgan moddiy zarar uchun javob berish majburiyati nima?",
+   "options": [
+    "Moddiy javobgarlik",
+    "Axloqiy javobgarlik",
+    "Intizomiy javobgarlik",
+    "Ma'muriy javobgarlik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ish beruvchi qaysi hollarda xodimga yetkazilgan ziyonning o'rnini qoplaydi? I. xodim mehnat qilish imkoniyatidan g'ayriqonuniy mahrum qilinsa; II. xodimning hayoti yoki sog'lig'iga ziyon yetkazilsa; III. ish haqi to'lash kechiktirilsa; IV. xodim ishga kech qolsa",
+   "options": [
+    "I, II, IV",
+    "I, IV",
+    "I, II, III",
+    "II, III, IV"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Salarium” atamasi qaysi so'zdan olingan va qanday ma'noni anglatadi?",
+   "options": [
+    "Yunoncha “salos” — mukofot",
+    "Lotincha “solidus” — tanga",
+    "Lotincha “salus” — salomatlik",
+    "Lotincha “sal” — tuz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hozirgi ingliz tilidagi qaysi so'zning ildizi “salarium” atamasiga borib taqaladi?",
+   "options": [
+    "Salad — salat",
+    "Salary — oylik ish haqi",
+    "Sale — sotuv",
+    "Salute — salom"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eyler-Venn diagrammasida I – intizomiy javobgarlik, II – moddiy javobgarlik, III – ikkalasiga ham xos belgilarni joylashtiring! a) ichki tartib-qoidalarga rioya qilmaganlik uchun qo'llaniladi b) yetkazilgan zarar uchun javob berish majburiyati c) hayfsan, jarima kabi jazo choralari mavjud d) xodim va ish beruvchi munosabatlarida vujudga keladi e) ish beruvchi ham xodimga yetkazilgan ziyonni qoplaydi f) mehnat huquqi bilan tartibga solinadi",
+   "options": [
+    "I-a, f; II-b, e; III-c, d",
+    "I-a, c; II-b, e; III-d, f",
+    "I-a, c; II-d, f; III-b, e",
+    "I-b, e; II-a, c; III-d, f"
+   ],
+   "answer": 1,
+   "image": "img/h11-05-14.jpg"
+  }
+ ]
+}

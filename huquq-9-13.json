@@ -1,0 +1,206 @@
+{
+ "title": "Huquq 9-sinf · 19-dars. Siyosiy huquqlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Tenglik hukm surgan joyda sotqin, aldamchi ehtiroslar, g'am-g'ussa bo'lmaydi” — ushbu fikr muallifi kim?",
+   "options": [
+    "Al-Xorazmiy",
+    "Amir Temur",
+    "Abu Rayhon Beruniy",
+    "Abu Ali ibn Sino"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Fuqarolarning jamiyat va davlat boshqaruvida, siyosiy hayotida ishtirok etish imkoniyatini ta'minlovchi huquqlar” — bu qanday huquqlar?",
+   "options": [
+    "Siyosiy huquqlar",
+    "Iqtisodiy huquqlar",
+    "Ekologik huquqlar",
+    "Shaxsiy huquqlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra siyosiy huquqlarning ikki guruhi TO'G'RI berilgan javobni aniqlang!",
+   "options": [
+    "Davlat hokimiyati mexanizmining shakllanishi va faoliyatida ishtirok etish huquqlari; jamiyatda ishtirok etish huquqi",
+    "Ichki va tashqi siyosiy huquqlar",
+    "Individual va jamoaviy mulk huquqlari",
+    "Shaxsiy va iqtisodiy huquqlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Saylov huquqi, referendumda ishtirok etish va murojaat qilish huquqi siyosiy huquqlarning qaysi guruhiga kiradi?",
+   "options": [
+    "Madaniy huquqlarga",
+    "Davlat hokimiyati mexanizmining shakllanishi va faoliyatida ishtirok etish huquqlariga",
+    "Shaxsiy huquqlarga",
+    "Jamiyatda ishtirok etish huquqlariga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Siyosiy huquqlarning xususiyatlari TO'G'RI berilgan javobni aniqlang! I. Davlat bilan bog'liqligi; II. Muayyan yoshga yetish talabi; III. Har qanday davlatda bir xil bo'lishi; IV. Asosan tegishli davlat fuqarolari foydalanishi; V. Tug'ilgan zahoti to'liq hajmda berilishi.",
+   "options": [
+    "I, III va V",
+    "II, III va V",
+    "I, II va IV",
+    "III, IV va V"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“O'zbekiston fuqarolari jamiyat va davlat ishlarini boshqarishda bevosita hamda o'z vakillari orqali ishtirok etish huquqiga ega” — Konstitutsiyaning nechanchi moddasi?",
+   "options": [
+    "128-moddasi",
+    "38-moddasi",
+    "36-moddasi",
+    "39-moddasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiyada mustahkamlangan siyosiy huquqlar qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Mitinglar, yig'ilishlar va namoyishlar o'tkazish huquqi",
+    "Mulkdor bo'lish huquqi",
+    "Davlat xizmatiga kirish huquqi",
+    "Saylov va referendumda ishtirok etish huquqi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi siyosiy huquqdan chet el fuqarolari va fuqaroligi bo'lmagan shaxslar ham foydalanishi mumkin?",
+   "options": [
+    "Siyosiy partiyaga a'zo bo'lish huquqi",
+    "Saylanish huquqi",
+    "Saylash huquqi",
+    "Murojaat qilish huquqi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Saylovda ovoz berishda qatnashish uchun fuqaro saylov kuni necha yoshga to'lgan bo'lishi lozim?",
+   "options": [
+    "16 yoshga",
+    "21 yoshga",
+    "25 yoshga",
+    "18 yoshga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“O'zbekiston fuqarolari davlat hokimiyati vakillik organlariga saylash va saylanish huquqiga egadirlar. Har bir saylovchi bir ovozga ega” — Konstitutsiyaning nechanchi moddasi?",
+   "options": [
+    "39-moddasi",
+    "128-moddasi",
+    "36-moddasi",
+    "92-moddasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Muxolifatchi shaxslarning huquqlari, erkinliklari va qadr-qimmatini hech kim kamsitishi mumkin emasligi Konstitutsiyaning nechanchi moddasida?",
+   "options": [
+    "38-moddasida",
+    "40-moddasida",
+    "36-moddasida",
+    "39-moddasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'zbekistonda nechta siyosiy partiya faoliyat olib bormoqda?",
+   "options": [
+    "6 ta",
+    "3 ta",
+    "5 ta",
+    "4 ta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbekistondagi siyosiy partiyalar qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "O'zbekiston Yoshlar partiyasi",
+    "O'zbekiston “Milliy tiklanish” demokratik partiyasi",
+    "O'zbekiston Ekologik partiyasi",
+    "O'zbekiston “Adolat” sotsial-demokratik partiyasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“O'z huquqlari, erkinliklari va qonuniy manfaatlarini birgalikda ro'yobga chiqarish uchun birlashgan fuqarolarning xohish-irodalarini erkin bildirishlari natijasida vujudga kelgan ixtiyoriy tuzilma” — bu nima?",
+   "options": [
+    "Tijorat tashkiloti",
+    "Jamoat birlashmasi",
+    "Davlat organi",
+    "Mahalliy hokimiyat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tushunchalarni ularning ta'riflari bilan TO'G'RI moslashtiring! 1 Miting a Ma'lum siyosiy talablarni bildirish maqsadidagi ommaviy yurish 2 Namoyish b Muhim jamoatchilik masalasini birgalikda muhokama qilish uchun fuqarolar ishtiroki 3 Yig'ilish c Shaxslar va tashkilotlar xatti- harakatlariga munosabatni oshkora ifodalash maqsadidagi tinch yig'in",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-c, 2-a, 3-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyaning 38-moddasiga ko'ra hokimiyat organlari mitinglar, yig'ilishlar va namoyishlar o'tkazilishini qanday asosda to'xtatish yoki taqiqlash huquqiga ega?",
+   "options": [
+    "Hokimning xohishiga ko'ra",
+    "Faqat xavfsizlik nuqtayi nazaridan",
+    "Siyosiy sabablarga ko'ra",
+    "Har qanday asosda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Murojaatlar qaysi qonun bilan tartibga solinadi va qanday shaklda bo'lishi mumkin?",
+   "options": [
+    "Fuqarolik kodeksi; faqat og'zaki",
+    "Konstitutsiya; faqat yozma",
+    "“Jismoniy va yuridik shaxslarning murojaatlari to'g'risida”gi qonun; og'zaki, yozma yoki elektron",
+    "“Fuqarolar murojaati to'g'risida”gi farmon; faqat elektron"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Murojaat turlarini ularning mazmuni bilan TO'G'RI moslashtiring! 1 Ariza a Davlat va jamoatchilik faoliyatini takomillashtirish bo'yicha tavsiyalar 2 Taklif b Buzilgan huquq va manfaatlarni tiklashni talab qiluvchi murojaat 3 Shikoyat c Huquq va manfaatlarni amalga oshirish uchun ko'mak so'rab qilingan murojaat",
+   "options": [
+    "1-c, 2-a, 3-b",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqaroning xorijda davolanish uchun vakolatli organga yordam so'rab qilgan murojaati qanday murojaat turiga kiradi?",
+   "options": [
+    "Shikoyat",
+    "Petitsiya",
+    "Taklif",
+    "Ariza"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Dam olish maskanining tungi osoyishtalikni buzayotgani yuzasidan ichki ishlar organlariga berilgan murojaat qanday turga kiradi?",
+   "options": [
+    "Shikoyat",
+    "Ariza",
+    "Taklif",
+    "Iltimosnoma"
+   ],
+   "answer": 0
+  }
+ ]
+}

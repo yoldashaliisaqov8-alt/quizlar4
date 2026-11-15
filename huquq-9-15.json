@@ -1,0 +1,217 @@
+{
+ "title": "Huquq 9-sinf · 21-dars. Ijtimoiy huquqlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Ilmni kim vositayi joh etar, O'zini-yu xalqni gumroh etar” — ushbu misralar muallifi kim?",
+   "options": [
+    "Abdulla Avloniy",
+    "Zahiriddin Bobur",
+    "Ahmad Yassaviy",
+    "Alisher Navoiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikka ko'ra ijtimoiy davlatning asosiy belgisi nima?",
+   "options": [
+    "Yagona partiya hukmronligi",
+    "Davlat manfaatlarining shaxs manfaatlaridan ustunligi",
+    "Diniy qoidalarning ustunligi",
+    "Shaxs manfaatlarining davlat manfaatlaridan ustun bo'lishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Fuqarolarning ijtimoiy himoyasi va farovonligini ta'minlaydigan huquqlar” — bu qanday huquqlar?",
+   "options": [
+    "Ijtimoiy huquqlar",
+    "Shaxsiy huquqlar",
+    "Madaniy huquqlar",
+    "Siyosiy huquqlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "image": "img/h9-15-04.jpg"
+  },
+  {
+   "q": "Nima uchun mehnat qilish huquqi ba'zida iqtisodiy huquqlardan biri sifatida ham tushuntiriladi?",
+   "options": [
+    "Chunki mehnat daromadlar manbayidir",
+    "Chunki u faqat tadbirkorlarga tegishli",
+    "Chunki u Konstitutsiyada yo'q",
+    "Chunki u faqat bank faoliyatiga tegishli"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Munosib mehnat qilish, kasb tanlash, adolatli haq olish va ishsizlikdan himoyalanish huquqi Konstitutsiyaning nechanchi moddasida?",
+   "options": [
+    "42-moddasida",
+    "44-moddasida",
+    "43-moddasida",
+    "46-moddasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikdagi jadvalga ko'ra 15 yoshga to'lgan o'quvchilar qanday shartlarda ishga qabul qilinadi?",
+   "options": [
+    "Faqat vasiylik organi ruxsati bilan",
+    "Umumiy tartibda, hech qanday shartsiz",
+    "Faqat tungi ishlarga",
+    "O'qishdan bo'sh vaqtida, ota-onadan birining yozma roziligi bilan, sog'lig'iga ziyon yetkazmaydigan yengil mehnatga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "15 yoshdan kichik bolalar qanday faoliyat turlarida va qanday shartlarda ishlashi mumkin?",
+   "options": [
+    "Faqat dehqonchilikda, hech qanday ruxsatsiz",
+    "Hech qanday ishda ishlay olmaydi",
+    "Har qanday ishda, ota-onasidan birining roziligi bilan",
+    "Teatr, televideniye, radio, professional sport, asarlar yaratish va ijro etishda; ota-onaning har ikkisi roziligi va vasiylik organi ruxsati bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Biror shaxsga jazoni qo'llash tahdidi ostida, uning ixtiyoriga qarshi muayyan ishni bajartirish” — bu nima?",
+   "options": [
+    "Majburiy mehnat",
+    "Majburiy jamoat ishlari",
+    "Muqobil xizmat",
+    "Bolalar mehnati"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Majburiy mehnat hisoblanMAYDIGAN ishlarni aniqlang! I. Harbiy xususiyatga ega ishlar; II. Ish beruvchi tahdidi bilan bajariladigan ishlar; III. Favqulodda yoki harbiy holat sabab bajariladigan ishlar; IV. Sud qarori bo'yicha jazo sifatida bajariladigan ishlar.",
+   "options": [
+    "I, III va IV",
+    "I, II va IV",
+    "II, III va IV",
+    "I, II va III"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bolalar mehnatining har qanday shakllari taqiqlanishi Konstitutsiyaning nechanchi moddasida?",
+   "options": [
+    "46-moddasida",
+    "50-moddasida",
+    "44-moddasida",
+    "42-moddasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "18 yoshga to'lmagan shaxslar mehnatidan foydalanish taqiqlangan ishlar ro'yxatiga darslikda keltirilgan misollar qatorida berilMAGAN javobni aniqlang!",
+   "options": [
+    "Temirchi",
+    "Kutubxonachi",
+    "Bo'yoqchi",
+    "Muzqaymoq tayyorlovchi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davlatning fuqarolar bandligini ta'minlash va ishsizlikdan himoya qilish majburiyati Konstitutsiyaning nechanchi moddasida?",
+   "options": [
+    "42-moddasida",
+    "43-moddasida",
+    "47-moddasida",
+    "54-moddasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pensiya va nafaqalarning uch turi TO'G'RI berilgan javobni aniqlang!",
+   "options": [
+    "Harbiy, fuqarolik, xususiy",
+    "Yoshga doir, ishsizlik, kasallik",
+    "Yoshga doir, nogironlik, boquvchisini yo'qotganlik",
+    "Nogironlik, onalik, bolalik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Pensiya va nafaqa o'rtasidagi farq nimada?",
+   "options": [
+    "Pensiya faqat ayollarga, nafaqa erkaklarga",
+    "Ular o'rtasida farq yo'q",
+    "Pensiya yetarli ish stajiga ega bo'lganlarga, nafaqa yetarli stajga ega bo'lmaganlarga belgilanadi",
+    "Pensiya bir martalik, nafaqa doimiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiyaning 46-moddasiga ko'ra pensiyalar, nafaqalar va ijtimoiy yordam miqdorlari nimadan oz bo'lishi mumkin emas?",
+   "options": [
+    "Bazaviy hisoblash miqdoridan",
+    "Rasman belgilangan eng kam iste'mol xarajatlaridan",
+    "Minimal ish haqining ikki baravaridan",
+    "O'rtacha ish haqidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyaning 47-moddasiga ko'ra hech kim qanday tarzda uy-joyidan mahrum etilishi mumkin emas?",
+   "options": [
+    "Mahalla roziligisiz",
+    "Hokim qarorisiz",
+    "Prokuror ruxsatisiz",
+    "Sudning qarorisiz va qonunga zid tarzda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Uy-joyidan mahrum etilgan mulkdorga nima kafolatlanadi?",
+   "options": [
+    "Uy-joy qiymatining yarmi",
+    "Hech qanday tovon",
+    "Uy-joy qiymati va ko'rgan zararlarining oldindan hamda teng qiymatda qoplanishi",
+    "Faqat vaqtinchalik turar joy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiyaning 50-moddasiga ko'ra davlat qanday ta'limni bepul olishni kafolatlaydi?",
+   "options": [
+    "Oliy ta'limni",
+    "Umumiy o'rta ta'lim va boshlang'ich professional ta'limni",
+    "Barcha bosqichdagi ta'limni",
+    "Faqat maktabgacha ta'limni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra qaysi ta'lim majburiy?",
+   "options": [
+    "Maktabgacha ta'lim",
+    "Oliy ta'lim",
+    "Umumiy o'rta ta'lim",
+    "Professional ta'lim"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Alohida ta'lim ehtiyojlari va individual imkoniyatlarning xilma-xilligini hisobga olgan holda barcha uchun teng imkoniyatlarni ta'minlagan holda beriladigan ta'lim” — bu nima?",
+   "options": [
+    "Inklyuziv ta'lim",
+    "Masofaviy ta'lim",
+    "Uzluksiz ta'lim",
+    "Professional ta'lim"
+   ],
+   "answer": 0
+  }
+ ]
+}

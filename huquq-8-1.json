@@ -1,0 +1,388 @@
+{
+ "title": "Huquq 8-sinf · 1–2-dars. Shaxs",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Odamiy ersang, demagil odami, Onikim, yo'q xalq g'amidin g'ami” — ushbu misralar muallifi kim?",
+   "options": [
+    "Umar Hayyom",
+    "Amir Temur",
+    "Abu Nasr Forobiy",
+    "Alisher Navoiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Odam” tushunchasi qanday tushuncha hisoblanadi?",
+   "options": [
+    "Biologik tushuncha bo'lib, unga jonli tabiatning bir elementi sifatida qaraladi",
+    "Siyosiy tushuncha bo'lib, davlat fuqarosini bildiradi",
+    "Ijtimoiy tushuncha bo'lib, kundalik so'zlashuvda keng qo'llaniladi",
+    "Huquqiy tushuncha bo'lib, huquqiy munosabatlar ishtirokchisini bildiradi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Inson” tushunchasi qanday tushuncha bo'lib, undan qayerda keng foydalaniladi?",
+   "options": [
+    "Huquqiy tushuncha; qonun hujjatlarida",
+    "Ijtimoiy tushuncha; kundalik so'zlashuvda",
+    "Falsafiy tushuncha; faqat ilmiy asarlarda",
+    "Biologik tushuncha; yuridik adabiyotlarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Huquqshunoslik fanida hamda yuridik adabiyotlarda aynan qaysi tushunchadan foydalaniladi?",
+   "options": [
+    "Shaxs",
+    "Odam",
+    "Kishi",
+    "Kimsa"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi tushuncha “inson” tushunchasining yuksak ko'rinishi, oliy maqomi hisoblanadi?",
+   "options": [
+    "Odam",
+    "Shaxs",
+    "Individ",
+    "Kishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi fikrlardan qaysi biri TO'G'RI?",
+   "options": [
+    "“Kimsa” va “kishi” so'zlari yuridik adabiyotlarda asosiy tushuncha sifatida qo'llaniladi",
+    "“Odam” yoki “inson” tushunchalariga huquqiy munosabatlarning ishtirokchisi sifatida qaralmaydi",
+    "“Shaxs” tushunchasi biologik tushuncha hisoblanadi",
+    "“Odam” va “inson” shaxs maqomisiz ham huquqiy munosabatlarning to'la ishtirokchisi bo'ladi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Ongli ravishda o'z faoliyatini boshqarish imkoniyatiga ega bo'lgan, huquqiy munosabat ishtirokchisi sifatida muayyan huquq va majburiyatlarga ega inson” — ushbu ta'rif qaysi tushunchaga tegishli?",
+   "options": [
+    "Odam",
+    "Individ",
+    "Inson",
+    "Shaxs"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tushunchalarni ularning ta'riflari bilan TO'G'RI moslashtiring!\nJADVAL0:\n1 | Umumijtimoiy tushuncha bo'lib, muayyan jamiyatda insoniy fazilatlarga ega ekanlikni ifoda etadi | a | Odam\n2 | Biologik jihatdan fikrlash, so'zlash qobiliyatiga ega bo'lgan, shu tufayli jonli tabiatning boshqa hamma jonzotlardan ustun turuvchi bir qismi | b | Shaxs\n3 | Huquqiy munosabatlarning alohida ishtirokchisi bo'lib, inson tushunchasining yuksak ko'rinishidir | c | Inson",
+   "options": [
+    "1-c, 2-b, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-a, 3-b",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shaxs uchun muhim bo'lgan qadriyatlar juftligi XATO berilgan javobni aniqlang!",
+   "options": [
+    "Ishxonasi — sinfdoshlari",
+    "Mahallasi — qo'ni-qo'shnisi",
+    "Uyi — oilasi",
+    "Mamlakati — vatani"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shaxs uchun muhim qadriyatlarga erishish, ularni saqlash va e'zozlash nima bo'lib xizmat qiladi?",
+   "options": [
+    "Uning hayotining maqsadi, mazmuni",
+    "Faqat moddiy farovonlik manbai",
+    "Davlat oldidagi yagona burchi",
+    "Faqat shaxsiy ehtiyojlarini qondirish vositasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra insonning shaxs sifatida shakllanishida kimlarning ta'siri katta?",
+   "options": [
+    "Faqat do'stlar va mahallaning",
+    "Davlat organlari va sudning",
+    "Oila, maktab, qo'ni-qo'shni, mahalla va do'stlarning",
+    "Faqat oila va maktabning"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikda buyuk shaxslar sifatida tilga olinMAGAN ajdodimizni aniqlang!",
+   "options": [
+    "Mirzo Ulug'bek",
+    "Abu Nasr Forobiy",
+    "Burhoniddin Marg'inoniy",
+    "Jaloliddin Manguberdi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Har bir inson tabiatan shunday tuzilganki, u yashash va oliy darajadagi yetuklikka erishmoq uchun ko'p narsalarga muhtoj bo'ladi... ularga ega bo'lish uchun insonlar jamoasiga ehtiyoj tug'iladi” — ushbu fikr muallifi va asarini aniqlang!",
+   "options": [
+    "Alisher Navoiy, “Majolis un-nafois”",
+    "Yusuf Xos Hojib, “Qutadg'u bilig”",
+    "Burhoniddin Marg'inoniy, “Hidoya”",
+    "Abu Nasr Forobiy, “Fozil odamlar shahri”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alisher Navoiy qaysi yillarda Samarqandda bo'lgan paytida fiqh (huquq) ilmidan dars olgan?",
+   "options": [
+    "1483–1489-yillarda",
+    "1469–1475-yillarda",
+    "1464–1469-yillarda",
+    "1456–1464-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alisher Navoiy Samarqandda qaysi mashhur faqih huzurida fiqh ilmidan dars olgan?",
+   "options": [
+    "Abdurahmon Jomiy",
+    "Xoja Fazlulloh Abullays",
+    "Burhoniddin Marg'inoniy",
+    "Xoja Ahror Vali"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikdagi “faqih” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "Tarixchi",
+    "Shoir",
+    "Huquqshunos",
+    "Faylasuf"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Faqir ikki yil alarning qoshida saboq o'qub erdim, ancha iltifotlari bor erdikim, “farzand” der erdilar” — Alisher Navoiy bu haqda qaysi asarida yozgan?",
+   "options": [
+    "“Mahbub ul-qulub”",
+    "“Muhokamat ul-lug'atayn”",
+    "“Majolis un-nafois”",
+    "“Xamsa”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Burhoniddin Marg'inoniyning “Kitob al-Hidoya” asari qisqacha nomi “Hidoya” qanday ma'noni bildiradi?",
+   "options": [
+    "Hikmatlar kitobi",
+    "Adolat yo'li",
+    "Qonunlar to'plami",
+    "To'g'ri yo'l"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Kitob al-Hidoya” asari haqidagi TO'G'RI ma'lumotlarni aniqlang!\nI. Muallifi — Burhoniddin Marg'inoniy; II. Fiqh ilmi bo'yicha eng aniq, izchil, mukammal asar; III. Faqat oilaviy munosabatlarga bag'ishlangan; IV. Bugungi kunda ham islom huquqshunosligi bo'yicha nufuzli huquqiy manba sifatida foydalaniladi; V. Muallifi — Abu Nasr Forobiy.",
+   "options": [
+    "II, III va V",
+    "I, II va IV",
+    "III, IV va V",
+    "I, III va IV"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikka ko'ra jamiyat va shaxs o'zaro qanday munosabatlarga kirishishi mumkin?",
+   "options": [
+    "Ijtimoiy-iqtisodiy, ma'naviy, siyosiy va huquqiy",
+    "Faqat ijtimoiy-iqtisodiy",
+    "Faqat siyosiy va huquqiy",
+    "Harbiy, diniy va siyosiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mehnat munosabatlari va mulkiy munosabatlar shaxs va jamiyat o'rtasidagi qaysi munosabatlar turiga kiradi?",
+   "options": [
+    "Ma'naviy munosabatlar",
+    "Siyosiy munosabatlar",
+    "Huquqiy munosabatlar",
+    "Ijtimoiy-iqtisodiy munosabatlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bilim olishga oid munosabatlar hamda tarixiy meros, ilmiy va texnik yutuqlardan foydalanish munosabatlari qaysi turga kiradi?",
+   "options": [
+    "Ma'naviy munosabatlar",
+    "Siyosiy munosabatlar",
+    "Huquqiy munosabatlar",
+    "Ijtimoiy-iqtisodiy munosabatlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Davlat organlariga murojaat qilish hamda turli jamoat birlashmalari bilan bog'liq munosabatlar qaysi turga kiradi?",
+   "options": [
+    "Siyosiy munosabatlar",
+    "Ijtimoiy-iqtisodiy munosabatlar",
+    "Ma'naviy munosabatlar",
+    "Huquqiy munosabatlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikda shartnomaviy munosabatlar shaxs va jamiyat o'rtasidagi qaysi munosabatlarga misol qilib keltirilgan?",
+   "options": [
+    "Ma'naviy munosabatlar",
+    "Huquqiy munosabatlar",
+    "Ijtimoiy-iqtisodiy munosabatlar",
+    "Siyosiy munosabatlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h8-01-25.jpg"
+  },
+  {
+   "q": "Davlat tomonidan mustahkamlab qo'yilgan shaxsiy huquq va erkinliklar daxlsizdir. Ulardan mahrum etishga yoki ularni cheklab qo'yishga kim haqli emas?",
+   "options": [
+    "Hokim qarorisiz faqat mahalla raisi",
+    "Prokuror ruxsatisiz faqat militsiya xodimlari",
+    "Sud qarorisiz hech kim",
+    "Faqat xorijiy davlatlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikka ko'ra davlatning asosiy maqsadi nima?",
+   "options": [
+    "Faqat armiyani kuchaytirish",
+    "O'z hududini kengaytirish",
+    "Soliq va yig'imlarni ko'paytirish",
+    "Fuqarolarning huquq va erkinliklarini ta'minlashga xizmat qilish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Davlatning eng dastlabki vazifalari qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Tinchlikni mustahkamlash",
+    "Xususiy korxonalarni bevosita boshqarish",
+    "Shaxslarning ijtimoiy-iqtisodiy, madaniy-ma'rifiy darajasini oshirishga yordam berish",
+    "Mamlakat xavfsizligini ta'minlash"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Huquqshunoslik fanida shaxs tushunchasi necha ma'noda ifodalanadi?",
+   "options": [
+    "Ikki ma'noda: fuqaro va chet el fuqarosi",
+    "Uch ma'noda: jismoniy, yuridik va mansabdor shaxs",
+    "Bir ma'noda: faqat jismoniy shaxs",
+    "Ikki ma'noda: jismoniy va yuridik shaxs"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qonunga ko'ra jismoniy shaxslar qatoriga kirMAYDIGANlarni aniqlang!",
+   "options": [
+    "O'zbekiston Respublikasining fuqarolari",
+    "Korxona, tashkilot va muassasalar",
+    "Boshqa davlatlarning fuqarolari",
+    "Fuqaroligi bo'lmagan shaxslar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Alohida mol-mulkka ega bo'lgan hamda o'z majburiyatlari yuzasidan ushbu mol-mulk bilan javob beradigan, majburiyatlarni bajara oladigan, sudda da'vogar va javobgar bo'la oladigan tashkilot” — ushbu ta'rif qaysi tushunchaga tegishli?",
+   "options": [
+    "Mansabdor shaxs",
+    "Yuridik shaxs",
+    "Jismoniy shaxs",
+    "Davlat organi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yuridik shaxsning belgilari XATO berilgan javobni aniqlang!\nI. Alohida mol-mulkka ega bo'ladi; II. O'z majburiyatlari yuzasidan ushbu mol-mulk bilan javob beradi; III. Faqat O'zbekiston Respublikasi fuqarosi bo'la oladi; IV. Sudda da'vogar va javobgar bo'la oladi; V. Fuqaroligi bo'lmagan shaxs hisoblanadi.",
+   "options": [
+    "I va II",
+    "II va IV",
+    "III va V",
+    "I va IV"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikka ko'ra yuridik shaxslarning qanday turlari mavjud?",
+   "options": [
+    "Tijorat va notijorat tashkilotlari",
+    "Ichki va tashqi tashkilotlar",
+    "Davlat va nodavlat organlari",
+    "Mahalliy va xorijiy korxonalar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilardan tijorat tashkilotlariga misollarni belgilang!\nI. Sotuv bo'limlari; II. Maktablar; III. Quruvchi tashkilotlar; IV. Shifoxonalar; V. Ulgurji savdo do'konlari; VI. Xayriya jamg'armalari.",
+   "options": [
+    "II, IV va VI",
+    "I, II va III",
+    "I, III va V",
+    "IV, V va VI"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Foyda olishni maqsad qilib olmagan notijorat tashkilotga misolni aniqlang!",
+   "options": [
+    "Quruvchi tashkilot",
+    "Ulgurji savdo do'koni",
+    "Sotuv bo'limi",
+    "Xayriya jamg'armasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni toping.\na) xorijiy davlatlarning fuqarolari;\nb) tijorat tashkilotlari;\nc) huquqiy munosabat ishtirokchisi bo'la oladi;\nd) notijorat tashkilotlar;\ne) fuqaroligi bo'lmagan shaxslar;\nf) sudda da'vogar va javobgar bo'la oladi.",
+   "options": [
+    "I-a, b; II-d, e; III-c, f",
+    "I-a, e; II-b, d; III-c, f",
+    "I-a, e; II-c, f; III-b, d",
+    "I-c, e; II-b, d; III-a, f"
+   ],
+   "answer": 1,
+   "image": "img/h8-01-36.jpg"
+  },
+  {
+   "q": "“Ma'lum bir axloqiy sifatlarga ega bo'lmasdan, munosib inson bo'lmay turib, ijtimoiy hayotda harakat qilib bo'lmaydi” — ushbu fikr muallifi kim?",
+   "options": [
+    "Umar Hayyom",
+    "Aflotun (Platon)",
+    "Abu Nasr Forobiy",
+    "Arastu (Aristotel)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vaziyat: Alisher dars davomida ulgurji do'konlar faqat jismoniy shaxslar tomonidan yuritilishini, ular hech qanday tashkilot yoki korxona bo'la olmasligini isbotlashga harakat qildi. Darslikka ko'ra Alisherning fikriga TO'G'RI baho bering!",
+   "options": [
+    "Noto'g'ri, chunki ulgurji savdo do'konlari tijorat tashkilotlari, ya'ni yuridik shaxs bo'la oladi",
+    "Qisman to'g'ri, chunki ulgurji do'konlar davlat organi hisoblanadi",
+    "Noto'g'ri, chunki ulgurji savdo do'konlari notijorat tashkilotlarga kiradi",
+    "To'g'ri, chunki ulgurji savdo bilan faqat jismoniy shaxslar shug'ullanadi"
+   ],
+   "answer": 0
+  }
+ ]
+}

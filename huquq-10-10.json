@@ -1,0 +1,187 @@
+{
+ "title": "Huquq 10-sinf · 15-dars. Ota-ona hamda bolalarning aliment huquqi va majburiyatlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Agar bir mamlakat aholisi axloqsizlik va johillik bilan oilaviy munosabatlarni zaiflashtirib yuborsa... bu millatning saodati va hayoti shubha ostida qoladi” degan fikr muallifi kim?",
+   "options": [
+    "Mirzo Ulug'bek",
+    "Tohir Malik",
+    "Abdulla Avloniy",
+    "Abdurauf Fitrat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Aliment” so'zi qaysi tildan olingan va qanday ma'noni anglatadi?",
+   "options": [
+    "Lotincha — qaramog'idagi, boqimidagi",
+    "Yunoncha — ozuqa",
+    "Fransuzcha — ta'minot",
+    "Arabcha — nafaqa, yordam"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bir shaxsning boshqa shaxsga majburan yoki ixtiyoriy ravishda to'laydigan nafaqasi nima deb ataladi?",
+   "options": [
+    "Stipendiya",
+    "Aliment",
+    "Pensiya",
+    "Kompensatsiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Aliment majburiyati qanday asoslardan kelib chiqadi?",
+   "options": [
+    "Faqat nikohdan ajralish natijasida",
+    "Faqat sud hukmi natijasida",
+    "Faqat mehnat shartnomasi natijasida",
+    "Nikoh, qarindoshlik, ota-onalik, farzandlik, farzandlikka olish, bolalarni tarbiyaga olish natijasida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alimentlar qanday tartibda to'lanadi?",
+   "options": [
+    "Har yili",
+    "Har oyda",
+    "Bir martalik",
+    "Har chorakda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Aliment to'lash to'g'risidagi kelishuv qanday shaklda tuziladi?",
+   "options": [
+    "Sudda tuziladi",
+    "Og'zaki shaklda tuziladi",
+    "Yozma shaklda tuzilib, notariusda tasdiqlanadi",
+    "Mahalla yig'inida tuziladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sud tartibida aliment qachondan boshlab undiriladi?",
+   "options": [
+    "Sudga murojaat etilgan paytdan boshlab",
+    "Bola tug'ilgan paytdan boshlab",
+    "Sud qarori kuchga kirgandan bir oy o'tib",
+    "Nikoh ajratilgan paytdan boshlab"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Prezidentning 2022-yil 7-martdagi farmoniga ko'ra aliment bo'yicha qarzdorlik mavjud bo'lganda qanday choralar belgilangan?",
+   "options": [
+    "Qarzdor ozodlikdan mahrum etiladi",
+    "Transport vositasini boshqarish huquqi vaqtincha cheklanadi va qarzdorlik nikoh tuzishga monelik qiladi",
+    "Qarzdorning mulki musodara qilinadi",
+    "Qarzdor fuqarolikdan mahrum etiladi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Aliment to'laydigan shaxs alimentni qancha muddat ichida to'lay olmaganda qarzdorlik “Aliment to'lovlari” jamg'armasidan to'lanadi?",
+   "options": [
+    "Olti oy ichida",
+    "Bir oy ichida",
+    "Uch oy ichida",
+    "Bir yil ichida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h10-10-10.jpg"
+  },
+  {
+   "q": "Ota-onadan hech biri aliment undirish to'g'risida sudga murojaat qilmasa, qaysi organ da'vo qo'zg'ata oladi?",
+   "options": [
+    "Prokuratura",
+    "Fuqarolar yig'ini",
+    "Vasiylik va homiylik organlari",
+    "Ichki ishlar organlari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nikohdan ajralgan, yordamga muhtoj, mehnatga layoqatsiz er yoki xotinning ta'minot olish huquqi qachon tugaydi?",
+   "options": [
+    "Pensiya yoshiga yetganda",
+    "Yangi nikohga kirganda",
+    "Hech qachon tugamaydi",
+    "Ajrashgandan bir yil o'tgach"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Aliment to'lashi shart bo'lgan shaxs qanday holatda aliment oluvchilar bilan kelishuv tuzishi shart?",
+   "options": [
+    "Boshqa tumanga ko'chganida",
+    "Yangi ishga kirganida",
+    "Doimiy yashash uchun yoki uch oydan ortiq muddatga chet davlatga ketayotganida",
+    "Yangi nikohga kirganida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bolalar soniga ko'ra undiriladigan aliment miqdorini TO'G'RI moslashtiring! 1 Bir bola uchun a Yarmi (50%) 2 Ikki bola uchun b To'rtdan bir qismi (25%) 3 Uch va undan ortiq bola c Uchdan bir qismi uchun (33%)",
+   "options": [
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c",
+    "1-b, 2-c, 3-a"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Aliment undirishda bolaning ota-onasi nikohda ekani yoki nikoh tugatilgani ahamiyatga egami?",
+   "options": [
+    "Ahamiyatga ega emas",
+    "Ahamiyatga ega, faqat ajrashganlardan undiriladi",
+    "Sud ixtiyoriga ko'ra hal qilinadi",
+    "Ahamiyatga ega, faqat nikohdagilardan undiriladi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ota-onasi vafot etganligi oqibatida yetim qolgan voyaga yetmagan bolalarga ta'minot berish kim tomonidan amalga oshiriladi?",
+   "options": [
+    "Faqat qarindoshlar tomonidan",
+    "Faqat nodavlat tashkilotlar tomonidan",
+    "Fuqarolar yig'ini tomonidan",
+    "Davlat tomonidan to'liq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Voyaga yetgan, mehnatga layoqatli bolalarning yordamga muhtoj ota-onasiga moddiy ta'minot berish majburiyati Oila kodeksining qaysi moddasida belgilangan?",
+   "options": [
+    "109-moddasida",
+    "57-moddasida",
+    "13-moddasida",
+    "136-moddasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Voyaga yetgan, mehnatga layoqatli bolalardan undiriladigan aliment miqdori mehnatga haq to'lash eng kam miqdorining necha foizidan kam bo'lmasligi kerak?",
+   "options": [
+    "10 foizidan",
+    "11,75 foizidan",
+    "33 foizidan",
+    "25 foizidan"
+   ],
+   "answer": 1
+  }
+ ]
+}

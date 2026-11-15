@@ -1,0 +1,177 @@
+{
+ "title": "Huquq 11-sinf · 7-dars. Ayrim toifadagi xodimlar mehnatini tartibga solish",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Konchilarga xavfli mehnat sharoiti tufayli qo'shimcha dam olish vaqti yoki qisqartirilgan ish vaqti berilishi nimaga misol bo'ladi?",
+   "options": [
+    "Ayrim toifadagi xodimlar mehnatini alohida tartibga solishga",
+    "Mehnat shartnomasini bekor qilishga",
+    "Intizomiy javobgarlikka",
+    "Ish vaqtidan tashqari ishga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h11-06-02.jpg"
+  },
+  {
+   "q": "Mehnat kodeksining 426-moddasiga ko'ra nogironligi bo'lgan shaxslar qanday tartibda ishga qabul qilinadi?",
+   "options": [
+    "Faqat sud qarori bilan ishga qabul qilinadi",
+    "Tibbiy ko'riksiz ishga qabul qilinadi",
+    "Faqat dastlabki majburiy tibbiy ko'rikdan o'tganidan keyin, keyinchalik har yili tibbiy ko'rikdan o'tib turadi",
+    "Faqat yarim stavkaga qabul qilinadi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shvetsiyada oilada farzand dunyoga kelganda necha kunlik “ota-ona ta'tili” beriladi?",
+   "options": [
+    "180 kunlik",
+    "480 kunlik",
+    "240 kunlik",
+    "365 kunlik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mustaqil O'zbekistonning ilk Mehnat kodeksi qachon qabul qilinib, qachon kuchga kirgan?",
+   "options": [
+    "1992-yilda qabul qilinib, 1993-yilda kuchga kirgan",
+    "1998-yilda qabul qilinib, 1999-yilda kuchga kirgan",
+    "1996-yilda qabul qilinib, 1997-yilda kuchga kirgan",
+    "1995-yilda qabul qilinib, 1996-yilda kuchga kirgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amaldagi Mehnat kodeksi qachon qabul qilinib, qachon kuchga kirgan?",
+   "options": [
+    "2021-yilda qabul qilinib, 2022-yilda kuchga kirgan",
+    "2022-yilda qabul qilinib, 2023-yilda kuchga kirgan",
+    "2023-yilda qabul qilinib, 2024-yilda kuchga kirgan",
+    "2020-yilda qabul qilinib, 2021-yilda kuchga kirgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ikki yoshga to'lmagan bolaning onasiga qanday imtiyoz beriladi?",
+   "options": [
+    "Bolani ovqatlantirish uchun qo'shimcha tanaffuslar",
+    "Yillik 60 kunlik ta'til",
+    "Ikki baravar ish haqi",
+    "Haftasiga 30 soatlik ish vaqti"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Uch yoshga to'lmagan bolaning onasiga haftasiga necha soatdan oshmaydigan ish vaqti belgilanadi?",
+   "options": [
+    "Yigirma to'rt soatdan",
+    "O'ttiz besh soatdan",
+    "O'ttiz olti soatdan",
+    "Qirq soatdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'n oltidan o'n sakkiz yoshgacha bo'lgan xodimlar uchun ish vaqti haftasiga qanchadan oshmasligi kerak?",
+   "options": [
+    "Yigirma to'rt soatdan",
+    "O'ttiz olti soatdan",
+    "Qirq soatdan",
+    "O'ttiz besh soatdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'n sakkiz yoshgacha bo'lgan xodimlarga yillik mehnat ta'tili kamida necha kalendar kun beriladi?",
+   "options": [
+    "O'ttiz kalendar kun",
+    "Qirq besh kalendar kun",
+    "Yigirma bir kalendar kun",
+    "Yigirma to'rt kalendar kun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ish beruvchining tashabbusi bilan voyaga yetmagan xodimning mehnat shartnomasini bekor qilish qanday amalga oshiriladi?",
+   "options": [
+    "Ota-onasining roziligisiz",
+    "Faqat sud qarori bilan",
+    "Ish beruvchining buyrug'i bilan har doim",
+    "Mahalliy mehnat organining roziligi bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Voyaga yetmaganlarning ishlashi taqiqlangan joylar qatoriga kirMAYDIGAN javobni toping!",
+   "options": [
+    "Tamaki mahsulotlarini sotish",
+    "Spirtli ichimliklar ishlab chiqarish",
+    "Kutubxona",
+    "Tungi kafe va klublar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nogironligi bo'lgan xodimlarni xizmat safariga, tungi ishlarga va bayram kunlaridagi ishlarga jalb qilish qanday amalga oshiriladi?",
+   "options": [
+    "Ish beruvchining buyrug'i bilan",
+    "Mutlaqo taqiqlangan",
+    "Kasaba uyushmasi qarori bilan",
+    "Faqat ularning roziligi bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "I va II guruh nogironligi bo'lgan xodimlar uchun haftalik ish vaqti va yillik ta'til davomiyligi TO'G'RI ko'rsatilgan javobni toping!",
+   "options": [
+    "Haftasiga 35 soat; ta'til 45 kalendar kun",
+    "Haftasiga 30 soat; ta'til 24 kalendar kun",
+    "Haftasiga 40 soat; ta'til 21 kalendar kun",
+    "Haftasiga 36 soatdan oshmaydi; ta'til kamida 30 kalendar kun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mehnat kodeksining 414-moddasiga ko'ra o'n sakkiz yoshgacha bo'lgan shaxslar qanday tartibda tibbiy ko'rikdan o'tadi?",
+   "options": [
+    "Dastlabki majburiy tibbiy ko'rikdan so'ng 18 yoshga to'lguniga qadar har yili",
+    "Har uch yilda bir marta",
+    "Faqat ishga kirishda bir marta",
+    "Tibbiy ko'rikdan o'tish talab qilinmaydi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekistonda huquqshunoslik bo'yicha ilmiy darajaga ega bo'lgan birinchi o'zbek ayoli, Oliy sud raisi bo'lgan olima kim?",
+   "options": [
+    "Xadicha Sulaymonova",
+    "Saodat Shamsiyeva",
+    "Zulfiya Isroilova",
+    "Halima Nosirova"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xadicha Sulaymonova qachondan mamlakat Oliy sudi raisi lavozimida ishlagan?",
+   "options": [
+    "1952-yildan",
+    "1965-yildan",
+    "1964-yildan",
+    "1956-yildan"
+   ],
+   "answer": 2
+  }
+ ]
+}

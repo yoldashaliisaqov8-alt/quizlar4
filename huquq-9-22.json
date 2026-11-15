@@ -1,0 +1,157 @@
+{
+ "title": "Huquq 9-sinf · 30-dars. O'zbekiston respublikasi vazirlar mahkamasi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "O'zbekiston Respublikasi Vazirlar Mahkamasi davlat hokimiyatining qaysi tarmog'iga mansub?",
+   "options": [
+    "Ijro etuvchi hokimiyatga",
+    "Sud hokimiyatiga",
+    "Nazorat hokimiyatiga",
+    "Qonun chiqaruvchi hokimiyatga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "30-darsdagi epigraf muallifini aniqlang!",
+   "options": [
+    "Mahatma Gandi",
+    "Jan Le Ron Alamber",
+    "Frensis Bekon",
+    "Monteskye"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hukumat nomlarini davlatlar bilan TO'G'RI moslashtiring! 1 Vazirlar a Xitoy Xalq Respublikasi Kengashi 2 Vazirlar b Fransiya, Italiya, Polsha Mahkamasi 3 Davlat Kengashi c Buyuk Britaniya, O'zbekiston",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-c, 2-b, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-b, 2-c, 3-a"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vazirlar Mahkamasi tarkibiga kirMAYDIGAN shaxsni aniqlang!",
+   "options": [
+    "Qoraqalpog'iston Respublikasi Vazirlar Kengashi raisi",
+    "Senat Raisi",
+    "Bosh vazir o'rinbosarlari",
+    "Bosh vazir"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vazirlar Mahkamasining tarkibi TO'G'RI ko'rsatilgan javobni toping!",
+   "options": [
+    "Bosh vazir, vazirlar, davlat qo'mitalari raislari, Senat a'zolari",
+    "Bosh vazir, uning o'rinbosarlari, vazirlar, Qoraqalpog'iston Respublikasi Vazirlar Kengashi raisi",
+    "Prezident, Bosh vazir, vazirlar",
+    "Bosh vazir, vazirlar, viloyat hokimlari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qonunchilik palatasi Bosh vazir lavozimiga taqdim etilgan nomzodni qancha muddatda ko'rib chiqadi?",
+   "options": [
+    "10 kun ichida",
+    "30 kun ichida",
+    "7 kun ichida",
+    "Bir oy ichida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bosh vazir nomzodi qachon tasdiqlangan hisoblanadi?",
+   "options": [
+    "Qo'shma majlisda oddiy ko'pchilik ovoz bersa",
+    "Qonunchilik palatasi deputatlari umumiy sonining yarmidan ko'pi ovoz bersa",
+    "Senat a'zolarining yarmidan ko'pi ovoz bersa",
+    "Deputatlarning uchdan ikki qismi ovoz bersa"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vazirlar Mahkamasi faoliyati Konstitutsiyaning qaysi moddalarida belgilangan?",
+   "options": [
+    "93–103-moddalarda",
+    "105–113-moddalarda",
+    "114–119-moddalarda",
+    "120–126-moddalarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiyaning 115-moddasida Vazirlar Mahkamasi vakolatlari nechta bandda belgilangan?",
+   "options": [
+    "8 ta bandda",
+    "15 ta bandda",
+    "12 ta bandda",
+    "10 ta bandda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vazirlar Mahkamasi vakolatlari asosan nechta yo'nalishga bo'linadi?",
+   "options": [
+    "Beshta",
+    "Ikkita",
+    "To'rtta",
+    "Uchta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi biri Bosh vazirning vazifasi EMAS?",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h9-22-11.jpg"
+  },
+  {
+   "q": "Vazirlar Mahkamasi qanday huquqiy hujjatlar qabul qiladi?",
+   "options": [
+    "Qonunlar va qarorlar",
+    "Buyruqlar va farmonlar",
+    "Farmonlar va qonunlar",
+    "Qarorlar va farmoyishlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vazirlar Mahkamasining hujjatlari qayerda majburiy hisoblanadi?",
+   "options": [
+    "Faqat vazirliklar uchun",
+    "Faqat Toshkent shahrida",
+    "O'zbekiston Respublikasining butun hududida barcha organlar, korxonalar, muassasalar, mansabdor shaxslar va fuqarolar uchun",
+    "Faqat davlat organlari uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vazirlar Mahkamasining iqtisodiyotni boshqarish bilan bog'liq vakolati qaysi?",
+   "options": [
+    "Iqtisodiyot, ijtimoiy va ma'naviy sohaning samarali faoliyatini ta'minlash",
+    "Sudyalarni tayinlash",
+    "Qonunlarni qabul qilish",
+    "Amnistiya e'lon qilish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vazirlar Mahkamasini kim boshqaradi?",
+   "options": [
+    "Senat Raisi",
+    "Qonunchilik palatasi Spikeri",
+    "Bosh vazir",
+    "Prezident"
+   ],
+   "answer": 2
+  }
+ ]
+}

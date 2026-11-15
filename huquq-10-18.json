@@ -1,0 +1,157 @@
+{
+ "title": "Huquq 10-sinf · 25-dars. Vorislik",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Farzandlar, qarindoshlar, oshna-og'ayni, qo'shnilar... barcha odamlarni davlat-u ne'mat martabasiga erishganimda unutmadim” degan so'zlar muallifi kim?",
+   "options": [
+    "Mirzo Ulug'bek",
+    "Zahiriddin Muhammad Bobur",
+    "Amir Temur",
+    "Alisher Navoiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vafot etgan shaxsning mulkini olish nima deb ataladi?",
+   "options": [
+    "Vorislik",
+    "Xususiylashtirish",
+    "Hadya",
+    "Emansipatsiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vafot etgan shaxsdan mulk oluvchi shaxslar qanday ataladi?",
+   "options": [
+    "Vorislar",
+    "Akseptantlar",
+    "Kafillar",
+    "Kreditorlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vafot etgan shaxsning mulki qanday asoslarda o'tadi?",
+   "options": [
+    "Faqat sud qarori asosida",
+    "Vasiyatnoma va qonun asosida",
+    "Faqat notarius qarori asosida",
+    "Faqat hokim qarori asosida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Meros huquqi qonun bilan kafolatlanishi Konstitutsiyaning qaysi moddasida belgilangan?",
+   "options": [
+    "41-moddasida",
+    "76-moddasida",
+    "55-moddasida",
+    "46-moddasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Meros qanday holatda vujudga keladi?",
+   "options": [
+    "Fuqaroning o'limi yoki uning sud tomonidan vafot etgan deb e'lon qilinishi oqibatida",
+    "Fuqaro chet elga ketganda",
+    "Fuqaro nikohdan o'tganda",
+    "Fuqaro pensiyaga chiqqanda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Meros qoldiruvchining hayotlik paytida homila holida bo'lgan va meros ochilgandan keyin tirik tug'ilgan bolalari merosxo'r bo'la oladimi?",
+   "options": [
+    "Faqat vasiyat bo'yicha bo'la oladi",
+    "Faqat 18 yoshga to'lgach bo'la oladi",
+    "Yo'q, bo'la olmaydi",
+    "Ha, vasiyat va qonun bo'yicha merosxo'r bo'la oladi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qonun bo'yicha vorislar navbatini TO'G'RI moslashtiring! 1 Birinchi navbat a Tug'ishgan amaki, tog'a, amma va xola 2 Ikkinchi navbat b Mehnatga qobiliyatsiz boqimlar 3 Uchinchi c Bolalar, er (xotin) va ota-ona navbat 4 Beshinchi d Aka-ukalar, opa-singillar, bobo navbat va buvi",
+   "options": [
+    "1-c, 2-d, 3-b, 4-a",
+    "1-c, 2-a, 3-d, 4-b",
+    "1-c, 2-d, 3-a, 4-b",
+    "1-d, 2-c, 3-a, 4-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qonun bo'yicha vorislar necha navbatga bo'linadi?",
+   "options": [
+    "Uchta",
+    "To'rtta",
+    "Beshta",
+    "Oltita"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Beshinchi navbatdagi vorislar hisoblangan mehnatga qobiliyatsiz boqimlar meros qoldiruvchining vafotiga qadar kamida qancha vaqt uning qaramog'ida bo'lishi kerak?",
+   "options": [
+    "Kamida besh yil",
+    "Kamida bir yil",
+    "Kamida uch yil",
+    "Kamida olti oy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Merosdan voz kechish qanday amalga oshiriladi?",
+   "options": [
+    "Sudga da'vo berish orqali",
+    "Merosxo'r tomonidan notariusga ariza berish orqali",
+    "Hokimiyatga murojaat qilish orqali",
+    "Og'zaki bayonot orqali"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fuqaroning vafot etgan taqdirda o'ziga tegishli mol-mulkni tasarruf etish xususidagi xohish-irodasi nima?",
+   "options": [
+    "Hadya",
+    "Aliment",
+    "Meros",
+    "Vasiyat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vasiyatnomani tuzish tartibiga oid TO'G'RI fikrni aniqlang!",
+   "options": [
+    "Tuzilgandan keyin o'zgartirib bo'lmaydi",
+    "Shaxsan tuziladi, vakil orqali tuzilishi mumkin emas va istalgan paytda bekor qilinishi mumkin",
+    "Faqat sud tomonidan tuziladi",
+    "Vakil orqali tuzilishi mumkin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vasiyatnoma mavjud bo'lsa ham qaysi shaxslarning ulushi ko'rib chiqiladi?",
+   "options": [
+    "Faqat bobo va buvilari",
+    "Faqat qo'shnilari",
+    "Faqat aka-ukalari",
+    "Voyaga yetmagan yoki mehnatga qobiliyatsiz bolalari, eri (xotini) va ota-onasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Eyler-Venn diagrammasida I – vasiyat bo'yicha vorislik, II – qonun bo'yicha vorislik, III – ikkalasiga ham xos belgilarni joylashtiring! a) vorislar besh navbatga bo'linadi b) mulkni yuridik shaxslarga qoldirish mumkin c) meros qoldiruvchining erki bilan vujudga keladi d) fuqarolik huquqi bilan tartibga solinadi e) meros qoldiruvchi vafotidan keyin amalga oshadi f) merosxo'rlarga navbat tartibida taqsimlanadi",
+   "options": [
+    "I-c, e; II-a, f; III-b, d",
+    "I-a, f; II-b, c; III-d, e",
+    "I-b, c; II-a, f; III-d, e",
+    "I-b, c; II-d, e; III-a, f"
+   ],
+   "answer": 2,
+   "image": "img/h10-18-15.jpg"
+  }
+ ]
+}

@@ -1,0 +1,375 @@
+{
+ "title": "Huquqshunoslik Milliy sertifikat demo test (1–35)",
+ "time": 45,
+ "questions": [
+  {
+   "q": "O'zbekiston Respublikasi Prezidenti lavozimiga nomzodga qo'yiladigan talablar to'g'ri ko'rsatilgan bandlarni aniqlang. (Konstitutsiya, 106-modda)\n1) o'ttiz besh yoshdan kichik bo'lmagan;\n2) davlat tilini yaxshi biladigan;\n3) bevosita saylovgacha kamida 5 yil O'zbekiston hududida muqim yashayotgan;\n4) bevosita saylovgacha kamida 10 yil O'zbekiston hududida muqim yashayotgan",
+   "options": [
+    "1, 2, 4",
+    "1, 3",
+    "1, 2, 3",
+    "2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oliy Majlis palatalari haqidagi quyidagi huquqiy tasdiqlarning to'g'ri yoki noto'g'ri ekanligini belgilang. (Konstitutsiya, 92, 100-moddalar)\nI. Senat a'zolari Qoraqalpog'iston Respublikasi, viloyatlar va Toshkent shahridan teng miqdorda — to'rt kishidan saylanadi.\nII. Senatning to'qqiz nafar a'zosi Prezident tomonidan tayinlanadi.\nIII. Qonunchilik palatasi bir yuz ellik deputatdan iborat.\nIV. Ayni bir shaxs surunkasiga uch muddat Qonunchilik palatasining Spikeri bo'lishi mumkin.",
+   "options": [
+    "I – noto'g'ri; II – to'g'ri; III – noto'g'ri; IV – noto'g'ri",
+    "I – to'g'ri; II – to'g'ri; III – to'g'ri; IV – noto'g'ri",
+    "I – to'g'ri; II – noto'g'ri; III – to'g'ri; IV – to'g'ri",
+    "I – to'g'ri; II – to'g'ri; III – noto'g'ri; IV – to'g'ri"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiya boblari va ularning nomlarini to'g'ri moslashtiring. (Konstitutsiya)\n1) XIV bob;\n2) XV bob;\n3) XXIV bob;\n4) XXV bob\na) Advokatura;\nb) Prokuratura;\nc) Ommaviy axborot vositalari;\nd) Oila, bolalar va yoshlar",
+   "options": [
+    "1-a, 2-c, 3-d, 4-b",
+    "1-c, 2-d, 3-a, 4-b",
+    "1-d, 2-c, 3-b, 4-a",
+    "1-d, 2-c, 3-a, 4-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyaning aybsizlik prezumpsiyasiga oid normasini to'g'ri va to'liq davom ettiring: “…Aybdorlikka oid barcha shubhalar, agar ularni bartaraf etish imkoniyatlari tugagan bo'lsa, …”",
+   "options": [
+    "gumon qilinuvchining, ayblanuvchining, sudlanuvchining yoki mahkumning foydasiga hal qilinishi kerak",
+    "sud hay'atining ko'pchilik ovozi bilan hal qilinadi",
+    "jabrlanuvchining foydasiga hal qilinishi kerak",
+    "prokurorning xulosasiga ko'ra hal qilinadi"
+   ],
+   "answer": 0,
+   "explanation": "Manba: Konstitutsiya, 28-modda"
+  },
+  {
+   "q": "O'zbekiston Respublikasi Konstitutsiyasiga ko'ra advokatura faoliyati qaysi prinsiplarga asoslanadi?",
+   "options": [
+    "Qonun ustuvorligi, mustaqillik va boshqa demokratik prinsiplar",
+    "Qonuniylik, beg'arazlik va birdamlik",
+    "Qonuniylik, mustaqillik va o'zini o'zi boshqarish",
+    "Oshkoralik, ixtiyoriylik va tenglik"
+   ],
+   "answer": 2,
+   "explanation": "Manba: Konstitutsiya, 141-modda"
+  },
+  {
+   "q": "(a) Shaxsiy huquq va erkinliklar hamda (b) Siyosiy huquqlarga oid to'g'ri moslashtirilgan javobni aniqlang. (Konstitutsiya, VII–VIII boblar)\n1) mamlakat bo'ylab erkin harakatlanish, turar va yashash joyini tanlash;\n2) mitinglar, yig'ilishlar va namoyishlar o'tkazish;\n3) yashash huquqi;\n4) davlat xizmatiga kirishda teng huquq",
+   "options": [
+    "a – 2, 3; b – 1, 4",
+    "a – 1, 3; b – 2, 4",
+    "a – 1, 2; b – 3, 4",
+    "a – 1, 4; b – 2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekiston Respublikasi Oliy sudining raisi kim tomonidan va qancha muddatga saylanadi?",
+   "options": [
+    "Prezidentning taqdimiga binoan Senat tomonidan besh yillik muddatga",
+    "Qonunchilik palatasi tomonidan besh yillik muddatga",
+    "Sudyalar oliy kengashi tomonidan o'n yillik muddatga",
+    "Prezident tomonidan yetti yillik muddatga"
+   ],
+   "answer": 0,
+   "explanation": "Manba: Konstitutsiya, 134-modda"
+  },
+  {
+   "q": "“Voyaga yetgan mehnatga layoqatli farzandlar o'z ota- onalari haqida g'amxo'rlik qilishga majburdirlar.” Ushbu norma huquq normalarining qaysi guruhiga kiradi?",
+   "options": [
+    "Man qiluvchi norma",
+    "Tavsiya beruvchi norma",
+    "Vakolat beruvchi norma",
+    "Majburiyat yuklovchi norma"
+   ],
+   "answer": 3,
+   "explanation": "Manba: Konstitutsiya, 80-modda"
+  },
+  {
+   "q": "Ma'muriy javobgarlik to'g'risidagi kodeksga ko'ra ma'muriy qamoqqa olish chorasi quyidagi qaysi shaxslarga nisbatan qo'llanilishi MUMKIN EMAS? (MJtK, 29-modda)\n1) homilador ayollar;\n2) uch yoshgacha bolasi bo'lgan ayollar;\n3) o'n sakkiz yoshga to'lmagan shaxslar;\n4) chet el fuqarolari;\n5) birinchi va ikkinchi guruh nogironligi bo'lgan shaxslar;\n6) harbiy xizmatchilar",
+   "options": [
+    "1, 2, 3, 5",
+    "2, 3, 4",
+    "1, 3, 5, 6",
+    "1, 2, 4, 6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ma'muriy javobgarlikni (a) yengillashtiruvchi hamda (b) og'irlashtiruvchi holatlarni to'g'ri moslashtiring. (MJtK, 31–32-moddalar)\n1) aybdorning o'z qilmishidan chin ko'ngildan pushaymon bo'lishi;\n2) huquqbuzarlikning mast holda sodir etilishi;\n3) huquqbuzarlikning voyaga yetmagan shaxs tomonidan sodir etilishi;\n4) huquqbuzarlikning bir guruh shaxslar tomonidan sodir etilishi;\n5) voyaga yetmagan shaxsni huquqbuzarlikka tortish;\n6) huquqbuzarlikning kuchli ruhiy hayajon ta'siri ostida sodir etilishi",
+   "options": [
+    "a – 1, 5, 6; b – 2, 3, 4",
+    "a – 1, 3, 6; b – 2, 4, 5",
+    "a – 1, 3, 4; b – 2, 5, 6",
+    "a – 3, 5, 6; b – 1, 2, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "17 yoshli Jasur ma'muriy huquqbuzarlik sodir etdi. MJtKga ko'ra unga nisbatan qanday choralar qo'llaniladi?",
+   "options": [
+    "Ota-onasiga nisbatan jinoiy javobgarlik choralari",
+    "Bolalar masalalari bo'yicha komissiyalar to'g'risidagi nizomda nazarda tutilgan choralar",
+    "Unga hech qanday chora qo'llanilmaydi",
+    "Faqat ma'muriy qamoqqa olish"
+   ],
+   "answer": 1,
+   "explanation": "Manba: MJtK, 14-modda"
+  },
+  {
+   "q": "Ma'muriy jazo huquqbuzarlik sodir etilgan kundan boshlab (davom etayotgan huquqbuzarlik uchun — aniqlangan kundan boshlab) qancha muddatdan kechiktirmay qo'llanilishi mumkin?",
+   "options": [
+    "ikki oydan",
+    "uch yildan",
+    "olti oydan",
+    "bir yildan"
+   ],
+   "answer": 3,
+   "explanation": "Manba: MJtK, 36-modda"
+  },
+  {
+   "q": "Vaziyat: 25 yoshli Bobur 15 yoshli qo'shnisini spirtli ichimlik ichishga jalb qildi. Boburning harakati MJtKning qaysi moddasi bo'yicha va qanday jazoga sabab bo'ladi?",
+   "options": [
+    "188-modda; BHMning o'n baravaridan yigirma baravarigacha jarima",
+    "187-modda; BHMning ikki baravarigacha jarima",
+    "47-modda; BHMning bir baravaridan besh baravarigacha jarima",
+    "188-modda; o'n besh sutkagacha ma'muriy qamoq"
+   ],
+   "answer": 0,
+   "explanation": "Manba: MJtK, 188-modda"
+  },
+  {
+   "q": "MJtKning 128¹-moddasini tahlil qiling va tagiga chizilgan qism huquq normasining qaysi tarkibiy elementini ifodalashini aniqlang. (MJtK, 128¹-modda)\nTransport vositasini boshqarish vaqtida haydovchilarning telefondan foydalanishi (quloqchinlar orqali va qo'llarni ishlatmasdan so'zlashuv mustasno), — bazaviy hisoblash miqdorining uch baravari miqdorida jarima solishga sabab bo'ladi.",
+   "options": [
+    "Gipoteza",
+    "Dispozitsiya",
+    "Gipoteza va sanksiya birgalikda",
+    "Sanksiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oila kodeksiga ko'ra nikoh tuzish tartibiga oid TO'G'RI ma'lumotlarni aniqlang. (Oila kodeksi, 13-modda)\n1) nikoh fuqarolik holati dalolatnomalarini qayd etish organlarida tuziladi;\n2) diniy rasm-rusumlarga binoan tuzilgan nikoh huquqiy ahamiyatga ega;\n3) nikoh ariza berilganidan keyin bir oy o'tgach, nikohlanuvchilarning shaxsan ishtirokida tuziladi;\n4) homiladorlik holatida ham nikoh faqat bir oydan keyin tuzilishi mumkin",
+   "options": [
+    "2, 4",
+    "1, 2",
+    "1, 3",
+    "3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan qaysi biri Oila kodeksiga ko'ra nikoh tuzishga MONELIK QILMAYDI?",
+   "options": [
+    "Nikohlanuvchilar farzandlikka oluvchi va farzandlikka olingan bo'lsa",
+    "Nikohlanuvchilardan biri ro'yxatga olingan boshqa nikohda turgan bo'lsa",
+    "Nikohlanuvchilar tug'ishgan aka va singil bo'lsa",
+    "Nikohlanuvchilardan biri ellik yoshdan oshgan bo'lsa"
+   ],
+   "answer": 3,
+   "explanation": "Manba: Oila kodeksi, 16–17- moddalar"
+  },
+  {
+   "q": "Nikohdan ajratishga oid NOTO'G'RI ma'lumotni aniqlang.",
+   "options": [
+    "Nikohdan ajratish to'g'risidagi ishlar sud tomonidan FPKda da'vo ishlari uchun belgilangan tartibda ko'rib chiqiladi",
+    "Sud oilaviy (maishiy) zo'ravonlikdan jabrlangan shaxsning talabiga ko'ra ham er- xotinga yarashish muhlatini albatta tayinlaydi",
+    "Voyaga yetmagan bolalari bo'lmagan va o'zaro rozi bo'lgan er-xotin FHDYo organlarida nikohdan ajratiladi",
+    "Sud er-xotinga yarashish uchun olti oygacha muhlat tayinlashga haqli"
+   ],
+   "answer": 1,
+   "explanation": "Manba: Oila kodeksi, 40, 42-moddalar"
+  },
+  {
+   "q": "Vaziyat: Kelishuv bo'lmaganligi sababli sud ota (oylik daromadi 6 000 000 so'm)dan ikki voyaga yetmagan bolasi uchun aliment undirmoqda. Sud har oy qancha miqdorda aliment undiradi?",
+   "options": [
+    "1 500 000 so'm",
+    "1 000 000 so'm",
+    "3 000 000 so'm",
+    "2 000 000 so'm"
+   ],
+   "answer": 3,
+   "explanation": "Manba: Oila kodeksi, 99-modda"
+  },
+  {
+   "q": "Oila kodeksiga ko'ra bolaning huquqlariga oid TO'G'RI ma'lumotlarni aniqlang. (Oila kodeksi, 67, 96- moddalar)\n1) bola huquqlari buzilganda o'n to'rt yoshga to'lgandan keyin mustaqil ravishda sudga murojaat qilishga haqli;\n2) bola vasiylik organiga faqat o'n olti yoshdan murojaat qila oladi;\n3) ota-ona va bola alohida yashaganda o'n to'rt yoshga to'lgan bola bir vaqtda ota va onadan aliment undirish da'vosini qo'zg'atishga haqli;\n4) bola hayotiga xavfdan xabardor shaxslar faqat ichki ishlar organiga xabar beradi",
+   "options": [
+    "2, 4",
+    "3, 4",
+    "1, 3",
+    "1, 2"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jinoyat-protsessual kodeksiga ko'ra shaxsni ushlab turish muddati va uni uzaytirish tartibini aniqlang.",
+   "options": [
+    "Ko'pi bilan 24 soat; uzaytirilmaydi",
+    "Ko'pi bilan 48 soat; sud qarori bilan qo'shimcha 48 soatga uzaytirilishi mumkin",
+    "Ko'pi bilan 48 soat; tergovchi qarori bilan 72 soatga uzaytirilishi mumkin",
+    "Ko'pi bilan 72 soat; prokuror qarori bilan 24 soatga uzaytirilishi mumkin"
+   ],
+   "answer": 1,
+   "explanation": "Manba: JPK, 226-modda"
+  },
+  {
+   "q": "JPKga ko'ra himoyachi ishtirok etishi SHART bo'lgan ishlarni aniqlang. (JPK, 51-modda)\n1) voyaga yetmaganlarning ishi;\n2) sudlov ishi olib borilayotgan tilni bilmaydigan shaxslarning ishi;\n3) umrbod ozodlikdan mahrum qilish jazosi tayinlanishi mumkin bo'lgan jinoyatlar bo'yicha ish;\n4) ayblanuvchi ayol bo'lgan ish;\n5) shaxs birinchi marta jinoyat sodir etgan ish",
+   "options": [
+    "2, 3, 5",
+    "1, 2, 3",
+    "3, 4, 5",
+    "1, 4, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Voyaga yetmagan gumon qilinuvchi va ayblanuvchini so'roq qilishga oid NOTO'G'RI ma'lumotni aniqlang.",
+   "options": [
+    "Pedagog va (yoki) psixolog ishtirokini ta'minlash ishni yuritayotgan organ zimmasiga yuklatiladi",
+    "So'roq himoyachi va qonuniy vakil ishtirokida amalga oshiriladi",
+    "Pedagog va (yoki) psixologning ishtiroki barcha hollarda majburiydir",
+    "So'roqning umumiy davomiyligi kun davomida (bir soatlik tanaffussiz) olti soatdan oshmasligi kerak"
+   ],
+   "answer": 2,
+   "explanation": "Manba: JPK, 553–554-moddalar"
+  },
+  {
+   "q": "Fuqarolik protsessual kodeksiga ko'ra ishlarni ko'rish muddatlarini to'g'ri moslashtiring. (FPK, 207-modda)\n1) ishlar (umumiy qoida);\n2) o'ta murakkab ishlar (sudyaning asoslantirilgan ajrimi bilan);\n3) aliment undirish va mehnatga oid ishlar\na) sud muhokamasiga tayyorlab bo'lingan kundan e'tiboran yigirma kundan kechiktirmay;\nb) bir oydan kechiktirmay;\nc) ikki oygacha uzaytirilishi mumkin",
+   "options": [
+    "1-b, 2-c, 3-a",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqaroni bedarak yo'qolgan deb topish ishlariga oid TO'G'RI ma'lumotlarni aniqlang. (FPK, 305, 307-moddalar)\n1) ariza bedarak yo'qolgan fuqaroning oxirgi ma'lum bo'lgan yashash joyidagi sudga beriladi;\n2) ariza faqat ichki ishlar organiga beriladi;\n3) ish prokuror ishtirokisiz ko'riladi;\n4) ishlar albatta prokurorning ishtirokida ko'riladi",
+   "options": [
+    "1, 4",
+    "1, 3",
+    "2, 3",
+    "2, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vaziyat: Dilnoza 4 yil tergovchi lavozimida ishlagan va oliy yuridik ma'lumotga ega. U advokat bo'lish uchun stajirovkadan o'tmasdan malaka imtihonida ishtirok eta oladimi?",
+   "options": [
+    "Ha, lekin faqat Adliya vazirligining ruxsati bilan",
+    "Yo'q, barcha talabgorlar kamida uch oy stajirovka o'tashi shart",
+    "Yo'q, buning uchun kamida besh yillik staj kerak",
+    "Ha, chunki kamida uch yil tergovchi lavozimida ish staji bor"
+   ],
+   "answer": 3,
+   "explanation": "Manba: Advokatura to'g'risidagi qonun, 3¹-modda"
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlarni tahlil qilib, Eyler- Venn diagrammasiga mos keladigan to'g'ri javobni aniqlang (I — faqat advokatga, II — faqat advokat yordamchisiga, III — ikkalasiga tegishli). (Advokatura to'g'risidagi qonun, 3, 8, 10-moddalar)\na) yuridik ma'lumotga ega bo'lishi yetarli;\nb) oliy yuridik ma'lumot va litsenziyaga ega bo'lishi shart;\nc) muomalaga layoqatsiz yoki muomala layoqati cheklangan bo'lmasligi kerak;\nd) sudlarda ishlarni olib borishiga yo'l qo'yilmaydi;\ne) himoyachilik vazifasida ma'lum bo'lgan tafsilotlar yuzasidan guvoh sifatida so'roq qilinmaydi;\nf) O'zbekiston Respublikasi fuqarosi bo'lishi kerak",
+   "options": [
+    "I – b, e; II – a, c; III – d, f",
+    "I – b, d; II – a, e; III – c, f",
+    "I – a, e; II – b, d; III – c, f",
+    "I – b, e; II – a, d; III – c, f"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nuqtalar o'rniga “uch” soni TO'G'RI KELMAYDIGAN javobni aniqlang.",
+   "options": [
+    "Kamida … yillik ish stajiga ega bo'lgan advokat stajyorga ega bo'lishga haqli",
+    "Advokat … yilda kamida bir marta kasbiy malakasini oshirishi shart",
+    "Advokatlar palatasining raisi … yil muddatga saylanadi",
+    "O'qishga kirganda advokat maqomi o'qish davriga, biroq ko'pi bilan … yilga to'xtatib turiladi"
+   ],
+   "answer": 2,
+   "explanation": "Manba: Advokatura to'g'risidagi qonun, 7, 8¹, 12³, 13¹-moddalar"
+  },
+  {
+   "q": "(a) Mutlaq monarxiya hamda (b) Cheklangan (konstitutsiyaviy) monarxiyaga oid to'g'ri moslashtirilgan javobni aniqlang. (8-sinf darsligi, “Davlat shakllari”)\n1) Qatar;\n2) Daniya;\n3) O'mon;\n4) Norvegiya",
+   "options": [
+    "a – 1, 3; b – 2, 4",
+    "a – 1, 2; b – 3, 4",
+    "a – 1, 4; b – 2, 3",
+    "a – 2, 4; b – 1, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquqiy atamalar va ularning ta'riflari o'rtasidagi to'g'ri moslikni aniqlang. (Yuridik atamalar)\nAtamalar: 1. Amnistiya 2. Apatrid 3. Immunitet 4. Kvorum 5. Naturallashtirish\nTa'riflar: a) fuqaroligi bo'lmagan shaxs;\nb) jazodan ozod etish yoki uni yumshatish;\nc) xorijiy shaxsni fuqarolikka qabul qilish;\nd) deputat, sudyaning daxlsizligi;\ne) qaror haqiqiy bo'lishi uchun eng kam ishtirokchilar soni;\nf) huquqlarni cheklash, kamsitish;\ng) hujjatning kirish qismi",
+   "options": [
+    "1-b, 2-a, 3-d, 4-e, 5-c",
+    "1-g, 2-a, 3-d, 4-c, 5-e",
+    "1-b, 2-a, 3-e, 4-d, 5-c",
+    "1-b, 2-f, 3-d, 4-e, 5-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nodira kitob do'konidan “O'tkan kunlar” romanini sotib oldi. Ushbu oldi-sotdi huquqiy munosabatida kitob qaysi elementni ifodalaydi?",
+   "options": [
+    "Yuridik majburiyat",
+    "Huquqiy munosabat subyekti",
+    "Huquqiy munosabat obyekti",
+    "Subyektiv huquq"
+   ],
+   "answer": 2,
+   "explanation": "Manba: Huquq nazariyasi"
+  },
+  {
+   "q": "BMT Bosh Assambleyasi Inson huquqlari umumjahon deklaratsiyasini qachon qabul qilgan?",
+   "options": [
+    "1950-yil 4-noyabr",
+    "1966-yil 16-dekabr",
+    "1948-yil 10-dekabr",
+    "1945-yil 24-oktabr"
+   ],
+   "answer": 2,
+   "explanation": "Manba: Xalqaro huquq"
+  },
+  {
+   "q": "Huquqbuzarlik turlari va misollarni to'g'ri moslashtiring. (Huquq nazariyasi)\n1) intizomiy;\n2) ma'muriy;\n3) fuqaroviy;\n4) jinoiy\na) begona mulkni yashirin talon-taroj qilish;\nb) ishga uzrsiz sababsiz kech qolish;\nc) jamoat transportida chiptasiz yurish;\nd) qarzni o'z vaqtida qaytarmaslik",
+   "options": [
+    "1-a, 2-c, 3-d, 4-b",
+    "1-c, 2-b, 3-d, 4-a",
+    "1-b, 2-d, 3-c, 4-a",
+    "1-b, 2-c, 3-d, 4-a"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Normativ-huquqiy hujjatlar to'g'risida”gi qonunga ko'ra normativ-huquqiy hujjatlarning to'g'ri ketma- ketligini aniqlang.",
+   "options": [
+    "Qonunlar → Konstitutsiya → Prezident farmonlari → Oliy Majlis palatalarining qarorlari → vazirliklar buyruqlari",
+    "Konstitutsiya → Prezident farmonlari → qonunlar → Vazirlar Mahkamasi qarorlari → Oliy Majlis palatalarining qarorlari",
+    "Konstitutsiya → qonunlar → Oliy Majlis palatalarining qarorlari → Prezident farmonlari va qarorlari → Vazirlar Mahkamasi qarorlari",
+    "Konstitutsiya → qonunlar → Vazirlar Mahkamasi qarorlari → Prezident farmonlari → Oliy Majlis palatalarining qarorlari"
+   ],
+   "answer": 2,
+   "explanation": "Manba: “Normativ-huquqiy hujjatlar to'g'risida”gi qonun, 6-modda"
+  },
+  {
+   "q": "Ma'muriy javobgarlik to'g'risidagi kodeksga ko'ra jarima nima?",
+   "options": [
+    "Jabrlanuvchi foydasiga pul undirish",
+    "Mahalla fondi foydasiga ixtiyoriy to'lov",
+    "Ma'muriy huquqbuzarlik sodir etishda aybdor shaxsdan davlat hisobiga pul undirish",
+    "Huquqbuzarlik qurolini haqini to'lash sharti bilan olib qo'yish"
+   ],
+   "answer": 2,
+   "explanation": "Manba: MJtK, 25-modda"
+  },
+  {
+   "q": "Oila kodeksiga ko'ra qaysi holatda nikohlanuvchi shaxslar tibbiy ko'rikdan o'z roziligi bilan o'tkaziladi?",
+   "options": [
+    "Nikohlanuvchilardan biri chet el fuqarosi bo'lsa",
+    "Nikohlanuvchilar ellik yoshdan oshgan bo'lsa",
+    "Nikohlanuvchilar o'ttiz yoshdan oshgan bo'lsa",
+    "Nikoh ikkinchi marta tuzilayotgan bo'lsa"
+   ],
+   "answer": 1,
+   "explanation": "Manba: Oila kodeksi, 17-modda"
+  }
+ ]
+}

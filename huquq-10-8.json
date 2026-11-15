@@ -1,0 +1,178 @@
+{
+ "title": "Huquq 10-sinf · 13-dars. Oilada er-xotin va ota-onaning huquqiy maqomi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Oilada ota-onalar o'z farzandlarining haqiqiy inson bo'lib kamol topishiga alohida e'tibor berishlari lozim” degan fikr muallifi kim?",
+   "options": [
+    "Alisher Navoiy",
+    "Abdurauf Fitrat",
+    "Abdulla Avloniy",
+    "Mirzo Ulug'bek"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Har bir oilaning saodati va izzati shu xalqning ichki intizomi va totuvligiga bog'liq” degan fikr muallifi kim?",
+   "options": [
+    "Abdulla Avloniy",
+    "Abdurauf Fitrat",
+    "Mahmudxo'ja Behbudiy",
+    "Mirzo Ulug'bek"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Er-xotinning huquqiy maqomi qachondan vujudga keladi?",
+   "options": [
+    "Ariza berilgan kundan",
+    "Nikoh FHDY organlarida ro'yxatga olingan paytdan",
+    "To'y o'tkazilgan kundan",
+    "Birinchi farzand tug'ilgan kundan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Er-xotinning huquq va majburiyatlari nechta guruhga bo'linadi?",
+   "options": [
+    "Uchta: shaxsiy, mulkiy va siyosiy",
+    "To'rtta: shaxsiy, mulkiy, ijtimoiy va madaniy",
+    "Ikkita: axloqiy va huquqiy",
+    "Ikkita: shaxsiy hamda mulkiy huquq va majburiyatlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Er-xotinning shaxsiy huquq va majburiyatlariga xos xususiyatni aniqlang!",
+   "options": [
+    "Mulk bilan bog'liq bo'lmaydi va boshqa shaxsga o'tkazilishi mumkin emas",
+    "Faqat nikoh shartnomasi bilan belgilanadi",
+    "Boshqa shaxsga o'tkazilishi mumkin",
+    "Mulk bilan bog'liq bo'ladi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Er-xotinning familiya tanlash huquqi TO'G'RI ko'rsatilgan javobni toping!",
+   "options": [
+    "Eri yoki xotinining familiyasini umumiy familiya qilib tanlashi yoki nikohgacha bo'lgan o'z familiyasida qolishi mumkin",
+    "Xotin albatta erining familiyasini olishi shart",
+    "Familiyani faqat FHDY organi belgilaydi",
+    "Er albatta xotinining familiyasini olishi shart"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "image": "img/h10-08-07.jpg"
+  },
+  {
+   "q": "Er-xotinning majburiyatlari qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Mashg'ulotlar turini erkin tanlash",
+    "Farzandlarini voyaga yetgunga qadar boqish",
+    "Voyaga yetmagan farzandlari yetkazgan zararni qoplash",
+    "Oiladagi munosabatlarni o'zaro yordam asosida qurish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eyler-Venn diagrammasida I – er- xotinning shaxsiy mulki, II – er-xotinning umumiy mulki, III – ikkalasiga ham xos belgilarni joylashtiring! a) nikoh shartnomasi bilan tartibi belgilanishi mumkin b) Oila kodeksi bilan tartibga solinadi c) nikoh davomida hadya yoki meros tariqasida olingan mol-mulk d) bo'lajak er-xotinning umumiy mablag'lari hisobiga olingan mol-mulk e) nikohgacha o'ziga tegishli bo'lgan mol-mulk f) nikoh davomida orttirilgan mol-mulk",
+   "options": [
+    "I-c, e; II-a, b; III-d, f",
+    "I-c, e; II-d, f; III-a, b",
+    "I-d, f; II-c, e; III-a, b",
+    "I-a, e; II-d, f; III-b, c"
+   ],
+   "answer": 1,
+   "image": "img/h10-08-09.jpg"
+  },
+  {
+   "q": "Uy-ro'zg'or ishlari va bolalarni parvarish qilish bilan band bo'lib, mustaqil daromadga ega bo'lmagan xotin erining daromadiga nisbatan qanday huquqqa ega?",
+   "options": [
+    "Teng huquqqa ega",
+    "Hech qanday huquqqa ega emas",
+    "Faqat uchdan bir qismiga huquqqa ega",
+    "Faqat sud qarori bilan huquqqa ega"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nikohlanuvchi shaxslarning, shuningdek, er va xotinning mulkiy huquq hamda majburiyatlarini belgilovchi kelishuv qanday ataladi?",
+   "options": [
+    "Nikoh guvohnomasi",
+    "Aliment to'g'risidagi kelishuv",
+    "Nikoh shartnomasi",
+    "Hadya shartnomasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nikoh shartnomasi qanday shaklda tuziladi?",
+   "options": [
+    "Og'zaki shaklda tuziladi",
+    "Yozma shaklda tuziladi, tasdiqlash shart emas",
+    "Yozma shaklda tuzilib, notarial tartibda tasdiqlanadi",
+    "Sud tomonidan tasdiqlanadi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nikoh shartnomasi qachon tuzilishi mumkin?",
+   "options": [
+    "Nikoh rasmiylashtirilguncha yoki nikoh davrida",
+    "Faqat nikoh davrida",
+    "Faqat nikohdan ajralish vaqtida",
+    "Faqat nikoh rasmiylashtirilguncha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qanday holatda nikoh shartnomasi haqiqiy emas deb topilishi mumkin?",
+   "options": [
+    "Bo'lg'usi mol-mulkka nisbatan tuzilganda",
+    "Er va xotindan birini o'ta noqulay holatga solib qo'yganda",
+    "Muayyan muddat bilan cheklanganda",
+    "Nikoh davrida tuzilganda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Tarbiya biz uchun yo hayot – yo mamot, yo najot – yo halokat, yo saodat – yo falokat masalasidir” degan fikr muallifi kim?",
+   "options": [
+    "Abdulla Qodiriy",
+    "Mirzo Ulug'bek",
+    "Abdulla Avloniy",
+    "Abdurauf Fitrat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ota-ona farzand tarbiyasida boshqa shaxslarga nisbatan qanday huquqqa ega?",
+   "options": [
+    "Cheklangan huquqqa",
+    "Hech qanday huquqqa ega emas",
+    "Teng huquqqa",
+    "Ustun huquqqa"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ota-ona o'z bolalarining sudda va boshqa shaxslar bilan munosabatlarda kimi hisoblanadi?",
+   "options": [
+    "Homiylari",
+    "Advokatlari",
+    "Qonuniy vakillari",
+    "Vasiylari"
+   ],
+   "answer": 2
+  }
+ ]
+}

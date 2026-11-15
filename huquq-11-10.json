@@ -1,0 +1,107 @@
+{
+ "title": "Huquq 11-sinf · 12-dars. Ma'muriy-huquqiy nizolar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Shaxslar bilan davlat organlari o'rtasida davlat xizmatlari yoki ma'muriy choralar bo'yicha kelib chiqqan kelishmovchilik nima deb ataladi?",
+   "options": [
+    "Fuqarolik nizosi",
+    "Ma'muriy-huquqiy nizo",
+    "Xalqaro nizo",
+    "Mehnat nizosi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ma'muriy-huquqiy nizoning ishtirokchilari TO'G'RI ko'rsatilgan javobni toping!",
+   "options": [
+    "Ikki xususiy korxona",
+    "Davlat organi yoki mansabdor shaxslar hamda jismoniy va yuridik shaxslar",
+    "Ish beruvchi va xodim",
+    "Faqat ikki jismoniy shaxs"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fuqaro davlat organining qaroridan norozi bo'lsa, shikoyat qilishning TO'G'RI ketma- ketligini aniqlang!",
+   "options": [
+    "Yuqori turuvchi tashkilotga → tashkilotning o'ziga → Konstitutsiyaviy sudga",
+    "Ma'muriy sudga → yuqori turuvchi tashkilotga → tashkilotning o'ziga",
+    "Murojaat qilgan tashkilotning o'ziga → yuqori turuvchi tashkilotga → ma'muriy sudga",
+    "Prokuraturaga → Oliy sudga → Prezidentga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ariza yoki shikoyat, qo'shimcha o'rganish talab etilmasa, kelib tushgan kundan e'tiboran qancha muddatda ko'rib chiqiladi?",
+   "options": [
+    "Uch kun ichida",
+    "Ikki oy ichida",
+    "O'n besh kun ichida",
+    "Bir oy ichida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qo'shimcha o'rganish yoki tekshirish talab etilganda ariza qancha muddatda ko'rib chiqiladi?",
+   "options": [
+    "O'n besh kungacha",
+    "Olti oygacha",
+    "Uch oygacha",
+    "Bir oygacha bo'lgan muddatda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ma'muriy-huquqiy nizolarni sud tartibida hal etishni tartibga soluvchi asosiy huquq manbasi qaysi?",
+   "options": [
+    "Fuqarolik protsessual kodeksi",
+    "Ma'muriy javobgarlik to'g'risidagi kodeks",
+    "Jinoyat-protsessual kodeksi",
+    "Ma'muriy sud ishlarini yuritish to'g'risidagi kodeks"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h11-10-07.jpg"
+  },
+  {
+   "q": "Qachondan boshlab ichki ishlar organlari faoliyatiga “E-patrul” tizimi bosqichma-bosqich joriy etildi?",
+   "options": [
+    "2021-yil 1-yanvardan",
+    "2023-yil 1-yanvardan",
+    "2017-yil 1-yanvardan",
+    "2024-yil 1-sentyabrdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“E-patrul” tizimi joriy etilishi natijasida qaysi amaliyotdan voz kechildi?",
+   "options": [
+    "Fuqaroning shaxsini aniqlash uchun ichki ishlar bo'limiga olib borish amaliyotidan",
+    "Patrul xizmatidan",
+    "Jarima solish amaliyotidan",
+    "Haydovchilik guvohnomasini tekshirishdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Hech kim sudning qarorisiz va qonunga zid tarzda uy-joyidan mahrum etilishi mumkin emas” degan norma qaysi hujjatda keltirilgan?",
+   "options": [
+    "O'zbekiston Respublikasi Konstitutsiyasida",
+    "Mehnat kodeksida",
+    "Oila kodeksida",
+    "Ma'muriy javobgarlik to'g'risidagi kodeksda"
+   ],
+   "answer": 0
+  }
+ ]
+}

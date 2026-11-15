@@ -1,0 +1,189 @@
+{
+ "title": "Huquq 8-sinf · 6-dars. Davlat funksiyasi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Davlat ishlarining to'qqiz ulushi kengash, tadbir va mashvarat, qolgan bir ulushi esa qilich bilan bajo keltirilur” — ushbu so'zlar muallifi kim?",
+   "options": [
+    "Nizomulmulk",
+    "Konfutsiy",
+    "Amir Temur",
+    "Mahmud az-Zamaxshariy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikka ko'ra davlat qanday omillar asosida hokimiyatning mamlakatdagi tartibotini ta'minlaydigan bir butun tashkilot hisoblanadi?",
+   "options": [
+    "Iqtisodiy va ma'naviy omillar asosida",
+    "Geografik va demografik omillar asosida",
+    "Harbiy va diniy omillar asosida",
+    "Faqat siyosiy omillar asosida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Har qanday davlatning mohiyati, eng avvalo, nimada namoyon bo'ladi?",
+   "options": [
+    "Uning aholisi sonida",
+    "Uning ramzlarida",
+    "Uning hududining kattaligida",
+    "Uning faoliyatida, funksiyalarida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Davlat funksiyalari deganda nima tushuniladi?",
+   "options": [
+    "Davlat faoliyatining asosiy (bosh) yo'nalishlari",
+    "Davlat organlarining tuzilishi",
+    "Davlatning hududiy bo'linishi",
+    "Davlat ramzlari majmuyi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Davlatning mavjudligi, zarurligi nimada o'z aksini topadi?",
+   "options": [
+    "Uning tuzilish shaklida",
+    "Uning funksiyalarida",
+    "Uning boshqaruv shaklida",
+    "Uning siyosiy tartibotida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davlat funksiyalari qaysi mezonga ko'ra tashqi va ichki funksiyalarga ajratiladi?",
+   "options": [
+    "Davlat organlarining soniga ko'ra",
+    "Qonun bilan tasdiqlanish tartibiga ko'ra",
+    "Moliyalashtirish manbaiga ko'ra",
+    "Mamlakat ichida yoki tashqarisida amalga oshirilishidan kelib chiqib"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Davlatning jamiyat hayoti ustidan rahbarligini amalga oshirishga qaratilgan faoliyatining asosiy yo'nalishlari qanday funksiyalar deyiladi?",
+   "options": [
+    "Ichki funksiyalar",
+    "Diplomatik funksiyalar",
+    "Xalqaro funksiyalar",
+    "Tashqi funksiyalar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xalqaro munosabatlarning subyekti sifatida ishtirok etayotgan davlatlarning tashqi faoliyatdagi vazifalarini hal qilishi bilan bog'liq funksiyalar qanday nomlanadi?",
+   "options": [
+    "Ichki funksiyalar",
+    "Tashqi funksiyalar",
+    "Ijtimoiy funksiyalar",
+    "Iqtisodiy funksiyalar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikka ko'ra davlatning ichki funksiyalari TO'G'RI berilgan javobni aniqlang!\nI. Sifatli ta'lim bilan ta'minlash; II. Diplomatik munosabatlar; III. Sog'liqni saqlash; IV. Xalqaro savdo; V. Huquqiy tartibotni ta'minlash; VI. Mudofaa; VII. Ekologiyani asrash.",
+   "options": [
+    "I, III, V va VII",
+    "III, IV, V va VI",
+    "I, II, III va IV",
+    "II, IV va VI"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra davlatning tashqi funksiyalari TO'G'RI berilgan javobni aniqlang!\nI. Diplomatik munosabatlar; II. Tinchlikni ta'minlash; III. Xalqaro savdo; IV. Ekologiyani asrash; V. Mudofaa; VI. Madaniy aloqalar.",
+   "options": [
+    "II, III, IV va V",
+    "I, II, IV va VI",
+    "II, IV, V va VI",
+    "I, III, V va VI"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "image": "img/h8-04-11.jpg"
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h8-04-12.jpg"
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni toping.\na) davlat mohiyatini ifoda etadi.\nb) xalqaro savdo;\nc) diplomatik munosabatlar;\nd) davlat faoliyatining asosiy yo'nalishi;\ne) huquqiy tartibotni ta'minlash;\nf) sifatli ta'lim bilan ta'minlash;",
+   "options": [
+    "I-e, f; II-a, d; III-b, c",
+    "I-d, f; II-b, c; III-a, e",
+    "I-e, f; II-b, c; III-a, d",
+    "I-b, c; II-e, f; III-a, d"
+   ],
+   "answer": 2,
+   "image": "img/h8-04-13.jpg"
+  },
+  {
+   "q": "“O'zbekiston Respublikasi o'z hududida ham, uning tashqarisida ham o'z fuqarolarini himoya qilish va ularga homiylik ko'rsatishni kafolatlaydi” — bu qoidada davlatning qaysi funksiyalari aks etgan?",
+   "options": [
+    "Faqat iqtisodiy funksiyasi",
+    "Faqat ichki funksiyasi",
+    "Faqat tashqi funksiyasi",
+    "Ham ichki, ham tashqi funksiyalari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Davlat uy-joy qurilishini rag'batlantiradi va uy-joyga bo'lgan huquqning amalga oshirilishi uchun shart-sharoitlar yaratadi” — bu qoidada davlatning qanday funksiyasi aks etgan?",
+   "options": [
+    "Mudofaa funksiyasi",
+    "Diplomatik funksiyasi",
+    "Ichki (ijtimoiy) funksiyasi",
+    "Tashqi funksiyasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlatning fuqarolar ekologik huquqlarini ta'minlash va atrof-muhitga zararli ta'sir ko'rsatilishiga yo'l qo'ymaslik maqsadida shaharsozlik sohasida jamoatchilik nazorati uchun shart-sharoit yaratishi qaysi funksiyaga misol bo'ladi?",
+   "options": [
+    "Madaniy aloqalar (tashqi funksiya)",
+    "Ekologiyani asrash (ichki funksiya)",
+    "Mudofaa (tashqi funksiya)",
+    "Xalqaro savdo (tashqi funksiya)"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“O'zbekiston xalqi nomidan faqat u saylagan ... ish olib borishi mumkin” — Konstitutsiyadagi ushbu qoidada kimlar ko'rsatilgan?",
+   "options": [
+    "Konstitutsiyaviy sud va Bosh prokuror",
+    "O'zbekiston Respublikasi Oliy Majlisi va Prezidenti",
+    "Vazirlar Mahkamasi va Oliy sud",
+    "Senat va Bosh vazir"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra davlat o'z faoliyatini inson farovonligini va jamiyatning barqaror rivojlanishini ta'minlash maqsadida qaysi prinsiplar asosida amalga oshiradi?",
+   "options": [
+    "Qonuniylik, ijtimoiy adolat va birdamlik",
+    "Majburlash, markazlashuv va intizom",
+    "Ochiqlik, tenglik va xususiylik",
+    "Bo'linish, raqobat va erkinlik"
+   ],
+   "answer": 0
+  }
+ ]
+}

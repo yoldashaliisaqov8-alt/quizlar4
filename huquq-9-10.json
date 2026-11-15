@@ -1,0 +1,116 @@
+{
+ "title": "Huquq 9-sinf · 13-dars. Chet elda yashovchi vatandoshlar bilan munosabatlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Raiyat ahvolidan ogoh bo'ldim, ulug'larni og'a qatorida, kichiklarni farzand o'rnida ko'rdim” — ushbu so'zlar kimga tegishli?",
+   "options": [
+    "Mirzo Ulug'bek",
+    "Amir Temur",
+    "Alisher Navoiy",
+    "Zahiriddin Bobur"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorijdagi konsullik faoliyati nimaga qaratilgan?",
+   "options": [
+    "Faqat chet elliklarni fuqarolikka qabul qilishga",
+    "Boshqa davlatlar bilan yaxshi qo'shnichilik va do'stona munosabatlarni rivojlantirish, iqtisodiy, savdo, madaniy aloqalarni kengaytirishga",
+    "Faqat harbiy hamkorlikka",
+    "Faqat viza berishga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vatandoshlar bilan hamkorlik konsepsiyasiga ko'ra chet elda yashovchi vatandoshlar qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "O'zini o'zbek yoki qoraqalpoq sifatida identifikatsiya qilgan xorijdagi chet el fuqarolari",
+    "Vaqtincha chet elda ta'lim olayotgan O'zbekiston fuqarolari",
+    "O'zbekistonga turist sifatida kelgan, u bilan hech qanday aloqasi bo'lmagan chet el fuqarolari",
+    "Chet el fuqaroligini olgan, Vataniga ma'naviy mansublikni his qilgan shaxslar va ularning avlodlari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“O'zbekiston xalqini millatidan qat'i nazar, O'zbekiston Respublikasining fuqarolari tashkil etadi” — Konstitutsiyaning nechanchi moddasi?",
+   "options": [
+    "7-moddasi",
+    "24-moddasi",
+    "8-moddasi",
+    "22-moddasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“O'zbekiston fuqarosining xorijda yashashi O'zbekiston fuqaroligining tugatilishiga sabab bo'lmaydi” — qaysi qonunning nechanchi moddasi?",
+   "options": [
+    "Konstitutsiya, 9-modda",
+    "Konstitutsiya, 22-modda",
+    "“Fuqaroligi to'g'risida”gi qonun, 54-modda",
+    "“O'zbekiston Respublikasi fuqaroligi to'g'risida”gi qonun, 9-modda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konsullik mansabdor shaxsi arizalarni qanday shaklda qabul qiladi?",
+   "options": [
+    "Faqat notarial tasdiqlangan holda",
+    "Faqat yozma shaklda",
+    "Faqat elektron shaklda",
+    "Og'zaki, yozma yoki elektron shaklda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chet elda bo'lgan vatandoshlarimiz bilishi va rioya qilishi kerak bo'lgan narsalar qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Qabul qiluvchi davlat armiyasining tuzilishini",
+    "Migratsiya qonunchiligini",
+    "Qabul qiluvchi davlatning milliy xususiyatlari va an'analarini",
+    "Konsullik muassasalari telefon raqamlarini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vatandoshlar bilan hamkorlik sohasidagi davlat siyosatining asosiy maqsadlari qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Vatandoshlarning huquq va erkinliklarini amalga oshirishga yordam ko'rsatish",
+    "Vatandoshlarni majburan O'zbekistonga qaytarish",
+    "O'zbek tili, madaniyati va an'analarini xorijda saqlashni qo'llab-quvvatlash",
+    "Vatandoshlarning O'zbekistonda tadbirkorlik va ilmiy faoliyati uchun qulay sharoit yaratish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikda keltirilgan migratsiya sabablari qatorida berilMAGAN javobni aniqlang!",
+   "options": [
+    "Majburiy harbiy xizmatdan qochish",
+    "Ta'lim va tibbiyot",
+    "Iqtisodiy sabablar",
+    "Ajdodlar yurtiga qaytish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chet elda tarjimonsiz tuzilgan, tushunmagan tilingizdagi bayonnomani imzolashga majbur qilinsangiz, darslikka ko'ra qanday yo'l tutish mumkin?",
+   "options": [
+    "Imzolashdan voz kechish yoki “Matn menga tarjima qilib berilmadi...” degan eslatma qoldirish",
+    "Hujjatni yirtib tashlash",
+    "Huquqni muhofaza qiluvchi xodimga qarshilik ko'rsatish",
+    "Albatta imzolash"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chet elda huquqi buzilgan fuqaro qayerlarga murojaat qilishi mumkin?",
+   "options": [
+    "Faqat O'zbekiston Oliy sudiga",
+    "Faqat BMTga",
+    "Qabul qiluvchi davlatning huquqni muhofaza qilish organlari, prokuratura yoki sudiga va O'zbekiston konsullik muassasasiga",
+    "Faqat ommaviy axborot vositalariga"
+   ],
+   "answer": 2
+  }
+ ]
+}

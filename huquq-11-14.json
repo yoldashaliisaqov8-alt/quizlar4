@@ -1,0 +1,157 @@
+{
+ "title": "Huquq 11-sinf · 18-dars. Jinoiy javobgarlik va jazo tizimi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Jinoyat sodir etishda aybdor bo'lgan shaxsga nisbatan sud tomonidan hukm qilish, jazo yoki boshqa huquqiy ta'sir chorasi qo'llanilishida ifodalanadigan huquqiy oqibat nima?",
+   "options": [
+    "Profilaktik hisobga olish",
+    "Ma'muriy javobgarlik",
+    "Intizomiy javobgarlik",
+    "Jinoyat uchun javobgarlik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jinoyat sodir etgan shaxsga sud tomonidan tayinlanadigan huquqiy ta'sir chorasi nima?",
+   "options": [
+    "Ma'muriy jarima",
+    "Rasmiy ogohlantirish",
+    "Jazo",
+    "Profilaktik suhbat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jazoning maqsadlari qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Uning jinoiy faoliyatni davom ettirishiga to'sqinlik qilish",
+    "Mahkumga jismoniy azob berish",
+    "Boshqa shaxslar yangi jinoyat sodir etishining oldini olish",
+    "Mahkumni axloqan tuzatish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Majburiy jamoat ishlari qaysi shaxslarga nisbatan qo'llanilmaydi? I. pensiya yoshiga yetgan shaxslar; II. o'n olti yoshga to'lmaganlar; III. homilador ayollar; IV. 25 yoshli sog'lom erkaklar",
+   "options": [
+    "I, II, IV",
+    "I, IV",
+    "II, III, IV",
+    "I, II, III"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Zaruriy mudofaa chegarasidan chetga chiqilmagan holda tajovuzchiga zarar yetkazish qanday baholanadi?",
+   "options": [
+    "Ehtiyotsizlik jinoyati deb topiladi",
+    "Og'ir jinoyat deb topiladi",
+    "Jinoyat deb topilmaydi",
+    "Ma'muriy huquqbuzarlik deb topiladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h11-14-06.jpg"
+  },
+  {
+   "q": "Aybdordan davlat daromadiga Jinoyat kodeksida belgilangan miqdorda pul undirish qanday jazo hisoblanadi?",
+   "options": [
+    "Xizmat bo'yicha cheklash",
+    "Musodara",
+    "Axloq tuzatish ishlari",
+    "Jarima"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Muayyan huquqdan mahrum qilish asosiy va qo'shimcha jazo sifatida qancha muddatga tayinlanadi?",
+   "options": [
+    "Ikkalasi ham 1 yildan 10 yilgacha",
+    "Asosiy jazo — 2 yildan 7 yilgacha; qo'shimcha — 1 yildan 2 yilgacha",
+    "Asosiy jazo — 1 yildan 5 yilgacha; qo'shimcha jazo — 1 yildan 3 yilgacha",
+    "Asosiy jazo — 1 yildan 3 yilgacha; qo'shimcha — 1 yildan 5 yilgacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jazo turlarini ularning mazmuni bilan TO'G'RI moslashtiring! 1 Majburiy a Uy-joyini tark etishni taqiqlash jamoat ishlari yoki cheklash 2 Axloq tuzatish b Muddatli harbiy xizmatchini ishlari qattiq tartibli harbiy qismga joylashtirish 3 Ozodlikni c Haq to'lanmaydigan foydali cheklash jamoat ishlariga jalb qilish 4 Intizomiy d Ish haqining 10–30 foizini qismga ushlab qolgan holda mehnatga jo'natish jalb qilish",
+   "options": [
+    "1-d, 2-c, 3-a, 4-b",
+    "1-c, 2-d, 3-a, 4-b",
+    "1-c, 2-d, 3-b, 4-a",
+    "1-c, 2-a, 3-d, 4-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ozodlikdan mahrum qilish jazosi qancha muddatga belgilanadi?",
+   "options": [
+    "Uch oydan o'n besh yilgacha",
+    "Bir oydan yigirma yilgacha",
+    "Bir yildan yigirma besh yilgacha",
+    "Olti oydan o'n yilgacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Umrbod ozodlikdan mahrum qilish jazosi qaysi jinoyatlar uchun belgilanadi?",
+   "options": [
+    "Og'irlashtiruvchi holatlarda qasddan odam o'ldirish va terrorizm uchun",
+    "Har qanday o'g'rilik uchun",
+    "Pora olish uchun",
+    "Firibgarlik uchun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Umrbod ozodlikdan mahrum qilish jazosi kimlarga nisbatan tayinlanishi mumkin emas?",
+   "options": [
+    "50 yoshdan oshgan barcha shaxslarga",
+    "Ayollarga, 18 yoshga to'lmasdan jinoyat sodir etganlarga va 60 yoshdan oshgan erkaklarga",
+    "Faqat ayollarga",
+    "Faqat voyaga yetmaganlarga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shartnoma bo'yicha harbiy xizmatchini muayyan huquq va imtiyozlardan mahrum qilib, pul ta'minotining 10–30 foizini ushlab qolish qanday jazo?",
+   "options": [
+    "Xizmat bo'yicha cheklash",
+    "Intizomiy qismga jo'natish",
+    "Axloq tuzatish ishlari",
+    "Jarima"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Hammurapi qonunlari” qachon va kim tomonidan tuzilgan?",
+   "options": [
+    "Miloddan avvalgi XVIII asrda Bobil shohi Hammurapi tomonidan",
+    "Miloddan avvalgi XII asrda Misr fir'avni tomonidan",
+    "Milodiy VI asrda imperator Yustinian tomonidan",
+    "Miloddan avvalgi V asrda Rim senati tomonidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Hammurapi qonunlari” qaysi prinsipga asoslangan?",
+   "options": [
+    "“Aybsizlik prezumpsiyasi”",
+    "“Insonparvarlik”",
+    "“Ko'zga ko'z, tishga tish”",
+    "“Qonun hammadan ustun”"
+   ],
+   "answer": 2
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "title": "Huquq 10-sinf · 8-dars. Inson huquqlarini himoya qiluvchi organlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Xalq davlat idoralariga emas, davlat idoralari xalqqa xizmat qilishi kerak” degan fikr muallifi kim?",
+   "options": [
+    "Kofi Annan",
+    "Nelson Mandela",
+    "Shavkat Mirziyoyev",
+    "Islom Karimov"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ayrim adabiyotlarda inson huquqlarini himoya qiluvchi organlar qanday deb ataladi?",
+   "options": [
+    "Qonun chiqaruvchi va ijro organlari",
+    "Davlat va nodavlat organlari",
+    "Huquqni muhofaza qiluvchi va nazorat organlari",
+    "Inson huquqlari bo'yicha sudlov va nosudlov organlari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h10-05-03.jpg"
+  },
+  {
+   "q": "Inson huquq va erkinliklarini himoya qilish mexanizmining eng muhim qismi hisoblangan organlarni aniqlang!",
+   "options": [
+    "Sud organlari",
+    "Nodavlat tashkilotlar",
+    "Ichki ishlar organlari",
+    "Prokuratura organlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Har kimga o'z huquq va erkinliklarini sud orqali himoya qilish huquqi Konstitutsiyaning qaysi moddasida kafolatlangan?",
+   "options": [
+    "13-moddasida",
+    "33-moddasida",
+    "55-moddasida",
+    "46-moddasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fuqarolarning huquq va erkinliklariga rioya etilishi ustidan nazorat faoliyatini olib boruvchi, qonunni buzgan shaxslarni javobgarlikka tortish choralarini ko'ruvchi organ qaysi?",
+   "options": [
+    "Nodavlat notijorat tashkilotlar",
+    "Biznes-ombudsman",
+    "Prokuratura",
+    "Adliya organlari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Ichki ishlar organlari to'g'risida”gi qonun qachon qabul qilingan?",
+   "options": [
+    "2008-yilda",
+    "2016-yilda",
+    "2019-yilda",
+    "2012-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davlat organlari va davlat ishtirokidagi tashkilotlar tomonidan inson huquqlari sohasidagi qonunchilikka rioya etilishi ustidan nazoratni qaysi organlar amalga oshiradi?",
+   "options": [
+    "Fuqarolar yig'inlari",
+    "Adliya organlari",
+    "Kasaba uyushmalari",
+    "Ichki ishlar organlari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Inson huquq va erkinliklarini himoya qilish, qo'llab-quvvatlash va ularga rioya qilinishini ta'minlash maqsadida konstitutsiya yoki qonun bilan ta'sis etiladigan mustaqil organ nima deb ataladi?",
+   "options": [
+    "Inson huquqlari bo'yicha milliy institut",
+    "Sud organi",
+    "Nodavlat notijorat tashkiloti",
+    "Huquqni muhofaza qiluvchi organ"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Inson huquqlari bo'yicha milliy institutlar faoliyati qanday xususiyatga ega?",
+   "options": [
+    "Harbiy xususiyatga",
+    "Nosudlov xususiyatga",
+    "Sudlov xususiyatiga",
+    "Tijorat xususiyatiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekistonda inson huquqlari bo'yicha milliy institutlar tizimiga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Inson huquqlari bo'yicha milliy markaz",
+    "Bosh prokuratura",
+    "Biznes-ombudsman",
+    "Bolalar ombudsmani"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Milliy institutlarni ularning vazifalari bilan TO'G'RI moslashtiring! 1 Ombudsman a Yetim bolalarning ijtimoiy moslashuviga ko'maklashadi 2 Inson huquqlari b Tadbirkorlik subyektlarining bo'yicha milliy huquqlarini himoya qiladi markaz 3 Bolalar c Inson huquqlari to'g'risidagi ombudsmani qonunchilikka rioya etilishi ustidan parlament nazoratini ta'minlaydi 4 Biznes- d Milliy ma'ruzalar ombudsman tayyorlanishini ta'minlaydi",
+   "options": [
+    "1-c, 2-a, 3-d, 4-b",
+    "1-d, 2-c, 3-a, 4-b",
+    "1-c, 2-d, 3-a, 4-b",
+    "1-c, 2-d, 3-b, 4-a"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Biznes-ombudsman qaysi organ huzurida faoliyat yuritadi?",
+   "options": [
+    "Oliy Majlis huzurida",
+    "O'zbekiston Respublikasi Prezidenti huzurida",
+    "Vazirlar Mahkamasi huzurida",
+    "Adliya vazirligi huzurida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ombudsman inson huquqlarining jiddiy buzilishiga yo'l qo'ygan shaxslarni javobgarlikka tortish yuzasidan tegishli organlarga qanday hujjat kiritadi?",
+   "options": [
+    "Iltimosnoma",
+    "Farmoyish",
+    "Hukm",
+    "Taqdimnoma"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ombudsman qonunchilik buzilishi holatlarini bartaraf etish yuzasidan davlat organlari va tashkilotlar rahbarlariga qanday hujjat kiritadi?",
+   "options": [
+    "Qaror",
+    "Iltimosnoma",
+    "Protest",
+    "Taqdimnoma"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Inson huquqlari bo'yicha milliy institutlarning asosiy vazifalariga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Jinoyat ishlari bo'yicha hukm chiqarish",
+    "Hukumat va parlamentga taklif va tavsiyalar kiritish",
+    "Inson huquqlarini targ'ib qilish",
+    "Ariza, shikoyat va murojaatlarni ko'rib chiqish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra hozir mamlakatimizda nechtadan ortiq nodavlat notijorat tashkilotlar faoliyat yuritadi?",
+   "options": [
+    "12 500 dan ortiq",
+    "5 000 dan ortiq",
+    "10 000 dan ortiq",
+    "9 800 dan ortiq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jismoniy va yuridik shaxslar tomonidan ixtiyoriylik asosida tashkil etilgan, daromad olishni asosiy maqsad qilmagan va daromadlarni qatnashchilari o'rtasida taqsimlamaydigan o'zini o'zi boshqarish tashkiloti qanday ataladi?",
+   "options": [
+    "Nodavlat notijorat tashkiloti",
+    "Davlat unitar korxonasi",
+    "Milliy institut",
+    "Mas'uliyati cheklangan jamiyat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nodavlat notijorat tashkilotlar faoliyati qaysi qonun bilan tartibga solinadi?",
+   "options": [
+    "“Jamoat birlashmalari to'g'risida”gi qonun",
+    "“Ijtimoiy sheriklik to'g'risida”gi qonun",
+    "“Mahalla to'g'risida”gi qonun",
+    "“Nodavlat notijorat tashkilotlar to'g'risida”gi qonun"
+   ],
+   "answer": 3
+  }
+ ]
+}

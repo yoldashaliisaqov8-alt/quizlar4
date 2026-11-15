@@ -1,0 +1,157 @@
+{
+ "title": "Huquq 9-sinf · 3-dars. Huquqiy davlatda konstitutsiyaning o'rni",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Davlatning vazifasi insonlarni baxt- saodatga olib borishdir, bu esa ilm va yaxshi axloq yordamida qo'lga kiritiladi” — ushbu fikr muallifi kim?",
+   "options": [
+    "Arastu",
+    "Alisher Navoiy",
+    "Abu Nasr Forobiy",
+    "Abu Ali ibn Sino"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Huquq ustuvorligi ta'minlangan, inson va fuqarolarning huquq va erkinliklari kafolatlangan, hokimiyatni amalga oshirishda xalqning ishtiroki ta'minlanuvchi davlat” — bu qanday davlat?",
+   "options": [
+    "Ijtimoiy davlat",
+    "Huquqiy davlat",
+    "Unitar davlat",
+    "Dunyoviy davlat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Huquqiy davlatda inson va davlat o'rtasidagi munosabatlarda qaysi manfaatlar ustuvor bo'ladi?",
+   "options": [
+    "Inson manfaatlari",
+    "Mansabdor shaxslar manfaatlari",
+    "Davlat manfaatlari",
+    "Siyosiy partiyalar manfaatlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquqiy davlatning belgilari TO'G'RI berilgan javobni aniqlang! I. Qonun ustuvorligi; II. Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sud tarmoqlariga bo'linishi; III. Yagona partiyaning hukmronligi; IV. Hokimiyat tarmoqlarining o'zaro muvozanati; V. Sud tizimi mustaqilligi; VI. Hokimiyatning avloddan avlodga o'tishi.",
+   "options": [
+    "II, III, V va VI",
+    "I, II, IV va V",
+    "I, III, IV va VI",
+    "I, II, III va V"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "image": "img/h9-02-05.jpg"
+  },
+  {
+   "q": "“Kishilarning qonunlar va boshqa huquqiy hodisalar haqidagi bilimlari, tasavvurlari yig'indisi” — bu nima?",
+   "options": [
+    "Huquqiy ong",
+    "Huquqiy madaniyat",
+    "Huquq ustuvorligi",
+    "Huquqiy nigilizm"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Kishilarning huquqiy bilim darajasi, huquqqa nisbatan ongli munosabati, huquqni hurmat qilishi va unga rioya qilishi” — bu nima?",
+   "options": [
+    "Huquqiy davlat",
+    "Huquqiy ong",
+    "Huquqiy madaniyat",
+    "Huquqiy nigilizm"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Huquqqa, qonunlarga salbiy, ularni inkor qiluvchi, hurmatsiz munosabatda bo'lish” — bu nima?",
+   "options": [
+    "Huquqiy pluralizm",
+    "Huquqiy ong",
+    "Huquqiy nigilizm",
+    "Huquqiy madaniyat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Qonunni bilmaslik ...” — darslikdagi ushbu qoidani to'g'ri davom ettiring!",
+   "options": [
+    "jazoni yengillashtiradi",
+    "faqat voyaga yetmaganlarni javobgarlikdan ozod etadi",
+    "javobgarlikdan ozod etadi",
+    "javobgarlikdan ozod etmaydi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jamiyatda huquqiy madaniyatni yuksaltirish konsepsiyasi qaysi hujjat bilan tasdiqlangan?",
+   "options": [
+    "Prezidentning 2019-yil 9-yanvardagi farmoni bilan",
+    "Prezidentning 2017-yil 7-fevraldagi farmoni bilan",
+    "Oliy Majlisning 2019-yil qonuni bilan",
+    "Vazirlar Mahkamasining 2020-yil qarori bilan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquqiy madaniyatga ega shaxsning xususiyatlari TO'G'RI berilgan javobni aniqlang!",
+   "options": [
+    "Faqat o'z huquqlarini biladi, burchlarini tan olmaydi",
+    "Barcha qonunlarni yoddan biladi",
+    "Huquqqa salbiy munosabatda bo'ladi",
+    "Qonun normalarini muayyan darajada biladi, ijobiy huquqiy ong egasi, huquqni hurmat qilishga asoslangan xulq-atvorga ega"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Davlat va mansabdor shaxslarning, fuqarolar va birlashmalarining faoliyati huquq bilan bog'liqligi, huquqqa mos holda amalga oshirilishi” — bu qanday tamoyil?",
+   "options": [
+    "Xalq hokimiyatchiligi",
+    "Davlat suvereniteti",
+    "Huquq ustuvorligi (“Rule of law”)",
+    "Hokimiyatlar bo'linishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Huquq ustuvorligi prinsipi qaysi nazariyaga tayanadi?",
+   "options": [
+    "Tabiiy huquq nazariyasiga",
+    "Ijtimoiy shartnoma nazariyasiga",
+    "Ilohiy huquq nazariyasiga",
+    "Hokimiyatlar bo'linishi nazariyasiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Faqat huquqiy davlat sharoitidagina insonning hayoti, erkinligi, sha'ni, qadr-qimmatini to'liq ta'minlash... mumkin” — Shavkat Mirziyoyev bu fikrni qachon bildirgan?",
+   "options": [
+    "2019-yil 9-yanvarda, farmon e'lon qilinganda",
+    "2022-yil 20-iyunda, Konstitutsiyaviy komissiya a'zolari bilan uchrashuvda",
+    "2022-yil 20-mayda, Oliy Majlisda",
+    "2023-yil 30-aprelda, referendum kuni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yangilangan Konstitutsiyada huquqiy davlat prinsipini ro'yobga chiqarishga qaratilgan qaysi kafolat mustahkamlangan?",
+   "options": [
+    "Qarama-qarshiliklar davlat foydasiga talqin qilinishi",
+    "Mansabdor shaxslarning qonundan ustunligi",
+    "Konstitutsiyaning faqat qonunlar orqali amal qilishi",
+    "Inson va davlat organlari munosabatlaridagi qonunchilikdagi qarama-qarshilik va noaniqliklar inson foydasiga talqin qilinishi"
+   ],
+   "answer": 3
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "title": "Huquq 11-sinf · 4-dars. Ish vaqti va dam olish vaqti",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Xodim mehnat shartnomasi yoki qonunchilik bilan belgilangan tartibda o'z xizmat vazifalarini bajarishi lozim bo'lgan vaqt davri nima?",
+   "options": [
+    "Ta'til",
+    "Dam olish vaqti",
+    "Ish vaqti",
+    "Smena oralig'i"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ish beruvchi tomonidan xodimni belgilangan ish vaqti davomiyligidan tashqari ishga jalb etishi qanday ataladi?",
+   "options": [
+    "Ish vaqtidan tashqari ish",
+    "Qisqartirilgan ish vaqti",
+    "To'liqsiz ish vaqti",
+    "Tungi ish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ish vaqtidan tashqari ishning davomiyligi xodim uchun surunkasiga ikki kun davomida va yiliga qanchadan oshmasligi kerak?",
+   "options": [
+    "To'rt soatdan va yiliga bir yuz yigirma soatdan",
+    "Sakkiz soatdan va yiliga yuz ellik soatdan",
+    "Ikki soatdan va yiliga yuz soatdan",
+    "Olti soatdan va yiliga ikki yuz soatdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi vaqt oralig'i tungi vaqt hisoblanadi?",
+   "options": [
+    "Soat 0:00 dan 6:00 gacha",
+    "Soat 22:00 dan 6:00 gacha",
+    "Soat 20:00 dan 6:00 gacha",
+    "Soat 23:00 dan 7:00 gacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xodim uchun ish vaqtining normal davomiyligi haftasiga necha soatdan ortiq bo'lishi mumkin emas?",
+   "options": [
+    "O'ttiz olti soatdan",
+    "Qirq ikki soatdan",
+    "Qirq soatdan",
+    "Qirq sakkiz soatdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kunlik ish (smena) davomiyligini TO'G'RI moslashtiring! 1 Olti kunlik ish haftasida a Sakkiz soatdan (umumiy) oshmaydi 2 Besh kunlik ish haftasida b To'rt soatdan (umumiy) oshmaydi 3 15–16 yoshli xodimlar, olti c Yetti soatdan kunlik haftada oshmaydi",
+   "options": [
+    "1-c, 2-b, 3-a",
+    "1-c, 2-a, 3-b",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "16–18 yoshli xodimlar uchun besh kunlik ish haftasida kunlik ish davomiyligi qanchadan oshmasligi kerak?",
+   "options": [
+    "Besh soatdan",
+    "Sakkiz soatdan",
+    "Yetti soatu o'ttiz daqiqadan",
+    "Olti soatdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "image": "img/h11-03-08.jpg"
+  },
+  {
+   "q": "Mehnat shartnomasi taraflarining kelishuviga ko'ra xodimga ishga qabul qilish chog'ida belgilanishi mumkin bo'lgan ish vaqti turi qaysi?",
+   "options": [
+    "Ish vaqtidan tashqari ish",
+    "Normal ish vaqti",
+    "To'liqsiz ish vaqti",
+    "Tungi ish vaqti"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Har yilgi asosiy eng kam mehnat ta'tilining davomiyligi necha kalendar kun?",
+   "options": [
+    "Yigirma bir kalendar kun",
+    "Yigirma to'rt kalendar kun",
+    "O'ttiz kalendar kun",
+    "O'n besh kalendar kun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ish haqi saqlanmaydigan ta'til o'n ikki oylik davr mobaynida jami qancha muddatdan ortiq bo'lmasligi kerak?",
+   "options": [
+    "Uch oydan",
+    "Ikki oydan",
+    "Bir oydan",
+    "Olti oydan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xodimlarga onalik, bolalarni parvarishlash, ta'lim olish kabi maqsadlarda beriladigan ta'tillar qanday ataladi?",
+   "options": [
+    "Ish haqi saqlanmaydigan ta'tillar",
+    "Qo'shimcha ta'tillar",
+    "Har yilgi mehnat ta'tillari",
+    "Ijtimoiy ta'tillar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xodim mehnat majburiyatlarini bajarishdan ozod bo'lgan va o'z ixtiyoriga ko'ra foydalanishi mumkin bo'lgan vaqt nima?",
+   "options": [
+    "Ish vaqti",
+    "Dam olish vaqti",
+    "Smena",
+    "Tanaffus"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Dam olish vaqtining turlariga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Ish kuni davomidagi tanaffuslar",
+    "Ish vaqtidan tashqari ish",
+    "Ishlanmaydigan bayram kunlari",
+    "Har yilgi asosiy va qo'shimcha mehnat ta'tillari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yakshanba kuni dam olish kuni sifatida qachon va kim tomonidan rasman belgilangan?",
+   "options": [
+    "Milodiy 800-yilda Buyuk Karl tomonidan",
+    "Milodiy 476-yilda Rim imperatori Romul Avgustul tomonidan",
+    "Miloddan avvalgi 44-yilda Yuliy Sezar tomonidan",
+    "Milodiy 321-yilda Rim imperatori Konstantin I tomonidan"
+   ],
+   "answer": 3
+  }
+ ]
+}

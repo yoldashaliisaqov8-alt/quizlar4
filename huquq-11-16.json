@@ -1,0 +1,137 @@
+{
+ "title": "Huquq 11-sinf · 21–22-dars. Zo'ravonlik va uning oldini olish",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Bir kishining boshqa kishini doimiy ravishda tahqirlashi, qo'rqitishi yoki kamsitishi qanday ataladi?",
+   "options": [
+    "Mobbing",
+    "Bulling",
+    "Tovlamachilik",
+    "Tuhmat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Insonning hayoti, sog'lig'i, sha'ni, qadr- qimmati, erkinligi yoki daxlsizligiga qarshi qasddan qaratilgan har qanday zarar yetkazuvchi harakat yoki harakatsizlik nima?",
+   "options": [
+    "Haqorat",
+    "Zo'ravonlik",
+    "Intizomiy qilmish",
+    "Ma'muriy huquqbuzarlik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Zo'ravonlik harakatsizlik orqali ham sodir etilishi mumkinmi?",
+   "options": [
+    "Faqat ijtimoiy tarmoqlarda mumkin",
+    "Faqat oilada mumkin",
+    "Ha, masalan, yordam ko'rsatmaslik yoki g'amxo'rlikdan mahrum qilish orqali",
+    "Yo'q, faqat harakat orqali sodir etiladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Doimiy haqorat qilish, kamsitish, tahdid qilish va atrofidagilardan ajratib qo'yish zo'ravonlikning qaysi turiga kiradi?",
+   "options": [
+    "Iqtisodiy zo'ravonlik",
+    "Ruhiy zo'ravonlik",
+    "Ma'muriy zo'ravonlik",
+    "Jismoniy zo'ravonlik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shaxs videoqo'ng'iroqda yoki shaxsan o'zini tahdid ostida his qilayotganini bildirish uchun foydalanadigan bir qo'l bilan bajariladigan imo-ishora nima?",
+   "options": [
+    "Yordam chaqirig'i",
+    "Himoya orderi",
+    "Ishonch telefoni",
+    "Profilaktik suhbat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Yordam chaqirig'i” qaysi davrda ommalashgan?",
+   "options": [
+    "XX asr boshida",
+    "Ikkinchi jahon urushi davrida",
+    "COVID-19 pandemiyasi davrida",
+    "2010-yillarda Olimpiada davrida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tazyiq va zo'ravonlikdan jabrlanuvchining huquqlari qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Zo'ravonni o'zi jazolash",
+    "Vakolatli organlarga yoki sudga ariza bilan murojaat etish",
+    "Himoya orderi berish talabi bilan murojaat qilish",
+    "Bepul huquqiy, psixologik va tibbiy yordam olish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tazyiq va zo'ravonlikdan jabrlanuvchi zararni qoplash to'g'risida sudga murojaat etganda nimadan ozod qilinadi?",
+   "options": [
+    "Sudga kelishdan",
+    "Guvohlik berishdan",
+    "Soliq to'lashdan",
+    "Davlat boji to'lashdan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tazyiq va zo'ravonlikdan jabrlangan xotin-qizlarga davlat himoyasini taqdim etuvchi hujjat qanday ataladi?",
+   "options": [
+    "Rasmiy ogohlantirish",
+    "Ijro varaqasi",
+    "Ishonch yorlig'i",
+    "Himoya orderi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Himoya orderini berish uchun jabrlanuvchidan tashqari kimlar murojaat qilishi mumkin?",
+   "options": [
+    "Uning yaqinlari, qo'shni yoki qarindoshlari",
+    "Faqat sud",
+    "Faqat jabrlanuvchining o'zi",
+    "Faqat prokuror"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xotin-qizlarga nisbatan tazyiq va zo'ravonlikning oldini olish maqsadida ishga tushirilgan ishonch telefoni qanday rejimda ishlaydi?",
+   "options": [
+    "Haftada bir kun",
+    "Faqat kunduzi, bepul",
+    "Faqat ish kunlari, pullik",
+    "Tun-u kun, bepul"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Favqulodda hollarda ichki ishlar organlariga qaysi raqam orqali xabar beriladi?",
+   "options": [
+    "102",
+    "103",
+    "101",
+    "104"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "image": "img/h11-16-13.jpg"
+  }
+ ]
+}

@@ -1,0 +1,356 @@
+{
+ "title": "Huquqshunoslik Milliy sertifikat demo test 2 (1–35)",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Nuqtalar o'rniga “besh” soni TO'G'RI KELMAYDIGAN javobni aniqlang. (Konstitutsiya, 106, 120, 121, 144-moddalar)",
+   "options": [
+    "O'zbekiston Respublikasining Prezidenti … yil muddatga saylanadi",
+    "Hokimlarning vakolatlari muddati — … yil",
+    "Bosh prokurorning vakolat muddati — … yil",
+    "Xalq deputatlari Kengashlarining vakolatlari muddati — … yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiyaviy sudga oid TO'G'RI ma'lumotlarni aniqlang. (Konstitutsiya, 132–133-moddalar)\n1) sudyalari qayta saylanish huquqisiz o'n yillik muddatga saylanadi;\n2) Prezidentning taqdimiga binoan Senat tomonidan saylanadi;\n3) Konstitutsiyaviy sud raisini Prezident tayinlaydi;\n4) referendumga chiqarilayotgan masalalarning Konstitutsiyaga muvofiqligi to'g'risida xulosa beradi",
+   "options": [
+    "2, 3, 4",
+    "1, 3",
+    "1, 2, 3",
+    "1, 2, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra O'zbekiston hududidagi chet el fuqarolari va fuqaroligi bo'lmagan shaxslarning huquq va erkinliklari nimaga muvofiq ta'minlanadi? (Konstitutsiya, 24-modda)",
+   "options": [
+    "Xalqaro huquq normalariga muvofiq",
+    "Tashqi ishlar vazirligining qarorlariga muvofiq",
+    "O'z davlatining qonunlariga muvofiq",
+    "Faqat ikki tomonlama shartnomalarga muvofiq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston Respublikasi Konstitutsiyasiga ko'ra qaysi ta'lim MAJBURIY hisoblanadi? (Konstitutsiya, 50-modda)",
+   "options": [
+    "Oliy ta'lim",
+    "Maktabgacha ta'lim",
+    "Umumiy o'rta ta'lim",
+    "Boshlang'ich professional ta'lim"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "(a) Iqtisodiy, ijtimoiy huquqlar hamda (b) Siyosiy huquqlarga oid to'g'ri moslashtirilgan javobni aniqlang. (Konstitutsiya, VIII–IX boblar)\n1) mulkdor bo'lish huquqi;\n2) kasaba uyushmalariga, siyosiy partiyalarga uyushish huquqi;\n3) uy-joyli bo'lish huquqi;\n4) davlat organlariga arizalar, takliflar va shikoyatlar bilan murojaat qilish huquqi",
+   "options": [
+    "a – 1, 2; b – 3, 4",
+    "a – 1, 3; b – 2, 4",
+    "a – 1, 4; b – 2, 3",
+    "a – 2, 4; b – 1, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyaning “Fuqarolik” bobiga oid TO'G'RI ma'lumotlarni aniqlang. (Konstitutsiya, 22–23-moddalar)\n1) O'zbekiston Respublikasining butun hududida yagona fuqarolik o'rnatiladi;\n2) Qoraqalpog'iston Respublikasining fuqarosi ayni vaqtda O'zbekiston Respublikasining fuqarosi hisoblanadi;\n3) O'zbekiston fuqarosi qonunda belgilangan hollarda boshqa davlatga berib yuborilishi mumkin;\n4) fuqarolik unga qanday asosda ega bo'lganlikka qarab turlicha huquq beradi",
+   "options": [
+    "1, 3",
+    "1, 2",
+    "2, 4",
+    "3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Normani to'g'ri davom ettiring: “Hech kim sudning qarorisiz va qonunga zid tarzda uy-joyidan mahrum etilishi mumkin emas. Uy-joyidan mahrum etilgan mulkdorga uy-joyning qiymati hamda u ko'rgan zararlarning o'rni qonunda nazarda tutilgan hollarda va tartibda …” (Konstitutsiya, 47-modda)",
+   "options": [
+    "faqat hokimlik qarori bilan qoplanadi",
+    "keyinchalik bazaviy hisoblash miqdorida qoplanadi",
+    "bir yil ichida qisman qoplanadi",
+    "oldindan hamda teng qiymatda qoplanishi ta'minlanadi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra qonunda belgilangan pensiyalar, nafaqalar va boshqa ijtimoiy yordam miqdorlari nimadan oz bo'lishi mumkin emas? (Konstitutsiya, 46-modda)",
+   "options": [
+    "Rasman belgilangan eng kam iste'mol xarajatlaridan",
+    "Bazaviy hisoblash miqdoridan",
+    "Respublikadagi o'rtacha oylik ish haqidan",
+    "Mehnatga haq to'lashning eng kam miqdoridan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchining mehnati jamiyat va davlatni rivojlantirish, barkamol avlodni tarbiyalash asosi sifatida e'tirof etilgan modda qaysi? (Konstitutsiya)",
+   "options": [
+    "52-modda",
+    "51-modda",
+    "53-modda",
+    "50-modda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstitutsiyada ekologik tizimini muhofaza qilish va tiklash, ijtimoiy-iqtisodiy rivojlantirish choralari alohida belgilangan mintaqa qaysi? (Konstitutsiya, 49-modda)",
+   "options": [
+    "Farg'ona vodiysi",
+    "Zarafshon vodiysi",
+    "Toshkent vohasi",
+    "Orolbo'yi mintaqasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra fuqarolar davlat ta'lim tashkilotlarida qanday asosda davlat hisobidan oliy ma'lumot olishga haqli? (Konstitutsiya, 51-modda)",
+   "options": [
+    "Hokimlik yo'llanmasi asosida",
+    "Tanlov asosida",
+    "Faqat imtiyozli toifalar uchun",
+    "Navbat asosida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Lavozimlar va ularni egallash tartibini to'g'ri moslashtiring. (Konstitutsiya, 132, 134, 129-moddalar)\n1) Konstitutsiyaviy sud sudyalari;\n2) Oliy sud raisi;\n3) Markaziy saylov komissiyasi raisi;\n4) Konstitutsiyaviy sud raisi\na) Senat tomonidan, qayta saylanish huquqisiz o'n yillik muddatga;\nb) Prezident taqdimiga binoan Senat tomonidan besh yillik muddatga;\nc) Prezident taqdimiga binoan komissiya a'zolari orasidan komissiya majlisida besh yilga;\nd) sud o'z tarkibidan besh yillik muddatga",
+   "options": [
+    "1-b, 2-a, 3-c, 4-d",
+    "1-c, 2-b, 3-a, 4-d",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-d, 3-c, 4-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra majburiy mehnat taqiqlanadi. Qaysi hol bundan MUSTASNO? (Konstitutsiya, 44-modda)",
+   "options": [
+    "Ota-onaning roziligi bilan bolalar mehnati",
+    "Sud qarori bilan tayinlangan jazoni ijro etish tartibi (va qonunda nazarda tutilgan boshqa hollar)",
+    "Korxona rahbarining buyrug'i",
+    "Mahalla yig'inining qarori"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Maxsus huquqdan (transport vositasini boshqarish, ov qilish huquqidan) mahrum qilish qaysi organ tomonidan va qancha muddatga qo'llaniladi? (MJtK, 28-modda)",
+   "options": [
+    "Jinoyat ishlari bo'yicha tuman (shahar) sudi; o'n besh kundan uch yilgacha",
+    "Ichki ishlar organi; bir oydan bir yilgacha",
+    "Hokimlik ma'muriy komissiyasi; uch oydan uch yilgacha",
+    "Fuqarolik ishlari bo'yicha sud; bir yildan besh yilgacha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Haq to'lanadigan jamoat ishlariga majburiy ravishda jalb etish qancha muddatga tayinlanadi? (MJtK, 28¹-modda)",
+   "options": [
+    "Bir soatdan yuz soatgacha",
+    "Oltmish soatdan ikki yuz qirq soatgacha",
+    "Sakkiz soatdan ikki yuz qirq soatgacha",
+    "Yigirma to'rt soatdan uch yuz oltmish soatgacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "(a) Haqini to'lash sharti bilan olib qo'yish hamda (b) Musodara qilishga oid to'g'ri moslashtirilgan javobni aniqlang. (MJtK, 26–27-moddalar)\n1) ashyo sotiladi, tushgan pul sotish xarajatlari chegirilib sobiq egasiga beriladi;\n2) ashyo haq to'lamasdan majburiy tarzda davlat mulkiga o'tkaziladi;\n3) asosiy tirikchilik manbai ovchilik bo'lgan shaxslardan o'qotar ov quroli bu tartibda olib qo'yilmaydi;\n4) huquqbuzarning shaxsiy mulki bo'lmagan ashyoga (muomaladan chiqarilganlari bundan mustasno) qo'llanilmaydi",
+   "options": [
+    "a – 1, 2; b – 3, 4",
+    "a – 1, 3; b – 2, 4",
+    "a – 2, 4; b – 1, 3",
+    "a – 1, 4; b – 2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shaxs bir necha ma'muriy huquqbuzarlik sodir etgan bo'lib, ular haqidagi ishlar bir vaqtda ayni bir organ tomonidan ko'rib chiqilayotgan bo'lsa, jazo qanday qo'llaniladi? (MJtK, 34-modda)",
+   "options": [
+    "Faqat birinchi huquqbuzarlik uchun jazo qo'llaniladi",
+    "Eng yengil sanksiya doirasida",
+    "Og'irroq ma'muriy jazoni nazarda tutuvchi sanksiya doirasida",
+    "Barcha jazolar qo'shib hisoblanadi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "MJtKga ko'ra ma'muriy qamoq va maxsus huquqdan mahrum etish muddatlari qanday hisoblanadi? (MJtK, 35-modda)",
+   "options": [
+    "Ikkalasi ham faqat kunlar bilan",
+    "Qamoq — sutkalar bilan; maxsus huquqdan mahrum etish — kunlar, oylar, yillar bilan",
+    "Qamoq — kunlar bilan; mahrum etish — faqat yillar bilan",
+    "Qamoq — soatlar bilan; mahrum etish — oylar bilan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sud ma'muriy jazo qo'llayotganda yengillashtiruvchi holatlar va huquqbuzarning moddiy ahvolini inobatga olib qanday qaror qabul qilishi mumkin? (MJtK, 33-modda)",
+   "options": [
+    "Faqat sanksiyadagi eng kam jazoni qo'llashi shart",
+    "Jazo o'rniga albatta jinoiy javobgarlik qo'llaydi",
+    "Ishni prokurorga qaytarishi shart",
+    "Sanksiyada nazarda tutilgan eng kam jazodan ham kamroq jazo yoki boshqa yengilroq jazo qo'llashi mumkin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ov qilish huquqidan mahrum etish chorasi kimlarga nisbatan qo'llanilishi MUMKIN EMAS? (MJtK, 28-modda)",
+   "options": [
+    "Pensiya yoshidagi shaxslarga",
+    "Chet el fuqarolariga",
+    "Asosiy tirikchilik manbai ovchilik bo'lgan shaxslarga",
+    "Birinchi marta huquqbuzarlik qilganlarga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vaziyat: Ota-ona 11 yoshli Diyorning familiyasini o'zgartirmoqchi. Oila kodeksiga ko'ra bunga qanday yo'l qo'yiladi? (Oila kodeksi, 70-modda)",
+   "options": [
+    "Faqat Diyorning o'z roziligi bilan",
+    "Ota-onaning birgalikdagi arizasi yetarli, bolaning roziligi talab qilinmaydi",
+    "Faqat bola 16 yoshga to'lgach",
+    "Faqat vasiylik organining ruxsati bilan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zaro nikohda bo'lmagan voyaga yetmagan ota-ona necha yoshga to'lishi bilan ota-onalik huquqlarini mustaqil amalga oshirishga haqli? (Oila kodeksi, 72-modda)",
+   "options": [
+    "o'n sakkiz yosh",
+    "o'n to'rt yosh",
+    "o'n besh yosh",
+    "o'n olti yosh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oila kodeksiga ko'ra ota-onalik huquqidan mahrum qilish asoslarini aniqlang. (Oila kodeksi, 79-modda)\n1) aliment to'lashdan bo'yin tovlash;\n2) bolani tug'ruqxonadan uzrsiz sabablarga ko'ra olishdan bosh tortish;\n3) bolalarga nisbatan shafqatsiz muomalada bo'lish;\n4) ota-onaning kam ta'minlangan bo'lishi;\n5) ota-onaning boshqa shaharga ko'chib ketishi",
+   "options": [
+    "3, 4, 5",
+    "1, 4, 5",
+    "1, 2, 3",
+    "2, 3, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ota-onalik huquqini tiklashga oid NOTO'G'RI ma'lumotni aniqlang. (Oila kodeksi, 82-modda)",
+   "options": [
+    "Ishlar vasiylik va homiylik organi hamda prokuror ishtirokida ko'riladi",
+    "Tiklash ota-onaning da'vosiga binoan sud tartibida amalga oshiriladi",
+    "Ota-onalik huquqi FHDYo organiga ariza berish orqali tiklanadi",
+    "Tiklash bolaning eng ustun manfaatlariga zid bo'lsa, sud da'voni rad qilishga haqli"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Oilada bolaning manfaatlariga taalluqli masala hal qilinayotganda bolaning fikri qanday hisobga olinadi? (Oila kodeksi, 68-modda)",
+   "options": [
+    "Faqat 14 yoshdan boshlab",
+    "Faqat 10 yoshdan boshlab",
+    "Faqat ota-ona roziligi bilan",
+    "Uning yoshidan qat'i nazar ko'rib chiqiladi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bolaning ism, ota ismi va familiya olish huquqiga oid TO'G'RI ma'lumotlarni aniqlang. (Oila kodeksi, 69-modda)\n1) bolaga ism ota-onaning kelishuviga binoan beriladi;\n2) ota ismi onasining ismiga ko'ra beriladi;\n3) ota-onaning xohishiga ko'ra bolaga milliy an'analarga ko'ra boboning ismi bo'yicha familiya berilishi mumkin;\n4) ota-ona turli familiyalarda bo'lsa, bolaga albatta otasining familiyasi beriladi",
+   "options": [
+    "1, 3",
+    "3, 4",
+    "1, 2",
+    "2, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Uzrli sabablar bo'lganda nikoh yoshini kim va qancha muddatga kamaytirishi mumkin? (Oila kodeksi, 15-modda)",
+   "options": [
+    "FHDYo organi; ikki yilga",
+    "Sud; uch yilga",
+    "Tuman, shahar hokimi; ko'pi bilan bir yilga",
+    "Viloyat hokimi; olti oyga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Advokatlik sirini oshkor etish kimlarga man etiladi? (Advokatura to'g'risidagi qonun, 9-modda)\n1) advokatga;\n2) advokat yordamchisiga;\n3) advokat stajyoriga;\n4) advokatlik tuzilmalarining mansabdor shaxslari va texnik xodimlariga",
+   "options": [
+    "1, 2, 3, 4",
+    "1, 3",
+    "2, 3, 4",
+    "1, 2"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yuridik maslahatxonaning moddiy-texnika ta'minoti, advokatlar uchun xizmat xonalari ajratish masalalari qanday hal qilinadi? (Advokatura to'g'risidagi qonun, 4⁴-modda)",
+   "options": [
+    "Advokatlar palatasining hududiy boshqarmasi tomonidan tuman, shahar hokimligi bilan birgalikda",
+    "Vazirlar Mahkamasi qarori bilan",
+    "Advokatlar o'z hisobidan hal qiladi",
+    "Faqat Adliya vazirligi tomonidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vaziyat: Advokat Sardor ilgari shu jinoyat ishida tarjimon sifatida ishtirok etgan. Endi ayblanuvchi uni himoyachi qilib olmoqchi. Sardor topshiriqni qabul qila oladimi? (Advokatura to'g'risidagi qonun, 7-modda)",
+   "options": [
+    "Ha, faqat sud ruxsati bilan",
+    "Ha, tarjimonlik advokatlikka to'sqinlik qilmaydi",
+    "Yo'q, u bu ishda tarjimon sifatida ishtirok etgani uchun topshiriqni qabul qilishga haqli emas",
+    "Ha, agar ayblanuvchi yozma rozilik bersa"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Huquq manbalari va misollarni to'g'ri moslashtiring. (Huquq nazariyasi)\n1) yuridik pretsedent;\n2) huquqiy odat;\n3) normativ-huquqiy hujjat;\n4) xalqaro shartnoma\na) Buyuk Britaniyada sudning aniq ish bo'yicha keyingi ishlar uchun majburiy qarori;\nb) uzoq vaqt amal qilib, davlat tomonidan tan olingan qoida;\nc) Oliy Majlis qabul qilgan qonun;\nd) davlatlar o'rtasidagi bitim",
+   "options": [
+    "1-d, 2-b, 3-c, 4-a",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-c, 3-b, 4-d",
+    "1-b, 2-a, 3-c, 4-d"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "(a) Unitar hamda (b) Federativ davlatlarni to'g'ri moslashtiring. (Huquq nazariyasi (davlat shakllari))\n1) O'zbekiston;\n2) AQSH;\n3) Fransiya;\n4) Germaniya",
+   "options": [
+    "a – 1, 4; b – 2, 3",
+    "a – 2, 4; b – 1, 3",
+    "a – 1, 2; b – 3, 4",
+    "a – 1, 3; b – 2, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vaziyat: Haydovchi qizil chiroq yonishiga ulguraman, hech narsa bo'lmaydi deb chorrahadan o'tdi va piyodaga zarar yetkazdi. MJtKga ko'ra bu qilmish qanday ayb shaklida sodir etilgan? (MJtK, 12-modda)",
+   "options": [
+    "Egri qasd bilan",
+    "To'g'ri qasd bilan",
+    "Aybsiz zarar yetkazish",
+    "Ehtiyotsizlik orqasida (zararli oqibatni ko'ra bilgan, lekin kaltabinlik bilan oldini olaman deb o'ylagan)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Hech kim sudning qarorisiz va qonunga zid tarzda uy-joyidan mahrum etilishi mumkin emas.” Ushbu norma huquq normalarining qaysi guruhiga kiradi? (Konstitutsiya, 47-modda)",
+   "options": [
+    "Vakolat beruvchi norma",
+    "Man qiluvchi norma",
+    "Tavsiya beruvchi norma",
+    "Majburiyat yuklovchi norma"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos javobni aniqlang (I — faqat Konstitutsiyaviy sudga, II — faqat Oliy sudga, III — ikkalasiga tegishli). (Konstitutsiya, 132–134-moddalar)\na) sudyalari qayta saylanish huquqisiz o'n yillik muddatga saylanadi;\nb) quyi sudlarning sudlov faoliyati ustidan nazorat olib boradi;\nc) Prezidentning taqdimiga binoan Senat tomonidan saylanish tartibi qo'llaniladi;\nd) referendumga chiqarilayotgan masalalar bo'yicha xulosa beradi;\ne) raisi besh yillik muddatga saylanadi;\nf) raisi va uning o'rinbosarlari Senat tomonidan saylanadi",
+   "options": [
+    "I – a, d; II – c, f; III – b, e",
+    "I – a, d; II – b, f; III – c, e",
+    "I – a, b; II – d, f; III – c, e",
+    "I – d, f; II – a, b; III – c, e"
+   ],
+   "answer": 1
+  }
+ ]
+}

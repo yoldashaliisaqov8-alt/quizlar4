@@ -1,0 +1,298 @@
+{
+ "title": "Huquq 8-sinf · 14-dars. Huquq tarmoqlari (sohalari)",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Huquq — ezgulik va adolatlilik san'atidir” — ushbu fikr muallifi kim?",
+   "options": [
+    "Monteskyo",
+    "Ulpian",
+    "Sitseron",
+    "Aflotun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Huquq sohasi nimaning tarkibiy qismi hisoblanadi?",
+   "options": [
+    "Huquq institutining",
+    "Huquq tizimining",
+    "Huquqiy munosabatning",
+    "Huquq normasining"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Huquqning ichki tuzilishi bo'lib, huquq normalari, huquq institutlari va huquq sohalarining qat'iy izchillikda joylashgan tartibi” — bu nima?",
+   "options": [
+    "Huquq manbasi",
+    "Huquq sohasi",
+    "Huquq tizimi",
+    "Huquq instituti"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Huquq tizimi, avvalambor, nimalarga ajratiladi?",
+   "options": [
+    "Huquqiy munosabatlarga",
+    "Huquq normalariga",
+    "Qonun va qonunosti hujjatlariga",
+    "Huquq tarmoqlari (sohalari)ga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Tizim” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "Bir-biriga bog'liq bo'lmagan qoidalar to'plami",
+    "Huquqiy hujjatlar ro'yxati",
+    "O'zaro bog'liq va uzviy tartibda bo'lgan narsa-hodisalar birligi, majmuyi",
+    "Davlat organlarining ierarxiyasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Huquq tizimining tarkibiy qismlari qanday tartibda shakllanadi?",
+   "options": [
+    "Huquq institutlari → huquq tizimi → huquq normalari",
+    "Huquq tizimi → huquq sohalari → huquq normalari",
+    "Huquq sohalari → huquq normalari → huquq institutlari",
+    "Huquq normalari → huquq institutlari → huquq sohalari → huquq tizimi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“O'zaro bog'liq bo'lgan bir turdagi ijtimoiy munosabatlarni tartibga soluvchi huquq normalari guruhi” — bu nima?",
+   "options": [
+    "Huquq tizimi",
+    "Huquq sohasi",
+    "Oliy ta'lim muassasasi",
+    "Huquq instituti"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikka ko'ra fuqarolik huquqi sohasiga qaysi institut misol qilib keltirilgan?",
+   "options": [
+    "Mulk huquqi instituti",
+    "Prezidentlik instituti",
+    "Nikoh instituti",
+    "Javobgarlik instituti"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquq sohalarini ularga tegishli huquq institutlari bilan TO'G'RI moslashtiring!\nJADVAL0:\n1 | Konstitutsiyaviy huquq | a | Nikoh instituti\n2 | Jinoyat huquqi | b | Mulk huquqi instituti\n3 | Oila huquqi | c | Prezidentlik instituti\n4 | Fuqarolik huquqi | d | Davlatga qarshi jinoyatlar instituti",
+   "options": [
+    "1-c, 2-a, 3-d, 4-b",
+    "1-b, 2-d, 3-a, 4-c",
+    "1-d, 2-c, 3-a, 4-b",
+    "1-c, 2-d, 3-a, 4-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Ijtimoiy munosabatlarning muayyan sohasini tartibga soluvchi huquq normalari va huquq institutlarining yig'indisi” — bu nima?",
+   "options": [
+    "Huquq sohasi",
+    "Huquq normasi",
+    "Huquq manbasi",
+    "Huquq instituti"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston huquq tizimi sohalari shartli ravishda qanday guruhlarga ajratiladi?",
+   "options": [
+    "Davlat va xususiy huquq sohalariga",
+    "Yozma va odat huquqi sohalariga",
+    "Ichki va xalqaro huquq sohalariga",
+    "Asosiy va yordamchi huquq sohalariga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Milliy huquq sohalari qanday ikki asosiy guruhga ajratiladi?",
+   "options": [
+    "Fuqarolik va jinoiy",
+    "Ichki va tashqi",
+    "Ommaviy va xususiy",
+    "Moddiy va protsessual"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Huquqiy munosabat ishtirokchilarining huquq va majburiyatlarini qaysi huquq belgilaydi?",
+   "options": [
+    "Moddiy huquq",
+    "Protsessual huquq",
+    "Odat huquqi",
+    "Xalqaro huquq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Huquq va majburiyatlarni amalga oshirish tartibini qaysi huquq belgilab beradi?",
+   "options": [
+    "Moddiy huquq",
+    "Protsessual huquq",
+    "Oila huquqi",
+    "Konstitutsiyaviy huquq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mulkiy nizolar kelib chiqqanda fuqarolik ishlari bo'yicha sudga murojaat qilish tartibini qaysi huquq tartibga soladi?",
+   "options": [
+    "Fuqarolik protsessual huquqi",
+    "Ma'muriy huquq",
+    "Fuqarolik huquqi",
+    "Iqtisodiy protsessual huquq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikdagi jadvalga ko'ra moddiy huquq tarmoqlari TO'G'RI berilgan javobni aniqlang!\nI. Konstitutsiyaviy huquq; II. Jinoyat-protsessual huquqi; III. Oila huquqi; IV. Mehnat huquqi; V. Iqtisodiy protsessual huquq; VI. Moliya huquqi.",
+   "options": [
+    "I, II, IV va V",
+    "I, III, IV va VI",
+    "II, III, V va VI",
+    "II, IV, V va VI"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Moddiy huquq sohalarini ular tartibga soladigan munosabatlar bilan TO'G'RI moslashtiring!\nJADVAL0:\n1 | Mehnat huquqi | a | Oila va nikoh bilan bog'liq munosabatlar\n2 | Fuqarolik huquqi | b | Tabiatni muhofaza qilish jarayonidagi munosabatlar\n3 | Oila huquqi | c | Ish beruvchi va xodimlar o'rtasidagi mehnat munosabatlari\n4 | Ekologiya huquqi | d | Mulk bilan aloqador hamda nomulkiy munosabatlar",
+   "options": [
+    "1-c, 2-a, 3-d, 4-b",
+    "1-d, 2-c, 3-a, 4-b",
+    "1-c, 2-d, 3-b, 4-a",
+    "1-c, 2-d, 3-a, 4-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qanday xatti-harakatlar jinoyat ekanligini, ularni sodir etganlar qanday jazolanishini belgilaydigan huquq sohasi qaysi?",
+   "options": [
+    "Jinoyat huquqi",
+    "Ma'muriy huquq",
+    "Fuqarolik huquqi",
+    "Jinoyat-protsessual huquqi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston milliy qonunchiligiga ko'ra protsessual huquq sohasi nechta guruhga ajratiladi?",
+   "options": [
+    "Beshta",
+    "Uchta",
+    "To'rtta",
+    "Ikkita"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "image": "img/h8-09-20.jpg"
+  },
+  {
+   "q": "Ishtirokchilari, asosan, jismoniy shaxslar bo'lgan protsessual huquq sohasi qaysi?",
+   "options": [
+    "Fuqarolik protsessual huquqi",
+    "Ma'muriy protsessual huquq",
+    "Jinoyat-protsessual huquqi",
+    "Iqtisodiy protsessual huquq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Asosan yuridik shaxslar o'rtasidagi nizolarni sud tartibida hal qilishni nazarda tutuvchi protsessual huquq sohasi qaysi?",
+   "options": [
+    "Fuqarolik protsessual huquqi",
+    "Iqtisodiy protsessual huquq",
+    "Jinoyat-protsessual huquqi",
+    "Ma'muriy protsessual huquq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sudlov, tergov, prokuratura organlarining jinoyat ishlarini tergov qilish va sudda ko'rib chiqish faoliyatini qaysi soha tartibga soladi?",
+   "options": [
+    "Ma'muriy protsessual huquq",
+    "Jinoyat huquqi",
+    "Jinoyat-protsessual huquqi",
+    "Fuqarolik protsessual huquqi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlat boshqaruvi sohasidagi alohida ishlarni hal qilishda yuzaga keladigan munosabatlarni, ijro etuvchi hokimiyat organlari faoliyatini tartibga soluvchi protsessual soha qaysi?",
+   "options": [
+    "Jinoyat-protsessual huquqi",
+    "Konstitutsiyaviy huquq",
+    "Iqtisodiy protsessual huquq",
+    "Ma'muriy protsessual huquq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Davlatlar, xalqaro tashkilotlar o'rtasidagi xalqaro huquqiy munosabatlarni nima tartibga soladi?",
+   "options": [
+    "Fuqarolik huquqi",
+    "Xalqaro huquq",
+    "Ma'muriy huquq",
+    "Konstitutsiyaviy huquq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xalqaro huquq tizimi tarmoqlari qatoriga kirMAYDIGAN javobni aniqlang!",
+   "options": [
+    "Diplomatik va konsullik huquqi",
+    "Soliq huquqi",
+    "Xalqaro dengiz huquqi",
+    "Xalqaro tashkilotlar huquqi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xalqaro huquqning fan sifatida rivojlanishiga katta hissa qo'shgan golland huquqshunosi va uning asarini aniqlang!",
+   "options": [
+    "Tomas Gobbs, “Leviafan”",
+    "Sharl Monteskyo, “Qonunlar ruhi”",
+    "Hyugo Grotiyus, “Urush va tinchlik huquqi”",
+    "Jan Jak Russo, “Ijtimoiy shartnoma”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mamlakat rahbarlarining uchrashuvlari hamda elchixona va vakolatxonalar ochish bilan bog'liq munosabatlar qaysi huquq tarmog'i bilan tartibga solinadi?",
+   "options": [
+    "Diplomatik va konsullik huquqi",
+    "Ma'muriy huquq",
+    "Xalqaro dengiz huquqi",
+    "Xalqaro xavfsizlik huquqi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni toping.\na) mehnat huquqi;\nb) jinoyat-protsessual huquqi;\nc) huquq va majburiyatlarni belgilaydi;\nd) milliy huquq sohalari guruhi;\ne) O'zbekiston ichki huquq tizimiga kiradi.\nf) huquq va majburiyatlarni amalga oshirish tartibini belgilaydi;",
+   "options": [
+    "I-a, c; II-d, e; III-b, f",
+    "I-b, f; II-a, c; III-d, e",
+    "I-a, c; II-b, f; III-d, e",
+    "I-a, d; II-b, f; III-c, e"
+   ],
+   "answer": 2,
+   "image": "img/h8-09-29.jpg"
+  }
+ ]
+}

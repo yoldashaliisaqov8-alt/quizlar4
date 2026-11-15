@@ -1,0 +1,157 @@
+{
+ "title": "Huquq 10-sinf · 27-dars. Xalqaro hamjamiyatning vujudga kelishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Agar biz butun dunyoda tinchlik o'rnatishni istasak, ishni bolalar tarbiyasidan boshlashimiz zarur” degan fikr muallifi kim?",
+   "options": [
+    "Mahatma Gandi",
+    "Uinston Cherchill",
+    "Kofi Annan",
+    "Nelson Mandela"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gellap (Gallup) Xalqaro tadqiqot markazining 2017-yilgi xavfsizlik reytingida 142 ta davlat ichida eng xavfsiz 5 ta davlat qatoriga kirMAYDIGAN davlatni aniqlang!",
+   "options": [
+    "O'zbekiston",
+    "Singapur",
+    "Norvegiya",
+    "Shveysariya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jahondagi davlatlar va ularda yashovchi insonlarning global muammolarni hamkorlikda hal qilishda umumiy maqsad yo'lida faoliyat ko'rsatish birligini anglatuvchi tushuncha qaysi?",
+   "options": [
+    "Xalqaro hamjamiyat",
+    "Xalqaro tashkilot",
+    "Internatsionalizm",
+    "Suverenitet"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xalqaro hamjamiyatga oid TO'G'RI fikrni aniqlang!",
+   "options": [
+    "Xalqaro hamjamiyatni Xavfsizlik Kengashi boshqaradi",
+    "Xalqaro hamjamiyat faqat Yevropa davlatlaridan iborat",
+    "Xalqaro hamjamiyat xalqaro tashkilot emas va uni boshqarib turuvchi yagona tuzilma yo'q",
+    "Xalqaro hamjamiyat — BMTning boshqa nomi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bugungi xalqaro hamjamiyat qaysi voqeadan keyin vujudga kelgan?",
+   "options": [
+    "Vena kongressidan keyin",
+    "Versal shartnomasidan keyin",
+    "Vestfaliya sulhidan keyin",
+    "BMT tashkil etilgandan keyin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vestfaliya sulhi qaysi urushdan so'ng imzolangan?",
+   "options": [
+    "Birinchi jahon urushi (1914–1918)",
+    "O'ttiz yillik urush (1618–1648)",
+    "Yuz yillik urush (1337–1453)",
+    "Yetti yillik urush (1756–1763)"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davlatning ichki va tashqi ishlarda mustaqil ekanini anglatuvchi tushuncha qaysi?",
+   "options": [
+    "Ratifikatsiya",
+    "Suverenitet",
+    "Internatsionalizm",
+    "Implementatsiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekistonning suveren demokratik davlat ekanligi Konstitutsiyaning qaysi moddasida aks etgan?",
+   "options": [
+    "19-moddasida",
+    "15-moddasida",
+    "1-moddasida",
+    "17-moddasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Markazda ko'rsatilgan ma'lumotga MOS KELMAYDIGAN javobni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "image": "img/h10-19-09.jpg"
+  },
+  {
+   "q": "Bugungi xalqaro hamjamiyat kimlardan tashkil topgan? I. davlatlar; II. xalqaro tashkilotlar; III. nohukumat tashkilotlar; IV. transmilliy korporatsiyalar; V. shaxslar",
+   "options": [
+    "I, II, III, IV, V",
+    "I, II",
+    "Faqat I",
+    "I, II, IV"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xalqlar, millatlar ozodligi, mustaqilligi, huquqiy tengligiga asoslangan birdamlik va o'zaro hamkorlik prinsipi qanday ataladi?",
+   "options": [
+    "Globalizm",
+    "Internatsionalizm",
+    "Suverenitet",
+    "Millatchilik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xalqaro munosabatlarni vujudga keltiruvchi omillarni ularning mazmuni bilan TO'G'RI moslashtiring! 1 Siyosiy omil a Millatchilik va diniy qarashlarga asoslangan nizolarni bartaraf etish 2 Iqtisodiy omil b Suveren davlatlarning tenglik tamoyiliga asoslanib munosabatga kirishishi 3 Madaniy omil c Eksportni ko'paytirish va dunyo bozorlarini egallash",
+   "options": [
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mamlakatlar o'rtasidagi savdo qoidalarini tartibga soluvchi yagona global tashkilot qaysi?",
+   "options": [
+    "Iqtisodiy hamkorlik tashkiloti",
+    "Jahon banki",
+    "Jahon savdo tashkiloti",
+    "Xalqaro valyuta jamg'armasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiya muqaddimasi qanday so'zlar bilan boshlanadi?",
+   "options": [
+    "“O'zbekiston — suveren davlat”",
+    "“Xalq davlat hokimiyatining yagona manbaidir”",
+    "“Biz, O'zbekiston xalqi”",
+    "“Biz, O'zbekistonning yagona xalqi”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sovet Ittifoqi va AQSH o'rtasidagi ziddiyatlar avvalo nimaga borib taqalar edi?",
+   "options": [
+    "Hududiy nizolarga",
+    "Sotsializm va kapitalizm mafkuralari o'rtasidagi ziddiyatga",
+    "Til masalasiga",
+    "Diniy qarashlardagi ziddiyatga"
+   ],
+   "answer": 1
+  }
+ ]
+}

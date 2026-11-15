@@ -1,0 +1,136 @@
+{
+ "title": "Huquq 10-sinf · 17-dars. Fuqarolik huquqi asoslari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Vijdoningga teskari yurma va haqiqatga zid narsani gapirma” degan nasihat muallifi kim?",
+   "options": [
+    "Mark Avreliy",
+    "Konfutsiy",
+    "Seneka",
+    "Pifagor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqarolarning shaxsiy, siyosiy, iqtisodiy, ijtimoiy, madaniy va ekologik huquqlari qaysi huquq sohasi bilan tartibga solinadi?",
+   "options": [
+    "Fuqarolik huquqi",
+    "Oila huquqi",
+    "Ma'muriy huquq",
+    "Konstitutsiyaviy huquq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fuqarolik huquqi asosan qanday munosabatlarni tartibga soladi?",
+   "options": [
+    "Faqat jinoiy munosabatlarni",
+    "Davlat organlari o'rtasidagi munosabatlarni",
+    "Mulkiy va nomulkiy munosabatlarni",
+    "Faqat mehnat munosabatlarini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Do'kondan mahsulot sotib olish, transportdan foydalanganlik uchun haq to'lash kabi munosabatlar qanday xarakterga ega?",
+   "options": [
+    "Mulkiy xarakterga",
+    "Siyosiy xarakterga",
+    "Ma'muriy xarakterga",
+    "Nomulkiy xarakterga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Inson sha'ni, qadr-qimmati, obro'-e'tibori, mualliflik huquqi kabi munosabatlar qanday ataladi?",
+   "options": [
+    "Majburiyat munosabatlari",
+    "Mulkiy munosabatlar",
+    "Mehnat munosabatlari",
+    "Nomulkiy munosabatlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shaxsiy nomulkiy munosabatlarning mulkiy munosabatlardan farqi nimada?",
+   "options": [
+    "Pul bilan ifodalanmaydi va shaxsning o'zi bilan bog'liq bo'ladi",
+    "Faqat davlat ishtirokida vujudga keladi",
+    "Har doim notarial tasdiqlanadi",
+    "Faqat yozma shaklda tuziladi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqarolar va yuridik shaxslarning fuqarolik huquq va burchlarini belgilash, o'zgartirish yoki bekor qilishga qaratilgan harakatlar nima deb ataladi?",
+   "options": [
+    "Bitimlar",
+    "Da'volar",
+    "Vakolatlar",
+    "Huquqbuzarliklar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bitim turlarini ularning tavsifi bilan TO'G'RI moslashtiring! 1 Bir taraflama a Uch va undan ko'p tarafning bitim kelishuvi bilan tuziladi 2 Ikki taraflama b Bir tarafning xohishi bilan bitim tuziladi 3 Ko'p taraflama c Ikki tarafning xohishi bilan bitim tuziladi",
+   "options": [
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi holatda bitim og'zaki tuzilishi mumkin?",
+   "options": [
+    "Faqat yuridik shaxslar o'rtasida",
+    "Yozma shakl belgilanmagan va bitim tuzilayotgan vaqtning o'zidayoq bajariladigan bo'lsa",
+    "Har qanday holatda",
+    "Faqat notarius ishtirokida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vakilni vakolat beruvchi shaxs bilan bog'laydigan huquqiy munosabat nima?",
+   "options": [
+    "Vasiylik",
+    "Homiylik",
+    "Notariat",
+    "Vakillik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi shaxslar tomonidan tuzilgan bitim haqiqiy hisoblanmaydi?",
+   "options": [
+    "Yuridik shaxs tomonidan",
+    "O'n to'rt yoshga to'lmagan shaxs va muomalaga layoqatsiz shaxs tomonidan",
+    "Vakil tomonidan",
+    "Voyaga yetgan fuqaro tomonidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jismoniy va yuridik shaxslarning huquqlari hamda qonuniy manfaatlarini himoya qilishni ta'minlashga da'vat etilgan huquqiy institut qaysi?",
+   "options": [
+    "Vasiylik",
+    "Prokuratura",
+    "Notariat",
+    "Advokatura"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlat notarial idoralari qaysi organ tomonidan tashkil etiladi va tugatiladi?",
+   "options": [
+    "Oliy sud tomonidan",
+    "Adliya vazirligi tomonidan",
+    "Vazirlar Mahkamasi tomonidan",
+    "Bosh prokuratura tomonidan"
+   ],
+   "answer": 1
+  }
+ ]
+}

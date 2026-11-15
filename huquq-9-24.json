@@ -1,0 +1,167 @@
+{
+ "title": "Huquq 9-sinf · 32-dars. O'zbekiston respublikasining sud hokimiyati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "\"Sudyaning ishi qonunni hadya etish emas, balki uni to'g'ri talqin qilishdir\" degan fikr muallifini aniqlang!",
+   "options": [
+    "Frensis Bekon",
+    "Monteskye",
+    "Jan Le Ron Alamber",
+    "Mahatma Gandi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston Respublikasi sud tizimi tarkibiga kirMAYDIGAN organni aniqlang!",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "image": "img/h9-24-02.jpg"
+  },
+  {
+   "q": "Konstitutsiyaviy sud sudyalari qanday tartibda saylanadi?",
+   "options": [
+    "Xalq tomonidan bevosita",
+    "Senat tomonidan Sudyalar oliy kengashi tavsiyasi asosida Prezident taqdimiga binoan",
+    "Qonunchilik palatasi tomonidan",
+    "Prezident tomonidan tayinlanadi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konstitutsiyaviy sud raisi va uning o'rinbosari necha yil muddatga saylanadi?",
+   "options": [
+    "7 yil",
+    "10 yil",
+    "4 yil",
+    "5 yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyaviy sud qarorlarining xususiyati TO'G'RI ko'rsatilgan javobni toping!",
+   "options": [
+    "Oliy sudga shikoyat qilinishi mumkin",
+    "Senat tasdiqlagandan so'ng kuchga kiradi",
+    "Qat'iy bo'lib, shikoyat qilinmaydi va e'lon qilingan kundan kuchga kiradi",
+    "Prezident imzolagandan so'ng kuchga kiradi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiyaviy sud qonunchilik tashabbusi huquqini qaysi organga nisbatan amalga oshiradi?",
+   "options": [
+    "Qonunchilik palatasiga",
+    "Senatga",
+    "Vazirlar Mahkamasiga",
+    "Prezidentga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oliy sud raisi necha yil muddatga saylanadi?",
+   "options": [
+    "7 yil",
+    "3 yil",
+    "10 yil",
+    "5 yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oliy sud raisi lavozimini bir shaxs ketma- ket necha muddatdan ortiq egallay olmaydi?",
+   "options": [
+    "Uch muddatdan ortiq",
+    "Bir muddatdan ortiq",
+    "Ikki muddatdan ortiq",
+    "Cheklov yo'q"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Harbiy sudlar tizimi nimalardan iborat?",
+   "options": [
+    "Faqat Harbiy suddan",
+    "O'zbekiston Respublikasi Harbiy sudi va hududiy harbiy sudlar",
+    "Oliy sud va viloyat sudlari",
+    "Harbiy sud va ma'muriy sudlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tuman darajasidagi sudlar TO'G'RI ko'rsatilgan javobni toping!",
+   "options": [
+    "Fuqarolik ishlari bo'yicha, jinoyat ishlari bo'yicha va iqtisodiy tuman (shahar) sudlari",
+    "Oliy va ma'muriy sudlar",
+    "Faqat jinoyat ishlari bo'yicha sudlar",
+    "Konstitutsiyaviy va harbiy sudlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sudyalarga nisbatan qaysi taqiq Konstitutsiyada belgilanmagan?",
+   "options": [
+    "Haq to'lanadigan boshqa faoliyat turi bilan shug'ullanish",
+    "Senator yoki deputat bo'lish",
+    "Ilmiy va pedagogik faoliyat bilan shug'ullanish",
+    "Siyosiy partiyalarga a'zo bo'lish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sudyalar ilmiy, ijodiy va pedagogik faoliyatdan tashqari haq to'lanadigan faoliyat bilan shug'ullana oladimi?",
+   "options": [
+    "Faqat Prezident ruxsati bilan",
+    "Faqat tadbirkorlik bilan",
+    "Ha, cheklovsiz",
+    "Yo'q, shug'ullana olmaydi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sudyalarni tanlash va lavozimga tavsiya etishda ishtirok etuvchi organ qaysi?",
+   "options": [
+    "Sudyalar oliy kengashi",
+    "Markaziy saylov komissiyasi",
+    "Bosh prokuratura",
+    "Adliya vazirligi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sudlarni ular ko'radigan ishlar bilan TO'G'RI moslashtiring! 1 Konstitutsi a Xo'jalik nizolari yaviy sud 2 Ma'muriy b Qonunlarning Konstitutsiyaga sudlar muvofiqligi 3 Iqtisodiy c Davlat organlari bilan fuqarolar sudlar o'rtasidagi ommaviy-huquqiy nizolar",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-b, 2-c, 3-a"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sud hokimiyati qaysi hokimiyatlardan mustaqil holda ish yuritadi?",
+   "options": [
+    "Faqat siyosiy partiyalardan",
+    "Faqat ijro etuvchi hokimiyatdan",
+    "Qonun chiqaruvchi va ijro etuvchi hokimiyatdan, siyosiy partiyalardan, fuqarolik jamiyatining boshqa institutlaridan",
+    "Hech qaysi hokimiyatdan mustaqil emas"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sud-huquq islohotlarining asosiy g'oyasi sifatida qaysi tamoyil ilgari surilgan?",
+   "options": [
+    "\"Inson – jamiyat uchun\"",
+    "\"Kuchli davlatdan – kuchli fuqarolik jamiyati sari\"",
+    "\"Qonun – hammadan ustun\"",
+    "\"Davlat – bosh islohotchi\""
+   ],
+   "answer": 1
+  }
+ ]
+}
