@@ -1,0 +1,756 @@
+{
+ "title": "8-sinf · Yuz yillik urush: sabablari, yakunlari va oqibatlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "”Yuz yillik urush” qaysi davlatlar o'rtasida bo'lib o'tgan edi.",
+   "options": [
+    "Angliya va Rossiya",
+    "Fransiya va Ispaniya",
+    "Angliya va Fransiya",
+    "Fransiya va Rossiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "”Yuz yillik urush” nechanchi yillarda bo'lib o'tganligini aniqlang.",
+   "options": [
+    "1309-1377",
+    "1337-1453",
+    "1340-1435",
+    "1380-1422"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Angliya va Fransiya o'rtasida “Yuz yillik urush”ning boshlanishiga sabab bo'lgan hududlarni aniqlang.",
+   "options": [
+    "Normandiya va Burgundiya",
+    "Akvitaniya va Avinyon",
+    "Akvitaniya va Flandriya",
+    "Normandiya va Flandriya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Akvitaniyadan Angliyaga nimalar olib ketilganini aniqlang.",
+   "options": [
+    "Vino, meva, ziravorlar",
+    "Vino, meva, zotdor otlar",
+    "Zeb-ziynat buyumlari, vino, ziravorlar",
+    "Ziravorlar, meva, qurollar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi hudud masalasida Angliya va Fransiya o'rtasida raqobat paydo bo'lgan edi.",
+   "options": [
+    "Akvitaniya",
+    "Normandiya",
+    "Flandriya",
+    "Burgundiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sanoat hududi sifatida inglizlarning jun xomashyosisiz ish ko'ra olmagan hududni aniqlang.",
+   "options": [
+    "Akvitaniya",
+    "Normandiya",
+    "Flandriya",
+    "Burgundiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1314-yilda vafot etgan Fransiya qirolini toping.",
+   "options": [
+    "Filipp II",
+    "Filipp IV",
+    "Filipp VI",
+    "Lyudovik VII"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Filipp IV ning vafotidan so'ng taxtga o'tirgan hukmdorni aniqlang.",
+   "options": [
+    "Filipp II",
+    "Eduard III",
+    "Filipp VI",
+    "Lyudovik VII"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Filipp VI qaysi xonadonga mansub edi.",
+   "options": [
+    "Kapetinglar",
+    "Karolinglar",
+    "Valualar",
+    "Lankasterlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Filipp IV ning nabirasi ya'ni qizining o'g'li bo'lgan shaxsni aniqlang.",
+   "options": [
+    "Filipp II",
+    "Eduard III",
+    "Filipp VI",
+    "Lyudovik VII"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Filipp IV ning vafotidan so'ng ochiqdan-ochiq Fransiya taxtiga da'vogarlik qilgan shaxsni aniqlang.",
+   "options": [
+    "Filipp II",
+    "Eduard III",
+    "Filipp VI",
+    "Lyudovik VII"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eduard III ning taxtga bo'lgan da'vosiga fransuz huquqshunoslari qaysi to'plam bo'yicha xulosa beradilar.",
+   "options": [
+    "Sali haqiqati",
+    "Yevropa qonunlari",
+    "Rim ahdnomasi",
+    "Konstantinopol solnomasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eduard III ning taxtga bo'lgan da'vosiga fransuz huquqshunoslari nima deb xulosa beradilar.",
+   "options": [
+    "Boshqa davlatdan bo'lgan shahzoda taxtga da'vogarlik qilolmaydi deydi",
+    "Chunki Eduard III da'vogarlik qilib boshlaguncha, Filipp VI taxtga o'tirib bo'lgan edi",
+    "Ayol tomonidan hisoblangan avlod taxtga da'vogarlik qilolmaydi deydi",
+    "Ular “Sali haqiqati”ni o'zgartirishadi va uni Filipp VI foydasiga moslashtirishadi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rasman Angliyaning hujumi bilan boshlangan urush qachon yuz berganini aniqlang.",
+   "options": [
+    "1337-yil",
+    "1340-yil",
+    "1346-yil",
+    "1347-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachonga kelib inglizlar shiddatli harbiy harakatlarni amalga oshirib, fransuzlar flotini tor-mor keltirdi.",
+   "options": [
+    "1337-yil",
+    "1340-yil",
+    "1346-yil",
+    "1347-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Inglizlar qachondan boshlab dengizda hukmron flotga aylanganini aniqlang.",
+   "options": [
+    "1337-yil",
+    "1340-yil",
+    "1346-yil",
+    "1347-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1346-yilda bo'lgan jang qayerda bo'lib o'tganini aniqlang.",
+   "options": [
+    "Kale portida",
+    "Puatye shahri yonida",
+    "Kresi yaqinida",
+    "Azenkur yaqinida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi urush fransuz ritsarlarining shijoati bilan boshlandi va ritsarlar jangga o'zlarining jangovar qobiliyatlarini namoyish qilish imkoniyati sifatida qaradilar.",
+   "options": [
+    "Kale portida",
+    "Puatye shahri yonida",
+    "Kresi yaqinida",
+    "Azenkur yaqinida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kresi jangida jasorat ko'rsatgan piyoda askarlar qanday toifadagi insonlardan iborat edi.",
+   "options": [
+    "Savdogar",
+    "Ruhoniy",
+    "Mulkdor shaharlik",
+    "Dehqon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fransuzlar mag'lubiyatining asosiy sababi nima edi.",
+   "options": [
+    "Ritsarlarning umumiy safda turib jang qilish qobiliyatiga ega emasligi va qo'shinda tartib- intizomning yo'qligi edi",
+    "Qo'shinning yagona umumiy rahbarga bo'ysunmasligi",
+    "Inglizlarning to'satdan kutilmaganda hujumi tufayli fransuzlarning sarosimaga tushib qolishi",
+    "Fransuz qo'mondonining inglizlar tomonidan o'ldirilishi tufayli"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Angliyaning erkin dehqonlardan tashkil topgan piyoda askarlari nima deb nomlanganini aniqlang.",
+   "options": [
+    "Yanicharlar",
+    "Yomenlar",
+    "Lanskenextlar",
+    "Jandarmlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Angliya kamonchilari o'qni qancha masofaga ota olgan.",
+   "options": [
+    "200 qadam",
+    "300 qadam",
+    "600 qadam",
+    "800 qadam"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Angliya kamonchilari otgan o'q qancha masofadan ritsarni teshib o'tar edi.",
+   "options": [
+    "200 qadam",
+    "300 qadam",
+    "600 qadam",
+    "800 qadam"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kresi yaqinidagi jangda inglizlarning g'alabasini ta'minlagan omilni aniqlang.",
+   "options": [
+    "Fransuzlarning sarosimaga tushib qolishi",
+    "Intizomli kamonchilar bo'linmasining mavjudligi",
+    "Ingliz ritsarlari tomonidan Fransuz qirolining o'ldirilishi",
+    "Fransuzlarga qo'yilgan tuzoq natijasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yuz yillik urush uslubini yangilagan qurolni aniqlang.",
+   "options": [
+    "Miltiq",
+    "Uzun kamon",
+    "Qilich",
+    "Arbalet"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ingliz qiroli Eduard III Kale portini bosib olgan vaqtni aniqlang.",
+   "options": [
+    "1337-yil",
+    "1340-yil",
+    "1346-yil",
+    "1347-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Puatye shahri yaqinidagi jang qachon bo'lib o'tganligini aniqlang.",
+   "options": [
+    "1356-yil",
+    "1358-yil",
+    "1346-yil",
+    "1347-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Puatye shahri qaysi daryo janubida joylashgan.",
+   "options": [
+    "Sena",
+    "Luara",
+    "Marna",
+    "Temza"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Puatye shahri yaqinidagi jangda qaysi Fransiya qiroli asirga olinadi.",
+   "options": [
+    "Ioann Saxiy",
+    "Filipp II",
+    "Filipp IV",
+    "Filipp VI"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransuz shahzodasi Filipp qachon asirga tushgan edi.",
+   "options": [
+    "1356-yil",
+    "1358-yil",
+    "1346-yil",
+    "1347-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Puatye jangidan keyin Fransiyaning qaysi qismlari inglizlar qo'liga o'tib ketadi.",
+   "options": [
+    "Shimoliy va sharqiy",
+    "G'arbiy va shimoliy",
+    "Janubiy va shimoliy",
+    "Sharqiy va janubiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ingliz qo'shinlari Parijgacha yetib borguncha Fransiyaning qaysi qismini talagan edilar.",
+   "options": [
+    "Janubiy",
+    "G'arbiy",
+    "Shimoliy",
+    "Sharqiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fransiyada toifalar o'rtasidagi nizo va ziddiyatlarni yanada keskinlashtirib, siyosiy tanglikni yuzaga keltirgan jang qachon bo'lib o'tgan edi.",
+   "options": [
+    "1356-yil",
+    "1358-yil",
+    "1346-yil",
+    "1347-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Asirga olingan Ioann Saxiyning o'rniga tayinlangan Fransiya qirolini aniqlang.",
+   "options": [
+    "Filipp",
+    "Filipp II",
+    "Eduard III",
+    "Dofn Karl"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fransiyaning Bove viloyatida qachon dehqonlar qo'zg'oloni boshlangan edi.",
+   "options": [
+    "1356-yil",
+    "1358-yil",
+    "1346-yil",
+    "1347-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bove viloyatida boshlangan qo'zg'alon nima deb nom olgan edi.",
+   "options": [
+    "Uot Tayler qo'zg'aloni",
+    "Gilyom Kal qo'zg'aloni",
+    "Janna d'Ark qo'zg'aloni",
+    "Jakeriya qo'zg'aloni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jakeriya qo'zg'aloni qisqa vaqt ichida qayerlarga tarqaldi.",
+   "options": [
+    "Sena, Marna, Il de Frans, Shampan",
+    "Sena, Marna, Luara, Puatye",
+    "Sena, Marna, Shampan, Akvitaniya",
+    "Sena, Marna, Flandriya, Marna"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jakeriya qo'zg'alonida qancha odam ishtirok etgan edi.",
+   "options": [
+    "100 ming",
+    "150 ming",
+    "200 ming",
+    "20 ming"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransiya qirolining gerbida nima tasvirlangan edi.",
+   "options": [
+    "Burgut",
+    "Qizil atirgul",
+    "Bo'ri",
+    "Oq nilufar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jakeriya qo'zg'aloniga boshchilik qilgan dehqonning ismini aniqlang.",
+   "options": [
+    "Uot Tayler",
+    "Gilyom Kal",
+    "Janna d'Ark",
+    "Jak"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sulh tuzish bahonasi bilan asirga olingan Gilyom Kalga nisbatan zodagonlar qanday chora ko'rishdi.",
+   "options": [
+    "Uning boshiga qizdirilgan temir halqa kiydirishadi",
+    "“Biz jaklar qiroliga shunday tarzda toj kiydiramiz” deb mazax qilishadi",
+    "Uni gulxanda yondirishadi",
+    "A va B javoblar to'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ritsarlar tomonidan qirib tashlangan dehqonlar sonini aniqlang.",
+   "options": [
+    "100 ming",
+    "150 ming",
+    "200 ming",
+    "20 ming"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1360-yilda inglizlar bilan sulh tuzgan Fransiya qirolini aniqlang.",
+   "options": [
+    "Filipp",
+    "Filipp II",
+    "Karl V",
+    "Dofen Karl"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1360-yilgi sulh natijasida Fransiyaning qaysi qismlari Angliya tasarrufiga o'tgan edi.",
+   "options": [
+    "Shimoliy va sharqiy",
+    "Shimoliy va g'arbiy",
+    "Janubiy va shimoliy",
+    "Sharqiy va janubiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Karl V islohotlari natijasida qachon bo'lib o'tgan jangda Angliya mag'lubiyatga uchraydi.",
+   "options": [
+    "1360-yil",
+    "1358-yil",
+    "1369-yil",
+    "1347-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1415-yilda bo'lib o'tgan jang qaysi hududda sodir bo'lgan edi.",
+   "options": [
+    "Kale portida",
+    "Puatye shahri yonida",
+    "Kresi yaqinida",
+    "Azenkur yaqinida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1415-yilgi jangdan so'ng inglizlar Fransiyaning qaysi qismini egallaydi.",
+   "options": [
+    "G'arbiy",
+    "Shimoliy",
+    "Sharqiy",
+    "Janubiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fransuzlar uchun haqoratomuz hisoblangan Trua shartnomasi qachon imzolangan edi.",
+   "options": [
+    "1360-yil",
+    "1420-yil",
+    "1415-yil",
+    "1369-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Inglizlar qachon Orleanni qamal qilishga kirishadilar.",
+   "options": [
+    "1428-yil",
+    "1420-yil",
+    "1415-yil",
+    "1369-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransiyaning muhim strategik shahrini belgilang.",
+   "options": [
+    "Flandriya",
+    "Akvitaniya",
+    "Reyms",
+    "Orlean"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Orlean shahri qamali qancha vaqt davom etganini aniqlang.",
+   "options": [
+    "100 kun",
+    "200 kun",
+    "150 kun",
+    "300 kun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xalq qahramoni Janna d'Ark tug'ilgan hududni aniqlang.",
+   "options": [
+    "Puatye",
+    "Flandriya",
+    "Bove",
+    "Domremi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bolaligida Janna d'Arkni nima deb chaqirishgan.",
+   "options": [
+    "Jak",
+    "Jannet",
+    "Janna",
+    "Jenni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "U baland bo'yli, baquvvat va bardoshli bo'lgan. Uning qishlog'iga bir necha marotaba hujumlar uyushtirilgan va u bolaligidan boshlab oddiy xalqning azob-uqubatini ko'rib o'sgan. Keyinchalik u vatanini ozod qilishni niyat qildi, hatto bu istakni “uning ko'ngliga xudo solganligini” ta'kidlagan. Gap kim haqida ketmoqda.",
+   "options": [
+    "Uot Tayler",
+    "Gilyom Kal",
+    "Janna d'Ark",
+    "Jak"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Janna d'Ark maktub yozgan Fransiyaning vaqtinchalik yosh qiroli kim edi.",
+   "options": [
+    "Ioann Saxiy",
+    "Karl V",
+    "Dofin Karl",
+    "Karl VII"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Janna d'Ark necha yoshida qishlog'ini tark etadi.",
+   "options": [
+    "10-yosh",
+    "12-yosh",
+    "16-yosh",
+    "20-yosh"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Janna d'Ark Karl VII bilan uchrashgan hududni aniqlang.",
+   "options": [
+    "Luara",
+    "Senna",
+    "Orlean",
+    "Reyms"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Orlean shahri qamaldan ozod etilgan va Yuz yillik urushda tub burilish yasalgan vaqtni aniqlang.",
+   "options": [
+    "1429-yil",
+    "1430-yil",
+    "1431-yil",
+    "1436-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1422-1461-yillarda kim hukmronlik qilgan.",
+   "options": [
+    "Karl VI",
+    "Filipp II",
+    "Karl V",
+    "Karl VII"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Karl VII qaysi shaharga borib taxtga o'tirgan edi.",
+   "options": [
+    "Orlean",
+    "Flandriya",
+    "Reyms",
+    "Puatye"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachonga kelib Kompen qal'asi uchun bo'lgan janglarda Janna d'Ark Burgundlarga asirga tushadi.",
+   "options": [
+    "1429-yil",
+    "1430-yil",
+    "1431-yil",
+    "1436-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Janna d'Ark qachon gulxanda yondirildi.",
+   "options": [
+    "1429-yil",
+    "1430-yil",
+    "1431-yil",
+    "1436-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Janna d'Ark qaysi shaharda yondirilgan edi.",
+   "options": [
+    "Orlean",
+    "Flandriya",
+    "Reyms",
+    "Ruan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Janna d'Ark oqlanib, sud qarori noqonuniy deb topilgan vaqtni aniqlang.",
+   "options": [
+    "1456-yil",
+    "1430-yil",
+    "1431-yil",
+    "1436-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'n minglab ko'ngillilar qahramonona jang qilgan hududni aniqlang.",
+   "options": [
+    "Reyms",
+    "Normandiya",
+    "Orlean",
+    "Burgundiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fransiya qiroli Karl VII Parijga kirib kelgan vaqtni aniqlang.",
+   "options": [
+    "1456-yil",
+    "1430-yil",
+    "1431-yil",
+    "1436-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1453-yilda inglizlar qayerda so'zsiz taslim bo'ladilar va sulh imzolaydilar.",
+   "options": [
+    "Reyms",
+    "Normandiya",
+    "Orlean",
+    "Bordo"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Angliya Kale port shahrini qachongacha qo'lida tutib qoladi.",
+   "options": [
+    "1456-yil",
+    "1558-yil",
+    "1431-yil",
+    "1436-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1380-1422-yillarda kim hukmronlik qilgan.",
+   "options": [
+    "Karl VI",
+    "Filipp II",
+    "Karl V",
+    "Karl VII"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur Sultoniya shahrini zabt etgandan so'ng, uning ishonchli elchisiga aylangan shaxsni aniqlang.",
+   "options": [
+    "Janna d'Ark",
+    "Gilyom Kal",
+    "Ioann",
+    "Filipp"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ioann qachon Parij shahrida bo'ladi va Amir Temurning maktubini Karl VI ga topshiradi.",
+   "options": [
+    "1456-yil",
+    "1403-yil",
+    "1431-yil",
+    "1436-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Karl VI qachon Amir Temurga javob maktubi yo'llaydi.",
+   "options": [
+    "1456-yil",
+    "1403-yil",
+    "1431-yil",
+    "1436-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Lyusyen Keren va Akmal Saidovga tegishli kitobni aniqlang.",
+   "options": [
+    "”Amir Temur va Fransiya”",
+    "”Samarqandga sayohat kundaligi”",
+    "”Buyuk Temur Tarixi”",
+    "”Fransiya va Movarounnahr”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XV asrdan boshlab qirolning avlodidan bo'lgan taxt vorisi, rasman taxtga chiqish uchun toj kiyish marosimi o'tkazilgunga qadar vaqtinchalik qirol. Atamani izohlang.",
+   "options": [
+    "Domen",
+    "Dofin",
+    "Yomen",
+    "Feod"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Angliyada ingliz dehqonlarining asosiy qismini tashkil qilgan erkin hisoblangan kichik yer egalari. Ular zodagonlardan farqli ravishda yerga ishlov berish bilan mustaqil shug'ullanishgan. Atamani izohlang.",
+   "options": [
+    "Domen",
+    "Dofin",
+    "Yomen",
+    "Feod"
+   ],
+   "answer": 2
+  }
+ ]
+}

@@ -1,0 +1,516 @@
+{
+ "title": "9-sinf · 27-mavzu. Xitoy: qo'zg'olon va urushlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qaysi davrga kelib Xitoyda Chin (Sin) imperiyasi inqirozining belgilari tobora aniqroq namoyon bo'la boshlagan?",
+   "options": [
+    "XVIII asrning oxirlariga",
+    "XIX asrning boshlariga",
+    "XIX asrning o'rtalariga",
+    "XIX asrning oxirlariga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning boshlarida Xitoyda dehqonlarning yer-mulki kimlarning qo'liga o'tib ketgan? 1) Sudxo'rlar; 2) Savdogarlar; 3) Amaldorlar; 4) Chet elliklar.",
+   "options": [
+    "1, 2",
+    "1, 2, 3",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Manchjurlar o'lim bilan tahdid qilish orqali xitoylik erkaklarni Chin hokimiyatiga bo'ysunish ramzi sifatida … .",
+   "options": [
+    "mo'ylovi va soqolini oldirishgan",
+    "sochini butunlay olib tashlashga majburlashgan",
+    "sochini manchjurliklar kokiliga o'xshatib o'rdirishgan",
+    "o'ta oddiy ko'rinadigan kiyim kiydirishgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda imperator Xitoy portlarini tashqi savdo uchun yopiq deb e'lon qilgan?",
+   "options": [
+    "1834-yilda",
+    "1857-yilda",
+    "1839-yilda",
+    "1865-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda Xitoy imperatorining mamlakat portlarini tashqi savdo uchun yopiq deb e'lon qilishi keyinchalik qanday nom olgan?",
+   "options": [
+    "“Yopiq portlar” siyosati",
+    "“Yopiq Xitoy” siyosati",
+    "“Yopiq eshiklar” siyosati",
+    "“Yopiq savdo” siyosati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrda Xitoy portlari tashqi savdo uchun yopilganidan keyin, tashqi savdo faqat qaysi port orqali imperator amaldorlari nazorati ostida olib boriladigan bo'lgan?",
+   "options": [
+    "Shanxay porti",
+    "Gongkong porti",
+    "Makao porti",
+    "Guanchjou porti"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrda inglizlarning “Ost Indiya” kompaniyasi qaysi mamlakatni ikkinchi Hindistonga aylantirishni istayotgan edi?",
+   "options": [
+    "Xitoy",
+    "Koreya",
+    "Yaponiya",
+    "Birma"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Inglizlarning “Ost Indiya” kompaniyasi qaysi yilgacha Xitoy bilan savdoda monopol huquqdan foydalangan?",
+   "options": [
+    "1834-yilgacha",
+    "1857-yilgacha",
+    "1839-yilgacha",
+    "1865-yilgacha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Uzoq yillar Angliya kimlardan Xitoydagi Makao orolini tortib olishga uringan, lekin bu harakatlarni Xitoy hukumati ma'qullamagan, ular norozilik belgisi sifatida birmuncha vaqt inglizlar bilan savdo munosabatlarini to'xtatib ham qo'yishgan?",
+   "options": [
+    "Gollandlardan",
+    "Ispanlardan",
+    "Portugallardan",
+    "Fransuzlardan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrda Xitoyga qarashli qaysi orol Aomin deb atalgan?",
+   "options": [
+    "Matsu oroli",
+    "Gonkong oroli",
+    "Tayvan oroli",
+    "Makao oroli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrning birinchi yarmida Xitoyni “ochish” maqsadida nechta ingliz missiyasi kelgan?",
+   "options": [
+    "Ikkita missiya",
+    "Uchta missiya",
+    "To'rtta missiya",
+    "Beshta missiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrning birinchi yarmida inglizlarning eng katta yutuqlari Xitoyga qo'shni Hindistondan qaysi mahsulotni kiritishni ko'paytirgani bo'lgan?",
+   "options": [
+    "Paxta",
+    "Qoradori",
+    "Choy",
+    "Kanop"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning birinchi yarmida Xitoyga kiritilayotgan barcha ingliz tovarlari narxining yarmidan ko'prog'ini qaysi mahsulot tashkil etar edi?",
+   "options": [
+    "Paxta",
+    "Qoradori",
+    "Choy",
+    "Kanop"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr o'rtalarida Xitoyda qancha aholi yashar edi?",
+   "options": [
+    "200 mln. ga yaqin",
+    "300 mln. ga yaqin",
+    "400 mln. ga yaqin",
+    "500 mln. ga yaqin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asr o'rtalarida Xitoy aholisi Yer shari aholisining qancha qismini tashkil etardi?",
+   "options": [
+    "Salkam 1/2 qismini",
+    "Salkam 1/3 qismini",
+    "Salkam 1/4 qismini",
+    "Salkam 1/5 qismini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Afyun” so'zi kelib chiqqan “abijun” so'zi qaysi tildan olingan?",
+   "options": [
+    "Yunoncha",
+    "Lotincha",
+    "Arabcha",
+    "Forscha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Afyun” so'zi kelib chiqqan “abijun” so'zining ma'nosi nima? 1) “Mudratuvchi”; 2) “Tinchlantiruvchi”; 3) “Uxlatuvchi”.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Afyun qaysi tilda ko'proq “qoradori” deb yuritiladi?",
+   "options": [
+    "Arab tilida",
+    "Fors tilida",
+    "O'zbek tilida",
+    "Hind tilida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Birinchi afyun urushi” qaysi yillarda bo'lib o'tgan?",
+   "options": [
+    "1837–1840-yillarda",
+    "1838–1841-yillarda",
+    "1839–1842-yillarda",
+    "1840–1843-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda Xitoyga afyun kiritilishiga to'sqinlik qilish maqsadida chinlar Kanton hokimi etib Lin Szesyuyni tayinlashgan?",
+   "options": [
+    "1836-yilda",
+    "1837-yilda",
+    "1838-yilda",
+    "1839-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kanton hozirda Xitoyning qaysi provinsiyasi hisoblanadi?",
+   "options": [
+    "Yunnan",
+    "Guandun",
+    "Sichuan",
+    "Shandun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hozirda Guanchjou shahri Xitoyning qaysi provinsiyasi markazi hisoblanadi?",
+   "options": [
+    "Yunnan",
+    "Guandun",
+    "Sichuan",
+    "Shandun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Lin Szesyuy Guandundagi afyun savdosiga qarshi kurash bo'yicha faoliyatini nechta asosiy yo'nalishda olib borgan?",
+   "options": [
+    "Ikkita yo'nalishda",
+    "Uchta yo'nalishda",
+    "To'rtta yo'nalishda",
+    "Beshta yo'nalishda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lin Szesyuy ingliz kemalarining qayerga kelishini taqiqlagan?",
+   "options": [
+    "Guanchjou",
+    "Shanxay",
+    "Makao",
+    "Gongkong"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xitoy gubernatorlaridan biri afyun urushi paytida paroxodlarning g'ildiraklarini … emas, mashinalar aylantirishini o'zi uchun “kashf” etgan.",
+   "options": [
+    "odamlar",
+    "buqalar",
+    "otlar",
+    "tuyalar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda Britaniya hukumati afyun va ingliz tovarlarini olib kirishni qonunlashtirish uchun Xitoyga qarshi urush boshlagan?",
+   "options": [
+    "1838-yilda",
+    "1839-yilda",
+    "1840-yilda",
+    "1841-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Birinchi afyun urushi” yakunida Buyuk Britaniya qaysi orolni bosib olgan va Xitoyni chet el savdogarlari uchun bir nechta portlarni ochib qo'yish haqidagi shartnomani imzolashga majbur etgan?",
+   "options": [
+    "Tayvan orolini",
+    "Makao orolini",
+    "Matsu orolini",
+    "Gonkong orolini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Birinchi afyun urushi” yakunida Xitoy nimani tan olmagan?",
+   "options": [
+    "Afyun olib kirilishining qonuniy ekanligini",
+    "Urushdagi mag'lubiyatini",
+    "Portlarni chet elliklarga ochilishini",
+    "Savdo bojlari kamaytirilishini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Taypinlar davlatida … . 1) yerga bo'lgan xususiy mulkchilik tugatilgan; 2) bo'linma komandirlarini xalq saylagan; 3) ayol va erkaklarga teng huquq berilgan; 4) qizlarning oyog'ini bog'lash qadimiy odati bekor qilingan; 5) barcha ta'lim muassasalari yopilgan; 6) afyun, tamaki chekish, spirtli ichimli",
+   "options": [
+    "2, 3, 4",
+    "1, 3, 4, 5",
+    "1, 2, 3, 4, 6",
+    "1, 2, 3, 4, 5, 6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Taypinlarni yana qanday atashgan?",
+   "options": [
+    "“Qora kiyimlilar”",
+    "“Oq ro'mollilar”",
+    "“Sariq qalqonlilar”",
+    "“Uzun sochlilar”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xitoyda “Taypinlar qo'zg'oloni” qaysi yillarda bo'lib o'tgan?",
+   "options": [
+    "1849–1863-yillarda",
+    "1850–1864-yillarda",
+    "1851–1865-yillarda",
+    "1852–1866-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning qaysi davrida butun Xitoy bo'ylab yuzta dehqonlar qo'zg'oloni alanga olgan?",
+   "options": [
+    "20-yillarida",
+    "30-yillarida",
+    "40-yillarida",
+    "50-yillarida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon taypinlar chinlar hukmronligiga qarshi kurashish va Xitoyda “an'anaviy jamiyat” o'rnatish uchun yetarli kuchga aylangan edi?",
+   "options": [
+    "1849-yil mayda",
+    "1850-yil iyunda",
+    "1851-yil iyulda",
+    "1852-yil martda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Taypinlarga boshchilik qilgan Xun Syusyuan qayerlik edi?",
+   "options": [
+    "Yunnan",
+    "Guandun",
+    "Sichuan",
+    "Shandun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Taypinlarga boshchilik qilgan Xun Syusyuanning kasbini toping.",
+   "options": [
+    "Qishloq o'qituvchisi",
+    "Konfutsiylik rohibi",
+    "Qo'shin qo'mondoni",
+    "Davlat amaldori"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xun Syusyuan xristian dini bilan tanishgandan so'ng xudo unga Xitoyni iblisdan xalos qilish va adolat podsholigini o'rnatishni topshirganligini e'lon qilgan. “Xitoyni iblisdan xalos qilish” deganda kimlarni nazarda tutgan?",
+   "options": [
+    "Chet elliklarni",
+    "Boshqa dinlar vakillarini",
+    "Korrupsiyaga botgan amaldorlarni",
+    "Chin imperatorlarini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xitoycha “Taypin tyango” qanday ma'noni anglatadi?",
+   "options": [
+    "“Buyuk adolatli samo davlati”",
+    "“Buyuk tinchlik samo davlati”",
+    "“Buyuk huzur-halovat samo davlati”",
+    "“Buyuk farovonlik samo davlati”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Taypinlarga boshchilik qilgan Xun Syusyuan fikricha, ularning davlatida … lozim edi. 1) dehqonlar jamoa bo'lib yashashlari; 2) hech bir narsada tengsizlik bo'lmasligi; 3) hammaning to'q va kiyimi but bo'lishi uchun yerga ega bo'lgan holda unga birgalikda ishlov berish; 4) oziq-ovqat bo'lganida birga",
+   "options": [
+    "3, 4, 5",
+    "2, 3, 5, 6",
+    "1, 2, 3, 4, 5",
+    "1, 2, 3, 4, 5, 6"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Taypinlar davlatida aholi turmushi harbiy tartib asosida qurilgan bo'lib, nechta oilaning qo'shinga bitta askar yetkazib berishi belgilab qo'yilgan edi?",
+   "options": [
+    "Har bir oilaning",
+    "Har ikki oilaning",
+    "Har uch oilaning",
+    "Har to'rt oilaning"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Taypinlar davlatida kim hududlarda davlat hokimiyatini amalga oshirgan?",
+   "options": [
+    "Jamoa sardori",
+    "Harbiy qism boshlig'i",
+    "Qishloq oqsoqoli",
+    "Tayinlangan amaldor"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Taypinlar davlatida aholi qanday tartibda joylashtirilgan?",
+   "options": [
+    "Erkaklar va ayollar bitta mehnat lageriga, bolalar boshqa yerga",
+    "Erkaklar va o'g'il bolalar bitta mehnat lageriga, ayollar va qiz bolalar boshqa yerga",
+    "Erkaklar bitta mehnat lageriga, ayollar va bolalar boshqa yerga",
+    "Erkaklar va bolalar bitta mehnat lageriga, ayollar boshqa yerga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Taypinlarning qaysi rejasi qo'zg'olonda ishtirok etayotgan mulkdor tabaqalarni qo'zg'olondan uzoqlashtirgan?",
+   "options": [
+    "Mulkdor tabaqani sinf sifatida tugatish",
+    "Yerni oila a'zolari soniga qarab teng bo'lib berish",
+    "Barcha yerni davlat ixtiyoriga o'tkazish",
+    "Yerga jamoaviy ishlov berish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Taypinlarni yengishda chin davlati ma'murlariga qaysi davlatlar yordam ko'rsatgan? 1) Yaponiya; 2) Buyuk Britaniya; 3) Fransiya; 4) AQSH.",
+   "options": [
+    "1, 2, 3",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda chin hukumati taypinlar qo'zg'olonini bostirgan?",
+   "options": [
+    "1863-yilda",
+    "1864-yilda",
+    "1865-yilda",
+    "1866-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chin hukumati qaysi shaharni ishg'ol qilib, taypinlar qo'zg'olonini bostirgan?",
+   "options": [
+    "Nankin",
+    "Pekin",
+    "Guanchjou",
+    "Shanxay"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qo'zg'olon bostirilgach, taypinlar rahbari Xun Syusyuan … .",
+   "options": [
+    "qatl qilingan",
+    "qamoqqa tashlangan",
+    "qochib ketgan",
+    "o'z joniga qasd qilgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Kalligrafiya” nima?",
+   "options": [
+    "Kandakorlik",
+    "Ganchkorlik",
+    "Xattotlik",
+    "Naqqoshlik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asr Xitoy madaniyatining yorqin namoyandalaridan biri Un Szishan kim bo'lgan?",
+   "options": [
+    "Rassom",
+    "Yozuvchi",
+    "Shoir",
+    "Aktyor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davrga kelib Xitoy G'arb davlatlari, so'ngra esa AQSH, Rossiya va Yaponiyaning ham mustamlakachilik manfaatlari kesishgan eng dolzarb hududga aylangan?",
+   "options": [
+    "XVIII asrning oxirlariga",
+    "XIX asrning boshlariga",
+    "XIX asrning o'rtalariga",
+    "XIX asrning oxirlariga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xitoyda soyalar teatri qachon paydo bo'lgan?",
+   "options": [
+    "1600 yil avval",
+    "1700 yil avval",
+    "1800 yil avval",
+    "1900 yil avval"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda quyidagi ajdar tasviri nimada tasvirlangan?",
+   "options": [
+    "Xitoy qog'oz pulida",
+    "Taypinlar bayrog'ida",
+    "Chin hukumati bayrog'ida",
+    "Xitoy imperatori muhrida"
+   ],
+   "answer": 1
+  }
+ ]
+}

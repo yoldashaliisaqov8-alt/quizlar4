@@ -1,0 +1,556 @@
+{
+ "title": "9-sinf · 34-mavzu. Xonliklarda harbiy ish va qurol-yarog'",
+ "time": 30,
+ "questions": [
+  {
+   "q": "XVIII–XIX asrlarda xonliklarda \"navkarlar\" deb kimlarga aytilgan?",
+   "options": [
+    "Pilta miltiqli jangchilarga",
+    "Piyoda jangchilarga",
+    "Otliq jangchilarga",
+    "Yollanma jangchilarga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davrda Buxoro amirligida harbiy kuchlar ikki qismga: muntazam – \"navkariya\" va muntazam bo'lmagan – \"qora cherik\"ka bo'lingan?",
+   "options": [
+    "XVIII asrning boshlarida",
+    "XVIII asrning o'rtalarida",
+    "XVIII asrning oxirlarida",
+    "XIX asrning boshlarida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'qon xonligida \"sarboz\" deb kimlarga aytilgan?",
+   "options": [
+    "Piyoda jangchilarga",
+    "Otliq jangchilarga",
+    "Yollanma jangchilarga",
+    "Pilta miltiqli jangchilarga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta Osiyoda qayerda to'p va yadro toshlar, miltiq va tig'li qurollar tayyorlaydigan katta ustaxona (zavod) bo'lgan?",
+   "options": [
+    "Kattaqo'rg'on",
+    "Quvasoy",
+    "Chust",
+    "O'ratepa"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buxoro amirligida harbiy kuchlarga bosh qo'mondonlik vazifasini kim amalga oshirgan?",
+   "options": [
+    "\"Vaziri harb\"",
+    "\"Yasovulboshi\"",
+    "\"Mingboshi\"",
+    "\"To'pchiboshi\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qo'qon xonligida muntazam qo'shin qanday atalgan?",
+   "options": [
+    "\"Navkariya\"",
+    "\"Qora cherik\"",
+    "\"Qilquyruq\"",
+    "\"Askariya\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVIII–XIX asrlarda xonliklarda \"qilquyruq\", \"qora qozon\", \"qora chechak\", \"qoracherik\" deb nimaning turlariga aytilgan?",
+   "options": [
+    "Muntazam qo'shin",
+    "Nomuntazam qo'shin",
+    "Otliq qo'shin",
+    "To'pchilar qo'shini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta Osiyoda XVI–XVIII asrlarda yasalgan himoya aslahalari mahalliy an'analar va qayerlardan keltirilgan yangi qurollarning uyg'unlashuvidan iborat bo'lgan? 1) Uzoq Sharq; 2) Old Osiyo; 3) O'rta Sharq.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xiva xonligida harbiy kuchlarga bosh qo'mondonlik vazifasini kim amalga oshirgan?",
+   "options": [
+    "\"Vaziri harb\"",
+    "\"Yasovulboshi\"",
+    "\"Mingboshi\"",
+    "\"To'pchiboshi\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr boshlaridagi Xiva xonligi muntazam qo'shiniga oid to'g'ri ma'lumotni toping. 1) \"Xon navkarlari\" deb ataluvchi muntazam qo'shin tinchlik davrida xon va uning oilasini qo'riqlagan; 2) Muntazam qo'shinning soni 5000 dan ortiq askarni tashkil etgan; 3) Muntazam qo'shinning maxsus kiyimlari bo'lmagan.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr boshlarida Buxoro amirligida muntazam qo'shinni kiyim va qurol-aslaha bilan ta'minlash …ning zimmasida bo'lgan.",
+   "options": [
+    "askarlarning o'zlari",
+    "vaqf mulklari",
+    "boy zodagonlar",
+    "davlat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xonliklar qo'shinida harbiy harakatlar vaqtida \"avangard\" deb qaysi qismga aytilgan?",
+   "options": [
+    "Oldindagi qismga",
+    "O'ng qanotga",
+    "Chap qanotga",
+    "Orqadagi qismga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Buxoro amirligida \"sarbozlar\" deb kimlarga aytilgan?",
+   "options": [
+    "Piyoda jangchilarga",
+    "Otliq jangchilarga",
+    "Yollanma jangchilarga",
+    "Pilta miltiqli jangchilarga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shayboniylar qo'shinida \"tabarzin\" deb nimaga aytilgan?",
+   "options": [
+    "Uzun nayza",
+    "Jang nog'orasi",
+    "Uzun dastali jang boltasi",
+    "O'q-yoy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asr boshlarida Buxoro amirligida o'tkazilgan harbiy islohotlardan keyin qo'shindagi piyodalar soni to'pchilardan necha barobar ko'p bo'lgan?",
+   "options": [
+    "1,5 barobar",
+    "2,5 barobar",
+    "3,5 barobar",
+    "4,5 barobar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'rta Osiyodagi qaysi davlat askarlari harbiy libosi qizil va moviy chopon, sariq shim va oq salladan iborat bo'lgan?",
+   "options": [
+    "Xiva xonligi",
+    "Buxoro xonligi",
+    "Buxoro amirligi",
+    "Qo'qon xonligi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi shayboniy hukmdorlar davrida qo'shindagi jang qurollari birmuncha takomillashgan?",
+   "options": [
+    "Pirmuhammadxon va Ubaydullaxon",
+    "Ubaydullaxon va Abdullaxon II",
+    "Abdullaxon II va Abdullatifxon",
+    "Abdullatifxon va Pirmuhammadxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi Buxoro amiri davrida o'tkazilgan harbiy islohotlar natijasida piyodalar, navkarlar va to'pchilardan iborat muntazam qo'shin tuzilgan?",
+   "options": [
+    "Amir Haydar",
+    "Amir Nasrulla",
+    "Amir Muzaffar",
+    "Amir Abdulahad"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Lafet\" qanday qurolning turi bo'lgan?",
+   "options": [
+    "To'p",
+    "To'pponcha",
+    "Miltiq",
+    "Mushket"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Buxoro amirligida qaysi yilda o'tkazilgan harbiy islohotlar natijasida piyodalar, navkarlar va to'pchilardan iborat muntazam qo'shin tuzilgan?",
+   "options": [
+    "1835-yilda",
+    "1837-yilda",
+    "1839-yilda",
+    "1841-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Bu zavodlarning tuzilishi ancha sodda, hatto yomon deb aytish mumkin. Lekin shunga qaramay mis to'plar shu qadar yaxshiki...\" O'rta Osiyoda yasalgan to'plar haqida yuqoridagi fikrlarni bildirgan XIX asrda yashagan tarjimon-tilshunos olim kim?",
+   "options": [
+    "A. Nikitin",
+    "V. Radlov",
+    "M. Bekchurin",
+    "S. Krasheninnikov"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Otlarni himoyalash uchun ishlatilgan zirhli to'shama (jul)lar nimalardan iborat bo'lgan? 1) Sag'rinpo'sh; 2) Ko'krakpo'sh; 3) Bo'yinbog'; 4) Peshonabog'.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Usta Xabir tomonidan damashq po'lati va fil suyagidan zarhallab tayyorlangan pichoqning tayyorlangan joyi va davrini toping.",
+   "options": [
+    "Buxoro, XVIII asr",
+    "Xiva, XIX asr",
+    "Samarqand, XVIII asr",
+    "Qo'qon, XIX asr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Harbiy harakatlar vaqtida xonliklar qo'shinining oldinda va uning ortidan harakatlanadigan qismlarini qaysi qismlardan tarkib topgan qo'shinlar yakunlagan? 1) Chap va o'ng qanot; 2) Markaz; 3) Pistirma.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'rta Osiyoda jang liboslarining eng ko'p tarqalgan turi bo'lgan \"kuyak\"lar qanday libos bo'lgan?",
+   "options": [
+    "Zirhli to'shamali",
+    "Tizimcha bilan o'rilgan uzun charm tasmali",
+    "Parchin qoplangan zirhli",
+    "Yumaloq konussimon ko'krakpo'shli"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qo'qon xonligida harbiy kuchlarga bosh qo'mondonlik vazifasini kim amalga oshirgan?",
+   "options": [
+    "\"Vaziri harb\"",
+    "\"Yasovulboshi\"",
+    "\"Mingboshi\"",
+    "\"To'pchiboshi\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Nomdor jangchilarning himoya aslahasi turli xildagi halqa-parchinli sovutlar, yumaloq konussimon dubulg'alar, tirsakbandlar...\" Yuqorida O'rta Osiyodagi qaysi davlat askarlari harbiy libosi haqida ma'lumotlar keltirilgan?",
+   "options": [
+    "Qo'qon xonligi",
+    "Buxoro xonligi",
+    "Buxoro amirligi",
+    "Xiva xonligi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Harbiy harakatlar vaqtida xonliklar qo'shini bilan birga yana kimlar borgan? 1) Hunarmandlar; 2) Dehqonlar; 3) Savdogarlar; 4) Yo'llarni tozalab ko'prik quruvchilar.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta Osiyoda XVI–XIX asrlarda qurol-yarog' faqatgina xonliklarda tayyorlanmasdan yana qayerlardan keltirilgan? 1) Xitoy; 2) Eron; 3) Rossiya; 4) Jung'oriya; 5) G'arbiy Yevropa.",
+   "options": [
+    "1, 3, 4",
+    "1, 2, 3",
+    "2, 3, 4, 5",
+    "1, 2, 3, 4, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xonliklar qo'shinida harbiy harakatlar vaqtida \"aryergard\" deb qaysi qismga aytilgan?",
+   "options": [
+    "Oldindagi qismga",
+    "O'ng qanotga",
+    "Chap qanotga",
+    "Orqadagi qismga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'rta Osiyoda qaysi asrdan mis yoki metall stvolli, dastlab piltali, so'ng burama kertikli (soyli) miltiqlardan muntazam foydalanilgan?",
+   "options": [
+    "XV asrdan",
+    "XVI asrdan",
+    "XVII asrdan",
+    "XVIII asrdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qo'qon xonligida muntazam qo'shin kimlardan iborat bo'lgan? 1) Otliq askarlar; 2) Piyoda askarlar; 3) To'pchilar.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'rta Osiyo xonliklari qo'shinlari …lik tizimi shaklida tashkil qilingan.",
+   "options": [
+    "o'n",
+    "yigirma",
+    "o'ttiz",
+    "qirq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi shayboniy hukmdor davrida qo'shinda o'tsochar pilta miltiqlar hamda kichik to'plardan foydalanilgan?",
+   "options": [
+    "Ubaydullaxon",
+    "Abdullatifxon",
+    "Pirmuhammadxon",
+    "Abdullaxon II"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asr boshlarida Buxoro amirligida qaysi qo'shin askarlarining kiyimi qizil, qora va sariq matodan tikilgan kamzul, oq shim, qorako'l telpak va bir juft etikdan iborat bo'lgan? 1) Navkarlar; 2) Sarbozlar; 3) To'pchilar.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Baktar\" deb nimaga aytilgan?",
+   "options": [
+    "Yumaloq konussimon dubulg'a",
+    "Halqa-parchinli sovut",
+    "Tirsakband",
+    "Oyoqlarni himoya qiluvchi vosita"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qo'qon xonligida \"sipoh\" deb kimlarga aytilgan?",
+   "options": [
+    "Pilta miltiqli jangchilarga",
+    "Piyoda jangchilarga",
+    "Otliq jangchilarga",
+    "Yollanma jangchilarga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'rta Osiyo xonliklari qo'shinlarida qaysi asrdan o'qotar qurollardan foydalanila boshlangan?",
+   "options": [
+    "XVI asrdan",
+    "XVII asrdan",
+    "XVIII asrdan",
+    "XIX asrdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrning boshlarida qaysi Xiva xoni tomonidan 2000 ta harbiydan tarkib topgan muntazam qo'shin tuzilgan?",
+   "options": [
+    "Eltuzarxon",
+    "Olloqulixon",
+    "Muhammad Rahimxon I",
+    "Muhammad Aminxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'rta Osiyoda qaysi asrdan so'ng otlar zirhli to'shama (jul)lar bilan himoyalana boshlangan?",
+   "options": [
+    "XII asrdan so'ng",
+    "XIII asrdan so'ng",
+    "XIV asrdan so'ng",
+    "XV asrdan so'ng"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tabarzin nomi bilan mashhur bo'lgan qurol nomini aniqlang.",
+   "options": [
+    "Uzun nayza",
+    "Gurzi",
+    "Qilich",
+    "Uzun dastali jang boltasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi shayboniy hukmdorlar davriga kelib, jang qurollari birmuncha takomillashadi.",
+   "options": [
+    "Shayboniyxon va Ko'chkunchixon",
+    "Abu Said va Abdullaxon II",
+    "Ubaydullaxon va Abdullaxon II",
+    "Shayboniyxon va Ubaydullaxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'tsochar piltamiltiqlar hamda kichik to'plardan foydalanish qaysi hukmdor davriga to'g'ri keladi.",
+   "options": [
+    "Shayboniyxon",
+    "Abdullaxon II",
+    "Ubaydullaxon",
+    "Ko'chkunchixon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi javoblar orasidan nomuntazam bo'lmagan qo'shin nomini aniqlang.",
+   "options": [
+    "Qilquyruq",
+    "Navkariya",
+    "Qoraqozon",
+    "Qoracherik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1837-yilda harbiy islohot o'tkazgan Buxoro amirini aniqlang.",
+   "options": [
+    "Shohmurod",
+    "Doniyolbiy",
+    "Nasrulla",
+    "Haydar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "2000 ta harbiydan iborat muntazam qo'shin tuzgan Xiva xonini aniqlang.",
+   "options": [
+    "Muhammad Rahimxon I",
+    "Olloqullixon",
+    "Eltuzarxon",
+    "Muhammad Aminxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qo'qon xonligida muntazam qo'shin nima deb nomlangan.",
+   "options": [
+    "Qilquyruq",
+    "Askariya",
+    "Navkariya",
+    "Qoracherik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi davlatda harbiy libos qizil va moviy chopon, sariq shim va oq salladan iborat bo'lgan.",
+   "options": [
+    "Eron",
+    "Buxoro amirligi",
+    "Xiva xonligi",
+    "Qo'qon xonligi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIII asrda otlar ustiga to'shaladigan zirhli to'shama nima deb nomlangan.",
+   "options": [
+    "Jul",
+    "Lafet",
+    "Baktar",
+    "Ko'krakpo'sh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xonliklarda to'p yana qaysi nom bilan yuritilgan.",
+   "options": [
+    "Jul",
+    "Lafet",
+    "Baktar",
+    "Ko'krakpo'sh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi hududda to'p va yadro toshlar, miltiq va tig'li qurollar tayyorlaydigan ustaxona mavjud bo'lgan.",
+   "options": [
+    "Marv",
+    "Samarqand",
+    "Qarshi",
+    "O'ratepa"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Harbiy kuchlarga bosh qo'mondonlik vazifasini Buxoro amirligida qaysi lavozim egasi bajargan.",
+   "options": [
+    "Ko'kaldosh",
+    "Vaziri Harb",
+    "Mingboshi",
+    "Yasovulboshi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Harbiy kuchlarga bosh qo'mondonlik vazifasini Xiva xonligida qaysi lavozim egasi bajargan.",
+   "options": [
+    "Ko'kaldosh",
+    "Vaziri Harb",
+    "Mingboshi",
+    "Yasovulboshi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Harbiy kuchlarga bosh qo'mondonlik vazifasini Qo'qon xonligida qaysi lavozim egasi bajargan.",
+   "options": [
+    "Ko'kaldosh",
+    "Vaziri Harb",
+    "Mingboshi",
+    "Yasovulboshi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Bu zavodlarning tuzilishi ancha sodda, hatto yomon deb aytish mumkin. Lekin shunga qaramay mis to'plar shu qadar yaxshiki...\" Bu ma'lumot kimga tegishli.",
+   "options": [
+    "A.Vamberi",
+    "V.I.Masalskiy",
+    "T.Burnashev",
+    "M.Bekchurin"
+   ],
+   "answer": 3
+  }
+ ]
+}

@@ -1,0 +1,336 @@
+{
+ "title": "9-sinf · 8-mavzu. Shayboniylar davri me'morchiligi (madrasalar, bozor inshootlari)",
+ "time": 30,
+ "questions": [
+  {
+   "q": "1500-1601 yillarda hukmronlik qilgan sulolani aniqlang.",
+   "options": [
+    "Temuriylar",
+    "Shayboniylar",
+    "Ashtarxoniylar",
+    "Boburiylar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Toqi Sarrofon yodgorligi joylashgan hududni aniqlang.",
+   "options": [
+    "Toshkent",
+    "Navoiy",
+    "Buxoro",
+    "Samarqand"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1551-1575 yillarda qurilgan madrasa nomini aniqlang.",
+   "options": [
+    "Mir Arab madrasasi",
+    "Ko'kaldosh madrasasi",
+    "Abdullaxon madrasasi",
+    "Baroqxon madrasasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ko'kaldosh madrasasidagi hujralar sonini aniqlang.",
+   "options": [
+    "36 ta",
+    "38 ta",
+    "114 ta",
+    "100 ta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Madrasa dastlab 3 qavatli edi. Me'morlar madrasani bezashda, asosan, binoning old tomoniga e'tibor berishgan... Gap qaysi yodgorlik haqida ketmoqda.",
+   "options": [
+    "Mir Arab madrasasi",
+    "Ko'kaldosh madrasasi",
+    "Abdullaxon madrasasi",
+    "Baroqxon madrasasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mir Arab madrasasida qancha xona mavjud bo'lgan.",
+   "options": [
+    "36 ta",
+    "38 ta",
+    "114 ta",
+    "100 ta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Madrasaning kirish qismi kunbotar tomondadir. Darvoza ulkan peshtoq ostida joylashgan. Bino to'rt qavatdan iborat... Gap qaysi yodgorlik haqida ketmoqda.",
+   "options": [
+    "Mir Arab madrasasi",
+    "Ko'kaldosh madrasasi",
+    "Abdullaxon madrasasi",
+    "Baroqxon madrasasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1530-1536 yillarda bunyod etilgan madrasa nomini aniqlang.",
+   "options": [
+    "Mir Arab madrasasi",
+    "Ko'kaldosh madrasasi",
+    "Abdullaxon madrasasi",
+    "Baroqxon madrasasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xalq orasida \"Mir Arab\" nomi bilan mashhur bo'lgan olimning asl ismini aniqlang.",
+   "options": [
+    "Xoja Ahror Valiy",
+    "Sayyid Abdulloh Yamaniy",
+    "Muhammad Bakr",
+    "Shayx Zakariyo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Mir Arab\" 22 yoshida qaysi shaharga ilm izlab keladi.",
+   "options": [
+    "Toshkent",
+    "Xorazm",
+    "Buxoro",
+    "Samarqand"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Mir Arab\" quyidagi qaysi shaxsga shogird tushadi.",
+   "options": [
+    "Xoja Ahror Valiy",
+    "Muhammad Solih",
+    "Muhammad Bakr",
+    "Shayx Zakariyo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Said Abdullohni Buxoro amiri Ubaydullaxon bilan tanishtirgan shaxsni aniqlang.",
+   "options": [
+    "Xoja Ahror Valiy",
+    "Muhammad Solih",
+    "Muhammad Bakr",
+    "Shayx Zakariyo"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xo'ja Ahror Valiyning o'g'lini aniqlang.",
+   "options": [
+    "Muhammad Solih",
+    "Muhammad Solih",
+    "Muhammad Bakr",
+    "Shayx Zakariyo"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1536-yilda vafot etgan shaxsni aniqlang.",
+   "options": [
+    "Xoja Ahror Valiy",
+    "Sayyid Abdulloh Yamaniy",
+    "Muhammad Bakr",
+    "Shayx Zakariyo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Mir Arab\"ning kuyovi kim edi.",
+   "options": [
+    "Xoja Ahror Valiy",
+    "Sayyid Abdulloh Yamaniy",
+    "Muhammad Bakr",
+    "Shayx Zakariyo"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi madrasada 10-yoshdan 40 yoshgacha bo'lgan talabalar tahsil olgan.",
+   "options": [
+    "Mir Arab madrasasi",
+    "Ko'kaldosh madrasasi",
+    "Abdullaxon madrasasi",
+    "Baroqxon madrasasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mir Arab madrasasida qaysi shayboniy hukmdorning sag'anasi joylashgan.",
+   "options": [
+    "Abdullaxon II",
+    "Muhammad Shayboniyxon",
+    "Ubaydullaxon",
+    "Abdulazizxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Toqi Zargaron quyidagi qaysi Shayboniy hukmdor davrida qurilgan.",
+   "options": [
+    "Abdullaxon II",
+    "Muhammad Shayboniyxon",
+    "Ubaydullaxon",
+    "Abdulazizxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "U chorsuda joylashgan ikkita katta yo'lni me'moriy jihatdan uyg'unlashtirgan yodgorlik hisoblanadi... Gap qaysi majmua haqida ketmoqda.",
+   "options": [
+    "Toqi Zargaron",
+    "Buxoro karvonsaroyi",
+    "Abdullaxon madrasasi",
+    "Toqi Sarrofon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Toqi Zargaron majmuasida qancha zargarlik ustaxonasi mavjud bo'lgan.",
+   "options": [
+    "36 ta",
+    "38 ta",
+    "114 ta",
+    "100 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Toqi Zargaron qaysi madrasa yonida joylashgan.",
+   "options": [
+    "Mir Arab madrasasi",
+    "Ko'kaldosh madrasasi",
+    "Ulug'bek madrasasi",
+    "Baroqxon madrasasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Uning qurilishida xom va pishgan g'isht, loy, taxta, maxsus \"qir\" qotishmasi va shu kabi mahsulotlardan foydalanilgan... Gap qaysi madrasa haqida ketmoqda.",
+   "options": [
+    "Mir Arab madrasasi",
+    "Ko'kaldosh madrasasi",
+    "Abdullaxon madrasasi",
+    "Baroqxon madrasasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hammomi Bozori kord qanday lug'aviy ma'noni bildiradi.",
+   "options": [
+    "Shohlar hammomi",
+    "Erkaklar hammomi",
+    "Ayollar hammomi",
+    "Harbiylar hammomi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hammomi Kunjak qanday lug'aviy ma'noni bildiradi.",
+   "options": [
+    "Shohlar hammomi",
+    "Erkaklar hammomi",
+    "Ayollar hammomi",
+    "Harbiylar hammomi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hammomi Sarrofon qanday lug'aviy ma'noni bildiradi.",
+   "options": [
+    "Shohlar hammomi",
+    "Erkaklar hammomi",
+    "Ayollar hammomi",
+    "Harbiylar hammomi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Go'lax so'zining ma'nosini izohlang.",
+   "options": [
+    "Hammom",
+    "Yotoqxona",
+    "Darsxona",
+    "Olovxona"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'rta asrlarda Buxoro hammomlari nima deb nomlanganini aniqlang.",
+   "options": [
+    "Kul suv",
+    "Garmoba",
+    "Go'lax",
+    "Langarxona"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1558-yilda Buxoroga tashrif buyurgan ingliz sayyohini aniqlang.",
+   "options": [
+    "X.Vamberi",
+    "A.Byorns",
+    "A.Jenkinson",
+    "F.Beneveni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Ayniqsa, hammomlar shunday ko'rkam qurilganki, bunaqasi dunyoning hech qayerida yo'q\". Bu ma'lumotning kimga tegishli ekanini aniqlang.",
+   "options": [
+    "X.Vamberi",
+    "A.Byorns",
+    "A.Jenkinson",
+    "F.Beneveni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1531-1532 yillarda qurilgan madrasani aniqlang.",
+   "options": [
+    "Mir Arab madrasasi",
+    "Ko'kaldosh madrasasi",
+    "Abdullaxon madrasasi",
+    "Baroqxon madrasasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bu madrasa o'rnida dastlab ikkita maqbara bo'lgan. Madrasaning sharq tomonidagi ulkan peshtoqqa rang-barang sirkor g'ishtchalardan namoyon terilgan... Gap qaysi madrasa haqida ketmoqda.",
+   "options": [
+    "Mir Arab madrasasi",
+    "Ko'kaldosh madrasasi",
+    "Abdullaxon madrasasi",
+    "Baroqxon madrasasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Baroqxon quyidagi qaysi shaxsning nevarasi hisoblanadi.",
+   "options": [
+    "Shayboniyxon",
+    "Abulxayrxon",
+    "Ko'chkunchixon",
+    "Suyunchxo'ja"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Baroqxon quyidagi qaysi shaxsning kichik o'g'li hisoblanadi.",
+   "options": [
+    "Shayboniyxon",
+    "Abulxayrxon",
+    "Ko'chkunchixon",
+    "Suyunchxo'ja"
+   ],
+   "answer": 3
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "title": "8-sinf · Amir Temur davlatining boshqaruvi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Dastlab Jaloyiriylar davlati tarkibida bo'lgan va Amir Temur tomonidan bosib olingach qayta tiklangan shaharni aniqlang.",
+   "options": [
+    "Bag'dod",
+    "Darband",
+    "Baylakon",
+    "Tabriz"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur tomonidan qayta tiklangan quyidagi shaharlardan Shimoliy Kavkaz hududida joylashganlarini aniqlang. 1) Darband 2) Bag'dod 3) Halab 4) Buxoro 5) Baylakon",
+   "options": [
+    "1,2",
+    "3,4",
+    "2,5",
+    "1,5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Elxoniylar davlati qulaganidan so'ng (XIV asr birinchi yarmi) Kaspiy dengizining janubiy va janubiy- g'arbiy qismlari va Eronda vujudga kelgan davlatlarni aniqlang.",
+   "options": [
+    "Jaloyiriylar va Muzaffariylar davlati",
+    "Mamluklar va Qoraqo'yinlilar davlati",
+    "Qoraqo'yinlilar va Safaviylar davlati",
+    "Sayyidlar va Jaloyiriylar davlati"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarixiy manbalarda va \"Temur tuzuklari\"da aytilishicha Temur davlatini jami to'rt nafar asosiy vazirlar boshqargan. Quyida Temuriylar davlatidagi vazirlar to'g'ri ko'rsatilgan javobni aniqlang. 1. Mamlakat va raiyat vaziri 2. Sipoh vaziri 3. Xabar- pochta vaziri 4. Davlat daromadlarini omonat saqlovchi vazir (devoni sarkor) 5. Saltanat ishlarini yurituvchi – sarf-harajatlarning hisobi bilan shug'illanuvchi vazir 6. Ziroat vaziri",
+   "options": [
+    "1,2,3,5",
+    "1,2,4,5",
+    "2,4,5,6",
+    "2,3,4,6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Tuzuklar\"da chegara yerlar va tobe' mamlakatlarni boshqarish ishlariga mas'ul etib yana uchta vazir tayinlangani aytiladi. Ulardan iborat hay'at qanday nomlangan?",
+   "options": [
+    "devoni insho",
+    "devoni rasoil",
+    "xolisa",
+    "qurultoy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Temuriylar davlatidagi vazirlarning umumiy soni qancha?",
+   "options": [
+    "yetti nafar",
+    "o'n bir nafar",
+    "to'rt nafar",
+    "besh nafar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Temuriylar davlatida turli rasmiy marosimlarni uyushtirgan va o'tkazuvchi amaldor qanday nomlangan?",
+   "options": [
+    "arkbegi",
+    "rikobdor",
+    "dasturxonchi",
+    "arzbegi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Temuriylar davlatida bo'ysundirilgan hududlardan o'lpon yig'ish bilan quyidagi qaysi mansabdor shug'ullangan?",
+   "options": [
+    "tavochi",
+    "xonsalor",
+    "muhosil",
+    "yurtchi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Temuriylar davlatida qutvol lavozimini egallagan shaxs qanday vazifani bajargan?",
+   "options": [
+    "viloyatni boshqarish",
+    "raiyatning arzlarini tinglash",
+    "qal'aga rahbarlik qilish",
+    "shaharni boshqarish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Temuriylar davlatida sipoh, raiyat yoki ariza va shikoyat bilan kelganlarning ahvolini, mamlakat obodonchiligini, muhim ishlardan qaysi biri bitganini nazorat qiluvchi amaldor qanday nomlangan?",
+   "options": [
+    "arkbegi",
+    "xonsolor",
+    "dodhoh",
+    "arzbegi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Temuriylar davlati ma'muriy tuzilishi bilan bog'liq quyidagi ma'lumotlardan noto'g'ri berilganini aniqlang: 1) Har bir viloyat, tuman va shaharlarda moliya ishlarini bajaruvchi vazirlar faoliyat yuritgan 2) Temuriylar davlatida shaharlarni hokimlar (dorug'alar) boshqargan 3) Muxtasib sipoh-u raiyatga soqchilik qilishi va uni turli xil o'g'irliklardan himoyalashi lozim bo'lgan 4) Temuriylar davlatida viloyat hukmdorlari voliy deb yuritilgan",
+   "options": [
+    "1",
+    "2,4",
+    "3",
+    "4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Temuriylar davlatida hududlardagi moliyaviy masalalar bilan shug'ullanuvchi vazirlar to'g'ri ko'rsatilgan javobni aniqlang. 1. xiroj miqdorini belgilash va uni yig'ish bilan shug'ullanuvchi vazir 2. egasiz mulklarni boshqaruvchi vazir 3. ko'chmanchi va yarim ko'chmanchi aholidan olinadigan soliqlarning hisobini yurituvchi vazir 4. soliqlardan tushgan mablag'larni navkarlar o'rtasida taqsimlovchi vazir",
+   "options": [
+    "1,2,3",
+    "2,4",
+    "1,2,4",
+    "1,4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amir Temur davlatida sud tizimi qanday ko'rinishlarda bo'lgan? 1. shariat sudlari 2. biy sudlari 3. ahdos qozisi 4. ma'muriy sudlar 5. qozi askar",
+   "options": [
+    "1,2,3,4,5",
+    "1,3,4,5",
+    "1,3,4",
+    "2,3,4,5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi ma'lumotlarga oid yakuniy hukmlarni aniqlang. I. Temuriylar davlatida jinoiy ishlarni odat huquqi (qadimdan saqlanib kelgan tartib) asosida hal qiluvchi sudya qozi ahdos deb nomlangan II. Tomonlar qozilarning hukmlari va qarorlaridan norozi bo'lsa, faqat qozikalonga shikoyat qilishlari mumkin edi III. Mamlakatdagi qozilar faoliyatini shayxulislom nazorat qilgan IV. Diniy martabadagi kishilarni shayxulislom sud qilgan",
+   "options": [
+    "I – noto'g'ri; II – noto'g'ri; III – noto'g'ri; IV – to'g'ri",
+    "I – to'g'ri; II – noto'g'ri; III – noto'g'ri; IV – to'g'ri",
+    "I – to'g'ri; II – noto'g'ri; III – to'g'ri; IV – to'g'ri",
+    "I – to'g'ri; II – to'g'ri; III – noto'g'ri; IV – noto'g'ri"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Temuriylar davlatidagi tartibga ko'ra bosib olingan o'lkalarni idora etuvchi taxt vorisi markaziy hokimiyatga bo'ysunmasa….",
+   "options": [
+    "valiahdlikdan mahrum etiladi",
+    "suyurg'ol mulki tortib olinadi",
+    "qozikalon tomonidan mahkamaga tortiladi",
+    "tan jazosi qo'llash mumkin emas"
+   ],
+   "answer": 3
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "title": "9-sinf · 28-mavzu. Qo'qon xonligida dehqonchilik va yer egaligi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Donli ekinlar orasida keng tarqalgan ekin turini aniqlang.",
+   "options": [
+    "Bug'doy",
+    "Tariq",
+    "Jo'xori",
+    "Beda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Farg'ona vodiysining g'arbiy qismining tabiiy sharoiti quyidagi qaysi sohalarni rivojlantirish uchun juda qulay bo'lgan.",
+   "options": [
+    "Dehqonchilik va chorvachilik",
+    "Dehqonchilik va bog'dorchilik",
+    "Chorvachilik va bog'dorchilik",
+    "Baliqchilik va chorvachilik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Farg'ona vodiysining janubi-g'arbida joylashgan va asosan o'rik yetishtirishga ixtisoslashgan hududlar nomini aniqlang.",
+   "options": [
+    "Xo'jand, Konibodom, Isfara, So'x, Chimyon, Asht",
+    "Xo'jand, Konibodom, Isfara, So'x, Chimyon, Norin",
+    "Xo'jand, Konibodom, Isfara, So'x, Chimyon, Namangan",
+    "Xo'jand, Konibodom, Isfara, So'x, Chimyon, Rishton"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tut daraxtlari nihoyatda ko'paytirilgan hududlar nomini aniqlang.",
+   "options": [
+    "So'x, Isfara, Namangan, Xo'jand",
+    "So'x, Isfara, Namangan, Chimyon",
+    "So'x, Isfara, Namangan, Asht",
+    "So'x, Isfara, Namangan, Rishton"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi yer turi \"zamini xos\" nomi bilan ham yuritilgan.",
+   "options": [
+    "Mulk yerlari",
+    "Amlok yerlari",
+    "Vaqf yerlari",
+    "Xususiy yerlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amlok yerlarini ijaraga olgan shaxslar qancha soliq to'laganini aniqlang.",
+   "options": [
+    "1/5 qism",
+    "1/2 qism",
+    "1/3 qism",
+    "1/4 qism"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi hukmdor hukmronligi yillarida Farg'ona vodiysining janubiy hududlaridagi suv ta'minotini yaxshilash uchun So'x daryosida oltita ariq qaziladi.",
+   "options": [
+    "Erdonaxon",
+    "Umarxon",
+    "Sheralixon",
+    "Olimxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1800-1803 yillarda yuz bergan voqeani aniqlang.",
+   "options": [
+    "Shu davrda qurilgan Ulug'nahr arig'i Farg'ona vodiysidagi eng katta sug'orish arig'i bo'lib qoladi",
+    "Namangan viloyatida yangi yerlarni o'zlashtirish uchun Norin daryosidan suv oluvchi Yangiariq arig'i qaziladi",
+    "Umarxon farmoni bilan Yangiariq arig'i yana uzaytirilib, uning uzunligi 120 chaqirimga yetkaziladi",
+    "Norin va Qoradaryodan suv oluvchi Shahrixonsoy arig'i qaziladi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1819-yilda yuz bergan voqeani aniqlang.",
+   "options": [
+    "Shu davrda qurilgan Ulug'nahr arig'i Farg'ona vodiysidagi eng katta sug'orish arig'i bo'lib qoladi",
+    "Namangan viloyatida yangi yerlarni o'zlashtirish uchun Norin daryosidan suv oluvchi Yangiariq arig'i qaziladi",
+    "Umarxon farmoni bilan Yangiariq arig'i yana uzaytirilib, uning uzunligi 120 chaqirimga yetkaziladi",
+    "Norin va Qoradaryodan suv oluvchi Shahrixonsoy arig'i qaziladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1868-1871 yillarda yuz bergan voqeani aniqlang.",
+   "options": [
+    "Shu davrda qurilgan Ulug'nahr arig'i Farg'ona vodiysidagi eng katta sug'orish arig'i bo'lib qoladi",
+    "Namangan viloyatida yangi yerlarni o'zlashtirish uchun Norin daryosidan suv oluvchi Yangiariq arig'i qaziladi",
+    "Umarxon farmoni bilan Yangiariq arig'i yana uzaytirilib, uning uzunligi 120 chaqirimga yetkaziladi",
+    "Norin va Qoradaryodan suv oluvchi Shahrixonsoy arig'i qaziladi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi hududda ipakchilik tufayli shoyi matolarining turlari va sifati o'sib boradi.",
+   "options": [
+    "Qo'qon",
+    "Marg'ilon",
+    "Shahrixon",
+    "Andijon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chust va Shahrixonda taraqqiy etgan sohani aniqlang.",
+   "options": [
+    "Kulolchilik",
+    "Duradgorlik",
+    "Pichoqchilik",
+    "Shishasozlik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yog'och o'ymakorligi bilan qog'ozgarlik yuqori darajada rivojlangan shahar nomini aniqlang.",
+   "options": [
+    "Qo'qon",
+    "Marg'ilon",
+    "Shahrixon",
+    "Andijon"
+   ],
+   "answer": 0
+  }
+ ]
+}

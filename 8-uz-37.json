@@ -1,0 +1,706 @@
+{
+ "title": "8-sinf · Alisher Navoiy-2",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Shohruxning nabirasi Abulqosim Bobur qaysi yillarda yashagan?",
+   "options": [
+    "1420–1455-yillarda",
+    "1427–1462-yillarda",
+    "1422–1457-yillarda",
+    "1424–1459-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alisher Navoiyning otasining ismi kim bo'lgan?",
+   "options": [
+    "Shayx Abusaid Chang",
+    "Ismi ma'lum emas",
+    "G'iyosiddin Muhammad",
+    "Kamol Turbatiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alisher Navoiy qayerda \"Xusraviya\" madrasasini qurdirgan?",
+   "options": [
+    "Mashhadda",
+    "Marvda",
+    "Astrobodda",
+    "Hirotda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sulton Husayn Mirzo saltanati poytaxti qaysi shahar bo'lgan?",
+   "options": [
+    "Astrobod",
+    "Balx",
+    "Hirot",
+    "Kobul"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alisher Navoiy qaysi asaridan so'ng ko'p o'tmay, ketma-ket nasriy kitoblar yaratgan?",
+   "options": [
+    "\"Xamsa\"dan keyin",
+    "\"Badoye ul-bidoya\"dan keyin",
+    "\"Vaqfiya\"dan keyin",
+    "\"Navodir un-nihoya\"dan keyin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiyning otasi G'iyosiddin qanday nomlar bilan atalganligi ko'p tarqalgan? 1) \"G'iyosiddin bahodir\" 2) \"G'iyosiddin Kichkina\" 3) \"Kichkina bahodir\"",
+   "options": [
+    "1, 2, 3",
+    "2, 3",
+    "1, 2",
+    "1, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiy qayerda tug'ilgan?",
+   "options": [
+    "Samarqand",
+    "Hirot",
+    "Balx",
+    "Astrobod"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiy musharraf bo'lgan \"amiri kabir\" unvonining ma'nosi nima?",
+   "options": [
+    "\"Xalq ulug'lagan amir\"",
+    "\"Podshoga eng yaqin amir\"",
+    "\"Ulug' amir\"",
+    "\"Bosh amir\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alisher Navoiyning \"Tarixi anbiyo va hukamo\" (\"Payg'ambarlar va hakimlar tarixi\") asari qachon yozilgan?",
+   "options": [
+    "1485–1498-yillarda",
+    "1489–1502-yillarda",
+    "1491–1504-yillarda",
+    "1482–1495-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada asarlar va ularning yozilgan yillari to'g'ri moslashtirilgan javobni toping.\nQutichalar | Variantlar\n1. «Tarixi anbiyo va hukamo» | a) 1485–1498-yillar\n2. «Tarixi muluki Ajam» | b) 1469-yil\n3. Birinchi devonni tuzish | c) 1488-yil\n| d) 1472–1476-yillar\n| e) 1500-yil",
+   "options": [
+    "1-a, 2-b, 3-d",
+    "1-c, 2-a, 3-d",
+    "1-a, 2-d, 3-c",
+    "1-a, 2-c, 3-d"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Sulton Husayn Mirzo Hirotni qo'lga olgan va Samarqandga xat yo'llab, Navoiyni o'z yoniga chaqirgan?",
+   "options": [
+    "1467-yilda",
+    "1469-yilda",
+    "1465-yilda",
+    "1461-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiyga AQSHning qaysi shahrida haykal o'rnatilgan?",
+   "options": [
+    "Dallas",
+    "Vashington",
+    "Chikago",
+    "Nyu York"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiyning birinchi devonini … .",
+   "options": [
+    "saroy ahli tuzgan",
+    "o'zi tuzgan",
+    "shogirdlari tuzgan",
+    "muxlislari tuzgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alisher Navoiy qaysi mashhur shaxslarning ustozi sanaladi?",
+   "options": [
+    "Kamoliddin Behzod, Mirxond, Xondamir",
+    "Xondamir, Davlatshoh Samarqandiy, Mirak Naqqosh",
+    "Davlatshoh Samarqandiy, Mirak Naqqosh, Kamoliddin Behzod",
+    "Mirxond, Xondamir, Davlatshoh Samarqandiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yilda Sulton Husayn Mirzo Alisher Navoiyni vazirlikka tayinlagan?",
+   "options": [
+    "1476-yilda",
+    "1472-yilda",
+    "1469-yilda",
+    "1487-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Asarda vaqf yerlari, mulklari, ularning miqdori, ulardan foydalanish, vaqf mulki va mablag'i evaziga quriladigan bino va inshootlar, bu yo'nalishda madrasa va xonaqohlarda o'rnatilgan tartiblar haqida fikr yuritiladi. Navoiy o'z ixtiyoridagi mablag'lar hisobiga qurilgan xayriya muassasalari, ilmiy- madaniy binolar va bog'larni sanab o'tadi. Asar Navoiy va Sulton Husayn Mirzo munosabatlarini o'rganishda ham muhim manbadir\". Yuqoridagi ma'lumotlar Alisher Navoiyning qaysi asari to'g'risida?",
+   "options": [
+    "\"Tarixi muluki Ajam\"",
+    "\"Vaqfiya\"",
+    "\"Tarixi anbiyo va hukamo\"",
+    "\"Siroj ul-muslimin\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiy qanday ta'riflar bilan tilga olinadi? 1) \"Shoirlar sultoni\" 2) \"G'azal mulkining sultoni\" 3) \"Ilm-fan homiysi\" 4) \"Mutafakkirlarning mutafakkiri\"",
+   "options": [
+    "1, 2, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3",
+    "1, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiy qaysi yillarda shohning amri va istagiga ko'ra o'zining birinchi devonini tuzgan?",
+   "options": [
+    "1472–1476-yillarda",
+    "1476–1487-yillarda",
+    "1487–1488-yillarda",
+    "1469–1472-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiyning otasi G'iyosiddinga \"kichkina\" laqabi yoshiga nisbatan berilgan bo'lib, kimning kichik o'g'li va ko'kaldoshi bo'lgan G'iyosiddin Mansur bilan birga o'sgan?",
+   "options": [
+    "Umarshayx Mirzo",
+    "Shohrux Mirzo",
+    "Mironshoh Mirzo",
+    "Jahongir Mirzo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada shaharlar va ularda Navoiyga o'rnatilgan haykallar to'g'ri moslashtirilgan javobni toping.\nQutichalar | Variantlar\n1. AQSH | a) O'sh\n2. Ozarbayjon | b) Ankara\n3. Qirg'iziston | c) Boku\n| d) Vashington\n| e) Moskva",
+   "options": [
+    "1-d, 2-a, 3-c",
+    "1-c, 2-d, 3-a",
+    "1-d, 2-e, 3-a",
+    "1-d, 2-c, 3-a"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alisher Navoiy qaysi yillarda Astrobod hokimi lavozimida faoliyat yuritgan?",
+   "options": [
+    "1487–1488-yillarda",
+    "1469–1472-yillarda",
+    "1472–1476-yillarda",
+    "1476–1487-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kimning ma'lumotlariga ko'ra, Alisher Navoiyning otasi G'iyosiddin Kichkina pahlavon va bardoshli shaxs bo'lgan?",
+   "options": [
+    "Hofiz Abru",
+    "Abdurazzoq Samarqandiy",
+    "Davlatshoh Samarqandiy",
+    "Ibn Arabshoh"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alisher Navoiyga Ozarbayjonning qaysi shahrida haykal o'rnatilgan?",
+   "options": [
+    "Ganja",
+    "Boku",
+    "Shirvon",
+    "Naxchivan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiy kim bilan ijodiy hamkorlikda bo'lgan?",
+   "options": [
+    "Mavlono Lutfiy",
+    "Abdurahmon Jomiy",
+    "Ali Yazdiy",
+    "Pahlavon Muhammad"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiy 1480–1500-yillar mobaynida o'z mablag'lari hisobidan bir necha madrasa, … ta rabot, … ta masjid, … ta xonaqoh, … ta ko'prik, … ta hovuz, … ta hammom qurdirgan.",
+   "options": [
+    "45/18/11/10/25/10",
+    "35/16/9/8/15/8",
+    "30/15/8/7/10/7",
+    "40/17/10/9/20/9"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alisher Navoiyga Qirg'izistonning qaysi shahrida haykal o'rnatilgan?",
+   "options": [
+    "Bishkek",
+    "Norin",
+    "Jalolobod",
+    "O'sh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alisher Navoiyning \"Tarixi muluki Ajam\" (\"Ajam shohlari tarixi\") asari qachon yozilgan?",
+   "options": [
+    "1486-yilda",
+    "1483-yilda",
+    "1481-yilda",
+    "1488-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Ushbu asar qisqa tarix bo'lib, Eron shohlari xronikasi bayon qilingan 'Tarixi Tabariy', 'Shohnoma' asarlarini mantiqan to'ldiradi, ulardagi faktlarni izchil ilmiy tizimga soladi. Asarda afsonaviy shoh Qayumarsdan sosoniylarning so'nggi vakili Yazdi Shahriyorgacha bo'lgan shohlar tarixi, mifologik talqini beriladi\". Yuqoridagi ma'lumotlar Alisher Navoiyning qaysi asari to'g'risida?",
+   "options": [
+    "\"Tarixi muluki Ajam\"",
+    "\"Siroj ul-muslimin\"",
+    "\"Tarixi anbiyo va hukamo\"",
+    "\"Vaqfiya\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiy qachon tug'ilgan?",
+   "options": [
+    "1441-yil 9-fevralda",
+    "1440-yil 19-fevralda",
+    "1440-yil 9-fevralda",
+    "1441-yil 19-fevralda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada ma'lumotlar va yillar to'g'ri moslashtirilgan javobni toping.\nQutichalar | Variantlar\n1. Sulton Husayn Mirzoning Hirotni egallashi | a) 1487–1488-yillar\n2. Navoiyning vazirlikka tayinlanishi | b) 1472-yil\n3. Navoiyning Astrobod hokimi bo'lgan davri | c) 1480-yil\n| d) 1469-yil\n| e) 1500-yil",
+   "options": [
+    "1-d, 2-b, 3-a",
+    "1-d, 2-c, 3-a",
+    "1-a, 2-b, 3-d",
+    "1-d, 2-a, 3-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiyga Xitoyning qaysi shahrida haykal o'rnatilgan?",
+   "options": [
+    "Pekin",
+    "Guanchjou",
+    "Nankin",
+    "Shanxay"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alisher Navoiyning o'zi tuzgan birinchi devoni qanday ataladi?",
+   "options": [
+    "\"Badoye ul-bidoya\" (\"Badiiylik ibtidosi\")",
+    "\"Matla ul-anvor\" (\"Nurlar boshlanishi\")",
+    "\"Navodir un-nihoya\" (\"Nihoyasiz nodirliklar\")",
+    "\"Maxzan ul-asror\" (\"Sirlar xazinasi\")"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiyga Turkmanistonning qaysi shahrida haykal o'rnatilgan?",
+   "options": [
+    "Arqadag'",
+    "Ashxobod",
+    "Sarhadobod",
+    "Mari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiyning \"Tarixi anbiyo va hukamo\" asarining nechanchi bo'limida \"Qissasul anbiyo\"lar an'analari davom ettirilib, Odam alayhissalom, Nuh, Iso, Muso, Ya'qub, Sulaymon, Yusuf, Dovud kabi payg'ambarlar tarixiga oid qissalar keltiriladi?",
+   "options": [
+    "To'rtinchi bo'limida",
+    "Uchinchi bo'limida",
+    "Ikkinchi bo'limida",
+    "Birinchi bo'limida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yodgor Mirzoga qarshi jangda mag'lub Sulton Husayn Mirzo, 1470-yilning o'zida payt poylab, Navoiyning maslahati bilan qayerdan juda qisqa muddatda Hirotga yetib kelgan va maishatdan charchab uxlab yotgan Yodgor Mirzoni qo'lga olgan?",
+   "options": [
+    "Murg'ob daryosi bo'ylaridan",
+    "Tajan daryosi bo'ylaridan",
+    "Ohangaron daryosi bo'ylaridan",
+    "Zarafshon daryosi bo'ylaridan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiy kimning hukmronligi davrida tug'ilgan?",
+   "options": [
+    "Abu Said Mirzo",
+    "Shohrux Mirzo",
+    "Sulton Ahmad",
+    "Abulqosim Bobur"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiyga O'zbekistonning qaysi shaharlarida haykallar o'rnatilgan? 1) Toshkent 2) Buxoro\n3) Samarqand 4) Guliston 5) Andijon 6) Termiz 7) Navoiy",
+   "options": [
+    "1, 2, 3, 4, 5",
+    "2, 3, 4, 5, 6",
+    "1, 3, 4, 6, 7",
+    "2, 4, 5, 6, 7"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yosh Alisher Navoiy kimlardan ta'lim olgan?",
+   "options": [
+    "Pahlavon Muhammad, Shayx Abusaid Chang",
+    "Kamol Turbatiy, Sayyid Hasan Ardasher",
+    "Sayyid Hasan Ardasher, Pahlavon Muhammad",
+    "Shayx Abusaid Chang, Kamol Turbatiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alisher Navoiyning onasi kimning qizi bo'lgan?",
+   "options": [
+    "Pahlavon Muhammad",
+    "Kamol Turbatiy",
+    "Sayyid Hasan Ardasher",
+    "Shayx Abusaid Chang"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alisher Navoiyga oid to'g'ri ma'lumotlarni aniqlang.\n1) «Amiri kabir» — «Ulug' amir» ma'nosini bildirgan; 2) Navoiy Husayn Boyqaro saroyida vazir bo'lmagan; 3) Navoiy Hirotda tug'ilgan; 4) Otasining ismi G'iyosiddin Muhammad bo'lgan; 5) Marvda «Xusraviya» madrasasini qurdirgan; 6) Navoiy Samarqandda tug'ilgan.",
+   "options": [
+    "1, 2, 5",
+    "1, 3, 4, 5",
+    "1, 3, 5",
+    "1, 5, 6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiyning onasining ismi kim bo'lgan?",
+   "options": [
+    "Gavharshod begim",
+    "Ismi ma'lum emas",
+    "Feruzabegim",
+    "Robiya Sulton begim"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiyning bobosi Amir Temurning qaysi o'g'lining emikdoshi (ko'kaldosh) bo'lgan va ulg'aygach ham uning doimiy xizmatida bo'lgan?",
+   "options": [
+    "Jahongir Mirzo",
+    "Shohrux Mirzo",
+    "Mironshoh Mirzo",
+    "Umarshayx Mirzo"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sulton Husayn Mirzoning Alisher Navoiyga jilovdorlik qilgani voqeasi kimning qaysi asarida keltirilgan?",
+   "options": [
+    "Zayniddin Vosifiyning \"Badoye ul-vaqoye\" asarida",
+    "Abu Usmon Minhojiddin ibn Sirojiddinning \"Tabaqoti Nosiriy\" asarida",
+    "Rashiduddin Fazlullohning \"Jome at-tavorix\" asarida",
+    "Muiniddin Natanziyning \"Muntaxab ut-tavorixi Muiniy\" asarida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiyning \"Vaqfiya\" asari qachon yozilgan?",
+   "options": [
+    "1488-yilda",
+    "1481-yilda",
+    "1486-yilda",
+    "1483-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiyga qaysi shaharlarda haykallar o'rnatilgan? 1) Boku 2) Moskva 3) Shanxay 4) Tokio\n5) Vashington 6) Ashxobod 7) O'sh 8) Toshkent 9) Samarqand 10) Guliston 11) Termiz 12) Navoiy",
+   "options": [
+    "6, 8, 10, 11, 12",
+    "3, 4, 5, 6, 9, 10, 12",
+    "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "2, 3, 4, 5, 6, 7, 8, 9, 11"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sulton Husayn Mirzoga qarshi ikkinchi marta bosh ko'targan Yodgor Mirzoga qarshi yurish paytida, qayerda qo'zg'olon bo'lgani xabari kelgan va Sulton Husayn Mirzo Alisher Navoiyga katta vakolatlar berib, u yerga yuborgan?",
+   "options": [
+    "Kobulda",
+    "Balxda",
+    "Hirotda",
+    "Astrobodda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sulton Husayn Mirzo saltanatida qaysi lavozim \"amir\" deb atalgan?",
+   "options": [
+    "Vazir",
+    "Shahar hokimi",
+    "Lashkarboshi",
+    "Viloyat hokimi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiyga Rossiyaning qaysi shahrida haykal o'rnatilgan?",
+   "options": [
+    "Sankt-Peterburg",
+    "Astraxan",
+    "Qozon",
+    "Moskva"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1470-yilning bahorida Yodgor Mirzo qayerda ikkinchi marta Sulton Husayn Mirzoga qarshi bosh ko'targan?",
+   "options": [
+    "Kobulda",
+    "Balxda",
+    "Astrobodda",
+    "Hirotda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alisher Navoiyning ijodiy aloqalariga oid to'g'ri ma'lumotlarni aniqlang.\n1) Kamoliddin Behzod, Mirxond, Xondamirning ustozi sanaladi; 2) Abdurahmon Jomiy bilan ijodiy hamkorlikda bo'lgan; 3) Navoiy «Vaqfiya»ni yozmagan; 4) «Xamsa»dan keyin ketma-ket nasriy kitoblar yaratgan; 5) Birinchi devonini muxlislari tuzgan.",
+   "options": [
+    "1, 2, 3, 4, 5",
+    "3, 4, 5",
+    "1, 2, 3, 5",
+    "1, 2, 4, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temurning o'g'li Umarshayx Mirzo qaysi yillarda yashagan?",
+   "options": [
+    "1366–1408-yillarda",
+    "1356–1394-yillarda",
+    "1377–1447-yillarda",
+    "1362–1393-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiyning otasi G'iyosiddin bahodir Shohruxning nabirasi bo'lgan kimning ishonchli beklaridan biri bo'lgan?",
+   "options": [
+    "Alouddavla",
+    "Abu Said",
+    "Abdullatif",
+    "Abulqosim Bobur"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Asarining birinchi bo'limida 'Qissasul anbiyo'lar an'analari davom ettirilib, Odam alayhissalom, Nuh, Iso, Muso, Ya'qub, Sulaymon, Yusuf, Dovud kabi payg'ambarlar tarixiga oid qissalar keltiriladi. Navoiy Luqmoni hakimga ham anbiyolar qatoridan joy beradi. Asarning 'Hukamo zikrida' deb nomlangan ikkinchi bo'limida insoniyat tarixida chuqur iz qoldirgan donishmand hakimlar Fishog'urs, Jomosp, Buqrot, Suqrot, Aflotun, Arastu, Bolinos, Jolinus, Batlimus, Buzurgmehr kabi antik davr allomalari haqida ibratli hikoyalar keltiriladi\". Yuqoridagi ma'lumotlar Alisher Navoiyning qaysi asari to'g'risida?",
+   "options": [
+    "\"Tarixi muluki Ajam\"",
+    "\"Vaqfiya\"",
+    "\"Tarixi anbiyo va hukamo\"",
+    "\"Siroj ul-muslimin\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alisher Navoiyning bobosi Umarshayx Mirzo vafotidan keyin kimning xizmatiga o'tkazilgan?",
+   "options": [
+    "Mironshoh Mirzo",
+    "Pirmuhammad Mirzo",
+    "Jahongir Mirzo",
+    "Shohrux Mirzo"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alisher Navoiy qaysi yillarda vazir lavozimida faoliyat yuritgan?",
+   "options": [
+    "1469–1472-yillarda",
+    "1487–1488-yillarda",
+    "1472–1476-yillarda",
+    "1476–1487-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amir Temurning o'g'li Shohrux Mirzo qaysi yillarda yashagan?",
+   "options": [
+    "1366–1408-yillarda",
+    "1362–1393-yillarda",
+    "1356–1394-yillarda",
+    "1377–1447-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alisher Navoiy qayerda \"Ixlosiya\", \"Nizomiya\" madrasalari, \"Xalosiya\" xonaqohi, \"Shifoiya\" shifoxonasi, Qur'on tilovat qiluvchilarga mo'ljallangan \"Dorul huffoz\" binosini qurdirgan?",
+   "options": [
+    "Astrobodda",
+    "Mashhadda",
+    "Hirotda",
+    "Marvda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alisher Navoiy qayerda xayriya binosini qurdirgan?",
+   "options": [
+    "Mashhadda",
+    "Hirotda",
+    "Astrobodda",
+    "Marvda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiyga Yaponiyaning qaysi shahrida haykal o'rnatilgan?",
+   "options": [
+    "Nagoya",
+    "Tokio",
+    "Osaka",
+    "Kioto"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping.\nQutichalar | Variantlar\n1. Amiri kabir | a) vaqf yerlari va mulklari haqidagi hujjat\n2. Vaqfiya | b) besh doston\n3. Xamsa | c) tarixiy asar\n4. Devon | d) tazkira\n| e) «Ulug' amir» unvoni\n| f) she'rlar to'plami",
+   "options": [
+    "1-e, 2-a, 3-c, 4-f",
+    "1-e, 2-a, 3-b, 4-c",
+    "1-e, 2-a, 3-b, 4-f",
+    "1-e, 2-a, 3-f, 4-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Zamondoshlari Alisher Navoiyni qanday ataganlar?",
+   "options": [
+    "\"Nizomiddin Mir Alisher\"",
+    "\"Mavlono Alisher\"",
+    "\"Mir Alisher Navoiy\"",
+    "\"Mir Alisher\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiyning \"Tarixi anbiyo va hukamo\" asarining \"Hukamo zikrida\" deb nomlangan nechanchi bo'limida insoniyat tarixida chuqur iz qoldirgan donishmand hakimlar va antik davr allomalari haqida ibratli hikoyalar keltiriladi?",
+   "options": [
+    "To'rtinchi bo'limida",
+    "Birinchi bo'limida",
+    "Ikkinchi bo'limida",
+    "Uchinchi bo'limida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sulton Husayn Mirzo Navoiyni o'z yoniga chaqirgach, qaysi lavozimga tayinlagan?",
+   "options": [
+    "Astrobod hokimi",
+    "Hirot dorug'asi",
+    "Vazir",
+    "Muhrdor"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sulton Husayn Mirzo hukmronligining dastlabki yillarida kimning avlodi bo'lgan Yodgor Muhammad taxt da'vosi bilan qo'zg'algan?",
+   "options": [
+    "Shohrux Mirzo",
+    "Jahongir Mirzo",
+    "Umarshayx Mirzo",
+    "Mironshoh Mirzo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiy qaysi yillarda muhrdor lavozimida faoliyat yuritgan?",
+   "options": [
+    "1472–1476-yillarda",
+    "1476–1487-yillarda",
+    "1469–1472-yillarda",
+    "1487–1488-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alisher Navoiy iqtidorli talabalarga oyiga … oltin pul va yiliga … qop oziq-ovqat mahsulotlari bergan.",
+   "options": [
+    "24/besh",
+    "28/o'n besh",
+    "30/yigirma",
+    "26/o'n"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiy musharraf bo'lgan \"Amirul muqarrab\" unvonining ma'nosi nima?",
+   "options": [
+    "\"Xalq ulug'lagan amir\"",
+    "\"Podshoga eng yaqin amir\"",
+    "\"Ulug' amir\"",
+    "\"Bosh amir\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiyning donishmandligi, tadbirkorligi bilan ko'plab g'alayon-u qon to'kishlarning oldini olishi, urushlarni yarashga aylantirishi qaysi lavozimda faoliyat yuritgan paytlari yaqqol namoyon bo'lgan?",
+   "options": [
+    "Hirot dorug'asi",
+    "Vazir",
+    "Muhrdor",
+    "Astrobod hokimi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiyning otasi G'iyosiddinning ko'kaldoshi G'iyosiddin Mansur qayerda hukmronlik qilgan?",
+   "options": [
+    "Isfahonda",
+    "Jurjonda",
+    "Kirmonda",
+    "Hamadonda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yosh Alisher … nazariga tushgan, … yosh shoir iste'dodiga yuqori baho bergan, u … e'tirofini qozongan.",
+   "options": [
+    "Mavlono Lutfiy/Kamol Turbatiy/Ali Yazdiy",
+    "Kamol Turbatiy/Ali Yazdiy/Mavlono Lutfiy",
+    "Ali Yazdiy/Mavlono Lutfiy/Kamol Turbatiy",
+    "Mavlono Lutfiy/Ali Yazdiy/Kamol Turbatiy"
+   ],
+   "answer": 2
+  }
+ ]
+}

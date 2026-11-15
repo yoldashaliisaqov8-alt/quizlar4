@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 45-mavzu. Rim respublikasida hayot",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Rim shaharlari qanday barpo etilgan?",
+   "options": [
+    "Oldindan puxta ishlangan reja asosida",
+    "Faqat dengiz bo'yida",
+    "Tartibsiz holda",
+    "Faqat tepaliklarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rim shaharlarida qanday binolar bo'lgan?\n1) jamoat va turarjoy binolari; 2) ibodatxonalar; 3) hammomlar; 4) zikkuratlar; 5) savdo rastalari va dorixonalar.",
+   "options": [
+    "1, 2, 3, 5",
+    "1, 4, 5",
+    "1, 2, 4",
+    "2, 3, 4, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ko'pchilik rimliklar qanday binolarda istiqomat qilgan?",
+   "options": [
+    "Chodirlarda",
+    "Faqat villalarda",
+    "G'orlarda",
+    "2–3 qavatli binolarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Badavlat rimliklarning koshonalariga xos qulayliklarni aniqlang.",
+   "options": [
+    "Markaziy isitish tizimi – pollar isitilgan, quvurlar orqali suv oqib kelgan",
+    "Suv quduqdan tashilgan",
+    "Faqat o'choq bilan isitilgan",
+    "Uylarda deraza bo'lmagan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mozaika nima?",
+   "options": [
+    "Xom suvoqqa ishlangan rasmlar",
+    "Shisha yoki tosh parchalaridan ishlangan suratlar",
+    "Marmar haykallar",
+    "Yog'och o'ymakorligi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Freska nima?",
+   "options": [
+    "Matoga to'qilgan naqshlar",
+    "Shisha parchalaridan ishlangan suratlar",
+    "Mis lavhalarga o'yilgan yozuvlar",
+    "Xom suvoqqa ishlangan rasmlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shohona uy-joylar qanday atalgan?",
+   "options": [
+    "Forumlar",
+    "Palestralar",
+    "Villalar",
+    "Akveduklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Har bir Rim shahri markazidagi forumda nimalar bo'lgan?",
+   "options": [
+    "Faqat qullar bozori",
+    "Bozor maydoni, xalq yig'ilishlari uchun joy va markaziy ibodatxona",
+    "Faqat gladiatorlar maydoni",
+    "Faqat Senat binosi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rim shaharlariga suv nima orqali oqib kelgan?",
+   "options": [
+    "Kanallar orqali faqat yomg'ir suvi",
+    "Chig'ir orqali",
+    "Qullar tashib kelgan",
+    "Bir necha qavatli ko'prikka o'xshab ketuvchi akveduk orqali"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rim bozorlarida qanday “tovar”ga talab ko'p edi?",
+   "options": [
+    "Lojuvardga",
+    "Qullarga",
+    "Ipakka",
+    "Papirusga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rimda o'g'il bolalar 14 yoshga to'lguncha qanday toga kiyishgan?",
+   "options": [
+    "Qora toga",
+    "Qizil toga",
+    "Pushti yo'lli toga",
+    "Oppoq toga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rimda 14 yoshga to'lgan o'g'il bolalar qanday maqomga ega bo'lib, qanday kiyim kiya boshlagan?",
+   "options": [
+    "Voyaga yetgan shaxs hisoblanib, oppoq toga kiya boshlagan",
+    "Askar bo'lib, sovut kiya boshlagan",
+    "Senator bo'lib, qizil toga kiya boshlagan",
+    "Kohin bo'lib, qora libos kiya boshlagan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rimda oppoq harir togani yana kimlar kiyishgan?",
+   "options": [
+    "Avgurlar",
+    "Gladiatorlar",
+    "Qullar",
+    "Senatorlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rimlik ayollar qanday kiyinishgan?",
+   "options": [
+    "Erkaklar kabi kiyinishgan",
+    "Turli rangdagi ko'ylaklar kiyib, bosh va yelkalariga ro'mol tashlab yurganlar",
+    "Faqat oq toga kiyishgan",
+    "Faqat pushti yo'lli toga kiyishgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rimliklar dini qaysi xalq diniy e'tiqodlarini esga soladi?",
+   "options": [
+    "Forslar",
+    "Hindlar",
+    "Misrliklar",
+    "Yunonlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Muhim ishni boshlashdan oldin rimliklar nima qilishgan?",
+   "options": [
+    "Uyni tark etgan",
+    "Ro'za tutgan",
+    "Senatga murojaat qilgan",
+    "Ma'budlarga qurbonliklar bag'ishlagan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rimliklar jangda mag'lub bo'lsa, buni nima bilan izohlashgan?",
+   "options": [
+    "Yupiterning homiyligi bilan",
+    "Qaysidir ish bilan urush ma'budi Marsning jahlini chiqargan bo'lishlari bilan",
+    "Dushmanning ko'pligi bilan",
+    "Konsulning xatosi bilan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rim davlatining homiysi hisoblangan bosh ma'bud kim?",
+   "options": [
+    "Urush ma'budi Mars",
+    "Savdo-sotiq ma'budi Merkuriy",
+    "Dengiz ma'budi Neptun",
+    "Osmon, momaqaldiroq va yashin podshosi Yupiter"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rim ma'budlari va ularning vazifalari to'g'ri moslashtirilgan javobni aniqlang.\n1) Neptun; 2) Mars; 3) Merkuriy; 4) Vulqon.\na) urush ma'budi; b) dengiz ma'budi; c) olov va temirchilik ma'budi; d) savdo-sotiq ma'budi.",
+   "options": [
+    "1-b, 2-a, 3-c, 4-d",
+    "1-b, 2-a, 3-d, 4-c",
+    "1-b, 2-d, 3-a, 4-c",
+    "1-a, 2-b, 3-d, 4-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diana qanday ma'buda hisoblangan?",
+   "options": [
+    "Ov ma'budasi",
+    "Urush ma'budasi",
+    "Xonadon o'chog'i homiysi",
+    "Dengiz ma'budasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rimda diniy marosimlar o'tkazilishini qaysi kohinlar nazorat qilgan?",
+   "options": [
+    "Pontifiklar",
+    "Avgurlar",
+    "Tribunlar",
+    "Liktorlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Pontifiklarning vazifalarini aniqlang.",
+   "options": [
+    "Qushlar parvoziga qarab bashorat qilgan",
+    "Qonunlarga “veto” qo'ygan",
+    "Bayramlar taqvimi, marosimlar va tantanalar tartibini tuzishgan",
+    "Konsullarni qo'riqlagan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Pontifiklar hay'ati necha nafar ruhoniydan iborat bo'lgan va unga kim rahbarlik qilgan?",
+   "options": [
+    "12 nafar; liktor",
+    "5 nafardan 15 nafargacha; buyuk pontifik",
+    "2 nafar; konsul",
+    "300 nafar; senator"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rimda bashorat qilish qaysi kohinlar yordamida amalga oshirilgan?",
+   "options": [
+    "Avgurlar",
+    "Pontifiklar",
+    "Vestalkalar",
+    "Liktorlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Avgurlar nimalarga qarab bashorat qilgan?",
+   "options": [
+    "Tanga tashlashga",
+    "Yulduzlar va sayyoralar harakatiga",
+    "Nil toshqiniga",
+    "Qushlar parvozi, momaqaldiroq, chaqmoq, muqaddas qushlarga sepilgan donlar, aks-sado va boshqalarga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alomatlar ko'ngildagidek bo'lmasa, rimliklar nima qilgan?",
+   "options": [
+    "Ishlarni ma'lum muddatga kechiktirgan",
+    "Ishni darhol boshlagan",
+    "Boshqa ma'budga murojaat qilgan",
+    "Avgurlarni jazolagan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vesta ibodatxonasida nima saqlangan va u nimani anglatgan?",
+   "options": [
+    "Oltin xazina; davlat boyligini",
+    "“12 jadval qonunlari”; adolatni",
+    "Yupiter haykali; g'alabani",
+    "Muqaddas olov; olov yonib turar ekan, hayot mavjud deb hisoblangan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nRim ma'budi | Vazifasi\nYupiter | 1) ________\n2) ________ | xonadon o'chog'i homiysi\nMars | 3) ________\na) momaqaldiroq va yashin ma'budi, Rim homiysi; b) Vesta; c) urush ma'budi; d) Diana; e) savdo- sotiq ma'budi; f) dengiz ma'budi.",
+   "options": [
+    "1-a, 2-d, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-f, 2-b, 3-c",
+    "1-a, 2-b, 3-e"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nAtama | Ma'nosi\nAkveduk | A\nB | xom suvoqqa ishlangan rasm\nAvgurlar | C\n1) suv olib keluvchi ko'priksimon inshoot; 2) freska; 3) bashorat qiluvchi kohinlar; 4) mozaika; 5) marosimlarni nazorat qiluvchi kohinlar; 6) bozor maydoni.",
+   "options": [
+    "A-1, B-2, C-3",
+    "A-6, B-2, C-3",
+    "A-1, B-4, C-3",
+    "A-1, B-2, C-5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rim respublikasidagi hayotga oid to'g'ri hukmlarni aniqlang.\nI. Rim shaharlari oldindan ishlangan reja asosida qurilgan.\nII. O'g'il bolalar 14 yoshdan pushti yo'lli toga kiya boshlagan.\nIII. Yupiter Rim davlatining homiysi hisoblangan.\nIV. Avgurlar bayramlar taqvimini tuzgan.",
+   "options": [
+    "I va II",
+    "II va IV",
+    "III va IV",
+    "I va III"
+   ],
+   "answer": 3
+  }
+ ]
+}

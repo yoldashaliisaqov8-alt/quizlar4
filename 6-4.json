@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 4-mavzu. Eneolit va bronza davri",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Odamlar misdan foydalanish va undan mehnat qurollari yasashni qachon o'rganib oldilar?",
+   "options": [
+    "Mezolit davri boshida",
+    "Neolit davrining oxirida",
+    "So'nggi paleolit davrida",
+    "Bronza davrining o'rtalarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Misdan yasalgan mehnat qurollarining tosh qurollar bilan birgalikda ishlatilgan davri qanday ataladi?",
+   "options": [
+    "Eneolit – mis-tosh asri",
+    "Mezolit – o'rta tosh davri",
+    "Neolit – yangi tosh davri",
+    "Bronza davri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eneolit davri qaysi davrga to'g'ri keladi?",
+   "options": [
+    "Mil. avv. IX–VIII asrlarga",
+    "Mil. avv. 6–4-mingyilliklarga",
+    "Mil. avv. 3–2-mingyilliklarga",
+    "Mil. avv. 4–3-mingyilliklarning o'rtalariga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Sharqda ilk shaharlar va davlatlar qachon vujudga kela boshladi?",
+   "options": [
+    "Mil. avv. 1-mingyillikda",
+    "Mil. avv. 4-mingyillikda",
+    "Mil. avv. 2-mingyillikda",
+    "Mil. avv. 6-mingyillikda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eneolit davrida O'rta Osiyo janubida yuz bergan yangiliklarni aniqlang.\n1) sun'iy sug'orishga asoslangan dehqonchilik; 2) xom g'ishtdan ko'p xonali uylar; 3) temir uchli omoch; 4) kulolchilik o'choqlari; 5) dastlabki aravalar.",
+   "options": [
+    "1, 3, 5",
+    "2, 3, 4",
+    "2, 4, 5",
+    "1, 2, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Eneolit davrida sopol idishlar qanday bezatila boshlandi?",
+   "options": [
+    "Yozuvlar va hukmdor tasvirlari bilan",
+    "Faqat geometrik shakllar bilan",
+    "Oltin va kumush qoplamalar bilan",
+    "Hayvon va qushlar tasvirlari hamda o'simlik naqshlari bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bronza qanday olinadi?",
+   "options": [
+    "Misni qalay, qo'rg'oshin yoki rux bilan qo'shib eritib",
+    "Temirni ko'mir bilan qizdirib",
+    "Kumushni qalay bilan qo'shib",
+    "Misni oltin bilan qo'shib"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nima sababdan bronza mehnat qurollari va qurol-yarog' tayyorlashda asosiy ashyoga aylandi?",
+   "options": [
+    "Bronza temirdan qattiqroq bo'lgan",
+    "Bronza past haroratda erigan",
+    "Bronza tabiatda sof holda ko'p uchragan",
+    "Bronza misdan ancha qattiq bo'lgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bronza qachondan boshlab asta-sekin asosiy ashyoga aylana boshladi?",
+   "options": [
+    "Mil. avv. 3-mingyillik o'rtalaridan",
+    "Mil. avv. IX asrdan",
+    "Mil. avv. 4-mingyillik boshidan",
+    "Mil. avv. 2-mingyillik oxiridan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bronza mehnat qurollarining paydo bo'lishi qanday natijaga olib keldi?",
+   "options": [
+    "Matriarxat davri boshlandi",
+    "Odamlar o'zlashtiruvchi xo'jalikka qaytdi",
+    "Dalalarga yaxshiroq ishlov berib, ekin maydonlari kengaydi va ortiqcha qishloq xo'jalik mahsuloti vujudga keldi",
+    "Ko'chmanchilik kuchaydi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bronza davrida odamlar qanday kashfiyotlarni qildilar?",
+   "options": [
+    "Temir omoch va bolta",
+    "Sopol idish va to'quvchilik",
+    "Kulolchilik charxi va g'ildirak",
+    "O'q-yoy va mikrolitlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "G'ildirakning kashf etilishi natijasida nima paydo bo'ldi?",
+   "options": [
+    "Sun'iy sug'orish inshootlari",
+    "Suv tegirmonlari",
+    "Kulolchilik o'choqlari",
+    "Dastlabki aravalar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Patriarxat davrining boshlanishiga nima sabab bo'ldi?",
+   "options": [
+    "Muzlik davrida ayollar soni kamayib ketdi",
+    "Diniy e'tiqodlar o'zgardi",
+    "Omoch bilan yer haydash, chorvachilik, hunarmandchilik tufayli urug'ni mahsulot bilan ta'minlash erkaklar qo'liga o'tdi",
+    "Ayollar ovchilik bilan shug'ullana boshladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Patriarxat davrida qarindoshchilik qanday belgilanadigan bo'ldi?",
+   "options": [
+    "Qabila nomi bilan",
+    "Ayol nomi bilan",
+    "Yashash joyi nomi bilan",
+    "Erkak nomi bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bronza davriga oid manzilgohlardan biri Zarafshon daryosi havzasida qayerdan topilgan?",
+   "options": [
+    "Zamonbobo ko'li yaqinidan (Buxoro viloyati, Qorako'l tumani)",
+    "Muzrabot tumanidan",
+    "Sherobod yaqinidan (Surxondaryo viloyati)",
+    "Boysun tog'laridan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sopollitepa manzilgohi qayerda joylashgan va qaysi davrga oid?",
+   "options": [
+    "Buxoro viloyati (Qorako'l tumani); mil. avv. 4-mingyillik",
+    "Farg'ona vodiysi; mil. avv. 6–4-mingyilliklar",
+    "Surxondaryo vohasi (Muzrabot tumani); mil. avv. 3-mingyillik oxirlari – 2- mingyillik",
+    "Sherobod yaqini; mil. avv. 1-mingyillik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'rta Osiyo janubida ilk shaharlar va davlatlar qachon va nima asosida vujudga kelgan?",
+   "options": [
+    "Mezolit davrida; chorvachilik asosida",
+    "Bronza davrida; dehqonchilik va hunarmandchilik rivojlanishi asosida",
+    "Temir asrida; savdo rivoji asosida",
+    "Neolit davrida; ovchilik rivoji asosida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Jarqo'ton” nomi qanday ma'noni anglatadi?",
+   "options": [
+    "Jarlik ustidagi qo'ton",
+    "Qumli tepalik",
+    "Tog' etagidagi qal'a",
+    "Daryo bo'yidagi qishloq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jarqo'ton manzilgohi qayerda va taxminan qachon qurilgan?",
+   "options": [
+    "Muzrabot tumanida; taxminan 6 ming yil oldin",
+    "Xorazm vohasida; taxminan 2 ming yil oldin",
+    "Qorako'l tumanida; taxminan 3 ming yil oldin",
+    "Hozirgi Sherobod yaqinida; taxminan 4 ming yil oldin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jarqo'tondan topilgan ibodatxona qaysi e'tiqod bilan bog'liq?",
+   "options": [
+    "Hayvonlarga sig'inish",
+    "Olovga va suvga sig'inish",
+    "Ajdodlar ruhiga sig'inish",
+    "Quyosh va oyga sig'inish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jarqo'tonga oid to'g'ri ma'lumotlarni aniqlang.\n1) bronza davriga oid shahar ko'rinishidagi qal'a; 2) qal'a ichidan jamoa sardorining saroy qoldiqlari topilgan; 3) Zamonbobo ko'li yaqinida joylashgan; 4) sakkizta mavzedan iborat bo'lgan.",
+   "options": [
+    "3, 4",
+    "1, 2",
+    "2, 4",
+    "1, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikdagi tasvirga ko'ra Sopollitepaga xos xususiyatni aniqlang.",
+   "options": [
+    "Mudofaa devori bilan o'ralgan, yagona darvozaga ega, sakkizta mavzedan iborat bo'lgan",
+    "Ichida jamoa sardorining saroyi va olov ibodatxonasi bo'lgan",
+    "Zarafshon daryosi havzasida joylashgan",
+    "Temir davri shahri bo'lgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bronza davrida yurtimiz va qadimgi Sharq elatlari o'rtasidagi aloqalarga oid to'g'ri fikrni toping.",
+   "options": [
+    "Keng madaniy aloqalar boshlangan, daryolar vohalari bo'ylab muhim savdo yo'llari o'tgan",
+    "Aloqalar faqat dengiz orqali bo'lgan",
+    "Faqat urushlar bo'lgan",
+    "Hech qanday aloqa bo'lmagan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bronza davri aholisi qaysi sohalarda katta yutuqlarni qo'lga kiritgan?",
+   "options": [
+    "Dengizchilik va savdo",
+    "Temirchilik va kemasozlik",
+    "Hunarmandchilik, to'quvchilik, kulolchilik, zargarlik va binokorlik",
+    "Yozuv va astronomiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bronza davrida ma'dan eritish ustaxonalarida nima qilingan?",
+   "options": [
+    "Bronza buyumlar uchun eritilgan ma'danlar qoliplarga quyilgan",
+    "Toshlar silliqlangan",
+    "Temir eritilib, omochlar yasalgan",
+    "Loydan idishlar pishirilgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yangiliklarni paydo bo'lish tartibida joylashtiring.\n1) bronza olinishi; 2) sopol idishlar yasash; 3) misdan qurol yasash.",
+   "options": [
+    "2, 3, 1",
+    "3, 2, 1",
+    "2, 1, 3",
+    "1, 3, 2"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eneolit davrida inson nimalarni yaratdi?",
+   "options": [
+    "Temir omoch va temir bolta",
+    "Kulolchilik charxi va arava",
+    "Misdan ishlangan qurollar, sun'iy sug'orish tizimi, xom g'isht, ko'p xonali uylar",
+    "O'q-yoy, mikrolitlar va boshpana"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nManzilgoh | Joylashgan hudud | Davri\nSopollitepa | 1) ________ | mil. avv. 3-mingyillik oxiri – 2-mingyillik\nJarqo'ton | Sherobod yaqini | 2) ________\n3) ________ | Buxoro viloyati, Qorako'l tumani | bronza davri\na) Surxondaryo (Muzrabot tumani); b) taxminan 4 ming yil oldin; c) Zamonbobo; d) Farg'ona vodiysi; e) Obishir; f) mil. avv. 6–4-mingyilliklar.",
+   "options": [
+    "1-a, 2-f, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-b, 3-e",
+    "1-d, 2-b, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nDavr | Asosiy xususiyati | Sanasi\nEneolit | A | mil. avv. 4–3-mingyilliklar o'rtasi\nBronza davri | bronza asosiy ashyoga aylandi | B\nBronza davri | C | taxminan 4 ming yil oldin\n1) mis va tosh qurollar birga ishlatilgan; 2) mil. avv. 3-mingyillik o'rtalaridan; 3) Jarqo'ton qurildi;\n4) temir qurollar paydo bo'ldi; 5) mil. avv. IX–VIII asrlardan; 6) o'q-yoy kashf etildi.",
+   "options": [
+    "A-1, B-2, C-3",
+    "A-4, B-2, C-3",
+    "A-1, B-2, C-6",
+    "A-1, B-5, C-3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eneolit va bronza davriga oid to'g'ri hukmlarni aniqlang.\nI. Bronza misdan ko'ra yumshoqroq bo'lgan.\nII. Bronza davrida kulolchilik charxi va g'ildirak kashf etilgan.\nIII. Jarqo'tondan olov va suvga sig'inish bilan bog'liq ibodatxona qoldiqlari topilgan.\nIV. Eneolit davri mil. avv. 6–4-mingyilliklarga to'g'ri keladi.",
+   "options": [
+    "I va II",
+    "III va IV",
+    "I va IV",
+    "II va III"
+   ],
+   "answer": 3
+  }
+ ]
+}

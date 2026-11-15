@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 46-mavzu. Qullar va gladiatorlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Rimda qullar soni nima natijasida nihoyatda ko'payib ketdi?",
+   "options": [
+    "Zafarli yurishlar natijasida",
+    "Aholi sonining o'sishi natijasida",
+    "Qullarni boshqa davlatlardan sotib olish natijasida",
+    "Qarzdorlarni qul qilish natijasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Erkin rimliklar tasavvuricha qul qanday hisoblangan?",
+   "options": [
+    "Butunlay quldorning ixtiyorida bo'lgan buyumdek",
+    "Teng huquqli fuqaro",
+    "Erkin ijarachi",
+    "Davlat xizmatchisi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nima uchun Rimda qullarning qadri bo'lmagan?",
+   "options": [
+    "Ular judayam arzon turardi",
+    "Ular juda qimmat bo'lgan",
+    "Ular soni kam bo'lgan",
+    "Ular ishlashni bilmagan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nima sababdan Rimda qullar mehnatining unumdorligi kamayib ketdi?",
+   "options": [
+    "Qullarga juda ko'p haq to'langan",
+    "Qullar soni kamaygan",
+    "Qullarda mehnatdan manfaatdorlik hissi bo'lmagan, ularga haq to'lanmagan",
+    "Qullar dehqonchilikni bilmagan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quldorlar qullar mehnati foydali emasligini anglagach nima qila boshladi?",
+   "options": [
+    "Qullarni qo'shinga oldi",
+    "Qullarni ozod qilib, shahardan haydadi",
+    "Qullarni yer ijarachilariga aylantira boshladi",
+    "Qullar sonini yanada ko'paytirdi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Zamindorlar o'z yerlarini mayda mulklarga bo'lib, kimlarga ijaraga bera boshladi?",
+   "options": [
+    "Patritsiylarga",
+    "Senatorlarga",
+    "Gladiatorlarga",
+    "Erkin kambag'allarga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rimdagi mayda yer ijarachilari qanday atalgan?",
+   "options": [
+    "Kolonlar",
+    "Plebeylar",
+    "Liktorlar",
+    "Patritsiylar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kolonlar yerdan foydalanganlik uchun yer egasiga qanday to'lov berishgan?",
+   "options": [
+    "Hech qanday to'lov bermagan",
+    "O'zlari yetishtirgan mahsulotlar bilan",
+    "Harbiy xizmat bilan",
+    "Oltin tangalar bilan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nima uchun kolonlar yerga yaxshi ishlov berishdan manfaatdor bo'lgan?",
+   "options": [
+    "Yerga qancha yaxshi ishlov bersalar, hosilning shuncha ko'p ulushi o'zlariga nasib etardi",
+    "Ular soliqdan ozod bo'lgan",
+    "Ular yerning egasi bo'lgan",
+    "Ularga davlat mukofot bergan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Kulbali qullar” kimlar edi?",
+   "options": [
+    "Yer egalari kichik yerlarni mustaqil yuritishiga ruxsat bergan, mehnat qurollari va oilasi bo'lgan qullar",
+    "Gladiatorlar maktabidagi qullar",
+    "Davlat qullari",
+    "Kulbalarda yashovchi erkin dehqonlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Kulbali qullar”ning taqdiri kimning qo'lida bo'lgan?",
+   "options": [
+    "Xo'jayinlarining",
+    "O'zlarining",
+    "Senatning",
+    "Xalq tribunlarining"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rim davlatining eng mazlum aholisi kimlar bo'lib qolavergan?",
+   "options": [
+    "Senatorlar va konsullar",
+    "Avgurlar va pontifiklar",
+    "Plebeylar va patritsiylar",
+    "Qullar va kolonlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qullar, kolonlar va “kulbali qullar” to'g'ri moslashtirilgan javobni aniqlang.\n1) Qullar; 2) Kolonlar; 3) “Kulbali qullar”.\na) erkin mayda yer ijarachilari; b) mehnatdan manfaatdorlik hissi bo'lmagan, haq olmagan; c) o'z yeri, mehnat qurollari va oilasi bo'lgan, ammo xo'jayinga qaram qullar; d) Rimning tub aholisi.",
+   "options": [
+    "1-d, 2-a, 3-c",
+    "1-b, 2-c, 3-a",
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rimliklarning sevimli tomoshalaridan biri nima bo'lgan?",
+   "options": [
+    "Olimpiya o'yinlari",
+    "Arava poygasi",
+    "Teatr tragediyalari",
+    "Gladiatorlar jangi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Aksariyat gladiatorlar kimlar bo'lgan?",
+   "options": [
+    "Senatorlar farzandlari",
+    "Patritsiylar",
+    "Qullar yoki jinoyatchilar",
+    "Erkin fuqarolar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Gladiatorlarga qayerda ta'lim berilgan?",
+   "options": [
+    "Grammatika maktablarida",
+    "Maxsus yopiq maktablarda",
+    "Palestralarda",
+    "Forumda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yengilgan gladiatorning taqdirini kim hal qilgan?",
+   "options": [
+    "Imperator yolg'iz o'zi",
+    "G'olib gladiator",
+    "Kohinlar",
+    "Tomoshabinlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tomoshabinlar o'ng qo'lining bosh barmog'ini yuqoriga ko'tarsa, bu nimani anglatgan?",
+   "options": [
+    "Jang davom ettirilgan",
+    "Yengilgan gladiator o'ldirilgan",
+    "Yengilgan gladiator tirik qolgan",
+    "G'olib ozod qilingan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Gladiatorlar janglari qayerda o'tkazilgan?",
+   "options": [
+    "Senat binosida",
+    "Ulkan tosh stadionlar – amfiteatrlarda",
+    "Termalarda",
+    "Ibodatxonalarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eng katta amfiteatr qaysi va unga necha tomoshabin sig'gan?",
+   "options": [
+    "Panteon; 20 ming tomoshabin",
+    "Forum; 100 ming tomoshabin",
+    "Kolizey; 10 ming tomoshabin",
+    "Kolizey; 50 ming tomoshabin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "To'r va changak bilan qurollangan gladiatorga xos jihat nima?",
+   "options": [
+    "U sovut va qalqon bilan qurollangan",
+    "U otliq jang qilgan",
+    "O'zini himoya qila olmasa ham, raqibini to'r bilan o'rab, changak bilan o'ldirishi mumkin edi",
+    "U faqat hayvonlar bilan jang qilgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Gladiatorlar yana qanday janglar o'tkazgan?",
+   "options": [
+    "Faqat otda",
+    "Faqat suvda",
+    "Yovvoyi arslonlar, qoplonlar va darg'azab ho'kizlar bilan",
+    "Faqat kamon bilan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Spartak boshchiligidagi qullar qo'zg'oloni qachon boshlangan?",
+   "options": [
+    "Mil. avv. 509-yilda",
+    "Mil. avv. 74-yilda",
+    "Mil. avv. 49-yilda",
+    "Mil. avv. 71-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Spartak kim edi?",
+   "options": [
+    "Rim armiyasida xizmat qilishdan bosh tortgani uchun Kapuya gladiatorlik maktabiga sotilgan frakiyalik qul",
+    "Rim konsuli",
+    "Spartalik jangchi",
+    "Galliyalik sarkarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Spartak va uning tarafdorlari gladiatorlar maktabidan qochgach qayerga chiqib olishdi?",
+   "options": [
+    "Kapitoliy tepaligiga",
+    "Muqaddas tog'ga",
+    "Vezuviy tog'idagi qoyaga",
+    "Sitsiliya oroliga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Spartak Vezuviy tog'idagi qamaldan qanday chiqdi?",
+   "options": [
+    "Tunnel qazib chiqdi",
+    "Qullar uzum novdalaridan narvon to'qib, ko'rinmaydigan tarafdan cho'qqidan pastga tushib, rimliklarga orqadan zarba berdi",
+    "Rimliklar bilan sulh tuzdi",
+    "Rimliklarni sotib oldi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Spartakka qarshi qaysi sarkarda jo'natilgan va hal qiluvchi jang qachon bo'lgan?",
+   "options": [
+    "Pompey; mil. avv. 74-yilda",
+    "Yuliy Sezar; mil. avv. 49-yilda",
+    "Mark Krass; mil. avv. 71-yil bahorida",
+    "Oktavian; mil. avv. 29-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nSpartak qo'zg'oloni | Ma'lumot\nBoshlangan yil | 1) ________\nQo'zg'olonchilar dastlab chiqib olgan joy | 2) ________\nSpartakni yenggan sarkarda | 3) ________\na) mil. avv. 74-yil; b) Vezuviy tog'i; c) Mark Krass; d) mil. avv. 71-yil; e) Kapitoliy tepaligi; f) Yuliy Sezar.",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-a, 2-e, 3-c",
+    "1-d, 2-b, 3-c",
+    "1-a, 2-b, 3-f"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nAtama | Ma'nosi\nKolonlar | A\nB | 50 ming tomoshabin sig'adigan eng katta amfiteatr\nChangak | C\n1) mayda yer ijarachilari; 2) Kolizey; 3) uch ayrili nayza; 4) Panteon; 5) qul savdogarlari; 6) qisqa qilich.",
+   "options": [
+    "A-5, B-2, C-3",
+    "A-1, B-2, C-6",
+    "A-1, B-2, C-3",
+    "A-1, B-4, C-3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qullar va gladiatorlarga oid to'g'ri hukmlarni aniqlang.\nI. Rimda qullar mehnatidan manfaatdor bo'lmagan.\nII. Aksariyat gladiatorlar patritsiylar bo'lgan.\nIII. Spartak hal qiluvchi jangda halok bo'lgan.\nIV. Spartak qo'zg'oloni Sezar tomonidan bostirilgan.",
+   "options": [
+    "III va IV",
+    "I va II",
+    "I va III",
+    "II va IV"
+   ],
+   "answer": 2
+  }
+ ]
+}

@@ -1,0 +1,466 @@
+{
+ "title": "9-sinf · 2-mavzu. G'arbiy Yevropa: industrial jamiyat",
+ "time": 30,
+ "questions": [
+  {
+   "q": "… - pul bo'lib xizmat qiladigan qimmatbaho metallar qiymatining pasayishi tufayli tovarlar narxining sezilarli darajada oshish jarayoni.",
+   "options": [
+    "“Kapital inqilobi”",
+    "“Savdo inqilobi”",
+    "“Narxlar inqilobi”",
+    "“Tovar inqilobi”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Tovar ishlab chiqaruvchi xo'jaliklar” deganda nima tushuniladi?",
+   "options": [
+    "Faqat o'z ehtiyoji uchun mahsulot yetishtiruvchi xo'jaliklar",
+    "Davlat buyurtmasi asosida ishlab chiqaruvchi xo'jaliklar",
+    "Tabiiy resurslardan foydalanmaydigan xo'jaliklar",
+    "Bozorda sotishga mo'ljallangan mahsulot ishlab chiqaruvchi xo'jaliklar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi mamlakatlarda savdogarlar ulgurji savdoga katta ehtiyoj seza boshlagan va vaqti-vaqti bilan o'tkaziladigan yarmarkalarga mahsulot olib borish o'rniga, yirik shaharlarda tashkil qilingan va “birja” deb atalgan maxsus joylarda o'z mahsulotlarini e'lon qila boshlagan? 1) Angliya; 2) Goll",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta asrlarda Yevropada banklar rolini qanday muassasa bajarardi?",
+   "options": [
+    "Katolik cherkovi",
+    "Sarroflik do'konlari",
+    "Hunarmandlar sexlari",
+    "Shahar meriyasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon zamonaviy ko'rinishdagi ilk bank - Avliyo Georgiy banki paydo bo'lgan?",
+   "options": [
+    "XIII asrda",
+    "XIV asrda",
+    "XV asrda",
+    "XVI asrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Zamonaviy ko'rinishdagi ilk bank - Avliyo Georgiy banki qayerda paydo bo'lgan?",
+   "options": [
+    "Florensiya",
+    "Venetsiya",
+    "Kapuya",
+    "Genuya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yevropada xavf-xatar katta bo'lgan uzoq masofalar bilan savdo qilish uchun savdogarlar qanday tashkilotga birlasha boshlagan?",
+   "options": [
+    "Savdo gildiyalari",
+    "Korxona konsernlari",
+    "Kapital sindikatlari",
+    "Aksionerlik kompaniyalari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kompaniyaning umumiy xarajatlari uchun mablag' qo'shib, foydadan o'z ulushini olish huquqini beruvchi qimmatbaho qog'oz qanday ataladi?",
+   "options": [
+    "Aksiya",
+    "Obligatsiya",
+    "Chek",
+    "Veksel"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yevropada bozor munosabatlari shakllanayotgan davrda dehqonlar O'rta asrlardagi … ekishdan ko'p dalali ekishga o'tgan.",
+   "options": [
+    "Ikki dalali",
+    "Uch dalali",
+    "To'rt dalali",
+    "Besh dalali"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yevropada bozor munosabatlari shakllanayotgan davrda bug'doyni yanchish, shaxtadan suv chiqarish uchun qanday inshootlardan foydalanishgan? 1) Suv charxpalagi; 2) Chig'ir; 3) Shamol tegirmoni.",
+   "options": [
+    "1, 3",
+    "1, 2",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Boylik keltirishi mumkin bo'lgan barcha mulk: uy, mehnat qurollari, mexanizmlar, ixtirolar umumiy nom bilan nima deb ataladi?",
+   "options": [
+    "Aksiya",
+    "Kapital",
+    "Byudjet",
+    "Divident"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Manufaktura” nima?",
+   "options": [
+    "Hunarmand sexi",
+    "Savdo markazi",
+    "Kasb maktabi",
+    "Katta korxona"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kapitalizm rivojlanishi uchun zarur bo'lgan ikkita eng muhim shartni toping. 1) Kapital to'plash imkoniyatining paydo bo'lishi; 2) Ilg'or texnologiyalar taraqqiyoti; 3) Bank sohasining rivojlanganligi; 4) Erkin ishchi kuchining mavjudligi.",
+   "options": [
+    "1, 2",
+    "2, 3",
+    "1, 4",
+    "3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kapitalistik munosabatlar jadal rivojlangan G'arbiy Yevropa mamlakatlarida kishilarning yangi turi – … paydo bo'lgan.",
+   "options": [
+    "ishchi",
+    "tadbirkor",
+    "proletar",
+    "bankir"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kapital yig'uvchi, jamiyatning yangi qatlami qanday atalgan? 1) Proletariat; 2) Kapitalist; 3) Burjua.",
+   "options": [
+    "1, 2, 3",
+    "1, 3",
+    "1, 2",
+    "2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yevropada eski zodagonlar va ritsarlar bilan quda-andachilik qilib, o'zlariga yuqori martaba va unvonlar sotib olgan tadbirkorlar qanday atalgan?",
+   "options": [
+    "“Shaharlik zodagonlar”",
+    "“Burjua zodagonlar”",
+    "“Yangi zodagonlar”",
+    "“Soxta zodagonlar”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi jamiyatda yollanib ishlaydigan qatlam qanday atalgan?",
+   "options": [
+    "Burjuaziya",
+    "Kapitalist",
+    "Intelligensiya",
+    "Proletariat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kishilar bir-biridan kapitalning mavjudligi va daromad darajasiga qarab farqlanadigan jamiyat qanday ataladi?",
+   "options": [
+    "“Sinfiy jamiyat”",
+    "“Kapitalistik jamiyat”",
+    "“Proletar jamiyat”",
+    "“Iqtisodiy jamiyat”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shaharlarning rivojlanishi har doim qanday omilga bog'liq bo'lgan?",
+   "options": [
+    "Aholi soniga",
+    "Geografik joylashuviga",
+    "Qonunlarning qat'iyligiga",
+    "Mudofaaning mustahkamligiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yevropaliklar tomonidan Hindiston va Amerikaga dengiz yo'llarining ochilishi natijasida, dastlab Portugaliyaning qaysi shahri jadal rivojlangan?",
+   "options": [
+    "Kadis",
+    "Sevilya",
+    "Lissabon",
+    "Portu"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yevropaliklar tomonidan Hindiston va Amerikaga dengiz yo'llarining ochilishi natijasida, dastlab Ispaniyaning qaysi shahri jadal rivojlangan?",
+   "options": [
+    "Kadis",
+    "Sevilya",
+    "Lissabon",
+    "Portu"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qimmatli qog'ozlar, tovarlar, xomashyo, qimmatbaho metallar va valyutalar kabi turli aktivlarni sotish va sotib olish mumkin bo'lgan savdo maydonchasi qanday ataladi?",
+   "options": [
+    "Sindikat",
+    "Bank",
+    "Birja",
+    "Korporatsiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Bank” so'zi qaysi tildan kelib chiqqan?",
+   "options": [
+    "Italyanchadan",
+    "Lotinchadan",
+    "Fransuzchadan",
+    "Ispanchadan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Bank” so'zi kelib chiqqan “banco” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Stol”",
+    "“Hamyon”",
+    "“Pul”",
+    "“Kursi”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'rta asrlarda “bank” deb nimaga aytilgan?",
+   "options": [
+    "Sarroflar almashish uchun tangalarni terib qo'yadigan stolga",
+    "Savdogarlar o'z mahsulotlarini saqlaydigan omborga",
+    "Davlat soliq yig'adigan joyga",
+    "Pul ishlab chiqaradigan ustaxonaga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Kapital” so'zi qaysi tildan kelib chiqqan?",
+   "options": [
+    "Italyanchadan",
+    "Lotinchadan",
+    "Fransuzchadan",
+    "Ispanchadan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Kapital” so'zi kelib chiqqan “capitalis” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Mablag'”",
+    "“Tadbirkor”",
+    "“Hukmron”",
+    "“Mahsulot”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Manufaktura” so'zi qaysi tildan kelib chiqqan?",
+   "options": [
+    "Italyanchadan",
+    "Lotinchadan",
+    "Fransuzchadan",
+    "Ispanchadan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Manufaktura” so'zi qaysi qaysi so'zlar qo'shilmasidan kelib chiqqan?",
+   "options": [
+    "“Manus” – “qo'l”, “factura” – “tayyorlash”",
+    "“Manus” – “hunarmad”, “factura” – “ishlash”",
+    "“Manus” – “ustaxona”, “factura” – “sotish”",
+    "“Manus” – “ishchi”, “factura” – “xizmat qilish”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Manufakturada ish nimalarga asoslangan edi? 1) Ilg'or texnologiya; 2) Mehnat taqsimoti; 3) Qo'l hunari.",
+   "options": [
+    "1, 2, 3",
+    "1, 3",
+    "1, 2",
+    "2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Burjua jamiyatidagi hukmron sinf vakili, kapital egasi, yollanma mehnatdan ekspluatatsiya qiluvchi qanday ataladi?",
+   "options": [
+    "Burjuaziya",
+    "Kapitalist",
+    "Intelligensiya",
+    "Proletariat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Proletariat” so'zi qaysi tildan kelib chiqqan?",
+   "options": [
+    "Italyanchadan",
+    "Fransuzchadan",
+    "Lotinchadan",
+    "Ispanchadan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Proletariat” so'zi kelib chiqqan “proletarius” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Ishchi”",
+    "“Aholi”",
+    "“Kambag'al”",
+    "“Mehnatkash”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Faqat o'z mehnatini sotish, yollanma mehnat evaziga tirikchilik qiladigan, hech qanday kapitalning foydasi hisobiga yashamaydigan ijtimoiy sinf qanday ataladi?",
+   "options": [
+    "Burjuaziya",
+    "Kapitalist",
+    "Intelligensiya",
+    "Proletariat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yevropaliklar tomonidan Hindiston va Amerikaga dengiz yo'llarining ochilishi natijasida qaysi mamlakat shaharlari savdo yo'llaridan chetda qolgan va o'zlarining avvalgi ahamiyatini yo'qotgan?",
+   "options": [
+    "Ispaniya",
+    "Gollandiya",
+    "Italiya",
+    "Portugaliya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davrdan Yevropaning savdo chorrahalari Shimoliy dengiz qirg'oqlariga ko'chgan?",
+   "options": [
+    "XV asrning birinchi yarmidan",
+    "XV asrning ikkinchi yarmidan",
+    "XVI asrning birinchi yarmidan",
+    "XVI asrning ikkinchi yarmidan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI asrda Yevropaning Shimoliy dengiz qirg'oqlaridagi asosiy savdo markazi qaysi shahar bo'lgan?",
+   "options": [
+    "London",
+    "Antverpen",
+    "Amsterdam",
+    "Rotterdam"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Antverpen shahri qaysi davlatda joylashgan?",
+   "options": [
+    "Gollandiya",
+    "Daniya",
+    "Angliya",
+    "Fransiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "London shahri qaysi davlat poytaxti?",
+   "options": [
+    "Gollandiya",
+    "Daniya",
+    "Angliya",
+    "Fransiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "London shahri qaysi daryo bo'yida joylashgan?",
+   "options": [
+    "Temza",
+    "Sena",
+    "Marna",
+    "Elba"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Parij shahri qaysi davlat poytaxti?",
+   "options": [
+    "Gollandiya",
+    "Daniya",
+    "Angliya",
+    "Fransiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI asrda G'arbiy Yevropadagi markazlashgan eng katta davlat qaysi edi?",
+   "options": [
+    "Gollandiya",
+    "Daniya",
+    "Angliya",
+    "Fransiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI asrda qanday sabablar natijasida o'n minglab parijliklar vafot etgan va shaharning rivojlanishi sekinlashgan? 1) Diniy urushlar; 2) Zilzila; 3) Vabo epidemiyasi.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yangi jamiyatning asosiy sinflari qaysilar hisoblanadi? 1) Intelligensiya; 2) Kapitalist; 3) Proletariat.",
+   "options": [
+    "2, 3",
+    "1, 2",
+    "1, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Industrial sivilizatsiyaning asoslari qaysi g'oyalar hisoblanadi? 1) Inson erkinligi; 2) Inson tengligi; 3) Inson buyukligi.",
+   "options": [
+    "2, 3",
+    "1, 2",
+    "1, 3",
+    "1, 2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Birjada ko'p miqdordagi tovar va pul bilan shartnomalar tuzilardi, tovarlar esa faqat namunalarda taqdim etilardi, pul o'rniga esa qimmatli qog'ozlar – tilxatlar berilishi mumkin edi. Masalan, baliqlar – ovlanmasdan, bug'doy – hosil yig'ilmasdan oldin sotilar edi. XVI asrda Amsterdam birjasida Goll",
+   "options": [
+    "F. Magellan",
+    "A. Vespuchchi",
+    "X. Kolumb",
+    "V. Da Gama"
+   ],
+   "answer": 2
+  }
+ ]
+}

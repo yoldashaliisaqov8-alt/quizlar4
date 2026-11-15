@@ -1,0 +1,410 @@
+{
+ "title": "8-sinf · O'rta asrlarda Amerika xalqlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Inklar imperiyasi nechta viloyatga bo'lingan.",
+   "options": [
+    "Uchta",
+    "Oltita",
+    "O'n ikkita",
+    "To'rtta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diagrammada irokezlarga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "1, 4",
+    "1, 3",
+    "2, 4",
+    "1, 2"
+   ],
+   "answer": 1,
+   "image": "img/j8-19-02.jpg"
+  },
+  {
+   "q": "Amerika qit'asi qaysi yarimsharda va qaysi okeanlar oralig'ida joylashgan.",
+   "options": [
+    "G'arbiy yarimsharda, Atlantika va Hind okeanlari oralig'ida",
+    "G'arbiy yarimsharda, Atlantika va Tinch okeanlari oralig'ida",
+    "Sharqiy yarimsharda, Atlantika va Shimoliy Muz okeani oralig'ida",
+    "Sharqiy yarimsharda, Hind va Tinch okeanlari oralig'ida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tenochtitlanning birinchi tlatoanisi qaysi yilda saylandi.",
+   "options": [
+    "1376-yilda",
+    "1325-yilda",
+    "1429-yilda",
+    "1428-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Atsteklar davlatini qaysi yilda ispan konkistadorlari tugatdi.",
+   "options": [
+    "1521-yilda",
+    "1572-yilda",
+    "1532-yilda",
+    "1528-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Atsteklar Tenochtitlan shahriga qaysi yilda asos soldi.",
+   "options": [
+    "1521-yilda",
+    "1429-yilda",
+    "1325-yilda",
+    "1376-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Konkistador” so'zining ma'nosi nima.",
+   "options": [
+    "Ispancha “savdogar”",
+    "Ispancha “kashfiyotchi”",
+    "Portugalcha “dengizchi”",
+    "Ispancha “bosqinchi”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Inklar davlati qaysi yilda butunlay tugatildi.",
+   "options": [
+    "1532-yilda",
+    "1572-yilda",
+    "1697-yilda",
+    "1521-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Atsteklar qaysi qabilaga tobe bo'lib, soliq to'lagan.",
+   "options": [
+    "Irokez qabilasiga",
+    "Inka qabilasiga",
+    "Mayya qabilasiga",
+    "Tepanek qabilasiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Atsteklar mustaqillikka qaysi yilda erishdi.",
+   "options": [
+    "1429-yilda",
+    "1325-yilda",
+    "1521-yilda",
+    "1376-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada atsteklarga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "2, 3",
+    "1, 3",
+    "1, 4",
+    "2, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-19-11.jpg"
+  },
+  {
+   "q": "Kichik Kolorado va Rio Grande daryolari havzasida qaysi qabilalar madaniy markaz yaratgan.",
+   "options": [
+    "Pueblo va Pima",
+    "Krik va chiroki",
+    "Aleut va eskimos",
+    "Irokez va natchez"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mayyalar Yukatan yarimorolining qayerida shahar- davlatlarga asos solgan.",
+   "options": [
+    "Markazida, hozirgi Kuba hududida",
+    "G'arbida, hozirgi Peru hududida",
+    "Janubiy qismida, hozirgi Gvatemala hududida",
+    "Shimolida, hozirgi Meksika hududida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Atsteklarda tlatoani bo'lish uchun kamida nechta dushmanni qo'lga olish kerak edi.",
+   "options": [
+    "To'rttani",
+    "O'n yettitani",
+    "Yigirma beshtani",
+    "O'ntani"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Faqat qaysi hindular yarimyerto'lalardan iborat kichik qishloqlarda yashagan.",
+   "options": [
+    "Irokezlar",
+    "Janubiy Kaliforniya hindulari",
+    "Shimoliy Kaliforniya hindulari",
+    "Pueblo qabilalari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Atsteklar davlatini zabt etgan konkistador kim.",
+   "options": [
+    "Fransisko Pisarro",
+    "Ernan Kortes",
+    "Vasko da Gama",
+    "Xristofor Kolumb"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Atstek o'smirlari birinchi asirini qo'lga tushirguncha nimani qila olmagan.",
+   "options": [
+    "Uylana olmagan",
+    "Qurol ola olmagan",
+    "Uyidan chiqa olmagan",
+    "Sochini ola olmagan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mayyapan shahriga qaysi yilda asos solingan.",
+   "options": [
+    "1429-yilda",
+    "1532-yilda",
+    "1263-yilda",
+    "1325-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Inklar davlatining markazi qaysi shahar edi.",
+   "options": [
+    "Tenochtitlan",
+    "Chichen itsa",
+    "Kusko (Quyosh shahri)",
+    "Mayyapan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Eskimoslar nimani ovlagan.",
+   "options": [
+    "Fil va karkidonni",
+    "Quyon va kiyikni",
+    "Bizon va bug'uni",
+    "Kit, morj, qutb ayig'i va shimol tulkisini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diagrammada mayyalarga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "1, 3",
+    "1, 4",
+    "1, 2",
+    "3, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-19-21.jpg"
+  },
+  {
+   "q": "Inklar jamiyatining asosiy birligi nima edi.",
+   "options": [
+    "Qabila ittifoqi",
+    "Shahar-davlat",
+    "Urug'",
+    "Oila"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Pueblo va Pima qabilalari qanday uylar qurgan.",
+   "options": [
+    "Tosh va xom g'ishtdan ikki va uch qavatli uylar",
+    "Qarag'ay po'stlog'idan uzun uylar",
+    "Yarimyerto'lalar",
+    "Muzdan iglular"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konkistadorlar inklar qo'shinini qaysi yilda tor-mor etdi.",
+   "options": [
+    "1572-yilda",
+    "1528-yilda",
+    "1521-yilda",
+    "1532-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Inklar imperiyasi XVI asr boshlarida nima sababdan zaiflashdi.",
+   "options": [
+    "Qurg'oqchilik tufayli",
+    "Taxt vorislari o'rtasidagi kurash natijasida ikki qismga bo'linib ketdi",
+    "Dehqonlar qo'zg'oloni tufayli",
+    "Atsteklar hujumi tufayli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kaliforniya hindulari ko'pchiligi qanday turar joylarda yashagan.",
+   "options": [
+    "Ko'chib yurishga qulay chaylalarda",
+    "Iglularda",
+    "Tosh uylarda",
+    "Uzun jamoa uylarida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada inklarga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "2, 4",
+    "2, 3",
+    "1, 3",
+    "1, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-19-27.jpg"
+  },
+  {
+   "q": "Irokez qabilalari ittifoqi nima deb atalgan.",
+   "options": [
+    "“Irokezlar ligasi” (Besh qabila ittifoqi)",
+    "“Uch shahar ittifoqi”",
+    "“Buyuk ko'llar ittifoqi”",
+    "“Missisipi ittifoqi”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Atsteklar Tenochtitlanni qayerda barpo etdi.",
+   "options": [
+    "Missisipi daryosi bo'yida",
+    "And tog'larida",
+    "Teskoko ko'lidagi orollarda",
+    "Yukatan yarimorolida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mayyalar birinchilardan bo'lib qaysi daraxtni o'stirgan.",
+   "options": [
+    "Makkajo'xori",
+    "Kartoshka",
+    "Paxta",
+    "Kakao"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Montezuma I davrida Tenochtitlanda nimalar qurildi.",
+   "options": [
+    "Akveduklar va yo'llar",
+    "Dengiz portlari va kemalar",
+    "Piramidalar va qal'alar",
+    "To'g'onlar, toshdan saroy va ehromlar, Buyuk ibodatxona qayta tiklandi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mayyalarni nima uchun ba'zan “Yangi dunyo yunonlari” deb atashgan.",
+   "options": [
+    "Har bir shahar-davlat mustaqil boshqaruvga ega bo'lgani uchun",
+    "Yunonlardan kelib chiqqani uchun",
+    "Yunon tilida so'zlashgani uchun",
+    "Dengiz savdosi bilan shug'ullangani uchun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amerika xalqlaridan qaysilari o'z davlatlarini tashkil qilgan.",
+   "options": [
+    "Irokez, mayya va atstek",
+    "Pueblo, inka va eskimos",
+    "Mayya, atstek va inklar",
+    "Aleut, atstek va inka"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Inklar imperiyasi qaysi hukmdor davrida vujudga keldi.",
+   "options": [
+    "Inka Pachakutek",
+    "Montezuma II",
+    "Montezuma I",
+    "Ernan Kortes"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Missisipi aholisi yerga ishlov berishda nimadan foydalangan.",
+   "options": [
+    "Temir tishli chopqilardan",
+    "Tosh boltalardan",
+    "Yog'och omochdan",
+    "Ho'kiz qo'shilgan plugdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIII asrda Mayyalar davlatida hokimning eng yaqin yordamchisi va bosh maslahatchisi kim edi.",
+   "options": [
+    "Qo'shin sarkardasi",
+    "Qishloq rahbari",
+    "Oliy kohin",
+    "Bosh vazir"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Eskimoslar uylarini nima bilan qizitib yoritgan.",
+   "options": [
+    "Ko'mir bilan",
+    "Tezak bilan",
+    "Yog'och bilan",
+    "Tyulen va morj yog'i bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Irokezlarning uzun uylari nimadan qurilgan.",
+   "options": [
+    "Terilardan",
+    "Yog'ochdan, qarag'ay po'stlog'i bilan qoplangan",
+    "Tosh va xom g'ishtdan",
+    "Qamish va loydan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mayyalar davlati ispanlar tomonidan qaysi yilda to'liq bo'ysundirildi.",
+   "options": [
+    "1521-yilda",
+    "1528-yilda",
+    "1697-yilda",
+    "1532-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Inklar tog' jilg'alari suvini dalalarga yetkazish uchun nima qurgan.",
+   "options": [
+    "Yer osti quduqlari",
+    "Chuqur xandaqlar",
+    "Ulkan akveduklar (osma quvurlar)",
+    "To'g'onlar"
+   ],
+   "answer": 2
+  }
+ ]
+}

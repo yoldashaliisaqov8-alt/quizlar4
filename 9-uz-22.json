@@ -1,0 +1,286 @@
+{
+ "title": "9-sinf · 24-mavzu. Qoraqalpoq adabiyoti va xalq og'zaki ijodi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qoraqalpoqlarning qiziqchisi bo'lgan xalq qahramonini aniqlang.",
+   "options": [
+    "Oydo'stbiy",
+    "Maman botir",
+    "Ajiniyoz",
+    "O'mirbek laqqi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilardan qaysi biri qahramonlik mavzusidagi doston hisoblanmaydi.",
+   "options": [
+    "Qublon",
+    "Mastposhsho",
+    "Bo'zatov",
+    "Edigey"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amir Temur va To'xtamish faoliyati bilan bog'liq voqealar bayon etilgan doston nomini aniqlang.",
+   "options": [
+    "Qublon",
+    "Mastposhsho",
+    "Qirqqiz",
+    "Edigey"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xorazm xalqining Eron shohi Nodirshohga qarshi kurashi o'z badiiy ifodasini topgan doston nomini aniqlang.",
+   "options": [
+    "Qublon",
+    "Mastposhsho",
+    "Qirqqiz",
+    "Edigey"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi shaxslar orasidan qaysi biri qoraqalpoq qahramoni hisoblanmaydi.",
+   "options": [
+    "Maman botir",
+    "Jiyev Jirov",
+    "Ernazarbiy",
+    "Oydo'stbiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraqalpoqlar gilam va kashtalariga tushirilgan bezaklar suv ramzini aks ettiruvchi to'lqin ko'rinishiga ega bo'lishining sababini aniqlang.",
+   "options": [
+    "Yangi sug'orish tarmoqlarini bunyod etishgani uchun",
+    "Suvdan juda unumli foydalanishgani uchun",
+    "Qadimdan daryo va ko'l bo'ylarida yashab kelishgani uchun",
+    "Tasviriy san'atda qadama naqshli yog'och o'ymakorligidan foydalangani uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi ma'lumotlar orasidan noto'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "Qoraqalpoqlar qo'shiqchiligi mazmuniga ko'ra xalq, tarixiy va badiiy qo'shiqlarga bo'linadi",
+    "Qoraqalpoq qo'shiqlari qo'biz, dutor, g'ijjak, surnay, nog'ora kabi musiqiy cholg'u asboblariga bo'linadi",
+    "Doston ijrochilari jirovlar, baxshilar va qissaxonlar deb ataluvchi uch guruhga bo'linganlar",
+    "Doston ijrochilari bir-biridan aytadigan dostonlarining mazmuni, ijro etish uslublari, kuy va musiqiy cholg'u asboblari bilan farq qilgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mahmud Qoshg'ariy, Navoiy, Bobur, Darvishali Changiy va boshqalarning asarlarida turkiy xalqlarning eng sevimli torli-tirnama musiqa cholg'usi sifatida ta'riflangan musiqa asbobini aniqlang.",
+   "options": [
+    "Nay",
+    "Doira",
+    "Chang",
+    "Qo'biz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'biz qirg'izlarda qaysi nom bilan atalishini aniqlang.",
+   "options": [
+    "Qobuz",
+    "Qo'muz",
+    "Xomis",
+    "Do'mbira"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qo'biz xakaslarda qaysi nom bilan nomlanishini aniqlang.",
+   "options": [
+    "Qobuz",
+    "Qo'muz",
+    "Xomis",
+    "Do'mbira"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Umumiy uzunligi 700 mm atrofida. O'yma kosasi va yoysimon bukilgan yo'g'on dastasi bir butun yog'ochdan yasaladi... Gap qaysi cholg'u asbobi haqida ketmoqda.",
+   "options": [
+    "Nay",
+    "Doira",
+    "Chang",
+    "Qo'biz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jiyen Jirov yashab o'tgan davrni aniqlang.",
+   "options": [
+    "1799-1880 yillar",
+    "1730-1784 yillar",
+    "1827-1900 yillar",
+    "1824-1878 yillar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kunxo'ja Ibrohim yashagan davrni aniqlang.",
+   "options": [
+    "1799-1880 yillar",
+    "1730-1784 yillar",
+    "1827-1900 yillar",
+    "1824-1878 yillar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"O'roqchilar\", \"Cho'ponlar\", \"El bilan\" kabi asarlar muallifini aniqlang.",
+   "options": [
+    "Ajiniyoz Qo'siboy o'g'li",
+    "Jiyen Jirov",
+    "Kunxo'ja Ibrohim",
+    "Berdaq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ajiniyoz Qo'siboy o'g'li yashagan davrni aniqlang.",
+   "options": [
+    "1799-1880 yillar",
+    "1730-1784 yillar",
+    "1827-1900 yillar",
+    "1824-1878 yillar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ajiniyoz Qo'siboy o'g'li boshlang'ich ta'limni qayerdagi eski maktabda oladi.",
+   "options": [
+    "Xo'jayli",
+    "Mo'ynoq",
+    "Qo'ng'irot",
+    "Chimboy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ajiniyoz Qo'siboy o'g'li o'qigan madrasa nomini aniqlang.",
+   "options": [
+    "Sherg'oziyxon madrasasi",
+    "Arab Muhammadxon madrasasi",
+    "Abdullaxon madrasasi",
+    "Muhammad Aminxon madrasasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "She'rlarida insonparvarlik va vatanparvarlik g'oyalari kuylagan ijodkorni aniqlang.",
+   "options": [
+    "Ajiniyoz Qo'siboy o'g'li",
+    "Jiyen Jirov",
+    "Kunxo'ja Ibrohim",
+    "Berdaq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraqalpoq xalqining boshqa yurtlarga ko'chib ketishga majbur etilganligi katta mahorat bilan kuylangan asar nomini aniqlang.",
+   "options": [
+    "Qiz Mengesh bilan aytishuv",
+    "Ajiniyoz",
+    "Bo'zatov",
+    "Avlodlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Kerak\", \"Bo'ladi\", \"Bo'lmasa\", \"Yaxshi\", \"Yigitlar\" kabi asarlar muallifini aniqlang.",
+   "options": [
+    "Ajiniyoz Qo'siboy o'g'li",
+    "Jiyen Jirov",
+    "Kunxo'ja Ibrohim",
+    "Berdaq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1878-yilda yaratilgan asar nomini aniqlang.",
+   "options": [
+    "Qiz Mengesh bilan aytishuv",
+    "Ajiniyoz",
+    "Bo'zatov",
+    "Avlodlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ibrohim Yusupov tomonidan yaratilgan asar nomini aniqlang.",
+   "options": [
+    "Qiz Mengesh bilan aytishuv",
+    "Ajiniyoz",
+    "Bo'zatov",
+    "Avlodlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "2024-yilda tavalludining 200-yilligi nishonlangan shaxs nomini aniqlang.",
+   "options": [
+    "Ajiniyoz Qo'siboy o'g'li",
+    "Jiyen Jirov",
+    "Kunxo'ja Ibrohim",
+    "Berdaq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarixiy shaxsni aniqlang. Uning asl ismi Berdimurod Qarg'aboy o'g'li bo'lib, u avval ovul maktabida, so'ngra madrasada tahsil olgan...",
+   "options": [
+    "Ajiniyoz Qo'siboy o'g'li",
+    "Jiyen Jirov",
+    "Kunxo'ja Ibrohim",
+    "Berdaq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Berdaq necha yoshida iste'dodli shoir sifatida xalq orasida tanilgan.",
+   "options": [
+    "20 yosh",
+    "25 yosh",
+    "22 yosh",
+    "30 yosh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi asarlarda mehnatkash xalqning og'ir hayoti tasvirlangan.",
+   "options": [
+    "\"O'g'limga\", \"Ahmoq bo'lma\"",
+    "\"Bo'lgan emas\", \"Umrim\", \"Yordam ber\"",
+    "\"O'roqchilar\", \"Cho'ponlar\", \"El bilan\"",
+    "\"Avlodlar\", \"Omongeldi\", \"Oydo'stbiy\", \"Ernazarbiy\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Berdaq qaysi asarlar orqali yoshlarni vatanni sevishga, ma'rifat cho'qqilarini zabt etishga chaqiradi.",
+   "options": [
+    "\"O'g'limga\", \"Ahmoq bo'lma\"",
+    "\"Bo'lgan emas\", \"Umrim\", \"Yordam ber\"",
+    "\"O'roqchilar\", \"Cho'ponlar\", \"El bilan\"",
+    "\"Avlodlar\", \"Omongeldi\", \"Oydo'stbiy\", \"Ernazarbiy\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi asarlarda xonlar zulmiga qarshi kurashgan xalq qahramonlarining jasorati faxr bilan kuylanadi.",
+   "options": [
+    "\"O'g'limga\", \"Ahmoq bo'lma\"",
+    "\"Bo'lgan emas\", \"Umrim\", \"Yordam ber\"",
+    "\"O'roqchilar\", \"Cho'ponlar\", \"El bilan\"",
+    "\"Avlodlar\", \"Omongeldi\", \"Oydo'stbiy\", \"Ernazarbiy\""
+   ],
+   "answer": 3
+  }
+ ]
+}

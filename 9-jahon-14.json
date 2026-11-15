@@ -1,0 +1,306 @@
+{
+ "title": "9-sinf · 14-mavzu. Osiyo va Afrika",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Agar G'arbda hayotning asosi urush bo'lsa, Sharqda – tinchlik (xotirjamlik); G'arb xalqlarining asosi – alohida shaxs, Sharq xalqlarining asosi – oila; G'arbda harakatlantiruvchi kuch – bu huquq va moddiy manfaat, Sharqda – bu hissiyot va namoyishkorona beg'arazlik”. Ushbu jumlalar muallifi kim?",
+   "options": [
+    "M. Veber",
+    "L. Delyusin",
+    "N. Danilevskiy",
+    "K. Yaspers"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yevropa tarix fanida sharqona taraqqiyot shaklini qanday atashadi? 1) “An'anaviy sivilizatsiya”; 2) “An'anaviy jamiyat”; 3) “An'anaviy tarix”.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yevropa tarix fanida sharqona taraqqiyot shaklidagi qanday belgilarni asosiy belgilar sifatida kiritishadi? 1) Ko'pchilik avloddan avlodga o'tib kelayotgan kamtarona hayot tarzi; 2) Diniy sabr-toqat; 3) Yer egaligining o'ziga xos shakli; 4) Kishilar hayotining davlat tomonidan tartibga solinishi.",
+   "options": [
+    "1, 2, 3",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI-XVIII asrlarda Osiyodagi an'anaviy jamiyatlarda nima kuchli ta'sirga ega edi?",
+   "options": [
+    "Oila",
+    "Davlat",
+    "Din",
+    "Jamoa"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI-XVIII asrlarda G'arbiy Yevropa va Osiyo sivilizatsiyalari o'rtasidagi asosiy farq Osiyoda … bo'lgan.",
+   "options": [
+    "xususiy yer egaligining rivojlanganida",
+    "o'ziga xos kapitalistik munosabatlarning shakllanganida",
+    "feodal tarqoqlikning to'liq tugatilganida",
+    "yerga davlat mulkchiligining saqlanib qolayotganida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Osiyo sivilizatsiyalarida yerlarning bosh mulkdori … bo'lib, … shaxsida mujassamlashgan edi.",
+   "options": [
+    "jamoa/dehqon",
+    "davlat/hukmdor",
+    "din ahli/shayxulislom",
+    "boylar/zodagon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Insoniyat tarixida ishlab chiqaruvchi kuchlar va xo'jalik sohalari bo'yicha jamiyatlarning bosqichlari va ularning asoslari to'g'ri berilgan javobni toping. 1) Agrar yoki an'anaviy jamiyat; 2) Industrial yoki mashina jamiyati; 3) Postindustrial yoki axborot jamiyati. a) sanoat; b) axborot va xizmat",
+   "options": [
+    "1c, 2a, 3b",
+    "1b, 2c, 3a",
+    "1a, 2b, 3c",
+    "1c, 2b, 3a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI asr birinchi yarmidan XVIII asrning o'rtalarigacha Sharq mamlakatlarining G'arb mamlakatlari bilan savdo necha foizdan oshmasdi?",
+   "options": [
+    "5–10 foizdan",
+    "10–20 foizdan",
+    "20–30 foizdan",
+    "30–40 foizdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi xaritada Osiyo mintaqalari to'g'ri berilgan javobni toping.",
+   "options": [
+    "1 – Sharqiy Osiyo, 2 – Janubiy Osiyo, 3 – Janubi-sharqiy Osiyo, 4 – Janubi-g'arbiy Osiyo",
+    "1 – Sharqiy Osiyo, 2 – Janubi-sharqiy Osiyo, 3 – Janubiy Osiyo, 4 – Janubi-g'arbiy Osiyo",
+    "1 – Janubi-g'arbiy Osiyo, 2 – Janubiy Osiyo, 3 – Janubi-sharqiy Osiyo, 4 – Sharqiy Osiyo",
+    "1 – Janubi-sharqiy Osiyo, 2 – Sharqiy Osiyo, 3 – Janubi-g'arbiy Osiyo, 4 – Janubiy Osiyo"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi davr boshlariga kelib, Sharq mamlakatlarining taraqqiyotda Yevropaga nisbatan sezilarli orqada qola boshlashining asosiy sabablarini toping. 1) Sharq davlatlarida harbiy xarajatlar miqdori G'arb davlatlarinikidan ancha yuqori edi; 2) VI–XVII asrlardan boshlab Sharq mamlakatlarida transport vos",
+   "options": [
+    "1, 3, 4",
+    "1, 2, 3, 4",
+    "1, 3, 4, 5",
+    "1, 2, 3, 4, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sharq mamlakatlari yangi tarixining asosiy mazmunini … jamiyatdan … jamiyatga o'tish tashkil qiladi.",
+   "options": [
+    "postindustrial/axborot",
+    "axborot/an'anaviy",
+    "an'anaviy/industrial",
+    "industrial/postindustrial"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davrgacha G'arbning Sharqdan ustunligi faqat tashqi ko'rinish bo'lib, bu davrda Sharq harbiy ishda, moddiy ne'matlarni ishlab chiqarishda Yevropadan ancha oldinda edi?",
+   "options": [
+    "XVII asrning boshlarigacha",
+    "XVII asrning o'rtalarigacha",
+    "XVII asrning oxirlarigacha",
+    "XVIII asrning boshlarigacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Hukmdorning fe'li shamolga monand, xalqning tabiati esa maysaga o'xshaydi. Shamol qaysi tomonga essa, maysalar ham shu tomonga egiladi”. Ushbu jumlalar muallifi kim?",
+   "options": [
+    "Konfutsiy",
+    "Sun Szi",
+    "Budda",
+    "Tangun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Oila – kichik davlat, davlat esa – katta oila”. Ushbu jumlalar muallifi kim?",
+   "options": [
+    "Konfutsiy",
+    "Sun Szi",
+    "Budda",
+    "Tangun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI asrda qaysi sivilizatsiya dunyoning eng aholisi ko'p va boy qismi bo'lib qolayotgan edi?",
+   "options": [
+    "Hind sivilizatsiyasi",
+    "Islom sivilizatsiyasi",
+    "Xitoy-konfutsiylik sivilizatsiyasi",
+    "Afrika sivilizatsiyasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asrda qaysi sivilizatsiyasining asosiy belgilari kishilarning kamtarona hayot tarzi, diniy sabr-toqat, yer egaligining o'ziga xos shakli, hayotning davlat tomonidan tartibga solinishi hisoblangan?",
+   "options": [
+    "Hind sivilizatsiyasi",
+    "Islom sivilizatsiyasi",
+    "Xitoy-konfutsiylik sivilizatsiyasi",
+    "Afrika sivilizatsiyasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi sivilizatsiyani Xitoydan ko'p yangiliklarni: yozuv tizimini, moddiy madaniyatning ancha qismini qabul qilgani uchun uni Xitoy sivilizatsiyasining bitta tarmog'i ham deyishadi?",
+   "options": [
+    "Koreya sivilizatsiyasi",
+    "Yaponiya sivilizatsiyasi",
+    "Hind sivilizatsiyasi",
+    "Janubi-sharqiy Osiyo sivilizatsiyasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi Osiyo davlatida shaxs va uning o'z hayot yo'lini erkin tanlash huquqi rad etilmagan?",
+   "options": [
+    "Koreya",
+    "Hindiston",
+    "Xitoy",
+    "Yaponiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi Osiyo davlati aholisi tarkibida Yevropa dvoryanlariga monand oliyhimmat ritsarlar (samuraylar) va knyazlar mavjud bo'lgan Sharqdagi yagona mamlakat edi?",
+   "options": [
+    "Koreya",
+    "Hindiston",
+    "Xitoy",
+    "Yaponiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponiyada qaysi rejim tomonidan faqat xitoycha tartiblarni joriy qilinishi yapon jamiyatining rivojlanishini to'xtatib, uni vaqtincha faol xalqaro aloqalardan uzib qo'ygan?",
+   "options": [
+    "Tokugava",
+    "Minamoto",
+    "Asikaga",
+    "Takeda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi Osiyo sivilizatsiyasiga mansub jamiyatda kishilarning ijtimoiy holati uning tug'ilish omili, ya'ni ota-onasining jamiyatdagi o'rni bilan belgilangan, odamlar kasta (tabaqa) larga bo'lingan bo'lib, insonning jamiyatdagi o'rni uning qaysi kastaga mansubligi bilan bog'liq bo'lgan?",
+   "options": [
+    "Koreya sivilizatsiyasi",
+    "Yaponiya sivilizatsiyasi",
+    "Hind sivilizatsiyasi",
+    "Xitoy-konfutsiylik sivilizatsiyasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Islom dini nimaga asoslangani uchun ko'plab xalqlar o'rtasida keng tarqalgan?",
+   "options": [
+    "Yakka xudolikka",
+    "Barcha musulmonlarning tengligiga",
+    "O'limdan keyingi hayotning mavjudligiga",
+    "O'zgarmas qoidalarga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sharqda O'rta asrchilik tizimining inqirozi, avvalo, nimalarda namoyon bo'lgan? 1) Yerga davlat mulkchiligining buzilishida; 2) Markaziy hokimiyatning susayganligida; 3) Soliq tizimining susayganligida.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sharq mamlakatlarida ko'p asrlar davomida rivojlanib kelgan an'anaviy jamiyat jihatlariga nimalarni kiritish mumkin? 1) Davlat rolining yuqoriligi; 2) Urug'-qabilachilik va quldorlik munosabatlari qoldiqlarining saqlanib qolishi; 3) Jamiyat iqtisodiy hayotida shaharlar rolining pastligi; 4) Ijtimoiy",
+   "options": [
+    "1, 2, 3",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afrikaning qaysi hududida yerlar unumdor bo'lib, odamlar qadim zamonlardan dehqonchilik va chorvachilik bilan shug'ullangan?",
+   "options": [
+    "Sharqda, Hind okeani va Fors ko'rfazi qirg'oqlarida",
+    "G'arbda, Atlantika okeani qirg'oqlarida",
+    "Shimolda, O'rtayer va Qizil dengizlar qirg'oqlarida",
+    "Janubda, Atlantika va Hind okeanlari qirg'oqlarida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Afrika qit'asining aholi eng zich joylashgan qismi qaysi bo'lgan?",
+   "options": [
+    "Sharq",
+    "G'arb",
+    "Shimol",
+    "Janub"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Afrikadagi eng katta cho'l qaysi?",
+   "options": [
+    "Masai Mara",
+    "Savanna",
+    "Kalaxari",
+    "Sahroyi Kabir"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markaziy va Janubiy Afrikaning mahalliy aholisi XVIII asr boshlariga kelib ham qabilachilik holatida yashar edi, qabila urug'larga bo'lingan bo'lib, jamiyatda bosh rolni … o'ynardi. 1) qabila boshlig'i; 2) harbiy sarkarda; 3) shaman.",
+   "options": [
+    "1",
+    "1, 2",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'rta asrlarda Afrikaning qaysi hududlarida xristianlik va islom ancha keng tarqalgan?",
+   "options": [
+    "G'arbi va shimolida",
+    "Shimoli va markazida",
+    "Markazi va janubida",
+    "Janubi va g'arbida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XV asrda Afrikada urushlar tez-tez yuz berganligi tufayli qaysi hudud orqali arab dunyosi va Yevropaga ko'plab qora tanli qullarni keltirib sotish boshlangan?",
+   "options": [
+    "Sudan",
+    "Efiopiya",
+    "Liviya",
+    "Mavritaniya"
+   ],
+   "answer": 0
+  }
+ ]
+}

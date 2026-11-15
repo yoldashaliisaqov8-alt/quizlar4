@@ -1,0 +1,696 @@
+{
+ "title": "9-sinf · 4-mavzu. Yevropada Reformatsiya",
+ "time": 30,
+ "questions": [
+  {
+   "q": "O'rta asrlarda G'arbiy Yevropada cherkov marosimlari qaysi tilda o'tkazilgan?",
+   "options": [
+    "Lotin tilida",
+    "Yunon tilida",
+    "Lotin va yunon tilida",
+    "Mahalliy tilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xristianlarning muqaddas kitobi nima?",
+   "options": [
+    "Rigveda",
+    "Injil",
+    "Tavrot",
+    "Yevangeliya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta asrlarda G'arbiy Yevropada puldor kishilar hali qilib ulgurmagan gunohlari uchun nima sotib olardi?",
+   "options": [
+    "Autodafe",
+    "Interdikt",
+    "Inkivizitsiya",
+    "Indulgensiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Reformatsiya” so'zi kelib chiqqan “reforma” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Yangilik”",
+    "“Qonun”",
+    "“Islohot”",
+    "“Zamonaviy”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi davr boshlarida G'arbiy Yevropada tarqoq knyazliklardan iborat bo'lgan qaysi davlat ichki ishlarida hal qiluvchi rolga katolik cherkovi da'vo qilgan?",
+   "options": [
+    "Ispaniya",
+    "Fransiya",
+    "Germaniya",
+    "Portugaliya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi davr boshlarida G'arbiy Yevropada qaysi davlatda butun boshli shaharlar katolik cherkoviga qarashli bo'lgan?",
+   "options": [
+    "Ispaniya",
+    "Germaniya",
+    "Fransiya",
+    "Portugaliya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Yevropada Reformatsiya” atamasi nimaning isloh qilish jarayonini anglatadi?",
+   "options": [
+    "Parlamentni",
+    "Monarxiyani",
+    "Feodal tuzumni",
+    "Katolik cherkovini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yevropada Reformatsiya qaysi yilda boshlangan?",
+   "options": [
+    "1517-yilda",
+    "1519-yilda",
+    "1522-yilda",
+    "1524-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yevropada Reformatsiya qaysi davlatda boshlangan?",
+   "options": [
+    "Ispaniya",
+    "Germaniya",
+    "Fransiya",
+    "Portugaliya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yevropada Reformatsiya qaysi universitet ilohiyot fani professori tomonidan boshlangan?",
+   "options": [
+    "Vittenberg",
+    "Geydelberg",
+    "Vorms",
+    "Leypsig"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yevropada Reformatsiya kim tomonidan boshlangan?",
+   "options": [
+    "Tomas Myunser",
+    "Martin Lyuter",
+    "Ignatiy Loyola",
+    "Jan Kalvin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“95 tezislar” deb ataluvchi da'vat muallifi kim?",
+   "options": [
+    "Tomas Myunser",
+    "Martin Lyuter",
+    "Ignatiy Loyola",
+    "Jan Kalvin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“95 tezislar” deb ataluvchi da'vat nimaga qarshi qaratilgan edi?",
+   "options": [
+    "Autodafe",
+    "Interdikt",
+    "Inkivizitsiya",
+    "Indulgensiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“95 tezislar” deb ataluvchi da'vat qanday maqsadda tuzilgan edi?",
+   "options": [
+    "Cherkovni isloh qilish uchun",
+    "Aholini diniy bilimini oshirish uchun",
+    "Ilmiy munozara uchun",
+    "Yangi diniy mazhab tuzish uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yevropada Reformatsiya boshlanganda Martin Lyuter necha yoshda edi?",
+   "options": [
+    "30 yoshda",
+    "31 yoshda",
+    "32 yoshda",
+    "33 yoshda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Martin Lyuterdan jahli chiqqan Rim papasi uni qaysi shahar sudiga chaqirgan?",
+   "options": [
+    "Vittenberg",
+    "Geydelberg",
+    "Vorms",
+    "Leypsig"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kimning tarafdorlari “lyuteranlar” deb atalgan?",
+   "options": [
+    "Tomas Myunser",
+    "Martin Lyuter",
+    "Ignatiy Loyola",
+    "Jan Kalvin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI asr boshlarida Yevropaga qayerdan g'alla va kumushning oqib kelishi natijasida narx-navo inqilobi yuz bergan?",
+   "options": [
+    "Amerikadan",
+    "Osiyodan",
+    "Afrikadan",
+    "Avstraliyadan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI asr boshlarida Yevropada yuz bergan narx-navo inqilobi natijasida, avvalo, kimlar aziyat chekkan?",
+   "options": [
+    "Hunarmandlar",
+    "Savdogarlar",
+    "Zodagonlar",
+    "Dehqonlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Germaniyada qachon dehqonlar qo'zg'oloni boshlangan?",
+   "options": [
+    "1517-yilda",
+    "1519-yilda",
+    "1522-yilda",
+    "1524-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI asr boshlarida Germaniyaning qaysi qismida dehqonlar qo'zg'oloni boshlangan?",
+   "options": [
+    "Sharqida",
+    "G'arbida",
+    "Janubida",
+    "Shimolida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Germaniyada boshlangan dehqonlar qo'zg'oloni qanday nom olgan?",
+   "options": [
+    "“Xalq Reformatsiyasi”",
+    "“Xalq Inqilobi”",
+    "“Dehqonlar Reformatsiyasi”",
+    "“Dehqonlar Inqilobi”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Germaniyada boshlangan dehqonlar qo'zg'oloniga kim boshchilik qilgan?",
+   "options": [
+    "Tomas Myunser",
+    "Martin Lyuter",
+    "Ignatiy Loyola",
+    "Jan Kalvin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tomas Myunserning kasbi kim bo'lgan?",
+   "options": [
+    "Dehqon",
+    "Ruhoniy",
+    "Hunarmand",
+    "Savdogar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI asr boshlarida Germaniyada boshlangan dehqonlar qo'zg'oloni butun mamlakatni qamrab olgach qanday nom olgan?",
+   "options": [
+    "“Buyuk dehqonlar” qo'zg'oloni",
+    "“Buyuk dehqonlar” inqilobi",
+    "“Buyuk dehqonlar” urushi",
+    "“Buyuk dehqonlar” islohoti"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Germaniyada dehqonlar qo'zg'oloni bostirilgach, Tomas Myunser … .",
+   "options": [
+    "qamoqqa tashlangan",
+    "qochib ketgan",
+    "avf etilgan",
+    "qatl qilingan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Germaniyada dehqonlar qo'zg'oloni bostirilgach, reyxstag (parlament) da ko'pchilik bo'lgan katoliklar Reformatsiyaning yutuqlarini bekor qilish tashabbusi bilan chiqqan, M. Lyuter tarafdorlari esa bunga norozilik bildirgan. Shu paytdan boshlab ular … deb atala boshlangan.",
+   "options": [
+    "“lyuteranlar”",
+    "“protestantlar”",
+    "“yeretiklar”",
+    "“pravoslavlar”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jan Kalvin qaysi millatga mansub edi?",
+   "options": [
+    "Nemis",
+    "Ingliz",
+    "Italyan",
+    "Fransuz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jan Kalvin qaysi shaharda protestantlikning yangi oqimiga asos solgan?",
+   "options": [
+    "Jeneva",
+    "Parij",
+    "Bryussel",
+    "Vorms"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Germaniyada dehqonlar qo'zg'oloni qaysi yillarda bo'lib o'tgan?",
+   "options": [
+    "1522–1524-yillarda",
+    "1524–1526-yillarda",
+    "1525–1527-yillarda",
+    "1527–1529-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Duo o'qi va ishla!” degan shior kimning ta'limotining asosi bo'lgan?",
+   "options": [
+    "Tomas Myunser",
+    "Martin Lyuter",
+    "Ignatiy Loyola",
+    "Jan Kalvin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Duo o'qi va ishla!” degan shior kimlarga ma'qul kelgan? 1) Yangi zodagonlar; 2) Ruhoniylar; 3) Burjuaziya.",
+   "options": [
+    "2, 3",
+    "1, 2",
+    "1, 3",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yevropada protestantlikning Injilni mustaqil o'qish, xudo oldida shaxsiy javobgarlik hissi kabi o'ziga xos jihatlari aholi orasida nimani rivojlanishiga ko'maklashgan?",
+   "options": [
+    "Individualizm",
+    "Protestantizm",
+    "Plyuralizm",
+    "Katolitsizm"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon “Iso jamiyati” yoki iyezuitlar (Iyezus — Iisus, Iso) ordeni ta'sis etilgan?",
+   "options": [
+    "1526-yilda",
+    "1572-yilda",
+    "1540-yilda",
+    "1579-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Iso jamiyati” kim tomonidan tashkil etilgan?",
+   "options": [
+    "Ispaniya qiroli",
+    "Rim papasi",
+    "Germaniya imperatori",
+    "Burgundiya gersogi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Iyezuitlar oldiga qanday vazifa qo'yilgan?",
+   "options": [
+    "“Adashgan olomonni cherkovdan quvish”",
+    "“Adashgan olomonni qirg'in qilish”",
+    "“Adashgan olomonni sud qilish”",
+    "“Adashgan olomonni cherkovga qaytarish”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Iso jamiyati” ning asoschisi kim edi?",
+   "options": [
+    "Tomas Myunser",
+    "Martin Lyuter",
+    "Ignatiy Loyola",
+    "Jan Kalvin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ignatiy Loyola … zodagoni edi.",
+   "options": [
+    "ispan",
+    "nemis",
+    "fransuz",
+    "portugal"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Reformatsiya davrida siyosiy jihatdan tarqoq bo'lgan qaysi davlat papa boshliq katolik reaksiyaning barcha dahshatini o'zida his qilgan?",
+   "options": [
+    "Ispaniya",
+    "Italiya",
+    "Germaniya",
+    "Portugaliya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Papa dindan qaytganlarni jazolashni qanday sudga topshirgan?",
+   "options": [
+    "Autodafe sudiga",
+    "Interdikt sudiga",
+    "Inkivizitsiya sudiga",
+    "Indulgensiya sudiga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Reformatsiya davrida “dindan qaytgan” deb hisoblanganlar sud hukmiga ko'ra qanday jazolangan?",
+   "options": [
+    "Gulxanda yoqilgan",
+    "Dorga osilgan",
+    "Boshi olingan",
+    "Suvga cho'ktirilgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Katolik cherkovi tomonidan protestantlarga qarshi qo'llanilgan barcha tadbirlar tarixda qanday nom olgan?",
+   "options": [
+    "“Monoreformatsiya”",
+    "“Panreformatsiya”",
+    "“Antireformatsiya”",
+    "“Kontrreformatsiya”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI asrda G'arbiy Yevropadagi qaysi davlatlar aholisi birbiriga dushman ikki diniy mazhabga ajralib, bir-biriga qarshi urushlar olib borgan?",
+   "options": [
+    "Ispaniya, Portugaliya",
+    "Portugaliya, Germaniya",
+    "Germaniya, Fransiya",
+    "Fransiya, Ispaniya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asr o'rtalarida Niderland hududi qaysi davlatga qaram edi?",
+   "options": [
+    "Ispaniya",
+    "Portugaliya",
+    "Germaniya",
+    "Fransiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi ispan qiroli Niderlandda kalvinizm ta'limotiga qarshi yuqori diniy lavozimlarga ispanlarni tayinlay boshlagan va mamlakatga ispan inkvizitsiyasini kiritishga tayyorlangan?",
+   "options": [
+    "Fernando II",
+    "Filipp II",
+    "Karl V",
+    "Genrix IV"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Niderlandda ispanlarga qarshi xalq harakatiga kimlar jalb qilingan? 1) Shaharliklar; 2) Hunarmandlar; 3) Dehqonlar; 4) Savdogarlar; 5) Ruhoniylar; 6) Zodagonlar.",
+   "options": [
+    "2, 3, 4, 5",
+    "1, 2, 3, 4, 6",
+    "1, 3, 4, 5, 6",
+    "1, 2, 4, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yillarda Niderlandda ocharchilik yuz bergan?",
+   "options": [
+    "1563 –1564-yillarda",
+    "1564 –1565-yillarda",
+    "1565 –1566-yillarda",
+    "1566 –1567-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Niderlandda qaysi yilda Gollandiya va Zelandiya dengizchilari Bril shahrini egallagan?",
+   "options": [
+    "1526-yilda",
+    "1572-yilda",
+    "1540-yilda",
+    "1579-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Gollandiya va Zelandiya Niderlandning qaysi qismida joylashgan?",
+   "options": [
+    "Sharqiy",
+    "G'arbiy",
+    "Janubiy",
+    "Shimoliy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shahzoda Villem van Oranye Niderlandning qaysi hududlari hukmdori deb e'lon qilingan?",
+   "options": [
+    "Sharqiy hududlari",
+    "G'arbiy hududlari",
+    "Janubiy hududlari",
+    "Shimoliy hududlari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Gyozlar” so'zining ma'nosi nima? 1) Gadoylar; 2) Tilanchilar; 3) Qashshoqlar.",
+   "options": [
+    "1, 2, 3",
+    "1, 3",
+    "1, 2",
+    "2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI asrda Niderlandda ispan aristokratlari kimlarni “gyozlar” deb ataganlar?",
+   "options": [
+    "Shaharliklarni",
+    "Dvoryanlarni",
+    "Dehqonlarni",
+    "Barcha niderlandlarni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Niderlandda kimlar o'zlarini “gyoz” deb atab, ispanlarga norozilik belgisi sifatida tilanchining charm xaltasi va sadaqa yig'iladigan yog'och kosani namoyishkorona olib yurishgan?",
+   "options": [
+    "Shaharliklar",
+    "Dvoryanlar",
+    "Dehqonlar",
+    "Ruhoniylar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Niderland shimoliy viloyatlari “Utrext uniyasi” deb nomlangan hujjatni imzolab, ittifoq tuzganlar?",
+   "options": [
+    "1526-yilda",
+    "1572-yilda",
+    "1579-yilda",
+    "1540-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Utrext uniyasi” ittifoqiga nechta Niderland viloyati birlashgan edi?",
+   "options": [
+    "Olti viloyat",
+    "Yetti viloyat",
+    "Sakkiz viloyat",
+    "To'qqiz viloyat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Utrext uniyasi” ittifoqiga birlashgan Niderland viloyatlaridan qaysi biri eng qudratlisi edi?",
+   "options": [
+    "Zelandiya",
+    "Utrext",
+    "Gollandiya",
+    "Frizland"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asr ikkinchi yarmida Niderlandda tashkil topgan yangi davlat rasman qanday nom bilan atalgan?",
+   "options": [
+    "“Birlashgan provinsiyalar”",
+    "“Gollandiya Respublikasi”",
+    "“Utrext ittifoqi”",
+    "“Niderland federatsiyasi”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI asr ikkinchi yarmida Niderlandda tashkil topgan yangi davlat sodda qilib qanday nom bilan atalgan?",
+   "options": [
+    "“Birlashgan provinsiyalar”",
+    "“Gollandiya Respublikasi”",
+    "“Utrext ittifoqi”",
+    "“Niderland federatsiyasi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Ispaniya Gollandiyani tan olganligi haqidagi shartnomani imzolagan?",
+   "options": [
+    "1603-yilda",
+    "1605-yilda",
+    "1607-yilda",
+    "1609-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yevropada tashkil topgan birinchi burjua davlati qaysi?",
+   "options": [
+    "Shveysariya Ittifoqi",
+    "Neapol qirolligi",
+    "Niderland Respublikasi",
+    "Buyuk Britaniya imperiyasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Agar cherkov bizga oq ko'rinadigan narsa qora deb aytsa, biz uni darhol qora deb tan olishimiz kerak”. Ushbu shior qaysi tashkilotga tegishli?",
+   "options": [
+    "Iyezuitlar ordeni",
+    "Tampliyerlar ordeni",
+    "Tevtonlar ordeni",
+    "Gospitalyerlar ordeni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gollandiya Respublikasi o'z mustaqilligi uchun necha yil kurashgan?",
+   "options": [
+    "20 yil",
+    "25 yil",
+    "30 yil",
+    "35 yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Protestantizm” so'zi qaysi tildan kelib chiqqan?",
+   "options": [
+    "Yunoncha",
+    "Inglizcha",
+    "Nemischa",
+    "Lotincha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Protestantizm” so'zi kelib chiqqan “protestatio” so'zi qanday ma'noni anglatadi? 1) “Tantanali bayonot”; 2) “E'lon qilish”; 3) “Norozilik”.",
+   "options": [
+    "1, 2, 3",
+    "1, 3",
+    "1, 2",
+    "2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Individualizm” so'zi qaysi tildan kelib chiqqan?",
+   "options": [
+    "Yunoncha",
+    "Inglizcha",
+    "Nemischa",
+    "Lotincha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Individualizm” so'zi kelib chiqqan “individium” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Insoniy”",
+    "“Bo'linmas”",
+    "“Yagona”",
+    "“Alohida”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Insonning shaxsiy hayoti jamoaga bog'liq bo'lmagan, faqat uning o'ziga tegishli alohida bir hodisa deb qaraladigan, jamiyat manfaatlaridan inson huquqlarini mutlaq ustun qo'yadigan ta'limot qanday ataladi?",
+   "options": [
+    "Individualizm",
+    "Abolitsionizm",
+    "Plyuralizm",
+    "Irridentizm"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Individualizmning negizida qanday g'oyalar yotadi? 1) Insonning tabiatdan ustunligi; 2) Har bir shaxsning yagona va beqiyos ekanligini tan olish; 3) Shaxsning huquqlarini mutlaqlashtirish.",
+   "options": [
+    "1, 2, 3",
+    "2, 3",
+    "1, 2",
+    "1, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Utrext uniyasi” ga ko'ra qaysi ispan qiroli Niderland taxtidan tushirilganligi e'lon qilingan?",
+   "options": [
+    "Fernando II",
+    "Filipp II",
+    "Karl V",
+    "Genrix IV"
+   ],
+   "answer": 1
+  }
+ ]
+}

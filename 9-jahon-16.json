@@ -1,0 +1,696 @@
+{
+ "title": "9-sinf · 16-mavzu. Hindiston Boburiylar imperiyasi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "XVI asr 20-yillarida Dehlida kim hukmronlik qilayotgan edi?",
+   "options": [
+    "Sulton Oyboq",
+    "Sulton Ibrohim",
+    "Sulton Qayqubod",
+    "Sulton Bahlul"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI asr 20-yillarida Zahiriddin Muhammad Bobur qayerda hukmronlik qilayotgan edi?",
+   "options": [
+    "Kobul",
+    "Andijon",
+    "Samarqand",
+    "Hirot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yilda Mirzo Bobur Hindistonga yurish qilgan?",
+   "options": [
+    "1520-yilda",
+    "1526-yilda",
+    "1529-yilda",
+    "1532-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mirzo Bobur qancha qo'shin bilan Hindistonga yurish qilgan?",
+   "options": [
+    "20 ming",
+    "30 ming",
+    "40 ming",
+    "50 ming"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Panipat jangi qachon bo'lib o'tgan?",
+   "options": [
+    "1524-yil 18-mayda",
+    "1525-yil 17-iyunda",
+    "1526-yil 21-aprelda",
+    "1527-yil 13-martda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mirzo Bobur qaysi sanada, Dehli taxtiga o'tirganidan keyin, hind zodagonlarining birlashgan qo'shinini yenggan?",
+   "options": [
+    "1524-yil 18-mayda",
+    "1525-yil 17-iyunda",
+    "1526-yil 21-aprelda",
+    "1527-yil 13-martda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mirzo Bobur Hindistonda asos solgan davlatini G'arb tarixchilari, Boburning kelib chiqishini Chingizxonga bog'lab, qanday atashgan?",
+   "options": [
+    "“Buyuk Chingiziylar imperiyasi”",
+    "“Buyuk Boburiylar imperiyasi”",
+    "“Buyuk Mo'g'ullar imperiyasi”",
+    "“Buyuk Temuriylar imperiyasi”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mirzo Bobur Hindistonda asos solgan davlatining chegarasi g'arbda qayergacha bo'lgan?",
+   "options": [
+    "Kobul",
+    "Bengaliya",
+    "Hirot",
+    "Dehli"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mirzo Bobur Hindistonda asos solgan davlatining chegarasi sharqda qayergacha bo'lgan?",
+   "options": [
+    "Kobul",
+    "Bengaliya",
+    "Hirot",
+    "Dehli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mirzo Bobur qachon vafot etgan?",
+   "options": [
+    "1527-yilda",
+    "1529-yilda",
+    "1530-yilda",
+    "1532-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mirzo Bobur kimni Dehli taxtida qoldirgan?",
+   "options": [
+    "Komronshoh",
+    "Hindolshoh",
+    "Askariyshoh",
+    "Humoyunshoh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mirzo Boburning o'g'illari qaysi hududlar feodallari bilan birga taxtda o'tirgan akasi Humoyunshohga qarshi birlashganlar? 1) Bengaliya; 2) Gujorat; 3) Bixar.",
+   "options": [
+    "1, 3",
+    "1, 2",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ukalaridan bir necha janglarda mag'lub bo'lgan Humoyunshoh Sind orqali qayerga qochgan?",
+   "options": [
+    "Afg'onistonga",
+    "Rumga",
+    "Eronga",
+    "Arabistonga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Humoyunshoh Dehli taxtini tashlab qochganidan so'ng, hokimiyat qaysi yillarda afg'on feodallari qo'lida qolgan?",
+   "options": [
+    "1537 –1552-yillarda",
+    "1540 –1555-yillarda",
+    "1542 –1557-yillarda",
+    "1547 –1562-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Humoyunshoh Dehli taxtini tashlab qochganidan so'ng, hokimiyat qaysi urug'dan bo'lgan afg'on feodallari qo'lida qolgan?",
+   "options": [
+    "Durroniy urug'idan",
+    "Lodiy urug'idan",
+    "Gilzay urug'idan",
+    "Sur urug'idan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Boburiy hukmdor Humoyunshoh qachon vafot etgan?",
+   "options": [
+    "1552-yilda",
+    "1555-yilda",
+    "1556-yilda",
+    "1558-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Boburiy hukmdor Humoyunshohnig o'g'li Akbarshoh Dehli taxtiga kelganida necha yoshda edi?",
+   "options": [
+    "12 yoshda",
+    "13 yoshda",
+    "14 yoshda",
+    "15 yoshda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Boburiy hukmdor Akbarshoh qaysi yillarda yashagan?",
+   "options": [
+    "1542 –1605-yillarda",
+    "1545 –1607-yillarda",
+    "1547 –1610-yillarda",
+    "1550 –1613-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mirzo Boburning vorislari ichida eng mashhuri, haqiqiy imperiyaning asoschisi, Hindiston tarixida buyuk islohotchi sifatida nom qoldirgan hukmdor kim?",
+   "options": [
+    "Akbarshoh",
+    "Humoyunshoh",
+    "Shohjahon",
+    "Shoh Avrangzeb"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Boburiylar imperiyasi kimning hukmronligi davrida eng yuksak taraqqiyotga erishgan?",
+   "options": [
+    "Shoh Avrangzeb",
+    "Shohjahon",
+    "Humoyunshoh",
+    "Akbarshoh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Boburiylar imperiyasida kimning davrida hududiy-ma'muriy islohotlar natijasida imperiya noiblar tomonidan boshqariladigan hududlarga ajratilgan, butun imperiya uchun bir xil uzunlik va og'irlik o'lchov birliklari tizimi hamda taqvim joriy qilingan?",
+   "options": [
+    "Shoh Avrangzeb",
+    "Shohjahon",
+    "Humoyunshoh",
+    "Akbarshoh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Islohotlar ichida Boburiy hukmdor Akbarshohga eng katta shuhrat keltirgani qaysi islohot bo'lgan?",
+   "options": [
+    "Moliyaviy islohot",
+    "Ma'muriy islohot",
+    "Diniy islohot",
+    "Harbiy islohot"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi Boburiy hukmdor musulmon bo'lmaganlardan olinadigan soliq – “jizya” ni bekor qilgan?",
+   "options": [
+    "Akbarshoh",
+    "Humoyunshoh",
+    "Shohjahon",
+    "Shoh Avrangzeb"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi Boburiy hukmdor diniy murosasozlik siyosatini olib borgan, mamlakatni boshqarishga musulmonlar bilan birga hindlarni ham jalb qilgan, hindlarni har qanday ta'qib qilishlarini to'xtatgan, o'z mamlakati doirasida to'liq diniy erkinlikni e'lon qilib, musulmon bo'lmaganlarning har qanday kamsitili",
+   "options": [
+    "Shoh Avrangzeb",
+    "Shohjahon",
+    "Humoyunshoh",
+    "Akbarshoh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hindiston hududida Sherxon Sur davlati qaysi yillarda mavjud bo'lgan?",
+   "options": [
+    "1536–1551-yillarda",
+    "1540–1555-yillarda",
+    "1544–1558-yillarda",
+    "1551–1566-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Boburiy hukmdor Akbarshohning o'g'li Jahongirshoh qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1601 –1622-yillarda",
+    "1605 –1627-yillarda",
+    "1616 –1638-yillarda",
+    "1628 –1657-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Boburiy hukmdor Jahongirshohning o'g'li Shohjahon qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1601 –1622-yillarda",
+    "1605 –1627-yillarda",
+    "1616 –1638-yillarda",
+    "1628 –1657-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi Boburiy hukmdor davrida imperiya o'z qudratining eng cho'qqisiga yetgan?",
+   "options": [
+    "Shoh Avrangzeb",
+    "Shohjahon",
+    "Humoyunshoh",
+    "Akbarshoh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVII asrda hind shaharlarida aholining qancha qismi yashardi?",
+   "options": [
+    "5 –10 foizi",
+    "10 –15 foizi",
+    "15 –20 foizi",
+    "20 –25 foizi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVII asrda qaysi hind shaharlarida aholi soni yarim milliondan oshardi? 1) Dehli; 2) Laxor; 3) Agra; 4) Ahmadobod.",
+   "options": [
+    "1, 3",
+    "1, 2, 3",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVII asrda hind shaharlarida hunarmandchilikning qaysi turi, ayniqsa, keng rivojlangandi?",
+   "options": [
+    "To'qimachilik",
+    "Zargarlik",
+    "Kulolchilik",
+    "Temirchilik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVII asrda Hindistonda to'qimachilik sohasida qanday yangi dastgohlar paydo bo'lgan? 1) Yirik naqshli matolarni to'qish dastgohi; 2) Lentali dastgoh; 3) Bir nechta urchuqli dastgoh.",
+   "options": [
+    "1, 2, 3",
+    "1, 2",
+    "1, 3",
+    "2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVII asrda Hindistondagi qaysi hududning o'ta nozik va chiroyli paxta matolari juda mashhur edi?",
+   "options": [
+    "Bixar",
+    "Gujorat",
+    "Bengaliya",
+    "Vidjanagar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVII asrda yevropaliklar hindlarning qaysi qurollariga yuqori baho berishgan? 1) To'p; 2) Mushket; 3) To'pponcha.",
+   "options": [
+    "1, 2, 3",
+    "1, 2",
+    "1, 3",
+    "2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVII asrda Hindistonning qirg'oqbo'yidagi qaysi shahrida yevropaliklarnikiga o'xshash kemalar qurilardi?",
+   "options": [
+    "Kalikut",
+    "Bombey",
+    "Mangalur",
+    "Surat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVII asrda qaysi davlatning “Ost Indiya” kompaniyasi Hindistonda qurilgan kemalarga tez-tez buyurtma berardi?",
+   "options": [
+    "Gollandiya",
+    "Portugaliya",
+    "Ispaniya",
+    "Angliya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVII asrda Hindistonda savdogarlar va bankirlar orasida … keng tarqalgan bo'lib, savdogar uning vositasida Samarqand va Jiddada, Pega va Maskatda, hatto Astraxanda ham osongina pul olishi mumkin bo'lgan.",
+   "options": [
+    "sarroflik cheklari",
+    "kredit xatlari",
+    "qarz yorliqlari",
+    "omonat biletlari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Angliyaning “Ost Indiya” kompaniyasi qaysi yillarda faoliyat yuritgan?",
+   "options": [
+    "1600–1858-yillarda",
+    "1610–1868-yillarda",
+    "1620–1878-yillarda",
+    "1630–1888-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Ost Indiya” qaysi hududlar bilan savdo qiluvchi xususiy kompaniya, Angliya hukumatining bosib olingan hududlarni ekspluatatsiya qilish apparati bo'lgan? 1) Hindiston; 2) Janubi-sharqiy Osiyo; 3) Xitoy.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Angliyaning “Ost Indiya” kompaniyasi Hindistondan Yevropada sotish uchun nimalar olib ketgan? 1) Gazlama; 2) Makkajo'xori; 3) Ip; 4) Indigo; 5) Afyun; 6) Mo'yna; 7) Selitra.",
+   "options": [
+    "1, 3, 5",
+    "3, 5, 6, 7",
+    "1, 3, 4, 5, 7",
+    "2, 3, 4, 5, 6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Boburiy hukmdor Akbarshohning qaysi islohoti taraqqiyparvar ahamiyatiga qaramasdan, dehqonlarning ahvolini yanada og'irlashtirgan va sudxo'rlikka keng yo'l ochgan?",
+   "options": [
+    "Yer islohoti",
+    "Soliq islohoti",
+    "Pul islohoti",
+    "Suv islohoti"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Boburiy hukmdor Shohjahonning o'g'li Shoh Avrangzeb qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1658 –1707-yillarda",
+    "1663 –1712-yillarda",
+    "1667 –1716-yillarda",
+    "1670 –1719-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi Boburiy hukmdor musulmon bo'lmaganlardan olinadigan soliq – jizyani qaytadan tiklagan, hindlar uchun qolgan barcha soliqlarni ikki hissaga oshirgan, ularga o'z bayramlarini nishonlashni taqiqlagan, hind ibodatxonalarini buzib tashlashni buyurgan?",
+   "options": [
+    "Shoh Avrangzeb",
+    "Shohjahon",
+    "Humoyunshoh",
+    "Jahongirshoh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davrga kelib Boburiylar imperiyasining real inqirozi boshlangan va imperator na ma'muriy, na harbiy huquqqa ega bo'lmagan, o'ziga xos davlatlar uyushmasining ramziy hukmdoriga aylanib qolgan?",
+   "options": [
+    "XVII asr boshlariga",
+    "XVII asr oxirlariga",
+    "XVIII asr boshlariga",
+    "XVIII asr oxirlariga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda Eron shohi Nodirshoh qo'shinlari Hindistonga bostirib kirib, Dehlini talagan?",
+   "options": [
+    "1737-yilda",
+    "1739-yilda",
+    "1742-yilda",
+    "1745-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eron shohi Nodirshoh hujumidan keyin Shimoliy Hindistonni kimlar bosgan?",
+   "options": [
+    "Turkiylar",
+    "Xitoyliklar",
+    "Afg'onlar",
+    "Kurdlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asrda qaysi yevropaliklar Hindistonning Malabar qirg'oqlaridagi bir necha bazani egallab olgan edilar?",
+   "options": [
+    "Gollandlar",
+    "Ispanlar",
+    "Inglizlar",
+    "Portugallar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yilda Angliyaning “Ost Indiya” kompaniyasi Hindistonda o'z korxonalarini ochish huquqini qo'lga kiritgan?",
+   "options": [
+    "1600-yilda",
+    "1603-yilda",
+    "1605-yilda",
+    "1608-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVII asrda Hindistondagi qaysi shaharlar Angliyaning “Ost Indiya” kompaniyasining savdo va siyosiy faoliyati markazlari bo'lgan? 1) Dehli; 2) Kalkutta; 3) Madras; 4) Surat.",
+   "options": [
+    "1, 2, 3",
+    "1, 2, 4",
+    "1, 3, 4",
+    "2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Angliyaning “Ost Indiya” kompaniyasi savdo kompaniyasidan mustamlaka hokimiyatiga aylanib borishi oqibatida qaysi davrdan boshlab Hindistonda egallangan hududlarda harbiy va ma'muriy hokimiyatni o'rnatish hamda diplomatik kelishuvlar kompaniya faoliyatining asosiy turlari bo'lib qolgan?",
+   "options": [
+    "XVII asr oxirlaridan",
+    "XVIII asr boshlaridan",
+    "XVIII asr o'rtalaridan",
+    "XVIII asr oxirlaridan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon inglizlar Bengaliyani bosib olganlar?",
+   "options": [
+    "1739-yilda",
+    "1757-yilda",
+    "1742-yilda",
+    "1761-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Inglizlarning Hindistonni bosib olishdagi muvaffaqiyatlariga ularning sanoatdagi ilg'orligi bilan birga ulkan … qo'shinlariga egaligi ham sabab bo'lgan.",
+   "options": [
+    "yanichar",
+    "rajput",
+    "mahdiy",
+    "sipohiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hind olimi Nilakanta qaysi fanda o'z asarlari bilan Gregori, Leybnis va boshqa yevropalik olimlardan ancha oldinlab ketgan?",
+   "options": [
+    "Astronomiya",
+    "Kimyo",
+    "Matematika",
+    "Fizika"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi davrda Hindistonda tabiiy fanlar ichida qaysi biri alohida yuqori o'rin egallagan?",
+   "options": [
+    "Tibbiyot",
+    "Biologiya",
+    "Astronomiya",
+    "Kimyo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yangi davrda Hindistonda tibbiyot sohasida qaysi yo'nalishlar yaxshi rivojlangan va Yevropa faniga nisbatan ancha ilg'or edi? 1) Xirurgiya; 2) Plastik xirurgiya; 3) Farmakologiya.",
+   "options": [
+    "1, 3",
+    "1, 2",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Boburiylar imperiyasida kim hukmronlik qilgan davr misli ko'rilmagan madaniy yuksalish davri bo'lgan?",
+   "options": [
+    "Humoyunshoh",
+    "Akbarshoh",
+    "Shoh Avrangzeb",
+    "Shohjahon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindiston tarixiga bag'ishlangan asar yozgan shoir va tarixchi kim?",
+   "options": [
+    "Abul Fazl",
+    "Sa'diy Sheroziy",
+    "Mirzo Abdulqodir Bedil",
+    "Abul Fayziy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Nal va Daman” poemasi muallifi kim?",
+   "options": [
+    "Abul Fazl",
+    "Sa'diy Sheroziy",
+    "Mirzo Abdulqodir Bedil",
+    "Abul Fayziy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mirzo Abdulqodir Bedil qaysi yillarda yashagan?",
+   "options": [
+    "1635 –1712-yillarda",
+    "1640 –1717-yillarda",
+    "1644 –1721-yillarda",
+    "1647 –1724-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Toj Mahal saroyi qaysi shaharda qurilgan?",
+   "options": [
+    "Dehli",
+    "Bombey",
+    "Agra",
+    "Laxor"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Toj Mahal saroyi nimadan qurilgan?",
+   "options": [
+    "Oq granitdan",
+    "Oq marmardan",
+    "Oq nefritdan",
+    "Oq bazaltdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Toj Mahal saroyining balandligi – … metr, … gektar hududda joylashgan.",
+   "options": [
+    "74/17",
+    "64/27",
+    "54/37",
+    "44/47"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Toj Mahal saroyi necha yil davomida qurilgan?",
+   "options": [
+    "15 yil davomida",
+    "20 yil davomida",
+    "25 yil davomida",
+    "30 yil davomida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Toj Mahal saroyi qurilishida qancha odam qatnashgan?",
+   "options": [
+    "20 ming",
+    "30 ming",
+    "40 ming",
+    "50 ming"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Toj Mahal saroyi qurilishida ishlatilgan qaysi toshning kunduzi oq rangda, tongda pushti, oydin kechada esa kumushrangda ko'rinadigan xususiyati bor?",
+   "options": [
+    "Bazalt",
+    "Nefrit",
+    "Granit",
+    "Marmar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Toj Mahal saroyi qaysi Boburiy hukmdor tomonidan sevimli xotini Mumtoz Mahalga bag'ishlab qurilgan?",
+   "options": [
+    "Humoyunshoh",
+    "Akbarshoh",
+    "Shoh Avrangzeb",
+    "Shohjahon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Sipohiy” so'zi qaysi tildan olingan?",
+   "options": [
+    "Arabcha",
+    "Hindcha",
+    "Forscha",
+    "Turkiycha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Sipohiy” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Dushman”",
+    "“Askar”",
+    "“Yollangan”",
+    "“Qo'riqchi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Tolerantlik” so'zining ma'nosi nima?",
+   "options": [
+    "“Bag'rikenglik”",
+    "“Hamjihatlik”",
+    "“Adolatlilik”",
+    "“Insoniylik”"
+   ],
+   "answer": 0
+  }
+ ]
+}

@@ -1,0 +1,726 @@
+{
+ "title": "9-sinf · 17-mavzu. Yaponiya va Koreya",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Yaponiya Uzoq Sharqda, … orollarida joylashgan bo'lib, uni “Kunchiqar mamlakat” deb atashadi.",
+   "options": [
+    "Tinch okeani",
+    "Atlantika okeani",
+    "Hind okeani",
+    "Shimoliy muz okeani"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi sulola hukmronligi davrida Yaponiyaga Xitoy madaniyati, rassomchiligi, adabiyoti, me'morchiligi, falsafasi va harbiy san'ati sohalari ta'siri sezilarli bo'lgan?",
+   "options": [
+    "Tan sulolasi",
+    "Min sulolasi",
+    "Sin sulolasi",
+    "Yuan sulolasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI–XVIII asrlardagi Yaponiya aholisi toifalariga oid to'g'ri javobni toping. 1) “Si”; 2) “No”; 3) “Ko”; 4) “Syo”. a) hunarmandlar; b) samuraylar; c) savdogarlar; d) dehqonlar.",
+   "options": [
+    "1c, 2d, 3a, 4b",
+    "1a, 2c, 3b, 4d",
+    "1b, 2d, 3a, 4c",
+    "1d, 2b, 3c, 4a"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI–XVIII asrlarda Yaponiyada viloyatlarni nazorat qilgan feodallar qanday atalgan?",
+   "options": [
+    "Mikado",
+    "Samuray",
+    "Syogun",
+    "Daymyo"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI–XVIII asrlarda Yaponiyada imperator qanday atalgan?",
+   "options": [
+    "Mikado",
+    "Samuray",
+    "Syogun",
+    "Daymyo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI–XVIII asrlarda Yaponiyada harbiy hukmdor qanday atalgan?",
+   "options": [
+    "Mikado",
+    "Samuray",
+    "Syogun",
+    "Daymyo"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI–XVIII asrlarda Yaponiyadagi eng muhim siyosiy voqea nima bo'lgan?",
+   "options": [
+    "Imperator hokimiyatining sustlashishi",
+    "Mamlakatning markazlashgan yagona davlatga birlashishi",
+    "Feodallarning yanada mustaqillikka intilishi",
+    "Syogun hokimiyatining tugatilishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI–XVIII asrlarda Yaponiyada mamlakatni birlashtirishda qaysi shaxslar xizmatlari beqiyos bo'lgan? 1) Oda Nobunaga; 2) Toyotomi Xideyosi; 3) Tokugava Ieyasu.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tokugava Ieyasu qachon syogun unvonini qabul qilgan?",
+   "options": [
+    "1603-yilda",
+    "1605-yilda",
+    "1608-yilda",
+    "1610-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tokugava Ieyasu qaysi shaharni poytaxt qilib olgan?",
+   "options": [
+    "Osaka",
+    "Kioto",
+    "Edo",
+    "Xakata"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tokio shahri XVI–XVIII asrlarda qanday atalgan?",
+   "options": [
+    "Osaka",
+    "Kioto",
+    "Edo",
+    "Xakata"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tokugava syogunli Yaponiyani qachongacha boshqargan?",
+   "options": [
+    "1862-yilgacha",
+    "1867-yilgacha",
+    "1871-yilgacha",
+    "1878-yilgacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nima sababdan Tokugava sulolasi nomiga bo'lsa-da, imperator hokimiyati daxlsizligini saqlab qolgan?",
+   "options": [
+    "Imperator xudoning avlodi, “tirik xudo” hisoblangan",
+    "Yangi syogun faqat imperator tomonidan tasdiqlanishi shart edi",
+    "Fuqarolar urushi kelib chiqishini oldini olish uchun",
+    "Boshqa feodallarning hukmronlikka bo'lgan intilishini yo'qqa chiqarish uchun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yilda Yaponiya qirg'oqlariga portugallar kelgan?",
+   "options": [
+    "1529-yilda",
+    "1535-yilda",
+    "1538-yilda",
+    "1542-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kimlar yapon orollariga feodal o'zaro to'qnashuvlar avjida o'qotar qurollar (arkebuzalar va mushketlar) olib kelganlar?",
+   "options": [
+    "Ispanlar",
+    "Gollandlar",
+    "Portugallar",
+    "Inglizlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yaponiyaga yevropaliklar kirib kelishining to'g'ri ketma-ketligini toping.",
+   "options": [
+    "Inglizlar – gollandlar – ispanlar – portugallar",
+    "Portugallar – ispanlar – gollandlar – inglizlar",
+    "Ispanlar – portugallar – inglizlar – gollandlar",
+    "Gollandlar – inglizlar – portugallar – ispanlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kimlar bilan birga Yaponiyada katolik – iyezuit missionerlari paydo bo'lgan?",
+   "options": [
+    "Inglizlar va gollandlar",
+    "Gollandlar va portugallar",
+    "Portugallar va ispanlar",
+    "Ispanlar va inglizlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI–XVIII asrlarda Yaponiyada imperator … . 1) Podsholik qilgan; 2) Diniy marosimlar va an'analar o'tkazilishini nazorat qilgan; 3) Davlatni boshqargan.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI–XVIII asrlarda Yaponiyada imperator poytaxti qaysi shahar bo'lgan?",
+   "options": [
+    "Osaka",
+    "Kioto",
+    "Edo",
+    "Xakata"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI–XVIII asrlarda Yaponiyada syogunlar qarorgohi qaysi shahar bo'lgan?",
+   "options": [
+    "Osaka",
+    "Kioto",
+    "Edo",
+    "Xakata"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI–XVIII asrlardagi Yaponiyaning yirik shaharlarini toping. 1) Edo; 2) Kioto; 3) Osaka; 4) Nagoya; 5) Nagasaki; 6) Xakata.",
+   "options": [
+    "1, 2, 4",
+    "1, 3, 4, 5",
+    "2, 3, 4, 5, 6",
+    "1, 2, 3, 4, 5, 6"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponiyada qachon qabul qilingan qonunga binoan, barcha xristian missionerlari mamlakatdan quvib yuborilgan?",
+   "options": [
+    "XVI asr boshida",
+    "XVI asr oxirida",
+    "XVII asr boshida",
+    "XVII asr oxirida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Yaponiyada syogun xristian dinini taqiqlovchi qonun chiqargan?",
+   "options": [
+    "1614-yilda",
+    "1619-yilda",
+    "1622-yilda",
+    "1627-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zini o'zi ajratib qo'yish siyosati Yaponiyada qaysi asrda joriy etilgan?",
+   "options": [
+    "XIV asrda",
+    "XV asrda",
+    "XVI asrda",
+    "XVII asrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'zini o'zi ajratib qo'yish siyosati Yaponiyada qancha vaqt davom etgan?",
+   "options": [
+    "50 yildan ortiq",
+    "100 yildan ortiq",
+    "150 yildan ortiq",
+    "200 yildan ortiq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponiyada joriy etilgan o'zini o'zi ajratib qo'yish siyosatiga ko'ra, … . 1) Har qanday o'zga dinlar taqiqlangan; 2) Xitoy va Yevropadan kitob olib kirishga taqiq qo'yilgan; 3) Yaponlarning mamlakatdan tashqariga chiqishi taqiqlangan; 4) Ispanlar va portugallar mamlakatdan chiqarib yuborilgan.",
+   "options": [
+    "1, 2, 3, 4",
+    "1, 2, 4",
+    "1, 2, 3",
+    "2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yosimune Tokugava sulolasidan chiqqan nechanchi syogun edi?",
+   "options": [
+    "Sakkizinchi",
+    "To'qqizinchi",
+    "O'ninchi",
+    "O'n birinchi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Syogun Yosimune qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1708–1737-yillarda",
+    "1711–1740-yillarda",
+    "1716–1745-yillarda",
+    "1719–1748-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yosimune qanday syogun sifatida tarixga kirgan?",
+   "options": [
+    "Islohotchi",
+    "Zolim",
+    "Ma'rifatparvar",
+    "Istilochi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Syogun Yosimune amalga oshirgan ma'muriy islohot bo'yicha necha foiz boshqaruvchi ma'murlar almashtirilgan?",
+   "options": [
+    "70 foiz",
+    "80 foiz",
+    "90 foiz",
+    "100 foiz"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Syogun Yosimune davrida qaysi jinoyat uchun o'lim jazosi belgilangan?",
+   "options": [
+    "O'g'rilik",
+    "Qotillik",
+    "Poraxo'rlik",
+    "Talonchilik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yaponiyada qaysi syogun “100 moddali farmon” deb ataluvchi qonunlar to'plamini joriy etgan?",
+   "options": [
+    "Ienari",
+    "Yosinobu",
+    "Ienobu",
+    "Yosimune"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ienari Tokugava sulolasidan chiqqan nechanchi syogun edi?",
+   "options": [
+    "Sakkizinchi",
+    "To'qqizinchi",
+    "O'ninchi",
+    "O'n birinchi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Syogun Ienari qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1784–1834-yillarda",
+    "1787–1837-yillarda",
+    "1790–1840-yillarda",
+    "1792–1842-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Syogun Yosimune faoliyatiga oid to'g'ri javobni toping. 1) Moliya bo'yicha mas'ul kishi tayinlab, u butun davlat xarajatlari va tushumlari ustidan nazorat o'rnatgan; 2) Xarajatlarga qarshi kurash e'lon qilinib, maishatbozlik va hashamdorlik taqiqlangan; 3) Ocharchilikka qarshi kurashish uchun sholi",
+   "options": [
+    "1, 2, 4, 6, 7, 8",
+    "2, 4, 5, 6, 7, 9",
+    "1, 2, 3, 4, 5, 8",
+    "2, 3, 4, 6, 7, 10"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Syogun Ienari faoliyatiga oid to'g'ri javobni toping. 1) Moliya bo'yicha mas'ul kishi tayinlab, u butun davlat xarajatlari va tushumlari ustidan nazorat o'rnatgan; 2) Xarajatlarga qarshi kurash e'lon qilinib, maishatbozlik va hashamdorlik taqiqlangan; 3) Ocharchilikka qarshi kurashish uchun sholi za",
+   "options": [
+    "1, 2, 4, 6",
+    "4, 7, 8, 9",
+    "3, 5, 9, 10",
+    "2, 6, 7, 8"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asrda Koreyaga janubda qaysi davlat tomonidan xavf kuchaygan?",
+   "options": [
+    "Yaponiya",
+    "Mo'g'uliston",
+    "Xitoy",
+    "Vyetnam"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yaponiya qo'shini qaysi yilda Koreya hududiga bostirib kirib, Seul va Pxenyan shaharlarini egallagan?",
+   "options": [
+    "1591-yilda",
+    "1592-yilda",
+    "1593-yilda",
+    "1594-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI asr oxirida Koreyada yapon bosqinchilariga qarshi qanday nomlangan xalq partizan guruhlari tuzilgan?",
+   "options": [
+    "“Buyuk ish uchun”",
+    "“Ulug' ish uchun”",
+    "“Muqaddas ish uchun”",
+    "“Haq ish uchun”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Koreyada Li Sun Sin qaysi qo'shinga qo'mondonlik qilgan va yaponlar ustidan g'alaba qozongan?",
+   "options": [
+    "Otliq",
+    "Piyoda",
+    "Flot",
+    "Artilleriya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asr oxirida qancha Xitoy qo'shinining yordamga kelganligi koreyslarning yaponlarga qarshi kurashini yengillashtirgan?",
+   "options": [
+    "Qirq minglik",
+    "Ellik minglik",
+    "Oltmish minglik",
+    "Yetmish minglik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda Xitoy va Koreyaning birlashgan qo'shinlari Pxenyan va Seulni yaponlardan ozod qilgan?",
+   "options": [
+    "1591-yilda",
+    "1592-yilda",
+    "1593-yilda",
+    "1594-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda manchjurlar Koreyaga bostirib kirganlar?",
+   "options": [
+    "1627-yilda",
+    "1637-yilda",
+    "1644-yilda",
+    "1651-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Manchjurlar va Koreya o'rtasida tuzilgan birinchi shartnomaga ko'ra, Koreya qaysi davlatning yordamidan va u bilan ittifoqchilik munosabatlaridan voz kechishi kerak edi?",
+   "options": [
+    "Yaponiya",
+    "Mo'g'uliston",
+    "Xitoy",
+    "Vyetnam"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda manchjurlar bilan tuzilgan yangi shartnomaga ko'ra, Koreya qiroli o'zini manchjurlarning vassali deb tan olgan?",
+   "options": [
+    "1627-yilda",
+    "1637-yilda",
+    "1644-yilda",
+    "1651-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Manchjurlar bilan tuzilgan yangi shartnomaga ko'ra, Koreya hukumati … majburiyatini olgan. 1) minlar sulolasi bilan har qanday munosabatlarni to'xtatish; 2) manchjurlarga Xitoyga qarshi urushda yordam berish; 3) har yili o'lpon to'lab turish.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponiyada qaysi davrga kelib, deyarli barcha samuraylar, shuningdek, dehqonlar, hunarmandlar va savdogarlarning katta qismi savodli bo'lgan?",
+   "options": [
+    "XVII asrning boshiga",
+    "XVII asrning oxiriga",
+    "XVIII asrning boshiga",
+    "XVIII asrning oxiriga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tokugava hukmronligi davrida Yaponiyada necha yoshdan oshgan, o'z ismini yoza oladigan va oddiy matnni o'qiy oladigan har bir kishi savodli hisoblangan?",
+   "options": [
+    "Besh yoshdan",
+    "Olti yoshdan",
+    "Yetti yoshdan",
+    "Sakkiz yoshdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Koreyada qirol Yeongjo qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1725–1776-yillarda",
+    "1727–1778-yillarda",
+    "1732–1783-yillarda",
+    "1734–1785-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Koreyada qirol Yeongjo davrida amalga oshirilgan islohotlarni toping. 1) Qat'iy tejamkorlik siyosati tufayli budjet xarajatlarini kamaytirgan; 2) Ocharchilik holati uchun maxsus don omborlari tashkil etilgan; 3) Guruchdan spirtli ichimliklar tayyorlash man etilgan; 4) Ba'zi bir davlat soliqlari beko",
+   "options": [
+    "1, 3, 5, 6, 7",
+    "2, 3, 4, 5, 6",
+    "2, 3, 4, 6, 7",
+    "1, 2, 4, 5, 7"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Koreyada “Qonunlarning buyuk to'plami” deb nomlangan hujjat qachon tuzilgan?",
+   "options": [
+    "1785-yilda",
+    "1789-yilda",
+    "1792-yilda",
+    "1796-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Kabuki” nima?",
+   "options": [
+    "O'rtada joylashgan qal'a atrofida yapon bog'ini yaratish san'ati",
+    "An'anaviy yapon teatri",
+    "Qofiyalashmagan besh qator lirik she'r",
+    "Samuraylar kodeksi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Xokku” nima?",
+   "options": [
+    "O'rtada joylashgan qal'a atrofida yapon bog'ini yaratish san'ati",
+    "An'anaviy yapon teatri",
+    "Qofiyalashmagan besh qator lirik she'r",
+    "Samuraylar kodeksi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Tomchi suvda ummonni ko'rish kerak” degan badiiy tamoyil qaysi san'atga nisbatan ishlatilgan?",
+   "options": [
+    "Kabuki",
+    "Busido",
+    "Ikebana",
+    "Xokku"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xokku janrining eng mashhur namoyandasi kim?",
+   "options": [
+    "Chon Son",
+    "Li Myonuk",
+    "Masuo Basyo",
+    "Kim Xondo"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon syogun Yosimune Yaponiyaga yevropaliklarning tabiiy va amaliy fanlar bo'yicha kitoblarini kiritishga ruxsat bergan?",
+   "options": [
+    "1739-yilda",
+    "1742-yilda",
+    "1748-yilda",
+    "1751-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Syogun Yosimune qaysi shaharga Yaponiya madaniyati va tarixi bilan qiziquvchi yevropaliklarni taklif qilgan?",
+   "options": [
+    "Edo",
+    "Osaka",
+    "Kioto",
+    "Nagoya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVIII asrda yaponlar qaysi tilni o'zlashtirib olib, matematika, astronomiya va tibbiyot bo'yicha o'z bilimlarini rivojlantirgan?",
+   "options": [
+    "Portugal tilini",
+    "Ispan tilini",
+    "Golland tilini",
+    "Ingliz tilini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yangi davrda Koreyaga qayerning peyzaj usuli kirib kelgan?",
+   "options": [
+    "Yaponiya",
+    "Hindiston",
+    "Xitoy",
+    "Manchjuriya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi davrda Koreyada “tog' va suvni tasvirlash” janrida ijod qilgan rassomlarni toping. 1) Masuo Basyo; 2) Chon Son; 3) Li Myonuk; 4) Kim Xondo.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI–XVIII asrlar davomidagi Yaponiya haqidagi to'g'ri javobni toping.",
+   "options": [
+    "Amalga oshirilgan islohotlar mamlakatdagi mavjud tizimning inqirozini to'xtata olmagan",
+    "Mamlakat Xitoy, Rossiya va Yevropa davlatlarining mustamlakachilik obyektiga aylanib borgan",
+    "Feodal tarqoqlik va iqtisodiy tushkunlik avj olgan",
+    "Ichki islohotlar hamda oqilona tashqi siyosat tufayli o'z mustaqilligini saqlab qolishga muvaffaq bo'lgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI–XVIII asrlar davomidagi Koreya haqidagi to'g'ri javobni toping. 1) Mamlakat Xitoy, Yaponiya, Rossiya va Yevropa davlatlarining mustamlakachilik obyektiga aylanib borgan; 2) Ichki islohotlar hamda oqilona tashqi siyosat tufayli o'z mustaqilligini saqlab qolishga muvaffaq bo'lgan; 3) Amalga oshiri",
+   "options": [
+    "1, 3",
+    "1, 2",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yaponcha “sintoizm, sinto” so'zlari qanday ma'noni anglatadi?",
+   "options": [
+    "“Xizmat qilish”",
+    "“Xudolar yo'li”",
+    "“Izzat-hurmatli darvoza”",
+    "“Qo'mondon, lashkarboshi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sintoizm dinida asosiy xudo, mikadoning ajdodi Amaterasu qanday ma'buda hisoblanadi?",
+   "options": [
+    "Osmon ma'budasi",
+    "Yer ma'budasi",
+    "Quyosh ma'budasi",
+    "Oy ma'budasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yapon ijodkori Akiro Kurosavaning kasbi nima?",
+   "options": [
+    "Rassom",
+    "Shoir",
+    "Yozuvchi",
+    "Kinorejissor"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponcha “mikado” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Xizmat qilish”",
+    "“Xudolar yo'li”",
+    "“Izzat-hurmatli darvoza”",
+    "“Qo'mondon, lashkarboshi”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yaponcha “syogun” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Xizmat qilish”",
+    "“Xudolar yo'li”",
+    "“Izzat-hurmatli darvoza”",
+    "“Qo'mondon, lashkarboshi”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponiyada syogunlar qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1186–1861-yillarda",
+    "1192–1867-yillarda",
+    "1203–1878-yillarda",
+    "1215–1890-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yaponiyada nechta syogun sulolasi mavjud bo'lgan va ular qaysilar?",
+   "options": [
+    "Ikkita: minamoto, ashikaga",
+    "Uchta: minamoto, ashikaga, tokugava",
+    "To'rtta: minamoto, ashikaga, tokugava, oda",
+    "Beshta: minamoto, ashikaga, tokugava, oda, takeda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yaponcha “samuray” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Xizmat qilish”",
+    "“Xudolar yo'li”",
+    "“Izzat-hurmatli darvoza”",
+    "“Qo'mondon, lashkarboshi”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Missioner” so'zi qaysi tildan olingan?",
+   "options": [
+    "Inglizcha",
+    "Fransuzcha",
+    "Ispancha",
+    "Portugalcha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Missioner” deb kimga aytilgan?",
+   "options": [
+    "Davlat tomonidan diplomatik aloqalarni o'rnatish uchun yuborilgan shaxsga",
+    "Qo'mondon tomonidan biror harbiy xizmat yoki buyurtmani bajarish uchun yuborilgan shaxsga",
+    "Cherkov tomonidan o'z dinini targ'ib qilish va boshqa dindagilarni o'z e'tiqodiga o'tkazish uchun yuborilgan shaxsga",
+    "Xalq tomonidan hukumat oldida aholi manfaatlarini himoya qilish uchun yuborilgan shaxsga"
+   ],
+   "answer": 2
+  }
+ ]
+}

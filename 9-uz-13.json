@@ -1,0 +1,456 @@
+{
+ "title": "9-sinf · 15-mavzu. Buxoro amirligida ijtimoiy-iqtisodiy hayot",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Buxoro va Qarshi atroflarida yashagan qabilani aniqlang.",
+   "options": [
+    "Xitoylar",
+    "Mang'itlar",
+    "Qipchoqlar",
+    "Naymanlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buxoro va Karmanada yashagan qabilani belgilang.",
+   "options": [
+    "Xitoylar",
+    "Mang'itlar",
+    "Qipchoqlar",
+    "Naymanlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ziyovuddinda yashagan qabilani aniqlang.",
+   "options": [
+    "Xitoylar",
+    "Mang'itlar",
+    "Qipchoqlar",
+    "Naymanlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kattaqo'rg'on va Samarqandda yashagan qabilani belgilang.",
+   "options": [
+    "Xitoylar",
+    "Mang'itlar",
+    "Qipchoqlar",
+    "Naymanlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mirzacho'lda yashagan qabila nomini aniqlang.",
+   "options": [
+    "Qo'ng'irotlar",
+    "Saroylar",
+    "Do'rmonlar",
+    "Burgutlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Samarqanddan Qarshiga boruvchi yo'l bo'ylab, Qarshi va uning o'rtasidagi tog'larda yashagan qabila nomini aniqlang.",
+   "options": [
+    "Qo'ng'irotlar",
+    "Saroylar",
+    "Do'rmonlar",
+    "Burgutlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "G'ijduvon atrofida yashagan qabila nomini aniqlang.",
+   "options": [
+    "Qo'ng'irotlar",
+    "Saroylar",
+    "Do'rmonlar",
+    "Burgutlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nurda yashagan qabila nomini aniqlang.",
+   "options": [
+    "Qo'ng'irotlar",
+    "Kenagaslar",
+    "Do'rmonlar",
+    "Burgutlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shahrisabzda yashagan qabila nomini aniqlang.",
+   "options": [
+    "Qo'ng'irotlar",
+    "Kenagaslar",
+    "Do'rmonlar",
+    "Burgutlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qabilalar orasidan yarimko'chmanchi hayot tarzini kechirib, dehqonchilik va chorvachilik bilan shug'ullangan qabilalarni aniqlang. 1. Qipchoq 2. Qang'li. 3. Abdal 4. Yuz. 5. Qarluq 6. Qalmoq 7. Nayman 8. Barlos 9. Jaloir",
+   "options": [
+    "2, 3, 5, 8, 9",
+    "1, 2, 4, 7, 9",
+    "1, 2, 4, 8, 9",
+    "2, 3, 6, 8, 9"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bozorlarga qora va kulrang qorako'l yetkazib bergan arablarning yashagan hududlarini aniqlang.",
+   "options": [
+    "Panjikent, Sheroz, Urgut va Samarqand",
+    "Miyonqol va Shahrisabz",
+    "Samarqand, Buxoro, Shahrisabz, Qarshi",
+    "Vardanza, Samarqand, Qarshi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Marvlik oilalar quyidagi qaysi hududga ko'chib kelib o'rnashadi.",
+   "options": [
+    "Samarqand",
+    "Zarafshon vohasi",
+    "Farg'ona vodiysi",
+    "Buxoro"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Buxoro xonligida dasht yerlari va mamlakatning shimolida yashagan xalqlarni aniqlang.",
+   "options": [
+    "Qoraqalpoqlar",
+    "Forslar, turkmanlar",
+    "Kichik va O'rta Juz qozoqlari",
+    "Tatar, afg'on, hindlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mang'itlar davrida Zarafshon vodiysida yashagan xalqlarni aniqlang.",
+   "options": [
+    "Qoraqalpoqlar",
+    "Forslar, turkmanlar",
+    "Kichik va O'rta Juz qozoqlari",
+    "Tatar, afg'on, hindlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mang'itlar davrida mamlakatning shimoli-sharqida yashagan xalqlarni aniqlang.",
+   "options": [
+    "Qoraqalpoqlar",
+    "Forslar, turkmanlar",
+    "Kichik va O'rta Juz qozoqlari",
+    "Tatar, afg'on, hindlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Aleksandr Byorns Buxoroda qachon bo'lganini aniqlang.",
+   "options": [
+    "1863-yil",
+    "1783-yil",
+    "1785-yil",
+    "1832-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "A.Byorns Buxoro qovunlarini qaysi xalq qovunlari bilan qiyoslab bo'lmasligini aytgan.",
+   "options": [
+    "Hind va afg'on",
+    "Turk va fors",
+    "Hind va turk",
+    "Hind va fors"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi hududda sun'iy sug'orish tizimlarining bunyod etilishi faol tarzda olib borilgan.",
+   "options": [
+    "Samarqand",
+    "Zarafshon vohasi",
+    "Farg'ona vodiysi",
+    "Buxoro"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asrning 50-yillarida quyidagi qaysi hududlarda Oqdaryo va Qoradaryodan qazilgan ariqlar tozalanadi.",
+   "options": [
+    "Panjikent, Sheroz, Urgut va Samarqand",
+    "Miyonqol va Shahrisabz",
+    "Samarqand, Buxoro, Shahrisabz, Qarshi",
+    "Vardanza, Samarqand, Qarshi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi hududlarda yetishtirilgan sholi nihoyatda yuqori baholangan.",
+   "options": [
+    "Panjikent, Sheroz, Urgut va Samarqand",
+    "Miyonqol va Shahrisabz",
+    "Samarqand, Buxoro, Shahrisabz, Qarshi",
+    "Vardanza, Samarqand, Qarshi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buxoro amirligida quyidagi qaysi hududda bedona nomli anorlar yetishtirilgan.",
+   "options": [
+    "Samarqand",
+    "Shahrisabz",
+    "Buxoro",
+    "Marv"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buxoro amirligida quyidagi qaysi hududda yetishtirilgan shaftoli juda mashhur edi.",
+   "options": [
+    "Samarqand",
+    "Shahrisabz",
+    "Buxoro",
+    "Marv"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi hudud yaqinidagi tog'larda bodom yetishtirilgan.",
+   "options": [
+    "Samarqand",
+    "Shahrisabz",
+    "Buxoro",
+    "Marv"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buxoro amirligida aholi quyidagi qaysi sohalar bilan shug'ullanganini aniqlang.",
+   "options": [
+    "Dehqonchilik va baliq ovlash",
+    "Dehqonchilik va chorvachilik",
+    "Kaklik va baliq ovlash",
+    "Kaklik ovlash va chorvachilik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Savdo taraqqiyoti natijasida iqtisodiy qudrati o'sgan hududlarni aniqlang.",
+   "options": [
+    "Panjikent, Sheroz, Urgut va Samarqand",
+    "Miyonqol va Shahrisabz",
+    "Samarqand, Buxoro, Shahrisabz, Qarshi",
+    "Vardanza, Samarqand, Qarshi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buxoro amirlari tomonidan rus podshosiga hadya sifatida yuborilgan harbiy chodir hozirda qayerda saqlanmoqda.",
+   "options": [
+    "Ermitaj",
+    "Tretyakov galereyasi",
+    "Davlat Rus muzeyi",
+    "Moskva Kremlining Tarix muzeyi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi hududlar paxta yetishtirishga ixtisoslashgan edi.",
+   "options": [
+    "Qarshi, Urgut, Kattaqo'rg'on",
+    "Buxoro, Shahrisabz, Kattaqo'rg'on",
+    "Samarqand, Buxoro, Shahrisabz, Qarshi",
+    "Vardanza, Samarqand, Qarshi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oq va qizg'ish navli hisoblangan va biroz qizg'ish tusga ega bo'lgan g'o'zaga quyidagi qaysi davlatda talab katta edi.",
+   "options": [
+    "Eron",
+    "Hindiston",
+    "Turkiya",
+    "Rossiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi hududlarda yetishtirilgan tamaki yuqori baholangan.",
+   "options": [
+    "Qarshi, Urgut, Kattaqo'rg'on",
+    "Buxoro, Shahrisabz, Kattaqo'rg'on",
+    "Samarqand, Buxoro, Shahrisabz, Qarshi",
+    "Vardanza, Samarqand, Qarshi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Buxorodan Hirotga olib borilgan turli bo'yoq beruvchi o'simlik nomini aniqlang.",
+   "options": [
+    "Ro'yon",
+    "Tamaki",
+    "Isparak",
+    "Buzg'unch"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buxoro amirligida pul muomalasi borasidagi tartibsizliklarga barham beruvchi islohot o'tkazilgan vaqtni aniqlang.",
+   "options": [
+    "1863-yil",
+    "1783-yil",
+    "1785-yil",
+    "1832-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachonga kelib kumush tangalar kichkina, yumaloq shaklda bo'lib, yuqori soflik darajasiga ega edi.",
+   "options": [
+    "1863-yil",
+    "1783-yil",
+    "1785-yil",
+    "1832-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buxoro amirligida 1753-1758 yillarda quyidagi qaysi hukmdor tomonidan chiqarilgan tanga-miri muomalada qoldiriladi.",
+   "options": [
+    "Muhammad Rahim",
+    "Doniyolbiy",
+    "Shohmurod",
+    "Amir Haydar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Turk elchisi Olamgir Mehmed quyidagi qaysi hukmdordan rus hukumatiga qarshi chiqishni so'raydi.",
+   "options": [
+    "Muhammad Rahim",
+    "Doniyolbiy",
+    "Shohmurod",
+    "Amir Haydar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Olamgir Mehmed Buxoro hukmdoridan quyidagi qaysi hududda yashovchi \"qirg'izlar va qozoqlar\" orasida ruslarga qarshi g'azavot g'oyasini targ'ib qilishni so'raydi.",
+   "options": [
+    "Yettisuv",
+    "Xorazm",
+    "Orolbo'yi",
+    "Qipchoq dashti"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mang'itlar tomonidan o'ndan ortiq elchilar quyidagi qaysi hududga yuborilganini aniqlang.",
+   "options": [
+    "Tabriz",
+    "Dehli",
+    "Istanbul",
+    "Pekin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi shaxslardan qaysi biri Ost-Indiya kompaniyasining maxfiy topshirishlarini bajargan shaxs hisoblanmaydi.",
+   "options": [
+    "D.Trebek",
+    "A.Vamberi",
+    "A.Konolli",
+    "U.Murkroft"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Mahalliy mahsulotlarning hammasi juda arzondir va shuning uchun Buxoroning ko'ylak bozori serhasham kiyim bilan Xitoy Tatariyasiga qadar barcha musulmonlarni ta'minlaydi\". Bu ma'lumotning kimga tegishli ekanini aniqlang.",
+   "options": [
+    "D.Trebek",
+    "A.Vamberi",
+    "A.Konolli",
+    "U.Murkroft"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Arminiy Vamberining qachon Turkistonda bo'lganini aniqlang.",
+   "options": [
+    "1863-yil",
+    "1783-yil",
+    "1785-yil",
+    "1791-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qrim Rossiya tarkibiga dastlab qachon o'tganini aniqlang.",
+   "options": [
+    "1792-yil",
+    "1783-yil",
+    "1785-yil",
+    "1791-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qrim rasmiy ravishda qachon Rossiya tarkibiga o'tadi.",
+   "options": [
+    "1792-yil",
+    "1783-yil",
+    "1785-yil",
+    "1791-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yassi tinchlik shartnomasi imzolangan vaqtni aniqlang.",
+   "options": [
+    "1792-yil",
+    "1783-yil",
+    "1785-yil",
+    "1791-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rossiyaning Qrimda mustahkam o'rnashib olishga qaratilgan birinchi urinishi qaysi hukmdor davriga to'g'ri keladi.",
+   "options": [
+    "Yekaterina I",
+    "Pyotr I",
+    "Anna Ioannovna",
+    "Yekaterina II"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Azov kampaniyasi qaysi hukmdor davrida amalga oshirilgan.",
+   "options": [
+    "Yekaterina I",
+    "Pyotr I",
+    "Anna Ioannovna",
+    "Yekaterina II"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qrimni qo'shib olish qaysi hukmdor davrida amalga oshirilgan.",
+   "options": [
+    "Yekaterina I",
+    "Pyotr I",
+    "Anna Ioannovna",
+    "Yekaterina II"
+   ],
+   "answer": 3
+  }
+ ]
+}

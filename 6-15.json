@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 15-mavzu. Qadimgi Hindistondagi ilk sivilizatsiya",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qadimgi Hindiston qaysi daryolar vodiylarida joylashgan?",
+   "options": [
+    "Hind va Gang",
+    "Dajla va Frot",
+    "Xuanxe va Yanszi",
+    "Nil va Iordan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hindistonda dehqonchilik vujudga kelishi va rivoj topishiga nimalar imkon yaratgan?",
+   "options": [
+    "Metall konlari",
+    "Dengizga chiqish yo'li",
+    "Tabiiy sharoit, issiq iqlim va daryolar",
+    "Sovuq iqlim va tog'lar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hindistonda qaysi tog'lar shimoldan keladigan sovuq shamollarni to'sib turadi?",
+   "options": [
+    "Himolay tog'lari",
+    "Zagros tog'lari",
+    "Pomir tog'lari",
+    "Kavkaz tog'lari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gang vodiysidagi o'rmonlar qanday bo'lgan?",
+   "options": [
+    "Bambukzorlar",
+    "Siyrak butazorlar",
+    "Ignabargli o'rmonlar",
+    "Ulkan daraxtlar va rang-barang o'simliklarga boy tropik o'rmonlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hind daryosi havzasining eng yirik qadimgi shaharlari qaysilar?",
+   "options": [
+    "Uruk va Ur",
+    "Mohenjodaro va Xarappa",
+    "Pataliputra va Dehli",
+    "Memfis va Fiva"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mohenjodaro va Xarappa shaharlari qaysi davrga oid?",
+   "options": [
+    "Mil. avv. III asr",
+    "Mil. avv. 1-mingyillik",
+    "Mil. avv. 3-mingyillik",
+    "Mil. avv. VI asr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mohenjodaro va Xarappa shaharlariga xos xususiyatlarni aniqlang.\n1) mustahkam mudofaa devorlari bilan himoyalangan; 2) ichki qasri bo'lgan; 3) binolar pishiq va xom g'ishtdan qurilgan; 4) piramidalar bo'lgan; 5) Gang daryosi bo'yida joylashgan.",
+   "options": [
+    "1, 4, 5",
+    "2, 3, 5",
+    "1, 2, 3",
+    "3, 4, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mohenjodaro qanday markaz bo'lgan?",
+   "options": [
+    "Diniy markaz va kohinlar shahri",
+    "Hunarmandchilik va savdo markazi",
+    "Dengiz porti",
+    "Faqat harbiy qal'a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi hindlar qaysi o'simliklarni yetishtirgan?",
+   "options": [
+    "Kanop va uzum",
+    "Choy va sholi",
+    "Shakarqamish va paxta",
+    "Bug'doy va javdar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi hindlar qaysi hayvonni qo'lga o'rgatgan?",
+   "options": [
+    "Tuyani",
+    "Filni",
+    "Otni",
+    "Lamani"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mil. avv. XVIII asrdan keyin Hind vodiysi shaharlari nima sababdan zavolga yuz tutdi?",
+   "options": [
+    "Zilzila natijasida",
+    "Forslar bosqini natijasida",
+    "Tez-tez ro'y beruvchi toshqinlar, o'rmonlar va changalzorlarning kengayishi natijasida",
+    "Yunonlar bosqini natijasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi hindlarning tabiatga bo'lgan qarashi kimlarnikiga o'xshash bo'lgan?",
+   "options": [
+    "Xitoyliklarnikiga – tabiatni ajdodlar boshqaradi",
+    "Misrliklar va bobilliklarnikiga – tabiatni ma'budlar boshqaradi",
+    "Yunonlarnikiga – tabiatni olimlar o'rganadi",
+    "Hech kimnikiga o'xshamagan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi hind rivoyatiga ko'ra Quyosh ma'budi har tongda qanday yo'lga tushadi?",
+   "options": [
+    "Burgut ustida",
+    "Oltin aravada osmon bo'ylab",
+    "Filga minib",
+    "Qayiqda Nil bo'ylab"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindlar e'tiqodiga ko'ra qaysi ma'bud osmondagi suvni tutqunlikdan xalos etib, qurg'oqchilikka barham beradi?",
+   "options": [
+    "Momaqaldiroq ma'budi Indra",
+    "Donishmandlik ma'budi Ganesha",
+    "Quyosh ma'budi",
+    "Oliy ma'bud Brahma"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ganesha qanday ma'bud bo'lgan?",
+   "options": [
+    "Quyosh ma'budi",
+    "Boshi sherniki bo'lgan urush ma'budi",
+    "Momaqaldiroq ma'budi",
+    "Boshi filnikiga o'xshagan donishmandlik ma'budi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hindlar orasida qaysi hayvon muqaddas hisoblangan va uni o'ldirish jinoyat bo'lgan?",
+   "options": [
+    "Maymun",
+    "Sigir",
+    "Fil",
+    "Ilon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindlar inson vafot etgandan keyin nima bo'ladi deb hisoblagan?",
+   "options": [
+    "Butunlay yo'q bo'lib ketadi",
+    "Marhumlar saltanatiga ketib, Osiris sudidan o'tadi",
+    "Yulduzga aylanadi",
+    "Jon boshqa tanaga ko'chib, hayvon, qumursqa yoki o'simlikka aylanadi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi hindlar qanday asosda to'rt tabaqaga ajratilgan?",
+   "options": [
+    "Boyligiga qarab",
+    "Yashash joyiga qarab",
+    "Qanday yumushlar bilan shug'ullanishiga qarab",
+    "Yoshiga qarab"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hindistondagi tabaqalar qanday atalgan?",
+   "options": [
+    "Urug' yoki qabila",
+    "Kasta yoki varna",
+    "Polis yoki koloniya",
+    "“Nom” yoki satrapiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kastalar va ularga mansub kishilar to'g'ri moslashtirilgan javobni aniqlang.\n1) Brahmanlar; 2) Kshatriylar; 3) Vayshiylar; 4) Shudralar.\na) jangchilar; b) xizmatkorlar va qullar; c) kohinlar (ruhoniylar); d) dehqon, hunarmand va savdogarlar.",
+   "options": [
+    "1-c, 2-a, 3-b, 4-d",
+    "1-c, 2-d, 3-a, 4-b",
+    "1-a, 2-c, 3-d, 4-b",
+    "1-c, 2-a, 3-d, 4-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hindlar e'tiqodiga ko'ra tabaqalarni kim yaratgan?",
+   "options": [
+    "Budda",
+    "Ganesha",
+    "Indra",
+    "Oliy ma'bud Brahma"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "E'tiqodga ko'ra Brahmaning qaysi qismidan kim yaratilgan?",
+   "options": [
+    "Qovurg'asidan – kohinlar, tovonidan – jangchilar",
+    "Boshidan – podsholar, qo'llaridan – dehqonlar",
+    "Og'zidan – jangchilar, qo'llaridan – kohinlar, tovonidan – dehqonlar",
+    "Og'zidan – kohinlar, qo'llaridan – jangchilar, qovurg'asidan – dehqonlar, tovonidan – xizmatkorlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kastalar tizimiga xos qoidani aniqlang.",
+   "options": [
+    "Bolalar ota-onalari tabaqasiga mansub bo'lgan, bir tabaqadan boshqasiga o'tishning iloji bo'lmagan",
+    "Har kim xohlagan tabaqasiga o'ta olgan",
+    "Bolalar 20 yoshda tabaqa tanlagan",
+    "Tabaqani podsho belgilagan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hech qaysi tabaqaga mansub bo'lmagan kishilar qanday atalgan?",
+   "options": [
+    "Vayshiylar",
+    "Brahmanlar",
+    "“Chandal” – “hazar qilinadiganlar”",
+    "Shudralar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Chandal”larga nisbatan qanday cheklovlar bo'lgan?\n1) kastalarga mansub odamlar bilan bir uyda yashay olmagan; 2) ular bilan bir dasturxonga o'tirish taqiqlangan; 3) uzoqdan ko'rinadigan alohida kiyim kiyishgan; 4) ular brahman bo'la olgan.",
+   "options": [
+    "1, 2, 3",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hind kastalarini ijtimoiy mavqeyi bo'yicha yuqoridan pastga qarab joylashtiring.\n1) vayshiylar; 2) brahmanlar; 3) shudralar; 4) kshatriylar.",
+   "options": [
+    "2, 1, 4, 3",
+    "4, 2, 1, 3",
+    "2, 4, 1, 3",
+    "2, 4, 3, 1"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hindlar qaysi hayvonlar timsolida ayrim ma'budlarni tasavvur etishgan?",
+   "options": [
+    "Hech qachon hayvon timsolida tasavvur etmagan",
+    "Faqat qushlar timsolida",
+    "Yovvoyi hayvonlar timsolida (masalan, boshi filnikiga o'xshagan Ganesha)",
+    "Faqat baliqlar timsolida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nKasta | Mashg'uloti | Brahmaning qaysi qismidan yaratilgan\nBrahmanlar | 1) ________ | og'zidan\nKshatriylar | jangchilar | 2) ________\n3) ________ | xizmatkorlar va qullar | tovonidan\na) kohinlar; b) qo'llaridan; c) shudralar; d) dehqonlar; e) qovurg'asidan; f) vayshiylar.",
+   "options": [
+    "1-a, 2-b, 3-f",
+    "1-a, 2-b, 3-c",
+    "1-d, 2-b, 3-c",
+    "1-a, 2-e, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nMa'bud | Vazifasi yoki timsoli\nA | momaqaldiroq ma'budi\nGanesha | B\nC | tabaqalarni yaratgan oliy ma'bud\n1) Indra; 2) boshi filnikiga o'xshagan donishmandlik ma'budi; 3) Brahma; 4) Budda; 5) Quyosh ma'budi; 6) Shamash.",
+   "options": [
+    "A-1, B-2, C-4",
+    "A-1, B-5, C-3",
+    "A-5, B-2, C-3",
+    "A-1, B-2, C-3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Hindistonga oid to'g'ri hukmlarni aniqlang.\nI. Mohenjodaro va Xarappa Hind daryosi havzasida joylashgan.\nII. Hindlar sigirni muqaddas hayvon deb bilgan.\nIII. Bir kastadan boshqasiga erkin o'tish mumkin bo'lgan.\nIV. Himolay tog'lari janubdan esadigan issiq shamollarni to'sadi.",
+   "options": [
+    "I va III",
+    "III va IV",
+    "II va IV",
+    "I va II"
+   ],
+   "answer": 3
+  }
+ ]
+}

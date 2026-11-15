@@ -1,0 +1,459 @@
+{
+ "title": "8-sinf · Italiya: shahar respublikalar va Rim papalari davlati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Venetsiya respublikasi Genuya flotini qachon tamomila mag'lub qildi.",
+   "options": [
+    "1298-yilda",
+    "1380-yilda",
+    "1409-yilda",
+    "1282-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Florensiya sanoatining asosiy boyligi nima edi.",
+   "options": [
+    "Ipak",
+    "Movut",
+    "Oyna",
+    "Qurol-yarog'"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Venetsiya respublikasiga tegishlilarini aniqlang.",
+   "options": [
+    "2, 3",
+    "1, 2",
+    "1, 3",
+    "1, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-08-03.jpg"
+  },
+  {
+   "q": "Genuya respublikasi qaysi asrda asos solingan va qachongacha mavjud bo'lgan.",
+   "options": [
+    "XV asrda, 1797-yilgacha",
+    "XI asrda, 1797-yilgacha",
+    "XIII asrda, 1380-yilgacha",
+    "XI asrda, 1498-yilgacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Venetsiya respublikasining Yevropada ko'p asrlar xalqaro pul vazifasini bajargan puli qanday nomlangan.",
+   "options": [
+    "Oltin dukat",
+    "Florin",
+    "Funt sterling",
+    "Livr"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Italiyaliklar kardinallari papa qilib kimni sayladi.",
+   "options": [
+    "Kliment VII",
+    "Urban VI",
+    "Aleksandr V",
+    "Martin V"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Florensiya respublikasiga tegishlilarini aniqlang.",
+   "options": [
+    "2, 4",
+    "3, 4",
+    "1, 3",
+    "2, 3"
+   ],
+   "answer": 3,
+   "image": "img/j8-08-07.jpg"
+  },
+  {
+   "q": "Papa o'z qarorgohini qaysi shaharga ko'chirganidan so'ng uning nufuziga putur yetdi.",
+   "options": [
+    "Pizaga",
+    "Avinyonga",
+    "Florensiyaga",
+    "Venetsiyaga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sitsiliyaliklar qo'zg'olonga tarixda qanday nom bilan kirgan.",
+   "options": [
+    "“Sitsiliya oqshomi”",
+    "“Sitsiliya tongi”",
+    "“Qo'ng'iroq inqilobi”",
+    "“Fransuzlar qirg'ini”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Florensiya sinyoriyasi boshlig'i kim hisoblangan.",
+   "options": [
+    "Kansler",
+    "Kardinal",
+    "Doj",
+    "Adolat bayroqdori"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Venetsiya respublikasi qanday nom bilan atalgan.",
+   "options": [
+    "“Italiya Afinasi”",
+    "“Adriatika malikasi”",
+    "“Dengiz sherlari”",
+    "“Oltin shahar”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Venetsiya respublikasini saylab qo'yiladigan qaysi mansabdor boshqargan.",
+   "options": [
+    "Kardinal",
+    "Kurfyurst",
+    "Sinyoriya",
+    "Doj"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Uchta papa hukmronligiga sabab bo'lgan, 1409- yilda yig'in chaqirilgan shaharni aniqlang.",
+   "options": [
+    "Rim",
+    "Avinyon",
+    "Piza",
+    "Florensiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Italiya shahar-respublikalari orasida birinchi bo'lib oltin tanga zarb qilgan shaharni aniqlang.",
+   "options": [
+    "Florensiya (1252-yil)",
+    "Venetsiya (1284-yil)",
+    "Genuya (1298-yil)",
+    "Piza (1409-yil)"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Doj” so'zi yunon tilida qanday ma'noni bildiradi.",
+   "options": [
+    "Elchi",
+    "Gersog",
+    "Savdogar",
+    "Rahbar, graf"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diagrammada berilgan papalar va ularning qarorgohlari to'g'ri ko'rsatilgan javobni aniqlang.",
+   "options": [
+    "2, 3",
+    "1, 3",
+    "2, 4",
+    "1, 4"
+   ],
+   "answer": 3,
+   "image": "img/j8-08-16.jpg"
+  },
+  {
+   "q": "Dukatlar birinchi marta qaysi yilda, qaysi respublika tomonidan chiqarilgan.",
+   "options": [
+    "1284-yilda, Genuya",
+    "1252-yilda, Venetsiya",
+    "1252-yilda, Florensiya",
+    "1284-yilda, Venetsiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Florensiyada 1330-yilda qancha aholi istiqomat qilgan.",
+   "options": [
+    "90 ming",
+    "20 ming",
+    "500 ming",
+    "200 ming"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Italiyada sanoat rivojlangan shaharlarni aniqlang.",
+   "options": [
+    "Piza va Neapol",
+    "Genuya va Venetsiya",
+    "Milan va Florensiya",
+    "Rim va Palermo"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Florensiyada yirik qo'zg'olon qachon bo'lib o'tdi.",
+   "options": [
+    "1252-yilda",
+    "1282-yilda",
+    "1409-yilda",
+    "1378-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Savdo-sotiq ham, hunarmandchilik ham rivojlanmagan qoloq hudud bo'lgan Italiya markazi qanday nomlangan.",
+   "options": [
+    "Florensiya respublikasi",
+    "Lombardiya",
+    "Papa davlati",
+    "Sitsiliya qirolligi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fransuz kardinallari papa qilib kimni sayladi. U qayerda qarorgoh tutgan.",
+   "options": [
+    "Martin V, Rimda",
+    "Urban VI, Rimda",
+    "Kliment VII, Avinyonda",
+    "Aleksandr V, Pizada"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Venetsiyada XIII asrda qancha aholi istiqomat qilgan.",
+   "options": [
+    "90 ming",
+    "200 ming",
+    "500 ming",
+    "20 ming"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Italiya gotika me'morchiligining ajoyib yodgorligi bo'lgan Venetsiyadagi dojlar saroyi qaysi yillarda hozirgi ko'rinishga keltirilgan.",
+   "options": [
+    "1252–1298-yillarda",
+    "1282–1380-yillarda",
+    "1309–1424-yillarda",
+    "1377–1418-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Florensiya respublikasining oliy organi qanday nomlangan.",
+   "options": [
+    "Kortes",
+    "Senat",
+    "Sinyoriya",
+    "Buyuk kengash"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Buyuk bo'linish”ga barham berilgan va yangi papa Martin V saylangan yilni aniqlang.",
+   "options": [
+    "1418-yil",
+    "1409-yil",
+    "1377-yil",
+    "1378-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Venetsiya XV asrga kelib qaysi hududda savdo monopolistiga aylandi.",
+   "options": [
+    "O'rta dengizning sharqiy qismida",
+    "Boltiq dengizida",
+    "Shimoliy dengizda",
+    "O'rta dengizning g'arbiy qismida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Italiyada dehqonlarning ozod bo'lishi shimolda qaysi asrda yuz berdi.",
+   "options": [
+    "XIV asrda",
+    "XIII asrda",
+    "XV asrda",
+    "XI asrda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Genuya respublikasi tarkibiga kirgan orollarni aniqlang.",
+   "options": [
+    "Sitsiliya, Sardiniya, Balear",
+    "Korsika, Lesbos, Xios",
+    "Rodos, Kiklad, Krit",
+    "Krit, Kipr, Evbeya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Arno daryosi sohillarida joylashgan, “Italiya Afinasi” deb ta'riflangan shaharni aniqlang.",
+   "options": [
+    "Genuya",
+    "Piza",
+    "Venetsiya",
+    "Florensiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Katolik cherkovining Rim papasidan keyingi eng oliy ruhoniysi qanday ataladi. Atamani izohlang.",
+   "options": [
+    "Sinyoriya",
+    "Kardinal",
+    "Kurfyurst",
+    "Doj"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qo'zg'olonni boshlash uchun belgi sifatida nima qilingan.",
+   "options": [
+    "Tong mahali nog'ora urilgan",
+    "Olov yoqilgan",
+    "Shahar darvozasi ochilgan",
+    "Oqshom mahali qo'ng'iroq chalingan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Osiyo bo'ylab sayohat qilib, “Marko Polo kitobi”ni yozgan sayyoh qayerlik edi.",
+   "options": [
+    "Florensiyalik",
+    "Milanlik",
+    "Genuyalik",
+    "Venetsiyalik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Venetsiyaning asosiy raqibi O'rta dengizning g'arbiy yarmida hukmronlik qilgan shahar-davlatni aniqlang.",
+   "options": [
+    "Piza",
+    "Florensiya",
+    "Genuya",
+    "Milan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Papalar butun katolik cherkovini qaysi hududdan turib boshqargan.",
+   "options": [
+    "Pizadan",
+    "Avinyondan",
+    "Vatikandan",
+    "Milandan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Papa Grigoriy XI Avinyondan Rimga qachon ko'chib keldi.",
+   "options": [
+    "1377-yilda",
+    "1418-yilda",
+    "1409-yilda",
+    "1378-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Italiya janubidagi Sitsiliya qirolligi qaysi xalq zodagonlari hukmronligi ostida edi.",
+   "options": [
+    "Fransuz",
+    "Nemis",
+    "Arab",
+    "Ispan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Piza yig'inida yangi papa qilib kim saylandi.",
+   "options": [
+    "Aleksandr V",
+    "Urban VI",
+    "Kliment VII",
+    "Martin V"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Italiyaning shimoliy qismida joylashgan viloyat va shaharlarni aniqlang.",
+   "options": [
+    "Piza va Korsika",
+    "Papa davlati va Rim",
+    "Sitsiliya va Neapol",
+    "Lombardiya va Toskaniya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Genuyaliklar Venetsiya flotini qachon mag'lub etdi. Bu to'qnashuvda kim asir tushgan.",
+   "options": [
+    "1298-yilda, doj va Marko Polo",
+    "1380-yilda, doj va Marko Polo",
+    "1298-yilda, doj va Vasko da Gama",
+    "1282-yilda, Urban VI"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XV asrdan boshlab Venetsiya tarkibiga qaysi orol kirgan.",
+   "options": [
+    "Kipr",
+    "Lesbos",
+    "Monako",
+    "Korsika"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sitsiliyaliklar fransuzlarga qarshi qo'zg'olonni qachon ko'targan.",
+   "options": [
+    "1380-yil",
+    "1252-yil",
+    "1298-yil",
+    "1282-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Italiyaning eng yirik savdo va iqtisodiy markazlari bo'lgan shahar-respublikalarni aniqlang.",
+   "options": [
+    "Rim va Piza",
+    "Genuya va Venetsiya",
+    "Milan va Florensiya",
+    "Neapol va Palermo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Venetsiya dojlarining rasmiy hukumati nima hisoblangan.",
+   "options": [
+    "Parlament",
+    "Sinyoriya",
+    "Senat",
+    "Kortes"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rim papalari o'zlarining behisob boyliklarini qaysi shahar banklarida saqlagan.",
+   "options": [
+    "Venetsiya",
+    "Milan",
+    "Florensiya",
+    "Genuya"
+   ],
+   "answer": 2
+  }
+ ]
+}

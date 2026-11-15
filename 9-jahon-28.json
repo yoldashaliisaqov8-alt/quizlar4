@@ -1,0 +1,446 @@
+{
+ "title": "9-sinf · 28-mavzu. Hindiston mustamlaka",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Hindistonda o'z mustaqilligini yo'qotgan so'nggi knyazlik qaysi?",
+   "options": [
+    "Bengaliya",
+    "Madras",
+    "Gujorat",
+    "Panjob"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Panjob knyazligi “Ost Indiya” kompaniyasi hududiga qo'shib olingan?",
+   "options": [
+    "1842-yilda",
+    "1849-yilda",
+    "1851-yilda",
+    "1858-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda Hindiston o'z tarixida birinchi marta mustaqil davlatchiligidan mahrum qilingan?",
+   "options": [
+    "1842-yilda",
+    "1849-yilda",
+    "1851-yilda",
+    "1858-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistonni to'liq nazoratga olish uchun inglizlarga necha yil kerak bo'lgan?",
+   "options": [
+    "Qariyb yetmish yil",
+    "Qariyb sakson yil",
+    "Qariyb to'qson yil",
+    "Qariyb yuz yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Angliya hukumati tashkil qilgan qaysi organ Buyuk Britaniyaning Hindistondagi mustamlakachilik siyosatining yo'nalishlarini belgilab borgan?",
+   "options": [
+    "“Hindiston ishlari bo'yicha kontinental kengashi”",
+    "“Hindiston ishlari bo'yicha qirollik kengashi”",
+    "“Hindiston ishlari bo'yicha nazorat kengashi”",
+    "“Hindiston ishlari bo'yicha gubernator kengashi”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hindistonni boshqarish to'g'risidagi Buyuk Britaniya parlamenti qonuniga ko'ra, “Ost Indiya” kompaniyasining qaysi shahardagi gubernatori Buyuk Britaniyaning Hindistondagi barcha mustamlakalari general-gubernatori etib tayinlangan?",
+   "options": [
+    "Kalkutta",
+    "Bombey",
+    "Mangalur",
+    "Kalikut"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asr o'rtalarida Hindistonda nechta feodal knyazliklar bor edi?",
+   "options": [
+    "Taxminan 400 ta",
+    "Taxminan 500 ta",
+    "Taxminan 600 ta",
+    "Taxminan 700 ta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrning birinchi yarmida Hindiston qishloq xo'jaligida qaysi plantatsiyalar ko'paygan? 1) Paxta; 2) Choy; 3) Qahva; 4) Kauchuk; 5) Shakarqamish.",
+   "options": [
+    "1, 2, 4",
+    "2, 3, 5",
+    "1, 2, 3, 4",
+    "1, 2, 3, 4, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrning birinchi yarmida Hindistondan Angliyaga nimalar yetkazilgan? 1) Bug'doy; 2) Sholi; 3) Choy; 4) Kauchuk.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qayer Britaniya tojining eng katta gavhari hisoblangan?",
+   "options": [
+    "Kanada",
+    "Hindiston",
+    "Avstraliya",
+    "Misr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistonda “roja” deb kimga aytilgan?",
+   "options": [
+    "Knyaz",
+    "Askar",
+    "Dehqon",
+    "Savdogar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrda nima Hindistonni inglizlar tomonidan talashning asosiy quroli bo'lgan?",
+   "options": [
+    "Kredit",
+    "Boj",
+    "Soliq",
+    "Subsidiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrda ingliz tovarlari hech qanday to'siqsiz Hindistonga olib kirilishi natijasida, mamlakatdagi qaysi sanoat inqirozga uchragan?",
+   "options": [
+    "Oziq-ovqat sanoati",
+    "To'qimachilik sanoati",
+    "Temirchilik sanoati",
+    "Kulolchilik sanoati"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Boburiylar sulolasi Hindistonda qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1519–1851-yillarda",
+    "1521–1853-yillarda",
+    "1523–1855-yillarda",
+    "1526–1858-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buyuk Britaniya Hindistonda qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1852–1941-yillarda",
+    "1855–1944-yillarda",
+    "1858–1947-yillarda",
+    "1861–1950-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yevropalik millat mustamlakachilaridan biri “chet ellik bosqinchilar hindlarga nisbatan zo'ravonlik va hatto qattiq shafqatsizlik ham qilgan, ammo hali hech kim ularga bizchalik nafrat bilan munosabatda bo'lmagan”, – deb yozgan edi?",
+   "options": [
+    "Ingliz",
+    "Fransuz",
+    "Portugal",
+    "Ispan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrning qaysi davrida Hindistonda inglizlar tomonidan hindlar va musulmonlarni zo'rlik bilan xristian diniga o'tkazilishi haqida mamlakat bo'ylab tarqalgan xabar norozilikni yanada kuchaytirgan?",
+   "options": [
+    "30-yillarida",
+    "40-yillarida",
+    "50-yillarida",
+    "60-yillarida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hindistonda sipohiylar qo'zg'olonining boshlanishiga bevosita turtki bo'lgan sabab nima bo'lgan?",
+   "options": [
+    "Qo'shimcha soliqning joriy etilishi",
+    "Patron bilan o'qlanadigan miltiqning joriy etilishi",
+    "Yevropacha harbiy kiyimning joriy etilishi",
+    "Ma'muriyatga bepul ishlab berish majburiyatining joriy etilishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistonda sipohiylar orasida yangi joriy etilgan patronli miltiqning patroni ustidagi, tish bilan yirtib tashlash kerak bo'lgan qog'ozga surtilgan yog' qaysi hayvonlar yog'ining aralashmasidan tayyorlangan, degan gap tarqalib ketgan?",
+   "options": [
+    "Fil va sigir",
+    "Sigir va cho'chqa",
+    "Cho'chqa va ot",
+    "Ot va fil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hinduiylik dinida qaysi hayvon muqaddas hisoblanadi va uning go'shti iste'mol qilinmaydi?",
+   "options": [
+    "Sigir",
+    "Cho'chqa",
+    "Ot",
+    "Fil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Islomda qaysi hayvon go'shti harom hisoblanadi?",
+   "options": [
+    "Sigir",
+    "Cho'chqa",
+    "Ot",
+    "Fil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistonda “Sipohiylar qo'zg'oloni” qachon boshlangan?",
+   "options": [
+    "1855-yilda",
+    "1856-yilda",
+    "1857-yilda",
+    "1858-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hindiston tarixida “Sipohiylar qo'zg'oloni” qanday nom olgan?",
+   "options": [
+    "“Mustaqillik uchun birinchi urush”",
+    "“Mustaqillik uchun muqaddas urush”",
+    "“Mustaqillik uchun shonli urush”",
+    "“Mustaqillik uchun so'nggi urush”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sipohiylar qaysi shaharni egallab, boburiy hukmdorni hind xalqini mustamlakachilarga qarshi qo'zg'olon ko'tarishga chorlovchi chaqiriqni imzolashga majbur etganlar?",
+   "options": [
+    "Agra",
+    "Bombey",
+    "Kalkutta",
+    "Dehli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sipohiylar qaysi boburiy hukmdorni hind xalqini mustamlakachilarga qarshi qo'zg'olon ko'tarishga chorlovchi chaqiriqni imzolashga majbur etganlar?",
+   "options": [
+    "Shoh Alam II",
+    "Akbarshoh II",
+    "Bahodirshoh II",
+    "Jahongirshoh II"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hindiston general-gubernatori qaysi yilda Londonga: “Hindiston tekisliklari to'quvchilar suyaklari bilan to'ldi”, – deya xabar bergan?",
+   "options": [
+    "1831-yilda",
+    "1834-yilda",
+    "1837-yilda",
+    "1842-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistonning milliy qahramonlaridan biri, asrab olingan o'g'lini orqasida ko'tarib, inglizlarga qarshi isyonchilarga rahbarlik qilgan malika Lakshmi Bay necha yoshda bo'lgani taxmin qilinadi?",
+   "options": [
+    "15 yoshlarda",
+    "20 yoshlarda",
+    "25 yoshlarda",
+    "30 yoshlarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistonda “rani” deb kimga aytilgan?",
+   "options": [
+    "Raqqosa",
+    "Rafiqa",
+    "Malika",
+    "Joriya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hindistonning milliy qahramonlaridan biri malika Lakshmi Bayga qarshi kurashgan ingliz generali bu jasoratli ayolni qo'zg'olon rahbarlari orasida … deb atagan.",
+   "options": [
+    "“eng dovyurak va eng jasur”",
+    "“eng jasur va eng shijoatli”",
+    "“eng shijoatli va eng vatanparvar”",
+    "“eng vatanparvar va eng dovyurak”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hindistonning milliy qahramonlaridan biri malika Lakshmi Bay … .",
+   "options": [
+    "janglarning birida halok bo'lgan",
+    "inglizlar tomonidan qatl qilingan",
+    "kasallik sababli vafot etgan",
+    "o'z joniga qasd qilgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hindistonda sipohiylar qo'zg'olonini bostirishda mustamlakachilar tomonidan qo'llangan qanday tadbir Dehli uchun jang taqdirini hal qilgan?",
+   "options": [
+    "Shaharni suv bilan ta'minlaydigan kanalning to'silishi",
+    "To'plarni fillarga ortib, shaharga olib kirilishi",
+    "Oziq-ovqat zahiralari saqlangan omborning yondirilishi",
+    "Yangi qurol, pulemyotning qo'llanilishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistonda sipohiylar qo'zg'oloni bostirilgach, jangda asir tushganlar mustamlakachilar tomonidan qanday jazolangan?",
+   "options": [
+    "Boshi tanasidan judo qilingan",
+    "Tiriklay ko'milgan",
+    "To'p og'ziga bog'lab, o't ochilgan",
+    "Baland minoradan pastga uloqtirilgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon inglizlar Hindistonni Buyuk Britaniya mulki deb e'lon qilganlar?",
+   "options": [
+    "1855-yilda",
+    "1856-yilda",
+    "1857-yilda",
+    "1858-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hindistonda sipohiylar qo'zg'oloni bostirilgach, mustamlakachilar tomonidan qanday islohotlar amalga oshirilgan? 1) Yer egalarining soliqlarni oshirishi taqiqlab qo'yilgan; 2) Mahalliy knyazlarning o'z yerlariga egaligi daxlsiz deb e'lon qilingan; 3) “Ost Indiya” kompaniyasi tugatilgan; 4) Hindiston",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Sipohiy” so'zi qaysi tildan olingan?",
+   "options": [
+    "Arabcha",
+    "Hindcha",
+    "Forscha",
+    "Turkiycha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Sipohiy” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Dushman”",
+    "“Askar”",
+    "“Yollangan”",
+    "“Qo'riqchi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistondagi sipohiylar inglizlar tomonidan kimlar orasidan yollangan askarlar bo'lgan?",
+   "options": [
+    "Ko'chmanchi qabilalar",
+    "Kelgindi yevropaliklar",
+    "Kavkazlik qullar",
+    "Mahalliy aholi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kim “inglizlarning bir to'plam kitobi butun Hindiston va Afrika adabiyotining hammasidan qimmat turadi”, degan edi?",
+   "options": [
+    "Ingliz amaldori",
+    "Hind zodagoni",
+    "Amerikalik jurnalist",
+    "Fransuz sayyohi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hindistonda qachon inglizlar tomonidan qoni va rangi hind, didi, tili va fikrlash usuli ingliz bo'lgan qatlamni tarbiyalashga kirishilgan va bu ishni amalga oshirish maqsadida Yevropa tipidagi kam sonli o'rta maktablar ochilgan?",
+   "options": [
+    "XIX asrning 20-yillarida",
+    "XIX asrning 30-yillarida",
+    "XIX asrning 40-yillarida",
+    "XIX asrning 50-yillarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon inglizlar Hindistonni tark etgan?",
+   "options": [
+    "1941-yilda",
+    "1944-yilda",
+    "1947-yilda",
+    "1950-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Inglizlar Hindistonni tark etganidan so'ng mamlakat aholisining necha foizi savodsizligicha qolgan edi?",
+   "options": [
+    "59 foizi",
+    "69 foizi",
+    "79 foizi",
+    "89 foizi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Hindistonda Yevropa tipidagi dastlabki uchta universitet ochilgan?",
+   "options": [
+    "1855-yilda",
+    "1856-yilda",
+    "1857-yilda",
+    "1858-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hind milliy madaniyatining G'arb madaniyati bilan yaqinlashuvi qanday nom olgan?",
+   "options": [
+    "“Hind uyg'onishi”",
+    "“Hind inqilobi”",
+    "“Hind islohoti”",
+    "“Hind yangilanishi”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qayerni “Britaniya imperiyasi tojidagi marvarid” deb atashgan?",
+   "options": [
+    "Kanada",
+    "Hindiston",
+    "Avstraliya",
+    "Misr"
+   ],
+   "answer": 1
+  }
+ ]
+}

@@ -1,0 +1,660 @@
+{
+ "title": "8-sinf · Chig'atoy ulusining tashkil topishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Marvdagi shaharni suv bilan ta'minlovchi qaysi inshoot Chingizxon buyrug'iga ko'ra buzib tashlangan?",
+   "options": [
+    "Dargom ariq",
+    "Sultonband",
+    "Bandi amir",
+    "Qo'rg'oshin nova"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chingizxon bosqinidan keyin Balx va uning atroflari qancha vaqt suv ofatini boshdan kechirgan?",
+   "options": [
+    "Bir yil",
+    "Olti oy",
+    "Uch kun",
+    "Yetti oy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Ulus” atamasi dastlab nimani anglatgan?",
+   "options": [
+    "Qo'shin boshlig'i",
+    "Hokim unvoni",
+    "Soliq turi",
+    "“Davlat”, “xalq” – Chingizxon tuzgan ilk mo'g'ul davlatining nomi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chingizxon katta o'g'li Jo'chiga Selenga daryosidan Irtishgacha bo'lgan yerlarni qaysi yili mulk qilib bergan?",
+   "options": [
+    "1225-yilda",
+    "1246-yilda",
+    "1206-yilda",
+    "1207-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chingizxon o'limidan oldin boshqa o'g'illariga ham ulus bo'lib bergan vaqt qaysi?",
+   "options": [
+    "1219-yil",
+    "1225-yil avgust",
+    "1231-yil",
+    "1207-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chizmada hukmdorlar va ularga tegishli ta'riflar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-e, 2-f, 3-d",
+    "1-e, 2-d, 3-f",
+    "1-e, 2-f, 3-a",
+    "1-e, 2-a, 3-d"
+   ],
+   "answer": 0,
+   "image": "img/k8-06-06.jpg"
+  },
+  {
+   "q": "Chingizxon o'z valiahdi etib uchinchi o'g'li O'qtoyga qanday unvon bergan?",
+   "options": [
+    "Xoqon",
+    "Sulton",
+    "Xon",
+    "Otabek"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chingizxon Chig'atoyga ulus qilib bergan hududlar qaysilar edi?",
+   "options": [
+    "Janubiy Sibirdan Xorazm va Darbandgacha bo'lgan yerlar",
+    "Eron va Xuroson",
+    "Xitoy va Mo'g'uliston",
+    "Oltoy tog'larining janubiy sarhadlaridan Amudaryo va Sindgacha bo'lgan yerlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chig'atoy Olmaliq yaqinida qaysi qishloqqa asos solgan va u uchun nima bo'lgan?",
+   "options": [
+    "Ohangaronga; poytaxti",
+    "Qutlug' qishlog'iga; qishki qarorgohi",
+    "Qutlug' qishlog'iga; yozgi qarorgohi",
+    "Qarshiga; yozgi qarorgohi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-b, 2-f, 3-a, 4-d",
+    "1-b, 2-f, 3-e, 4-d",
+    "1-b, 2-a, 3-e, 4-d",
+    "1-c, 2-f, 3-e, 4-d"
+   ],
+   "answer": 1,
+   "image": "img/k8-06-10.jpg"
+  },
+  {
+   "q": "Chig'atoyni zamondoshlari qanday ta'riflagan?",
+   "options": [
+    "“Shahar bunyodkori”",
+    "“Yasoq qo'riqchisi” (yasovul)",
+    "“Islom himoyachisi”",
+    "“Adolatli xon”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qtoy qaysi shaharni qayta qurishga farmon berganida Chig'atoy: “Bu ishing otamizning nizomiga, tutgan yo'liga zid!” deb qattiq qarshilik ko'rsatgan?",
+   "options": [
+    "Samarqand shahrini",
+    "Balx shahrini",
+    "Hirot shahrini",
+    "Marv shahrini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chig'atoy o'z vorisi sifatida kimni tayinlagan?",
+   "options": [
+    "Nabirasi Olg'uxonni",
+    "Bosh nabirasi Qora-Hulaguni",
+    "Mahmud Yalavochni",
+    "O'g'li Yasu Munkeni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1246-yilgi qurultoyda kim “ulug' xon” deb e'lon qilingan va bu Chig'atoy ulusiga qanday ta'sir qilgan?",
+   "options": [
+    "O'qtoyning o'g'li Guyuk; Qora-Hulagu taxtdan ag'darilgan",
+    "Xubilayxon; Baroqxon taxtga chiqqan",
+    "Guyuk; Chig'atoy ulusi bekor qilingan",
+    "Mengu; Olg'uxon taxtga chiqqan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi yillarni toping.",
+   "options": [
+    "1-f, 2-c, 3-b",
+    "1-c, 2-f, 3-b",
+    "1-f, 2-c, 3-a",
+    "1-f, 2-b, 3-c"
+   ],
+   "answer": 0,
+   "image": "img/k8-06-15.jpg"
+  },
+  {
+   "q": "Chig'atoy ulusi xonlari va ularning qilgan ishlariga oid to'g'ri ma'lumotlarni aniqlang. 1) Olg'uxon – Xorazmning bir qismi, Turkiston va Afg'onistonni qo'lga kiritib, mustaqillikni e'lon qilgan; 2) Chig'atoyxon – “Yasoq qo'riqchisi” (yasovul) deb ta'riflangan; 3) Kebekxon – qarorgohini Qashqadaryo vohasiga ko'chirib, “kepaki” tangalarini zarb ettirgan; 4) Ali Sulton – Qoraqurumga yurish qilib, uni talagan; 5) Alouddin Tarmashirin – islomni ulusning rasmiy diniga aylantirgan; 6) Esan Buqa – 1271-yilda pul islohotini o'tkazgan; 7) Xalilxon – Buxoroda Mas'udiya madrasasini qurdirgan; 8) Baroqxon – Xo'jandda Muborakshohni mag'lub etib, taxtga o'tirgan.",
+   "options": [
+    "1, 2, 3, 4, 5",
+    "3, 4, 5, 7",
+    "2, 3, 5, 7, 8",
+    "1, 2, 3, 5, 8"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chig'atoy ulusi xonligining haqiqiy asoschisi kim hisoblanadi?",
+   "options": [
+    "Baroqxon",
+    "Kebekxon",
+    "Qora-Hulagu",
+    "Chig'atoyning nabirasi Olg'uxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Olg'uxon Chig'atoy ulusida mustaqillikni qaysi chingiziy xonlar o'rtasidagi urushdan foydalanib e'lon qilgan?",
+   "options": [
+    "Guyuk va Mengu",
+    "Xubilayxon va Oriqbuqa",
+    "Kebek va Duva",
+    "Jo'chi va Tulu"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mahmud Yalavoch qanday shaxs bo'lgan?",
+   "options": [
+    "Hunarmand ustasi",
+    "Yirik va boy savdogar, butun Movarounnahr solig'ini oldindan to'lay oladigan",
+    "Qozi va faqih",
+    "Mo'g'ul qo'shini sarkardasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chizmada hokimiyat uchun kurashda ishtirok etgan shaxslar va ularning faoliyati to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-d, 2-a, 3-f",
+    "1-d, 2-b, 3-f",
+    "1-d, 2-f, 3-a",
+    "1-a, 2-d, 3-f"
+   ],
+   "answer": 0,
+   "image": "img/k8-06-20.jpg"
+  },
+  {
+   "q": "Mahmud Yalavoch harakatlari natijasida mo'g'ullar joriy etgan “qobchir” solig'i nimaga almashtirilgan?",
+   "options": [
+    "Qat'iy kumush solig'iga",
+    "Harbiy yig'imga",
+    "Oltin solig'iga",
+    "Natural soliqqa"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1238-yilda Buxoroda qaysi qo'zg'olon ko'tarilgan?",
+   "options": [
+    "Tarobiy to'ntarishi",
+    "Mahmud Torobiy qo'zg'oloni",
+    "Sarbadorlar qo'zg'oloni",
+    "Xurosoniy isyon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chig'atoy Mahmud Yalavochni Movarounnahr noibligidan nima uchun chetlashtirgan?",
+   "options": [
+    "Soliq to'lamagani uchun",
+    "Qo'zg'olonni bostirishda sustkashlik qildi deb hisoblagani uchun",
+    "Mo'g'ullarga xiyonat qilgani uchun",
+    "Islom dinini qabul qilgani uchun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qtoy Mahmud Yalavochni Shimoliy Xitoyga noib etib yuborishining sabablaridan biri nima?",
+   "options": [
+    "Xitoyda qo'zg'olon bostirish",
+    "Chig'atoy bilan sulh tuzish",
+    "Pekinda madrasa qurish",
+    "1240-yilda Shimoliy Xitoydan yuqori daromad olishga qiziqib qolgani"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chizmada shaharlar va ularga oid ma'lumotlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-e, 2-c, 3-a",
+    "1-e, 2-a, 3-c",
+    "1-d, 2-a, 3-c",
+    "1-c, 2-a, 3-e"
+   ],
+   "answer": 1,
+   "image": "img/k8-06-25.jpg"
+  },
+  {
+   "q": "Mahmud Yalavochdan keyin Movarounnahr noibi etib kim tayinlangan va u qaysi yilgacha shu lavozimda bo'lgan?",
+   "options": [
+    "O'g'li Mas'udbek; 1271-yilgacha",
+    "Kebekxon; 1326-yilgacha",
+    "O'g'li Mas'udbek; 1289-yilgacha",
+    "Baroqxon; 1271-yilgacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mas'udbek Buxoroda qanday madrasa bino qilgan va unda qancha talaba o'qigan?",
+   "options": [
+    "Ulug'bek madrasasi; 500 talaba",
+    "Mirarab madrasasi; 100 talaba",
+    "Mas'udiya madrasasi; 1000 ga yaqin talaba",
+    "Kukaldosh madrasasi; 2000 talaba"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mas'udbek 1271-yili Movarounnahrning nechta shahar va viloyatida bir xil vazndagi sof kumush tangalar zarb ettirgan?",
+   "options": [
+    "9 ta",
+    "10 ta",
+    "7 ta",
+    "16 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Olg'uxon vafotidan so'ng Xubilayxon Chig'atoy ulusiga qaysi xonzodalarni yuborgan?",
+   "options": [
+    "Kebek va Esan Buqani",
+    "Buzan va Xalilxonni",
+    "Muborakshoh va Baroqxonni",
+    "Qayduxon va Duvani"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi yillarni toping.",
+   "options": [
+    "1-c, 2-b, 3-e",
+    "1-f, 2-b, 3-a",
+    "1-c, 2-b, 3-d",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 3,
+   "image": "img/k8-06-30.jpg"
+  },
+  {
+   "q": "Muborakshoh Chig'atoy ulusi xoni deb qaysi joyda e'lon qilingan?",
+   "options": [
+    "Olmaliqda",
+    "Qarshida",
+    "Ohangaronda",
+    "Xo'jandda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muborakshohxonning qaysi e'lon qilgan qaroridan ba'zi mo'g'ul amaldorlari norozi bo'lib, Baroqxon atrofida birlashgan?",
+   "options": [
+    "Mustaqillikni e'lon qilishidan",
+    "Poytaxtni ko'chirishidan",
+    "Xubilayxonga bo'ysunmasligidan",
+    "Islom dinini qabul qilganini e'lon qilishidan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Muborakshoh va Baroqxon qo'shinlari qaysi shaharda to'qnash kelgan?",
+   "options": [
+    "Qarshida",
+    "Buxoroda",
+    "Samarqandda",
+    "Xo'jandda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Baroqxon Chig'atoy ulusini necha yil boshqargan?",
+   "options": [
+    "Uch yil",
+    "Besh yil",
+    "Yetti yil",
+    "O'n yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada Yalavochlar xonadoniga oid shaxslar va voqealar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-f, 3-e",
+    "1-e, 2-f, 3-a",
+    "1-a, 2-e, 3-f",
+    "1-b, 2-f, 3-e"
+   ],
+   "answer": 0,
+   "image": "img/k8-06-35.jpg"
+  },
+  {
+   "q": "Baroqxon vafotidan so'ng bo'lgan taxt kurashlarida kimning qo'li baland kelgan?",
+   "options": [
+    "Buzanning",
+    "Olg'uxonning",
+    "O'qtoy xoqonning nabirasi Qayduxonning",
+    "Kebekxonning"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1309-yilda Kebekxon tashabbusi bilan o'tkazilgan qurultoyda taxtga kim chiqarilgan?",
+   "options": [
+    "Ali Sulton",
+    "Tarmashirin",
+    "Xalilxon",
+    "Akasi Esan Buqa"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Esan Buqa davrida Chig'atoy ulusi sharqda va g'arbda kimlar bilan tinimsiz kurash olib borgan?",
+   "options": [
+    "Sharqda Elxoniylar, g'arbda Oltin O'rda bilan",
+    "Sharqda Oltin O'rda, g'arbda Yuan bilan",
+    "Sharqda Yuan imperiyasi, g'arbda Elxoniylar bilan",
+    "Sharqda Hindiston, g'arbda Misr bilan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kebekxon Chig'atoy ulusi taxtida qaysi yillarda o'tirgan?",
+   "options": [
+    "1318–1326-yillarda",
+    "1326–1338-yillarda",
+    "1309–1318-yillarda",
+    "1342–1346-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada atamalar va ularga tegishli sonlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-c, 3-f",
+    "1-a, 2-f, 3-c",
+    "1-a, 2-f, 3-b",
+    "1-d, 2-f, 3-c"
+   ],
+   "answer": 1,
+   "image": "img/k8-06-40.jpg"
+  },
+  {
+   "q": "Kebekxon chig'atoy xonlari orasida birinchi bo'lib o'z qarorgohini qaysi vohaga ko'chirgan?",
+   "options": [
+    "Qashqadaryo vohasiga",
+    "Farg'ona vodiysiga",
+    "Ili vodiysiga",
+    "Zarafshon vohasiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kebekxon davlatni qanday birliklarga ajratgan?",
+   "options": [
+    "Viloyat va sanjoqlarga",
+    "Uluslarga",
+    "10 minglik harbiy birlik yig'iladigan hududlarga (tuman, o'rchin)",
+    "Bekliklarga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kebekxon zarb ettirgan yangi tangalar xalq orasida qanday nom olgan?",
+   "options": [
+    "“Dirham”",
+    "“Dinor”",
+    "“Kepaki”",
+    "“Kopeyka”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kebekxon davrida Chingizxon bosqinidan beri vayron bo'lib yotgan qaysi shahar qayta tiklangan?",
+   "options": [
+    "Termiz",
+    "Marv",
+    "Urganch",
+    "Balx"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi shaxslarni toping.",
+   "options": [
+    "1-b, 2-d, 3-a",
+    "1-f, 2-d, 3-a",
+    "1-a, 2-d, 3-f",
+    "1-d, 2-f, 3-a"
+   ],
+   "answer": 1,
+   "image": "img/k8-06-45.jpg"
+  },
+  {
+   "q": "Tarmashirinxon taxtga o'tirishidan oldin qaysi shaharda noib sifatida faoliyat yuritgan?",
+   "options": [
+    "Olmaliqda",
+    "G'aznada",
+    "Qarshida",
+    "Balxda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarmashirinxon qaysi dinni Chig'atoy ulusining rasmiy diniga aylantirgan?",
+   "options": [
+    "Shomonlikni",
+    "Islomni",
+    "Buddaviylikni",
+    "Nasroniylikni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarmashirin ko'chmanchilik an'anasiga sodiq bo'lgan mo'g'ul amirlarini nima bilan shug'ullanishga majbur qilgan?",
+   "options": [
+    "Dehqonchilik bilan",
+    "Dengiz yurishlari bilan",
+    "Hunarmandchilik bilan",
+    "Savdo-sotiq bilan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarmashirinxonga qarshi isyonga kim boshchilik qilgan?",
+   "options": [
+    "Xalilxon",
+    "Ali Sulton",
+    "Jiyani Buzan ibn Duva Temur",
+    "Qozonxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada Kebekxon va uning vorislari davriga oid shaxslar va voqealar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-f, 2-d, 3-e",
+    "1-d, 2-f, 3-e",
+    "1-a, 2-d, 3-e",
+    "1-f, 2-b, 3-e"
+   ],
+   "answer": 0,
+   "image": "img/k8-06-50.jpg"
+  },
+  {
+   "q": "Ibn Battuta yozishicha, Tarmashirin qaysi odatga barham bergani uchun mo'g'ul zodagonlari undan norozi bo'lgan?",
+   "options": [
+    "Yasoq kitobini nashr etishni",
+    "Soliq yig'ishni",
+    "Yilda bir marta o'tkaziladigan to'y ziyofatini",
+    "Ov qilishni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chig'atoy ulusining sharqiy qismida islom asosiy din darajasiga qaysi hukmdor davrida ko'tarilgan?",
+   "options": [
+    "Ali Sulton",
+    "Buzan",
+    "Xalilxon",
+    "Qozonxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1338–1339-yillarda Chig'atoy ulusining sharqiy qismida nima tarqalgan?",
+   "options": [
+    "Vabo",
+    "Toshqin",
+    "Qurg'oqchilik",
+    "Zilzila"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xalilxon Chig'atoy ulusining shimoliy qismini qaysi yili o'ziga bo'ysundirgan?",
+   "options": [
+    "1342-yili",
+    "1309-yili",
+    "1338-yili",
+    "1318-yili"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada Chig'atoy ulusining keyingi hukmdorlari va ularga oid voqealar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-d, 2-a, 3-e",
+    "1-d, 2-a, 3-b",
+    "1-d, 2-c, 3-b",
+    "1-b, 2-a, 3-d"
+   ],
+   "answer": 1,
+   "image": "img/k8-06-55.jpg"
+  },
+  {
+   "q": "Xalilxon taxtdan ag'darilgach, uning o'rniga kim o'tirgan?",
+   "options": [
+    "Esan Buqa",
+    "Buzan",
+    "Ukasi Qozonxon",
+    "Ali Sulton"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Termiz hukmdori Ali al-Mulk Buzanga qarshi kurashda ishtirok etgach, Termiz qanday nom bilan yuritila boshlagan?",
+   "options": [
+    "“Madinat as-salom” (Tinchlik shahri)",
+    "“Madinat al-ilm” (Ilm shahri)",
+    "“Madinat ar-rijol” (Mardlar shahri)",
+    "“Madinat al-xulafo” (Xalifalar shahri)"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kebekxon davri islohotlariga oid to'g'ri ma'lumotlarni aniqlang. 1) Pul islohotida yagona oltin tanga zarb etildi; 2) Qarorgohni Qashqadaryo vohasiga ko'chirdi; 3) Poytaxt Olmaliqda qoldirildi; 4) Yangi tangalar “kepaki” deb atalgan; 5) Davlat 10 minglik harbiy birlik yig'iladigan hududlarga bo'lindi.",
+   "options": [
+    "2, 4, 5",
+    "2, 4",
+    "2, 3, 5",
+    "1, 2, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng avval sodir bo'lgan?",
+   "options": [
+    "Chingizxon o'g'illariga ulus bo'lib berdi",
+    "Mas'udbek pul islohotini o'tkazdi",
+    "Guyuk ulug' xon deb e'lon qilindi",
+    "Kebekxon Esan Buqani taxtga chiqardi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng keyin sodir bo'lgan?",
+   "options": [
+    "Chingizxon o'g'illariga ulus bo'lib berdi",
+    "Mas'udbek pul islohotini o'tkazdi",
+    "Guyuk ulug' xon deb e'lon qilindi",
+    "Kebekxon Esan Buqani taxtga chiqardi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chig'atoy ulusi xonlarini hukmronlik qilgan davrlariga ko'ra xronologik tartibda (avvaldan keyinga) joylashtiring: 1) Kebekxon; 2) Chig'atoyxon; 3) Xalilxon; 4) Baroqxon; 5) Alouddin Tarmashirin; 6) Olg'uxon.",
+   "options": [
+    "6, 2, 4, 1, 5, 3",
+    "2, 6, 4, 5, 1, 3",
+    "2, 4, 6, 1, 5, 3",
+    "2, 6, 4, 1, 5, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xaritaga qarang. Chig'atoy ulusi hududida joylashgan shaharlar qaysi javobda to'g'ri berilgan?",
+   "options": [
+    "Olmaliq, Tabriz, Koshg'ar",
+    "Buxoro, Pekin, Toshkent",
+    "Saroyberka, Samarqand, Xo'tan",
+    "Olmaliq, Samarqand, Koshg'ar"
+   ],
+   "answer": 3,
+   "image": "img/k8-06-62.jpg"
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarga mos keluvchi joy nomlarini toping.",
+   "options": [
+    "1-f, 2-b, 3-d, 4-c, 5-h, 6-e",
+    "1-b, 2-f, 3-h, 4-c, 5-d, 6-e",
+    "1-f, 2-b, 3-h, 4-c, 5-d, 6-e",
+    "1-f, 2-b, 3-c, 4-h, 5-d, 6-e"
+   ],
+   "answer": 2,
+   "image": "img/k8-06-63.jpg"
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-e, 2-a, 3-b, 4-d",
+    "1-e, 2-d, 3-b, 4-f",
+    "1-b, 2-f, 3-e, 4-d",
+    "1-e, 2-f, 3-b, 4-d"
+   ],
+   "answer": 3,
+   "image": "img/k8-06-64.jpg"
+  }
+ ]
+}

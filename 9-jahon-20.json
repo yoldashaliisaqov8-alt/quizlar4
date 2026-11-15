@@ -1,0 +1,756 @@
+{
+ "title": "9-sinf · 20-mavzu. Afrika: mustamlaka boshlanishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Afrikadagi arab mamlakatlariga qaysilar kiradi? 1) Efiopiya; 2) Misr; 3) Jazoir; 4) Liviya; 5) Tunis; 6) Sudan; 7) Marokash; 8) Gana.",
+   "options": [
+    "1, 3, 5, 6, 8",
+    "2, 3, 4, 5, 6, 7",
+    "2, 4, 5, 6, 7, 8",
+    "1, 2, 3, 4, 6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Afrika qit'asi, odatda, nechta qismga bo'lib o'rganiladi va ular qaysilar?",
+   "options": [
+    "Ikkiga: Ekvator shimoli, Ekvatordan janubi",
+    "Uchga: Shimoliy, Tropik, Janubiy",
+    "To'rtga: Shimoliy, Janubiy, Sharqiy, G'arbiy",
+    "Beshga: Shimoliy, Janubiy, Sharqiy, G'arbiy, Tropik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Afrikaning qaysi qismida, asosan, arab xalqlari istiqomat qiladi?",
+   "options": [
+    "Shimoliy Afrikada",
+    "Janubiy Afrikada",
+    "G'arbiy Afrikada",
+    "Sharqiy Afrikada"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qayerdan janubda joylashgan mamlakatlar Tropik Afrika deb ataladi?",
+   "options": [
+    "Kunene daryosi",
+    "Zambezi daryosi",
+    "Sahroyi Kabir",
+    "Kalaxari sahrosi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qayerlardan pastda joylashgan hudud Janubiy Afrika deyiladi? 1) Kunene daryosi; 2) Zambezi daryosi; 3) Sahroyi Kabir.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afrikaning qaysi hududlarida, asosan, qora tanli xalqlar yashaydi?",
+   "options": [
+    "Janubiy va Shimoliy Afrika",
+    "Shimoliy va G'arbiy Afrika",
+    "G'arbiy va Tropik Afrika",
+    "Tropik va Janubiy Afrika"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shimoliy Afrikaning iqtisodiy jihatdan o'ziga xos tomoni nimada?",
+   "options": [
+    "Yuksak qadimiy merosga ega",
+    "Unumdor yerlarga mo'l",
+    "Savdo chorrahasida joylashgan",
+    "Qazilma boyliklarga boy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi asrdan Shimoliy Afrikadagi ko'pchilik arab mamlakatlari turklar tomonidan zabt etilib, Usmoniylar imperiyasi tarkibiga qo'shib olingan?",
+   "options": [
+    "XIV asrdan",
+    "XV asrdan",
+    "XVI asrdan",
+    "XVII asrdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asrda qaysi Afrika mamlakati mamluklar hukmronligi ostida bo'lgan?",
+   "options": [
+    "Sudan",
+    "Misr",
+    "Liviya",
+    "Jazoir"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon usmoniy sulton Salim I armiyasi Misrning poytaxti Qohirani egallab, vayron qilgan?",
+   "options": [
+    "1517-yilda",
+    "1522-yilda",
+    "1519-yilda",
+    "1524-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachondan Misrda sanoatning ba'zi, ayniqsa, eksportga ishlaydigan tarmoqlarida manufaktura ishlab chiqarishiga o'tila boshlangan, ayrim shaharlarda to'qimachilik sanoatida manufakturalar tashkil qilingan?",
+   "options": [
+    "XV asrdan",
+    "XVI asrdan",
+    "XVII asrdan",
+    "XVIII asrdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi xaritada Afrika mintaqalari to'g'ri berilgan javobni toping.",
+   "options": [
+    "1) G'arbiy Afrika; 2) Shimoliy Afrika; 3) Sharqiy Afrika; 4) Janubiy Afrika; 5) Markaziy Afrika",
+    "1) Shimoliy Afrika; 2) G'arbiy Afrika; 3) Markaziy Afrika; 4) Sharqiy Afrika; 5) Janubiy Afrika",
+    "1) Markaziy Afrika; 2) Sharqiy Afrika; 3) Shimoliy Afrika; 4) G'arbiy Afrika; 5) Janubiy Afrika",
+    "1) Sharqiy Afrika; 2) Markaziy Afrika; 3) G'arbiy Afrika; 4) Janubiy Afrika; 5) Shimoliy Afrika"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ehromlar oldidagi jang boshlanishidan oldin Napoleon: “Askarlar! Qirq asrlik tarix bugun sizlarga mana shu ehromlar balandligidan qarab turibdi!” – deb, shu mashhur so'zlari bilan fransuzlarni o'zining qo'shinidan uch baravar ko'p bo'lgan kimlarga qarshi kurashga ilhomlantirgan?",
+   "options": [
+    "Turklar",
+    "Inglizlar",
+    "Arablar",
+    "Mamluklar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon turk hukmronligi va mamluklar zulmiga qarshi, Qohiradagi Al-Azhar masjidining taniqli shayxlari chaqirig'iga binoan, qohiralik hunarmand va savdogarlar o'z do'konlarini yopganlar?",
+   "options": [
+    "1795-yilning yozida",
+    "1798-yilning kuzida",
+    "1796-yilning qishida",
+    "1797-yilning bahorida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Al-Azhar masjidi qaysi yilda boshlangan Napoleon Bonapart boshchiligidagi fransuz bosqinchilariga qarshi xalq harakatining ham markaziga aylangan?",
+   "options": [
+    "1800-yilda",
+    "1798-yilda",
+    "1802-yilda",
+    "1796-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI asr boshlarida Jazoirning qirg'oq bo'yi hududlarini kimlar bosib olgan?",
+   "options": [
+    "Inglizlar",
+    "Portugallar",
+    "Ispanlar",
+    "Gollandlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asrda “korsarlar” deb kimlarga aytilgan?",
+   "options": [
+    "Andalusiyalik musulmonlar",
+    "Mahalliy zodagonlar",
+    "Shahar hunarmandlari",
+    "Dengiz qaroqchilari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jazoirda korsarlar yetakchisi Aruj vafotidan so'ng uning ukasi Xayriddin Barbarossa ispanlarga qarshi kurashda yordam so'rab kimlarga murojaat qilgan?",
+   "options": [
+    "Mamluklarga",
+    "Fransuzlarga",
+    "Usmoniylarga",
+    "Inglizlarga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Barbarossa” so'zining ma'nosi nima?",
+   "options": [
+    "“Uzun soch”",
+    "“Sariq soqol”",
+    "“Qora mo'ylov”",
+    "“Ko'k tish”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xayriddin Barbarossa hukmronlik yillarida Ispaniya qirg'oqlariga nechta ekspeditsiya uyushtirgan?",
+   "options": [
+    "Beshta",
+    "Oltita",
+    "Yettita",
+    "Sakkizta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xayriddin Barbarossa hukmronlik yillarida Ispaniya qirg'oqlariga ekspeditsiya uyushtirib, qancha andalusiyalik musulmonlarni u yerdan Jazoir va Tunisga olib kelgan?",
+   "options": [
+    "60 ming",
+    "70 ming",
+    "80 ming",
+    "90 ming"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Morisklar” deb kimlarga aytilgan?",
+   "options": [
+    "Andalusiyalik musulmonlar",
+    "Mahalliy zodagonlar",
+    "Shahar hunarmandlari",
+    "Dengiz qaroqchilari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xayriddin va uning vorislari davrida shakllangan Jazoirning harbiy-siyosiy tizimi qachongacha o'zgarmasdan qolgan?",
+   "options": [
+    "XVIII asr boshlarigacha",
+    "XVIII asr oxirlarigacha",
+    "XIX asr boshlarigacha",
+    "XIX asr oxirlarigacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI–XVII asrlarda Efiopiya shimoldan kimlarning hujumini qaytargan?",
+   "options": [
+    "Usmoniy turklar",
+    "Dushman qabilalar va portugallar",
+    "Ispanlar va arablar",
+    "Inglizlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI–XVII asrlarda Efiopiya janub va g'arbdan kimlarning hujumini qaytargan?",
+   "options": [
+    "Usmoniy turklar",
+    "Dushman qabilalar va portugallar",
+    "Ispanlar va arablar",
+    "Inglizlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mustaqilligini saqlab qolgan yagona Afrika davlati qaysi?",
+   "options": [
+    "Misr",
+    "Tunis",
+    "Efiopiya",
+    "Jazoir"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi Afrika davlati hukmdori “negus” deb atalgan?",
+   "options": [
+    "Misr",
+    "Tunis",
+    "Efiopiya",
+    "Jazoir"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Tripoli ispanlar tomonidan zabt etilgan?",
+   "options": [
+    "1519-yilda",
+    "1517-yilda",
+    "1516-yilda",
+    "1510-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI asrda arablarning mahalliy qaysi qabilasi doimiy qarshilik ko'rsatsa-da, Tripolini xristianlardan ozod qilishga qurbi yetmagan?",
+   "options": [
+    "Berber",
+    "Tuareg",
+    "Fulbe",
+    "Zulu"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi usmoniylar sultoni musulmonlarni ozod qilish shiori ostida butun Liviyani imperiyaga qo'shib olgan?",
+   "options": [
+    "Sulaymon I Qonunchi",
+    "Salim I",
+    "Salim III",
+    "Murod II"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Jazoir va Tunisdagi singari Tripolida ham yanicharlar tomonidan saylanadigan deylar hokimiyati o'rnatilgan?",
+   "options": [
+    "XVII asr birinchi choragida",
+    "XVII asr ikkinchi choragida",
+    "XVII asr uchinchi choragida",
+    "XVII asr so'nggi choragida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Liviyada Ahmad Karamanli boshchiligida qulo'g'lilar hokimiyati o'rnatilgan?",
+   "options": [
+    "XVII asr boshlarida",
+    "XVII asr oxirlarida",
+    "XVIII asr boshlarida",
+    "XVIII asr oxirlarida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Liviyada “qulo'g'lilar” deb kimlarga aytilgan?",
+   "options": [
+    "Otasi arab, onasi berber bo'lganlarga",
+    "Otasi berber, onasi yevropalik bo'lganlarga",
+    "Otasi yevropalik, onasi turk bo'lganlarga",
+    "Otasi turk, onasi arab bo'lganlarga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Tunis turk qo'shinlari tomonidan zabt etilib, usmoniylar siyosiy tartibi o'rnatilgan?",
+   "options": [
+    "1574-yilda",
+    "1551-yilda",
+    "1565-yilda",
+    "1567-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Tunisda sipohiylarning yangi sardori Husayn ibn Ali yangi monarxiyaga va husayniylar sulolasiga asos solgan?",
+   "options": [
+    "XVIII asr boshlarida",
+    "XVIII asr oxirlarida",
+    "XIX asr boshlarida",
+    "XIX asr oxirlarida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Husayniylar sulolasi Tunisni qachongacha boshqargan?",
+   "options": [
+    "1949-yilgacha",
+    "1957-yilgacha",
+    "1961-yilgacha",
+    "1968-yilgacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XV-XVI asrlarda Sudanda yangi siyosiy tuzumning asosini tashkil qilishni qaysi viloyatlar uddalagan?",
+   "options": [
+    "Xamaj va Xartum",
+    "Xartum va Fung",
+    "Fung va Darfur",
+    "Darfur va Xamaj"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sudanning qaysi viloyati poytaxti Sennar shahri edi?",
+   "options": [
+    "Xamaj",
+    "Xartum",
+    "Fung",
+    "Darfur"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Sudanda “Sennar sultonligi” deb atalgan davlat tashkil topgan?",
+   "options": [
+    "1508-yilda",
+    "1503-yilda",
+    "1501-yilda",
+    "1504-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVII asr oxiri – XVIII asr boshlarida Sennar sultonligi bilan qo'shni qaysi davlat o'rtasida urush boshlangan?",
+   "options": [
+    "Misr",
+    "Liviya",
+    "Marokash",
+    "Efiopiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sennar sultonligida sulton hokimiyati to'liq inqirozga yuz tutgach, hokimiyat qaysi sulolaga o'tgan?",
+   "options": [
+    "Darfur vazirlari",
+    "Xamaj vazirlari",
+    "Fung vazirlari",
+    "Xartum vazirlari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVII asr oxiri – XVIII asr boshlarida Sudanning eng kuchli va boy davlati qaysi edi?",
+   "options": [
+    "Darfur",
+    "Xamaj",
+    "Fung",
+    "Xartum"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sudandagi Darfur davlatiga eng katta foyda keltiradigan asosiy tovar nima bo'lgan?",
+   "options": [
+    "Tuz",
+    "Qullar",
+    "Oltin",
+    "Kumush"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Marokash janubida shariflar yuksala boshlagan?",
+   "options": [
+    "XV asr boshida",
+    "XV asr oxirida",
+    "XVI asr boshida",
+    "XVI asr oxirida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Marokashda “shariflar” deb kimlarga aytilgan?",
+   "options": [
+    "O'zlarini Muhammad payg'ambar avlodlari deb hisoblovchilar",
+    "Hukmron sulola vakillari",
+    "Mahalliy zodagon oilalar",
+    "Oliy martabali din peshvolari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Marokashdagi Shariflar imperiyasi qanday davlat edi?",
+   "options": [
+    "Hokimiyat kuchli, yagona hukmdor hokimiyati asosida qurilgan edi",
+    "Yirik yer egalari mustaqil bo'lgan, feodal tarqoq davlat edi",
+    "Zamonaviy parlamentar monarxiya elementlari mavjud edi",
+    "Markazlashmagan, shaharlar federatsiyasidan iborat edi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI asrda Marokashning yuksalishiga eng katta hissa qo'shgan sulton kim edi?",
+   "options": [
+    "Mahmud al-Mansur",
+    "Yahyo al-Mansur",
+    "Ahmad al-Mansur",
+    "Umar al-Mansur"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Marokashda shariflar avlodining boshqa bir sulolasi Filaliylar hokimiyatga kelib, mamlakat qudratining yuksalishiga katta hissa qo'shganlar?",
+   "options": [
+    "XVII asr boshlarida",
+    "XVII asr o'rtalarida",
+    "XVII asr oxirlarida",
+    "XVIII asr boshlarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mulay Ismoil Marokashni necha yil boshqargan?",
+   "options": [
+    "45 yil",
+    "50 yil",
+    "55 yil",
+    "60 yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi Marokash hukmdori o'z faoliyatini ikkita maqsadga: turklar va yevropaliklar tahdididan mamlakat mustaqilligini saqlab qolish; mamlakatning iqtisodiy gullab-yashnashini ta'minlashga yo'naltirgan?",
+   "options": [
+    "Sidi Muhammad ibn Abdulloh",
+    "Ahmad al-Mansur",
+    "Ahmad Karamanli",
+    "Mulay Ismoil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mulay Ismoildan keyin Marokashda necha yil barqarorlik bo'lmagan?",
+   "options": [
+    "O'n yil",
+    "Yigirma yil",
+    "O'ttiz yil",
+    "Qirq yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asrda Mulay Ismoilning kimi bo'lgan Sidi Muhammad ibn Abdulloh Marokashda tinchlik va tartib o'rnata olgan?",
+   "options": [
+    "O'g'li",
+    "Nabirasi",
+    "Jiyani",
+    "Ukasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Marokash hukmdori Sidi Muhammad ibn Abdulloh qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1757 –1790-yillarda",
+    "1759 –1792-yillarda",
+    "1763 –1796-yillarda",
+    "1766 –1799-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI-XVIII asrlarda Afrikaning qaysi mintaqalaridagi aholi ibtidoiy sharoitda yashardi? 1) Hozirgi Nigeriya va Kamerun davlatlari; 2) Ubangi daryosi havzasi; 3) Kongo daryosining o'rta oqimi; 4) Sharqiy Ekvatorial Afrikaning qator viloyatlari; 5) Butun Janubiy Afrika.",
+   "options": [
+    "2, 3",
+    "1, 3, 4",
+    "2, 3, 5",
+    "1, 2, 3, 4, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI-XVIII asrlarda Afrikaning qaysi mintaqasida yashovchi ayrim bushmen qabilalari yuqori paleolitga mos keladigan taraqqiyot bosqichida edilar?",
+   "options": [
+    "Kongo daryosining o'rta oqimi",
+    "Ubangi daryosi havzasi",
+    "Kalaxari cho'llari",
+    "Sharqiy Ekvatorial Afrikaning qator viloyatlari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI-XVIII asrlarda Afrikada bir paytlar kuchli va nisbatan taraqqiy etgan davlatlarning tarkibiga kirgan yerlar, asosan, qayer yana siyosiy tarqoqlik holatiga qaytgan?",
+   "options": [
+    "Sharqiy Sudan",
+    "G'arbiy Sudan",
+    "Shimoliy Sudan",
+    "Janubiy Sudan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yevropaliklar Afrikaga, asosan, qaysi asrdan boshlab kirib kelgan?",
+   "options": [
+    "XV asrdan",
+    "XVI asrdan",
+    "XVII asrdan",
+    "XVIII asrdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI asr oxirigacha Afrikaning g'arbiy qirg'oqlarida o'rnashib olgan yagona davlat qaysi edi?",
+   "options": [
+    "Portugaliya",
+    "Ispaniya",
+    "Gollandiya",
+    "Angliya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afrikada qul savdosi bilan shug'ullangan birinchi yevropaliklar kimlar edi?",
+   "options": [
+    "Ispaniyaliklar",
+    "Gollandiyaliklar",
+    "Portugaliyaliklar",
+    "Angliyaliklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Portugaliyaliklar Afrika sohil bo'ylarini nechta zonaga ajratib, bu zonalarni ulardan olinadigan asosiy tovarning nomi bilan ataganlar?",
+   "options": [
+    "Uchta zonaga",
+    "To'rtta zonaga",
+    "Beshta zonaga",
+    "Oltita zonaga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Portugaliyaliklar hozirgi Shimoliy Liberiyaning qirg'oqlarini qanday nomlar bilan ataganlar? 1) “Qalampirli qirg'oq”; 2) “Qul qirg'og'i”; 3) “Fil suyagi qirg'og'i”; 4) “Oltin qirg'oq”.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Portugaliyaliklar Volta va Niger daryolari oralig'ini qanday nom bilan ataganlar?",
+   "options": [
+    "“Oltin qirg'oq”",
+    "“Fil suyagi qirg'og'i”",
+    "“Qul qirg'og'i”",
+    "“Qalampirli qirg'oq”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Atlantika okeani orqali amalga oshirilgan qul savdosi jarayonida qancha afrikalik halok bo'lgan?",
+   "options": [
+    "30–40 million",
+    "40–50 million",
+    "50–60 million",
+    "60–70 million"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon bir guruh inglizlar Afrikaning g'arbiy sohilidagi Serra-Leone hududidan yer sotib olib, tajriba sifatida u yerda qora tanlilar davlatini tuzishgan va sobiq qullarni ko'chirib keltirishgan?",
+   "options": [
+    "1784-yilda",
+    "1787-yilda",
+    "1792-yilda",
+    "1795-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1530-yildan 1600-yilgacha bo'lgan 70 yil ichida faqat portugaliyaliklarning o'zlari tomonidan Amerikaga qancha qul olib ketilgan?",
+   "options": [
+    "1 mln. ga yaqin",
+    "2 mln. ga yaqin",
+    "3 mln. ga yaqin",
+    "4 mln. ga yaqin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVII asr birinchi yarmida Afrikadagi qul savdosida Portugaliyaning o'rnini qaysi davlat egallagan?",
+   "options": [
+    "Ispaniya",
+    "Angliya",
+    "Gollandiya",
+    "Fransiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davrdan Afrikadagi mustamlaka bozorlarini egallash uchun kurashga Angliya, Fransiya, Shvetsiya, Daniya kabi boshqa Yevropa davlatlari ham qo'shilgan?",
+   "options": [
+    "XVII asr birinchi yarmidan",
+    "XVII asr ikkinchi yarmidan",
+    "XVIII asr birinchi yarmidan",
+    "XVIII asr ikkinchi yarmidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVII asr ikkinchi yarmi va butun XVIII asr davomida Afrikaning qaysi mintaqalari qul savdosida monopoliya o'rnatish uchun asosiy kurash maydoni bo'lgan?",
+   "options": [
+    "Markaziy va Sharqiy Afrika",
+    "Sharqiy va Janubiy Afrika",
+    "Janubiy va G'arbiy Afrika",
+    "G'arbiy va Markaziy Afrika"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Afrikadagi qul savdosining eng rivojlangan davri qaysi asrlarga to'g'ri keladi?",
+   "options": [
+    "XV–XVI asrlar",
+    "XVI–XVII asrlar",
+    "XVII–XVIII asrlar",
+    "XVIII–XIX asrlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tropik Afrikadagi barcha davlatlarning asosiy xususiyati nimada?",
+   "options": [
+    "Ko'plab urug'-qabila institutlarining saqlanib qolishida",
+    "Feodal munosabatlarga asoslanishida",
+    "Markazlashgan hokimiyat tizimining mavjudligida",
+    "Demokratik an'analarning rivojlanganligida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afrikada qaysi davrdan qabilalarning davlatlarga birlashish jarayoni kuchaygan?",
+   "options": [
+    "XVII asr boshidan",
+    "XVII asr oxiridan",
+    "XVIII asr boshidan",
+    "XVIII asr oxiridan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Uzoq davom etgan mustamlakachilik davrida Afrika xalqlari taraqqiyotida qanday muhim o'zgarishlar sodir bo'lgan? 1) Tabiiy boyliklarning yevropaliklar tomonidan jadal o'zlashtirilishi natijasida sanoat paydo bo'lgan; 2) Pul-tovar xo'jaligi kengayib, bozor munosabatlari tarkib topgan; 3) Kishilarning",
+   "options": [
+    "1, 2, 3",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qul savdosi, asosan, Markaziy Afrikaning qaysi qismida rivojlangan edi?",
+   "options": [
+    "Janubiy qismida",
+    "Shimoliy qismida",
+    "G'arbiy qismida",
+    "Sharqiy qismida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "… – bu mehnat daromadi va kapital qo'yilmalardan olingan daromaddan tashqari har qanday daromad.",
+   "options": [
+    "Divident",
+    "Renta",
+    "Kredit",
+    "Kapital"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "… – feodal foydasiga ishlab berish, oziq-ovqat (natural) va naqd pul shaklida mavjud bo'lgan.",
+   "options": [
+    "Feodal divident",
+    "Feodal renta",
+    "Feodal kredit",
+    "Feodal kapital"
+   ],
+   "answer": 1
+  }
+ ]
+}

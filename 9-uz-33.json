@@ -1,0 +1,106 @@
+{
+ "title": "9-sinf · 35-mavzu. Xonliklar va jahon taraqqiyoti (sanoat to'ntarishi davri)",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Uchinchi o'zbek davlati ajralib chiqqan va mustaqil bo'lgan vaqtni aniqlang.",
+   "options": [
+    "1709-yil",
+    "1512-yil",
+    "1804-yil",
+    "1756-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Buxoro amirligida qaysi sulola hukmronlik qilgan.",
+   "options": [
+    "Qo'ng'irot",
+    "Mang'it",
+    "Nayman",
+    "Ming"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xiva xonligida qaysi sulola hukmronlik qilgan.",
+   "options": [
+    "Qo'ng'irot",
+    "Mang'it",
+    "Nayman",
+    "Ming"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qo'qon xonligida qaysi sulola hukmronlik qilgan.",
+   "options": [
+    "Qo'ng'irot",
+    "Mang'it",
+    "Nayman",
+    "Ming"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVIII asrda sanoat to'ntarishi yuz bergan davlatni aniqlang.",
+   "options": [
+    "Germaniya",
+    "Fransiya",
+    "Buyuk Britaniya",
+    "Italiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachonga kelib dunyoda ilk temiryo'l qurilgan.",
+   "options": [
+    "1812-yil",
+    "1825-yil",
+    "1830-yil",
+    "1820-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Cho'yan, temir va po'latga bo'lgan ehtiyojning oshishi qaysi voqea natijasida sodir bo'lgan.",
+   "options": [
+    "Buyuk Britaniyada sanoat to'ntarishining yuz berishi",
+    "Paravozsozlikning paydo bo'lishi",
+    "Ishlab chiqarishda dastgohlarning qo'llanishi",
+    "Dunyoda ilk temiryo'lning qurilishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qudratli savdo va harbiy-dengiz floti qurishga imkon bergan omilni aniqlang.",
+   "options": [
+    "Buyuk Britaniyada sanoat to'ntarishining yuz berishi",
+    "Paravozsozlikning paydo bo'lishi",
+    "Ishlab chiqarishda dastgohlarning qo'llanishi",
+    "Dunyoda ilk temiryo'lning qurilishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr insoniyat tarixiga qanday nom bilan kirgan.",
+   "options": [
+    "Po'lat asri",
+    "Qurol-yarog' asri",
+    "Qulchilik asri",
+    "Bug' mashinalari asri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yevropa Osiyodan aholi jon boshiga daromad bo'yicha qancha miqdorda o'zib ketadi.",
+   "options": [
+    "3 barobar",
+    "4 barobar",
+    "2 barobar",
+    "5 barobar"
+   ],
+   "answer": 2
+  }
+ ]
+}

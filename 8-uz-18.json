@@ -1,0 +1,226 @@
+{
+ "title": "8-sinf · Mirzo Ulug'bek",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Mirzo Ulug'bek Movarounnahr va Turkistonga hokim qilib tayinlangan yilni aniqlang.",
+   "options": [
+    "1410-yil",
+    "1409-yil",
+    "1414-yil",
+    "1425-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mirzo Ulug'bekdan avval Samarqand taxtini boshqargan temuriy hukmdor berilgan javobni aniqlang.",
+   "options": [
+    "Sulton Husayn Mirzo",
+    "Amir Xudaydot",
+    "Xalil Sulton",
+    "Pirmuhammad Jahongir"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mirzo Ulug'bek qaysi sanada tavallud topgan?",
+   "options": [
+    "1394-yil 22-mart",
+    "1395-yil 20-sentyabr",
+    "1394-yil 27-oktyabr",
+    "1377-yil 23-mart"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mirzo Ulug'bek qaysi sanada vafot etgan?",
+   "options": [
+    "1447-yil 27-oktyabr",
+    "1449-yil 27-oktyabr",
+    "1422-yil 22-mart",
+    "1449-yil 24-fevral"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mirzo Ulug'bek Movarounnahrni necha yil davomida boshqargan?",
+   "options": [
+    "35 yil",
+    "37 yil",
+    "40 yil",
+    "39 yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mirzo Ulug'bekning qaysi hududga qarshi yurishdagi g'alabasidan so'ng mamlakatning sharqiy chegaralari mustahkamlandi?",
+   "options": [
+    "Dashti Qipchoq",
+    "Mo'g'uliston",
+    "Farg'ona",
+    "Xuroson"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mirzo Ulug'bek tug'ilgan shahar bugungi qaysi davlat hududiga mos keladi?",
+   "options": [
+    "Ozarbayjon",
+    "Eron",
+    "Iroq",
+    "Armaniston"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Zanjan viloyati qaysi davlat hududiga mos keladi?",
+   "options": [
+    "Armaniston",
+    "Eron",
+    "Iroq",
+    "Ozarbayjon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mirzo Ulug'bekning Mo'g'ulistonga qilgan birinchi yirik harbiy yurishi qaysi yilda amalga oshirilgan?",
+   "options": [
+    "1414-yil",
+    "1409-yil",
+    "1447-yil",
+    "1425-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ulug'bek qo'shin miqdori haqida dushman noto'g'ri tasavvurga ega bo'lishi uchun har bir jangchisiga tunda besh yerda gulxan yoqishni amr qilgan. Yuqoridagi ma'lumot qaysi yurish haqida?",
+   "options": [
+    "Dashti Qipchoq yurishi",
+    "Farg'ona yurishi",
+    "Mo'g'uliston yurishi",
+    "Xuroson yurishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dushmanni chalg'itish maqsadida qo'shin miqdorini bo'rttirib, ko'paytirib ko'rsatish uchun qo'llaniladigan usul qanday nomlanadi?",
+   "options": [
+    "\"to'lg'ama\"",
+    "\"arg'ay ot\"",
+    "\"yolg'ondan chekinish\"",
+    "\"borgoh\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shohrux Mirzo vafot etgan sana (a) va joy nomi (b) to'g'ri berilgan javobni aniqlang.",
+   "options": [
+    "1447-yil 12-mart – Ray viloyati",
+    "1449-yil 17-oktyabr – Ray viloyati",
+    "1449-yil 12-mart – Tarnob viloyati",
+    "1447-yil 13-sentyabr – Nishopur viloyati"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shohrux vafot etgach Ulug'bek va Aloudavla o'rtasida sulh tuziladi. Bu sulhning tuzilishiga sabab bo'lgan omil to'g'ri berilgan javobni aniqlang.",
+   "options": [
+    "Aloudavla Ulug'bekning Xuroson yurishini oldini olishga harakat qilgan",
+    "Aloudavla Abdulatifni asirga olgan",
+    "Aloudavla Tarnob yaqinida Ulug'bek va Abdulatifning birlashgan qo'shinidan yengilgan",
+    "Xurosonda Abulqosim Bobur va Sulton Muhammad isyonlari ko'tarilishi Aloudavlani qiyin ahvolga solib qo'ygan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1449-yil fevralda Xuroson taxtini egallagan temuriyzodani aniqlang.",
+   "options": [
+    "Abdulatif",
+    "Abulqosim Bobur",
+    "Aloudavla",
+    "Husayn Boyqaro"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XV asr o'rtalarida Abulqosim Bobur Samarqandni qamalga olgan va qirq kunlik qamaldan so'ng Hirotga qaytgan edi. Bu davrda Samarqand hukmdori bo'lgan shaxsni aniqlang.",
+   "options": [
+    "Abdulatif",
+    "Abu Said",
+    "Abdullo",
+    "Boysung'ur Mirzo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XV asr o'rtalarida Abulqosim Bobur Samarqandni qamalga olgan va qirq kunlik qamaldan so'ng Hirotga qaytgan edi. Bu qamal qaysi yilda sodir bo'lgan?",
+   "options": [
+    "1451-yil",
+    "1457-yil",
+    "1454-yil",
+    "1455-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XV asr o'rtalarida Abulqosim Bobur Samarqandni qamalga olgan va qirq kunlik qamaldan so'ng Hirotga qaytgan edi. Bu mojaroga qat'iyan aralashib, raqiblarni yarashtirgan shaxsni aniqlang.",
+   "options": [
+    "Xoja Ubaydulloh Ahror",
+    "Shamsiddin Muhammad Miskin",
+    "Shamsiddin Muhammad Xavofiy",
+    "Shamsiddin Kulol"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi hukmdorlardan Movarounnahrda tamg'a solig'ini joriy qilganlarini aniqlang. 1) Amir Temur 2) Abdulatif Mirzo 3) Abu Said Mirzo 4) Mirzo Ulug'bek 5) Sulton Ahmad 6) Mirzo Abdullo",
+   "options": [
+    "3,6",
+    "1,2",
+    "1,4",
+    "5,6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abdulatif quyidagi qaysi sanada o'ldirilgan?",
+   "options": [
+    "1450-yil may oyida",
+    "1451-yil fevral oyida",
+    "1447-yil mart oyida",
+    "1449-yil fevral oyida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi bunyodkorlik ishlaridan qaysilari Mirzo Ulug'bek nomi bilan bog'liq? 1) Buxoro shahridagi madrasa 2) Bibixonim jome masjidi 3) Ko'k gumbaz masjidi 4) Gumbazi Sayidon majmuasi 5) Samarqand shahridagi madrasa 6) Ixlosiya madrasasi 7) Chinnixona 8) Xalosiya xonaqohi",
+   "options": [
+    "1,3,4,5,7",
+    "2,3,4,6,7",
+    "1,2,5,6,7",
+    "1,2,3,4,6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi ma'lumotlar qaysi shaxsga tegishli ekanligini aniqlang: Ulug'bekning Samarqanddagi rasadxonasida faoliyat yuritgan; 1473-yili Istanbulga borib, rasadxona qurdi; U orqali Ulug'bek \"Zij\"i Turkiyada tarqaldi va u orqali Yevropa mamlakatlariga yetib bordi.",
+   "options": [
+    "Qozizoda Rumiy",
+    "G'iyosiddin Jamshid",
+    "Alouddin ibn Muhammad",
+    "Shamsiddin Xavofiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Bir daraja sinusini aniqlash haqida risola\" asarining muallifini aniqlang.",
+   "options": [
+    "Qozizoda Rumiy",
+    "G'iyosiddin Jamshid",
+    "Alouddin ibn Muhammad",
+    "Mirzo Ulug'bek"
+   ],
+   "answer": 3
+  }
+ ]
+}

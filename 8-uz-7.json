@@ -1,0 +1,617 @@
+{
+ "title": "8-sinf · Chig'atoy ulusining ikki qismga bo'linib ketishi va ijtimoiy-iqtisodiy hayot",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Chig'atoy ulusi o'zaro siyosiy kurashlar natijasida qaysi asrning 40-yillariga kelib ikkiga bo'linib ketgan?",
+   "options": [
+    "XIV asrning 40-yillariga",
+    "XV asrning 40-yillariga",
+    "XIV asrning 70-yillariga",
+    "XIII asrning 40-yillariga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chig'atoy ulusining sharqiy qismi qanday nom bilan yuritilgan?",
+   "options": [
+    "Mo'g'uliston",
+    "Turkiston",
+    "Xuroson",
+    "Movarounnahr"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mo'g'uliston deb yuritilgan hudud qaysi o'lkalarni o'z ichiga olgan?",
+   "options": [
+    "Xuroson va Eronni",
+    "Sharqiy Turkiston va Yettisuvni",
+    "Hindiston va Kobulni",
+    "Movarounnahr va Xorazmni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qozonxon hokimiyatning markazlashuviga qarshilik ko'rsatgan kimlar bilan kurashga kirishgan?",
+   "options": [
+    "Savdogarlar bilan",
+    "Dehqonlar bilan",
+    "Ulamolar bilan",
+    "Turk-mo'g'ul amirlari bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qozonxonga qarshi isyon boshida kim turgan?",
+   "options": [
+    "Tug'luq Temur",
+    "Donishmandchaxon",
+    "Amir Hoji Barlos",
+    "Amir Qazag'on"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chizmada shaxslar va ularning Chig'atoy ulusi tarixidagi o'rni to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-f, 2-a, 3-b",
+    "1-f, 2-b, 3-a",
+    "1-f, 2-b, 3-c",
+    "1-b, 2-f, 3-a"
+   ],
+   "answer": 1,
+   "image": "img/k8-07-06.jpg"
+  },
+  {
+   "q": "Amir Qazag'on 1345-yil kuzida qo'shin to'plagan Soli Saroy hududi qaysi daryo qirg'og'ida joylashgan?",
+   "options": [
+    "Amudaryo qirg'og'ida",
+    "Sirdaryo qirg'og'ida",
+    "Zarafshon qirg'og'ida",
+    "Qashqadaryo qirg'og'ida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qazag'on va Qozonxon qo'shinlarining birinchi to'qnashuvi qaysi hududda bo'lgan?",
+   "options": [
+    "Yettisuvda",
+    "Qarshida",
+    "Xurosonda",
+    "Samarqandda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xurosondagi jangda amir Qazag'onning qaysi a'zosiga o'q tegib, u janubga chekingan?",
+   "options": [
+    "Qo'liga",
+    "Yelkasiga",
+    "Oyog'iga",
+    "Ko'ziga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Birinchi jangdan so'ng Qozonxon dushmanni ta'qib qilish o'rniga qayerga qaytgan?",
+   "options": [
+    "Balxga",
+    "Qarshiga",
+    "Samarqandga",
+    "Buxoroga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-c, 3-e, 4-d",
+    "1-a, 2-c, 3-f, 4-e",
+    "1-a, 2-c, 3-f, 4-d",
+    "1-b, 2-c, 3-f, 4-d"
+   ],
+   "answer": 2,
+   "image": "img/k8-07-11.jpg"
+  },
+  {
+   "q": "Qozonxon qo'shinidagi otlarga qirg'in kelishiga nima sabab bo'lgan?",
+   "options": [
+    "Yuqumli kasallik",
+    "Mo'g'ullar hujumi",
+    "Qashqadaryo vohasida qishning qattiq kelishi",
+    "Suv tanqisligi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qozonxonning qo'shini otlari qirilgach, ikkinchi jangda uni kim mag'lub etgan?",
+   "options": [
+    "Amir Qazag'on",
+    "Hoji Barlos",
+    "Abdulloh",
+    "Tug'luq Temur"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qozonxonning vafoti bilan nima yuz bergan?",
+   "options": [
+    "Chig'atoy xonadoni a'zolarining Movarounnahrdagi hukmronligi amalda tugagan",
+    "Chig'atoy ulusi Oltin O'rdaga qo'shilgan",
+    "Poytaxt Olmaliqqa ko'chirilgan",
+    "Islom ta'qiqlangan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.",
+   "options": [
+    "1-c, 2-e, 3-a, 4-d",
+    "1-c, 2-a, 3-b, 4-d",
+    "1-c, 2-f, 3-e, 4-d",
+    "1-c, 2-a, 3-e, 4-d"
+   ],
+   "answer": 3,
+   "image": "img/k8-07-15.jpg"
+  },
+  {
+   "q": "Amirlar davlat boshida turib, xonlarni nomigagina taxtga o'tqazgan davrda davlat boshlig'i qanday atalgan?",
+   "options": [
+    "“Ulus amiri”",
+    "“Dorug'achi”",
+    "“Xoqon”",
+    "“Sipohsolor”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Qazag'on joriy etgan Chig'atoy xonlarini nomigagina taxtga ko'tarish an'anasi qanday tushunchalarni keltirib chiqargan?",
+   "options": [
+    "“Ulug' xon”, “xoqon”",
+    "“Qo'g'irchoq xon”, “soxta xon”",
+    "“Sulton”, “shoh”",
+    "“Noib”, “dorug'achi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Qazag'on ilk bor “soxta xon” sifatida kimni taxtga ko'targan?",
+   "options": [
+    "Chig'atoy naslidan bo'lgan Bayonqulini",
+    "Qozonxonning o'g'lini",
+    "Tug'luq Temurni",
+    "O'qtoy naslidan bo'lgan Donishmandchaxonni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Qazag'on keyinchalik Donishmandchaxonga qanday ayb qo'yib, uni qatl etgan?",
+   "options": [
+    "O'qtoy qoon naslidan degan ayb",
+    "Soliq to'lamaslik ayb",
+    "Qo'zg'olon uyushtirish",
+    "Islomga xiyonat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada shaxslar va ularga tegishli voqealar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-e, 2-d, 3-f",
+    "1-a, 2-b, 3-f",
+    "1-e, 2-b, 3-f",
+    "1-b, 2-e, 3-f"
+   ],
+   "answer": 2,
+   "image": "img/k8-07-20.jpg"
+  },
+  {
+   "q": "Donishmandchaxondan keyin Chig'atoy naslidan bo'lgan qaysi xon saltanat taxtiga o'tqazilgan?",
+   "options": [
+    "Abdulloh",
+    "Xalilxon",
+    "Tug'luq Temur",
+    "Bayonquli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Qazag'on o'limidan so'ng taxtni kim egallagan?",
+   "options": [
+    "Tug'luq Temur",
+    "Hoji Barlos",
+    "Bayonquli",
+    "O'g'li amirzoda Abdulloh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Abdullohning hokimiyati nima sababdan uzoq davom etmagan?",
+   "options": [
+    "Mo'g'ullar bostirib kirgani uchun",
+    "Adolatsiz va qattiqqo'l siyosati amirlar isyoniga sabab bo'lgani uchun",
+    "Kasallikka chalingani uchun",
+    "Taxtdan o'zi voz kechgani uchun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Abdullohni taxtdan ag'dargan isyonga qaysi urug'dan bo'lgan amir boshchilik qilgan?",
+   "options": [
+    "Qipchoq urug'idan Qutlug'xon",
+    "Barlos urug'idan Amir Hoji Barlos",
+    "Dulat urug'idan Tug'luq",
+    "Jalayir urug'idan Hoji"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chizmada joy nomlari va ularga oid voqealar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-b, 2-e, 3-c",
+    "1-c, 2-e, 3-b",
+    "1-d, 2-e, 3-c"
+   ],
+   "answer": 1,
+   "image": "img/k8-07-25.jpg"
+  },
+  {
+   "q": "Movarounnahrda boshboshdoqliklarning avj olib ketishi kimning isyoni natijasida yuz bergan?",
+   "options": [
+    "Tug'luq Temur boshchiligidagi isyon",
+    "Amir Qazag'on boshchiligidagi isyon",
+    "Barlos urug'idan Amir Hoji Barlos boshchiligidagi amirlar isyoni",
+    "Donishmandchaxon boshchiligidagi isyon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1348-yilda Chig'atoy ulusining sharqiy qismida kim hukmdor bo'lgan?",
+   "options": [
+    "Qozonxon",
+    "Ali Sulton",
+    "Xalilxon",
+    "Tug'luq Temur"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chig'atoy ulusining har ikki qismida ham xonlar kimlarning boshqaruviga qaram bo'lib qolgan?",
+   "options": [
+    "Elchilarning",
+    "Ulamolarning",
+    "Amirlarning",
+    "Savdogarlarning"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ulistonning ulug' xoqoni Munke qanday yorliq chiqargan?",
+   "options": [
+    "Yomlar faoliyatini bekor qilish to'g'risidagi yorliq",
+    "Islom dinini taqiqlash to'g'risidagi yorliq",
+    "Soliq va hashar ishlarini tartibga solish to'g'risidagi yorliq",
+    "Chig'atoy ulusini bo'lib yuborish to'g'risidagi yorliq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.",
+   "options": [
+    "1-e, 2-c, 3-b, 4-f",
+    "1-e, 2-c, 3-a, 4-f",
+    "1-d, 2-c, 3-a, 4-f",
+    "1-c, 2-e, 3-a, 4-f"
+   ],
+   "answer": 1,
+   "image": "img/k8-07-30.jpg"
+  },
+  {
+   "q": "Yomlar bo'ylab pochta xizmati uchun ajratilgan otlar bilan bog'liq qanday tartib joriy etilgan?",
+   "options": [
+    "Otlar soni belgilanib, aholidan ortiqcha ot talab qilish man etilgan",
+    "Otlar soliqdan ozod qilingan",
+    "Otlar savdosi taqiqlangan",
+    "Barcha otlar xazinaga olingan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Yom” nima?",
+   "options": [
+    "Qo'shin bo'linmasi",
+    "Soliq turi",
+    "Madrasa nomi",
+    "Yo'l bekati; choparlar va yo'lovchilar ot almashtiradigan joy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mo'g'ullar saltanatida hunarmand va savdogarlar qaysi soliqni to'lashgan?",
+   "options": [
+    "Shulen",
+    "Tamg'a",
+    "Qopchur",
+    "Kalon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chorvachilar qaysi soliqni doimiy to'lab borishgan?",
+   "options": [
+    "Qopchur",
+    "Kalon",
+    "Tamg'a",
+    "Barot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada madrasalar va ular joylashgan shaharlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-b, 2-e, 3-c",
+    "1-e, 2-b, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-e, 2-b, 3-d"
+   ],
+   "answer": 1,
+   "image": "img/k8-07-35.jpg"
+  },
+  {
+   "q": "Dehqonlar to'lagan soliq qanday nomlangan?",
+   "options": [
+    "Tamg'a",
+    "Qopchur",
+    "Kalon",
+    "Shulen"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ko'chmanchilar mahsulot tarzida to'laydigan soliq qanday nomlangan?",
+   "options": [
+    "Kalon",
+    "Tamg'a",
+    "Shulen",
+    "Ushr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shulen solig'ida har bir podadan nima olingan?",
+   "options": [
+    "Bir sigir",
+    "Bir ot",
+    "Ikki yashar qo'y",
+    "Bir tuya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chig'atoy ulusidagi soliq tizimini kim ishlab chiqqan?",
+   "options": [
+    "Mahmud Yalavoch",
+    "Amir Qazag'on",
+    "Mas'udbek",
+    "Kebekxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada ta'limga oid ko'rsatkichlar va ularning qiymatlari to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-f, 3-d",
+    "1-a, 2-f, 3-e",
+    "1-a, 2-d, 3-f",
+    "1-d, 2-f, 3-a"
+   ],
+   "answer": 0,
+   "image": "img/k8-07-40.jpg"
+  },
+  {
+   "q": "Xoqon xazinasi uchun yuboriladigan soliqlar qanday tartibda yig'ilgan?",
+   "options": [
+    "Xalq majlisida taqsimlangan",
+    "Barot (ijara) tarzida oldindan yig'ilib, markazga yuborilgan",
+    "Qurultoyda belgilangan",
+    "Naturada ulus xazinasida saqlangan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diniy ulamolar aholini ijtimoiy qo'llab-quvvatlashni qaysi mulklar hisobidan amalga oshirgan?",
+   "options": [
+    "Xoqon sovg'alari hisobidan",
+    "Vaqf mulklari hisobidan",
+    "Soliq tushumi hisobidan",
+    "Davlat xazinasi hisobidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kambag'allar va musofirlarni ijtimoiy himoyalovchi asosiy manzil vazifasini nima o'tagan?",
+   "options": [
+    "Xon saroylari",
+    "Yom bekatlari",
+    "Sarbadorlar qarorgohi",
+    "Vaqf xonaqolari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mo'g'ullar hukmronligi yillarida yerga ishlov beruvchi asosiy dehqonlar guruhi qanday nomlangan?",
+   "options": [
+    "Bog'bonlar",
+    "Baxshilar",
+    "Muzorilar",
+    "Kadivarlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi shaxs yoki joy nomlarini toping.",
+   "options": [
+    "1-a, 2-c, 3-e, 4-b",
+    "1-e, 2-c, 3-a, 4-b",
+    "1-e, 2-c, 3-b, 4-a",
+    "1-e, 2-c, 3-d, 4-b"
+   ],
+   "answer": 1,
+   "image": "img/k8-07-45.jpg"
+  },
+  {
+   "q": "Yer maydonlari va bog'larda ishlovchilar qanday atalgan?",
+   "options": [
+    "“Dorug'achi” va “yasovul”",
+    "“Bog'bon” va “muzori”",
+    "“Kadivar” va “baxshi”",
+    "“Mutavvali” va “muazzin”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chig'atoy xonlaridan birinchi bo'lib qaysi xon islom dinini qabul qilgan?",
+   "options": [
+    "Kebekxon",
+    "Baroqxon",
+    "Tarmashirin",
+    "Muborakshoh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi xonning islomni qabul qilishi ulus hukmdorlarining islomlashuviga sabab bo'lgan?",
+   "options": [
+    "Olg'uxonning",
+    "Esan Buqaning",
+    "Tarmashirinxonning",
+    "Qayduxonning"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Munkaxonning onasi Buxoroda qaysi madrasani barpo etib, kimni mudarris etib tayinlagan?",
+   "options": [
+    "“Mirarab” madrasasini; Xoja Bulg'oriyni",
+    "“Mas'udiya” madrasasini; Mas'udbekni",
+    "“Xoniya” madrasasini; Sayfiddin Boxarziyni",
+    "“Tamg'achxon” madrasasini; Qutlug' Temurni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada soliq tizimiga oid atamalar va ularning mazmuni to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-c, 2-b, 3-d",
+    "1-e, 2-b, 3-d",
+    "1-d, 2-b, 3-c",
+    "1-a, 2-b, 3-d"
+   ],
+   "answer": 0,
+   "image": "img/k8-07-50.jpg"
+  },
+  {
+   "q": "XIII asr o'rtalarida Buxoroda naqshbandiya tariqatining ko'zga ko'ringan vakili kim bo'lgan?",
+   "options": [
+    "Najmiddin Kubro",
+    "Sayfiddin Boxarziy",
+    "Xoja Ali Romitaniy",
+    "Bahouddin Naqshband"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Boshlang'ich ta'lim qaysi muassasalarda olib borilgan?",
+   "options": [
+    "Xonaqolarda",
+    "Saroy maktablarida",
+    "Madrasalarda",
+    "Masjidlarga qarashli maktablarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chingizxon mo'g'ullar uchun qaysi yozuvni qabul qilgan?",
+   "options": [
+    "Xitoy yozuvini",
+    "Uyg'ur yozuvini",
+    "Sug'd yozuvini",
+    "Arab yozuvini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chig'atoy ulusi hukmdorlari islomni qabul qilgach, uyg'ur yozuvi o'rnini qaysi yozuv egallagan?",
+   "options": [
+    "Mo'g'ul yozuvi",
+    "Kirill yozuvi",
+    "Lotin yozuvi",
+    "Arab yozuvi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Samarqanddagi Tamg'achxon madrasasida talabalarga qanday tartib o'rnatilgan?",
+   "options": [
+    "Faqat sirtqi ta'lim bo'lgan",
+    "Barcha talabalar o'qishi bepul bo'lgan",
+    "Darsni o'zlashtirishiga qarab oylik maosh belgilangan",
+    "Talabalar to'lov to'lagan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada atamalar va ularning mazmuni to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-d, 2-a, 3-c",
+    "1-a, 2-d, 3-c",
+    "1-c, 2-a, 3-d",
+    "1-d, 2-a, 3-b"
+   ],
+   "answer": 0,
+   "image": "img/k8-07-56.jpg"
+  },
+  {
+   "q": "Chig'atoy ulusidagi soliqlarga oid to'g'ri ma'lumotlarni aniqlang. 1) Soliq tizimini Kebekxon ishlab chiqqan; 2) Hunarmand va savdogarlar “tamg'a” solig'ini to'lagan; 3) Ko'chmanchilar “tamg'a” solig'ini mahsulot tarzida to'lagan; 4) Chorvachilar “qopchur” solig'ini to'lagan; 5) Dehqonlar “kalon” solig'ini to'lagan.",
+   "options": [
+    "2, 4, 5",
+    "1, 2, 3",
+    "3, 4, 5",
+    "1, 2, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chig'atoy ulusida ta'lim tizimiga oid to'g'ri ma'lumotlarni aniqlang. 1) Talabalar yoshi 5 dan 15 gacha bo'lgan; 2) Har bir madrasada 60–100 ga yaqin talaba o'qigan; 3) Madrasada o'qish talabalar iqtidoriga qarab 7–12 yil davom etgan; 4) Boshlang'ich ta'lim taxminan besh yil davom etgan; 5) Madrasada faqat arab tilidagi ta'lim berilgan, uyg'ur tili ishlatilmagan.",
+   "options": [
+    "1, 3, 4",
+    "2, 4, 5",
+    "1, 4",
+    "2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng avval sodir bo'lgan?",
+   "options": [
+    "Chig'atoy ulusi xoqon nazoratida boshqarila boshlandi",
+    "Qazag'on Soli Saroyda qo'shin to'pladi",
+    "Markaziy Osiyoda ikki hokimiyatchilik davri boshlandi",
+    "Tug'luq Temur sharqiy qismda hukmdor bo'ldi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng keyin sodir bo'lgan?",
+   "options": [
+    "Chig'atoy ulusi xoqon nazoratida boshqarila boshlandi",
+    "Markaziy Osiyoda ikki hokimiyatchilik davri boshlandi",
+    "Tug'luq Temur sharqiy qismda hukmdor bo'ldi",
+    "Qazag'on Soli Saroyda qo'shin to'pladi"
+   ],
+   "answer": 2
+  }
+ ]
+}

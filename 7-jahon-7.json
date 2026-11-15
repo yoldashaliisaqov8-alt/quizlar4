@@ -1,0 +1,306 @@
+{
+ "title": "7-sinf · Yangi din beshigi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Arabistonning janubi va g'arbidagi aholi nima ish bilan shug'ullanganlar?",
+   "options": [
+    "O'troq dehqonchilik bilan shug'ullanuvchi aholisi soy va jilg'alar, quduqlar bo'ylarida xurmo bog'lari va uzumzorlar barpo etganlar",
+    "O'troq dehqonchilik bilan soy va jilg'alar bo'yida yashaganlar",
+    "Badaviylar cho'l va yaylovlarda mol boqib, ko'chib yurganlar",
+    "Karvon yo'llaridagi savdogarlar, sayyohlarga xizmat qilish bilan shug'ullangan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Arabiston yarim orolining janubi va g'arbiy qismida istiqomat qiluvchi aholining asosiy mashg'ulotini aniqlang.",
+   "options": [
+    "chorvachilik",
+    "dehqonchilik",
+    "hunarmandchilik",
+    "savdo-sotiq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yahudiylar, ossuriylar, finikiyaliklar va oromiylar Qadimgi Sharqning mashhur davlatlarini tuzganlar?",
+   "options": [
+    "Shumer, Bobil, Isroil podsholiklarini",
+    "Akkad, Shumer, Isroil podsholiklarini",
+    "Akkad, Bobil, Isroil podsholiklarini",
+    "Hind, Shumer, Fors podsholiklarini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Somiylarga arablardan tashqari qaysi xalqlar kirganlar? 1) yahudiylar 2) guptalar 3) ossuriylar 4) finikiyaliklar 5) arablar 6) oromiylar",
+   "options": [
+    "1,3,4,6",
+    "2,3,4,5",
+    "1,3,4,5",
+    "2,3,4,6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Arab qabilalari qayerda yashaganlar?",
+   "options": [
+    "Arab qabilalari Afrikaga tutash hududlarda yashaganlar",
+    "Arab qabilalari Arabiston yarimoroli va unga tutash hududlarda yashaganlar",
+    "O'rta Osiyoda Talas, Hindistonda Mo'ltonga qadar",
+    "Dog'iston va Amudaryo sohillariga bo'lgan hududlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistondan Vizantiyaga ziravorlar, ipak gazlamalar, marvarid va boshqa narsalar tashiladigan yo'l ustida joylashganligi bois qaysi shaharlarning dengiz sohillarida shaharlar vujudga kelgan?",
+   "options": [
+    "Xijoz va Yaman",
+    "Makka va Xijoz",
+    "Makka",
+    "Yaman"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qurg'oqchilik davrida cho'ldagi ko'chmanchilar o'troq aholi yurtlariga, xususan, qayerlarga talonchilik bosqinlarini ham uyushtirib turganlar?",
+   "options": [
+    "Xijoz va Yaman",
+    "Makka va Xijoz",
+    "Makka",
+    "Yaman"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarixchilarning ma'lumotlariga ko'ra, teridan tayyorlanadigan suv saqlaydigan mesh (sanoch)ni kimlar ixtiro qilganlar?",
+   "options": [
+    "Badaviylar",
+    "Xunnlar",
+    "Akkadlar",
+    "Bobilliklar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muhammad (s.a.v.) ona qornida ikki oylik homila paytida otasi Abdulloh bu paytda savdo ishlari bilan qayerdan qayerga qaytishda to'satdan vafot etadi?",
+   "options": [
+    "Suriyada edi - Yamanga",
+    "Iroqda edi - Makkaga",
+    "Suriyada edi – Xijozga",
+    "Suriyada edi - Makkaga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "An'anaga ko'ra, Makka ahli jazirama issiqdan asrash uchun har yili go'daklarni tog'dagi yaylovlarda yashovchi qaysi qabilasiga ayollarga berib yuborganlar?",
+   "options": [
+    "Banu Sa'd",
+    "Slavyanlar",
+    "Germanlar",
+    "Badaviylar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muhammad (s.a.v.) ham necha oyligida tog'dagi Halima ismli ayol tarbiyasiga o'tib, ko'chmanchilar orasida to'rt yil yashaydilar?",
+   "options": [
+    "6 oy",
+    "9 oy",
+    "7 oy",
+    "5 oy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Necha yoshida onalari Omina ham vafot etib, uni bobosi Abdulmuttalib o'z qaramog'iga oladi?",
+   "options": [
+    "4 yosh",
+    "5 yosh",
+    "6 yosh",
+    "7 yosh"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Necha yoshlarida Muhammad (s.a.v.) bir muddat Abu Tolibning chorvasini boqadilar, keyin tijorat ishlariga jalb qilinadilar?",
+   "options": [
+    "13 yoshlarida",
+    "14 yoshlarida",
+    "15 yoshlarida",
+    "12 yoshlarida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Savdo ishlari bilan Suriyaga safar qiladilar, xususan qaysi shaharlarga boradilar?",
+   "options": [
+    "Xalab va Damashq",
+    "Tehron va Bag'dod",
+    "Xalab va Qohira",
+    "Barchasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kimlar majusiylikdan yakkaxudolik diniga o'tishi ularga moddiy zarar keltirishidan qo'rqib Muhammad (s.a.v.)ning va'zlarini adovat bilan qarshi oladilar?",
+   "options": [
+    "Zodagonlar",
+    "Saroy a'yonlari",
+    "Savdogarlar",
+    "Vazirlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Arabiston haqida to'g'ri berilgan ma'lumotni belgilang.",
+   "options": [
+    "Hijrat nomini olgan bu voqea islom tarixida burilish yasadi. Milodiy 623-yil hijrat \"ko'chib o'tish\" musulmon yil hisobining boshlanishi deb qabul qilinadi",
+    "Ko'chib o'tgan kishilar muhojirlar (ko'chib kelganlar), Madinada islomni qabul qilganlar ansorlar (tarafdorlar) deb ataldilar",
+    "Allohga ibodat qilish tartibini joriy etadi, sudxo'rlik, ichkilik, qimor o'yinlarini taqiqlaydi. Shu tariqa yahudiylik va xristianlikdan keyingi yana bir jahon dini vujudga keladi",
+    "islom (arabcha - \"itoat qilish\", \"bo'ysunish\", \"o'zini Alloh irodasiga topshirish\") VI asrning boshlarida Arabiston yarimorolida yagona Allohga e'tiqod asosida shakllanib jahonda keng tarqalgan dinlardan biri hisoblanadi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Islom dini beshta asos yoki ustun (arkon ad-din al-islomiy)ga ega, bular to'g'ri berilgan javobni belgilang. 1. Allohning birligiga, Muhammad (s.a.v.) Uning payg'ambari ekanligiga iymon keltirish 2. Aqlan sog'lom va voyaga yetgan har bir musulmon besh vaqt namoz o'qishi 3. voyaga yetgan va sog'lom kishining Ramazon oyida ro'za tutishi 4. moli hisobiga yetgan kishining zakot berishi 5. yo'lga va puliga qodir bo'lsa, haj (Bag'dod va Madina shaharlariga ziyorat) qilishi",
+   "options": [
+    "1,2,3,4,5",
+    "2,3,4,5",
+    "1,2,3,4",
+    "1,3,4,5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Musulmonlar uchun eng katta bayram bo'lgan Ramazon hayiti necha oylik ro'zadan keyin nishonlanadi?",
+   "options": [
+    "1 oy",
+    "2 oy",
+    "4 oy",
+    "5 oy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muhammad (s.a.v.) Madina va uning atrofidagi shaharlar aholisini islomga o'tkazgach qachon Makka shahrini jangsiz egallaydi?",
+   "options": [
+    "632-yili",
+    "631-yili",
+    "634-yili",
+    "630-yili"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Arabiston shaharlari va ko'chmanchi qabilalar keyingi yillarda islomni qabul qilib, qachon yagona davlatga birlashadi?",
+   "options": [
+    "VI asrda",
+    "V asrda",
+    "IV asrda",
+    "VII asrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xato hukm berilgan javobni belgilang.",
+   "options": [
+    "Mazhab so'zi arabcha \"yo'nalish\", \"oqim\", \"yo'l\" ma'nolarini bildirib, Islom dinida biror diniy masala, muammo bo'yicha muayyan ulamo fikriga ergashish, \"uning yurgan yo'nalishidan borish\"ni bildiradi",
+    "Islomda asosan ikki yo'nalish - sunniylik va shialik (Ali tarafdorlari) mavjud bo'lib, ularning har birida bir qancha mazhablar bor. Uchinchi yo'nalish - xorijiylar (xavorij - \"ajralib chiqqanlar\") VII asrning ikkinchi yarmida parchalanib, keyinchalik yo'qolib ketgan",
+    "Sunniylik deb, diniy qonun-qoida va tartibotlarga rioya qilishda Qur'oni karim va payg'ambar Muhammad (s.a.v.) hadislari - \"Sunna\"ga birdek amal qilishga aytiladi",
+    "Bugungi kunda musulmonlarning asosiy qismi sunniylik yo'nalishida bo'lib, u to'rtta mazhab: Hanafiy, Shofe'iy, Molikiy, Hanbaliy hamda ikkita Ash'ariy va Buxoriy aqidaviy ta'limotlaridan iborat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sunniylikdagi nechta mazhab teng hisoblanadi?",
+   "options": [
+    "to'rtta",
+    "uchta",
+    "ikkita",
+    "bitta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekistonda qaysi mazhab keng tarqalgan?",
+   "options": [
+    "Shofe'iylik",
+    "Hanafiylik",
+    "Molikiylik",
+    "Hanbaliylik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Islom dini manbalarida qayd etilishicha, Muhammad qachondan boshlab Alloh taolodan ilohiy oyatlar nozil bo'la (s.a.v.)ga boshlaydi?",
+   "options": [
+    "610-yil",
+    "630-yil",
+    "622-yil",
+    "632-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Arabcha \"qiroat\", \"o'qish\" nima?",
+   "options": [
+    "Islom",
+    "Qur'on",
+    "Mazhab",
+    "Xavorij"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qur'on necha yilda nozil qilingan?",
+   "options": [
+    "23-yil",
+    "24-yil",
+    "21-yil",
+    "25-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qur'on necha suradan iborat?",
+   "options": [
+    "113",
+    "115",
+    "112",
+    "114"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Islom tarixchilari uning asoschisi – bo'lajak payg'ambar Muhammad (s.a.v.) qachon Makkada quraysh qabilasining hoshimiylar urug'iga mansub, uncha boy bo'lmagan, lekin zodagonlarga yaqin oilada tavallud topganini yozadilar?",
+   "options": [
+    "571-yil",
+    "570-yil",
+    "580-yil",
+    "590-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon aholi soni ko'payib, qabilalar orasida suv manbalari va yaylovlari uchun kurash kuchayadi?",
+   "options": [
+    "V-VI asrlarda",
+    "VII asr",
+    "VI-VII asrlarda",
+    "VI asr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muhammad (s.a.v.) qachon Madina shahrida vafot etadilar va shu yerga dafn etiladilar?",
+   "options": [
+    "623-yil",
+    "632-yil",
+    "633-yil",
+    "634-yil"
+   ],
+   "answer": 1
+  }
+ ]
+}

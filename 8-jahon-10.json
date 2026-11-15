@@ -1,0 +1,600 @@
+{
+ "title": "8-sinf · Rus knyazliklarida ijtimoiy-siyosiy hayot",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Novgorod respublikasi amalda qanday respublika edi.",
+   "options": [
+    "Savdogarlar respublikasi",
+    "Zodagonlar respublikasi",
+    "Dehqonlar respublikasi",
+    "Ruhoniylar respublikasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1382-yilda Moskvani bosib olgan Oltin O'rda xonini aniqlang.",
+   "options": [
+    "Mamay",
+    "Chingizxon",
+    "To'xtamishxon",
+    "Botuxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kiyev Rusi XII asrning birinchi yarmida qaysi knyaz vafotidan keyin bo'linib ketdi.",
+   "options": [
+    "Mstislav I",
+    "Vladimir Monomax",
+    "Yuriy Dolgorukiy",
+    "Aleksandr Nevskiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shimoli-sharqiy Rusda qanday boshqaruv shakli o'rnatilgan edi.",
+   "options": [
+    "Knyaz katta mavqega ega bo'lgan monarxiya",
+    "Zodagonlar respublikasi",
+    "Konstitutsion monarxiya",
+    "Veche boshqargan respublika"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Aleksandr Nevskiyga tegishlilarini aniqlang.",
+   "options": [
+    "1, 3",
+    "2, 3",
+    "1, 2",
+    "2, 4"
+   ],
+   "answer": 2,
+   "image": "img/j8-10-05.jpg"
+  },
+  {
+   "q": "Rus yerlarining mo'g'ullarga qaramligi qancha davom etdi.",
+   "options": [
+    "Besh asr",
+    "Yarim asr",
+    "Ikki asr",
+    "Bir asr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amir Temur va To'xtamishxon o'rtasidagi uch marotaba bo'lgan janglar qaysi yillarda bo'lgan.",
+   "options": [
+    "1380, 1382 va 1395-yillarda",
+    "1237, 1240 va 1242-yillarda",
+    "1389, 1391 va 1395-yillarda",
+    "1389, 1395 va 1480-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan to'g'ri bo'lganlarini aniqlang.",
+   "options": [
+    "2, 4",
+    "3, 4",
+    "1, 4",
+    "1, 2"
+   ],
+   "answer": 0,
+   "image": "img/j8-10-08.jpg"
+  },
+  {
+   "q": "Mo'g'ullar rus yerlariga Chingizxonning nabirasi kim boshchiligida hujum qilgan.",
+   "options": [
+    "To'xtamishxon",
+    "Botuxon",
+    "Ulug' xoqon",
+    "Mamay"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shimoli-g'arbiy o'lkalarda qanday boshqaruv o'rnatilgan edi.",
+   "options": [
+    "Knyaz katta mavqega ega bo'lgan monarxiya",
+    "Mutlaq monarxiya",
+    "Zodagonlar muhim rol o'ynaydigan monarxiya",
+    "Veche hal qiluvchi rolga ega bo'lgan zodagonlar respublikasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mo'g'ullar bosib olgan rus yerlari qaysi davlatga bo'ysundirilgan.",
+   "options": [
+    "Novgorod respublikasiga",
+    "Oltin O'rdaga",
+    "Litva knyazligiga",
+    "Mo'g'ul imperiyasi poytaxtiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Moskva knyazligi qaysi hukmdor davrida Novgorod, Tver va boshqa hududlarning qo'shilishi bilan Rossiya davlatiga aylandi.",
+   "options": [
+    "Ivan Kalita",
+    "Dmitriy Donskoy",
+    "Ivan IV",
+    "Ivan III"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ivan Kalita qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1462–1505-yillarda",
+    "1380–1382-yillarda",
+    "1263–1303-yillarda",
+    "1325–1340-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi slavyan tilidan olingan bo'lib, kengash ma'nosini bildiruvchi, slavyan davlatlarida xalq yig'ini vazifasini bajargan atamani izohlang.",
+   "options": [
+    "Kortes",
+    "Veche",
+    "Parlament",
+    "Sinyoriya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Novgorod mustaqilligi tugatilgach, veche qo'ng'irog'i qayerga olib ketildi.",
+   "options": [
+    "Kiyevga",
+    "Vladimirga",
+    "Smolenskka",
+    "Moskvaga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kiyev Rusi nechta mustaqil knyazlikka bo'linib ketdi.",
+   "options": [
+    "5 ta",
+    "10 dan ortiq",
+    "3 ta",
+    "25 dan ortiq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Novgorod respublikasida oliy hokimiyatni qaysi organ boshqargan.",
+   "options": [
+    "Sinyoriya",
+    "Xalq vechesi",
+    "Senat",
+    "Kortes"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kulikovo maydonidagi jang qaysi yili va qaysi daryo bo'yida bo'lgan.",
+   "options": [
+    "1242-yilda, Neva daryosi bo'yida",
+    "1395-yilda, Tarak daryosi bo'yida",
+    "1380-yilda, Don daryosi bo'yida",
+    "1380-yilda, Volga daryosi bo'yida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1240-yilda Izborsk va Pskovni egallagan kuchlarni aniqlang.",
+   "options": [
+    "Shved qo'shinlari",
+    "Litva qo'shinlari",
+    "Mo'g'ullar",
+    "Nemis Livoniya ritsarlari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1240-yilda Neva daryosi bo'yida kim mag'lub etilgan.",
+   "options": [
+    "Nemis ritsarlari",
+    "Litvaliklar",
+    "Shved qo'shinlari",
+    "Mo'g'ullar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yuriy Dolgorukiy o'lka poytaxtini qaysi shahardan qaysi shaharga ko'chirgan.",
+   "options": [
+    "Suzdaldan Vladimirga",
+    "Novgoroddan Pskovga",
+    "Kiyevdan Moskvaga",
+    "Rostovdan Suzdalga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIV asr boshlarida Kiyev knyazligi bosh ruhoniysi Pyotrning ko'chirilishi Moskva knyazligining mavqeini qanday o'zgartirdi.",
+   "options": [
+    "Kiyevga bo'ysundirdi",
+    "Mo'g'ullarga qaram qildi",
+    "Zaiflashtirdi",
+    "Yanada mustahkamladi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rus knyazlari mo'g'ul hukmdoridan nima olgan.",
+   "options": [
+    "Yer-mulk",
+    "Maxsus yorliq",
+    "Qo'shin",
+    "Oltin tanga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Muz ustidagi jang” qaysi ko'l ustida bo'lgan.",
+   "options": [
+    "Baykal ko'li",
+    "Orol ko'li",
+    "Chud ko'li",
+    "Ladoga ko'li"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIV asrda Smolenskni egallab olgan hukmdorni aniqlang.",
+   "options": [
+    "Oltin O'rda xoni",
+    "Litva knyazi",
+    "Moskva knyazi",
+    "Shved qiroli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Moskva knyazi Ivan IV podshoh unvonini qaysi yilda oldi.",
+   "options": [
+    "1480-yilda",
+    "1547-yilda",
+    "1478-yilda",
+    "1514-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mo'g'ul davlati XIII asr boshlarida kim boshchiligida tashkil topdi.",
+   "options": [
+    "To'xtamishxon",
+    "Botuxon",
+    "Chingizxon",
+    "Mamay"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Neva jangi vaqtida Novgorod knyazi kim edi.",
+   "options": [
+    "Daniil Aleksandrovich",
+    "Aleksandr Yaroslavich",
+    "Dmitriy Ivanovich",
+    "Ivan Kalita"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Moskva knyazligiga qaysi yilda, kim asos solgan.",
+   "options": [
+    "1327-yilda, Ivan Kalita",
+    "1147-yilda, Yuriy Dolgorukiy",
+    "1380-yilda, Dmitriy Donskoy",
+    "1263-yilda, Daniil Aleksandrovich"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Novgorodda respublika boshqaruv shakli qaysi yilda paydo bo'lgan.",
+   "options": [
+    "1130-yilda",
+    "1478-yilda",
+    "1136-yilda",
+    "1240-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Novgorodda pravoslav cherkov boshlig'i kim edi va u qanday saylangan.",
+   "options": [
+    "Yepiskop, vecheda saylangan",
+    "Yepiskop, knyaz tomonidan tayinlangan",
+    "Doj, senatda saylangan",
+    "Kardinal, papa tomonidan tayinlangan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Moskva knyazi Ivan Kalita 1327-yilda Oltin O'rda hukmdoridan nima huquqini oldi.",
+   "options": [
+    "Qo'shin tuzish huquqini",
+    "Mustaqillik huquqini",
+    "Rus yerlarida soliq yig'ish huquqini",
+    "Tanga zarb qilish huquqini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Oltin O'rda davlatiga kim asos solgan.",
+   "options": [
+    "Mamay",
+    "Botuxon",
+    "To'xtamishxon",
+    "Chingizxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rus yerlarini boshqargan hukmdor qanday atalgan.",
+   "options": [
+    "Sultan",
+    "Kurfyurst",
+    "Doj",
+    "Knyaz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Aleksandr Yaroslavich qaysi jangdagi g'alabasi sharafiga Nevskiy deb atala boshlandi.",
+   "options": [
+    "Neva daryosi bo'yidagi jang",
+    "Kulikovo jangi",
+    "Tarak daryosi bo'yidagi jang",
+    "Chud ko'li ustidagi jang"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada berilgan voqealar va ularning yillari to'g'ri ko'rsatilgan javobni aniqlang.",
+   "options": [
+    "2, 3",
+    "1, 2",
+    "2, 4",
+    "1, 3"
+   ],
+   "answer": 3,
+   "image": "img/j8-10-36.jpg"
+  },
+  {
+   "q": "Novgorodda 1136-yilda taxtdan ag'darilgan knyazni aniqlang.",
+   "options": [
+    "Yuriy Dolgorukiy",
+    "Daniil Aleksandrovich",
+    "Vsevolod Mstislavich",
+    "Rostislav Mstislavich"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Knyaz Dmitriy Ivanovich Kulikovo jangidagi g'alabasi sharafiga qanday nom oldi.",
+   "options": [
+    "Nevskiy",
+    "Donskoy",
+    "Kalita",
+    "Dolgorukiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ruslar Oltin O'rdaga soliq to'lashni qaysi yilda butunlay to'xtatdi.",
+   "options": [
+    "1480-yilda",
+    "1547-yilda",
+    "1380-yilda",
+    "1395-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mstislav I qaysi knyazning o'g'li edi.",
+   "options": [
+    "Vladimir Monomaxning",
+    "Daniil Aleksandrovichning",
+    "Ivan Kalitaning",
+    "Yuriy Dolgorukiyning"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Moskva knyazligi Vladimir knyazligi bilan qaysi yili birlashgan.",
+   "options": [
+    "1478-yilda",
+    "1263-yilda",
+    "1383-yilda",
+    "1327-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Novgorodda yig'ilishlar chaqirilishini nima bildirgan.",
+   "options": [
+    "Nog'ora urilishi",
+    "Olov yoqilishi",
+    "Karnay chalinishi",
+    "Veche qo'ng'irog'ining chalinishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Smolensk o'lkasi qaysi knyaz davrida Kiyevdan mustaqil bo'ldi.",
+   "options": [
+    "Vsevolod Mstislavich",
+    "Andrey",
+    "Rostislav Mstislavich",
+    "Yuriy Dolgorukiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Muz ustidagi jang” nima uchun shunday nom olgan.",
+   "options": [
+    "Ritsarlar muzga cho'kkani uchun",
+    "Jang Muz daryosida bo'lgani uchun",
+    "Qishda bo'lgani uchun",
+    "Ko'l usti muzlagani uchun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chingizxon qaysi yilda vafot etgan.",
+   "options": [
+    "1227-yilda",
+    "1263-yilda",
+    "1237-yilda",
+    "1240-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mo'g'ullar tomonidan Kiyev qaysi yilda qo'lga kiritilgan.",
+   "options": [
+    "1242-yilda",
+    "1240-yilda",
+    "1237-yilda",
+    "1380-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mo'g'ullar rus yerlariga qaysi yili hujum qilgan.",
+   "options": [
+    "1237-yilda",
+    "1227-yilda",
+    "1380-yilda",
+    "1240-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Novgorod respublikasiga tegishlilarini aniqlang.",
+   "options": [
+    "1, 2",
+    "2, 3",
+    "2, 4",
+    "1, 3"
+   ],
+   "answer": 0,
+   "image": "img/j8-10-48.jpg"
+  },
+  {
+   "q": "“Muz ustidagi jang” qaysi yili bo'lib o'tgan.",
+   "options": [
+    "1395-yilda",
+    "1240-yilda",
+    "1380-yilda",
+    "1242-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Novgorod mustaqilligi qaysi yilda va kim tomonidan tugatilgan.",
+   "options": [
+    "1478-yilda, Ivan III",
+    "1380-yilda, Dmitriy Donskoy",
+    "1240-yilda, Aleksandr Nevskiy",
+    "1327-yilda, Ivan Kalita"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kiyev Rusi bo'linganidan keyin barcha o'lkalarda mavjud bo'lgan uchta asosiy kuchni aniqlang.",
+   "options": [
+    "Knyaz, qo'shin va shahar kengashi",
+    "Veche, yepiskop va savdogarlar",
+    "Knyaz, ruhoniy va dehqonlar",
+    "Podshoh, vazir va qo'shin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Novgorodda knyaz va uning qo'shini kim tomonidan taklif etilgan.",
+   "options": [
+    "Veche tomonidan boshqa o'lkalardan",
+    "Mo'g'ullar tomonidan",
+    "Zodagonlar tomonidan Litvadan",
+    "Yepiskop tomonidan Kiyevdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur To'xtamishxonni hal qiluvchi jangda qaysi daryo bo'yida mag'lub etgan.",
+   "options": [
+    "Tarak daryosi",
+    "Don daryosi",
+    "Volga daryosi",
+    "Neva daryosi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Janubiy Rus o'lkalarida qanday boshqaruv shakli hukm surgan.",
+   "options": [
+    "Zodagonlar respublikasi",
+    "Knyaz katta mavqega ega monarxiya",
+    "Zodagonlar muhim rol o'ynaydigan monarxiya",
+    "Shahar-respublika"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vladimir-Suzdal o'lkasi poytaxti Yuriy Dolgorukiyning vorisi Andrey davrida qaysi shaharga ko'chirildi.",
+   "options": [
+    "Kiyevga",
+    "Vladimirga",
+    "Moskvaga",
+    "Rostovga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oltin O'rda tumanboshisi Mamay qaysi knyazlikka hujum qildi.",
+   "options": [
+    "Smolensk o'lkasi",
+    "Moskva knyazligi",
+    "Novgorod respublikasi",
+    "Kiyev knyazligi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Smolensk Rossiya tarkibiga qachon kirdi.",
+   "options": [
+    "1478-yilda",
+    "1404-yilda",
+    "1514-yilda",
+    "1401-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Moskva shahriga qaysi yilda, kim asos solgan.",
+   "options": [
+    "1147-yilda, Andrey",
+    "1327-yilda, Ivan Kalita",
+    "1263-yilda, Daniil Aleksandrovich",
+    "1147-yilda, Yuriy Dolgorukiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vladimir-Suzdal o'lkasi Kiyev Rusidan qaysi yilda mustaqil bo'ldi.",
+   "options": [
+    "1130-yilda",
+    "1263-yilda",
+    "1147-yilda",
+    "1136-yilda"
+   ],
+   "answer": 0
+  }
+ ]
+}

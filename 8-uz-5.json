@@ -1,0 +1,412 @@
+{
+ "title": "8-sinf · Jaloliddin Manguberdi Xorazmshohlar davlatini tiklash yo'lida",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Shatra viloyati hukmdori Jaloliddinning og'ir ahvolidan foydalanib hujum qilgach, jang qanday yakunlangan?",
+   "options": [
+    "Jaloliddin g'alaba qozonib, hukmdorning 1000 otliq va 5000 jangchisi uning tomoniga o'tgan",
+    "Hukmdor Jaloliddin bilan ittifoq tuzgan",
+    "Jaloliddin mag'lub bo'lib, Eronga chekingan",
+    "Jaloliddin Shatrani tark etib, Dehliga ketgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddinga maktub yo'llab, unga qarshi qurol bo'lishni xohlamasligini bildirgan Dehli sultoni kim edi?",
+   "options": [
+    "Nosir",
+    "Alouddin Qayqubod",
+    "Malik Ashraf",
+    "Shamsuddin Eltutmish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jaloliddin Manguberdi Shimoliy Hindistonda necha yil hukmronlik qilgan?",
+   "options": [
+    "Besh yil",
+    "Bir yil",
+    "O'n bir yil",
+    "Uch yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jaloliddin Hindistonda o'z davlatini barpo etgach, nimalarni amalga oshirgan?",
+   "options": [
+    "Hind rojalariga o'lpon to'lagan",
+    "O'z nomidan kumush va mis tangalar zarb ettirib, soliqlar joriy qilgan",
+    "Poytaxtni Dehliga ko'chirgan",
+    "Dehli sultonini taxtdan ag'dargan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jaloliddinning qaysi ikki lashkarboshisi xiyonat qilib, Eltutmish tomoniga o'tgan?",
+   "options": [
+    "Yazidak pahlavon va Sunqurjiq",
+    "Amin Malik va Muzaffar Malik",
+    "Sayfuddin Ag'roq va A'zam Malik",
+    "Temur Malik va Xumortegin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddin Manguberdi Hindistondan Iroqqa qaysi yili yo'l olgan?",
+   "options": [
+    "1221-yili",
+    "1224-yili",
+    "1227-yili",
+    "1231-yili"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-b, 2-f, 3-a, 4-d",
+    "1-d, 2-c, 3-a, 4-b",
+    "1-b, 2-c, 3-a, 4-e",
+    "1-b, 2-c, 3-a, 4-d"
+   ],
+   "answer": 3,
+   "image": "img/k8-05-07.jpg"
+  },
+  {
+   "q": "Jaloliddin Iroqda dastlab qaysi hududlarga borib, mahalliy hukmdorlar bilan kelishgan?",
+   "options": [
+    "Tabriz, Marog'a va Ganjaga",
+    "Basra, Bag'dod va Damashqqa",
+    "Kirmon, Sheroz va Isfahonga",
+    "Niso, Balx va Hirotga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jaloliddinning Iroqqa kelishidan norozi bo'lgan, bu yerlarga egalik qilgan shaxs kim edi?",
+   "options": [
+    "Ukasi G'iyosiddin",
+    "Otasi Muhammad Xorazmshoh",
+    "Qaynotasi Amin Malik",
+    "Ukasi O'zloqshoh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddin mo'g'ullarga qarshi kurashga undab, kimga maktub yo'llagan?",
+   "options": [
+    "Dehli sultoni Eltutmishga",
+    "Gurjiston qiroliga",
+    "Ko'niya sultoni Qayqubodga",
+    "Bag'dod xalifasi Nosirga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bag'dod xalifasi Nosir nimadan ko'proq xavfsiragan?",
+   "options": [
+    "Gurjiston qo'shinidan",
+    "Xorazmshohning kuchayib borishidan",
+    "Hind rojalarining hujumidan",
+    "Mo'g'ullar bosqinidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chizmada jang joylari va ularda sodir bo'lgan voqealar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-b, 2-e, 3-a",
+    "1-b, 2-f, 3-a",
+    "1-b, 2-e, 3-f",
+    "1-f, 2-e, 3-a"
+   ],
+   "answer": 0,
+   "image": "img/k8-05-12.jpg"
+  },
+  {
+   "q": "G'iyosiddin Pirshoh qatl etilgach, Jaloliddin davlati kuchli emasligini anglagan mo'g'ullar nima qilgan?",
+   "options": [
+    "Xalifalik bilan ittifoq tuzgan",
+    "Jaloliddin bilan sulh tuzgan",
+    "Sulh tuzish fikridan qaytib, Ozarbayjon va Gurjiston sari talonchilik yurishlarini boshlagan",
+    "Xorazmdan butunlay chiqib ketgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ozarbayjon hukmdori O'zbekning o'rniga davlatni amalda kim boshqarardi?",
+   "options": [
+    "Uning o'g'li",
+    "Uning ukasi G'iyosiddin",
+    "Uning vaziri Sharofulmulk",
+    "Uning xotini Malika xotun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1225-yil mayda Jaloliddin qaysi shaharni jangsiz qo'lga kiritgan?",
+   "options": [
+    "Ganjani",
+    "Isfahonni",
+    "Basrani",
+    "Marog'a shahrini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jaloliddin Ozarbayjonni nima uchun o'z davlatining markazi sifatida tanlagan?",
+   "options": [
+    "Xalifalik chegarasidan uzoqligi uchun",
+    "Mo'g'ullar yetib bormagani uchun",
+    "Harbiy yurishlar uchun qulay yerda joylashgani uchun",
+    "Bu yer eng boy bo'lgani uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada shaxslar va ularning Jaloliddin davridagi o'rni to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-d, 2-e, 3-a",
+    "1-d, 2-b, 3-a",
+    "1-a, 2-b, 3-d",
+    "1-d, 2-b, 3-f"
+   ],
+   "answer": 1,
+   "image": "img/k8-05-17.jpg"
+  },
+  {
+   "q": "Jaloliddin yangi barpo etgan davlatining poytaxti qaysi shahar bo'lgan?",
+   "options": [
+    "Ganja",
+    "Tabriz",
+    "Marog'a",
+    "Isfahon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1226-yilda Xorazmshoh qo'liga qaysi hududlar o'tgan?",
+   "options": [
+    "Xuroson, Iroq va Kirmon",
+    "Misr, Suriya va Falastin",
+    "Ozarbayjon, Shirvon (Armaniston) va Gurjiston",
+    "Hindiston, Pokiston va Kashmir"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1227-yil sentyabrda Isfahon yaqinida Jaloliddin qaysi mo'g'ul sarkardasi boshchiligidagi qo'shinni yengdi?",
+   "options": [
+    "Jebe",
+    "Subutoy",
+    "Shixi Xutuxu",
+    "Taynol no'yon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Taynol no'yon Jaloliddinning mardligiga qoyil qolib, uni qanday ta'riflagan?",
+   "options": [
+    "“Yo'lbars changalidan omon chiqqan arslon”",
+    "“Zamonasining haqiqiy bahodiri, o'z tengqurlarining sarvari”",
+    "“Mo'g'ullar va musulmonlar orasidagi istehkom”",
+    "“Otaning faqat shunday o'g'li bo'lishi lozim”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chizmada keltirilgan voqealardagi sonlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-f, 2-c, 3-b",
+    "1-c, 2-f, 3-b",
+    "1-c, 2-f, 3-d",
+    "1-c, 2-b, 3-f"
+   ],
+   "answer": 1,
+   "image": "img/k8-05-22.jpg"
+  },
+  {
+   "q": "Jaloliddinga qarshi muxolif kuchlarni birlashtirishga muvaffaq bo'lgan Ko'niya sultoni kim edi?",
+   "options": [
+    "Alouddin Qayqubod",
+    "Shamsuddin Eltutmish",
+    "Malik Ashraf",
+    "Malik Muzaffar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddinning ukasi G'iyosiddin Pirshoh xiyonatidan so'ng qanday taqdirga uchragan?",
+   "options": [
+    "Hindistonga qochib ketgan",
+    "Mo'g'ullar tomonidan asir olingan",
+    "Kirmon hokimi tomonidan qo'lga olinib, qatl etilgan",
+    "Akasi bilan yarashgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jaloliddinning bosh vaziri Sharofulmulk nima sababdan qatl etilgan?",
+   "options": [
+    "Xazinani talagani uchun",
+    "Jangdan qochgani uchun",
+    "Jazira va Ko'niya hukmdorlaridan hokimiyatni tortib olishda madad so'rab maktub yozgani uchun",
+    "Mo'g'ullar bilan yashirin shartnoma tuzgani uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1230-yil avgustda Arzinjon yaqinidagi jangda Jaloliddin kimlarning birlashgan qo'shinidan mag'lub bo'lgan?",
+   "options": [
+    "Ko'niya, Jazira, Damashq va Misrning",
+    "Mo'g'ul va Gurjistonning",
+    "Bag'dod va Gurjistonning",
+    "Hind rojalari va Dehlining"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddin Manguberdi necha yil umr ko'rgan?",
+   "options": [
+    "O'n bir yil",
+    "Qirq yil",
+    "O'ttiz uch yil",
+    "Ellik yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada shaharlar va ularga oid voqealar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-e, 3-d",
+    "1-e, 2-a, 3-f",
+    "1-e, 2-a, 3-d",
+    "1-e, 2-d, 3-a"
+   ],
+   "answer": 2,
+   "image": "img/k8-05-28.jpg"
+  },
+  {
+   "q": "Jaloliddin 1231-yil bahorida mo'g'ullarga qarshi ittifoq tuzish uchun musulmon hukmdorlarga qaysi shaharda turib murojaat etgan?",
+   "options": [
+    "Isfahonda",
+    "Ganjada",
+    "Tabrizda",
+    "Marog'ada"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jaloliddin Manguberdi 1231-yil avgustida qaysi qishloqda kurdlar qo'lida halok bo'lgan?",
+   "options": [
+    "Tabrizdagi Marog'a qishlog'ida",
+    "Isfahon yaqinidagi Kirmon qishlog'ida",
+    "Ganja yaqinidagi Gurjiston qishlog'ida",
+    "Mayaforiqin yaqinidagi Ayndor qishlog'ida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Damashq hokimi Malik Ashraf Jaloliddin halokati haqida xabar topgach, nima degan?",
+   "options": [
+    "“Endi Hindiston bizniki”",
+    "“Uning halokati islom olamiga mo'g'ullarning bostirib kirishini anglatadi”",
+    "“Taqdir shunday ekan”",
+    "“Endi xalifalik tinchlik topadi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bag'dod mo'g'ullar tomonidan qaysi yili egallanib, xalifalik tugatilgan?",
+   "options": [
+    "1258-yili",
+    "1231-yili",
+    "1256-yili",
+    "1227-yili"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddin Manguberdi tavalludining 800 yilligi qaysi yili keng nishonlangan?",
+   "options": [
+    "1999-yil noyabrda",
+    "2022-yil avgustda",
+    "2000-yil avgustda",
+    "1941-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Urganchda Jaloliddin Manguberdi yodgorlik majmuasi qachon tantanali ochilgan?",
+   "options": [
+    "1999-yil noyabrda",
+    "1941-yilda",
+    "2022-yil 29-avgustda",
+    "2000-yil 30-avgustda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada voqealar va ularning yillari to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-c, 2-f, 3-d",
+    "1-c, 2-b, 3-d",
+    "1-b, 2-f, 3-d",
+    "1-f, 2-c, 3-d"
+   ],
+   "answer": 0,
+   "image": "img/k8-05-35.jpg"
+  },
+  {
+   "q": "Jaloliddin harbiy taktikasida eng ko'p qo'llangan jang usuli qaysi edi?",
+   "options": [
+    "Dushman qo'shini markaziga hujum qilib, uni parokanda qilish",
+    "Tungi hujum",
+    "Soxta chekinish",
+    "Dengiz blokadasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddin Manguberdining Ozarbayjondagi faoliyatiga oid to'g'ri ma'lumotlarni aniqlang. 1) Marog'a shahri jangsiz qo'lga kiritildi; 2) Poytaxt Isfahon shahriga ko'chirildi; 3) Ozarbayjon xalqi uni gurjilar zo'ravonligidan ozod etuvchi deb bildi; 4) Ozarbayjon hukmdori O'zbek Jaloliddin bilan ittifoq tuzdi; 5) Tabriz Xorazmshohga taslim bo'ldi.",
+   "options": [
+    "2, 4",
+    "2, 3, 5",
+    "2, 3, 4, 5",
+    "1, 3, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jaloliddin Manguberdi nomining tiklanishiga oid to'g'ri ma'lumotlarni aniqlang. 1) Orden 1941-yilda ta'sis etilgan; 2) Urganchda unga mahobatli yodgorlik majmuasi ochildi; 3) Yodgorlik majmuasi Samarqandda ochilgan; 4) 2000-yilda “Jaloliddin Manguberdi” ordeni ta'sis etildi; 5) Turkiyaning Silvan shahrida uning taxminiy qabri topilgan.",
+   "options": [
+    "2, 5",
+    "2, 4, 5",
+    "1, 2, 3, 5",
+    "1, 3, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng avval sodir bo'lgan?",
+   "options": [
+    "Jaloliddin Manguberdi halok bo'ldi",
+    "Marog'a shahri jangsiz qo'lga kiritildi",
+    "Jaloliddin Isfahon yaqinida Taynol no'yon qo'shinini yengdi",
+    "Jaloliddin Hindistondan Iroqqa yo'l oldi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng keyin sodir bo'lgan?",
+   "options": [
+    "Jaloliddin Isfahon yaqinida Taynol no'yon qo'shinini yengdi",
+    "Jaloliddin Hindistondan Iroqqa yo'l oldi",
+    "Jaloliddin Manguberdi halok bo'ldi",
+    "Marog'a shahri jangsiz qo'lga kiritildi"
+   ],
+   "answer": 2
+  }
+ ]
+}

@@ -1,0 +1,410 @@
+{
+ "title": "8-sinf · Xorazm va Mo'g'ul davlati o'rtasidagi munosabatlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Temuchin qaysi yilda qurultoyda “Chingizxon” (“Ulug' xon”) deb e'lon qilingan?",
+   "options": [
+    "1218-yilda",
+    "1219-yilda",
+    "1216-yilda",
+    "1206-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1206-yilda Temuchin Chingizxon deb e'lon qilingan qurultoy qaysi daryo bo'yida chaqirilgan?",
+   "options": [
+    "Sirdaryo",
+    "Onon daryosi",
+    "Amudaryo",
+    "Irg'iz daryosi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chingizxon tomonidan tashkil etilgan davlat qanday atalgan?",
+   "options": [
+    "Yeke mong'ol ulus",
+    "Chig'atoy ulusi",
+    "Yuan imperiyasi",
+    "Oltin O'rda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chingizxon tuzgan kezik (keshik) – xos soqchilar qismi nechta turk azamatidan iborat bo'lgan?",
+   "options": [
+    "5 ming",
+    "20 ming",
+    "10 ming",
+    "50 ming"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ullar jang paytida birinchi qatorda kimlarni saf tortgan?",
+   "options": [
+    "Yengil otliqlarni",
+    "Piyodalarni",
+    "Og'ir qurollangan otliqlarni",
+    "Suvoriy kamonchilarni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ullarning asosiy taktik hiylasi nima edi?",
+   "options": [
+    "Soxta chekinish",
+    "Tungi shturm",
+    "Tuyalar hujumi",
+    "Dengiz blokadasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-e, 3-f, 4-c",
+    "1-b, 2-e, 3-d, 4-c",
+    "1-a, 2-e, 3-d, 4-b",
+    "1-a, 2-e, 3-d, 4-c"
+   ],
+   "answer": 3,
+   "image": "img/k8-02-07.jpg"
+  },
+  {
+   "q": "Chingizxon 1218–1219-yillarda qaysi hududlarni Mo'g'ullar davlati hukmronligi ostida birlashtirgan?",
+   "options": [
+    "Xitoydan Hindistongacha",
+    "Oltoydan Kaspiy dengizigacha",
+    "Baykal ko'lidan Dunaygacha",
+    "Gobi sahrosining sharqiy chegarasidan Tangritog'ning g'arbiy etaklarigacha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mo'g'ullar birlashtirgan hududlar qaysi davlat chegarasiga bevosita tutashib qolgan?",
+   "options": [
+    "Qoraxitoylar davlati chegarasiga",
+    "Hindiston chegarasiga",
+    "Bag'dod xalifaligi chegarasiga",
+    "Sulton Muhammad Xorazmshoh saltanati chegarasiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sulton Muhammad 1216-yili kim boshchiligida Xitoyga elchilar jo'natgan?",
+   "options": [
+    "Sayyid Bahouddin Roziy",
+    "Ibn Kafroj Bug'ro",
+    "Mahmud Yalavoch",
+    "Umarxo'ja O'troriy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chingizxon Xorazm elchilariga: “Men kunchiqar tomon podshosi bo'lsam, u … podshosidir”, degan. Nuqtalar o'rniga mos so'zni qo'ying.",
+   "options": [
+    "janub tomon",
+    "shimol tomon",
+    "kunbotar tomon",
+    "dengiz bo'yi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chingizxon maktubida Sulton Muhammadni kim sifatida e'zozlashini yozgan?",
+   "options": [
+    "O'z farzandi (o'g'li) kabi",
+    "O'z ustozi kabi",
+    "O'z ukasi kabi",
+    "O'z ittifoqdoshi kabi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chingizxon maktubida Sulton dargohiga maxsus elchilarni yuborishdan maqsadini qanday ifodalagan?",
+   "options": [
+    "Xalifalikka qarshi harbiy ittifoq tuzish",
+    "Xorazmshohni o'ziga bo'ysundirish",
+    "Xitoyga birgalikda yurish",
+    "Do'stlik va tijorat aloqalarini qaror toptirish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mo'g'ullar o'z hududlarini Oltoyning g'arbiy etaklari, Tangritog' va Issiqko'lgacha, qaysi ko'l havzasiga qadar kengaytirgan?",
+   "options": [
+    "Baykal ko'ligacha",
+    "Balxash ko'li havzasigacha",
+    "Orol dengizigacha",
+    "Kaspiy dengizigacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Muhammad Xorazmshoh o'z sharqiy chegarasini qayergacha yetkazgan?",
+   "options": [
+    "Pekingacha",
+    "Gobi sahrosigacha",
+    "Qipchoq cho'llarigacha",
+    "Tangritog'gacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mahmud Yalavoch Xorazmshohni qanday aldagan?",
+   "options": [
+    "Mo'g'ullarning Xitoyda mag'lub bo'lganini aytgan",
+    "“Mo'g'ullarning harbiy kuchi sizning qudratingiz oldida hech narsa emas”, degan",
+    "Chingizxonning vafot etganini aytgan",
+    "Chingizxon Xorazmshohga bo'ysunishini aytgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mahmud Yalavoch bergan to'liq ma'lumotlar Chingizxonga qanday ta'sir qilgan?",
+   "options": [
+    "Ruhlantirib, Xorazm haqida ko'proq ma'lumot yig'ish uchun karvon jo'natishiga olib kelgan",
+    "Urushdan butunlay voz kechishiga sabab bo'lgan",
+    "Elchilarni qatl etishiga olib kelgan",
+    "Xitoyga qaytib ketishiga sabab bo'lgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chingizxon Xorazmga jo'natgan ulkan savdo karvonining boshlig'i kim bo'lgan?",
+   "options": [
+    "Sayyid Bahouddin Roziy",
+    "Chingizxonning ishonchli kishisi Uxun",
+    "Mahmud Yalavoch",
+    "Jo'chi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chingizxonning ulkan savdo karvoni O'tror yerlariga qaysi yili kirib kelgan?",
+   "options": [
+    "1220-yili",
+    "1216-yili",
+    "1218-yili",
+    "1219-yili"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'tror hokimi Inolchiq Sulton Muhammadga kim bo'lib kelgan?",
+   "options": [
+    "Akasi",
+    "Vaziri",
+    "Tog'asi",
+    "O'g'li"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sulton Muhammad O'tror hokimi Inolchiqqa qanday laqab bergan?",
+   "options": [
+    "Alpxon",
+    "G'oyirxon",
+    "Qutlug'xon",
+    "Sohibqiron"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chizmada nomi keltirilgan shaxslar va ularga tegishli ma'lumotlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-b, 2-f, 3-c",
+    "1-c, 2-f, 3-b",
+    "1-a, 2-f, 3-b",
+    "1-e, 2-f, 3-b"
+   ],
+   "answer": 1,
+   "image": "img/k8-02-22.jpg"
+  },
+  {
+   "q": "O'tror hokimi Inolchiq karvon a'zolarini nimada aybladi?",
+   "options": [
+    "Josuslikda",
+    "O'g'rilikda",
+    "Soliq to'lamaslikda",
+    "Dinsizlikda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Karvondan tasodifan omon qolgan mo'g'ul qayerga qochib borib, Chingizxonni voqeadan xabardor qilgan?",
+   "options": [
+    "Samarqandga",
+    "Qoraqurumga",
+    "Pekinga",
+    "O'trorga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'tror voqeasidan so'ng Chingizxon Xorazmshoh huzuriga kimni elchi etib jo'natgan?",
+   "options": [
+    "Ibn Kafroj Bug'roni",
+    "Mahmud Yalavochni",
+    "Uxunni",
+    "Jo'chini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chingizxon elchi orqali Xorazmshohdan nimani talab qilgan?",
+   "options": [
+    "O'tror shahrini topshirishni",
+    "Katta o'lpon to'lashni",
+    "Samarqandni bo'shatib berishni",
+    "O'tror hokimi Inolchiq (G'oyirxon)ni mo'g'ullarga topshirishni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xorazmshoh Chingizxonning talabini qanday baholagan?",
+   "options": [
+    "Do'stlik belgisi deb",
+    "O'ziga nisbatan haqorat, haddan oshish deb",
+    "Elchilik odobi deb",
+    "Adolatli talab deb"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorazmshoh Chingizxon elchisi Ibn Kafroj Bug'roga nisbatan qanday yo'l tutgan?",
+   "options": [
+    "Elchini asirga olgan",
+    "Elchini Chingizxonga qaytarib topshirgan",
+    "Elchini sovg'alar bilan kuzatgan",
+    "Elchini o'ldirtirib, ikki mulozimning soqol- mo'ylovini qirdirgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chingizxonning O'tror voqeasidan qattiq ta'sirlanib, tepalikka chiqib uch kun ibodat qilgani qaysi asarda bayon etilgan?",
+   "options": [
+    "Minhojiddinning “Tabaqoti Nosiriy” asarida",
+    "Rashiduddin Fazlullohning “Jome at-tavorix” asarida",
+    "Bobur “Boburnoma” asarida",
+    "Abulg'oziyning “Shajarayi turk” asarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Tabaqoti Nosiriy” asarining muallifi kim?",
+   "options": [
+    "Abu Usmon Minhojiddin ibn Sirojiddin",
+    "Abulg'oziy Bahodirxon",
+    "Rashiduddin Fazlulloh",
+    "Muhammad Nasaviy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chingizxon Xorazm davlati ustiga harbiy yurishni qaysi yili boshlagan?",
+   "options": [
+    "1220-yili",
+    "1216-yili",
+    "1219-yili",
+    "1218-yili"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chingizxon 1219-yili o'z o'g'illari boshliq qancha asosiy harbiy kuchlari bilan Xorazmga yurish boshlagan?",
+   "options": [
+    "20 ming",
+    "60 ming",
+    "200 mingga yaqin",
+    "400 ming"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ullar va Xorazmshoh qo'shini o'rtasidagi ilk to'qnashuv qaysi daryo bo'yida bo'lgan?",
+   "options": [
+    "Irg'iz daryosi bo'yida",
+    "Sind daryosi bo'yida",
+    "Sirdaryo bo'yida",
+    "Onon daryosi bo'yida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Irg'iz jangida Jaloliddin qanday vazifani bajargan?",
+   "options": [
+    "Mo'g'ullar tomoniga o'tib ketgan",
+    "Jangdan chekingan",
+    "Elchilik vazifasini bajargan",
+    "Pistirmada turib, mo'g'ullarga qaqshatqich zarba bergan va otasini qutqargan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chizmada nomi keltirilgan voqealar va ularning yillari to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-c, 3-f",
+    "1-a, 2-b, 3-f",
+    "1-a, 2-f, 3-c",
+    "1-a, 2-c, 3-d"
+   ],
+   "answer": 0,
+   "image": "img/k8-02-35.jpg"
+  },
+  {
+   "q": "Irg'iz jangi qanday natija bilan yakunlangan?",
+   "options": [
+    "Mo'g'ullar to'liq mag'lub bo'lgan",
+    "Hech bir tomonning qo'li baland kelmagan, mo'g'ullar tunda gulxanlar yoqib qarorgohini tark etgan",
+    "Jo'chixon asir olingan",
+    "Xorazmshoh qo'shini tor-mor etilgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mo'g'ullar harbiy taktikasiga oid to'g'ri ma'lumotlarni aniqlang. 1) Ba'zi o'qlar maxsus hushtaklar bilan ta'minlangan; 2) Asosiy taktik hiyla soxta chekinish bo'lgan; 3) Jangda asosiy urg'u dengiz flotiga berilgan; 4) Jang boshida yengil otliqlar kamondan o'q yog'dirgan; 5) Jang boshida piyodalar oldinga tashlangan.",
+   "options": [
+    "1, 2, 4, 5",
+    "1, 3, 4, 5",
+    "2, 3, 4, 5",
+    "1, 2, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng avval sodir bo'lgan?",
+   "options": [
+    "Chingizxon Xorazmga yurishni boshladi",
+    "Chingizxon karvoni O'trorda qirib tashlandi",
+    "Mo'g'ul qurultoyida Temuchin Chingizxon deb e'lon qilindi",
+    "Sayyid Bahouddin Roziy Xitoyga elchi bo'lib jo'natildi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng keyin sodir bo'lgan?",
+   "options": [
+    "Mo'g'ul qurultoyida Temuchin Chingizxon deb e'lon qilindi",
+    "Chingizxon Xorazmga yurishni boshladi",
+    "Sayyid Bahouddin Roziy Xitoyga elchi bo'lib jo'natildi",
+    "Chingizxon karvoni O'trorda qirib tashlandi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chizmada nomi keltirilgan asarlar va ularning mualliflari to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-d, 3-f",
+    "1-a, 2-f, 3-e",
+    "1-d, 2-a, 3-e",
+    "1-a, 2-d, 3-e"
+   ],
+   "answer": 3,
+   "image": "img/k8-02-40.jpg"
+  }
+ ]
+}

@@ -1,0 +1,606 @@
+{
+ "title": "9-sinf · 19-mavzu. Eron",
+ "time": 30,
+ "questions": [
+  {
+   "q": "XV asr oxirida Eronning markaziy hokimiyatga bo'ysunmaydigan bir qancha mustaqil hududlarga bo'linib ketishi va zaiflashuvi qaysi davlatning bosqini xavfini kuchaytirgan?",
+   "options": [
+    "Hindiston",
+    "Misr",
+    "Turkiya",
+    "Xitoy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ismoil Safaviy qaysi shahar hokimi edi?",
+   "options": [
+    "Tabriz",
+    "Sheroz",
+    "Mashhad",
+    "Ardabil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Ismoil I Safaviy Tabriz shahrini ishg'ol etgan?",
+   "options": [
+    "1500-yilda",
+    "1508-yilda",
+    "1502-yilda",
+    "1505-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Ismoil I Safaviy o'zini shahanshoh deb e'lon qilgan?",
+   "options": [
+    "1502-yilda",
+    "1500-yilda",
+    "1508-yilda",
+    "1505-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi shaharni ishg'ol etgach Ismoil I Safaviy o'zini shahanshoh deb e'lon qilgan?",
+   "options": [
+    "Tabriz",
+    "Isfahon",
+    "Sheroz",
+    "Mashhad"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ismoil I Safaviy qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1500–1522-yillarda",
+    "1502–1524-yillarda",
+    "1508–1530-yillarda",
+    "1505–1527-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ismoil I Safaviy qaysi shaharni o'z davlatining poytaxti etib belgilagan?",
+   "options": [
+    "Tabriz",
+    "Isfahon",
+    "Sheroz",
+    "Mashhad"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ismoil I Safaviy davrida islom dinining qaysi mazhabi Eronning davlat diniga aylangan?",
+   "options": [
+    "Sunniy mazhabi",
+    "Shia mazhabi",
+    "Hanbaliy mazhabi",
+    "Hanafiy mazhabi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ismoil I Safaviy markaziy hokimiyatni mustahkamlash maqsadida qaysi yer egaligini deyarli butunlay bekor qilgan?",
+   "options": [
+    "Iqto",
+    "Tiyul",
+    "Xolisa",
+    "Suyurg'ol"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ismoil I Safaviy qaysi yer egaligi shaklini joriy qilgan?",
+   "options": [
+    "Iqto",
+    "Tiyul",
+    "Xolisa",
+    "Suyurg'ol"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shoh Abbos I Safaviy qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1584–1630-yillarda",
+    "1589–1632-yillarda",
+    "1587–1629-yillarda",
+    "1590–1636-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi hukmdor davrida eng yirik yer-mulk egalarining mustaqilligi tugatilib, Safaviylar davlati o'z qudratining cho'qqisiga erishgan?",
+   "options": [
+    "Ismoil I",
+    "Abbos I",
+    "Nodirshoh",
+    "Taxmasp II"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shoh Abbos I Usmoniylar imperiyasi bilan jangda g'olib chiqib, qayerlarni o'z davlatiga qo'shib olgan? 1) Hozirgi Iroq; 2) Afg'oniston; 3) Pokistonning bir qismi; 4) Ozarbayjon; 5) Armaniston; 6) Gruziyaning bir qismi; 7) Kaspiy dengizi bo'yidagi G'ilon va Mozandaron.",
+   "options": [
+    "2, 3, 5, 6",
+    "2, 4, 5, 7",
+    "1, 3, 4, 6, 7",
+    "1, 2, 3, 4, 5, 6, 7"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shoh Abbos I davrida Eron egallagan hududlar … daryosidan … daryosigacha bo'lgan masofaga kengaygan.",
+   "options": [
+    "Iordan/Panjob",
+    "Zohab/Brahmaputra",
+    "Dajla/Hind",
+    "Frot/Sind"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shoh Abbos I Eron poytaxtini Tabriz shahridan qaysi shaharga ko'chirgan?",
+   "options": [
+    "Hamadon",
+    "Isfahon",
+    "Sheroz",
+    "Mashhad"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi safaviy hukmdor muntazam qo'shin barpo etgan?",
+   "options": [
+    "Ismoil I",
+    "Abbos I",
+    "Nodirshoh",
+    "Taxmasp II"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi safaviy shoh imperiyasi tarkibiga Eron va Ozarbayjondan tashqari Armaniston, Gruziya, Dog'istonning bir qismi, Afg'oniston, Xiva va Buxoro xonliklari va Hindistonning shimoliy qismi kirgan?",
+   "options": [
+    "Ismoil I",
+    "Abbos I",
+    "Nodirshoh",
+    "Taxmasp II"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asr oxiri — XVII asr boshlarida Eronda “mulki devoniy” (amlok) deb qanday yerlarga aytilgan?",
+   "options": [
+    "Davlat yerlari",
+    "Xususiy yerlar",
+    "Jamoat yerlari",
+    "Masjid-madrasa yerlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi asrdan e'tiboran Safaviylar davlatida iqtisodiy inqiroz boshlangan?",
+   "options": [
+    "XV asrdan",
+    "XVI asrdan",
+    "XVII asrdan",
+    "XVIII asrdan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nima sababdan Safaviylar davlatida iqtisodiy inqiroz boshlangan? 1) Tiyul yer egaligining ko'payishi; 2) Davlatga qarashli yer miqdori kamayishi; 3) Savdo yo'llarining o'zgarishi.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Safaviylar davlatida boshlangan iqtisodiy inqirozni oldini olish uchun hukmdorlar qaysi soliqlar miqdorini oshirganlar?",
+   "options": [
+    "Boj solig'i va dehqonlar to'laydigan soliq",
+    "Dehqonlar to'laydigan soliq va jon solig'i (jizya)",
+    "Jon solig'i (jizya) va chorva solig'i",
+    "Chorva solig'i va boj solig'i"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon safaviy sulton Husayn dehqonlarning yerni tashlab ketishlarini taqiqlovchi farmon chiqargan?",
+   "options": [
+    "1713-yilda",
+    "1717-yilda",
+    "1722-yilda",
+    "1710-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon afg'onlar o'z yetakchisi Mir Mahmud boshchiligida Eronga hujum qilgan va shoh Sulton Husayn hokimiyatni topshirishga majbur bo'lgan?",
+   "options": [
+    "1713-yilda",
+    "1717-yilda",
+    "1722-yilda",
+    "1710-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Safaviylarning so'nggi hukmdori kim?",
+   "options": [
+    "Ismoil II",
+    "Abbos III",
+    "Sulton Husayn",
+    "Taxmasp II"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yillarda afg'onlar Eronda hokimiyatda turgan?",
+   "options": [
+    "1723–1727-yillarda",
+    "1726–1730-yillarda",
+    "1728–1732-yillarda",
+    "1732–1736-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nodir Qulibek qaysi qabiladan bo'lgan?",
+   "options": [
+    "Pushtunlarning zend qabilasidan",
+    "Afg'onlarning qojar qabilasidan",
+    "Turkmanlarning afshar qabilasidan",
+    "Turkiylarning yovmut qabilasidan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Nodir Quli barcha qabilalar asilzodalarining qurultoyida o'zini “Eron shohi Nodirshoh” deb e'lon qilishga erishgan?",
+   "options": [
+    "1736-yilda",
+    "1747-yilda",
+    "1758-yilda",
+    "1796-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Eronda safaviylar sulolasi hukmronligi butunlay barham topgan?",
+   "options": [
+    "1736-yilda",
+    "1747-yilda",
+    "1758-yilda",
+    "1796-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eronda safaviylar sulolasidan keyin qaysi sulola hokimiyatga kelgan?",
+   "options": [
+    "Qojarlar",
+    "Afshariylar",
+    "Durroniylar",
+    "Pahlaviylar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eron shohi Nodirshoh islomning qaysi mazhabini davlat dini sifatida o'rnatgan?",
+   "options": [
+    "Shia mazhabini",
+    "Hanbaliy mazhabini",
+    "Sunniy mazhabini",
+    "Hanafiy mazhabini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Eron shohi Nodirshoh o'zaro ichki nizolar natijasida o'ldirilgan?",
+   "options": [
+    "1736-yilda",
+    "1747-yilda",
+    "1758-yilda",
+    "1796-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eron shohi Nodirshoh halokatidan keyin mamlakatda boshlangan toj-u taxt uchun kurashda qaysi qabilalar asosiy rolni o'ynagan?",
+   "options": [
+    "Qojar va afshar",
+    "Afshar va yovmut",
+    "Yovmut va zend",
+    "Zend va qojar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Eronda zend qabilasi hokimiyatni qo'lga olgan?",
+   "options": [
+    "1736-yilda",
+    "1747-yilda",
+    "1758-yilda",
+    "1796-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Eronda qojar qabilasi hokimiyatni qo'lga olgan?",
+   "options": [
+    "1736-yilda",
+    "1747-yilda",
+    "1758-yilda",
+    "1796-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Eronda qojarlar sulolasi davrida poytaxt qaysi shaharga ko'chirilgan?",
+   "options": [
+    "Sheroz",
+    "Tehron",
+    "Yazd",
+    "Kirmon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Eronda qojarlar rahnamosi Og'a Muhammad o'zini shahanshoh deb e'lon qilgan?",
+   "options": [
+    "1736-yilda",
+    "1747-yilda",
+    "1758-yilda",
+    "1796-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yilda Eron shohi Og'a Muhammadxon saroy fitnasi natijasida o'ldirilgan?",
+   "options": [
+    "1796-yilda",
+    "1797-yilda",
+    "1798-yilda",
+    "1799-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eron shohi Og'a Muhammadxon saroy fitnasi natijasida o'ldirilgach, taxtga … Fotih Ali o'tirgan.",
+   "options": [
+    "o'g'li",
+    "ukasi",
+    "jiyani",
+    "kuyovi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Eronda qojarlar sulolasi hukmronligi qachongacha davom etgan?",
+   "options": [
+    "1920-yilgacha",
+    "1925-yilgacha",
+    "1928-yilgacha",
+    "1929-yilgacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yangi davrda Eronda hukmronlik qilgan sulolalar ketma-ketligi to'g'ri berilgan javobni toping.",
+   "options": [
+    "Safaviylar – afshariylar – zendlar – qojarlar",
+    "Afshariylar – qojarlar – safaviylar – zendlar",
+    "Qojarlar – zendlar – afshariylar – safaviylar",
+    "Zendlar – safaviylar – qojarlar – afshariylar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fors ko'rfazini egallab olish uchun dastlabki harakatni XVI asrda kimlar boshlab bergan?",
+   "options": [
+    "Inglizlar",
+    "Ispanlar",
+    "Portugallar",
+    "Gollandlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon portugallar Hormuz orolini va undagi yirik savdo portini egallab olishgan?",
+   "options": [
+    "1501-yilda",
+    "1504-yilda",
+    "1507-yilda",
+    "1509-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVII asr boshlarida Erondagi qaysi hukmdor inglizlarning “Ost Indiya” kompaniyasi savdo kemalarini qabul qilish to'g'risida buyruq bergan?",
+   "options": [
+    "Taxmasp II",
+    "Mir Mahmud",
+    "Og'a Muhammad",
+    "Abbos I"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Eron shohi Abbos I qaysi shaharlarda ingliz faktoriyalarini ochishga ruxsat bergan?",
+   "options": [
+    "Sheroz va Isfahon",
+    "Isfahon va Tabriz",
+    "Tabriz va Tehron",
+    "Tehron va Sheroz"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davrga kelib Eronda gollandlarning “Ost Indiya” kompaniyasi inglizlarning “Ost Indiya” kompaniyasi bilan raqobatda muvaffaqiyatga erishib, ularni ortda qoldirgan?",
+   "options": [
+    "XVII asr boshlariga",
+    "XVII asr o'rtalariga",
+    "XVII asr oxirlariga",
+    "XVIII asr boshlariga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVII asrda Eron iqtisodiyoti uchun xavfli bo'lgan holatlardan biri qanday mahsulotlarni mamlakatdan ko'plab olib chiqib ketilayotganligi edi? 1) Xalq iste'moli mollari; 2) Kumush tangalar; 3) Oltin va kumush buyumlar.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi asrda Eronga G'arbiy Yevropa tovarlarining ko'plab keltirilishi mahalliy hunarmandchilik sanoati bilan kuchli raqobatni keltirib chiqargan?",
+   "options": [
+    "XV asrda",
+    "XVI asrda",
+    "XVII asrda",
+    "XVIII asrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davrdan Eron iqtisodiy va siyosiy tushkunlikni boshidan kechirgan va xalqning ahvoli og'irlashgan?",
+   "options": [
+    "XVII asr birinchi yarmidan",
+    "XVII asr ikkinchi yarmidan",
+    "XVIII asr birinchi yarmidan",
+    "XVIII asr ikkinchi yarmidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVII – XVIII asrlarda Eron, birinchi o'rinda, qaysi Yevropa davlatlari mustamlakachilik intilishlarining obyektiga aylangan? 1) Angliya; 2) Fransiya; 3) Gollandiya; 4) Rossiya.",
+   "options": [
+    "1, 2, 4",
+    "1, 2, 3",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kamoliddin Behzod qaysi yillarda yashagan?",
+   "options": [
+    "1443–1523-yillarda",
+    "1448–1528-yillarda",
+    "1451–1531-yillarda",
+    "1455–1535-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kamoliddin Behzod … rassomlik maktabining yirik ustalaridan biri hisoblanadi.",
+   "options": [
+    "Kobul",
+    "Hirot",
+    "Sheroz",
+    "Isfahon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kamoliddin Behzod G'arbda … sifatida tan olingan.",
+   "options": [
+    "“Sharq Leonardosi”",
+    "“Sharq Mikelanjelosi”",
+    "“Sharq Rembrandti”",
+    "“Sharq Rafaeli”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI–XVIII asrlarda qaysi sohalarda Eronning qadimiy madaniy an'analari davomiyligi saqlanib qolingan? 1) Shaharsozlik; 2) Amaliy san'at; 3) She'riyat.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi Eron hukmdori “Xatoiy” taxallusi bilan ijod qilgan?",
+   "options": [
+    "Shoh Ismoil",
+    "Shoh Abbos",
+    "Shoh Husayn",
+    "Shoh Taxmasp"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI-XVII asrlarda Eronda ijod qilgan kurd mumtoz adabiyotining yorqin namoyandasi kim?",
+   "options": [
+    "Sodiqbek Afshar",
+    "Ahmad Hasaniy",
+    "Mirza Shafiq",
+    "Soib Tabriziy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI-XVII asrlarda Eronda ijod qilgan kurd shoiri kim?",
+   "options": [
+    "Sodiqbek Afshar",
+    "Ahmad Hasaniy",
+    "Mirza Shafiq",
+    "Soib Tabriziy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shoh masjidi, Shayx Lutfulla masjidi, Ali Kара va Chexel Sotun saroy ansambllari Eronning qaysi shahrida joylashgan?",
+   "options": [
+    "Isfahon",
+    "Tabriz",
+    "Sheroz",
+    "Tehron"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI-XVIII asrlarda Eronning qaysi shahri miniatura markaziga aylangan?",
+   "options": [
+    "Tabriz",
+    "Sheroz",
+    "Isfahon",
+    "Tehron"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI-XVII asrlarda miniatura san'atining rivojlanishiga qayerdagi “Behzod maktabi” katta ta'sir ko'rsatgan?",
+   "options": [
+    "Hirot",
+    "Kobul",
+    "Sheroz",
+    "Isfahon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI-XVIII asrlarda Eronda bir umrga, lekin meros bo'lib qolmaslik sharti bilan berilgan yer qanday atalgan?",
+   "options": [
+    "Iqto",
+    "Tiyul",
+    "Xolisa",
+    "Suyurg'ol"
+   ],
+   "answer": 1
+  }
+ ]
+}

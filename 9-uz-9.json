@@ -1,0 +1,176 @@
+{
+ "title": "9-sinf · 11-mavzu. Ashtarxoniylar davlatida boshqaruv va tashqi aloqalar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Oliy hukmdorning ovlarda ishtiroki uchun zarur bo'lgan ov qushlari, tozi itlar va boshqalarga mas'ul bo'lgan lavozim egasini aniqlang.",
+   "options": [
+    "Qurchi",
+    "Miroxur",
+    "Devonbegi",
+    "Qushbegi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi lavozim egasi muayyan shaxslarni mansabga tayinlash va unvon bera olish, oliy qabullarda o'z xohishiga ko'ra ishtirok etish kabi imtiyozlarga ega bo'lgan.",
+   "options": [
+    "Qurchi",
+    "Miroxur",
+    "Devonbegi",
+    "Qushbegi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xurosonni qo'lga olgan safaviylar quyidagi qaysi hududlarni egallash yo'llarini qidira boshlaydilar.",
+   "options": [
+    "Hirot va Buxoro",
+    "Balx va Buxoro",
+    "Samarqand va Hirot",
+    "Balx va Marv"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi hududning janubiy hududlarini himoya qilish Ashtarxoniylar davlati tashqi siyosati oldida turgan vazifalardan biriga aylangan edi.",
+   "options": [
+    "Hirot",
+    "Buxoro",
+    "Xorazm",
+    "Balx"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xuroson va Hirotga ega bo'lgan safaviylar o'z e'tiborlarini quyidagi qaysi hududga qaratishadi.",
+   "options": [
+    "Hirot",
+    "Buxoro",
+    "Xorazm",
+    "Balx"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bu davrda Eronga qaysi tomondan Usmonli davlatining tahdidi kuchaya boshlagan edi.",
+   "options": [
+    "Shimol va g'arbdan",
+    "Shimol va sharqdan",
+    "Janub va sharqdan",
+    "Janub va g'arbdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi hukmdor davrida \"Hindiston hukmdori, Akbar podshohning o'g'li Jahongir podshoh\" huzuriga qimmatbaho sovg'alar bilan elchilar yuboriladi.",
+   "options": [
+    "Abdullaxon II",
+    "Imomqulixon",
+    "Abdulazizxon",
+    "Subhonqulixon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Abdulazizxon Hindistonga naqshbandiya tariqati vakilini elchi sifatida jo'natgan vaqtni aniqlang.",
+   "options": [
+    "1671-yil",
+    "1680-yil",
+    "1657-yil",
+    "1691-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi elchilik missiyasi Hindistonga yuborilgan edi.",
+   "options": [
+    "Yakkatozxon",
+    "Rustambiy va Muhammad Sharif",
+    "Mustafo",
+    "Mulla Farrux"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistondan Buxoroga kelgan elchilik missiyasini aniqlang.",
+   "options": [
+    "Yakkatozxon",
+    "Rustambiy va Muhammad Sharif",
+    "Mustafo",
+    "Mulla Farrux"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Usmonli Sulton Ahmad II tomonidan Subhonulixon saroyiga elchi yuborilgan vaqtni aniqlang.",
+   "options": [
+    "1671-yil",
+    "1680-yil",
+    "1657-yil",
+    "1691-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Usmonli Sulton Ahmad II tomonidan Subhonqulixon saroyiga yuborilgan elchilik missiyasini aniqlang.",
+   "options": [
+    "Yakkatozxon",
+    "Rustambiy va Muhammad Sharif",
+    "Mustafo",
+    "Mulla Farrux"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mulla Farrux Buxorodan Moskvaga elchi sifatida yuborilgan vaqtni aniqlang.",
+   "options": [
+    "1671-yil",
+    "1680-yil",
+    "1657-yil",
+    "1691-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi davlat Buxorolik savdogarlarning erkin faoliyat yuritishiga bir qator to'siqlar qo'ygan edi.",
+   "options": [
+    "Eron",
+    "Hindiston",
+    "Rossiya",
+    "Turkiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ruslar quyidagi qaysi hududlar aholisining o'zbek savdogarlari bilan aloqaga kirishishlarining oldini olishmoqchi bo'ldi.",
+   "options": [
+    "Volgabo'yi, Ural, Dashti Qipchoq",
+    "Volgabo'yi, Ural, Kavkaz",
+    "Volgabo'yi, Ural, G'arbiy Sibir",
+    "Volgabo'yi, Ural, Qozon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi elchilardan qaysi biri Ashtarxoniylar davrida Buxoroga tashrif buyurmagan elchi hisoblanadi.",
+   "options": [
+    "Ivan Xoxlov",
+    "R.Baziner",
+    "F.Beneveni",
+    "Daudov"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pyotr I davrida Buxoro xonligiga elchi sifatida yuborilgan shaxsni aniqlang.",
+   "options": [
+    "Ivan Xoxlov",
+    "R.Baziner",
+    "F.Beneveni",
+    "Daudov"
+   ],
+   "answer": 2
+  }
+ ]
+}

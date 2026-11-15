@@ -1,0 +1,336 @@
+{
+ "title": "7-sinf · Yevropada o'rta asr shaharlarining o'ziga xosligi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Yevropada ishlab chiqarish yuksalib, u eng avvalo nimada kuzatiladi?",
+   "options": [
+    "Dehqonchilik",
+    "Chorvachilik",
+    "Hunarmandchilik",
+    "Savdo-sotiq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi shaharlar IX-X asrlardayoq yuksala boshlaydi?",
+   "options": [
+    "Parij, London, Berlin, Rim, Madrid",
+    "Moskva, Kiyev, Krakov, Varshava, Praga",
+    "Bristol, Bazel, Perudja, Siena, Kyoln",
+    "Venetsiya, Genuya, Florensiya, Marsel, Tuluza"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Suriya, Misr, Eron va O'rta Osiyogacha borgan yevropalik savdogarlar Sharq bozorlaridan nimalar xarid qilardilar? 1. Shoyi gazlamalar 2. Zeb-ziynat buyumlari 3. Ziravorlar 4. Kulolchilik buyumlari",
+   "options": [
+    "1,2,4",
+    "1,2",
+    "1,2,3",
+    "1,2,3,4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Marko Polo sayohat qilgan o'lkalarni oradan qancha vaqt o'tib yevropaliklar o'z ko'zlari bilan ko'rdilar?",
+   "options": [
+    "5 asr",
+    "2 asr",
+    "4 asr",
+    "6 asr"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'rta asrlarda shaharlarning aksari qismi nimadan qurilgan?",
+   "options": [
+    "Toshdan",
+    "Yog'ochdan",
+    "Pishiq g'ishtdan",
+    "Xom g'ishtdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xalfalik muddati kasbning murakkabligiga qarab necha yil bo'lgan?",
+   "options": [
+    "1-4 yil",
+    "2-7 yil",
+    "5-8 yil",
+    "10-12 yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yevropada nechanchi asrlarda ishlab chiqarish yuksaldi?",
+   "options": [
+    "X-XI asrlarda",
+    "XII-XIII asrlarda",
+    "XIV-XV asrlarda",
+    "XVI-XVII asrlarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Marko Polo sayohati necha yil davom etgan?",
+   "options": [
+    "10 yil",
+    "17 yil",
+    "25 yil",
+    "29 yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yevropada shaharlarning paydo bo'lishi va yuksalishi dastlab qaysi mamlakatlarda bo'ladi?",
+   "options": [
+    "Angliya va Germaniya",
+    "Italiya va Fransiya shimoli",
+    "Italiya va Fransiya janubi",
+    "Vengriya va Polsha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Marko Polo sayohatini Xitoyni egallagan mo'g'ullarning qaysi xoni saroyida xizmatda o'tkazgan?",
+   "options": [
+    "Chingizxon",
+    "Xuloku",
+    "Botuxon",
+    "Xubilay"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shahar kengashi binosi bu?",
+   "options": [
+    "Ganza",
+    "Sex",
+    "Birja",
+    "Ratusha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'rta asrlarda shaharlar ko'pincha qayerda vujudga kelgan?",
+   "options": [
+    "Daryo sohilari bo'ylarida",
+    "Monastirlar yonida",
+    "Harbiy qal'alar atrofida",
+    "Feodallar yerlari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Venetsiyalik savdogarlar Pololar oilasi vakillari qachon mo'g'ullar xonining Osiyoning ichkarisidagi qarorgohiga yetib boradi?",
+   "options": [
+    "XIII asrda",
+    "XIV asrda",
+    "XV asrda",
+    "XVI asrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "G'arbiy Yevropada XIII-XV asrlarda Levant yo'li qaysi hududlarni bog'lagan? 1. Ispaniya 2. Italiya 3. Janubiy Fransiya 4. Germaniya 5. Shimoliy Fransiya 6. Vizantiya 7. Osiyo",
+   "options": [
+    "1,2,5,6,7",
+    "1,2,3,6,7",
+    "2,3,4,6,7",
+    "1,3,4,6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fransiyaning qator shaharlarida nechanchi asrlarda senorlarga qarshi kurash bo'lib o'tadi?",
+   "options": [
+    "X-XI asrlarda",
+    "XII-XIII asrlarda",
+    "XIV-XV asrlarda",
+    "XVI-XVII asrlarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Marko Polo sayohatining necha yilini Xitoyni egallagan mo'g'ullar xoni saroyida xizmatda o'tkazgan?",
+   "options": [
+    "10 yil",
+    "17 yil",
+    "25 yil",
+    "29 yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yevropada sexlarning tabaqalanishi jarayoni qaysi shaharlarda boshlanadi?",
+   "options": [
+    "Venetsiya, Marsel, Berlin, Rim, Madrid",
+    "Moskva, Kiyev, Krakov, Varshava, Krakov",
+    "Tuluza, Bazel, Perudja, Siena, Kyoln",
+    "Florensiya, London, Bristol, Parij, Bazel"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xalfalar qanday jamiyat tuzishgan?",
+   "options": [
+    "Hamkorlik",
+    "Sheriklik",
+    "Birodarlik",
+    "Qarindoshlik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yevropada necha yillab ustalikka o'ta olmagan xalfalar tabaqasi vujudga keladi?",
+   "options": [
+    "1-4 yil",
+    "2-7 yil",
+    "5-8 yil",
+    "10-12 yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fransiyaning shimolida, Niderlandiya, Angliya va Germaniyada yangi shaharlar nechanchi asrlardan vujudga keladi?",
+   "options": [
+    "X-XI asrlarda",
+    "XII-XIII asrlarda",
+    "XIV-XV asrlarda",
+    "XVI-XVII asrlarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ilk o'rta asrlarda qanday xo'jalik hukm surgan?",
+   "options": [
+    "Tovar xo'jaligi",
+    "Natural xo'jalik",
+    "O'zlashtiruvchi xo'jalik",
+    "Ishlab chiqaruvchi xo'jalik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vengriya, Boltiqbo'yi, Rus yerlarida shaharlar nechanchi asrlardan ko'payadi?",
+   "options": [
+    "X-XI asrlarda",
+    "XII-XIII asrlarda",
+    "XIV-XV asrlarda",
+    "XVI-XVII asrlarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xristofor Kolumb qayerlik dengizchi?",
+   "options": [
+    "Vizantiyalik",
+    "Genuyalik",
+    "Venetsiyalik",
+    "Marsellik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mahsulotlarni bozorda sotish yoki ayirboshlash uchun ishlab chiqaruvchi xo'jalik bu?",
+   "options": [
+    "Tovar xo'jaligi",
+    "Natural xo'jalik",
+    "O'zlashtiruvchi xo'jalik",
+    "Ishlab chiqaruvchi xo'jalik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yevropaning qaysi shaharlarida eng ko'p aholi yashaydi? 1. Parij 2. London 3. Konstantinopol 4. Milan 5. Florensiya 6. Kordova 7. Seviliya",
+   "options": [
+    "1,2,3,4,5,7",
+    "1,2,3,4,5,6",
+    "1,3,4,5,6,7",
+    "2,3,4,5,6,7"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Levant yo'lida joylashgan ... kuchli dengiz floti tuzib, ularning savdodagi raqobati ba'zida urushlarga ham aylangan?",
+   "options": [
+    "Rim va Parij",
+    "Marsel va Bordo",
+    "London va Lyubek",
+    "Venetsiya va Genuya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi javobda xatolik mavjud?",
+   "options": [
+    "Shahar markazida bozor maydoni, uning yonida ibodatxona joylashgan",
+    "Shaharlar aholisining asosiy qismini hunarmandlar, savdogarlar tashkil qilgan",
+    "Shaharlar xo'jaligining asosi dehqonchilik bo'lgan",
+    "Niderlandiya va Germaniyada shaharlar bir vaqtda vujudga kelgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "G'arbiy Yevropada XIII-XV asrlarda Boltiq dengizi orqali qaysi shaharlarni bog'laydigan Shimoliy savdo yo'li harakatda bo'lgan? 1. London 2. Bremen 3. Bryugge 4. Lyubek 5. Novgorod 6. Nijniy Novgorod",
+   "options": [
+    "1,2,4,6",
+    "1,3,4,5",
+    "1,2,4,5",
+    "1,3,5,6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi davlatda Ganza shaharlari ittifoqi tuziladi?",
+   "options": [
+    "Fransiya",
+    "Italiya",
+    "Germaniya",
+    "Angliya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yevropaliklar O'rta dengiz sohillari bo'ylab o'zlarining savdo manzilgohlari - faktoriyalar tizimini yaratishgan, ularning ko'pchiligi qayerlik bo'lishgan?",
+   "options": [
+    "Rimlik va Parijlik",
+    "Marsellik va Bordolik",
+    "Londonlik va Lyubeklik",
+    "Venetsiyalik va Genuyalik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Marko Poloning kitobidagi Sharq mamlakatlarining afsonaviy boyliklari 200 yildan so'ng kimda shunchalik katta taassurot qoldiradiki, u nima bo'lganda ham Hindistonning boy sohillariga yetishga qaror qiladi?",
+   "options": [
+    "Xristofor Kolumb",
+    "Afanasiy Nikitin",
+    "Vasko da Gama",
+    "Fernando Magellan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davlatda qirol farmoniga binoan asosiy yo'llarga tosh yotqizila boshlanadi?",
+   "options": [
+    "Fransiya",
+    "Italiya",
+    "Germaniya",
+    "Angliya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ganza shaharlar ittifoqiga qanchadan ziyod davlat kirgan?",
+   "options": [
+    "60",
+    "70",
+    "80",
+    "90"
+   ],
+   "answer": 1
+  }
+ ]
+}

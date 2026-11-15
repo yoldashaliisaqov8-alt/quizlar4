@@ -1,0 +1,590 @@
+{
+ "title": "8-sinf · O'rta asrlarda Eron",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Diagrammada berilgan davlatlar va ularning poytaxtlari to'g'ri ko'rsatilgan javobni aniqlang.",
+   "options": [
+    "3, 4",
+    "2, 3",
+    "1, 4",
+    "2, 4"
+   ],
+   "answer": 3,
+   "image": "img/j8-13-01.jpg"
+  },
+  {
+   "q": "G'ozonxonning vaziri, qomusiy olim kim edi.",
+   "options": [
+    "Nosiriddin Tusiy",
+    "Jaloliddin Rumiy",
+    "Hamdulloh Qazviniy",
+    "Rashiduddin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jaloyiriylar davlati XV asrning 30-yillarida kim tomonidan butunlay tugatildi.",
+   "options": [
+    "Temuriylar",
+    "Oq qo'yunlilar",
+    "Qora qo'yunlilar",
+    "Safaviylar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sarbadorlar yetakchisi Vojihiddin Mas'ud qanday unvonni oldi.",
+   "options": [
+    "Shoh",
+    "Sulton",
+    "Elxon",
+    "Amir"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Muboriziddin Muhammad qaysi viloyatlarni o'z davlatiga qo'shib oldi.",
+   "options": [
+    "Kirmon, Fors va Isfahon",
+    "Kurdiston, Xuziston va Fors",
+    "Iroq, Ozarbayjon va Armaniston",
+    "Xuroson, Seyiston va Mozandaron"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloyiriylar Mo'g'ulistondagi qaysi daryolar bo'yida yashagan.",
+   "options": [
+    "Onon va Kerulen",
+    "Volga va Don",
+    "Amudaryo va Sirdaryo",
+    "Dajla va Furot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muzaffariylar davlatining poytaxti qaysi shahar edi.",
+   "options": [
+    "Tabriz",
+    "Sheroz",
+    "Bag'dod",
+    "Yazd"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Islohot uchun urinishlar yettinchi elxon kim bilan bog'liq.",
+   "options": [
+    "Abu Said",
+    "Huloku",
+    "G'ozonxon",
+    "Munke"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xorazmshohlar davlati Eronni qaysi yilda egallab, Xorazmga qo'shib oldi.",
+   "options": [
+    "1337-yilda",
+    "1256-yilda",
+    "1194-yilda",
+    "1295-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qo'zg'olonga kimlar rahbarlik qildi.",
+   "options": [
+    "Savdogarlar",
+    "Yirik mulkdorlar",
+    "Mayda mahalliy zamindorlar",
+    "Ruhoniylar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Huloku Eronni qaysi yilda, necha ming kishilik qo'shin bilan bosib oldi.",
+   "options": [
+    "1337-yilda, 12 ming",
+    "1256-yilda, 12 ming",
+    "1256-yilda, 70 ming",
+    "1295-yilda, 70 ming"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "G'ozonxon qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1356–1374-yillarda",
+    "1295–1304-yillarda",
+    "1314–1358-yillarda",
+    "1256–1265-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Huloku qaysi mo'g'ul xoni topshirig'iga ko'ra Eronni bosib oldi.",
+   "options": [
+    "Munke",
+    "Botuxon",
+    "Tulu",
+    "Chingizxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qora Yusuf Tabrizni qaysi yilda egallagan.",
+   "options": [
+    "1410-yilda",
+    "1387-yilda",
+    "1435-yilda",
+    "1468-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sarbadorlar qo'zg'oloni Xurosonning qaysi shahri yaqinidagi qishloqda boshlandi.",
+   "options": [
+    "Nishopur yaqinidagi Tus",
+    "Tabriz yaqinidagi Ardabil",
+    "Sabzavor yaqinidagi Boshtin",
+    "Marv yaqinidagi Niso"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Uzun Hasan qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1453–1478-yillarda",
+    "1314–1358-yillarda",
+    "1356–1374-yillarda",
+    "1387–1410-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qora qo'yunlilar davlati yo'lboshchisi kim edi.",
+   "options": [
+    "Iskandar",
+    "Qora Yusuf",
+    "Hasan Buzurg",
+    "Uzun Hasan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Elxonlar mamlakatni kimlarga tayanib boshqarganlar.",
+   "options": [
+    "Faqat mo'g'ul zodagonlariga",
+    "Faqat ruhoniylarga",
+    "Turk-mo'g'ul zodagonlari va mahalliy musulmon amaldorlariga",
+    "Savdogarlar va hunarmandlarga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jaloyiriylar davlatiga kim, qaysi yilda asos solgan.",
+   "options": [
+    "Hasan Buzurg, 1387-yilda",
+    "Hasan Buzurg, 1340-yilda",
+    "Ahmad, 1374-yilda",
+    "Uvays I, 1356-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hulokuiylar davlatiga quyidagilardan qaysi hudud kirmagan.",
+   "options": [
+    "Afg'oniston",
+    "Misr",
+    "Iroq",
+    "Kavkazorti"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chingizxonning to'rtinchi o'g'li Tulu boshchiligidagi qo'shinlar Eronda qaysi shaharlarni egalladi.",
+   "options": [
+    "Bag'dod va Kirmon",
+    "Sheroz va Yazd",
+    "Tabriz va Isfahon",
+    "Marv, Niso, Sabzavor, Nishopur va Tus"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mo'g'ullar Eronda qaysi hukmdorning qattiq qarshiligiga uchradi.",
+   "options": [
+    "Muhammad Xorazmshoh",
+    "G'ozonxon",
+    "Jaloliddin Manguberdi",
+    "Qora Yusuf"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIII asrning 50-yillariga kelib mo'g'ullar qo'liga o'tmagan hudud qaysi edi.",
+   "options": [
+    "Xuroson",
+    "Mozandaron",
+    "Eronning janubi va janubi-g'arbidagi bir nechta mulklar",
+    "Ozarbayjon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Hulokuiylar davlatiga tegishlilarini aniqlang.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 4"
+   ],
+   "answer": 3,
+   "image": "img/j8-13-24.jpg"
+  },
+  {
+   "q": "Amir Temurdan yengilgan Qora Yusuf qaysi sultonning qarorgohidan panoh topdi.",
+   "options": [
+    "Hind sultoni Mahmud",
+    "Misr sultoni Barquq",
+    "Usmoniy sultoni Boyazid",
+    "Oltin O'rda xoni To'xtamish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vojihiddin Mas'ud dehqonlarni o'ziga og'dirish uchun necha kishilik qo'shin tuzgan.",
+   "options": [
+    "150 ming",
+    "5 ming",
+    "70 ming",
+    "12 ming"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oq qo'yunlilar davlatining poytaxti qaysi shahar edi.",
+   "options": [
+    "Bag'dod",
+    "Tabriz",
+    "Yazd",
+    "Sheroz"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oq qo'yunlilar qaysi davlatga qarshi kurashda muvaffaqiyatsizlikka uchradi.",
+   "options": [
+    "Temuriylarga",
+    "Safaviylarga",
+    "Usmoniylarga",
+    "Mamluklarga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jaloliddin vafotidan keyin mo'g'ullar qaysi shaharlarni zabt etdi.",
+   "options": [
+    "Tabriz va Isfahon",
+    "Tus va Niso",
+    "Sheroz va Yazd",
+    "Marv va Nishopur"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur Sarbadorlar davlatiga barham berish uchun qaysi shaharni egalladi.",
+   "options": [
+    "Bag'dodni",
+    "Tabrizni",
+    "Shirozni",
+    "Sabzavorni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jaloyiriylar davlatining poytaxti qaysi shahar edi.",
+   "options": [
+    "Bag'dod",
+    "Tabriz",
+    "Isfahon",
+    "Sheroz"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shohrux Mirzo Qora qo'yunlilar qo'shinini qaysi yilda tor-mor keltirdi.",
+   "options": [
+    "1453-yilda",
+    "1410-yilda",
+    "1435-yilda",
+    "1469-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qora qo'yunlilar davlatiga qaysi yilda asos solingan.",
+   "options": [
+    "1410-yilda",
+    "1435-yilda",
+    "1387-yilda",
+    "1468-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan sarbadorlar harakatiga tegishlilarini aniqlang.",
+   "options": [
+    "1, 2",
+    "2, 4",
+    "1, 4",
+    "2, 3"
+   ],
+   "answer": 1,
+   "image": "img/j8-13-34.jpg"
+  },
+  {
+   "q": "Xurosonning sharqiy qismida elxonlar hokimiyati qaysi yilgacha saqlanib qoldi.",
+   "options": [
+    "1337-yilgacha",
+    "1381-yilgacha",
+    "1393-yilgacha",
+    "1353-yilgacha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diagrammada berilgan davlatlar va ularning asoschilari to'g'ri ko'rsatilgan javobni aniqlang.",
+   "options": [
+    "2, 3",
+    "1, 2",
+    "3, 4",
+    "1, 3"
+   ],
+   "answer": 3,
+   "image": "img/j8-13-36.jpg"
+  },
+  {
+   "q": "Safaviylar ta'siri kuchaygan, badavlat yer egalari bo'lgan shahar qaysi edi.",
+   "options": [
+    "Sabzavor",
+    "Tabriz",
+    "Isfahon",
+    "Ardabil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI asr boshida Oq qo'yunlilarning asosiy kuchlarini mag'lub etib, Eronni yagona davlatga birlashtirgan sulolani aniqlang.",
+   "options": [
+    "Safaviylar",
+    "Jaloyiriylar",
+    "Muzaffariylar",
+    "Hulokuiylar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "G'ozonxon tomonidan joriy qilingan pul tizimi keyinchalik qaysi ulusda joriy qilindi.",
+   "options": [
+    "Chig'atoy ulusida",
+    "O'gaday ulusida",
+    "Oltin O'rdada",
+    "Jo'ji ulusida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muboriziddin Muhammad mo'g'ullarning qaysi shahardagi noibi edi.",
+   "options": [
+    "Tabrizdagi",
+    "Bag'doddagi",
+    "Shirozdagi",
+    "Yazddagi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Arab xalifaligi parchalangach, Xuroson va Eronda qaysi sulolalar hukmronlik qildi.",
+   "options": [
+    "Hulokuiylar va Jaloyiriylar",
+    "Tohiriylar va Safforiylar",
+    "Safaviylar va Temuriylar",
+    "Muzaffariylar va Sarbadorlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Sarbadorlar” so'zi nimani anglatadi.",
+   "options": [
+    "Boshini dorga tikkanlar",
+    "Boshliqlar",
+    "Qasoskorlar",
+    "Ozodlik jangchilari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qora qo'yunlilar davlatini tugatgan hukmdor kim.",
+   "options": [
+    "Abu Said",
+    "Iskandar",
+    "Uzun Hasan",
+    "Qora Yusuf"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muzaffariylar davlatiga kim asos solgan.",
+   "options": [
+    "Uzun Hasan",
+    "Muboriziddin Muhammad ibn Muzaffar",
+    "Hasan Buzurg",
+    "Qora Yusuf"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Uzun Hasan Qora qo'yunlilarni qaysi yilda yengdi.",
+   "options": [
+    "1410-yilda",
+    "1468-yilda",
+    "1469-yilda",
+    "1435-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mo'g'ullar istilosi oqibatida dehqonchilik yerlari nimaga aylantirildi.",
+   "options": [
+    "Qo'riqxonaga",
+    "Shaharga",
+    "Bog'ga",
+    "Yaylovga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Elxon Abu Said vafotidan so'ng Hulokuiylar davlatida nima yuz berdi.",
+   "options": [
+    "Sarbadorlar hokimiyatni oldi",
+    "Davlat Temuriylarga qo'shildi",
+    "Islohotlar boshlandi",
+    "Yagona hukmdor qolmadi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sulton Uvaysning to'rtinchi o'g'li kim edi.",
+   "options": [
+    "Hasan",
+    "Ahmad",
+    "Iskandar",
+    "Yusuf"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oq qo'yunlilar qaysi yilgi jangda temuriy sulton Abu Saidni mag'lub etib, halok qildi.",
+   "options": [
+    "1469-yilgi",
+    "1468-yilgi",
+    "1387-yilgi",
+    "1435-yilgi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloyiriylar davlati qaysi sulton davrida (1356– 1374) juda yuksaldi.",
+   "options": [
+    "Uvays I",
+    "Qora Yusuf",
+    "Ahmad",
+    "Hasan Buzurg"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sarbadorlar qo'zg'oloni qaysi yilda ko'tarildi.",
+   "options": [
+    "1337-yilda",
+    "1295-yilda",
+    "1381-yilda",
+    "1256-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eronda XI asr o'rtalaridan qaysi turklar o'z hukmronligini o'rnatdi.",
+   "options": [
+    "Qora qo'yunlilar",
+    "Saljuqiy turklar",
+    "Usmoniy turklar",
+    "Oq qo'yunlilar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hulokuiylar davlati yana qanday nom bilan atalgan.",
+   "options": [
+    "Safaviylar davlati",
+    "Muzaffariylar davlati",
+    "Elxoniylar davlati",
+    "Jaloyiriylar davlati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "G'ozonxon pul islohotida qanday tangalar zarb qildirgan.",
+   "options": [
+    "Kumush dirham va oltin dinor",
+    "Oltin dukat va kumush florin",
+    "Faqat oltin tanga",
+    "Mis pul va kumush tanga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur Sarbadorlar davlatiga qaysi yilda barham berdi.",
+   "options": [
+    "1381-yilda",
+    "1393-yilda",
+    "1387-yilda",
+    "1337-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hulokuiylar hukmdorlariga qanday unvon berilgan.",
+   "options": [
+    "Sulton",
+    "Amir",
+    "Shoh",
+    "Elxon (ulus xoni)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "G'ozonxon 1295-yili qurultoyda qaysi dinni davlat dini deb e'lon qildi.",
+   "options": [
+    "Zardushtiylikni",
+    "Buddaviylikni",
+    "Islomni",
+    "Xristianlikni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muzaffariylar davlati qaysi yillarda Amir Temur tomonidan tugatildi.",
+   "options": [
+    "1356–1374-yillarda",
+    "1410–1435-yillarda",
+    "1337–1381-yillarda",
+    "1387–1393-yillarda"
+   ],
+   "answer": 3
+  }
+ ]
+}

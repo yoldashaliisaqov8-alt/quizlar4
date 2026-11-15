@@ -1,0 +1,436 @@
+{
+ "title": "9-sinf · 36-mavzu. Xonliklar davri tarixiy manbalari va tarixnavisligi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "\"Eng go'zal tarix\" asarining muallifini aniqlang.",
+   "options": [
+    "Abulg'ozi Bahodirxon",
+    "Munis",
+    "Hasanbek Rumlu",
+    "Ogahiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Firdavs ul-iqbol\" asarining muallifini aniqlang.",
+   "options": [
+    "Abulg'ozi Bahodirxon",
+    "Munis",
+    "Hasanbek Rumlu",
+    "Ogahiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Shajarayi turk\" asari kimga tegishli.",
+   "options": [
+    "Abulg'ozi Bahodirxon",
+    "Munis",
+    "Hasanbek Rumlu",
+    "Ogahiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Shohidi iqbol\" asarining muallifini belgilang.",
+   "options": [
+    "Abulg'ozi Bahodirxon",
+    "Munis",
+    "Yusufbek Bayoniy",
+    "Ogahiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI asrning birinchi yarmidagi Xiva tarixiga bag'ishlangan asar nomini aniqlang.",
+   "options": [
+    "\"Shohidi iqbol\"",
+    "\"Eng go'zal tarix\"",
+    "\"Shajarayi turk\"",
+    "\"Firdavs ul-iqbol\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorazmning 250 yillik o'tmishi yoritilgan asar nomini toping.",
+   "options": [
+    "\"Shohidi iqbol\"",
+    "\"Eng go'zal tarix\"",
+    "\"Shajarayi turk\"",
+    "\"Firdavs ul-iqbol\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xiva xonligining 1872-1911 yillardagi tarixini yozgan tarixchini aniqlang.",
+   "options": [
+    "Abulg'ozi Bahodirxon",
+    "Munis",
+    "Yusufbek Bayoniy",
+    "Ogahiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Firdavs ul-iqbol\" asari qachon Eltuzarxonning topshirig'i bilan yaratiladi.",
+   "options": [
+    "1806-yil",
+    "1872-yil",
+    "1912-yil",
+    "1820-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Shohidi iqbol\" asari qachongacha bo'lgan Xiva tarixini aks ettiradi.",
+   "options": [
+    "1806-yil",
+    "1872-yil",
+    "1912-yil",
+    "1820-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yusufbek Bayoniy Asfandiyorxon topshirig'i bilan Xiva xonligi tarixini yaratgan vaqtni aniqlang.",
+   "options": [
+    "1806-yil",
+    "1872-yil",
+    "1912-yil",
+    "1820-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ibrohim Mo'minov boshchiligida yaratilgan asar nomini aniqlang.",
+   "options": [
+    "\"Xiva xonligida feodal yer egaligi va davlat tuzilishi\"",
+    "\"Xorazmning sug'orilish tarixi\"",
+    "\"O'zbekiston tarixi\"(XVI-XIX asrning birinchi yarmi)",
+    "\"Xiva-ming gumbaz shahri\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Akademik M.Yo'ldoshevga tegishli asar nomini aniqlang.",
+   "options": [
+    "\"Xiva xonligida feodal yer egaligi va davlat tuzilishi\"",
+    "\"Xorazmning sug'orilish tarixi\"",
+    "\"O'zbekiston tarixi\"(XVI-XIX asrning birinchi yarmi)",
+    "\"Xiva-ming gumbaz shahri\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "D.Alimova tahriri ostida chop etilgan kitob nomini toping.",
+   "options": [
+    "\"Xiva xonligida feodal yer egaligi va davlat tuzilishi\"",
+    "\"Xorazmning sug'orilish tarixi\"",
+    "\"O'zbekiston tarixi\"(XVI-XIX asrning birinchi yarmi)",
+    "\"Xiva-ming gumbaz shahri\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1997-yilda chop etilgan kitob nomini aniqlang.",
+   "options": [
+    "\"Xiva xonligida feodal yer egaligi va davlat tuzilishi\"",
+    "\"Xorazmning sug'orilish tarixi\"",
+    "\"O'zbekiston tarixi\"(XVI-XIX asrning birinchi yarmi)",
+    "\"Xiva-ming gumbaz shahri\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Akademik A.Ziyoga tegishli kitob nomini toping.",
+   "options": [
+    "\"O'zbek davlatchiligi tarixi\"",
+    "\"O'zbekiston tarixi\"(Eng qadimgi davrdan bugungi kungacha)",
+    "\"O'zbekiston tarixi\"(XVI-XIX asrning birinchi yarmi)",
+    "\"Xiva-ming gumbaz shahri\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Akademik A.Asqarovga tegishli asar nomini aniqlang.",
+   "options": [
+    "\"O'zbek davlatchiligi tarixi\"",
+    "\"O'zbekiston tarixi\"(Eng qadimgi davrdan bugungi kungacha)",
+    "\"O'zbekiston tarixi\"(XVI-XIX asrning birinchi yarmi)",
+    "\"Xiva-ming gumbaz shahri\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Umarnoma\" yoki \"Shohnomayi Umarxon\" asarining muallifi kim.",
+   "options": [
+    "Muhammad Hakimxon",
+    "Mirzo Olim Toshkandiy",
+    "Mirzo Olim Maxdum hoji",
+    "Abdulkarim Namangoniy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Umarnoma\" yoki \"Shohnomayi Umarxon\" asari yozilgan vaqtni belgilang.",
+   "options": [
+    "1806-yil",
+    "1872-yil",
+    "1912-yil",
+    "1820-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Saralangan tarixlar\" asari kimga tegishli.",
+   "options": [
+    "Muhammad Hakimxon",
+    "Mirzo Olim Toshkandiy",
+    "Mirzo Olim Maxdum hoji",
+    "Abdulkarim Namangoniy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Umarxon davrida saroyda naqib lavozimida xizmat qilgan shaxsni aniqlang.",
+   "options": [
+    "Muhammad Hakimxon",
+    "Mirzo Olim Toshkandiy",
+    "Mirzo Olim Maxdum hoji",
+    "Abdulkarim Namangoniy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hakimxonning onasi quyidagi qaysi xonning singlisi bo'lgan.",
+   "options": [
+    "Sheralixon",
+    "Norbo'taxon",
+    "Umarxon",
+    "Muhammad Alixon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi hukmdor davrida Hakimxon Namangan shahriga hokim etib tayinlanadi.",
+   "options": [
+    "Sheralixon",
+    "Norbo'taxon",
+    "Umarxon",
+    "Muhammad Alixon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Qo'qon xonligi tarixi\" asari kimga tegishli.",
+   "options": [
+    "Muhammad Hakimxon",
+    "Mirzo Olim Toshkandiy",
+    "Mirzo Olim Maxdum hoji",
+    "Abdulkarim Namangoniy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Tarixi Turkiston\" asari kimga tegishli.",
+   "options": [
+    "Muhammad Hakimxon",
+    "Mirzo Olim Toshkandiy",
+    "Mirzo Olim Maxdum hoji",
+    "Is'hoqxon Junaydullo o'g'li Ibrat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Farg'ona tarixi\" asarining muallifini aniqlang.",
+   "options": [
+    "Muhammad Hakimxon",
+    "Mirzo Olim Toshkandiy",
+    "Mirzo Olim Maxdum hoji",
+    "Is'hoqxon Junaydullo o'g'li Ibrat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Shayboniynoma\" asari kimga tegishli.",
+   "options": [
+    "Mirzo Muhammad Haydar",
+    "Muhammad Kamoliddin Binoiy",
+    "Hofiz Tanish Buxoriy",
+    "Muhammad Hakimxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Muhammad Kamoliddin Binoiy tug'ilgan vaqtni aniqlang.",
+   "options": [
+    "1510-yil",
+    "1453-yil",
+    "1512-yil",
+    "1507-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Bobur va Najmi Soniylar Qarshi shahrini egallaydi.",
+   "options": [
+    "1510-yil",
+    "1453-yil",
+    "1512-yil",
+    "1507-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Tarixi Rashidiy\" asarining muallifini aniqlang.",
+   "options": [
+    "Mirzo Muhammad Haydar",
+    "Muhammad Kamoliddin Binoiy",
+    "Hofiz Tanish Buxoriy",
+    "Muhammad Hakimxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Tarixi Rashidiy\" asari Bobur Mirzoning Ismoil Safaviy bilan qachondan keyingi munosabatlari haqida ma'lumot beradi.",
+   "options": [
+    "1510-yil",
+    "1453-yil",
+    "1512-yil",
+    "1507-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muhammad Haydar Kobul shahrida Bobur saroyida yashay boshlagan vaqtni aniqlang.",
+   "options": [
+    "1510-yil",
+    "1511-yil",
+    "1512-yil",
+    "1507-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Muhammad Haydar qachon Boburdan ruxsat olib Andijonga qaytadi.",
+   "options": [
+    "1510-yil",
+    "1511-yil",
+    "1512-yil",
+    "1507-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Bobur podshoh Samarqand qamali paytida opasi Xonzodabegimni o'z joni evaziga Shohibekxonga (Shayboniyxonga) berib, o'zi Samarqanddan chiqib ketgan edi...\" Bu ma'lumot qaysi asardan olingan.",
+   "options": [
+    "\"Shayboniynoma\"",
+    "\"Tarixi Rashidiy\"",
+    "\"Abdullanoma\"",
+    "\"Tarixi Abulfayzxon\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hofiz Tanish Buxoriyning otasi qaysi Buxoro amiriga yaqin kishilardan bo'lgan.",
+   "options": [
+    "Ko'chkunchixon",
+    "Shayboniyxon",
+    "Abdullaxon II",
+    "Ubaydullaxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Uzoq kurashlardan so'ng quyidagi qaysi hukmdor davlatni yagona markazga birlashtiradi.",
+   "options": [
+    "Ko'chkunchixon",
+    "Shayboniyxon",
+    "Abdullaxon II",
+    "Ubaydullaxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ubaydullaxonning o'ldirilishi haqida qaysi asarda batafsil yozib qoldirilgan.",
+   "options": [
+    "\"Shayboniynoma\"",
+    "\"Gulshan ul-muluk\"",
+    "\"Abdullanoma\"",
+    "\"Tarixi Abulfayzxon\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abdurahmon Tolega tegishli asar nomini aniqlang.",
+   "options": [
+    "\"Shayboniynoma\"",
+    "\"Tarixi Rashidiy\"",
+    "\"Abdullanoma\"",
+    "\"Tarixi Abulfayzxon\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Movarounnahrda hokimiyat qachon Muhammad Rahimxon qo'liga o'tadi.",
+   "options": [
+    "1510-yil",
+    "1747-yil",
+    "1512-yil",
+    "1507-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Gulshan ul-muluk\" asarining muallifini aniqlang.",
+   "options": [
+    "Mirzo Muhammad Haydar",
+    "Muhammad Kamoliddin Binoiy",
+    "Muhammad Yoqub",
+    "Muhammad Hakimxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ubaydullaxonga qarshi suiqasdga boshchilik qilgan shaxs ismini aniqlang.",
+   "options": [
+    "Muhammad Yoqub",
+    "Mehtar Kobuliy",
+    "Numonbek",
+    "Javshan qalmiq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qipchoq Dashtida mang'itlarning ulug'i bo'lgan shaxs ismini aniqlang.",
+   "options": [
+    "Muhammad Yoqub",
+    "Mehtar Kobuliy",
+    "Numonbek",
+    "Javshan qalmiq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"O'sha kezlarda ulug' xon Samarqanddan Buxoroga kelgandi. Xoja Davlat Saroy Javshan qalmiq bilan birlashib, janobi oliylarini o'ldirmoqchi edi...\" Bu ma'lumot qaysi asardan olingan.",
+   "options": [
+    "\"Shayboniynoma\"",
+    "\"Gulshan ul-muluk\"",
+    "\"Abdullanoma\"",
+    "\"Tarixi Abulfayzxon\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Mang'itlar 12000 uylik bo'lib, bir necha urug'larga bo'linadi. Ular Shayboniyxon davrida Movarounnahrga kelishgan...\" Bu ma'lumotlar qaysi asardan olingan.",
+   "options": [
+    "\"Shayboniynoma\"",
+    "\"Gulshan ul-muluk\"",
+    "\"Abdullanoma\"",
+    "\"Tarixi Abulfayzxon\""
+   ],
+   "answer": 1
+  }
+ ]
+}

@@ -1,0 +1,306 @@
+{
+ "title": "9-sinf · 27-mavzu. Qo'qon xonligida davlat boshqaruvi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "1810-yilga qadar bosh vazir vazifasini quyidagi qaysi lavozim egasi bajargan.",
+   "options": [
+    "Beklarbegi",
+    "Qushbegi",
+    "Devonbegi",
+    "Mingboshi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qushbegi lavozimini mingboshiga o'zgartirgan Qo'qon hukmdorini aniqlang.",
+   "options": [
+    "Olimxon",
+    "Muhammad Alixon",
+    "Umarxon",
+    "Sheralixon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi lavozim egasiga lashkarboshilik vakolati yuklatiladi.",
+   "options": [
+    "Beklarbegi",
+    "Qushbegi",
+    "Devonbegi",
+    "Mingboshi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Toshkent hokimiga beklarbegi unvonini bergan hukmdorni aniqlang.",
+   "options": [
+    "Olimxon",
+    "Muhammad Alixon",
+    "Umarxon",
+    "Sheralixon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1831-yilda Muhammad Alixon tomonidan joriy qilingan lavozimni aniqlang.",
+   "options": [
+    "Beklarbegi",
+    "Qushbegi",
+    "Devonbegi",
+    "Mingboshi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi lavozim egasi mamlakat xazinasiga tushadigan mablag' va uning sarf-xarajatini nazorat qilgan.",
+   "options": [
+    "Beklarbegi",
+    "Qushbegi",
+    "Devonbegi",
+    "Mingboshi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xonlikka chet mamlakatlardan siyosiy, iqtisodiy, diplomatic maqsadlarda kelgan elchilarni kutib olish, ularni joylashtirish va xonlikdagi faoliyatiga javobgar bo'lgan lavozim egasini aniqlang.",
+   "options": [
+    "Dasturxonchi",
+    "Shig'ovul",
+    "Mehtar",
+    "Inoq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ijtimoiy-iqtisodiy ahamiyatga ega bo'lgan lavozimni aniqlang.",
+   "options": [
+    "Dasturxonchi",
+    "Shig'ovul",
+    "Mehtar",
+    "Inoq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Moliya vazirining yordamchisi bo'lgan lavozimni aniqlang.",
+   "options": [
+    "Dasturxonchi",
+    "Shig'ovul",
+    "Mehtar",
+    "Inoq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xonning xos va sirdosh mulozimi bo'lgan lavozim egasini aniqlang.",
+   "options": [
+    "Dasturxonchi",
+    "Shig'ovul",
+    "Mehtar",
+    "Inoq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markaziy boshqaruv tizimidagi eng oliy diniy mansabni aniqlang.",
+   "options": [
+    "Qozikalon",
+    "Shayxulislom",
+    "Xojakalon",
+    "Qoziaskar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sudlov va huquq-targ'ibot ishlariga mas'ul bo'lgan lavozim egasini aniqlang.",
+   "options": [
+    "Qozikalon",
+    "Shayxulislom",
+    "Xojakalon",
+    "Qoziaskar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fiqh olimi hisoblangan lavozim egasini aniqlang.",
+   "options": [
+    "Qozikalon",
+    "Shayxulislom",
+    "Xojakalon",
+    "Qoziaskar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Harbiy ishlar qozisi hisoblangan lavozim egasini aniqlang.",
+   "options": [
+    "Qozikalon",
+    "Shayxulislom",
+    "Xojakalon",
+    "Qoziaskar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sarkor lavozimining ikkinchi nomi nima.",
+   "options": [
+    "A'lam",
+    "Mirzaboshi",
+    "Muhtasib",
+    "Muftiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rais lavozimining ikkinchi nomini aniqlang.",
+   "options": [
+    "A'lam",
+    "Mirzaboshi",
+    "Muhtasib",
+    "Muftiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xo'jand viloyatini bo'ysundirishga erishgan shaxsni aniqlang.",
+   "options": [
+    "Umarxon",
+    "Erdonaxon",
+    "Abdurimxon",
+    "Olimxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'sh va O'zganni Qo'qon xonligi tarkibiga kiritgan shaxsni aniqlang.",
+   "options": [
+    "Umarxon",
+    "Erdonaxon",
+    "Abdurimxon",
+    "Olimxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi hukmdor Toshkent bekligini Qo'qon xonligiga qo'shib oladi.",
+   "options": [
+    "Umarxon",
+    "Erdonaxon",
+    "Abdurimxon",
+    "Olimxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi hukmdor Qo'qon xonligini Qipchoq dashti yerlarining bir qismi hisobiga kengaytirgan edi.",
+   "options": [
+    "Umarxon",
+    "Muhammad Alixon",
+    "Abdurimxon",
+    "Olimxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qisqa muddatga bo'lsa-da, Qorategin, Ko'lob, Darvozni Qo'qonga bo'ysundirgan hukmdorni aniqlang.",
+   "options": [
+    "Umarxon",
+    "Muhammad Alixon",
+    "Abdurimxon",
+    "Olimxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"XVIII asr oxirlarida xonlikning hududlari hali Farg'ona vodiysidan iborat edi...\" Bu ma'lumot qaysi asardan olingan.",
+   "options": [
+    "\"Tarixi Jahonnomoy\"",
+    "\"Qo'qon xonligi tarixi\"",
+    "\"Turkiston tarixi\"",
+    "\"Turkestanskiy kray\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrning 20-yillarida Qo'qon shahrida qancha xonadon mavjud bo'lganini aniqlang.",
+   "options": [
+    "30 ming",
+    "3 ming",
+    "8 ming",
+    "22 ming"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning 50-yillarida Qo'qon shahrida qancha xonadon mavjud bo'lganini aniqlang.",
+   "options": [
+    "30 ming",
+    "3 ming",
+    "8 ming",
+    "22 ming"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrning 20-yillarida Qo'qon shahrida qancha bozor mavjud bo'lganini aniqlang.",
+   "options": [
+    "6 ta",
+    "9 ta",
+    "5 ta",
+    "4 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrning 50-yillarida Qo'qon shahrida qancha karvonsaroy mavjud bo'lganini aniqlang.",
+   "options": [
+    "6 ta",
+    "9 ta",
+    "5 ta",
+    "4 ta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning 50-yillarida Qo'qon shahrida qancha hammom mavjud bo'lganini aniqlang.",
+   "options": [
+    "6 ta",
+    "9 ta",
+    "5 ta",
+    "4 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qo'qon xonligi qayerga nisbatan besh baravar katta bo'lgan.",
+   "options": [
+    "Xiva",
+    "Istanbul",
+    "Tehron",
+    "Buxoro"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qo'qon xonligi qayerga nisbatan uch baravar katta bo'lgan.",
+   "options": [
+    "Xiva",
+    "Istanbul",
+    "Tehron",
+    "Buxoro"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'qon xonligi qayerga nisbatan to'rt baravar katta bo'lgan.",
+   "options": [
+    "Xiva",
+    "Istanbul",
+    "Tehron",
+    "Buxoro"
+   ],
+   "answer": 2
+  }
+ ]
+}

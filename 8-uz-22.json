@@ -1,0 +1,506 @@
+{
+ "title": "8-sinf · Xattotlik va minatyura",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Yozuv san'ati, kitob ko'chirish hamda me'moriy inshootlar, badiiy buyumlarning sirtlariga yozuv yozish san'ati nima deyiladi?",
+   "options": [
+    "miniatura",
+    "mozaika",
+    "xattotlik",
+    "g'azal"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Yoshligimdan xatga maylim bor edi. Uning ishqi ko'zimdan uyquni qochirar edi. Bekordan bekor yurmasdan qo'limga qalam olardim\". Ushbu fikrlar kim haqida?",
+   "options": [
+    "Mirali Tabriziy",
+    "Sultonali Mashhadiy",
+    "Abduljamil Kotib",
+    "Shamsuddin Munshiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Temuriy shahzodalardan qaysi biri xattotlik bilan shug'ullanganlar qatoriga kirmaydi?",
+   "options": [
+    "Boysung'ur Mirzo",
+    "Zahiriddin Bobur",
+    "Ibrohim ibn Shohrux",
+    "Badiuzzamon Mirzo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alisher Navoiy kutubxonasida (a) xattotlar soni va Boysung'ur Mirzo kutubxonasida (b) xattotlar sonini belgilang",
+   "options": [
+    "a) 9 ta va b) 44 ta",
+    "a) 11 ta va b) 45 ta",
+    "a) 17 ta va b) 40 ta",
+    "a) 11 ta va b) 40 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Temurnoma asari muallifi kim?",
+   "options": [
+    "Ali Yazdiy",
+    "Ibn Arabshoh",
+    "Qosim Buxoriy",
+    "xattot Oltun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sultonali Mashhadiy nimaning tozaligini ruh tozaligi deb ta'rif bergan?",
+   "options": [
+    "badan",
+    "xat",
+    "kiyim",
+    "yurt"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kamoliddin Behzod 1488-yilda qaysi asar uchun miniatura ishlaydi?",
+   "options": [
+    "Sa'diyning \"Bo'ston\" asari uchun",
+    "Ali Yazdiy \"Zafarnoma\" asari uchun",
+    "Jomiy \"Xamsa\" asari uchun",
+    "Navoiyning \"Mahbub ul-qulub\" asari uchun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Boysung'ur Mirzo Hirotda xattotlik maktabi tashkil etgan yil yana qanday voqea yuz berdi?",
+   "options": [
+    "Shohrux nabirasi Abulqosim Bobur tug'ildi",
+    "Ali Yazdiy \"Zafarnoma\" asarini yozdi",
+    "Shohrux Mirzo Xitoyga elchi yubordi",
+    "Mirzo Ulug'bek Samarqandda madrasa tashkil etdi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kamoliddin Behzod Sulton Husayn Mirzo saroyida qaysi lavozimni egallagan?",
+   "options": [
+    "Muhrdor",
+    "Kotib",
+    "Munshiy",
+    "Kitobdor"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Temuriylar davridagi miniatyuralarda Sharqiy Turkiston san'atiga xos bo'lgan turkiy obrazlarda … rassomchiligining ta'siri sezilib turgan.",
+   "options": [
+    "Hindiston",
+    "Arabiston",
+    "Mo'g'uliston",
+    "Xitoy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Miniatyura\" so'zining ma'nosi nima?",
+   "options": [
+    "\"Qizil bo'yoq\"",
+    "\"Yashil bo'yoq\"",
+    "\"Sariq bo'yoq\"",
+    "\"Zangori bo'yoq\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kamoliddin Behzod qayerdagi musavvirlar ustaxonasi bosh musavviri bo'lgan?",
+   "options": [
+    "Tabrizdagi",
+    "Hirotdagi",
+    "Balxdagi",
+    "Marvdagi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qanday rangdagi qog'ozlarga rangli siyoh bilan xat bitilgan?",
+   "options": [
+    "Xol-xol va to'q rangdagi",
+    "To'q va nimtatir rangdagi",
+    "Nimtatir va sariq rangdagi",
+    "Sariq va xol-xol rangdagi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hozir Turkiya va Berlin kutubxonalarida saqlanayotgan miniatyura nusxalari qaysi asrlarga oid?",
+   "options": [
+    "XII–XIII asrlarga",
+    "XIII–XIV asrlarga",
+    "XIV–XV asrlarga",
+    "XV–XVI asrlarga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amir Temur va temuriylar davrida qaysi shaharlarda miniatyura maktablari tashkil etilgan?",
+   "options": [
+    "Hirot, Balx",
+    "Balx, Buxoro",
+    "Buxoro, Samarqand",
+    "Samarqand, Hirot"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kamoliddin Behzodning \"Yusuf va Zulayxo\" miniatyurasi qachon yaratilgan?",
+   "options": [
+    "1488-yilda",
+    "1483-yilda",
+    "1492-yilda",
+    "1497-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur qiyofasining asl holatiga yaqin suratlar qaysi asarning dastlabki ko'chirilgan nusxalarida uchraydi?",
+   "options": [
+    "\"Zafarnoma\"",
+    "\"Tarixi jahongusho\"",
+    "\"Tabaqoti Nosiriy\"",
+    "\"Jome at-tavorix\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sultonali Mashhadiy qaysi yillarda yashagan?",
+   "options": [
+    "1430-1518-yillarda",
+    "1432-1520-yillarda",
+    "1434-1522-yillarda",
+    "1437-1525-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kamoliddin Behzodning Ali Yazdiyning \"Zafarnoma\" asariga chizgan nechta miniatyurasi Milliy kutubxonada saqlanadi?",
+   "options": [
+    "4 ta miniatyurasi",
+    "6 ta miniatyurasi",
+    "8 ta miniatyurasi",
+    "10 ta miniatyurasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kamoliddin Behzod qayerda vafot etgan?",
+   "options": [
+    "Tabriz",
+    "Hirot",
+    "Balx",
+    "Marv"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kamoliddin Behzodning miniatyuralari Chester Beytining qayerdagi kutubxonasida saqlanadi?",
+   "options": [
+    "London",
+    "Nyu York",
+    "Liverpul",
+    "Vashington"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Kalligrafiya\" nima?",
+   "options": [
+    "Xattotlik",
+    "Lavvohlik",
+    "Sahhoflik",
+    "Naqqoshlik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qanday nom bilan ataluvchi qog'ozning kerakli rangdagisini olish uchun unga za'faron, xina va bir necha tomchi siyoh qo'shilgan?",
+   "options": [
+    "\"Samarqand qog'oz\"",
+    "\"Sultoniy qog'oz\"",
+    "\"Xitoyi qog'oz\"",
+    "\"Xuroson qog'oz\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kamoliddin Behzodning eng mashhur \"Yusuf va Zulayxo\" miniatyurasi kimning qaysi asari uchun tayyorlangan?",
+   "options": [
+    "Alisher Navoiyning \"Majolis un-nafois\" asari uchun",
+    "Xusrav Dehlaviyning \"Matla' ul-anvor\" asari uchun",
+    "Sa'diy Sheroziyning \"Bo'ston\" asari uchun",
+    "Abdurahmon Jomiyning \"Haft avrang\" asari uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kim \"Qiblat ul-kuttob\" (Kotiblar qiblasi) va \"Sulton ul-xattotin\" (Xattotlar sultoni) kabi faxriy nomlar bilan mashhur bo'lgan?",
+   "options": [
+    "Abduljamil Kotib",
+    "Mavlono Shamsuddin Munshiy",
+    "Darvesh Muhammad Toqiy",
+    "Sultonali Mashhadiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kamoliddin Behzodning shaxs sifatida dunyoqarashi shakllanishida kimning o'rni katta bo'lgan?",
+   "options": [
+    "Xusrav Dehlaviy",
+    "Abdurahmon Jomiy",
+    "Alisher Navoiy",
+    "Nizomiy Ganjaviy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kim \"Yoshlikdan xatga maylim bor edi. Uning ishqi ko'zimdan uyquni qochirardi. Bekordan bekor yurmasdan, qo'limga qalam olardim. Ertalabdan kechgacha mashq qilar edim, shuning uchun menda na yotish va na yeyishning g'ami bor edi\" mazmunida she'r bitgan?",
+   "options": [
+    "Abduljamil Kotib",
+    "Mavlono Shamsuddin Munshiy",
+    "Darvesh Muhammad Toqiy",
+    "Sultonali Mashhadiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi temuriy shahzodalar xat san'ati bilan shug'ullanishgan? 1) Ibrohim ibn Shohrux 2) Boysung'ur Mirzo 3) Pirmuhammad Sulton 4) Badiuzzamon Mirzo",
+   "options": [
+    "1, 2, 3",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yildan keyin Boysung'ur Mirzo Hirotda xattotlik va naqqoshlik ustaxonasi tashkil qilgan?",
+   "options": [
+    "1410-yildan keyin",
+    "1415-yildan keyin",
+    "1420-yildan keyin",
+    "1425-yildan keyin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'rta asrlarda necha xil asosiy xat uslublari mavjud bo'lgan?",
+   "options": [
+    "10 xil",
+    "11 xil",
+    "12 xil",
+    "13 xil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Xat tozaligi ruh tozaligidir\". Ushbu jumlalar muallifi kim?",
+   "options": [
+    "Abduljamil Kotib",
+    "Mavlono Shamsuddin Munshiy",
+    "Darvesh Muhammad Toqiy",
+    "Sultonali Mashhadiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sharq manbalarida qaysi rangga bo'yalgan qog'oz motamni anglatgan?",
+   "options": [
+    "Ko'k rang",
+    "Qizil rang",
+    "Sariq rang",
+    "Yashil rang"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi temuriy shahzoda o'z saroyida 40 xattotdan iborat guruhni to'plagan edi?",
+   "options": [
+    "Ibrohim ibn Shohrux",
+    "Pirmuhammad Sulton",
+    "Mirzo Boysung'ur",
+    "Badiuzzamon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alisher Navoiyning shaxsiy kutubxonasida nechta yirik san'atkor xattotlikda samarali ijod qilgan?",
+   "options": [
+    "11 nafar",
+    "13 nafar",
+    "16 nafar",
+    "18 nafar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sultonali Mashhadiy nima uchun oq qog'ozga emas, balki nimtatir rang berilgan qog'ozga yozishni maslahat bergan?",
+   "options": [
+    "Xat sifatli chiqishi uchun",
+    "Ko'z charchamasligi uchun",
+    "Siyoh yaxshi singishi uchun",
+    "Ranglar yorqinroq bo'lishi uchun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sharq manbalarida qaysi rangga bo'yalgan qog'oz bayram kayfiyatini anglatgan?",
+   "options": [
+    "Ko'k rang",
+    "Qizil rang",
+    "Sariq rang",
+    "Yashil rang"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kamoliddin Behzod qayerda tug'ilgan?",
+   "options": [
+    "Tabriz",
+    "Hirot",
+    "Balx",
+    "Marv"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kim Nizomiyning \"Maxzan ul-asror\" masnaviysini, Hofizning devonini, Alisher Navoiyning g'azaliyot devonini kitob shakliga keltirgan?",
+   "options": [
+    "Abduljamil Kotib",
+    "Mavlono Shamsuddin Munshiy",
+    "Darvesh Muhammad Toqiy",
+    "Sultonali Mashhadiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Temuriylar faoliyati bilan bog'liq holda, Osiyoning qaysi markaziy shaharlarida bir necha miniatyura maktablari vujudga kelgan? 1) Bag'dod 2) Sheroz 3) Tabriz 4) Hirot 5) Samarqand 6) Dehli",
+   "options": [
+    "1, 2, 3, 4, 5, 6",
+    "2, 3, 4, 5",
+    "1, 2, 3, 4",
+    "2, 3, 4, 5, 6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Zafarnoma\" asaridagi miniatyuralarni dastlab … boshlagan va … yakunlagan.",
+   "options": [
+    "Mahmud Muzahhib/Mirak Naqqosh",
+    "Mirak Naqqosh/Behzod",
+    "Behzod/Sultonali Mashhadiy",
+    "Sultonali Mashhadiy/Mahmud Muzahhib"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kamoliddin Behzod qaysi temuriy hukmdor rassomi bo'lgan?",
+   "options": [
+    "Mirzo Ulug'bek",
+    "Sulton Husayn Mirzo",
+    "Abu Said Mirzo",
+    "Abulqosim Bobur"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur davrida ijod qilgan sangtarosh va xattotni toping.",
+   "options": [
+    "Mavlono Shamsuddin Munshiy",
+    "Oltun",
+    "Abduljamil Kotib",
+    "Darvesh Muhammad Toqiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Miniatyura rassomchiligining taraqqiyoti qaysi sohaning rivoji bilan bog'liq bo'lgan?",
+   "options": [
+    "Binokorlik",
+    "Tasviriy san'at",
+    "Adabiyot",
+    "Naqqoshlik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sultonali Mashhadiyning so'zlariga qaraganda, qog'ozga qaysi rangni berish uchun za'faron ishlatilgan?",
+   "options": [
+    "Xol-xol rang",
+    "To'q rang",
+    "Och sariq (nimtatir) rang",
+    "Zangori rang"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sultonali Mashhadiy ko'chirgan qancha asar bizgacha yetib kelgan?",
+   "options": [
+    "30 ta asar",
+    "40 ta asar",
+    "50 ta asar",
+    "60 ta asar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan kimlar Alisher Navoiyning shaxsiy kutubxonasida xattotlik qilganlar? 1) Sultonali Mashhadiy 2) Mavlono Shamsuddin Munshiy 3) Abduljamil Kotib 4) Oltun 5) Darvesh Muhammad Toqiy",
+   "options": [
+    "2, 3, 4",
+    "2, 4, 5",
+    "1, 2, 3",
+    "1, 3, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sultonali Mashhadiy kimning taklifi bilan Mashhaddan Hirotga kelib, Sulton Husayn Mirzo kutubxonasida xattotlarga boshchilik qilgan?",
+   "options": [
+    "Sulton Husayn Mirzo",
+    "Alisher Navoiy",
+    "Mirzo Boysung'ur",
+    "Mo'min Mirzo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kamoliddin Behzodning yashagan yillarini toping.",
+   "options": [
+    "1455–1535-yillar",
+    "1451–1531-yillar",
+    "1460–1540-yillar",
+    "1462–1542-yillar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sultonali Mashhadiyning faoliyati borasida Navoiy qaysi asarida ma'lumot berib o'tgan?",
+   "options": [
+    "\"Mahbub ul-qulub\"",
+    "\"Mezon ul-avzon\"",
+    "\"Majolis un-nafois\"",
+    "\"Munojot\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amir Temur davrida qaysi xattotlar mashhur bo'lgan?",
+   "options": [
+    "Sultonali Mashhadiy, Abduljamil Kotib",
+    "Abduljamil Kotib, Mavlono Shamsuddin Munshiy",
+    "Mavlono Shamsuddin Munshiy, Oltun",
+    "Oltun, Sultonali Mashhadiy"
+   ],
+   "answer": 2
+  }
+ ]
+}

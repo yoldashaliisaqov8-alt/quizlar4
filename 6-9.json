@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 9-mavzu. Piramidalar va daxmalar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qadimgi va O'rta podsholiklar davrida barpo etilgan ulkan piramidalar nima vazifani bajargan?",
+   "options": [
+    "Ibodatxonalar bo'lgan",
+    "Don omborlari bo'lgan",
+    "Rasadxonalar bo'lgan",
+    "Fir'avnlar dafn etiladigan joy – maqbaralar bo'lgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Hamma narsa vaqtdan qo'rqadi, vaqt esa piramidalardan!” iborasi nimani anglatadi?",
+   "options": [
+    "Piramidalar kohinlar uchun qurilgan",
+    "Piramidalar juda tez qurilgan",
+    "Piramidalar ichida vaqt o'lchanadigan soatlar bo'lgan",
+    "Piramidalar to'rt ming yildan oshiq vaqt davomida o'zgarmasdan saqlanib turibdi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Eng mashhur piramidalar qaysi shahar yaqinida joylashgan?",
+   "options": [
+    "Assuan",
+    "Geliopol",
+    "Fiva",
+    "Memfis"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Memfis yaqinidagi mashhur piramidalar qaysi fir'avnlar uchun bunyod etilgan?",
+   "options": [
+    "Menes, Yaxmos va Tutmos",
+    "Xufu, Xafra va Menkaura",
+    "Tutanxamon, Xufu va Menes",
+    "Tutmos II, Tutmos III va Yaxmos"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Memfis yaqinidagi piramidalar qanday maqomga ega?",
+   "options": [
+    "Butunlay vayron bo'lgan",
+    "Jahonning yetti mo'jizasidan biri hisoblanib, hozirgacha saqlanib qolgan",
+    "Yangi podsholik davrida qurilgan",
+    "Faqat Misrning ramzi hisoblanadi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eng katta piramida kim uchun qurilgan?",
+   "options": [
+    "Menkaura uchun",
+    "Xafra uchun",
+    "Tutanxamon uchun",
+    "Xufu (Xeops) uchun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fir'avn Xufuni yunonlar qanday atashgan?",
+   "options": [
+    "Sfinks",
+    "Menes",
+    "Apis",
+    "Xeops"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xeops piramidasi qachon qurilgan?",
+   "options": [
+    "Mil. avv. 3000-yilda",
+    "Mil. avv. XVIII asrda",
+    "Mil. avv. 525-yilda",
+    "Mil. avv. 2600-yil atrofida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xeops piramidasining balandligi qancha bo'lgan?",
+   "options": [
+    "250 metr",
+    "20 metr",
+    "100 metr",
+    "147 metr"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xeops piramidasi qancha tosh bo'lagidan tashkil topgan?",
+   "options": [
+    "2,5 million dona",
+    "250 ming dona",
+    "5 million dona",
+    "1 million dona"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xeops piramidasidagi har bir tosh bo'lagining og'irligi qancha bo'lgan?",
+   "options": [
+    "Ikki tonnadan og'irroq",
+    "100 kilogramm",
+    "O'n tonnadan ortiq",
+    "Yarim tonna"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Piramida toshlari orasidagi yoriq qanchadan oshmaydi?",
+   "options": [
+    "1 santimetrdan",
+    "0,5 millimetrdan",
+    "2 millimetrdan",
+    "5 millimetrdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xeops piramidasiga oid to'g'ri ma'lumotlarni aniqlang.\n1) mil. avv. 2600-yil atrofida qurilgan; 2) balandligi 147 metr; 3) Fiva yaqinida joylashgan; 4) 2,5 million tosh bo'lagidan iborat; 5) Yangi podsholik davrida qurilgan.",
+   "options": [
+    "2, 4, 5",
+    "1, 2, 4",
+    "1, 3, 5",
+    "2, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Piramida ichida fir'avnning mumiyolangan jasadi solingan toshtobut qanday ataladi?",
+   "options": [
+    "Sfinks",
+    "Papirus",
+    "Sarkofag",
+    "Obelisk"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Daxmalar ichi qanday bitiklar bilan qoplangan?",
+   "options": [
+    "Fir'avnning urushlari haqidagi hikoyalar bilan",
+    "Soliq ro'yxatlari bilan",
+    "Fir'avnni himoya qilishi va o'zga hayotga o'tishda yordam berishi kerak bo'lgan munojot va qarg'ishlar bilan",
+    "Qonunlar to'plami bilan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sfinks qanday haykal?",
+   "options": [
+    "Tanasi sherniki, boshi odamniki bo'lgan ulkan haykal",
+    "Boshi qirg'iy, tanasi odamniki bo'lgan haykal",
+    "Qora ho'kiz haykali",
+    "Fir'avnning oltin haykali"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Sahro shohi” – sfinks haykalining balandligi qancha?",
+   "options": [
+    "147 metr",
+    "20 metr",
+    "50 metr",
+    "10 metr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sfinks haykali qanday vazifani bajargan?",
+   "options": [
+    "Ibodatxona darvozasi bo'lgan",
+    "Nil toshqinini o'lchagan",
+    "Piramidalarni qo'riqlagan",
+    "Fir'avn saroyini bezagan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi podsholik davriga kelib fir'avnlarni dafn etishda qanday o'zgarish yuz berdi?",
+   "options": [
+    "Piramidalar yanada balandroq qurildi",
+    "Fir'avnlar ibodatxonalarga dafn etila boshlandi",
+    "Fir'avnlar mumiyolanmay qo'ydi",
+    "Piramidalar qurilmay, fir'avnlar tog'larga o'yilgan tosh maqbaralarga dafn etildi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yangi podsholik davrida fir'avnlar uchun maqbaralar qurilgan joy qanday ataladi?",
+   "options": [
+    "Nil deltasi",
+    "Shohlar vodiysi",
+    "Sinay yarimoroli",
+    "Piramidalar vodiysi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yangi podsholik davrining eng mashhur maqbarasi qaysi fir'avnga tegishli?",
+   "options": [
+    "Tutanxamon",
+    "Yaxmos",
+    "Xufu",
+    "Menes"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qadimgi misrliklar inson vafot etganidan keyin nima bo'ladi deb hisoblagan?",
+   "options": [
+    "Hayvonga aylanadi",
+    "Yulduzga aylanadi",
+    "Butunlay yo'q bo'lib ketadi",
+    "Marhumlar saltanatiga ketib, o'sha yerda umrini davom ettiradi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Misrliklar fikricha, marhumlar saltanatidagi hayot nimaga bog'liq bo'lgan?",
+   "options": [
+    "Kohinlar duosiga",
+    "Fir'avnning farmoniga",
+    "Qabrning kattaligiga",
+    "Osiris sudining natijalariga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Osiris sudida tarozining pallalariga nimalar qo'yilgan?",
+   "options": [
+    "Bir pallasiga don, boshqasiga suv",
+    "Bir pallasiga marhumning yuragi, boshqasiga qush patlari",
+    "Bir pallasiga yurak, boshqasiga papirus",
+    "Bir pallasiga oltin, boshqasiga tosh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Osiris sudida tarozi pallalari tenglashsa, bu nimani anglatgan?",
+   "options": [
+    "Inson bu dunyoda faqat ezgu ishlar qilgan va ajoyib sharoitda umrini davom ettiradi",
+    "Inson qayta tirilmaydi",
+    "Inson fir'avn bo'ladi",
+    "Inson ko'p gunoh qilgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nima uchun misrliklar inson jasadini mumiyolagan?",
+   "options": [
+    "Kasallik tarqalmasligi uchun",
+    "Jasadni muzeyda saqlash uchun",
+    "Jasadni boshqa shaharga olib ketish uchun",
+    "Osiris qarshisida go'zal qiyofada qad rostlash uchun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mumiyolashga oid to'g'ri ma'lumotlarni aniqlang.\n1) kohin-tabiblar shug'ullangan; 2) qariyb 70 kun davom etgan; 3) barcha misrliklar mumiyolangan; 4) mato qatlari orasiga tumorlar qo'yilgan; 5) faqat fir'avnlar mumiyolangan.",
+   "options": [
+    "1, 3, 5",
+    "2, 3, 4",
+    "1, 2, 4",
+    "2, 4, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nObyekt | Ma'lumot\nXeops piramidasining balandligi | 1) ________\nSfinks haykalining balandligi | 2) ________\nMumiyolash davomiyligi | 3) ________\na) 147 metr; b) 20 metr; c) qariyb 70 kun; d) 2600 metr; e) 40 kun; f) 70 metr.",
+   "options": [
+    "1-a, 2-f, 3-c",
+    "1-a, 2-b, 3-e",
+    "1-a, 2-b, 3-c",
+    "1-f, 2-b, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nDavr | Dafn joyi | Fir'avn\nQadimgi podsholik | A | Xufu (Xeops)\nYangi podsholik | tog'larga o'yilgan tosh maqbara | B\nQadimgi podsholik | Memfis yaqinidagi piramida | C\n1) piramida; 2) Tutanxamon; 3) Menkaura; 4) ibodatxona; 5) Menes; 6) Yaxmos.",
+   "options": [
+    "A-1, B-2, C-3",
+    "A-1, B-2, C-5",
+    "A-1, B-6, C-3",
+    "A-4, B-2, C-3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Piramidalar va daxmalarga oid to'g'ri hukmlarni aniqlang.\nI. Eng katta piramida Xufu uchun qurilgan.\nII. Yangi podsholik davrida yanada katta piramidalar qurilgan.\nIII. Sfinksning tanasi sherniki, boshi odamniki.\nIV. Mumiyolash bilan fir'avnning o'zi shug'ullangan.",
+   "options": [
+    "III va IV",
+    "I va II",
+    "I va III",
+    "II va IV"
+   ],
+   "answer": 2
+  }
+ ]
+}

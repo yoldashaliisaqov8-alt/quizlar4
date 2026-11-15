@@ -1,0 +1,236 @@
+{
+ "title": "7-sinf · VII–VIII asr boshlarida Turonda siyosiy vaziyat",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Eron xalqining tinkasini quritgan omillar muvofiq berilgan javobni aniqlang. 1) Sosoniylarning turkiylar bilan bo'lgan tinimsiz to'qnashuvlari 2) Sosoniylarning o'zaro ichki nizolari 3) Sosoniylarning eftaliylar bilan bo'lgan tinimsiz to'qnashuvlari 4) Sosoniylarning vizantiyaliklar bilan bo'lgan tinimsiz to'qnashuvlari",
+   "options": [
+    "1, 3, 4",
+    "1, 2, 4",
+    "1, 2, 4 (takror)",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mahalliy hukmdorlar arablarga qarshi kurashda markazga yordam berishdan bosh tortishi natijasida qanday voqea ro'y berganligini aniqlang.",
+   "options": [
+    "Sug'd va Toxariston mulklarga bo'linib ketdi",
+    "Sosoniylar saltanati quladi",
+    "Turk xoqonligi ikkita mustaqil davlatga bo'linib ketdi",
+    "Eftallar imperiyasi quladi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'z davrining qudratli davlatlaridan biri sanalgan Sosoniylar Eroni Arab xalifaligi qo'shinlari tomonidan zabt etilgach istilochilarga yo'l ochilgan hudud muvofiq berilgan javobni aniqlang.",
+   "options": [
+    "Xuroson",
+    "Movarounnahr",
+    "Ispaniya",
+    "Afg'oniston"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Turon shaharlari orasida birinchi bo'lib arab istilochilari tomonidan egallangan shahar muvofiq berilgan javobni aniqlang.",
+   "options": [
+    "Balx",
+    "Marv",
+    "Buxoro",
+    "Termiz"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Arablar istilosiga qadar O'rta Osiyo hududidagi mahalliy hokimliklar qaysi davlat vassali bo'lganligini muvofiq berilgan javobni aniqlang.",
+   "options": [
+    "G'arbiy turk xoqonligi",
+    "Suy imperiyasi",
+    "Sharqiy turk xoqonligi",
+    "Eron Sosoniylari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi davlat Sug'd va Toxariston mulklarga, Choch va Iloq xoqonlik vassalligidagi yarim mustaqil mulklarga, Farg'ona kabi hokimliklarga bo'linib ketgan edi.",
+   "options": [
+    "G'arbiy turk xoqonligi",
+    "Suy imperiyasi",
+    "Sharqiy turk xoqonligi",
+    "Eron Sosoniylari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yarim mustaqil mulklar sifatida o'z hokimlari tomonidan boshqarilgan hududlar muvofiq ko'rsatilgan javobni aniqlang.",
+   "options": [
+    "Xuttalon, Sug'd, Badaxshon",
+    "Darvoz, Choch, Rasht",
+    "Ustrushona, Chag'oniyon",
+    "Kabodiyon, Toxariston"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan jangovar turkiylar qatori nomuvofiq berilgan javobni aniqlang.",
+   "options": [
+    "Chag'oniyon, Choch",
+    "Balx, Xuttalon",
+    "Ustrushona, Sug'd",
+    "Choch, Iloq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi davlatda Arab qo'shinlari turkiy sulola boshqarayotgan chegaralariga chiqganligini to'g'ri berilgan javobni aniqlang.",
+   "options": [
+    "Toxariston",
+    "Marv",
+    "Chag'oniyon",
+    "Ustrushona"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Arablarga qarshi fors, turk va sug'd qo'shinlari ittifoqi harakat qilib, qaysi shaharni qaytarib oldilar.",
+   "options": [
+    "Balx",
+    "Xorazm",
+    "Buxoro",
+    "Marv"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sosoniy amaldorlar turklar bilan birlashish rejasiga qarshi chiqib, turklarni «azaliy raqib» ekani bahonasida kimlar bilan kelishishni afzal ko'rganlar.",
+   "options": [
+    "eftaliylar",
+    "hindlar",
+    "saljuqiylar",
+    "arablar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Turklarning qaysi hududni tashlab chiqishi, istilochilarning Movarounnahrga yurish imkoniyatini oshirgan javobni aniqlang.",
+   "options": [
+    "Marv",
+    "Balx",
+    "Xuroson",
+    "Eron"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "G'arbiy turklarni ikki frontda kurash olib borishga majbur qilgan omil to'g'ri berilgan javobni aniqlang.",
+   "options": [
+    "Tan imperiyasining G'arbiy Turk xoqonligiga hujumlari",
+    "Sun imperiyasining Sharqiy Turk xoqonligiga hujumlari",
+    "Arab xalifaligining G'arbiy Turk xoqonligiga hujumlari",
+    "O'zaro ichki ziddiyatlar natijasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi davlat kuchli markazlashgan hokimiyati yo'q bo'lib, o'lka bir necha mulklardan tashkil topgan konfederatsiyaga birlashib turganligini davlat muvofiq berilgan javobni toping.",
+   "options": [
+    "Eron Sosoniylari",
+    "Suy imperiyasi",
+    "Sharqiy turk xoqonligi",
+    "G'arbiy turk xoqonligi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Arablarning harbiy yurishlarini tezlashtirishiga sabab bo'lgan omil muvofiq berilgan javobni aniqlang.",
+   "options": [
+    "G'arbiy Turk xoqonligidagi siyosiy vaziyatning yomonlashuvi",
+    "Turk xoqonligidagi siyosiy vaziyatning yomonlashuvi",
+    "Turon mulkliklari va G'arbiy Turk xoqonligidagi siyosiy vaziyatning yomonlashuvi",
+    "Sosoniylar Eroni Arab xalifaligi qo'shinlari tomonidan zabt etilishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi ma'lumotlardan Xuroson deb atalgan geografik hududning chegaralariga muvofiq keluvchi javobni toping. I. Afg'onistonning shimoli II. Turkistonning sharqiy qismi III. Eronning shimoli-sharqiy IV. O'zbekiston janubi V. Janubiy Turkmanistondan to Amudaryogacha",
+   "options": [
+    "I, II, III, IV, V",
+    "I, III, V",
+    "II, IV, V",
+    "II, III, IV, V"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Arab qo'mondonlari qaysi davlatlar bilan bo'lgan urushlar tajribasi asosida avval Movarounnahrdagi vaziyatni o'rgandilar?",
+   "options": [
+    "Vizantiya va Eron",
+    "Turk xoqonligi va Eron",
+    "Vizantiya va Turk xoqonligi",
+    "Vizantiya va Rim imperiyasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi javoblarni toping. Movarounnahrga ilk bor hujumlar: 654-yilda - Maymurg' 667-yilda - ….. 673-yilning kuzida - Amudaryodan kechib o'tib, Buxoro hududiga bostirib kiradi",
+   "options": [
+    "Termiz",
+    "Toxariston",
+    "Chag'oniyon",
+    "Naxshab"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muhammad ibn Ja'farning bayon qilishicha, Ubaydulloh ibn Ziyod qaysi xalifa tomonidan Xurosonga yuborilib, u Jayhun (Amudaryo) daryosidan o'tib Buxoroga kelgan vaqtida Buxoro podshohi, o'g'li Tag'shoda kichik yoshli bo'lgani tufayli, bir xotin kishi edi.",
+   "options": [
+    "Umar ibn Abdulaziz",
+    "Muoviya I",
+    "Qutayba ibn Muslim",
+    "Marvon Muhammad"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi hududda islom dinining kirib kelishi va tarqalishi bevosita arab istilolari va arablarning ko'p asrlik hukmronligi muvofiq berilgan javobni aniqlang.",
+   "options": [
+    "Sharqiy Osiyo",
+    "Turon",
+    "Sibir",
+    "Xitoy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qutayba ibn Muslim qachondan boshlab xalifasi Abdurahmon ibn Marvon Xurosonga noib etib yuboradi.",
+   "options": [
+    "704-yil",
+    "705-yil",
+    "710-yil",
+    "714-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi javoblarni toping. Buyuk ipak yo'lining asosiy yo'nalishi, Xitoydan – Sug'dga, Eron – ...",
+   "options": [
+    "Kichik Osiyo",
+    "Pireney yarim oroli",
+    "O'rta dengiz",
+    "Janubiy Osiyo"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Arab istilochilar qancha muddat davomida uni juda katta kuch, mablag' va talafotlar evaziga qo'lga kiritdilar.",
+   "options": [
+    "uch yuz yil",
+    "besh yuz yil",
+    "ikki yuz yil",
+    "yuz yil"
+   ],
+   "answer": 3
+  }
+ ]
+}

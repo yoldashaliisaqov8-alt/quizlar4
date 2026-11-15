@@ -1,0 +1,466 @@
+{
+ "title": "7-sinf · G'aznaviylar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi to'g'ri javoblarni aniqlang. \"Turkiy sarkardalarning xizmatlari evaziga ... amirlari aksariyat iqtidorli lashkarboshilarni «hojib ul-hujob» yoki «hojib ul-buzruk» kabi oliy harbiy mansablarga tayinladi.\"",
+   "options": [
+    "safforiylar",
+    "somoniylar",
+    "tohiriylar",
+    "g'aznaviy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlardan faqat to'g'risini toping. I. 963–964-yillarda G'azna viloyatini Alptegin noib va lashkar amiri sifatida boshqargan II. G'azna shahri davlat poytaxti bo'ldi III. Imperiya nomi saltanatning poytaxti G'azna shahri nomidan olingan IV. G'aznaviylarning siyosiy nufuzi Sabuktegin davrida ortgan",
+   "options": [
+    "I va II",
+    "II va III",
+    "I va III",
+    "II va IV"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "G'aznaviylarning birinchi hukmdoriga oid to'g'ri ma'lumotni toping.",
+   "options": [
+    "G'aznaviylarning siyosiy nufuzi uning davrida ortib ketgan",
+    "u Abbosiylar xalifasini rasman tan olgan",
+    "uning davrida davlat hududi kengaydi",
+    "U G'azna va Kobul viloyatlarini mustaqil idora etishga intilgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlardan G'azna shahriga oid faqat to'g'rilarini belgilang. I. Afg'onistonning janubi-g'arbiy qismidagi shahar II. Metallsozlikning qadimiy markazlaridan III. Jun, mo'yna, qalpoq bilan savdo qilingan IV. G'azni daryosi bo'yida joylashgan",
+   "options": [
+    "I va II",
+    "II va III",
+    "III va IV",
+    "II va IV"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "G'aznaviylarning siyosiy nufuzi kimning davrida ortgan?",
+   "options": [
+    "Alptegin",
+    "Sabuktegin",
+    "Mahmud",
+    "Ma'sud"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi ta'rif kim haqida ekanligini toping. \"asli Sirdaryo bo'ylarida yashagan barsxon turkiy qabilasiga mansub bo'lib, yoshligida asir olinib, so'ngra qul qilib sotilgan edi.\"",
+   "options": [
+    "Alptegin",
+    "Sabuktegin",
+    "Mahmud",
+    "Ma'sud"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Somoniy Sabukteginni o'z qaramog'iga olgan hukmdorning hukmronlik yillarini toping.",
+   "options": [
+    "962–963-yil",
+    "977–997-yil",
+    "997-1030-yil",
+    "1030-1040-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "«Nosiriddin ad-davla» (Davlat va din himoyachisi) nomiga sazovor bo'lgan hukmdor o'rta asrlarda qaysi davlatga rahbarlik qilgan?",
+   "options": [
+    "Somoniylar",
+    "Safforiylar",
+    "Tohiriylar",
+    "G'aznaviylar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilardan tarixiy haqiqatga nomuvofiq bo'lmagan variantni toping.",
+   "options": [
+    "Sabuktegin Alpteginning o'g'li",
+    "Alptegin Sabukteginning o'g'li",
+    "Mahmud Sabukteginning o'g'li",
+    "Sabuktegin Mahmudning o'g'li"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida berilgan qaysi G'aznaviy hukmdorning davrida davlat hududi nihoyatda kengayib ketadi? 1. Alptegin 2. Sabuktegin 3. Mahmud 4. Ma'sud",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mahmud G'aznaviy ...ni butkul Somoniylar davlatidan ajratib oldi. Nuqtalar o'rniga quyida berilgan hudud(lar)dan mos bo'lgan javobni qo'ying. 1) Movarounnahr 2) Xuroson 3) Xorazm",
+   "options": [
+    "1, 2, 3",
+    "1, 2",
+    "faqat 1",
+    "faqat 2"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mahmud G'aznaviyga «Yamin ud-davla va amin ul-milla» («Musulmon davlatining o'ng qo'li va millatning omonligi») degan faxriy unvonni bergan shaxs qayerning hukmdori bo'lgan.",
+   "options": [
+    "Xuroson",
+    "Damashq",
+    "Arabiston",
+    "Bog'dod"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mahmud G'aznaviy hukmdorligi davrida Arab xalifaligida qaysi sulola vakillari turgan edi?",
+   "options": [
+    "Umaviylar",
+    "Abbosiylar",
+    "Usmoniylar",
+    "Sunniylar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "G'aznaviylar davlatining to'liq mustaqilligidan darak bergan voqea berilgan javobni toping.",
+   "options": [
+    "Bog'dod xalifasi unga Xuroson hokimligiga yorliq, bayroq va nog'ora yuborgani",
+    "Mahmud G'aznaviy Abbosiylar xalifasini rasman tan olib, uni payg'ambar avlodi sifatida qadrlagani",
+    "Bag'dod xalifasi Mahmud G'aznaviyga «Yamin ud-davla va amin ul-milla» unvonini bergani",
+    "Mahmud G'aznaviy davrida davlat hududi kengaygani"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Uning davrida G'aznaviylar davlati Sharqning eng qudratli davlatlaridan biriga aylangan.\" Yuqoridagi ma'lumot qaysi G'aznaviy hukmdorga tegishli ekanligini toping.",
+   "options": [
+    "Alptegin",
+    "Sabuktegin",
+    "Mahmud",
+    "Ma'sud"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1006-1008-yillarda qoraxoniylar qayer(lar)ga bostirib kirganligini toping. 1) Xuroson 2) Movarounnahr 3) Xorazm 4) Sharqiy Turkiston",
+   "options": [
+    "1, 2, 3, 4",
+    "2, 3, 4",
+    "faqat 1",
+    "faqat 2"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi G'aznaviy hukmdor Xurosonda qoraxoniylarni haydab chiqargan.",
+   "options": [
+    "Alptegin",
+    "Sabuktegin",
+    "Mahmud",
+    "Ma'sud"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi hukmdorga 1017-yilda suiqasd uyushtirilgan?",
+   "options": [
+    "Malikshoh ibn malikshohga",
+    "Ma'mun ibn Ma'munga",
+    "Kayxusrav ibn Siyovush",
+    "Qutbiddin ibn Anushtegin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"sherning erkagigina emas, urg'ochisi ham xavflidir.\" Yuqoridagi jumlaning muallifi qayerda hukmronlik qilgan?",
+   "options": [
+    "Nishopur",
+    "Ray",
+    "Marv",
+    "Balx"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1017-yilning bahorida Mahmud G'aznaviyning Xorazm davlati bilan bo'lgan jangi qaysi shaharda bo'lganligini toping.",
+   "options": [
+    "Hazorasp",
+    "Xiva",
+    "Kat",
+    "Amudaryo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Xorazmdan ko'plab boyliklar bilan birga, fan va madaniyat arboblari ham G'aznaga ko'chirib keltiriladi. Ular orasida buyuk olim ... ham bor edi.\" Yuqoridagi ma'lumotlarni tahlil qilgan holda, nuqtalar o'rniga mos javobni qo'ying?",
+   "options": [
+    "Abu Ali ibn Sino",
+    "Abu Rayhon Beruniy",
+    "Abdulqosim Firdavsiy",
+    "Abu Nasr Farobiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorazmga noib etib tayinlangan shaxsning sobiq lavozimi to'g'ri berilgan javobni toping.",
+   "options": [
+    "bosh vazir",
+    "bosh hojib",
+    "bosh tabib",
+    "bosh sarkarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mahmud G'aznaviy Xurosonga bostirib kirgan qaysi sulolani haydab chiqargan?",
+   "options": [
+    "qoraxitoyliklar",
+    "qoraxoniylar",
+    "qarluqlar",
+    "qipchoqlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mahmud G'aznaviy ...ga tegishli bo'lgan Amudaryo bo'ylariga yurish qilgan. Nuqtalar o'rniga mos javobni aniqlang.",
+   "options": [
+    "qarluqlar",
+    "qoraxoniylar",
+    "qipchoqlar",
+    "qoraxitoyliklar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mahmud G'aznaviy Amudaryo bo'ylariga yurish qilib egallangan viloyatlariga nomuvofiq bo'lgan javobni belgilang?",
+   "options": [
+    "Chag'oniyon",
+    "Qobodiyon",
+    "Xuttalon",
+    "Balx"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mahmud G'aznaviy Erondagi qaysi viloyatlarni egallaganligini toping. 1) Ray 2) Tehron 3) Halab 4) Tabriz 5) Jilob",
+   "options": [
+    "1, 2, 3, 4, 5",
+    "1, 3, 5",
+    "2, 4",
+    "1, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi ta'rif kim haqida ekanligini toping. \"o'z davrining yetuk sarkardasi bo'lib, murakkab va ziddiyatli vaziyat, qarama-qarshiliklarga boy bo'lgan chog'larda hukmdorlik qilgan.\"",
+   "options": [
+    "Alptegin",
+    "Sabuktegin",
+    "Mahmud",
+    "Ma'sud"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ray va Jilob viloyatlari joylashgan hududda qaysi sulola hukmronlik qilgan.",
+   "options": [
+    "Anushteginiylar",
+    "Afrig'iylar",
+    "Somoniylar",
+    "Sosoniylar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Sherning erkagigina emas, urg'ochisi ham xavflidir.\" Yuqoridagi jumlaning muallifini toping.",
+   "options": [
+    "Majdiddin Davlo",
+    "Sayida Xotun",
+    "Faxriddin Davlo",
+    "Mahmud G'aznaviy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Sherning erkagigina emas, urg'ochisi ham xavflidir.\" Yuqoridagi jumlaning muallifi necha yil hukmronlik qilgan?",
+   "options": [
+    "15 yil",
+    "25 yil",
+    "19 yil",
+    "29 yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buqaning boshi shaklidagi burunli idish qaysi sulola hukmronlik qilgan davrga oid?",
+   "options": [
+    "Somoniylar",
+    "Qoraxoniylar",
+    "G'aznaviylar",
+    "Safforiylar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"U G'aznada ilk davlat madrasasini ochib, unga noyob qo'lyozmalarni to'platgan. Bundan tashqari jome masjidi, ulkan suv to'g'oni va yana necha-necha inshootlar barpo ettiradi.\" Yuqoridagi ma'lumotlarni tahlil qilib, kim haqida ekanligini aniqlang.",
+   "options": [
+    "Mahmud G'aznaviy",
+    "Sabuktegin",
+    "Alisher Navoiy",
+    "Firdavsiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi bandlar mazmuniga oid yakuniy hukmni aniqlang. I. Abu Rayhon Beruniy G'azna haqida gapirganda, bu shaharda hashamatli saroylar, madrasa va bozorlar ko'pligini qayd etgan edi II. Alloma Balx va Nishopurda ham bir qator qurilish ishlarini amalga oshirgan III. Mahmud G'aznaviyning o'zi turkiy, arab, fors, tojik tillarini mukammal bilgan, she'riyatdan xabardor bo'lgan IV. Mahmud G'aznaviy saroyida Abulhasan Farruxiy, Abdulmajid Sanoiy, Unsuriy, Manuchehriy, Bayhaqiy va shu singari shoir, tarixchilar ham faoliyat ko'rsatishgan",
+   "options": [
+    "I – to'g'ri / II – noto'g'ri / III – noto'g'ri / IV — to'g'ri",
+    "I – to'g'ri / II – noto'g'ri / III – noto'g'ri / IV — noto'g'ri",
+    "I – to'g'ri / II – to'g'ri / III – noto'g'ri / IV — noto'g'ri",
+    "I – noto'g'ri / II – to'g'ri / III – noto'g'ri / IV — to'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eng sara asarlari G'aznada dunyoga kelgan olim haqida berilgan to'g'ri ma'lumotni toping.",
+   "options": [
+    "U sulton bilan yurishlarda ishtirok etmagan",
+    "U bilan sulton o'rtasidagi munosabat sovuq bo'lgan",
+    "U G'aznada rasadxona ochib, shogirdlariga dars bergan, unumli ijod qilgan",
+    "1046-yilda vafot etgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi olimlar Mahmud G'aznaviy saroyida xizmat qilishni istamay, Xorazmdan chiqib ketishga qaror qilishadi? 1) Masihiy 2) Xammor 3) Ibn Sino 4) Beruniy",
+   "options": [
+    "1, 2",
+    "2, 3",
+    "3, 4",
+    "1, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi to'g'ri javoblarni aniqlang. \"Mahmud G'aznaviy ...ni o'z saroyiga jalb etishga ko'p uringan, hatto uning siymosini qog'ozga ko'chirtirib, qanday qilib bo'lmasin, uni topib keltirishga farmon bergan.\"",
+   "options": [
+    "Masihiy",
+    "Ibn Sino",
+    "Forobiy",
+    "Beruniy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mahmud G'aznaviy qaysi olimga o'zi taxallusini qo'yib, o'zini o'limga hukm qilgan?",
+   "options": [
+    "Beruniy",
+    "Ibn Sino",
+    "Masihiy",
+    "Firdavsiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "«Shohnoma» asarining muallifi haqida berilgan to'g'ri ma'lumotni toping.",
+   "options": [
+    "shoir ijodi uchun munosib haq olmaganligini ro'kach qilib, berilgan 60 000 kumush dirhamni aholiga tarqatish orqali hurmatsizlik ko'rsatgan",
+    "shoir ijodi uchun munosib haq olmaganligini ro'kach qilib, berilgan 50 000 kumush dirhamni aholiga tarqatish orqali hurmatsizlik ko'rsatgan",
+    "shoir ijodi uchun munosib haq olganligini va berilgan 60 000 kumush dirhamni aholiga tarqatish orqali hurmatga sazovor bo'lgan",
+    "shoir ijodi uchun munosib haq olmaganligini ro'kach qilib, berilgan 60 000 kumush dirhamni soqchilarga tarqatish orqali hurmatsizlik ko'rsatgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "G'aznaviylarda Hojiblikning quyidagi qaysi shakllari mavjud bo'lgan? 1) ulug' hojib 2) saroy hojibi 3) mahram hojibi 4) navbatchi hojib 5) hojib-jomador",
+   "options": [
+    "1, 2, 3, 5",
+    "1, 2, 4, 5",
+    "2, 3, 4, 5",
+    "1, 2, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mahmud G'aznaviy davrida ulug' hojib lavozimida ishlagan shaxs berilgan javobni toping.",
+   "options": [
+    "Oltuntosh",
+    "Majdiddin Davlo",
+    "Ali Qarib",
+    "Ali Qushchi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nafaqat hojiblar orasida, balki butun mamlakat hayotida katta mavqega ega bo'lgan hojibning vazifasiga nomuvofiq bo'lgan javobni belgilang.",
+   "options": [
+    "Mahmud G'aznaviydan so'ng bevosita hokimiyat ishlarini qo'lga olgan",
+    "Mahmud G'aznaviydan so'ng bevosita hokimiyat ishlarini qo'lga olgan (takror)",
+    "Janglarda unga qo'shinning eng salmoqli va mas'uliyatli qismiga boshchilik qilish vazifasi yuklatilgan",
+    "oliy hukmdorning hujjatlarini yuritgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "G'aznaviylar davrida tashkil topgan devonlarga kirmaydigan variantni toping.",
+   "options": [
+    "harbiy ishlar",
+    "elchilik",
+    "mulkchilik",
+    "moliya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"sipohsolor\" atamasiga berilgan ma'lumotlardan to'g'ri va mos keladigan javobni belgilang.",
+   "options": [
+    "bosh vazir",
+    "oliy hukmdorning hujjatlarini yurituvchi",
+    "Bosh qo'mondon, sulolaning eng ishonchli vakili",
+    "saroydagi o'rta amaldor"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bosh qo'mondon lavozimiga Mahmud G'aznaviy kimni loyiq ko'rgan?",
+   "options": [
+    "kuyovini",
+    "qaynotasini",
+    "ukasini",
+    "otasini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "G'aznaviylarni o'sha davrdagi boshqa davlatlardan ajratib turadigan harbiy sohadagi alohida belgisini toping.",
+   "options": [
+    "ot qo'shilgan aravalardagi kamonchilar guruhi",
+    "to'fangning joriy etilgani",
+    "suv osti kemalar mavjudligi",
+    "harbiy kemalar mavjudligi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "G'aznaviylarning davri shaharlarda hunarmandchilik rivojlangan sohalariga to'g'ri bo'lmagan javobni belgilang.",
+   "options": [
+    "qurilish",
+    "binokorlik",
+    "ganchkorlik",
+    "misgarlik"
+   ],
+   "answer": 3
+  }
+ ]
+}

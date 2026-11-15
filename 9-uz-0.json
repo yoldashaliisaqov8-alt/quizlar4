@@ -1,0 +1,656 @@
+{
+ "title": "9-sinf · 1-2-mavzu. Dashti Qipchoq va Movarounnahrda siyosiy vaziyat. Uchinchi o'zbek davlatlarining tashkil topishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Farg'ona vodiysi mustaqil bo'lib olgan va Qo'qon xonligi tashkil topgan vaqtni aniqlang.",
+   "options": [
+    "1511-yil",
+    "1709-yil",
+    "1428-yil",
+    "1430-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xiva xonligi tashkil etilgan vaqtni aniqlang.",
+   "options": [
+    "1511-yil",
+    "1709-yil",
+    "1428-yil",
+    "1430-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abulxayrxonga Sharqiy Qipchoq dashtini birlashtirishda yordam bergan turk-mo'g'ul sarkardalari sonini aniqlang.",
+   "options": [
+    "209 ta",
+    "270 ta",
+    "60 ta",
+    "200 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shaybon quyidagi qaysi shaxsning beshinchi o'g'li hisoblanadi.",
+   "options": [
+    "Tulu",
+    "Po'lat Sulton",
+    "Jo'ji",
+    "O'qtoy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi shaxs Abulxayrxonning katta buvasi hisoblanadi.",
+   "options": [
+    "Tulu",
+    "Po'lat Sulton",
+    "Jo'ji",
+    "O'qtoy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Abulxayrxon qachon Sibir g'arbidagi Tura shahrini bosib oladi va uni davlat poytaxtiga aylantiradi.",
+   "options": [
+    "1511-yil",
+    "1709-yil",
+    "1428-yil",
+    "1430-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abulxayrxon Xorazmni bosib olib, \"Ulug' xon\" unvonini olgan vaqtni aniqlang.",
+   "options": [
+    "1511-yil",
+    "1709-yil",
+    "1428-yil",
+    "1430-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abulxayrxon tomonidan Sirdaryoning o'rta oqimida joylashgan shaharlar bosib olingan vaqtni aniqlang.",
+   "options": [
+    "1446-yil",
+    "1412-yil",
+    "1428-yil",
+    "1457-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sirdaryoning o'rta oqimida joylashgan shaharlarni aniqlang. 1. Sig'noq. 2. Suzoq. 3. Oqqo'rg'on. 4. Tura 5. Arquq 6. O'zgan. 7. Taroz 8. Koshg'ar.",
+   "options": [
+    "1, 3, 7, 8",
+    "1, 2, 5, 6",
+    "1, 4, 5, 7",
+    "1, 3, 5, 6"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilardan qaysi biri Oltin O'rda xoni hisoblanadi.",
+   "options": [
+    "Po'lat Sulton",
+    "Baroqxon",
+    "Isobug'axon",
+    "Jumadulxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Girayxon va Jonibekxonlarning otasini aniqlang.",
+   "options": [
+    "Po'lat Sulton",
+    "Baroqxon",
+    "Isobug'axon",
+    "Jumadulxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan qaysi biri Mo'g'uliston xoni hisoblanadi.",
+   "options": [
+    "Po'lat Sulton",
+    "Baroqxon",
+    "Isobug'axon",
+    "Jumadulxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Isobug'axon tomonidan Girayxon va Jonibekxonlarga berilgan hududlarni aniqlang.",
+   "options": [
+    "Yoyiq daryosidan Balxash ko'ligacha bo'lgan hududlar",
+    "Chu vodiysi va Yettisuv o'lkalarining bir qismi",
+    "Sirdaryo quyi oqimlaridan Tobol va Irtish daryolarigacha",
+    "Sig'nok va So'zak"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Girayxon va Jonibekxonlar tomonidan 1465-1466 yillarda asos solingan davlatni aniqlang.",
+   "options": [
+    "Shaybon ulusi",
+    "Oltin O'rda",
+    "Qozoq xonligi",
+    "No'g'ay o'rdasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abulxayrxon tug'ilgan vaqtni aniqlang.",
+   "options": [
+    "1446-yil",
+    "1412-yil",
+    "1428-yil",
+    "1457-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Abulxayrxon quyidagi qaysi shaxsga xizmat qilgan.",
+   "options": [
+    "Yedigey",
+    "Baroqxon",
+    "Isobug'axon",
+    "Jumadulxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abulxayrxon asirga tushgan vaqtda necha yoshda bo'lgan.",
+   "options": [
+    "10",
+    "16",
+    "12",
+    "20"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tura shahrida qachonga kelib Abulxayr xon deb e'lon qilinadi.",
+   "options": [
+    "1446-yil",
+    "1412-yil",
+    "1428-yil",
+    "1457-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan qaysi biri Mang'it amiri hisoblanadi.",
+   "options": [
+    "Yedigey",
+    "Baroqxon",
+    "Isobug'axon",
+    "Jumadulxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Baroqxon voqealarida faol ishtirok etgan shaxsni aniqlang.",
+   "options": [
+    "Mansur",
+    "Vaqqosbey",
+    "Nuriddin",
+    "Yedigey"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Baroqxon voqealarida faol ishtirok etgan shaxsning otasini aniqlang.",
+   "options": [
+    "Mansur",
+    "Vaqqosbey",
+    "Nuriddin",
+    "Yedigey"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abulxayrxonning yuksalishida muhim rol o'ynagan shaxsni aniqlang.",
+   "options": [
+    "Mansur",
+    "Vaqqosbey",
+    "Nuriddin",
+    "Yedigey"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Abulxayrxonning yuksalishida muhim rol o'ynagan shaxsning otasini aniqlang.",
+   "options": [
+    "Mansur",
+    "Vaqqosbey",
+    "Nuriddin",
+    "Yedigey"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Abulxayrxon tarixi\" nomli asar muallifini aniqlang.",
+   "options": [
+    "Jaloliddin Rumiy",
+    "Ma'sud bin Usmoniy Kuhistoniy",
+    "Alisher Navoiy",
+    "Zahriddin Muhammad Bobur"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "(1207-1273) yillarda yashagan shaxsni aniqlang.",
+   "options": [
+    "Jaloliddin Rumiy",
+    "Ma'sud bin Usmoniy Kuhistoniy",
+    "Mirzo Ulug'bek",
+    "Zahriddin Muhammad Bobur"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abulxayrxon tomonidan Sibir xonligi qo'lga kiritilgan vaqtni aniqlang.",
+   "options": [
+    "1446-yil",
+    "1412-yil",
+    "1428-yil",
+    "1457-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abulxayrxon 1446-yilda quyidagi qaysi hududlarni egallaydi.",
+   "options": [
+    "Yoyiq daryosidan Balxash ko'ligacha bo'lgan hududlar",
+    "Chu vodiysi va Yettisuv o'lkalarining bir qismi",
+    "Sirdaryo quyi oqimlaridan Tobol va Irtish daryolarigacha",
+    "Sig'nok va So'zak"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Abdulxayrxon davlat poytaxtini Turadan Sig'noqqa ko'chirgan edi.",
+   "options": [
+    "1446-yil",
+    "1412-yil",
+    "1428-yil",
+    "1457-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abulxayrxon uylangan Robiya Sulton begim kimning qizi edi.",
+   "options": [
+    "Jaloliddin Rumiy",
+    "Ma'sud bin Usmoniy Kuhistoniy",
+    "Mirzo Ulug'bek",
+    "Zahriddin Muhammad Bobur"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan qaysi biri Abulxayrxon va Robiya Sulton begimning o'g'li hisoblanadi.",
+   "options": [
+    "Abdulloh Mirzo",
+    "Ko'chkunchixo'ja",
+    "Sulton Abu Said",
+    "Abulqosim Bobur"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ko'chkunchixo'ja Buxoro amirligini qancha vaqt boshqarganligini aniqlang.",
+   "options": [
+    "10-yil",
+    "16-yil",
+    "12-yil",
+    "20-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abdulatifning vafotidan so'ng Samarqandda hukmdor qilib ko'tarilgan Ulug'bekning kuyovini aniqlang.",
+   "options": [
+    "Abdulloh Mirzo",
+    "Ko'chkunchixo'ja",
+    "Sulton Abu Said",
+    "Abulqosim Bobur"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abdulatifning vafotidan so'ng Buxoroda hukmdor qilib ko'tarilgan Mironshohning nabirasini aniqlang.",
+   "options": [
+    "Abdulloh Mirzo",
+    "Ko'chkunchixo'ja",
+    "Sulton Abu Said",
+    "Abulqosim Bobur"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abulxayrxon yordamida Samarqand taxtini egallagan Temuriy hukmdorni aniqlang.",
+   "options": [
+    "Abdulloh Mirzo",
+    "Husayn Boyqaro",
+    "Sulton Abu Said",
+    "Abulqosim Bobur"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xurosonda hukmdorlik qilayotgan va Shohruxning nabirasi bo'lgan shaxsni aniqlang.",
+   "options": [
+    "Abdulloh Mirzo",
+    "Husayn Boyqaro",
+    "Sulton Abu Said",
+    "Abulqosim Bobur"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Abulqosim Bobur vafot etgach, Abu Said Hirot shahrini egallab, saltanatning har ikkala qismini birlashtiradi.",
+   "options": [
+    "1469-yil",
+    "1457-yil",
+    "1494-yil",
+    "1497-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan qaysi biri Umarshayxning chevarasi hisoblanadi.",
+   "options": [
+    "Abdulloh Mirzo",
+    "Husayn Boyqaro",
+    "Sulton Abu Said",
+    "Abulqosim Bobur"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Husayn Boyqaro Hirot taxtini egallagan vaqtni aniqlang.",
+   "options": [
+    "1469-yil",
+    "1457-yil",
+    "1494-yil",
+    "1497-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abu Saidning o'g'li bo'lmagan shaxsni aniqlang.",
+   "options": [
+    "Sulton Ahmad Mirzo",
+    "Umarshayx Mirzo",
+    "Sulton Mahmud Mirzo",
+    "Sulton Ali Mirzo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Farg'ona hokimi Umarshayx Mirzo vafot etgan vaqtni aniqlang.",
+   "options": [
+    "1469-yil",
+    "1457-yil",
+    "1494-yil",
+    "1497-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "39-yoshida vafot etgan shaxsni aniqlang.",
+   "options": [
+    "Sulton Ahmad Mirzo",
+    "Umarshayx Mirzo",
+    "Sulton Mahmud Mirzo",
+    "Sulton Ali Mirzo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bobur necha yoshida taxtga o'tiradi.",
+   "options": [
+    "10",
+    "16",
+    "12",
+    "7"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bobur tomonidan Samarqand shahri egallangan vaqtni aniqlang.",
+   "options": [
+    "1469-yil",
+    "1457-yil",
+    "1494-yil",
+    "1497-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Saripul qishlog'i yaqinidagi jang qachon bo'lib o'tganini aniqlang.",
+   "options": [
+    "1501-yil",
+    "1504-yil",
+    "1519-yil",
+    "1483-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bobur boshchiligidagi Samarqand qamali necha oy davom etgan edi.",
+   "options": [
+    "10",
+    "4",
+    "12",
+    "7"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Z.M.Bobur qachon tug'ilgan.",
+   "options": [
+    "1501-yil",
+    "1504-yil",
+    "1519-yil",
+    "1483-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qutlug' Nigorxonimning otasi Yunusxon qaysi hududning hokimi edi.",
+   "options": [
+    "Buxoro",
+    "Samarqand",
+    "Toshkent",
+    "Farg'ona"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shayboniyxon tomonidan Samarqand qamali qancha vaqt davom etadi.",
+   "options": [
+    "10",
+    "4",
+    "12",
+    "7"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bobur qachon Samarqandni tark etadi.",
+   "options": [
+    "1501-yil",
+    "1504-yil",
+    "1519-yil",
+    "1483-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bobur Samarqand taxti uchun kurashayotgan paytda quyidagi qaysi shaxs Andijonni egallab oladi.",
+   "options": [
+    "Humoyun Mirzo",
+    "Ahmad Tanbal",
+    "Komron Mirzo",
+    "Sulton Ali Mirzo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Boburning 1501-1504 yillarda qaysi hududni qaytarib olishga urinishi muvaffaqiyatsiz tugaydi.",
+   "options": [
+    "Buxoro",
+    "Samarqand",
+    "Toshkent",
+    "Farg'ona"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Bobur Samarqandni tark etishga majbur bo'ladi.",
+   "options": [
+    "1501-yil",
+    "1504-yil",
+    "1519-yil",
+    "1483-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bobur 200-300 askari bilan quyidagi qaysi tog' orqali Afg'onistonga o'tadi.",
+   "options": [
+    "Pomir",
+    "Hisor",
+    "Murg'ob",
+    "Hindikush"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bobur Hindistonni zabt etish rejalarini amalga oshirishga kirishgan vaqtni aniqlang.",
+   "options": [
+    "1521-yil",
+    "1526-yil",
+    "1519-yil",
+    "1483-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Necha yil davomida Zahiriddin Muhammad Bobur Hindistonga yurishlar qiladi.",
+   "options": [
+    "3-4 yil",
+    "5-6 yil",
+    "6-7 yil",
+    "4-5 yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Panipat jangida Ibrohim Lo'diy qo'shinlari mag'lubiyatga uchratiladi.",
+   "options": [
+    "1521-yil",
+    "1526-yil",
+    "1519-yil",
+    "1483-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ibrohim Lo'diyning qo'shini qancha ekanligini belgilang.",
+   "options": [
+    "100 ming",
+    "50 ming",
+    "200 ming",
+    "12 ming"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Zahiriddin Muhammad Bobur qo'shinining sonini aniqlang.",
+   "options": [
+    "100 ming",
+    "50 ming",
+    "200 ming",
+    "12 ming"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hozirda Boburga tegishli qancha g'azal mavjud.",
+   "options": [
+    "209 ta",
+    "119 ta",
+    "270 ta",
+    "50 ta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hozirda Boburga tegishli qancha ruboiy mavjud.",
+   "options": [
+    "209 ta",
+    "119 ta",
+    "270 ta",
+    "50 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hozirda Boburga tegishli qancha muammo mavjud.",
+   "options": [
+    "209 ta",
+    "119 ta",
+    "270 ta",
+    "50 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hozirda Boburga tegishli qancha fard mavjud.",
+   "options": [
+    "209 ta",
+    "60 ta",
+    "270 ta",
+    "50 ta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Boburning devoni tarkibidan joy olgan 8 masnaviy necha baytdan iborat.",
+   "options": [
+    "209 ta",
+    "60 ta",
+    "270 ta",
+    "50 ta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Komron Mirzo va Humoyunlarga dasturulamal sifatida mo'ljallangan \"Mubayyin\" asari qachon yozilganini aniqlang.",
+   "options": [
+    "1521-yil",
+    "1526-yil",
+    "1519-yil",
+    "1483-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bobur \"Boburnoma\"ni nechanchi yillarda yoza boshlagan.",
+   "options": [
+    "1465-1466 yillarda",
+    "1501-1504 yillarda",
+    "1518-1519 yillarda",
+    "1505-1507 yillarda"
+   ],
+   "answer": 2
+  }
+ ]
+}

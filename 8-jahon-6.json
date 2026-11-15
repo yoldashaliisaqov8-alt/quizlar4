@@ -1,0 +1,359 @@
+{
+ "title": "8-sinf · XIV–XV asrlarda Angliya",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qirol qabul qilgan, qo'zg'olonchilar talab etgan dasturlarni aniqlang.",
+   "options": [
+    "“Tauer” va “London”",
+    "“Erkinlik” va “Xartiya”",
+    "“Kent” va “Esseks”",
+    "“Mayl End” va “Smitfild”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shaharlar, xususan, Londonda aholining o'sishi nimaga bo'lgan talabni oshirib yubordi.",
+   "options": [
+    "Qurol-yarog'ga",
+    "Zargarlik buyumlariga",
+    "Ipak gazlamaga",
+    "Qishloq xo'jaligi mahsulotlariga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Uot Tayler qo'zg'olonining muvaffaqiyatsizlikka uchrashi sabablaridan birini aniqlang.",
+   "options": [
+    "Qo'zg'olonning aniq harakat dasturi yo'q edi",
+    "Papa qo'zg'olonchilarga qarshi chiqdi",
+    "Qirol qo'shini juda ko'p edi",
+    "Shahar kambag'allari darvozani ochmadi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Uot Tayler qo'zg'oloni qachon boshlangan.",
+   "options": [
+    "1381-yil",
+    "1377-yil",
+    "1399-yil",
+    "1380-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Cherkovni isloh qilish talabi bilan chiqqan Oksford universiteti professori, faylasuf va ruhoniyni aniqlang.",
+   "options": [
+    "Uot Tayler",
+    "Jon Viklif",
+    "Jon Boll",
+    "Simon de Monfor"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Jon Viklifga tegishlilarini aniqlang.",
+   "options": [
+    "2, 4",
+    "1, 2",
+    "2, 3",
+    "1, 4"
+   ],
+   "answer": 0,
+   "image": "img/j8-06-06.jpg"
+  },
+  {
+   "q": "Yevropada tarqalib, mamlakat aholisining katta qismini qirib yuborgan kasallikni aniqlang.",
+   "options": [
+    "Qora o'lat (vabo)",
+    "Sil",
+    "Moxov",
+    "Chechak"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1380-yilda jon solig'i necha barobarga oshirildi.",
+   "options": [
+    "4 barobarga",
+    "3 barobarga",
+    "2 barobarga",
+    "5 barobarga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Lankasterlar sulolasi bayrog'ida qanday gul tasviri tushirilgan.",
+   "options": [
+    "Qizil atirgul",
+    "Qizil lola",
+    "Oq atirgul",
+    "Sariq atirgul"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Angliyada yangi sulola davrini boshlab bergan va Eduard IV ning qiziga uylangan qirolni aniqlang.",
+   "options": [
+    "Genrix IV",
+    "Richard II",
+    "Genrix VII Tyudor",
+    "Eduard III"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Tayler” so'zi ingliz tilida qanday ma'noni bildiradi.",
+   "options": [
+    "Temirchi",
+    "Kulol",
+    "Duradgor",
+    "Tunukasoz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Dehqonlarning yerlari juda kam bo'lib, yirik mulkdorlar katta-katta yerlarni egallab ola boshlagan grafligni aniqlang.",
+   "options": [
+    "Kent",
+    "Lankaster",
+    "Normandiya",
+    "York"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Mayl End” dasturiga ko'ra 1 akr yer uchun qancha ijara haqi belgilanishi ko'zda tutilgan.",
+   "options": [
+    "4 pens",
+    "40 pens",
+    "1 pens",
+    "10 pens"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Odam Ato yer haydab, Momo Havo charx yigirgan paytda kim zodagon bo'lgan?” degan fikrni kim targ'ib qilgan.",
+   "options": [
+    "Simon de Monfor",
+    "Jon Boll",
+    "Uot Tayler",
+    "Jon Viklif"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Oq va qizil gullar urushi” davrida oddiy aholining qancha qismi qirilib ketgan.",
+   "options": [
+    "1/4 qismi",
+    "1/2 qismi",
+    "3/4 qismi",
+    "1/10 qismi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ingliz lordlari qaram dehqonlarning ishlab berish majburiyatini nima hisobida yuritishga o'tdilar.",
+   "options": [
+    "Qurol hisobida",
+    "Yer hisobida",
+    "Mahsulot hisobida",
+    "Pul hisobida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jon Boll kimning buyrug'i bilan qamoqqa olindi.",
+   "options": [
+    "Qirol Richard II",
+    "Papa Innokentiy III",
+    "Kenterberi arxiyepiskopi",
+    "Lankaster gersogi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jon Viklif Injilni qaysi tilga tarjima qildi.",
+   "options": [
+    "Italyan tiliga",
+    "Fransuz tiliga",
+    "Nemis tiliga",
+    "Ingliz tiliga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'zg'olonchilar Londonga yaqinlashganda Tauer qal'asiga yashirinib olgan qirolni aniqlang.",
+   "options": [
+    "Genrix III",
+    "Richard II",
+    "Genrix IV",
+    "Ioann"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yuz yillik urushdan keyin Angliya Flandriya va Florensiya shaharlariga nimani eksport qilardi.",
+   "options": [
+    "Ipak gazlama",
+    "Movut",
+    "Jun",
+    "Vino"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jon solig'ini qaysi yoshdan yuqori barcha erkak va ayollar mulkiy ahvolidan qat'i nazar to'lashga majbur edi.",
+   "options": [
+    "18 yoshdan",
+    "12 yoshdan",
+    "14 yoshdan",
+    "16 yoshdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yer o'lchov birligi bo'lgan, 40 sotixga teng yer maydonini ifodalovchi atamani aniqlang.",
+   "options": [
+    "Pens",
+    "Desyatina",
+    "Funt",
+    "Akr"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'zg'olonning ingliz dehqonlari keyingi taqdiridagi ahamiyatini aniqlang.",
+   "options": [
+    "Jon solig'i 3 barobarga oshirildi",
+    "Qaramlik yanada kuchaydi",
+    "XV asr davomida barcha dehqonlar ozodlikni qo'lga kiritdi",
+    "Dehqonlar yerlari tortib olindi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Angliya parlamenti tarixda birinchi marotaba jon solig'ini qachon joriy qildi.",
+   "options": [
+    "1381-yil",
+    "1215-yil",
+    "1377-yil",
+    "1380-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qo'zg'olonga rahbarlik qilgan Uot Taylerning kasbi qanday edi.",
+   "options": [
+    "Ruhoniy",
+    "Ritsar",
+    "Savdogar",
+    "Qishloq hunarmandi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Oq va qizil gullar urushi” qachon bo'lib o'tgan.",
+   "options": [
+    "1381–1399-yillarda",
+    "1337–1453-yillarda",
+    "1455–1485-yillarda",
+    "1215–1265-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1485-yilda Yorklar xonadoni mag'lubiyatga uchragan jang qaysi shahar yaqinida bo'lgan.",
+   "options": [
+    "Puatye",
+    "Orlean",
+    "Azenkur",
+    "Bosvort"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1399-yilda Angliya taxtiga qaysi sulola kelgan.",
+   "options": [
+    "Shtaufenlar",
+    "Lankasterlar",
+    "Yorklar",
+    "Tyudorlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Angliyada jon solig'i qaysi qirol hukmronligi davrida joriy qilindi.",
+   "options": [
+    "Genrix VII",
+    "Genrix IV",
+    "Richard II",
+    "Eduard IV"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan “Mayl End” dasturiga ko'ra qo'yilgan talablarni aniqlang.",
+   "options": [
+    "2, 3",
+    "1, 2",
+    "1, 3",
+    "1, 4"
+   ],
+   "answer": 2,
+   "image": "img/j8-06-30.jpg"
+  },
+  {
+   "q": "Uot Tayler qo'zg'oloni qaysi grafligda boshlangan.",
+   "options": [
+    "York",
+    "Esseks",
+    "Kent",
+    "Lankaster"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Uot Tayler qo'zg'olonida 40 ta graflikdan nechtasi qatnashgan.",
+   "options": [
+    "25 tasi",
+    "15 tasi",
+    "30 tasi",
+    "40 tasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada berilgan sulolalar va ularning ramzlari to'g'ri ko'rsatilgan javobni aniqlang.",
+   "options": [
+    "2, 4",
+    "1, 3",
+    "2, 3",
+    "3, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-06-33.jpg"
+  },
+  {
+   "q": "Lankasterlarga ishonchsizlikdan foydalanib hokimiyatga kelishga intilgan sulolani aniqlang.",
+   "options": [
+    "Gabsburglar",
+    "Valualar",
+    "Yorklar",
+    "Tyudorlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Qirol davlatni papa nomidan emas, balki Xudoning nomi bilan boshqaradi” degan fikr kimga tegishli.",
+   "options": [
+    "Uot Tayler",
+    "Jon Viklif",
+    "Jon Boll",
+    "Genrix IV"
+   ],
+   "answer": 1
+  }
+ ]
+}

@@ -1,0 +1,626 @@
+{
+ "title": "9-sinf · 18-mavzu. Usmoniylar imperiyasi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "XVI asr boshlarida Usmoniylar imperiyasida “sanjoq” deb qanday ma'muriy hududga aytilgan?",
+   "options": [
+    "Viloyat",
+    "Shahar",
+    "Qishloq",
+    "Tuman"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI asr boshlarida Usmoniylar imperiyasida vali qanday hududni boshqargan?",
+   "options": [
+    "Viloyat",
+    "Shahar",
+    "Qishloq",
+    "Tuman"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Usmoniylar imperiyasida otliq askar qanday atalgan?",
+   "options": [
+    "Yanichar",
+    "Sipohiy",
+    "Sanjoqbey",
+    "Vali"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI asr boshlarida Usmoniylar imperiyasida sipohiylar zimmasiga zarurat tug'ilganida sulton farmon bergani zahotiyoq uning ijrosini ta'minlash kimning zimmasiga yuklatilgan?",
+   "options": [
+    "Yanichar",
+    "Cherik",
+    "Sanjoqbey",
+    "Vali"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asr boshlarida Usmoniylar imperiyasining doimiy piyoda qo'shini qanday atalgan?",
+   "options": [
+    "Yanichar",
+    "Sipohiy",
+    "Sanjoqbey",
+    "Vali"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Yanichar” so'zining ma'nosi nima?",
+   "options": [
+    "“Buyuk qo'shin”",
+    "“Yengilmas qo'shin”",
+    "“Piyoda qo'shin”",
+    "“Yangi qo'shin”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Usmoniylar imperiyasida sultonning barcha fuqarolari uning qullari hisoblangan, shuning uchun … .",
+   "options": [
+    "faqat zodagonlar davlat lavozimlariga tayinlangan",
+    "faqat turklar harbiy bo'la olgan",
+    "quyi tabaqadan bo'lgan odamlar ham eng yuqori davlat lavozimlariga ko'tarilishlari mumkin bo'lgan",
+    "oddiy fuqarolar keng huquqlarga ega bo'lmagan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asr boshida qaysi davlatda islom dinining shialik oqimi davlat diniga aylantirilgan?",
+   "options": [
+    "Hindistondagi Boburiylar davlatida",
+    "Erondagi Safaviylar davlatida",
+    "O'rta Osiyodagi Shayboniylar davlatida",
+    "Yaqin Sharqdagi Mamluklar davlatida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI asr boshida Sharqdagi qaysi davlatning kuchayishi nafaqat usmoniylarning Sharqdagi bosqinchilik yurishlarini cheklab qo'ygan, balki uning ichki xotirjamligiga ham putur yetkazgan?",
+   "options": [
+    "Hindistondagi Boburiylar davlati",
+    "Erondagi Safaviylar davlati",
+    "O'rta Osiyodagi Shayboniylar davlati",
+    "Yaqin Sharqdagi Mamluklar davlati"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda Manu shahri yaqinidagi Chaldiron tekisligida bo'lib o'tgan jangda usmoniylar qo'shini safaviylarga qattiq zarba berib, ularning poytaxtini egallagan?",
+   "options": [
+    "1512-yilda",
+    "1513-yilda",
+    "1514-yilda",
+    "1515-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asr boshida Safaviylar davlati poytaxti qaysi shahar bo'lgan?",
+   "options": [
+    "Isfahon",
+    "Tehron",
+    "Sheroz",
+    "Tabriz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yilda imzolangan usmoniylar va safaviylar o'rtasidagi sulhga ko'ra, Armanistonning bir qancha tumanlari Turkiya tasarrufiga o'tgan?",
+   "options": [
+    "1512-yilda",
+    "1513-yilda",
+    "1514-yilda",
+    "1515-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI asr boshida Eron poytaxtini egallagan turk qo'shini u yerda mustahkamlanib ololmasdan qayerga chekingan?",
+   "options": [
+    "Onado'li",
+    "Bolqon",
+    "Suriya",
+    "Kavkaz"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davlat sultonlarining shiori: “Kuch va qudrat – davlat va qo'shinda” bo'lgan?",
+   "options": [
+    "Usmoniylar",
+    "Safaviylar",
+    "Boburiylar",
+    "Shayboniylar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI asr boshida Eron urushi tugagandan so'ng usmoniylar … yerlariga yurish boshlagan.",
+   "options": [
+    "german",
+    "arab",
+    "venger",
+    "rus"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI asr boshida Suriya va Misr kimlar qo'l ostida birlashtirilgan edi?",
+   "options": [
+    "Safaviylar",
+    "Ayyubiylar",
+    "Mamluklar",
+    "Muzaffariylar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda Usmoniylar armiyasi Salim I qo'mondonligida Shimoliy Suriyaga bostirib kirgan?",
+   "options": [
+    "1514-yilda",
+    "1515-yilda",
+    "1516-yilda",
+    "1517-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shimoliy Suriyaga bostirib kirgan Salim I qo'mondonligidagi turklar qo'shini qayerdagi birinchi jangdayoq to'liq g'alabani qo'lga kiritgan?",
+   "options": [
+    "Bag'dod yaqinidagi",
+    "Xalab yaqinidagi",
+    "Damashq yaqinidagi",
+    "Basra yaqinidagi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda usmoniy sulton Salim I armiyasi Qohiraga kirgan?",
+   "options": [
+    "1514-yilda",
+    "1515-yilda",
+    "1516-yilda",
+    "1517-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Makka va Madina shaharlari qayerda joylashgan?",
+   "options": [
+    "Xijoz",
+    "Yaman",
+    "Bahrayn",
+    "Najd"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi turk sultoni Ka'baning kalitini qo'lga kiritgan?",
+   "options": [
+    "Mehmed II",
+    "Sulaymon I Qonunchi",
+    "Boyazid II",
+    "Salim I"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Turk sultoni Sulaymon I Qonunchi qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1518 –1564-yillarda",
+    "1519–1565-yillarda",
+    "1520 –1566-yillarda",
+    "1521 –1567-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi sulton davrida Usmoniylar imperiyasi o'z harbiy yutuqlarining eng cho'qqisiga ko'tarilgan?",
+   "options": [
+    "Mehmed II",
+    "Sulaymon I Qonunchi",
+    "Boyazid II",
+    "Salim I"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi hudud egallab olinganidan so'ng usmoniy sultonlarning hokimiyati butun Shimoliy Afrika qirg'oqlaridan to Marokashgacha bo'lgan hududlarda o'rnatilgan?",
+   "options": [
+    "Misr",
+    "Suriya",
+    "Tripoli",
+    "Jazoir"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Turk sultoni Sulaymon I Qonunchi Yevropada … imperiyasi bilan qattiq kurash olib borgan.",
+   "options": [
+    "Gogensollernlar",
+    "Saksoniyaliklar",
+    "Gabsburglar",
+    "Frankoniyaliklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi shaharning bosib olinishi va venger-chex qo'shinining tor-mor keltirilishi turklarga Venetsiyani bosib olish uchun yo'l ochib bergan?",
+   "options": [
+    "Vena",
+    "Belgrad",
+    "Budapesht",
+    "Varshava"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Turk sultoni Sulaymon I Qonunchi davrida quyidagi qaysi shaharni egallashga bo'lgan harakat muvaffaqiyatsiz yakunlangan?",
+   "options": [
+    "Vena",
+    "Belgrad",
+    "Budapesht",
+    "Varshava"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yildagi shartnomaga ko'ra, Vengriya hududlari Turkiya va Avstriya o'rtasida bo'lib olingan?",
+   "options": [
+    "1539-yildagi",
+    "1543-yildagi",
+    "1547-yildagi",
+    "1551-yildagi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVI asrda Turkiyaning vassaliga aylangan Transilvaniya hozirgi qaysi davlat hududida joylashgan?",
+   "options": [
+    "Bolgariya",
+    "Ukraina",
+    "Vengriya",
+    "Ruminiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Turk sultoni Sulaymon I Qonunchi davrida oldinroq bosib olingan qaysi hududlarning ichki avtonomiyasi sezilarli darajada qisqartirilgan? 1) Transilvaniya; 2) Moldaviya; 3) Valaxiya.",
+   "options": [
+    "1, 2",
+    "2, 3",
+    "1, 3",
+    "1, 2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi sulton davrida usmoniylarning qo'shinlari Qizil dengizning butun qirg'oqbo'yi yerlarini va Janubiy Arabistonni bosib olgan?",
+   "options": [
+    "Mehmed II",
+    "Sulaymon I Qonunchi",
+    "Boyazid II",
+    "Salim I"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Turk sultoni Sulaymon I Qonunchi necha yil hukmronlik qilgan?",
+   "options": [
+    "46 yil",
+    "48 yil",
+    "50 yil",
+    "52 yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Turk sultoni Sulaymon I Qonunchi necha marotaba harbiy yurishlarda ishtirok etgan?",
+   "options": [
+    "11 marotaba",
+    "12 marotaba",
+    "13 marotaba",
+    "14 marotaba"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Turk sultoni Sulaymon I Qonunchi ishtirok etgan harbiy yurishlarning nechtasi Yevropada olib borilgan?",
+   "options": [
+    "10 tasi",
+    "11 tasi",
+    "12 tasi",
+    "13 tasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yurishlar usmoniylarning rejalari ulkan bo'lganligidan dalolat beradi? 1) Venaning qamal qilinishi; 2) Hindiston qirg'oqlariga ekspeditsiya; 3) Maltani bosib olishga urinish.",
+   "options": [
+    "1, 2",
+    "2, 3",
+    "1, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi sulton hukmronligi davrida Usmoniylar imperiyasining umumiy maydoni butun Yevropa hududidan katta bo'lgan?",
+   "options": [
+    "Mehmed II",
+    "Sulaymon I Qonunchi",
+    "Boyazid II",
+    "Salim I"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Usmoniylar imperiyasidagi aholining tarkibi bir xil, huquqsiz, shafqatsiz ekspluatatsiya qilinadigan olomonga aylangan?",
+   "options": [
+    "XV asr davomida",
+    "XVI asr davomida",
+    "XVII asr davomida",
+    "XVIII asr davomida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI asrda Usmoniylar imperiyasida quyidagi qaysi ekin kamroq miqdorda yetishtirilgan?",
+   "options": [
+    "Paxta",
+    "Bug'doy",
+    "Arpa",
+    "Tariq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yangi davrda Usmoniylar imperiyasida shaharlar aholisining tez ko'payib borishiga asosiy sabab nima edi?",
+   "options": [
+    "Hunarmandchilik mahsulotlariga bo'lgan talabning ortib borishi",
+    "Tozalikka e'tiborning kuchayishi",
+    "Qishloqlardan aholining ommaviy ko'chib ketishi",
+    "Davlat tomonidan qabul qilingan qonunlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yangi davrda Usmoniylar imperiyasida hunarmandchilikning qaysi sohalari, ayniqsa, o'sgan? 1) Jun va ipak matolar to'qish; 2) Teriga ishlov berish; 3) Metallga ishlov berish.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yangi davrda Usmoniylar imperiyasida ishlab chiqarilgan mashhur mahsulotlar va ular ishlab chiqarilgan joylar nomlari mos keltirilgan javobni toping. 1) Bursa; 2) Ushak va Konya; 3) Anqara. a) echki junidan to'qilgan matolar; b) gilamlar; c) barqut.",
+   "options": [
+    "1a, 2b, 3c",
+    "1b, 2a, 3c",
+    "1c, 2b, 3a",
+    "1a, 2c, 3b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi davrda Usmoniylar imperiyasiga qarashli Bolgariyaning qaysi shahrida temir buyumlar yasash rivojlangan edi?",
+   "options": [
+    "Belgrad",
+    "Iznik",
+    "Kastamonu",
+    "Somonovo"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yangi davrda Turkiyaning qaysi shaharlarida misdan buyumlar yasash rivojlangan edi? 1) Diyorbakir; 2) Erzurum; 3) Kastamonu; 4) Iznik.",
+   "options": [
+    "1, 2, 3",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yangi davrda Turkiyaning qaysi shahrida kulolchilik rivojlangan edi?",
+   "options": [
+    "Diyorbakir",
+    "Erzurum",
+    "Iznik",
+    "Kastamonu"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Usmoniylar imperiyasining qaysi hududida yarmarka savdosi kengayib borgan?",
+   "options": [
+    "Kichik Osiyo",
+    "Yaqin Sharq",
+    "Bolqon",
+    "Shimoliy Afrika"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda turklarning Vena ostonasidagi mag'lubiyati Yevropa davlatlarining Usmoniylar imperiyasiga qarshi uch asrlik urushida yevropaliklar foydasiga burilish yasagan?",
+   "options": [
+    "1683-yilda",
+    "1685-yilda",
+    "1688-yilda",
+    "1692-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yangi davrda Usmoniylar imperiyasida qaysi omillar savdoning rivojlanishiga to'sqinlik qilar edi? 1) Ko'p sonli ichki bojlar; 2) Qaroqchilar hujumi; 3) Transport vositalarining rivojlanmaganligi; 4) Dengiz aloqalarining og'irligi.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Turklar tomonidan Istanbulning bosh arxitektori deb hisoblanadigan Sinon, ba'zi ma'lumotlarga ko'ra, jami nechta obidalarni yaratgan?",
+   "options": [
+    "100 dan ortiq",
+    "200 dan ortiq",
+    "300 dan ortiq",
+    "400 dan ortiq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi davrda qaysi Yevropa davlati savdogarlari uchun Turkiyada atigi uch foiz miqdorida boj to'lovi joriy etilgan?",
+   "options": [
+    "Angliya",
+    "Ispaniya",
+    "Rossiya",
+    "Fransiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yangi davrda Turkiya tashqi siyosatda, Rossiyaga qarshi kurashish uchun, qaysi davlatlar bilan yaqinlasha boshlagan?",
+   "options": [
+    "Angliya va Fransiya",
+    "Fransiya va Gollandiya",
+    "Gollandiya va Ispaniya",
+    "Ispaniya va Angliya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Turkiya XVIII asrda Rossiya bilan necha marta urush olib borgan?",
+   "options": [
+    "Ikki marta",
+    "Uch marta",
+    "To'rt marta",
+    "Besh marta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Turkiyada Sulton Salim III taxtga kelgan?",
+   "options": [
+    "1787-yilda",
+    "1789-yilda",
+    "1793-yilda",
+    "1795-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Turkiyada Sulton Salim III islohotlari to'g'ri berilgan javobni toping. 1) Harbiy majburiyatni o'tashdan bosh tortgan mulkdorlarning mol-mulki musodara qilingan; 2) Armiya qayta tuzilib, yangicha intizom joriy etilgan; 3) Harbiy muhandislik va dengiz floti bilim yurtlari tashkil etilgan; 4) Yevropan",
+   "options": [
+    "1, 3, 4",
+    "2, 3, 4, 5",
+    "1, 2, 3, 5",
+    "1, 2, 3, 4, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Turkiyada qaysi sulton islohotlari “Yangi tuzum” (“Nizom-i-jadid”) deb nom olgan?",
+   "options": [
+    "Salim III",
+    "Sulaymon I Qonunchi",
+    "Boyazid II",
+    "Salim I"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi suratdagi Sulaymon masjidi qaysi shaharda joylashgan?",
+   "options": [
+    "Istanbul",
+    "Anqara",
+    "Diyorbakir",
+    "Erzurum"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Turkiyada Sulton Salim III islohotlaridan imtiyozlardan mahrum bo'lganliklari uchun norozi bo'lgan qatlamlarni toping. 1) Dehqonlar; 2) Yirik feodallar; 3) Musulmon ruhoniylari; 4) Hunarmandlar; 5) Yanicharlar.",
+   "options": [
+    "1, 3",
+    "2, 4, 5",
+    "2, 3, 5",
+    "1, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Turkiyada Sulton Salim III islohotlaridan soliqlar oshirilganligi uchun norozi bo'lgan qatlamlarni toping. 1) Dehqonlar; 2) Yirik feodallar; 3) Musulmon ruhoniylari; 4) Hunarmandlar; 5) Yanicharlar.",
+   "options": [
+    "1, 3",
+    "2, 4, 5",
+    "2, 3, 5",
+    "1, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Turkiyada Sulton Salim III islohotlaridan norozi bo'lgan yanicharlar qo'zg'olon ko'tarib, Istanbulni egallashgan va sulton … .",
+   "options": [
+    "taxtdan tushirilgan",
+    "o'ldirilgan",
+    "mamlakatdan qochib ketgan",
+    "qamoqqa tashlangan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVII asrda Turkiyada matematika va astronomiya sohasida faoliyat olib borgan olimlarni toping. 1) Xizir Xalifa Tabariy; 2) Mulla Mehmet Chalabiy; 3) Kotib Chalabiy; 4) Mustafo Koshifzoda.",
+   "options": [
+    "1, 2, 3",
+    "2, 3, 4",
+    "1, 2, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Sayohatnoma” asari muallif kim?",
+   "options": [
+    "Kotib Chalabiy",
+    "Mulla Mehmet Chalabiy",
+    "Mustafo Koshifzoda",
+    "Avliyo Chalabiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sinon qaysi asrning buyuk me'mori hisoblanadi?",
+   "options": [
+    "XV asrning",
+    "XVI asrning",
+    "XVII asrning",
+    "XVIII asrning"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVII asrda qurilgan Bag'dod va Ravon ko'shklari turk sultonining qaysi saroyida joylashgan?",
+   "options": [
+    "To'pqopi",
+    "Yildiz",
+    "Shirbudun",
+    "Marmar"
+   ],
+   "answer": 0
+  }
+ ]
+}

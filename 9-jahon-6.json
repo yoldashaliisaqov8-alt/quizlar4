@@ -1,0 +1,716 @@
+{
+ "title": "9-sinf · 6-mavzu. Buyuk Britaniya imperiyasi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qaysi yilda Angliyada “Shonli inqilob” sodir bo'lgan?",
+   "options": [
+    "1658-yilda",
+    "1660-yilda",
+    "1688-yilda",
+    "1672-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Shonli inqilob” dan keyin Angliyada hokimiyat to'laligicha … .",
+   "options": [
+    "ikki palata — Lordlar palatasi va Jamoa palatasidan iborat ikki palatali parlament qo'lida jamlangan",
+    "protektor qo'lida jamlangan",
+    "yakka hukmronlikka ega qirol qo'lida jamlangan",
+    "respublika qonun chiqaruvchi kengashi qo'lida jamlangan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Shonli inqilob” dan keyin Angliya qiroli qanday huquqni rasman o'zida saqlab qolgan?",
+   "options": [
+    "Parlamentni tarqatib yuborish huquqini",
+    "Vazirlarni tayinlash huquqini",
+    "Urush e'lon qilish huquqini",
+    "Sulh tuzish huquqini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Angliyada qirolning parlamentda ko'pchilik o'ringa ega bo'lgan partiya vakillaridan vazirlarni tayinlashi odat tusiga kirgan?",
+   "options": [
+    "XV asrda",
+    "XVI asrda",
+    "XVII asrda",
+    "XVIII asrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVIII asrda Angliya parlamentida nechta asosiy partiya mavjud edi?",
+   "options": [
+    "Bitta partiya",
+    "Ikkita partiya",
+    "Uchta partiya",
+    "To'rtta partiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asrda Angliya parlamentidagi “tori” lar qanday partiya edi?",
+   "options": [
+    "Sotsial",
+    "Monarxist",
+    "Konservator",
+    "Liberal"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asrda Angliya parlamentidagi “vigi” lar qanday partiya edi?",
+   "options": [
+    "Sotsial",
+    "Monarxist",
+    "Konservator",
+    "Liberal"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon parlament Angliya bilan Shotlandiya o'rtasida ittifoqqa birlashishi haqidagi kelishuv (uniya) ni qonunlashtirgan?",
+   "options": [
+    "1707-yilda",
+    "1719-yilda",
+    "1727-yilda",
+    "1716-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Angliya “Buyuk Britaniya” deb atala boshlangan?",
+   "options": [
+    "1707-yilda",
+    "1719-yilda",
+    "1727-yilda",
+    "1716-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Angliya parlamenti vakolatining uch yillik muddati o'rniga olti yillik muddat o'rnatilgan?",
+   "options": [
+    "1707-yilda",
+    "1719-yilda",
+    "1727-yilda",
+    "1716-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Angliya parlamentidagi torilar nimani quvvatlardi?",
+   "options": [
+    "Parlament huquqlarini",
+    "Mamlakat hayotida muhim iqtisodiy va siyosiy islohotlar o'tkazilishini",
+    "Qirolning huquq va manfaatlari hamda mavjud tartiblarning buzilmasligini",
+    "O'rta qatlam vakillari manfaatlarini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Angliya parlamentidagi vigilar nimani himoya qilardi?",
+   "options": [
+    "Parlament huquqlarini",
+    "Mamlakat hayotida muhim iqtisodiy va siyosiy islohotlar o'tkazilishini",
+    "Qirolning huquq va manfaatlari hamda mavjud tartiblarning buzilmasligini",
+    "O'rta qatlam vakillari manfaatlarini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Angliya parlamentidagi vigilar nimani tarafdorlari edilar?",
+   "options": [
+    "Parlament huquqlarini",
+    "Mamlakat hayotida muhim iqtisodiy va siyosiy islohotlar o'tkazilishini",
+    "Qirolning huquq va manfaatlari hamda mavjud tartiblarning buzilmasligini",
+    "O'rta qatlam vakillari manfaatlarini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asrda Angliyada Maxfiy Kengashdan nechta kishidan iborat kollegiya ajralib chiqqan va qirol ularga amalda mamlakatni boshqarishni topshirgan?",
+   "options": [
+    "3–5 kishidan",
+    "4–6 kishidan",
+    "5–7 kishidan",
+    "6–8 kishidan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Angliya qirollari Georg I va Georg II qaysi suloladan bo'lgan?",
+   "options": [
+    "Yorklar",
+    "Gannoverliklar",
+    "Plantagenetlar",
+    "Lankasterlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Angliya qirollari Georg I va Georg II necha yil hukmronlik qilgan?",
+   "options": [
+    "30 yil",
+    "35 yil",
+    "40 yil",
+    "45 yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi sulola vakillari davrida inglizlar qirol taxtda o'tirishi, ammo mamlakatni boshqarmasligiga ko'nikib qolgan?",
+   "options": [
+    "Gannoverliklar",
+    "Yorklar",
+    "Lankasterlar",
+    "Plantagenetlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVIII asrda ingliz qirollari o'zlarining qaysi vakolatlarini qo'llamay qo'ygan?",
+   "options": [
+    "Parlament aktlariga “veto” qo'yish, siyosiy jinoyatlar uchun afv etish",
+    "Siyosiy jinoyatlar uchun afv etish, urush e'lon qilish",
+    "Urush e'lon qilish, sulh tuzish",
+    "Sulh tuzish, parlament aktlariga “veto” qo'yish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVIII asrda quyidagi qaysi huquqlar Angliya parlamentiga o'tgan? 1) Siyosiy jinoyatlar uchun afv etish; 2) Urush e'lon qilish; 3) Sulh tuzish.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Normannlar qachon anglo-sakslarni bosib olgan?",
+   "options": [
+    "1074-yilda",
+    "1059-yilda",
+    "1052-yilda",
+    "1066-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Normannlar anglo-sakslarni bosib olganidan beri Angliyani nechta qirollik sulolasi boshqargan?",
+   "options": [
+    "Oltita sulola",
+    "Yettita sulola",
+    "Sakkizta sulola",
+    "To'qqizta sulola"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Angliya qirollik sulolalarini to'g'ri ketma-ketlikda joylashtiring.",
+   "options": [
+    "Styuartlar, gannoverliklar, yorklar, plantagenetlar, tyudorlar, normannlar, vindzorlar, lankasterlar",
+    "Normannlar, plantagenetlar, lankasterlar, yorklar, tyudorlar, styuartlar, gannoverliklar, vindzorlar",
+    "Yorklar, normannlar, gannoverliklar, plantagenetlar, styuartlar, vindzorlar, lankasterlar, tyudorlar",
+    "Tyudorlar, normannlar, vindzorlar, plantagenetlar, yorklar, gannoverliklar, lankasterlar, styuartlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asrda Angliya tashqi siyosatida qaysi yo'nalishlar ustuvor bo'lgan? 1) Qit'adagi biron-bir davlatning kuchayib ketishiga yo'l qo'ymaslik; 2) Yangi mustamlakalarni egallash; 3) Yo'qotilgan hududlarni qaytarish.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVIII asrda Angliyaning bosh raqibi qaysi davlat edi?",
+   "options": [
+    "Gollandiya",
+    "Portugaliya",
+    "Ispaniya",
+    "Fransiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Angliya va Fransiya o'rtasida qaysi yillarda ispan taxti uchun urush bo'lgan?",
+   "options": [
+    "1700–1713-yillarda",
+    "1701–1714-yillarda",
+    "1702–1715-yillarda",
+    "1703–1716-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Angliya va Fransiya o'rtasida tuzilgan “Utrext sulhi” ga ko'ra, Angliya nimalarga ega bo'lgan? 1) Gibraltar; 2) Kale porti; 3) Menorka oroli; 4) Fransiyaga qarashli bo'lgan Gudzon ko'rfazi qirg'oqlaridagi keng yerlar; 5) Luiziananing bir qismi; 6) Ispan mustamlakalari bilan savdo qilish huquqi; 7) A",
+   "options": [
+    "1, 3, 4, 6, 7",
+    "2, 3, 5, 7, 8",
+    "2, 4, 5, 6, 7",
+    "1, 2, 4, 6, 8"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Utrext sulhi” dan avvalroq Angliya qaysi davlatning iqtisodiy va siyosiy tobeligiga erishgan edi?",
+   "options": [
+    "Gollandiyaning",
+    "Ispaniyaning",
+    "Portugaliyaning",
+    "Fransiyaning"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Angliya qaysi davlatdan Yamayka orolini protektorat paytida tortib olgan?",
+   "options": [
+    "Gollandiyadan",
+    "Ispaniyadan",
+    "Portugaliyadan",
+    "Fransiyadan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asrda Ispaniya va Gollandiyaning Angliya bilan raqobati qaysi davlat foydasiga hal bo'gan?",
+   "options": [
+    "Angliya",
+    "Ispaniya",
+    "Gollandiya",
+    "Fransiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Butun XVIII asr davomida Angliya qaysi davlat bilan qizg'in kurash olib borgan?",
+   "options": [
+    "Portugaliya",
+    "Ispaniya",
+    "Gollandiya",
+    "Fransiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Angliya va Fransiyaning XVIII asrdagi kurashini o'sha davr kishilari qanday atagan?",
+   "options": [
+    "“Ikki yuz yillik urush”",
+    "“Anglo-frank urushi”",
+    "“Ikkinchi yuz yillik urush”",
+    "“Atlantika urushi”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asrning 40-yillarida Angliya va Fransiya savdo raqobati Amerikaga ko'chib, qaysi hudud uchun ochiq urushga aylangan?",
+   "options": [
+    "Gudzon ko'rfazi",
+    "Virjiniya",
+    "Luiziana",
+    "Kanada"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon inglizlar fransuzlarni Kanadadan umuman siqib chiqargan?",
+   "options": [
+    "1751-yilda",
+    "1763-yilda",
+    "1733-yilda",
+    "1746-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asrda Angliya Hindiston uchun qaysi davlat bilan kurashgan?",
+   "options": [
+    "Portugaliya",
+    "Ispaniya",
+    "Gollandiya",
+    "Fransiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Angliyaning “Ost Indiya” kompaniyasi XVII asrda qayerni egallab, bir nechta mustahkamlangan portlarni barpo qilgan?",
+   "options": [
+    "Bengaliya",
+    "Bixar",
+    "Madras",
+    "Bombey"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hindistondagi qayer Mumbay deb ham atalgan?",
+   "options": [
+    "Bombey",
+    "Bixar",
+    "Bengaliya",
+    "Madras"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransuzlar bilan inglizlar o'rtasida Hindiston uchun ochiq urush qachon boshlanib ketgan?",
+   "options": [
+    "XVII asr oxirlarida",
+    "XVIII asr boshlarida",
+    "XVIII asr o'rtalarida",
+    "XVIII asr oxirlarida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asrda Angliya Hindistonning shimoli-sharqidagi qaysi hududni egallagan?",
+   "options": [
+    "Bombey",
+    "Bixar",
+    "Bengaliya",
+    "Madras"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi Hindistondagi qaysi hududlar Angliya tomonidan XVIII asrda egallangan? 1) Bombey; 2) Bixar; 3) Bengaliya; 4) Madras.",
+   "options": [
+    "1, 2, 3",
+    "2, 3, 4",
+    "1, 2, 4",
+    "1, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asrda Fransiya Hindistonda nechta joyni, uni ham mustahkamlamaslik sharti bilan o'zida saqlab qolgan?",
+   "options": [
+    "Beshta joyni",
+    "Oltita joyni",
+    "Yettita joyni",
+    "Sakkizta joyni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davrda Buyuk Britaniya ko'pgina mustamlakalarga: Shimoliy Amerikada 13 ta shtat, Kanada, Nyufaundlend oroli, Karib dengizidagi orollar, Hindistonning bir qismi va Afrikadagi faktoriyalarga ega bo'lgan?",
+   "options": [
+    "XVIII asrning 40-yillarida",
+    "XVIII asrning 50-yillarida",
+    "XVIII asrning 60-yillarida",
+    "XVIII asrning 70-yillarida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Utrext sulhi” qachon imzolangan?",
+   "options": [
+    "1712-yilda",
+    "1713-yilda",
+    "1714-yilda",
+    "1715-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Angliyada necha yil ichida yuz bergan “agrar inqilob” oqibatida yerlar yirik mulkdorlar qo'lida to'plangan, dehqonlar yo'qolgan, qishloq xo'jaligida yollanma ishchilar asosiy kuch bo'lib qolgan?",
+   "options": [
+    "Yuz yil",
+    "Yuz ellik yil",
+    "Ikki yuz yil",
+    "Ikki yuz ellik yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi davrga kelib Angliyada an'anaviy yer egalari – dehqonlar qariyb qolmagan?",
+   "options": [
+    "XVII asrning 40-yillariga",
+    "XVII asrning 50-yillariga",
+    "XVII asrning 60-yillariga",
+    "XVII asrning 70-yillariga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "… – manufaktura ishlab chiqarishidan mashinalar keng qo'llaniladigan fabrika ishlab chiqarishiga o'tish.",
+   "options": [
+    "Narx-navo inqilobi",
+    "Industrial sivilizatsiya",
+    "Sanoat to'ntarishi",
+    "Kapitalistik jamiyat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Angliyada XVII asrda yirik yer egaligining shakllanishi qaysi mahsulot ishlab chiqarishni ko'paytirish uchun sharoit yaratgan va ushbu mahsulot narxining pasayishiga olib kelgan?",
+   "options": [
+    "Don",
+    "Paxta",
+    "Kartoshka",
+    "Jun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davrga kelib, Angliyada sanoat to'ntarishi uchun sharoit yetilgan edi?",
+   "options": [
+    "XVII asr oxirlariga",
+    "XVIII asr boshlariga",
+    "XVIII asr o'rtalariga",
+    "XVIII asr oxirlariga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Angliyada sanoat to'ntarishi dastlab qaysi sohada boshlangan?",
+   "options": [
+    "To'qimachilik",
+    "Ko'mir qazib olish",
+    "Metallurgiya",
+    "Kemasozlik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Angliyada nima sababdan sanoat to'ntarishi to'qimachilikda boshlangan? 1) Ishlab chiqarishni chegaralaydigan sexlarning yo'qligi; 2) Parlament tomonidan sohani rivojlantirish bo'yicha chiqarilgan qonun; 3) Arzonligi va chidamliligi jihatidan hind matolari bilan bellasha oladigan mahsulotga ehtiyojni",
+   "options": [
+    "1, 2, 3",
+    "1, 2",
+    "2, 3",
+    "1, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon to'quvchi va mexanik Jon Key to'quv dastgohini ixtiro qilgan?",
+   "options": [
+    "1742-yilda",
+    "1733-yilda",
+    "1761-yilda",
+    "1758-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "To'quvchi va mexanik Jon Keyning to'quv dastgohi to'qish jarayonini necha marta tezlashtirgan?",
+   "options": [
+    "2 marta",
+    "3 marta",
+    "4 marta",
+    "5 marta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon to'quvchi Jeyms Xargrivs mexanik urchuq ixtiro qilgan?",
+   "options": [
+    "1765-yilda",
+    "1767-yilda",
+    "1761-yilda",
+    "1769-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "To'quvchi Jeyms Xargrivs ixtiro qilgan mexanik urchuqda bir yo'la nechta yigirgich ishlagan?",
+   "options": [
+    "13–16 yigirgich",
+    "14–17 yigirgich",
+    "15 –18 yigirgich",
+    "16 –19 yigirgich"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kim qizining nomi bilan “Jenni” deb atalgan mexanik urchuq ixtiro qilgan?",
+   "options": [
+    "Jon Key",
+    "Edmund Kartrayt",
+    "Jeyms Uatt",
+    "Jeyms Xargrivs"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon duradgor Xeys suv g'ildiragi (charx) bilan harakatga keltiriladigan mashina yaratgan?",
+   "options": [
+    "1765-yilda",
+    "1767-yilda",
+    "1761-yilda",
+    "1769-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kimning yangi dastgohi to'quvchilik ishlab chiqarishi unumdorligini 40 martaga oshirgan?",
+   "options": [
+    "Jon Key",
+    "Edmund Kartrayt",
+    "Jeyms Uatt",
+    "Jeyms Xargrivs"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Universal bug' mashinasi kim tomonidan yaratilgan?",
+   "options": [
+    "Jon Key",
+    "Edmund Kartrayt",
+    "Jeyms Uatt",
+    "Jeyms Xargrivs"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi metallurg metallarni prokatlash stani (chig'irlash ustaxonasi) ni ixtiro qilgan?",
+   "options": [
+    "Modsli",
+    "Xeys",
+    "Uatt",
+    "Kort"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tokarlik dastgohini kim yaratgan?",
+   "options": [
+    "Modsli",
+    "Xeys",
+    "Uatt",
+    "Kort"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Angliyada birinchi bo'lib dastgoh buzgan afsonaviy ishchi kim?",
+   "options": [
+    "Ned Ludd",
+    "Jon Boll",
+    "Uot Tayler",
+    "Jorj Bayron"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Luddchilar” kimlarning harakati bo'lgan?",
+   "options": [
+    "Ish haqi oshirilishi uchun kurashuvchilar",
+    "Mashina va dastgohlarni buzuvchilar",
+    "Ishchilar kasaba uyushmalarini tuzuvchilar",
+    "Korxona va fabrikalarni yoquvchilar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Angliya parlamenti mashinalarni buzganlik uchun o'lim jazosi berish haqida qonunni qabul qilgan?",
+   "options": [
+    "1765-yilda",
+    "1767-yilda",
+    "1761-yilda",
+    "1769-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Angliyada necha nafar luddchi qatl etilgan?",
+   "options": [
+    "20 nafar",
+    "30 nafar",
+    "40 nafar",
+    "50 nafar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Ajabmasmi, ochlik mehmonga kelib, Qashshoq jon holatda faryodlar ursa. Dastgoh sindirganning suyagi sinib, Hayot paypoqdan ham arzonroq tursa”. Ushbu jumlalar muallifi kim?",
+   "options": [
+    "Ned Ludd",
+    "Jon Boll",
+    "Redyard Kipling",
+    "Jorj Bayron"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachonga kelib Angliya dunyoning birinchi sanoat mamlakatiga aylangan?",
+   "options": [
+    "XVII asr oxiriga",
+    "XVIII asr boshiga",
+    "XVIII asr o'rtasiga",
+    "XVIII asr oxiriga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Boshqa davlat yoki mustamlaka hududida xorijiy (ko'pincha, yevropalik) savdogarlar tomonidan tashkil etilgan savdo manzilgohi qanday atalgan?",
+   "options": [
+    "Uniya",
+    "Gildiya",
+    "Faktoriya",
+    "Korporatsiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Faktoriya” so'zi kelib chiqqan “factorie” so'zi qaysi tildan olingan?",
+   "options": [
+    "Lotin tilidan",
+    "Fransuz tilidan",
+    "Ingliz tilidan",
+    "Yunon tilidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bir monarx boshchiligidagi davlatlar ittifoqi quyidagi qaysi atama bilan ataladi?",
+   "options": [
+    "“Uniya”",
+    "“Federatsiya”",
+    "“Konfederatsiya”",
+    "“Imperiya”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Uniya” so'zi qaysi tildan olingan?",
+   "options": [
+    "Lotin tilidan",
+    "Fransuz tilidan",
+    "Ingliz tilidan",
+    "Yunon tilidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Uniya” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Jipslashmoq”",
+    "“Birlashmoq”",
+    "“To'planmoq”",
+    "“Yig'ilmoq”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bugungi kunda Buyuk Britaniyaning rasmiy nomi qanday?",
+   "options": [
+    "Buyuk Britaniya va Shimoliy Irlandiya Qo'shma Qirolligi",
+    "Buyuk Britaniya va Shotlandiya Qo'shma Qirolligi",
+    "Buyuk Britaniya va Uels Qo'shma Qirolligi",
+    "Buyuk Britaniya va Angliya Qo'shma Qirolligi"
+   ],
+   "answer": 0
+  }
+ ]
+}

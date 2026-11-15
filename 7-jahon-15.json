@@ -1,0 +1,686 @@
+{
+ "title": "7-sinf · Amerika o'rta asrlarda",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Asteklar davlati hozirgi qaysi davlat hududida bo'lgan?",
+   "options": [
+    "Meksika",
+    "Peru",
+    "Braziliya",
+    "Argentina"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Inklarda dehqonlar yetishtirilgan hosilning taqsimoti to'g'ri berilgan javobni aniqlang. 1. Birinchi qismi 2. Ikkinchi qismi 3. Uchinchi qismi a) jamoaga b) hukmdorga c) ibodatxonaga",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-c, 2-a, 3-b",
+    "1-b, 2-c, 3-a",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mayyaliklarda mamlakat poytaxti qayer bo'lgan?",
+   "options": [
+    "Chichen-Itsa",
+    "Chicheniston",
+    "Tenochtitlan",
+    "Urubanba"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markaziy va Janubiy Amerikaning tog' va tog'oldi hududlarida qanday xo'jalik vujudga kelib keng taraqqiy etgan?",
+   "options": [
+    "Dehqonchilik",
+    "Chorvachilik",
+    "Hunarmandchilik",
+    "Savdo-sotiq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amerika qit'asida qaysi qabilalar sun'iy to'g'onlar bunyod etib, ibodatxona va saroylar qurishgan?",
+   "options": [
+    "Inklar davlati",
+    "Mayyalar davlati",
+    "Asteklar davlati",
+    "Irokezlar davlati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davlat hukmdori \"Quyoshning o'g'li\", uning yerdagi ramzi sanalgan?",
+   "options": [
+    "Asteklar davlati",
+    "Mayyalar davlati",
+    "Inklar davlati",
+    "Irokezlar davlati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Inklar tuyasimon lamalarni nima maqsadda boqishgan?",
+   "options": [
+    "Juni uchun",
+    "Go'shti uchun",
+    "Yuk tashish uchun",
+    "A, B, C"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kimlarning iqtisodiy-madaniy taraqqiyoti milodiy asr boshlarida yozuvni yaratish imkonini beradi?",
+   "options": [
+    "Asteklar",
+    "Mayyaliklar",
+    "Inklar",
+    "Irokezlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Asteklar xo'jaligining asosi nima bo'lgan?",
+   "options": [
+    "Termachilik",
+    "Ovchilik",
+    "Sug'orma dehqonchilik",
+    "Chorvachilik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davlat viloyatlari orasida pochta xizmati o'rnatilgan?",
+   "options": [
+    "Asteklar davlati",
+    "Mayyalar davlati",
+    "Inklar davlati",
+    "Irokezlar davlati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mayyalarda har bir shaharga kimlar hukmdorlik qilardi?",
+   "options": [
+    "\"Buyuk kishi\"",
+    "\"Quyosh o'g'li\"",
+    "\"O'rinbosar\"",
+    "\"Oliy Inka\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kusko shahriga qaysi daryo havzasida asos soladilar?",
+   "options": [
+    "Amazonka",
+    "Missisipi",
+    "Parana",
+    "Urubamba"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Asteklar haqida xato ma'lumotni toping.",
+   "options": [
+    "Xom g'isht yoki toshdan yasalgan ustunlar ustida uylar bunyod etganlar",
+    "Ma'danlarni bilishmagan",
+    "Urug' jamoa bo'lib yashashgan",
+    "Naqd pul orqali savdo yaxshi rivojlangan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mayyalar hozirgi qaysi davlat hududida yashaganlar?",
+   "options": [
+    "Meksika",
+    "Peru",
+    "Braziliya",
+    "Argentina"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amerikada hindular qanday parrandalar saqlagan?",
+   "options": [
+    "Kurka va o'rdak",
+    "G'oz va turna",
+    "Tovuq va bulbul",
+    "A, B, C"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davlatda urushlar, hosilsizlik yilari yoki turli tabiiy ofatlar paytida, barcha jabrlanganlarga davlat zaxirasidan makka doni va quritilgan kartoshka tarqatilgan?",
+   "options": [
+    "Asteklar davlati",
+    "Mayyalar davlati",
+    "Inklar davlati",
+    "Irokezlar davlati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amerika qit'asiga dastlabki odamlar qaysi bo'g'oz orqali o'tgan?",
+   "options": [
+    "Bosfor bo'g'ozi",
+    "Dreyk bo'g'ozi",
+    "Gibraltar bo'g'ozi",
+    "Bering bo'g'ozi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Kusko shahriga asos soladilar?",
+   "options": [
+    "XI-XII asrlarda",
+    "XII-XIII asrlarda",
+    "XIII-XIV asrlarda",
+    "XIV-XV asrlarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Markaziy va Janubiy Amerikaning tog' va tog'oldi hududlarida kimlar yashaganlar? 1. Barbar 2. Astek 3. Olmek 4. Masai 5. Galla 6. Kechua 7. Mayya 8. Tuareg 9. Fulbe 10. Toltek",
+   "options": [
+    "1-2-3-4-5",
+    "3-6-7-8-10",
+    "1-3-5-7-9",
+    "2-3-6-7-10"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Inklar bo'lmagan jamoa dehqonlari yetishtirilgan hosilning qancha qismini ibodatxona va davlatga topshirishgan?",
+   "options": [
+    "1/3",
+    "1/4",
+    "2/3",
+    "2/4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Milodiy I mingyillikda mayyalarda nima vujudga keladi?",
+   "options": [
+    "Sug'orma dehqonchilik",
+    "Shahar-davlatlar",
+    "Xususiy mulkchilik",
+    "A, B, C"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Inklarda yuksalgan sohalarni belgilang. 1. Oltin qazib olish 2. Kumush qazib olish 3. Zargarlik 4. To'qimachilik 5. Bo'yoqchilik 6. Qurilish 7. Oltin va kumushdan buyumlar tayyorlash 8. Kulolchilik",
+   "options": [
+    "2,3,4,5,6",
+    "3,4,5,6,8",
+    "1,2,3,4,5",
+    "1,3,5,7,8"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amerika qit'asidagi qaysi davlat qush patlaridan tovus kabi tovlanadigan kashtalar tikishga mohir bo'lishgan?",
+   "options": [
+    "Inklar davlati",
+    "Mayyalar davlati",
+    "Asteklar davlati",
+    "Irokezlar davlati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Inklarda asosiy ekinlar nima bo'lgan?",
+   "options": [
+    "Kartoshka va makkajo'xori",
+    "Pomidor va kungaboqar",
+    "Karam va sabzi",
+    "Kakao va tamaki"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi shaharda tosh yo'llar barpo etilgan?",
+   "options": [
+    "Kusko",
+    "Palenke",
+    "Tenochtitlan",
+    "Chichen-Itsa"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Asteklar davlati poytaxti?",
+   "options": [
+    "Kusko",
+    "Palenke",
+    "Tenochtitlan",
+    "Chichen-Itsa"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Inklar davlati poytaxti?",
+   "options": [
+    "Kusko",
+    "Palenke",
+    "Tenochtitlan",
+    "Chichen-Itsa"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tlatoani qanday vazifalarni bajargan?",
+   "options": [
+    "Bosh kohin",
+    "Lashkarboshi",
+    "Oliy hukmdor",
+    "A, B, C"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kimlar sollarda \"suzuvchi dalalar\" yaratganlar?",
+   "options": [
+    "Asteklar",
+    "Mayyalar",
+    "Inklar",
+    "Irokezlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davlatni Oliy Inka boshqargan?",
+   "options": [
+    "Asteklar davlati",
+    "Mayyalar davlati",
+    "Inklar davlati",
+    "Irokezlar davlati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amerikada hindularning mehnat va ov qurollari nimadan yasalgan?",
+   "options": [
+    "Tosh",
+    "Jez",
+    "Yog'och",
+    "A, B, C"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Asteklarda eng muhim ekin nima bo'lgan?",
+   "options": [
+    "Kartoshka",
+    "Makkajo'xori",
+    "Pomidor",
+    "Kungaboqar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Olimlarning fikricha Amerika qit'asiga dastlabki odamlar qayerdan ko'chib borganlar?",
+   "options": [
+    "Janubiy Osiyodan",
+    "Sharqiy Osiyodan",
+    "G'arbiy Osiyodan",
+    "Shimoliy Osiyodan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Inklar davlati chegaralari to'g'ri berilgan javobni aniqlang.",
+   "options": [
+    "Alp tog'laridan Tinch okeaniga qadar",
+    "Tenochtitlandan Atlantika okeanigacha",
+    "And tog'laridan Tinch okeanigacha",
+    "Chichenitsadan Atlantika okeaniga qadar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi Amerika qabilasi turli tabiat kuchlari, yer va suv ilohlariga e'tiqod qilishgan?",
+   "options": [
+    "Asteklar",
+    "Mayyalar",
+    "Inklar",
+    "Irokezlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Ink\" atamasi dastlab nimaning nomidan kelib chiqqan?",
+   "options": [
+    "Urug'",
+    "Qabila",
+    "Daryo",
+    "Tog'"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amerikada qaysi xalqlar o'zlarining davlatlarini barpo qilganlar?",
+   "options": [
+    "Barbar, tuareg, fulbe",
+    "Masai, galla, sidamo",
+    "Mayya, astek, kechua",
+    "Olmek, toltek, tigre"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Inklar nimalar yetishtirishgan? 1. Olma 2. Banan 3. Anor 4. Paxta 5. Qovoq 6. Sholg'om 7. Ananas 8. Apelsin",
+   "options": [
+    "1,3,5,7,8",
+    "2,4,5,7",
+    "2,3,4,5",
+    "3,4,5,8"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amerika qit'asiga dastlabki odamlar qachon o'tgan?",
+   "options": [
+    "Bundan 50 ming yil avval",
+    "Bundan 40 ming yil avval",
+    "Bundan 30 ming yil avval",
+    "Bundan 20 ming yil avval"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Janubiy Amerikaning And tog'lari yon bag'rida qaysi davlat vujudga kelgan?",
+   "options": [
+    "Asteklar davlati",
+    "Mayyalar davlati",
+    "Inklar davlati",
+    "Irokezlar davlati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amerika qabilalarining asosiy qismi nima bilan shug'ullangan?",
+   "options": [
+    "Dehqonchilik va hunarmandchilik",
+    "Dehqonchilik va chorvachilik",
+    "Chorvachilik va hunarmandchilik",
+    "Ovchilik va baliqchilik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kimlar kechua tillariga mansub xalq?",
+   "options": [
+    "Asteklar",
+    "Mayyalar",
+    "Inklar",
+    "Irokezlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi xalq ekinzorlaridan yiliga bir necha marta hosil olishgan?",
+   "options": [
+    "Inklar davlati",
+    "Irokezlar davlati",
+    "Mayyalar davlati",
+    "Asteklar davlati"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amerikaga ot, sigir, qo'y va echkilar qayerdan olib kelingan?",
+   "options": [
+    "Afrika",
+    "Avstraliya",
+    "Osiyo",
+    "Yevropa"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yukatan yarim oroli hozirgi qaysi davlat hududida joylashgan?",
+   "options": [
+    "Meksika",
+    "Peru",
+    "Braziliya",
+    "Argentina"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tenochtitlan shahriga qachon asos soladilar?",
+   "options": [
+    "IX asrda",
+    "X asrda",
+    "XI asrda",
+    "XII asrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Asteklarda hunarmandchilikning qaysi sohalari yaxshi rivojlangan? 1) qurolsozlik 2) kulolchilik 3) me'morchilik 4) zargarlik 5) shishasozlik 6) to'qimachilik",
+   "options": [
+    "2, 4, 6",
+    "1, 2, 5",
+    "2, 3, 4",
+    "1, 3, 6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amerikada yevropaliklarga ma'lum bo'lmagan qanday ekinlar o'stirilgan?",
+   "options": [
+    "Makkajo'xori, kartoshka",
+    "Kungaboqar, pomidor",
+    "Kakao, tamaki",
+    "A, B, C"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi davlatda hukmron qabila vakillaridan tlatoani - lashkarboshi saylangan?",
+   "options": [
+    "Asteklar davlati",
+    "Mayyalar davlati",
+    "Inklar davlati",
+    "Irokezlar davlati"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markaziy Amerikaning Yukatan yarim orolida qadimdan qaysi xalq yashab kelgan?",
+   "options": [
+    "Asteklar",
+    "Mayyalar",
+    "Inklar",
+    "Irokezlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kimlar sayyoralarning quyosh tevaragida aylanish vaqtini hisoblab chiqqanlar hamda Quyosh va Oyning tutilishini oldindan aytib bera olganlar?",
+   "options": [
+    "Asteklar",
+    "Mayyalar",
+    "Inklar",
+    "Irokezlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Piktografik yozuv – pictus (1) \"rasmli\" va grapho (2) \"yozaman\", ya'ni rasmli yozuv. Quyidagi matndagi nuqtalar o'rniga mos so'zni toping?",
+   "options": [
+    "(1) Lotincha (2) Lotincha",
+    "(1) Lotincha (2) Yunoncha",
+    "(1) Yunoncha (2) Lotincha",
+    "(1) Yunoncha (2) Yunoncha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi xalq zargarlari qadalma naqshlar (mozaika) yasashgan?",
+   "options": [
+    "Inklar davlati",
+    "Irokezlar davlati",
+    "Mayyalar davlati",
+    "Asteklar davlati"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kimlar maxsus tepaliklar yasab, baland poydevorlar ustida o'zlarining zinapoyali ehromlarini, saroy va ibodatxonalarini barpo etganlar?",
+   "options": [
+    "Inklar davlati",
+    "Irokezlar davlati",
+    "Mayyalar davlati",
+    "Asteklar davlati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kimlarda Piktografik yozuv shakllangan?",
+   "options": [
+    "Inklar davlati",
+    "Irokezlar davlati",
+    "Mayyalar davlati",
+    "Asteklar davlati"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi xalqda xalq bolalari uchun maktablarda dehqonchilik, hunarmandchilik va harbiy ish o'rgatilgan?",
+   "options": [
+    "Inklar davlati",
+    "Irokezlar davlati",
+    "Mayyalar davlati",
+    "Asteklar davlati"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qayerda har yili madhiya, qissalar yozadigan shoir-qo'shiqchilar musobaqalari o'tkazilib, g'oliblar mukofotlangan?",
+   "options": [
+    "Kusko",
+    "Palenke",
+    "Tenochtitlan",
+    "Chichen-Itsa"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qayerda zodagonlarning farzandlari va oddiy xalq bolalari uchun alohida-alohida maktablar bo'lgan?",
+   "options": [
+    "Kusko",
+    "Palenke",
+    "Tenochtitlan",
+    "Chichen-Itsa"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kimlarda zodagonlarning bolalari maxsus maktablarda o'qigan?",
+   "options": [
+    "Inklar davlati",
+    "Irokezlar davlati",
+    "Mayyalar davlati",
+    "Asteklar davlati"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tugunli xat kimlarga tegishli bo'lgan?",
+   "options": [
+    "Inklar davlati",
+    "Irokezlar davlati",
+    "Mayyalar davlati",
+    "Asteklar davlati"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tugunli xat sirlari faqat kimlarga ma'lum bo'lgan?",
+   "options": [
+    "Hukmdorlarga",
+    "Ruhoniylarga",
+    "Amaldorlarga",
+    "Hammaga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kimlarning saroy va ibodatxonalarining derazalari bo'lmagan, ular eshiklar orqali yoritilgan. Tekis va ravon shahar ko'chalari toshdan bunyod etilgan?",
+   "options": [
+    "Inklar davlati",
+    "Irokezlar davlati",
+    "Mayyalar davlati",
+    "Asteklar davlati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kimlarda zodagonlarning farzandlari esa tarix, husnixat, o'qish, hisoblash, astronomiya, she'riyat, notiqlik san'atlari asoslarini o'rganishgan?",
+   "options": [
+    "Inklar davlati",
+    "Irokezlar davlati",
+    "Mayyalar davlati",
+    "Asteklar davlati"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Inklar qaysi fanlar bo'yicha chuqur bilimga ega bo'lishgan? 1. Geografiya 2. Tibbiyot 3. Matematika 4. Astronomiya 5. Botanika 6. Geometriya",
+   "options": [
+    "1,2,3,4,5",
+    "1,2,3,4,6",
+    "2,3,4,5,6",
+    "1,3,5,6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kimlarning aniq taqvimi 12 oyga bo'lingan?",
+   "options": [
+    "Mayyaliklar",
+    "Inklar",
+    "Asteklar",
+    "Irokezlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kimlarning tabiblari inson bosh suyagida jarrohlik muolajalarini amalga oshirishni bilganlar?",
+   "options": [
+    "Inklar",
+    "Irokezlar",
+    "Asteklar",
+    "Mayyaliklar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Antioxiya jangi qachon bo'lib o'tgan?",
+   "options": [
+    "1096-yil 20-oktabrda",
+    "1097-yil 20-oktabrda",
+    "1098-yil 20-noyabrda",
+    "1097-yil 20-dekabrda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bogemond I qo'mondonligidagi salibchilar bilan Mosul amiri Kerboga qo'shini o'rtasida qayer uchun jang bo'lib o'tadi?",
+   "options": [
+    "Ravenna",
+    "Venetsiya",
+    "Antioxiya",
+    "Aleksandriya"
+   ],
+   "answer": 2
+  }
+ ]
+}

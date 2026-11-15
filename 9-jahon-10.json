@@ -1,0 +1,956 @@
+{
+ "title": "9-sinf · 10-mavzu. Rossiya: knyazlikdan imperiyaga",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Oltin O'rdaga qaramlikdan ozod bo'lgan Rus yerlarining Moskva atrofida birlashish jarayoni qachon nihoyasiga yetgan?",
+   "options": [
+    "XV asr oxirlarida",
+    "XVI asr boshlarida",
+    "XVI asr o'rtalarida",
+    "XVI asr oxirlarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ivan IV qachon Rossiya taxtga o'tirgan?",
+   "options": [
+    "1547-yilda",
+    "1549-yilda",
+    "1552-yilda",
+    "1554-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rossiya tarixida kim birinchi bor podsholik (sar) tojini kiygan?",
+   "options": [
+    "Boris Godunov",
+    "Mixail Romanov",
+    "Ivan IV",
+    "Pyotr I"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rusda hukmdorlar ilgari qanday atalgan?",
+   "options": [
+    "“Buyuk podsho”",
+    "“Buyuk boyar”",
+    "“Buyuk voyevoda”",
+    "“Buyuk knyaz”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi rus hukmdori ichki siyosatining asosiy maqsadi dvoryanlar tabaqasini kuchaytirish orqali boyarlar mavqeyini zaiflashtirishga qaratilgan edi?",
+   "options": [
+    "Boris Godunov",
+    "Mixail Romanov",
+    "Ivan IV",
+    "Pyotr I"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Rossiya podshohi Ivan IV birinchi bor erkin aholi turli toifalari vakillarining yig'ilishini – Zemstvo soborini chaqirgan?",
+   "options": [
+    "1547-yilda",
+    "1549-yilda",
+    "1552-yilda",
+    "1554-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiyaning yangi qonunlar to'plami “Sudebnik” ga ko'ra, … . 1) Dvoryanlarni jinoyat va nojo'ya qilmishlari uchun boyarlar sudiga berish taqiqlangan; 2) Dvoryanlardan ming nafariga Moskva uyezdidan yer-mulk ajratib berilgan; 3) Davlat lavozimlarini faqat zodagon naslidan bo'lgan kishilar egallashi t",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ivan IV davrida Rossiyada tuzilgan joylardagi mahalliy o'zini o'zi boshqarish organlari qanday atalgan?",
+   "options": [
+    "Zemstvo",
+    "Uyezd",
+    "Sudebnik",
+    "Oprichnina"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rossiyada boyarlar hokimiyatiga zarba berish maqsadida Ivan IV qachon mamlakat yerlaridan katta qismini ajratib olgan?",
+   "options": [
+    "1583-yilda",
+    "1572-yilda",
+    "1565-yilda",
+    "1569-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rossiyada boyarlar hokimiyatiga zarba berish maqsadida Ivan IV mamlakat yerlaridan ajratib olgan qismi qanday atalgan?",
+   "options": [
+    "Zemstvo",
+    "Uyezd",
+    "Sudebnik",
+    "Oprichnina"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Oprichnina” so'zining ma'nosi nima?",
+   "options": [
+    "“Qo'shib berilgan”",
+    "“Sovg'a qilingan”",
+    "“Musodara etilgan”",
+    "“Ajratib olingan”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi Rossiya hukmdori “Grozniy” laqabi bilan atalgan?",
+   "options": [
+    "Boris Godunov",
+    "Mixail Romanov",
+    "Ivan IV",
+    "Pyotr I"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Grozniy” so'zining ma'nolarini toping. 1) “Dahshatli”; 2) “Qo'rqinchli”; 3) “Qudratli”.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Rossiya hukmdori Ivan IV oprichninani bekor qilishga majbur bo'lgan?",
+   "options": [
+    "1583-yilda",
+    "1572-yilda",
+    "1565-yilda",
+    "1569-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Rossiya podshohi Ivan IV ning o'g'li Fyodor Ivanovich vafot etgan?",
+   "options": [
+    "1579-yilda",
+    "1587-yilda",
+    "1598-yilda",
+    "1591-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ryuriklar sulolasi Rossiyani necha yil boshqargan?",
+   "options": [
+    "500 yil",
+    "600 yil",
+    "700 yil",
+    "800 yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rossiya podshohi Ivan IV ning o'g'li Fyodor Ivanovich o'zidan voris qoldirmasdan vafot etgach, Zemstvo sobori kimni podsho etib saylagan?",
+   "options": [
+    "Boris Godunov",
+    "Kuzma Minin",
+    "Dmitriy Pojarskiy",
+    "Mixail Romanov"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rossiyada kimning vafotidan keyin notinch, g'alayonlar davri boshlangan va qisqa vaqt ichida bir nechta podsho almashgan?",
+   "options": [
+    "Boris Godunov",
+    "Kuzma Minin",
+    "Dmitriy Pojarskiy",
+    "Mixail Romanov"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Boris Godunov vafot etgach, Rossiyaning ichki ishlariga qaysi davlatlar zo'r berib aralasha boshlaganlar?",
+   "options": [
+    "Litva va Polsha",
+    "Polsha va Shvetsiya",
+    "Shvetsiya va Daniya",
+    "Daniya va Litva"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiyada notinch, g'alayonlar davrida qaysi davlat Moskvani egallab olgan?",
+   "options": [
+    "Litva",
+    "Shvetsiya",
+    "Prussiya",
+    "Polsha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rossiya tarixidagi notinch, g'alayonlar davrida kimlar yetakchiligida xalq lashkari to'plangan?",
+   "options": [
+    "Boris Godunov va Mixail Romanov",
+    "Mixail Romanov va Kuzma Minin",
+    "Kuzma Minin va Dmitriy Pojarskiy",
+    "Dmitriy Pojarskiy va Boris Godunov"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi shaxslardan qaysi biri qishloq oqsoqoli bo'lgan?",
+   "options": [
+    "Boris Godunov",
+    "Kuzma Minin",
+    "Dmitriy Pojarskiy",
+    "Mixail Romanov"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi shaxslardan qaysi biri sarkarda bo'lgan?",
+   "options": [
+    "Boris Godunov",
+    "Kuzma Minin",
+    "Dmitriy Pojarskiy",
+    "Mixail Romanov"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Kuzma Minin va Dmitriy Pojarskiy yetakchiligidagi xalq lashkari Moskva uchun bo'lgan janglarda Polsha qo'shinini mag'lubiyatga uchratgan va Moskvani chet el bosqinchilaridan ozod qilgan?",
+   "options": [
+    "1612-уilda",
+    "1613-уilda",
+    "1614-уilda",
+    "1615-уilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Moskvada chaqirilgan Zemstvo sobori Mixail Romanovni Rossiya podshosi etib saylagan?",
+   "options": [
+    "1612-уilda",
+    "1613-уilda",
+    "1614-уilda",
+    "1615-уilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Romanovlar sulolasi Rossiyani qachongacha boshqargan?",
+   "options": [
+    "1918-yil aprelgacha",
+    "1915-yil dekabrgacha",
+    "1909-yil iyulgacha",
+    "1917-yil fevralgacha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi asrdan Rossiya iqtisodiyotida yangi alomatlar bozorda sotish uchun mo'ljallangan mahsulot ishlab chiqarishning rivojlanishida va manufakturalar vujudga kelishida namoyon bo'lgan?",
+   "options": [
+    "XV asrdan",
+    "XVI asrdan",
+    "XVII asrdan",
+    "XVIII asrdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVII asrda Rossiyada asosiy oziq-ovqat mahsuloti nima edi?",
+   "options": [
+    "G'alla",
+    "Kartoshka",
+    "Makkajo'xori",
+    "Javdar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rossiyada absolyut monarxiyaning to'la qaror topishi qaysi hukmdor nomi bilan bog'liq?",
+   "options": [
+    "Boris Godunov",
+    "Mixail Romanov",
+    "Ivan IV",
+    "Pyotr I"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rossiyada Pyotr I qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1685–1721-yillarda",
+    "1688–1724-yillarda",
+    "1689–1725-yillarda",
+    "1691–1727-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Pyotr I imperator deb e'lon qilingan va Buyuk Pyotr degan nom olgan?",
+   "options": [
+    "1721-yilda",
+    "1724-yilda",
+    "1725-yilda",
+    "1727-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVIII asr oxiriga kelib Rossiyada aholi soni qanchaga yetgan?",
+   "options": [
+    "26 mln. kishiga",
+    "36 mln. kishiga",
+    "46 mln. kishiga",
+    "56 mln. kishiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Rossiyada yangi ekinlar - tamaki, kartoshka, kungaboqar ekila boshlangan?",
+   "options": [
+    "XVIII asr boshlaridan",
+    "XVIII asr o'rtalaridan",
+    "XVIII asr oxirlaridan",
+    "XIX asr boshlaridan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asrning ikkinchi yarmidan Rossiyada krepostnoy zulmi yanada kuchayganligi kimlarning qonunlarida o'z aksini topgan?",
+   "options": [
+    "Pyotr I va Pyotr III",
+    "Pyotr III va Yelizaveta Petrovna",
+    "Yelizaveta Petrovna va Yekaterina II",
+    "Yekaterina II va Pyotr I"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asrning ikkinchi yarmida Rossiya tomonidan egallangan qaysi yangi hududlarda krepostnoylik huquqi joriy qilingan? 1) Chap qirg'oq Ukraina; 2) Volga orti; 3) Ural etaklari.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rossiyada qaysi yillarda krepostnoy zulmiga qarshi Yemelyan Pugachyov boshchiligidagi dehqonlar urushi bo'lib o'tgan?",
+   "options": [
+    "1771–1773-yillarda",
+    "1772–1774-yillarda",
+    "1773–1775-yillarda",
+    "1774–1776-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davrga kelib Moskva Rusining geosiyosiy holatini uning G'arb bilan Sharq o'rtasida joylashganligi belgilab bergan?",
+   "options": [
+    "XVI asrning boshlariga",
+    "XVI asrning o'rtalariga",
+    "XVI asrning oxirlariga",
+    "XVII asrning boshlariga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI asrning o'rtalarida rus podsholari, avvalo, qaysi tomondan kelayotgan xavfni bartaraf qilishga intilganlar?",
+   "options": [
+    "Sharqdan",
+    "Shimoldan",
+    "Janubdan",
+    "G'arbdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI asrning o'rtalarida Rossiyaning g'arbdagi asosiy raqiblari qaysi davlatlar edi?",
+   "options": [
+    "Shvetsiya va Polsha",
+    "Polsha va Muqaddas Rim imperiyasi",
+    "Muqaddas Rim imperiyasi va Litva",
+    "Litva va Shvetsiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Rossiya tomonidan Qozon xonligi bosib olingan?",
+   "options": [
+    "1556-yilda",
+    "1569-yilda",
+    "1558-yilda",
+    "1552-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Rossiya tomonidan Astraxon (Ashtarxon) xonligi bosib olingan?",
+   "options": [
+    "1556-yilda",
+    "1569-yilda",
+    "1558-yilda",
+    "1552-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi hukmdor davrida Qozon xonligi va Astraxon (Ashtarxon) xonliklari zabt etilib, Rossiya tarkibiga qo'shib olingan?",
+   "options": [
+    "Boris Godunov",
+    "Ivan Grozniy",
+    "Mixail Romanov",
+    "Fyodor Ivanovich"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi davrda Rossiya tomonidan Sibirdagi xonliklar va xalqlarni bo'ysundirish uchun uzoq davom etgan kurash boshlangan?",
+   "options": [
+    "XVI asrning boshlarida",
+    "XVI asrning o'rtalarida",
+    "XVI asrning oxirlarida",
+    "XVII asrning boshlarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiyaning mag'lubiyati bilan yakunlangan “Livon urushi” qaysi yillarda bo'lib o'tgan?",
+   "options": [
+    "1554–1579-yillarda",
+    "1556–1581-yillarda",
+    "1558–1583-yillarda",
+    "1560–1585-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rossiyaning mag'lubiyati bilan yakunlangan “Livon urushi” da qaysi hudud masalasi hal qilinmay qolgan?",
+   "options": [
+    "Ukraina",
+    "Volga orti",
+    "Ural etaklari",
+    "Boltiqbo'yi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Rossiya chegaralarida qudratli davlat – Rech Pospolitaya tashkil topgan?",
+   "options": [
+    "1556-yilda",
+    "1569-yilda",
+    "1558-yilda",
+    "1552-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVII asr boshlarida qaysi davlatlar Rossiyaning katta qismini, jumladan, Moskvani bosib olgan?",
+   "options": [
+    "Shvetsiya va Polsha",
+    "Polsha va Muqaddas Rim imperiyasi",
+    "Muqaddas Rim imperiyasi va Litva",
+    "Litva va Shvetsiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVII asrda Rossiya tashqi siyosatining asosiy vazifasi nima edi?",
+   "options": [
+    "Livon urushida g'alaba qozonish",
+    "Sharqqa yurish",
+    "O'z yerlarni qaytarish",
+    "Boltiqbo'yi masalasini hal qilish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Ukraina Rossiyaga qo'shib olingan?",
+   "options": [
+    "1654-yilda",
+    "1667-yilda",
+    "1672-yilda",
+    "1685-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon tuzilgan sulhga ko'ra, chap qirg'oq Ukraina Kiyev shahri bilan Rossiya tarkibiga kirgan?",
+   "options": [
+    "1654-yilda",
+    "1667-yilda",
+    "1672-yilda",
+    "1685-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi davlat bilan tuzilgan sulhga ko'ra, chap qirg'oq Ukraina Kiyev shahri bilan Rossiya tarkibiga kirgan?",
+   "options": [
+    "Shvetsiya",
+    "Polsha",
+    "Usmoniylar",
+    "Avstriya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVII asrda Rossiya Qora dengizga chiqish yo'lida qaysi davlatning qarshiligini yengishi lozim edi?",
+   "options": [
+    "Shvetsiya",
+    "Polsha",
+    "Usmoniylar",
+    "Avstriya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi Rossiya hukmdori tashqi siyosatining asosiy maqsadlaridan biri mamlakatni kuchli harbiy-dengiz flotiga ega davlatga aylantirish bo'lgan?",
+   "options": [
+    "Boris Godunov",
+    "Mixail Romanov",
+    "Ivan IV",
+    "Pyotr I"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Rossiyaning yangi poytaxti – Sankt-Peterburgga asos solingan?",
+   "options": [
+    "1700-yilda",
+    "1703-yilda",
+    "1705-yilda",
+    "1709-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiya g'alaba qozongan “Shimoliy urush” qaysi yillarda bo'lib o'tgan?",
+   "options": [
+    "1700–1721-yillarda",
+    "1702–1723-yillarda",
+    "1705–1726-yillarda",
+    "1708–1729-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rossiya g'alaba qozongan “Shimoliy urush” qaysi davlatga qarshi olib borilgan edi?",
+   "options": [
+    "Shvetsiya",
+    "Polsha",
+    "Turkiya",
+    "Avstriya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Shimoliy urush” ga yakun yasagan shartnoma qayerda imzolangan?",
+   "options": [
+    "Helsinki shahrida",
+    "Stokgolm shahrida",
+    "Riga shahrida",
+    "Nishtadt shahrida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nishtadt shahri qayerda joylashgan?",
+   "options": [
+    "Shvetsiya",
+    "Norvegiya",
+    "Finlandiya",
+    "Daniya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Shimoliy urush” yakunida imzolangan Rossiya–Shvetsiya tinchlik shartnomasiga ko'ra, Rossiya qaysi dengizga chiqish huquqiga ega bo'lgan?",
+   "options": [
+    "O'rtayer dengiziga",
+    "Qora dengizga",
+    "Shimoliy dengizga",
+    "Boltiq dengiziga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi urushda g'alaba qozonganidan keyin Rossiya Yevropaning qudratli davlatlaridan biriga aylangan?",
+   "options": [
+    "“Livon urushi”",
+    "“Shimoliy urush”",
+    "“Qrim urushi”",
+    "“Yetti yillik urush”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yildagi “Kaspiy yurishi” natijasida ruslar Kaspiy dengizining g'arbiy qirg'og'ini, jumladan, Resht, Boku, Astrobodni zabt etishgan?",
+   "options": [
+    "1722-yildagi",
+    "1725-yildagi",
+    "1728-yildagi",
+    "1731-yildagi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVIII asrning ikkinchi yarmida Rossiyani qaysi imperatorlar boshqargan?",
+   "options": [
+    "Fyodor Ivanovich va Yelizaveta Petrovna",
+    "Yelizaveta Petrovna va Yekaterina II",
+    "Yekaterina II va Pyotr I",
+    "Pyotr I va Fyodor Ivanovich"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi imperatorlar davri Rossiyada “islohotlar davri” hisoblanadi?",
+   "options": [
+    "Fyodor Ivanovich va Yelizaveta Petrovna",
+    "Yelizaveta Petrovna va Yekaterina II",
+    "Yekaterina II va Pyotr I",
+    "Pyotr I va Fyodor Ivanovich"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Yetti yillik urush” qaysi yillarda bo'lib o'tgan?",
+   "options": [
+    "1750–1757-yillarda",
+    "1752–1759-yillarda",
+    "1754–1761-yillarda",
+    "1756–1763-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Taxtga kelgan qaysi imperatorning kaltabin siyosati tufayli “Yetti yillik urush” dagi rus qo'shinining g'alabasini yo'qqa chiqqan?",
+   "options": [
+    "Yekaterina II",
+    "Pyotr I",
+    "Pyotr III",
+    "Yelizaveta Petrovna"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi urushlarda Rossiya g'alaba qozongan? 1) “Shimoliy urush”; 2) “Livon urushi”; 3) “Yetti yillik urush”.",
+   "options": [
+    "1, 2",
+    "2, 3",
+    "1, 3",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asr oxirlarida Rech Pospolitaya qaysi davlatlar tomonidan taqsimlangan?",
+   "options": [
+    "Gabsburglar monarxiyasi, Shvetsiya qirolligi, Litva knyazligi",
+    "Shvetsiya qirolligi, Litva knyazligi, Usmoniylar imperiyasi",
+    "Litva knyazligi, Usmoniylar imperiyasi, Prussiya qirolligi",
+    "Prussiya qirolligi, Rossiya imperiyasi, Gabsburglar monarxiyasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVIII asr oxirlarida Rech Pospolitaya necha marta taqsimlangan?",
+   "options": [
+    "Ikki marta",
+    "Uch marta",
+    "To'rt marta",
+    "Besh marta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asr oxirlarida Rech Pospolitaya qaysi yillarda taqsimlangan? 1) 1772-yilda; 2) 1779-yilda; 3) 1793-yilda; 4) 1795-yilda.",
+   "options": [
+    "2, 3",
+    "1, 2, 3",
+    "1, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asr oxirlarida Rech Pospolitaya taqsimlanishi natijasida Rossiya qaysi hududlarni o'z tarkibiga qo'shib olgan? 1) Kurlandiya; 2) G'arbiy Belorussiya; 3) Livoniya; 4) G'arbiy Ukraina.",
+   "options": [
+    "2, 3",
+    "1, 2, 3",
+    "1, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVIII asrda Rossiyaning qaysi shahrida matematika va navigatsiya fanlari maktabi, artilleriya, tibbiyot maktablari ochilgan?",
+   "options": [
+    "Moskva",
+    "Sankt-Peterburg",
+    "Yekaterinburg",
+    "Kiyev"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVIII asrda Rossiyaning qaysi shahrida Rossiya Fanlar akademiyasi, keyinchalik akademiya qoshida gimnaziya va universitet tashkil topgan?",
+   "options": [
+    "Moskva",
+    "Sankt-Peterburg",
+    "Yekaterinburg",
+    "Kiyev"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon rus olimi M. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil qilingan?",
+   "options": [
+    "1751-yilda",
+    "1769-yilda",
+    "1755-yilda",
+    "1783-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asrda Osiyo bilan Amerika o'rtasidagi qaysi bo'g'oz kashf qilingan?",
+   "options": [
+    "Bering bo'g'ozi",
+    "Magellan bo'g'ozi",
+    "Dreyk bo'g'ozi",
+    "Gibraltar bo'g'ozi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bering bo'g'ozi qaysi qit'alar o'rtasida joylashgan?",
+   "options": [
+    "Amerika bilan Yevropa o'rtasida",
+    "Osiyo bilan Afrika o'rtasida",
+    "Osiyo bilan Amerika o'rtasida",
+    "Amerika bilan Antarktida o'rtasida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asrda Laptevlar ekspeditsiyasi qaysi hududlarni o'rganib chiqqan?",
+   "options": [
+    "Shimoliy dengizni Peterburgdan to Arxangelskgacha bo'lgan hududini",
+    "Shimoliy Muz okeanini Murmanskdan to Chukotkagacha bo'lgan hududini",
+    "Boltiq dengizini Tverdan to Kronshtadgacha bo'lgan hududini",
+    "Shimoliy Muz okeanini Novgoroddan to Kamchatkagacha bo'lgan hududini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asrda Osiyoning eng shimoliy chekkasini kashf etgan shaxsni toping.",
+   "options": [
+    "S. I. Chelyuskin",
+    "M. D. Laptev",
+    "L. I. Polzunov",
+    "I. P. Kulibin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hozirda Osiyoning eng shimoliy chekkasi qanday ataladi?",
+   "options": [
+    "Chelyuskin burni",
+    "Laptev burni",
+    "Polzunov burni",
+    "Kulibin burni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVIII asrda Rossiyada texnik ixtirolarni amalga oshirgan olimlarni toping.",
+   "options": [
+    "I. P. Kulibin, G. D. Derjavin",
+    "G. D. Derjavin, D. I. Fonvizin",
+    "D. I. Fonvizin, I. I. Polzunov",
+    "I. I. Polzunov, I. P. Kulibin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVIII asrda yashab ijod qilgan mashhur rus masalchisi kim?",
+   "options": [
+    "G. D. Derjavin",
+    "D. J. Fonvizin",
+    "I. A. Krilov",
+    "F. G. Volkov"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi hukmdor davrida rus me'morchiligida Yevropa va rus milliy an'analarini uyg'unlashtirgan yo'nalish paydo bo'lgan?",
+   "options": [
+    "Yekaterina II",
+    "Pyotr I",
+    "Pyotr III",
+    "Yelizaveta Petrovna"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rus milliy teatri asoschisi, rus aktyorlarining butun bir avlodini tarbiyalashda katta xizmat ko'rsatgan savdogar shaxs kim?",
+   "options": [
+    "G. D. Derjavin",
+    "D. J. Fonvizin",
+    "I. A. Krilov",
+    "F. G. Volkov"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rossiyadagi birinchi bug' mashinasi va dunyoda birinchi ikki silindrli bug' dvigatelini yaratgan shaxs kim?",
+   "options": [
+    "Xariton Laptev",
+    "Ivan Polzunov",
+    "Ivan Kulibin",
+    "Semyon Chelyuskin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Rus Leonardo da Vinchisi” deb nom olgan shaxs kim?",
+   "options": [
+    "Xariton Laptev",
+    "Ivan Polzunov",
+    "Ivan Kulibin",
+    "Semyon Chelyuskin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Motor yordamida oqimga qarshi suzadigan kema, bir arkali ustunsiz ko'prik loyihasi, uch oyoqli o'ziyurar aravacha (o'ziga xos avtomobil), Yekaterina II uchun lift, protez oyoq, tuxum kattaligida, ichida teatr-avtomat joylashtirilgan soat, projektor kabi ixtirolar muallifi kim?",
+   "options": [
+    "Xariton Laptev",
+    "Ivan Polzunov",
+    "Ivan Kulibin",
+    "Semyon Chelyuskin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rus davlati paydo bo'lganidan beri feodal jamiyatdagi oliy tabaqa, zodagonlar qatlami qanday atalgan?",
+   "options": [
+    "Dvoryan",
+    "Boyar",
+    "Voyevoda",
+    "Krepostnoy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rus davlatida boyarlar … – vorisiylik asosida ota mulk yerlariga egalik qilishgan, o'z hududlarida mutlaq hokimiyatga ega bo'lishgan va knyazga xizmat qilishgan.",
+   "options": [
+    "“oprichnina”",
+    "“pomestye”",
+    "“zemstvo”",
+    "“votchina”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rus davlatida knyaz, podsho xizmatida bo'lgan, harbiy yoki davlat xizmati uchun to'lov sifatida yer – pomestyega egalik qilgan imtiyozli tabaqa qanday atalgan?",
+   "options": [
+    "Dvoryan",
+    "Boyar",
+    "Voyevoda",
+    "Krepostnoy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rus davlatida podsho tomonidan muhim siyosiy masalalarni muhokama qilish va qonunlar qabul qilish uchun yig'ilgan tabaqaviy-vakillik organi qanday atalgan?",
+   "options": [
+    "Boyarlar dumasi",
+    "Zemstvo sobori",
+    "Knyaz yig'ini",
+    "Xalq vechesi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ivan Grozniy davrida podshoning yakkahokimligini o'rnatish, boyarlarning mustaqilligiga barham berish va dushmanlarini zo'rlik va terror vositalari bilan bostirish siyosati qanday atalgan?",
+   "options": [
+    "Oprichnina",
+    "Krepostnoylik",
+    "Votchina",
+    "Zemstvo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "… – ekin maydonlarining kengayishi va chorva mollari sonining ko'payishi hisobiga mahsulot yetishtirishni ko'paytirish, texnikadan yetarli darajada foydalanmaslik, yerga ishlov berishning qoloq usuli va hosilning pastligi.",
+   "options": [
+    "Yalpi dehqonchilik",
+    "Kooperativ dehqonchilik",
+    "Intensiv dehqonchilik",
+    "Ekstensiv dehqonchilik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "… – ekinlar hosildorligi va chorvachilik mahsuldorligini oshirish, yangi texnologiyalar, mexanizatsiya, o'g'itlar va boshqalarni joriy etish orqali mahsulot ishlab chiqarishni ko'paytirish.",
+   "options": [
+    "Yalpi dehqonchilik",
+    "Kooperativ dehqonchilik",
+    "Intensiv dehqonchilik",
+    "Ekstensiv dehqonchilik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dehqonlarning biriktirilgan hududni hokimiyat ruxsatisiz tark etishini, qochib ketganlar majburan qaytarilishini, ma'lum bir feodalning ma'muriy va sud hokimiyatiga bo'ysunishini ta'minlaydigan huquqiy normalar majmuasi qanday ataladi?",
+   "options": [
+    "Oprichnina",
+    "Krepostnoylik",
+    "Votchina",
+    "Zemstvo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Sizlar hech bir narsaga ega emassiz, joningiz – xudoga, taningiz, mol-mulkingiz va bor bisotingiz esa menga tegishli”. Ushbu jumlalar rus davlatidagi qanday siyosat mohiyatini anglatadi?",
+   "options": [
+    "Samoderjaviye",
+    "Oprichnina",
+    "Krepostnoylik",
+    "Zemstvo"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi podsho davrida Rossiya imperiyaga aylangan?",
+   "options": [
+    "Pyotr I",
+    "Ivan IV",
+    "Mixail Romanov",
+    "Boris Godunov"
+   ],
+   "answer": 0
+  }
+ ]
+}

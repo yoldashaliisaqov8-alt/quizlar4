@@ -1,0 +1,856 @@
+{
+ "title": "9-sinf · 1-mavzu. Buyuk geografik kashfiyotlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Adan shahri qayerda joylashgan edi?",
+   "options": [
+    "Yaman",
+    "Suriya",
+    "Eron",
+    "Misr"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Adan shahri savdogarlarining “karimiylar” uyushmashi qachon inqirozga yuz tutgan?",
+   "options": [
+    "XIII asrda",
+    "XIV asrda",
+    "XV asrda",
+    "XVI asrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Adan shahri savdogarlarining “karimiylar” uyushmashi qaysi mahsulot savdosini bir necha asr nazorat qilgan?",
+   "options": [
+    "Oltin",
+    "Ziravor",
+    "Qul",
+    "Ipak"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XV asrda Osiyoda qaysi imperiya tarqalib ketgandan so'ng – quruqlik orqali savdo qiyinlashib qolgan davrda – dengiz savdosi juda katta foyda keltirgan?",
+   "options": [
+    "Temuriylar imperiyasi",
+    "Guptalar imperiyasi",
+    "Mo'g'ullar imperiyasi",
+    "Tan imperiyasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Adan shahri savdogarlarining “karimiylar” uyushmashi inqirozga yuz tutgach, ularning o'rnini Hindistonning qaysi shahridan bo'lgan savdogarlar egallagan?",
+   "options": [
+    "Kalkutta",
+    "Dehli",
+    "Agra",
+    "Gujorat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XV asrda Hindistonning qaysi shahridan bo'lgan savdogarlar Adan va Malakka orollari o'rtasidagi hududda keng ko'lamli savdo tarmog'ini vujudga keltirgan?",
+   "options": [
+    "Kalkutta",
+    "Kambey",
+    "Surat",
+    "Gujorat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XV asrda qayerda hind kemalariga fil suyagi, oltin va Afrikadagi Zanzibar hududi orqali keltirilgan afrikalik qullar, giyohvandlik moddalari, Levantning pushti rang suvi (mushkambar) va venetsiyaliklar olib kelgan mato yuklanardi?",
+   "options": [
+    "Malakka",
+    "Adan",
+    "Gujorat",
+    "Surat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XV asrda …da yuk yuklagan hind kemalari Hindistonning g'arbidagi … yoki … shaharlariga kelar, bu yerda yuklarning katta qismini qoldirib, … to'quvchilari tomonidan tayyorlangan paxta matolarini yuklardi va … yoki … orqali … orollariga suzib ketardi.",
+   "options": [
+    "Adan/Kambey/Surat/Gujorat/Kalkutta/Seylon/ Malakka",
+    "Kambey/Seylon/Gujorat/Kalkutta/Adan/Malakka/ Surat",
+    "Malakka/Kalkutta/Adan/Kambey/Surat/Gujorat/ Seylon",
+    "Kalkutta/Kambey/Malakka/Surat/Adan/Seylon/ Gujorat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XV asrda hind savdogarlari qayerda tovarlarini malay yoki xitoy savdogarlariga o'tkazib, ziravor hamda xitoy tovarlari — ipak mato va chinni yuklab ortga qaytardilar?",
+   "options": [
+    "Kalkutta",
+    "Malakka",
+    "Adan",
+    "Seylon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XV asr o'rtalarida Yaponiyaning qaysi oroliga joylashib olgan xitoy savdogarlari o'ziga xos tizim: Janub, Xitoy va Shimoldan iborat “savdo uchburchagi” ni shakllantirgan?",
+   "options": [
+    "Xonsyu oroliga",
+    "Xokkaydo oroliga",
+    "Okinava oroliga",
+    "Xokkaydo oroliga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XV asr o'rtalarida Yaponiyada joylashib olgan xitoy savdogarlari yaratgan tizimning janubiy qismiga qaysi hududlar kirgan? 1) Annam; 2) Yaponiya; 3) Siam; 4) Yava; 5) Koreya; 6) Sumatra; 7) Birma.",
+   "options": [
+    "1, 3, 4, 6, 7",
+    "1, 2, 3, 5, 6",
+    "2, 3, 4, 5, 6",
+    "1, 2, 3, 4, 7"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XV asr o'rtalarida Yaponiyada joylashib olgan xitoy savdogarlari yaratgan tizimning shimoliy qismiga qaysi hududlar kirgan?",
+   "options": [
+    "Koreya va Annam",
+    "Annam va Siam",
+    "Siam va Yaponiya",
+    "Yaponiya va Koreya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XV asrda Okinavadagi savdo operatsiyalaridan keladigan foyda necha foizgacha yetgan?",
+   "options": [
+    "700 foizgacha",
+    "800 foizgacha",
+    "900 foizgacha",
+    "1000 foizgacha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi davr Okinava uchun “oltin davr” bo'lgan va u yerda nafaqat qirg'oq bo'ylab suzadigan mahalliy kemalarni, balki xalqaro ekipajdan iborat xitoy, yapon va malaylarning “Jonka” kemalarini ham uchratish mumkin edi?",
+   "options": [
+    "XIII asr o'rtalari",
+    "XIV asr o'rtalari",
+    "XV asr o'rtalari",
+    "XVI asr o'rtalari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kimlar tomonidan Atlantika okeanidagi Madeyra orollari kashf etilgan?",
+   "options": [
+    "Ispaniyaliklar",
+    "Portugaliyaliklar",
+    "Gollandiyaliklar",
+    "Italiyaliklar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Atlantika okeanidagi Madeyra orollari kashf etilgan?",
+   "options": [
+    "1419-yilda",
+    "1453-yilda",
+    "1428-yilda",
+    "1492-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Levant” O'rtayer dengizi qaysi hududlarining umumiy nomlanishi?",
+   "options": [
+    "G'arbiy",
+    "Janubiy",
+    "Shimoliy",
+    "Sharqiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Usmoniylar imperiyasi ziravorlar savdosining asosiy yo'lini to'sib qo'ygan?",
+   "options": [
+    "1419-yilda",
+    "1453-yilda",
+    "1428-yilda",
+    "1492-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi asrlarda yevropaliklar tomonidan yangi savdo yo'llarining ochilishi tarixda “Buyuk geografik kashfiyotlar” nomini olgan?",
+   "options": [
+    "XIII–XV asrlarda",
+    "XIV–XVI asrlarda",
+    "XV–XVII asrlarda",
+    "XVI–XVIII asrlarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buyuk geografik kashfiyotlardan keyin jahon savdosi O'rtayer dengizidan qayerga ko'chgan?",
+   "options": [
+    "Atlantika okeaniga",
+    "Tinch okeaniga",
+    "Hind okeaniga",
+    "Shimoliy muz okeaniga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dengizchilarning kashfiyotlari, dengizlarning oqimlari, shamolning yo'nalishi to'g'risidagi bilimlar qaysi fanni rivojlantirgan?",
+   "options": [
+    "Geografiya",
+    "Okeanologiya",
+    "Geologiya",
+    "Kartografiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qanday asboblar kemalarni boshqarish san'atini rivojlantirgan va ochiq dengizdagi holatni aniqroq belgilash imkoniyatini bergan?",
+   "options": [
+    "Kompas, usturlob",
+    "Usturlob, teleskop",
+    "Teleskop, sekstant",
+    "Sekstant, kompas"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Buyuk Ipak yo'li Konstantinopolni zabt etgan turklar tomonidan yopib qo'yilgan?",
+   "options": [
+    "1419-yilda",
+    "1453-yilda",
+    "1428-yilda",
+    "1492-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Kolumb ekspeditsiyasi yo'lga chiqqan?",
+   "options": [
+    "1419-yil 3-oktyabrda",
+    "1453-yil 3-noyabrda",
+    "1428-yil 3-aprelda",
+    "1492-yil 3-avgustda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kolumb ekspeditsiyasi nechta kemada yo'lga chiqqan?",
+   "options": [
+    "Ikkita kemada",
+    "Uchta kemada",
+    "To'rtta kemada",
+    "Beshta kemada"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kolumb ekspeditsiyasi boshlanganidan necha kun o'tib orolga yetib borgan?",
+   "options": [
+    "50 kun",
+    "60 kun",
+    "70 kun",
+    "80 kun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Kolumb ekspeditsiyasi orolga yetib borgan?",
+   "options": [
+    "1492-yil 12-oktyabrda",
+    "1453-yil 12-noyabrda",
+    "1486-yil 12-dekabrda",
+    "1498-yil 12-yanvarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kolumb yetib borgan birinchi orolini “San Salvador” deb atagan. Uning ma'nosi nima?",
+   "options": [
+    "“Ilohiy Xaloskor”",
+    "“Muqaddas Najotkor”",
+    "“Muqaddas Xaloskor”",
+    "“Ilohiy Najotkor”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kolumb birinchi ekspeditsiyasi davomida San Salvador orolidan keyin qayerlarni kashf qilgan?",
+   "options": [
+    "Kichik Antil va Puerto Riko orollarini",
+    "Puerto Riko va Gaiti orollarini",
+    "Gaiti va Kuba orollarini",
+    "Kuba va Kichik Antil orollarini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nima sababdan Kolumb yangi ochilgan yerlar aholisini “hindular” deb atagan?",
+   "options": [
+    "Odamlarning tashqi ko'rinishi hindlarga o'xshar edi",
+    "Ushbu hududlar Hindiston ekanligiga ishonchi komil edi",
+    "Aholi so'zlashadigan til hindchaga juda yaqin edi",
+    "Keyinchalik Hindistonni kashf qilishiga umid qilgan edi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kolumb qaysi tipdagi kemalarda ekspeditsiyaga chiqqan?",
+   "options": [
+    "Galeon",
+    "Karakka",
+    "Birema",
+    "Karavella"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kolumb birinchi ekspeditsiyasiga qaysi nomdagi kemalarda chiqqan? 1) “Trinidad”; 2) “Santa-Mariya”; 3) “Pinta”; 4) “Santiago”; 5) “Ninya”.",
+   "options": [
+    "2, 3, 5",
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 4, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kolumb qaysi yillarda yana uchta ekspeditsiya uyushtirgan?",
+   "options": [
+    "1493 –1504-yillarda",
+    "1494 –1505-yillarda",
+    "1495 –1506-yillarda",
+    "1496 –1507-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kolumb uyushtirgan oxirgi uchta ekspeditsiyasida qaysi hududlarni kashf etgan? 1) Kichik Antil orollari; 2) Puerto Riko oroli; 3) Gaiti oroli; 4) Yamayka; 5) Trinidad; 6) Markaziy Amerika; 7) Janubiy Amerikaning shimoliy qirg'oqlari; 8) Kuba oroli.",
+   "options": [
+    "1, 4, 5, 6, 7, 8",
+    "1, 2, 4, 5, 6, 7",
+    "2, 3, 5, 6, 7",
+    "3, 4, 6, 7, 8"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kolumb umumiy nechta ekspeditsiya uyushtirgan?",
+   "options": [
+    "Uchta ekspeditsiya",
+    "To'rtta ekspeditsiya",
+    "Beshta ekspeditsiya",
+    "Oltita ekspeditsiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistonga eltuvchi dengiz yo'lini kimlar kashf etgan?",
+   "options": [
+    "Ispaniyaliklar",
+    "Gollandiyaliklar",
+    "Italiyaliklar",
+    "Portugaliyaliklar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vasko da Gama qayerlik edi?",
+   "options": [
+    "Portugaliyalik",
+    "Ispaniyalik",
+    "Gollandiyalik",
+    "Italiyalik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kimning ekspeditsiyasi Ezgu umid burnini aylanib o'tib, Hind okeaniga chiqqan?",
+   "options": [
+    "Xristofor Kolumb",
+    "Fernando Magellan",
+    "Vasko da Gama",
+    "Amerigo Vespuchchi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Vasko da Gama ekspeditsiyasi Hindistonga yetib borgan?",
+   "options": [
+    "1492-yilda",
+    "1495-yilda",
+    "1498-yilda",
+    "1499-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vasko da Gama ekspeditsiyasi qaysi arab dengizchisi ko'magida Hindistonga yetib borgan?",
+   "options": [
+    "Mahmud ibn Majid",
+    "Ahmad ibn Majid",
+    "Muhammad ibn Majid",
+    "Ali ibn Majid"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vasko da Gama ekspeditsiyasi Hindistonning qaysi shahriga yetib borgan?",
+   "options": [
+    "Kalkutta",
+    "Gujorat",
+    "Kambey",
+    "Surat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Vasko da Gama ekspeditsiyasi Portugaliyaga qaytib kelgan?",
+   "options": [
+    "1492-yilda",
+    "1495-yilda",
+    "1498-yilda",
+    "1499-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vasko da Gama ekspeditsiyasi qancha vaqt davom etgan?",
+   "options": [
+    "Qariyb ikki yil",
+    "Qariyb uch yil",
+    "Qariyb to'rt yil",
+    "Qariyb besh yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vasko da Gama ekspeditsiyasi a'zolarining qanchasi yo'lda halok bo'lgan?",
+   "options": [
+    "1/3 qismi",
+    "2/3 qismi",
+    "1/4 qismi",
+    "2/4 qismi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Portugaliyaliklar Hindiston bilan savdo qiluvchi kimlarni u yerdan siqib chiqarishgan?",
+   "options": [
+    "Arablarni",
+    "Yaponlarni",
+    "Xitoylarni",
+    "Forslarni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XV asr oxiri – XVI asr boshlarida Hindistondan Lissabonga ziravorlar va shirinliklar olib kelgan savdogarlar qancha foizgacha foyda olganlar?",
+   "options": [
+    "700 foizgacha",
+    "800 foizgacha",
+    "900 foizgacha",
+    "1000 foizgacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XV asr oxiri – XVI asr boshlarida kimlar Hindiston bilan savdoni monopoliya qilib olgan edilar?",
+   "options": [
+    "Ispaniyaliklar",
+    "Gollandiyaliklar",
+    "Portugaliyaliklar",
+    "Italiyaliklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dengizchi va astronom Amerigo Vespuchchi qayerlik edi?",
+   "options": [
+    "Genuyalik",
+    "Neapollik",
+    "Venetsiyalik",
+    "Florensiyalik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Dengizchi va astronom Amerigo Vespuchchi … ekspeditsiyasi tarkibida … qirg'oqlarini tadqiq etgan va Kolumb ochgan yerlar Hindiston emas, balki yangi materik degan xulosaga kelgan.",
+   "options": [
+    "ispaniyaliklar/Argentina",
+    "florensiyaliklar/Meksika",
+    "portugaliyaliklar/Braziliya",
+    "genuyaliklar/Panama"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fernando Magellan qayerlik bo'lgan?",
+   "options": [
+    "Portugaliyalik",
+    "Ispaniyalik",
+    "Florensiyalik",
+    "Genuyalik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fernando Magellan boshchiligidagi ekspeditsiya qachon yo'lga chiqqan?",
+   "options": [
+    "1522-yil 6-sentyabrda",
+    "1520-yil 20-martda",
+    "1519-yil 20-sentyabrda",
+    "1521-yil 6-martda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fernando Magellan boshchiligidagi ekspeditsiya qaysi davlat qiroli bayrog'i ostida yo'lga chiqqan?",
+   "options": [
+    "Portugaliya",
+    "Ispaniya",
+    "Angliya",
+    "Gollandiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kim boshchiligidagi ekspeditsiya Amerika qit'asi bilan Olovli Yer orasidagi bo'g'ozni aylanib o'tib, notanish ulkan okeanga chiqqan va u bu okeanda suzgan uch oy davomida ob-havo qulay kelib, biron marta ham bo'ron turmagan va unga “Tinch” deb nom bergan?",
+   "options": [
+    "Amerigo Vespuchchi",
+    "Vasko da Gama",
+    "Luis Torres",
+    "Fernando Magellan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Fernando Magellan Mariana orollariga yetib borgan?",
+   "options": [
+    "1522-yil 6-sentyabrda",
+    "1520-yil 20-martda",
+    "1519-yil 20-sentyabrda",
+    "1521-yil 6-martda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fernando Magellan qayerda mahalliy aholi bilan bo'lgan jangda halok bo'lgan?",
+   "options": [
+    "Filippin orollarida",
+    "Mariana orollarida",
+    "Seyshel orollarida",
+    "Kanar orollarida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Fernando Magellan boshchiligidagi ekspeditsiyaning qolgan a'zolari Ispaniyaga yetib kelgan?",
+   "options": [
+    "1522-yil 6-sentyabrda",
+    "1520-yil 20-martda",
+    "1519-yil 20-sentyabrda",
+    "1521-yil 6-martda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amerika qit'asi bilan Olovli Yer orasidagi bo'g'oz qanday ataladi?",
+   "options": [
+    "“Kolumb bo'g'ozi”",
+    "“Magellan bo'g'ozi”",
+    "“Vespuchchi bo'g'ozi”",
+    "“Da Gama bo'g'ozi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fernando Magellan nechta dengizchi bilan safarga chiqqan edi?",
+   "options": [
+    "223 nafar",
+    "233 nafar",
+    "243 nafar",
+    "253 nafar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fernando Magellan ekspeditsiyasi a'zolaridan nechtasi omon qolgan?",
+   "options": [
+    "14 kishi",
+    "16 kishi",
+    "18 kishi",
+    "20 kishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kim boshchiligidagi ekspeditsiyasidan keyin Yer dumaloq ekanligi amalda isbotlangan?",
+   "options": [
+    "Amerigo Vespuchchi",
+    "Vasko da Gama",
+    "Luis Torres",
+    "Fernando Magellan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yillarda ispan ekspeditsiyalari Janubiy Amerika qirg'oqlari, Meksika ko'rfazi, Karib dengizidagi mayda orollarni egallagan edilar?",
+   "options": [
+    "1500 –1501-yillarda",
+    "1501 –1502-yillarda",
+    "1502 –1503-yillarda",
+    "1503 –1504-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yildan boshlab Amerikaning ichki hududlarini o'zlashtirishga kirishilgan va dastlabki qo'rg'onlar qurilishi boshlangan?",
+   "options": [
+    "1508-yildan",
+    "1510-yildan",
+    "1512-yildan",
+    "1514-yildan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amerikada “konkista” davri qachongacha davom etgan?",
+   "options": [
+    "XVII asr boshlarigacha",
+    "XVII asr o'rtalarigacha",
+    "XVII asr oxirlarigacha",
+    "XVIII asr boshlarigacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Konkista” so'zining ma'nosi nima?",
+   "options": [
+    "“Ozod qilish”",
+    "“Kashf etish”",
+    "“Bosib olish”",
+    "“Barpo etish”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Amerika qit'asida yevropaliklar qurgan birinchi shaharga asos solingan?",
+   "options": [
+    "1513-yilda",
+    "1515-yilda",
+    "1517-yilda",
+    "1519-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amerika qit'asida yevropaliklar qurgan birinchi shahar qaysi?",
+   "options": [
+    "Gavana",
+    "Panama",
+    "Karakas",
+    "Morokaybo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachondan boshlab Amerikada konkistadorlar boy ruda konlarini muntazam ekspluatatsiya qilishni boshlashgan?",
+   "options": [
+    "XVI asrning 20-yillaridan",
+    "XVI asrning 30-yillaridan",
+    "XVI asrning 40-yillaridan",
+    "XVI asrning 50-yillaridan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI asr o'rtalariga kelib, Amerikaning qaysi hududlaridagi oltin va kumush konlari dunyoda qazib olinayotgan qimmatbaho metallning yarmini bera boshlagan? 1) Braziliya; 2) Peru; 3) Boliviya; 4) Chili.",
+   "options": [
+    "2, 3, 4",
+    "1, 2, 3",
+    "1, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI asr o'rtalariga kelib, Amerikaning qaysi hududidagi mis konlari dunyoda qazib olinayotgan qimmatbaho metallning yarmini bera boshlagan?",
+   "options": [
+    "Boliviya",
+    "Braziliya",
+    "Chili",
+    "Peru"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVI asr o'rtalarida quyidagi qaysi hududda yirik oltin, kumush va mis konlari bo'lgan?",
+   "options": [
+    "Boliviya",
+    "Braziliya",
+    "Chili",
+    "Peru"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yevropalik va hindularning nikohidan tug'ilgan farzandlar qanday atalgan?",
+   "options": [
+    "Mulat",
+    "Kreol",
+    "Metis",
+    "Bastard"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yevropaliklar va qora tanlilarning nikohidan tug'ilgan farzandlar qanday atalgan?",
+   "options": [
+    "Mulat",
+    "Kreol",
+    "Metis",
+    "Bastard"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Mulat” atamasi qachon vujudga kelgan?",
+   "options": [
+    "XVII asr boshlarida",
+    "XVII asr o'rtalarida",
+    "XVII asr oxirlarida",
+    "XVIII asr boshlarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI asrning ikkinchi yarmi – XVII asr boshlarida ispan dengizchilari Tinch okeani havzasida qaysi hududlarni kashf etishgan? 1) Solomon orollari; 2) Filippin; 3) Janubiy Polineziya; 4) Melaneziya.",
+   "options": [
+    "2, 3, 4",
+    "1, 2, 3",
+    "1, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Avstraliya kashf etilgan?",
+   "options": [
+    "1605-yilda",
+    "1642-yilda",
+    "1623-yilda",
+    "1606-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Avstraliya kim tomonidan kashf etilgan?",
+   "options": [
+    "Abel Tasman",
+    "Luis Torres",
+    "Fernando Magellan",
+    "Villem Yanszon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Dengizchi Villem Yanszon qayerlik bo'lgan?",
+   "options": [
+    "Ispaniyalik",
+    "Gollandiyalik",
+    "Portugaliyalik",
+    "Italiyalik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kim boshchiligidagi ekspeditsiya birinchi bo'lib Avstraliya qirg'oqlariga suzib kelgan?",
+   "options": [
+    "Abel Tasman",
+    "Luis Torres",
+    "Fernando Magellan",
+    "Villem Yanszon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Villem Yanszon ekspeditsiyasi Avstraliya qirg'oqlariga suzib kelgan?",
+   "options": [
+    "1605-yilda",
+    "1642-yilda",
+    "1623-yilda",
+    "1606-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Avstraliya alohida qit'a ekanligi isbotlangan va Yangi Zelandiya kashf etilgan?",
+   "options": [
+    "1605-yilda",
+    "1642-yilda",
+    "1623-yilda",
+    "1606-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kim Avstraliyani janubdan aylanib o'tib, uning alohida qit'a ekanligini isbotlagan va Yangi Zelandiyani kashf etgan?",
+   "options": [
+    "Abel Tasman",
+    "Luis Torres",
+    "Fernando Magellan",
+    "Villem Yanszon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XV–XVII asrlarda yangi yerlarning ochilishi va mustamlakalarga aylantirilishining muhim natijalaridan biri … bo'lib, u Yevropada dastlabki kapitalning jamg'arilishiga katta turtki bo'ldi, kapitalistik xo'jalikning shakllanishini tezlashtirdi va industrial sivilizatsiyaga asos yaratdi.",
+   "options": [
+    "“Kapital inqilobi”",
+    "“Savdo inqilobi”",
+    "“Narx-navo inqilobi”",
+    "“Tovar inqilobi”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yevropada XV–XVII asrlarda keng tarqalgan yelkanli kema turini toping.",
+   "options": [
+    "Karavella",
+    "Galeon",
+    "Birema",
+    "Karakka"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "… – sanoat, fan va texnikaning taraqqiyotiga asoslangan jamiyat.",
+   "options": [
+    "Industrial jamiyat",
+    "Kapitalistik jamiyat",
+    "Kapitalistik sivilizatsiya",
+    "Industrial sivilizatsiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“O'n besh yoshli kapitan”, “Yer markaziga sayohat” asarlari muallifi kim?",
+   "options": [
+    "Gerbert Uells",
+    "Aleksandr Dyuma",
+    "Jyul Vern",
+    "Meri Shelli"
+   ],
+   "answer": 2
+  }
+ ]
+}

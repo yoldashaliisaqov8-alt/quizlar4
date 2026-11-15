@@ -1,0 +1,286 @@
+{
+ "title": "7-sinf · Abu Nasr Forobiy",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Forobiy qanday oilada tavallud topganligini aniqlang.",
+   "options": [
+    "savdogar",
+    "amaldor",
+    "harbiy xizmatchi",
+    "hunarmand"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan Forobiy haqidagi to'g'ri ma'lumotni aniqlang.",
+   "options": [
+    "Forobiy o'z zamonasining barcha ilmlarini mukammal egallagani hamda bu ilmlar rivojiga katta hissa qo'shgani uchun Sharq mamlakatlarida «Al-muallim as-Soniy» – «Ikkinchi muallim» (Aristoteldan keyin), «Sharq Arastusi» degan unvonlarga sazovor bo'lgan",
+    "Forobiy o'z zamonasining barcha ilmlarini mukammal egallagani hamda bu ilmlar rivojiga katta hissa qo'shgani uchun G'arb mamlakatlarida «Al-muallim as-Soniy» – «Ikkinchi muallim» (Aristoteldan keyin), «Sharq Arastusi» degan unvonlarga sazovor bo'lgan",
+    "Forobiy tibbiyotga bag'ishlangan «Saydana» asarida mingdan ortiq dorivor moddalar nomini 30 tilda yozib chiqqan",
+    "Forobiy 16—17 yoshidayoq mashhur tabib — hakim bo'lib tanilgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi to'g'ri javobni qo'ying \".... nafaqat Turon mutafakkirlari, balki yevropalik olimlardan ham bir necha asr ilgari adolatli jamiyat qurish nazariyasini yaratishga katta hissa qo'shgan\"",
+   "options": [
+    "Beruniy",
+    "Ibn Sino",
+    "Forobiy",
+    "Xorazmiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi bandlar mazmuniga oid yakuniy hukmni aniqlang. I. Forobiy o'rta asrlarda ma'lum bo'lgan tabiiy va ijtimoiy sohalarda 160 dan ortiq asar yaratgan II. Forobiy o'rta asrlarda ma'lum bo'lgan tabiiy va ijtimoiy sohalarda 170 dan ortiq asar yaratgan III. Forobiy o'rta asrlarda ma'lum bo'lgan tabiiy va ijtimoiy sohalarda 120 dan ortiq asar yaratgan",
+   "options": [
+    "I – to'g'ri / II – noto'g'ri / III – to'g'ri",
+    "I – noto'g'ri / II – to'g'ri / III – noto'g'ri",
+    "I – to'g'ri / II – noto'g'ri / III – noto'g'ri",
+    "I – noto'g'ri / II – noto'g'ri / III – to'g'ri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buyuk vatandoshimizning ijtimoiy-siyosiy hayot, davlatni boshqarish masalalariga qaysi sohalarga doir asarlari xato berilgan javobni aniqlang",
+   "options": [
+    "pedagogikaga",
+    "axloqiy tarbiyaga",
+    "ijtimoiy sohaga",
+    "fiqhshunoslik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abu Nasr Forobiy bilan bog'liq to'g'ri ma'lumotlarni aniqlang. 1) 70 dan ortiq tilni bilgan 2) 1029 ta yulduzning koordinatalarini aniqlagan 3) Al-muallim as-Soniy unvoniga sazovor bo'lgan 4) Sharaf al-mulk 5) Arastu Metafizikasiga sharhlar asarini yozgan",
+   "options": [
+    "1; 3; 5",
+    "2; 3; 4",
+    "1; 3; 4",
+    "1; 2; 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi to'g'ri javobni qo'ying 1) Ahmad Farg'oniy – «Usturlob yasash haqida kitob» 2) Muso al-Xorazmiy – «Kitob surat-al-arz» 3) Nasr Forobiy – .... 4) Abu Rayhon Beruniy – «Hindiston»",
+   "options": [
+    "«Mineralogiya»",
+    "«Shaharni boshqarish»",
+    "«Geodeziya»",
+    "«Al-qonun fit-tib»"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Abu Nasr Forobiy bilan bog'liq qaysi ma'lumotlar to'g'ri? I. davlatni boshqarish, ta'lim-tarbiya, axloq, ma'rifat, diniy e'tiqod va boshqa masalalarga oid qimmatli fikrlar bayon etilgan II. Forobiy musiqani inson tarbiyasiga ta'sir qiluvchi omillardan biri deb bildi III. Mutafakkir «Musiqa haqida katta kitob» nomli ko'p jildli asarida musiqa nazariyasi va tarixi, turli musiqa asboblari, kuylar va ularning ichki tuzilishi, tovushlar, ritmlar, ohanglar haqida ma'lumot berdi IV. 1998-yilda allomaning 1200 yillik tavallud sanasi katta tantanalar bilan nishonlandi. 2007-yilda Misr poytaxti Qohirada allomaga haykal o'rnatildi",
+   "options": [
+    "I, II, IV",
+    "I, III, IV",
+    "I, II, III",
+    "I, II, IV (alt)"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abu Nasr Forobiy qaysi risolasida jamiyatning kelib chiqishi, maqsad va vazifalari izchil yoritilgan. Davlatni boshqarish, ta'lim-tarbiya, axloq, ma'rifat, diniy e'tiqod va boshqa masalalarga oid qimmatli fikrlar bayon etilgan.",
+   "options": [
+    "«Urush va tinch turmush haqida kitob»",
+    "«Baxt-saodatga erishuv yo'llari»",
+    "«Fazilatli xulqlar»",
+    "«Fozil odamlar shahri»"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Haqiqiy baxtga erishish maqsadida o'zaro yordam qiluvchi kishilarni birlashtirgan shahar – .... shahardir, baxtga erishish maqsadida birlashgan kishilar jamoasi – fazilatli jamoadir.",
+   "options": [
+    "fazilatli",
+    "quvnoq",
+    "mukammal",
+    "harbiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta asr mutafakkirlaridan kimlar Forobiyning ta'limotini chuqur o'rganib, uni yangi g'oyalar bilan boyitganlar? 1) Ibn Sino 2) Muso al-Xorazmiy 3) Umar Xayyom 4) Beruniy 5) Alisher Navoiy 6) Gardiziy",
+   "options": [
+    "1, 3, 5",
+    "1, 3, 4",
+    "1, 2, 4",
+    "1, 3, 6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan qaysi biri Abu Nasr Forobiy qalamiga mansub bo'lgan asarni aniqlang.",
+   "options": [
+    "Al-Farg'oniy jadvallari",
+    "Usturlob yasash haqida kitob",
+    "Yetti iqlimni hisoblash haqida",
+    "Shaharni boshqarish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abu Nasr Forobiy qaysi risolasida jamiyatning kelib chiqishi, maqsad va vazifalari izchil yoritilgan. Davlatni boshqarish, ta'lim-tarbiya, axloq, ma'rifat, diniy e'tiqod va boshqa masalalarga oid qimmatli fikrlar bayon etilgan.",
+   "options": [
+    "«Urush va tinch turmush haqida kitob»",
+    "«Baxt-saodatga erishuv yo'llari»",
+    "«Fazilatli xulqlar»",
+    "«Fozil odamlar shahri»"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Farob (O'tror) shahrining joylashgan hududini aniqlang.",
+   "options": [
+    "Amudaryoning chap qirg'og'i",
+    "Sirdaryoning o'ng qirg'og'i",
+    "Amudaryoning o'ng qirg'og'i",
+    "Sirdaryoning chap qirg'og'i"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan 70 dan ortiq tilni bilgan alloma muvofiq berilgan javobni toping.",
+   "options": [
+    "Abu Nasr Forobiy",
+    "Ahmad Farg'oniy",
+    "Abu Rayhon Beruniy",
+    "Muso al-Xorazmiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilardan 160 dan ortiq asar yaratgan alloma muvofiq berilgan javobni aniqlang.",
+   "options": [
+    "Muso al-Xorazmiy",
+    "Ahmad Farg'oniy",
+    "Abu Rayhon Beruniy",
+    "Abu Nasr Forobiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilardan Forobiy qalamiga mansub asarlar qatorlari muvofiq ko'rsatilgan javobni aniqlang. 1 «Baxt-saodatga erishuv yo'llari» 2 «Oyning Yer ostida va ustida bo'lish vaqtlarini aniqlash haqida risola» 3 «Sab'ai sayyor» 4 «Urush va tinch turmush haqida kitob»",
+   "options": [
+    "1, 3",
+    "2, 4",
+    "1, 4",
+    "3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Forobiyning qaysi risolasida jamiyatning kelib chiqishi, maqsad va vazifalari izchil yoritilgan",
+   "options": [
+    "«Urush va tinch turmush haqida kitob»",
+    "«Fozil odamlar shahri»",
+    "«Fazilatli xulqlar»",
+    "«Baxt-saodatga erishuv yo'llari»"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Forobiyning fikricha inson tarbiyasiga ta'sir qiluvchi omil muvofiq berilgan javobni aniqlang.",
+   "options": [
+    "kitob",
+    "musiqa",
+    "sport",
+    "fan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kimning fikricha musiqa insonga nafosat, estetik zavq bag'ishlovchi, his-tuyg'ulari va axloqini tarbiyalovchi muhim vosita deb hisoblangan?",
+   "options": [
+    "Muso al-Xorazmiy",
+    "Abu Nasr Forobiy",
+    "Abu Rayhon Beruniy",
+    "Ahmad Farg'oniy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Forobiyning qaysi asarida musiqa nazariyasi va tarixi, turli musiqa asboblari, kuylar va ularning ichki tuzilishi, tovushlar, ritmlar, ohanglar haqida ma'lumotlar berilgan?",
+   "options": [
+    "«Baxt-saodatga erishuv yo'llari»",
+    "«Musiqa haqida katta kitob»",
+    "«Baxt-saodatga erishuv yo'llari» (alt)",
+    "«Urush va tinch turmush haqida kitob»"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan Forobiy qalamiga mansub asarlar qatorlari nomuvofiq ko'rsatilgan javobni aniqlang. 1 «Baxt-saodatga erishuv yo'llari» 2 «Oyning Yer ostida va ustida bo'lish vaqtlarini aniqlash haqida risola» 3 «Sab'ai sayyor» 4 «Urush va tinch turmush haqida kitob»",
+   "options": [
+    "1, 3",
+    "2, 3",
+    "1, 4",
+    "3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Musiqa insonga nafosat vosita deb hisoblagan shaxs tarixiga oid to'g'ri berilgan ma'lumotni aniqlang.",
+   "options": [
+    "Forobiy qadimgi Rim mutafakkirlari: Platon, Aristotel, Yevklid, Ptolemey, Porfiriylarning asarlariga sharhlar yozgan",
+    "Arximed asarlari «Metafizika», «Etika», «Ritorika», «Sofistika»ni batafsil izohlab, qiyin joylarini tushuntirib bera olgan",
+    "Forobiyning sharh yozish faoliyati faqat Sharqnigina emas, o'rta asr Yevropasini ham yunon ilmi bilan tanishtirishda katta rol o'ynadi",
+    "Mutafakkir o'z asarlarini o'sha davrda Sharq mamlakatlarida ilmiy-adabiy til hisoblangan fors tilida yozadi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Forobiyning davlatni boshqarish, ta'lim-tarbiya, axloq, ma'rifat, diniy e'tiqod va boshqa masalalarga oid qimmatli fikrlar bayon etilgan risolasi muvofiq berilgan javobni aniqlang.",
+   "options": [
+    "«Urush va tinch turmush haqida kitob»",
+    "«Baxt-saodatga erishuv yo'llari»",
+    "«Fazilatli xulqlar»",
+    "«Fozil odamlar shahri»"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Forobiyning fikricha qanday xalq fazilatli xalq hisoblangan?",
+   "options": [
+    "Baxtga erishish maqsadida o'zaro yordam qiluvchi kishilarni birlashtirgan shahar",
+    "Baxtga erishish maqsadida o'zaro yordam bermagan xalq",
+    "Baxtga erishish maqsadida o'zaro yordam bergan xalq",
+    "Baxtga erishish maqsadida o'zaro yordam bergan hukmdor"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "«Mo ba'da at-tabia» asarining muallifi muvofiq berilgan javobni aniqlang?",
+   "options": [
+    "Yevklid",
+    "Aristotel",
+    "Platon",
+    "Ptolemey"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi ma'lumot qaysi tarixiy shaxs haqida ekanligini aniqlang. \"Bir kuni kitob bozoridan arzimagan pulga Abu Nasr Forobiyning «Aristotel 'Metafizika' kitobining maqsadi to'g'risida» kitobini sotib oldim. Bunday kitob topganimdan xursand bo'lib, xudoga shukur qilib, ataylab ro'za tutdim, faqirlarga sadaqa ulashdim\"",
+   "options": [
+    "Muso al-Xorazmiy",
+    "Abu Ali Ibn Sino",
+    "Abu Rayhon Beruniy",
+    "Ahmad Farg'oniy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi so'zning lug'aviy ma'nosi «fizikadan so'ng» degan ma'noni anglatadi?",
+   "options": [
+    "Metafra",
+    "Metanomika",
+    "Metafizika",
+    "Megafizika"
+   ],
+   "answer": 2
+  }
+ ]
+}

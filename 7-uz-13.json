@@ -1,0 +1,326 @@
+{
+ "title": "7-sinf · Somoniylar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Quyidagi qaysi somoniy hukmdorlar, hukmronligi davrida o'z nomlaridan misdan chaqa tangalar zarb ettirgan? 1) Nuh 2) Ismoil Somoniy 3) Ahmad 4) Nuh II 5) Nasr",
+   "options": [
+    "1, 2",
+    "2, 3",
+    "3, 5",
+    "1, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi to'g'ri javoblarni aniqlang. \"(a)... vafotidan keyin uning o'g'li (b)... Samarqandni markazga aylantiradi\" 1) Nuh 2) Ismoil Somoniy 3) Ahmad 4) Nuh II 5) Nasr",
+   "options": [
+    "1, 2",
+    "2, 3",
+    "3, 5",
+    "1, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Somoniy Nasr hukmronligi davrida mamlakatning poytaxti bo'lgan shaharni belgilang.",
+   "options": [
+    "Marv",
+    "Nishopur",
+    "Samarqand",
+    "Buxoro"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi to'g'ri javoblarni aniqlang. \"IX asrning oxirgi choragida Movarounnahrning deyarli barcha viloyatlari .... tasarrufiga o'tadi\"",
+   "options": [
+    "Tohiriylar",
+    "Safforiylar",
+    "Somoniylar",
+    "Arab xalifaligi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida keltirilgan ma'lumotlardan qaysilarida davlat-shaxs-voqea shakliga mos ravishda berilgan edi?",
+   "options": [
+    "Somoniylar — Ahmad — Movarounnahrning barcha viloyatlarini birlashtirdi",
+    "Safforiylar — Nasr — Xurosondan ajratib olish choralarini ko'radi",
+    "Somoniylar — Ismoil Somoniy — Xurosonni birlashtirib, tez orada Taroz shahrini zabt etadi",
+    "Somoniylar — Nasr — butun Movarounnahrning hukmdoriga aylanadi. Uning nomi bilan kumush dirham zarb etiladi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi to'g'ri javoblarni aniqlang. 1) Tohiriylar – Tohir ibn Husayn 2) Safforiylar – Amr ibn Lays 3) Arab xalifaligi — Horun ar Rashid 4) Sosoniylar —…;",
+   "options": [
+    "Nuh",
+    "Ahmad",
+    "Ismoil Somoniy",
+    "Xurmazd IV"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi ma'lumot qaysi tarixiy shaxs haqida ekanligini aniqlang. \"U Movarounnahrning barcha viloyatlarini birlashtirish va uni Xurosondan ajratib olish choralarini ko'radi\".",
+   "options": [
+    "Ismoil Somoniy",
+    "Ahmad",
+    "Nasr",
+    "Tohir ibn Husayn"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sosoniylar tarixiga oid \"Bahrom Chubin\" ismli shaxsning lavozimini toping?",
+   "options": [
+    "shahanshoh",
+    "qo'mondon",
+    "sarkarda",
+    "bosh vazir"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi hududlar orasidan Bahrom Chubin noib etib tayinlangan hududlarga nomuvofiq bo'lgan javobni toping. 1) Armaniston 2) Ozarbayjon 3) Gruziya 4) Ray 5) Xuroson 6) Marv",
+   "options": [
+    "1, 3",
+    "3, 4",
+    "2, 4",
+    "3, 6"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi ma'lumotlar mazmuniga oid yakuniy hukmni (to'g'ri/noto'g'ri) aniqlang. I. Bahrom Chubin kelib chiqishi bo'yicha sosoniylar xizmatidagi Yettisuv turklaridan bo'lgan II. IX asrning dastlabki choragida Movarounnahrning deyarli barcha viloyatlari somoniylar tasarrufiga o'tadi III. X asrda Buxoroda Ismoil Somoniy maqbarasi barpo etilgan IV. Chubinning avlodlari Balxda yashab, shu yerdan Xuroson va Movarounnahrning turli hududlariga noib etib yuborilgan",
+   "options": [
+    "I – noto'g'ri / II – noto'g'ri / III – to'g'ri / IV – to'g'ri",
+    "I – to'g'ri / II – noto'g'ri / III – noto'g'ri / IV – to'g'ri",
+    "I – to'g'ri / II – noto'g'ri / III – to'g'ri / IV – noto'g'ri",
+    "I – to'g'ri / II – to'g'ri / III – to'g'ri / IV – to'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ko'p o'tmay aka-uka Nasr va Ismoil o'rtasida toj-taxt uchun kurash boshlanadi. Jangning yakuniy xulosasi to'g'ri berilgan javobni toping.",
+   "options": [
+    "jangda Nasr g'olib chiqadi",
+    "jangda Ismoil g'olib chiqadi",
+    "jang muzokara bilan yakunlanib, mamlakat janubi Nasrga, shimoli Ismoilga berildi",
+    "jang muzokara bilan yakunlanib, mamlakat shimoli Nasrga, janubi Ismoilga berildi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ismoil va Nasr o'rtasidagi yuz bergan jang qaysi asrda sodir bo'lgan?",
+   "options": [
+    "VIII asr",
+    "IX asr",
+    "X asr",
+    "XI asr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xalifa somoniylarni kimlar bilan to'qnashtirish va ularning har ikkisini ham zaiflashtirishga, va bu boy viloyatlarda o'z ta'sirini qayta tiklashga harakat qiladi?",
+   "options": [
+    "tohiriylar",
+    "safforiylar",
+    "turklar",
+    "g'aznaviylar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mos javobni belgilang? \"Xalifa (a)... safforiylar hukmdori (b)...ga Xuroson bilan birga Movarounnahr ustidan ham hukm yuritish huquqi berilgani haqida farmon chiqaradi\" 1) Mu'tazid 2) Horun ar Roshid 3) Ma'mun 4) Ya'qub ibn Lays 5) Amr ibn Lays",
+   "options": [
+    "a – 2, b – 5",
+    "a – 1, b – 4",
+    "a – 2, b – 4",
+    "a – 1, b – 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi voqeadan so'ng, butun Xuroson somoniylar qo'l ostiga o'tadi?",
+   "options": [
+    "888-yilgi jangda Ismoil g'olib chiqqach",
+    "Nasr Samarqandni markazga aylantirgach",
+    "Safforiylar yengilgach",
+    "Samarqand poytaxtga aylangach"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Safforiylar hukmdori bilan Somoniylar hukmdori o'rtasida yuz bergan jangning yakuniy xulosasi to'g'ri berilgan javobni toping.",
+   "options": [
+    "Urush Amr ibn Laysning g'alabasi bilan tugaydi",
+    "Urush Nasrning g'alabasi bilan tugaydi",
+    "Urush Ismoilning g'alabasi bilan tugaydi",
+    "Urush xalifa Mu'tazidning g'alabasi bilan tugaydi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Arab xalifasi safforiylar bilan somoniylarni to'qnashtirishga va ularning har ikkisini ham zaiflashtirib, bu boy viloyatlarda o'z ta'sirini qayta tiklashga harakat qilgan vaqt qaysi somoniy hukmdorning davrida yuz bergan?",
+   "options": [
+    "Ahmad",
+    "Nasr",
+    "Ismoil Somoniy",
+    "Nuh"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi Isfijob shahri hozirgi qaysi hududda tashkil topgan?",
+   "options": [
+    "Sheroz",
+    "Sayram",
+    "Isfahon",
+    "Iroq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlar qaysi somoniy hukmdorga tegishli? \"U o'z saroyi darvozasi oldida amaldorlari uchun saroy qurishga buyurdi, uni ham qurdilar, shundayki, har bir amaldorning podshoh saroyi darvozasi oldida qurilgan o'z saroyida alohida devoni bor edi\"",
+   "options": [
+    "Nasr ibn Ismoil ibn Ismoil Somoniy",
+    "Nuh ibn Ahmad ibn Ismoil Somoniy",
+    "Nasr ibn Ahmad ibn Ismoil Somoniy",
+    "Nasr ibn Nuh ibn Ismoil Somoniy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida berilganlardan dargohda tashkil topgan uylarga nomuvofiq bo'lgan javobni toping.",
+   "options": [
+    "amir qarorgohi",
+    "bosh vazir qarorgohi",
+    "saroy a'yonlari qarorgohi",
+    "navkar va xizmatkorlari qarorgohi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Somoniylar davlati asosan nechta devon orqali idora etilgan?",
+   "options": [
+    "beshta",
+    "o'nta",
+    "o'n beshta",
+    "yigirma ikkita"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi ma'lumot qaysi tarixiy shaxs haqida ekanligini aniqlang. \"U davrida Buxoroning Registon maydonida amir qasri qarshisida devonlar uchun saroy qurilib, mahkama mana shu maxsus binoga joylashgan edi\"",
+   "options": [
+    "Ismoil Somoniy",
+    "Nasr",
+    "Nuh II",
+    "Nasr II"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mahkama xizmatchilari Qur'on ilmlari va shariatning asosiy qoidalarini yaxshi biladigan, asosan qaysi tillarini puxta egallagan? 1) arab 2) tojik 3) fors 4) turk 5) lotin",
+   "options": [
+    "1, 2, 3",
+    "2, 4, 5",
+    "1, 3, 4",
+    "2, 3, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kimning ma'lumotiga ko'ra, Somoniylar davlati asosan o'nta devon orqali idora etilgan?",
+   "options": [
+    "Horun ar Rashid",
+    "Narshaxiy",
+    "Nasr ibn Ahmad",
+    "Ismoil Somoniy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta asrlarda qaysi sulolada davlat ishlariga qabul qilishda ma'lum bir talablar mavjud edi. Masalan, davlat tilini mukammal bilish, zamona huquq me'yorlaridan to'liq xabardorlik va hokazo.",
+   "options": [
+    "Qarluqlar",
+    "O'g'uzlar",
+    "Safforiylar",
+    "Somoniylar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlardan qaysilarida davlat-shaxs-voqea shakliga mos ravishda berilgan?",
+   "options": [
+    "Somoniylar – Ismoil Somoniy – saroyning maxsus muntazam sarbozlaridan iborat yaxshi qurollangan harbiy qo'shin tuzadi",
+    "Safforiylar – Nasr ibn Ahmad – Samarqandning Registon maydonida amir qasri qarshisida devonlar uchun saroy qurdirdi",
+    "Safforiylar – Mu'tazid – Xuroson bilan birga Movarounnahr ustidan ham hukm yuritish huquqi berilgan",
+    "Somoniylar – Nuh ibn Nasr – saroyning maxsus muntazam sarbozlaridan iborat yaxshi qurollangan harbiy qo'shin tuzadi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyida berilgan ta'rif qaysi davlatning harbiy taktikasi haqida ekanligini toping. \"Lashkar ikki toifaga bo'lingan: doimiy ravishda faoliyat ko'rsatuvchi saralangan qismlar (gvardiya) va zarur hollarda viloyatlardan yig'iladigan qismlar\".",
+   "options": [
+    "Arab xalifaligi",
+    "Tohiriylar",
+    "Somoniylar",
+    "Safforiylar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi javobni belgilang. \"Saralangan qismlardagi xizmat kamida (a)... bosqichdan iborat bo'lib, oddiy piyoda askarlikdan visoqboshi, ya'ni (b)... kishidan iborat guruhga boshliq darajasigacha bo'lgan yo'lni bosib o'tishiga to'g'ri kelgan\"",
+   "options": [
+    "a – 8 ta, b – 4 ta",
+    "a – 6 ta, b – 4 ta",
+    "a – 8 ta, b – 7 ta",
+    "a – 6 ta, b – 5 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"haylboshi\" atamasining somoniylar davlatida qanday lavozim egasi bo'lganligini toping.",
+   "options": [
+    "kichik qo'shin boshlig'i",
+    "o'rta qo'shin boshlig'i",
+    "katta qo'shin boshlig'i",
+    "zaxira qo'shin boshlig'i"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachondan boshlab hokimiyat qoraxoniylar qo'liga o'tadi?",
+   "options": [
+    "IX asr boshida",
+    "IX asr oxirida",
+    "X asr boshida",
+    "X asr oxirida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ayni vaqtdan boshlab g'aznaviylar tobeligiga o'tgan shaharlarni toping. 1) G'azna 2) Marv 3) Nishopur 4) Xuroson",
+   "options": [
+    "1, 2",
+    "2, 3",
+    "2, 4",
+    "1, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Somoniylar davlati parchalanayotgan vaqtda mintaqaning qaysi qismida qoraxoniylarning sulolasi paydo bo'lganligini aniqlang. 1) Sharqiy Turkiston 2) Yettisuv 3) Qoshg'ar 4) Turon",
+   "options": [
+    "1, 2",
+    "2, 3",
+    "3, 4",
+    "1, 4"
+   ],
+   "answer": 1
+  }
+ ]
+}

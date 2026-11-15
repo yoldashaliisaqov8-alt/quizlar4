@@ -1,0 +1,560 @@
+{
+ "title": "8-sinf · O'rta asrlarda Hindiston",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Eltutmish sultonlikka qaysi hududlarni qo'shib oldi.",
+   "options": [
+    "Panjob, Sind, Bengaliya",
+    "Kobul, Qandahor, Hirot",
+    "Dekan, Gujarot, Rajaston",
+    "Agra, Dehli, Lahor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur Hindistonga yurishida qaysi sulton qo'shinini yengdi.",
+   "options": [
+    "Bahlul Lo'diy",
+    "Ibrohim Lo'diy",
+    "Sulton Mahmudxon",
+    "Xizr Xon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bahlul Lo'diy qaysi yilda Dehlini egallab, o'zini sulton deb e'lon qildi.",
+   "options": [
+    "1451-yilda",
+    "1398-yilda",
+    "1526-yilda",
+    "1489-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kelgindi musulmon feodallar sultondan vaqtincha yoki umrbod foydalanish uchun nimani olganlar.",
+   "options": [
+    "Iqto",
+    "Vaqf",
+    "Suyurg'ol",
+    "Tumor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eltutmish 1229-yilda kim tomonidan mustaqil hukmdor deb e'tirof etilgan.",
+   "options": [
+    "Xorazmshoh",
+    "Mo'g'ul xoni",
+    "Bag'dod xalifasi",
+    "Misr sultoni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada berilgan atamalar va ularning izohi to'g'ri ko'rsatilgan javobni aniqlang.",
+   "options": [
+    "1, 3",
+    "1, 2",
+    "2, 4",
+    "1, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-15-06.jpg"
+  },
+  {
+   "q": "Roziyani taxtdan ag'darishda qaysi toifa isyon ko'tardi.",
+   "options": [
+    "Hind rajputlari",
+    "Ruhoniylar",
+    "Dehqonlar",
+    "Turk zodagonlari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Iqto egalari to'plangan soliqlarning qancha qismini o'ziga qoldirgan.",
+   "options": [
+    "1–2 foizini",
+    "10–20 foizini",
+    "50 foizini",
+    "Hammasini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur Hindistondan Samarqandga nimalarni olib qaytdi.",
+   "options": [
+    "Hind xazinasini va qo'shinini",
+    "Faqat qurol-yarog'larni",
+    "Ko'plab hind hunarmandlari va me'morlarini",
+    "Hind sultonining oilasini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Eltutmish o'z merosxo'ri etib kimni tayinladi.",
+   "options": [
+    "To'ng'ich o'g'lini",
+    "To'ng'ich qizi Roziyani",
+    "Vazirini",
+    "Kenja o'g'lini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Iskandar Lo'diy poytaxtni Dehlidan qaysi shaharga ko'chirdi.",
+   "options": [
+    "Agraga",
+    "Bengaliyaga",
+    "Kobulga",
+    "Lahorga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dehli sultonligini quyidagi sulolalardan qaysi biri boshqarmagan.",
+   "options": [
+    "Temuriylar",
+    "Lo'diylar",
+    "Tug'luqlar",
+    "G'ulomlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi sulton davrida soliqlar kamaytirilib, davlat yerlari dehqonlarga ijaraga berilgan.",
+   "options": [
+    "Feruzshoh Tug'luq",
+    "Alouddin Xiljiy",
+    "Iskandar Lo'diy",
+    "Muhammad Tug'luq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Roziyaga tegishlilarini aniqlang.",
+   "options": [
+    "3, 4",
+    "2, 4",
+    "1, 2",
+    "2, 3"
+   ],
+   "answer": 1,
+   "image": "img/j8-15-14.jpg"
+  },
+  {
+   "q": "Alouddin Xiljiy narxlar oshib borganda nima qilishni buyurgan.",
+   "options": [
+    "G'alla eksportini ko'paytirishni",
+    "Davlat omborlaridagi g'allani bozorga chiqarishni",
+    "Yangi soliq joriy qilishni",
+    "Savdogarlarni quvishni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Roziya qaysi yilda taxtdan agdarildi.",
+   "options": [
+    "1211-yilda",
+    "1290-yilda",
+    "1236-yilda",
+    "1240-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Iskandar Lo'diy qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1517–1526-yillarda",
+    "1489–1517-yillarda",
+    "1398–1451-yillarda",
+    "1451–1489-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Muhammad Tug'luq qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1489–1517-yillarda",
+    "1325–1351-yillarda",
+    "1290–1296-yillarda",
+    "1206–1210-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sulton viloyat va shahar hukmdorlarini tayinlashda kimlardan tarkib topgan organga tayangan.",
+   "options": [
+    "Devonga",
+    "Kengashga",
+    "Qurultoyga",
+    "Senatga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur Hindistonga qaysi yilda yurish qilib, Dehlini zabt etdi.",
+   "options": [
+    "1381-yilda",
+    "1402-yilda",
+    "1395-yilda",
+    "1398-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Dehli sultonligining so'nggi hukmdori kim edi.",
+   "options": [
+    "Bahlul Lo'diy",
+    "Iskandar Lo'diy",
+    "Ibrohim Lo'diy",
+    "Xizr Xon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dehli sultonligi qaysi yillarda mavjud bo'lgan.",
+   "options": [
+    "1325–1526-yillarda",
+    "1290–1451-yillarda",
+    "1206–1398-yillarda",
+    "1206–1526-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hindistonda o'rta va mayda hind feodallari qanday atalgan.",
+   "options": [
+    "Sayyidlar",
+    "Rajputlar",
+    "Rojalar",
+    "G'ulomlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Dehli sultonligiga kim asos solgan.",
+   "options": [
+    "Alouddin Xiljiy",
+    "Muhammad Tug'luq",
+    "Qutbiddin Oyboq",
+    "Shamsiddin Eltutmish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dehli sultonligiga qaysi yilda asos solingan.",
+   "options": [
+    "1236-yilda",
+    "1290-yilda",
+    "1206-yilda",
+    "1211-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada berilgan sultonlar va ularning faoliyati to'g'ri ko'rsatilgan javobni aniqlang.",
+   "options": [
+    "2, 3",
+    "1, 2",
+    "1, 3",
+    "1, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-15-26.jpg"
+  },
+  {
+   "q": "Xiljiylar sulolasiga qaysi hukmdor asos solgan.",
+   "options": [
+    "Alouddin Xiljiy",
+    "Jaloliddin Feruzshoh",
+    "Bahlul Lo'diy",
+    "Qutbiddin Oyboq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qutbiddin Oyboq vafotidan so'ng taxtga kim keldi.",
+   "options": [
+    "Jaloliddin Feruzshoh",
+    "O'g'li Feruzshoh",
+    "Qizi Roziya",
+    "Uning turk g'ulomi Shamsiddin Eltutmish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bobur Ibrohim Lo'diy qo'shinini qaysi yili tor-mor etdi.",
+   "options": [
+    "1398-yil 21-aprelda",
+    "1517-yil 21-aprelda",
+    "1526-yil 21-aprelda",
+    "1451-yil 21-mayda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan to'g'ri bo'lganlarini aniqlang.",
+   "options": [
+    "2, 4",
+    "1, 4",
+    "2, 3",
+    "3, 4"
+   ],
+   "answer": 0,
+   "image": "img/j8-15-30.jpg"
+  },
+  {
+   "q": "Dehli yaqinidagi, hozirgi markaziy aeroport joylashgan joy qanday nom bilan ataladi.",
+   "options": [
+    "Lahor",
+    "Agra",
+    "Palam",
+    "Dekan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dehli sultonligi boshqaruvi qaysi huquqqa asoslangan edi.",
+   "options": [
+    "Rim huquqiga",
+    "Hind qonunlariga",
+    "Mo'g'ul yasosiga",
+    "Islom huquqiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qutbiddin Oyboq qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1325–1351-yillarda",
+    "1290–1296-yillarda",
+    "1206–1210-yillarda",
+    "1211–1236-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dekan, Gujarot va Rajastonni egallagan sultonni aniqlang.",
+   "options": [
+    "Feruzshoh Tug'luq",
+    "Alouddin Xiljiy",
+    "Eltutmish",
+    "Muhammad Tug'luq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistonda butun yerlar kimning mulki deb qaralgan.",
+   "options": [
+    "Rojalarning",
+    "Ruhoniylarning",
+    "Sultonning",
+    "Rajputlarning"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dehli sultonligida harbiy islohot natijasida qaysi bo'lim tuzildi.",
+   "options": [
+    "Dengiz floti",
+    "Moliya bo'limi",
+    "Yanichar qo'shini",
+    "Maxfiy bo'lim"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alouddin Xiljiy davrida bozordagi narxlar bo'yicha qanday chora ko'rildi.",
+   "options": [
+    "Narxlar erkin qo'yib yuborildi",
+    "Savdo bojlari oshirildi",
+    "Savdo to'xtatildi",
+    "Narxlar belgilab qo'yildi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hindistonning shimoliy hududlariga bir necha bor hujum uyushtirgan va keyinchalik o'rnashib qolgan qabilalarni aniqlang.",
+   "options": [
+    "Slavyan va german qabilalari",
+    "Mo'g'ul va xitoy qabilalari",
+    "Turk va afg'on qabilalari",
+    "Arab va fors qabilalari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Roziya qaysi jihati bilan tarixga kirdi.",
+   "options": [
+    "Hindistondagi birinchi hind malikasi",
+    "Dehli sultonligining asoschisi",
+    "Xiljiylar sulolasining asoschisi",
+    "Janubiy Osiyodagi birinchi musulmon ayol hukmdori"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Musulmon bo'lmaganlardan olinadigan jon solig'i nima deb atalgan.",
+   "options": [
+    "Jizya",
+    "Xiroj",
+    "Iqto",
+    "Zakot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dehli sultonligining kuchli qo'shini nimaga imkon berdi.",
+   "options": [
+    "Dengiz orqali yurish qilishga",
+    "Kobulni egallashga",
+    "Xitoyni bosib olishga",
+    "Shimoldan mo'g'ullar hujumini qaytarishga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bahlul Lo'diy qaysi xalq urug'laridan birining boshlig'i edi.",
+   "options": [
+    "Turk urug'laridan",
+    "Rajput urug'laridan",
+    "Afg'on urug'laridan",
+    "Mo'g'ul urug'laridan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amir Temurning vafotidan so'ng Sayyidlar sulolasiga asos solgan shaxsni aniqlang.",
+   "options": [
+    "Xizr Xon",
+    "Iskandar Lo'diy",
+    "Bahlul Lo'diy",
+    "Ibrohim Lo'diy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shamsiddin Eltutmish qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1211–1236-yillarda",
+    "1290–1296-yillarda",
+    "1236–1240-yillarda",
+    "1206–1210-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Zodagonlar Ibrohim Lo'diyga qarshi kurashda kimdan yordam so'ragan.",
+   "options": [
+    "Usmoniy sultonidan",
+    "Kobulda hukmronlik qilayotgan Boburdan",
+    "Samarqanddagi Ulug'bekdan",
+    "Eronning shohidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta asrlarda musulmon mamlakatlaridagi qullar, Dehli sultonligida turkiy qullardan bo'lgan navkarlar qanday atalgan.",
+   "options": [
+    "Rajputlar",
+    "Sayyidlar",
+    "Rojalar",
+    "G'ulomlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'zini “Iskandar Zulqarnaynning davomchisi” deb nomlagan sultonni aniqlang.",
+   "options": [
+    "Alouddin Xiljiy",
+    "Feruzshoh Tug'luq",
+    "Muhammad Tug'luq",
+    "Bahlul Lo'diy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jaloliddin Feruzshoh davrida musulmonlar mulki qayergacha yetib bordi.",
+   "options": [
+    "Bengaliyagacha",
+    "Janubiy Hindistongacha",
+    "Kobulgacha",
+    "Samarqandgacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Feruzshoh Tug'luq qanday nom olgan.",
+   "options": [
+    "“Xalq homiysi”",
+    "“Sohibqiron”",
+    "“Adolatli malika”",
+    "“Jahon hayrati”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur Hindiston mulkiga kimni noib qilib tayinladi.",
+   "options": [
+    "Sulton Mahmudni",
+    "Iskandar Lo'diyni",
+    "Sayyidlardan Xizr Xonni",
+    "Bahlul Lo'diyni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlat ixtiyoridagi yerlar qanday atalgan.",
+   "options": [
+    "Vaqf",
+    "Mulk",
+    "Iqto",
+    "Xolisa"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xiljiylar sulolasi qaysi yilda hokimiyatni egalladi.",
+   "options": [
+    "1451-yilda",
+    "1325-yilda",
+    "1206-yilda",
+    "1290-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Sulton Shoh Olamning kuchi Dehlidan Palamgacha” iborasi nimani anglatadi.",
+   "options": [
+    "Sulton hokimiyati nihoyatda kuchsizlanganini",
+    "Sultonning g'alabasini",
+    "Poytaxt ko'chirilganini",
+    "Sultonlik hududining kengayganini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dehli sultonligida davlat boshqaruv ishlariga kim rahbarlik qilgan.",
+   "options": [
+    "Bosh vazir",
+    "Sulton",
+    "Rojalar",
+    "Qozi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Roziya sultonlik taxtiga qaysi yilda o'tqazildi.",
+   "options": [
+    "1236-yilda",
+    "1240-yilda",
+    "1206-yilda",
+    "1211-yilda"
+   ],
+   "answer": 0
+  }
+ ]
+}

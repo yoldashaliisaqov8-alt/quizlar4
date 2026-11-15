@@ -1,0 +1,546 @@
+{
+ "title": "9-sinf · 13-mavzu. Ma'rifat asri",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qaysi asrlar Yevropa tarixida “Uyg'onish davri” deb atalgan?",
+   "options": [
+    "XIII–XV asrlar",
+    "XIV–XVI asrlar",
+    "XV–XVII asrlar",
+    "XVI–XVIII asrlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi asr Yevropa tarixiga “Ma'rifat asri” nomi bilan kirgan?",
+   "options": [
+    "XV asr",
+    "XVI asr",
+    "XVII asr",
+    "XVIII asr"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Eng mashhur fransuz ma'rifatparvarlarini toping. 1) Volter; 2) Sharl Monteskyo; 3) Jan Jak Russo; 4) Deni Didro.",
+   "options": [
+    "1, 3",
+    "1, 2, 3",
+    "1, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Eng mashhur ingliz ma'rifatparvarini toping.",
+   "options": [
+    "Adam Smit",
+    "Deni Didro",
+    "Sharl Monteskyo",
+    "Volter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ma'rifat davri odamlar ongida … tushunchasini shakllantirgan.",
+   "options": [
+    "“ijtimoiy huquq”",
+    "“tabiiy huquq”",
+    "“siyosiy huquq”",
+    "“ahloqiy huquq”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ma'rifatparvarlar barcha odamlar tabiatan berilgan qanday huquqlarga ega deb hisoblashgan? 1) Yashash; 2) Erkinlik; 3) Tenglik.",
+   "options": [
+    "1, 2, 3",
+    "1, 2",
+    "1, 3",
+    "2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Ensiklopediya yoki Fan, san'at va hunar izohli lug'ati” qaysi davlatda nashr qilingan?",
+   "options": [
+    "Gollandiya",
+    "Germaniya",
+    "Fransiya",
+    "Angliya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Ensiklopediya yoki Fan, san'at va hunar izohli lug'ati” qaysi yillarda nashr qilingan?",
+   "options": [
+    "1748–1777-yillarda",
+    "1751–1780-yillarda",
+    "1755–1784-yillarda",
+    "1759–1788-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Ensiklopediya yoki Fan, san'at va hunar izohli lug'ati” necha tomdan iborat bo'lgan?",
+   "options": [
+    "15 tom",
+    "25 tom",
+    "35 tom",
+    "45 tom"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Ensiklopediya yoki Fan, san'at va hunar izohli lug'ati” ga nechta kishi obuna bo'lgan?",
+   "options": [
+    "1000 kishi",
+    "2000 kishi",
+    "3000 kishi",
+    "4000 kishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVIII asrda qaysi fanlarda yangi yo'nalishlar shakllangan?",
+   "options": [
+    "Amaliy mexanika va matematika",
+    "Matematika va fizika",
+    "Fizika va kimyo",
+    "Kimyo va amaliy mexanika"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asrda qaysi fan mustaqil fan sifatida paydo bo'lgan?",
+   "options": [
+    "Amaliy mexanika",
+    "Matematika",
+    "Kimyo",
+    "Fizika"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asrda qaysi fan shakllangan?",
+   "options": [
+    "Amaliy mexanika",
+    "Matematika",
+    "Kimyo",
+    "Fizika"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Isaak Nyuton qaysi yillarda yashagan?",
+   "options": [
+    "1643–1727-yillarda",
+    "1646–1716-yillarda",
+    "1707–1783-yillarda",
+    "1711–1792-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gotfrid Vilgelm Leybnis qaysi yillarda yashagan?",
+   "options": [
+    "1643–1727-yillarda",
+    "1646–1716-yillarda",
+    "1707–1783-yillarda",
+    "1711–1792-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Leonard Eyler qaysi yillarda yashagan?",
+   "options": [
+    "1643–1727-yillarda",
+    "1646–1716-yillarda",
+    "1707–1783-yillarda",
+    "1711–1792-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi olimlar va ularning mamlakatlari mos berilgan javobni toping. 1) Isaak Nyuton; 2) Gotfrid Vilgelm Leybnis; 3) Leonard Eyler. a) Shveysariya, Rossiya, Prussiya; b) Germaniya; c) Angliya.",
+   "options": [
+    "1c, 2b, 3a",
+    "1b, 2c, 3a",
+    "1c, 2a, 3b",
+    "1a, 2b, 3c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi olimlar va ularning ixtirolari mos berilgan javobni toping. 1) Isaak Nyuton; 2) Gotfrid Vilgelm Leybnis; 3) Leonard Eyler. a) 0 va 1 raqamlari bilan ikkilik sanoq sistemasini tasvirlab berdi, u mexanikaga “tirik kuch” (kinetik energiya tushunchasining prototipi) tushunchasini kiritdi va ene",
+   "options": [
+    "1c, 2a, 3b",
+    "1b, 2c, 3a",
+    "1a, 2b, 3c",
+    "1b, 2a, 3c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon mayatnikli soatning kashf qilinishi avtomatik hisoblash asboblarini yaratish uchun asos bo'lgan?",
+   "options": [
+    "1649-yilda",
+    "1663-yilda",
+    "1657-yilda",
+    "1652-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kim tomonidan mayatnikli soatning kashf qilinishi avtomatik hisoblash asboblarini yaratish uchun asos bo'lgan?",
+   "options": [
+    "L. Eyler",
+    "X. Gyuygens",
+    "G. Leybnis",
+    "I. Nyuton"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ma'rifat davrining asosiy belgilari nimalarda namoyon bo'ladi? 1) Ilm-fanga bo'lgan ishonch; 2) Inson ongining qudratiga ishonch; 3) Ta'limning hal qiluvchi roli; 4) Mavjud tizimni tanqid qilish; 5) Barchaning qonun oldida tengligi g'oyasi; 6) Cherkovni tanqid qilish.",
+   "options": [
+    "1, 3, 4, 5",
+    "2, 4, 5, 6",
+    "1, 2, 3, 5, 6",
+    "1, 2, 3, 4, 5, 6"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Robinzon Kruzoning hayoti va g'aroyib sarguzashtlari” romani muallifi kim?",
+   "options": [
+    "Daniel Defo",
+    "Jonatan Svift",
+    "Genri Filding",
+    "Jon Milton"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Daniel Defoning millatini toping.",
+   "options": [
+    "Fransuz",
+    "Nemis",
+    "Ingliz",
+    "Irland"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Gulliverning sayohati” romani muallifi kim?",
+   "options": [
+    "Daniel Defo",
+    "Jonatan Svift",
+    "Genri Filding",
+    "Jon Milton"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Dastlab qishloq ruhoniysi, keyinroq esa Irlandiyadagi Dublin ibodatxonasi rahbari bo'lgan adibni toping.",
+   "options": [
+    "Daniel Defo",
+    "Jonatan Svift",
+    "Genri Filding",
+    "Jon Milton"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Inson siz o'ylagandan ko'ra qudratliroq”, deb yozgan adib kim?",
+   "options": [
+    "Daniel Defo",
+    "Jon Milton",
+    "Genri Filding",
+    "Jonatan Svift"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi adib o'z qahramonini ishbilarmon, mehnatsevar, o'z kuchiga ishonuvchi qilib yaratgan?",
+   "options": [
+    "Daniel Defo",
+    "Jon Milton",
+    "Genri Filding",
+    "Jonatan Svift"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi adib ma'rifatchilarning oliyjanob g'oyalari odamlarni o'zgartirmaganligini, burjua jamiyati ham feodal jamiyat singari mukammallikdan ancha yiroq ekanligini o'zining romanida ochib bergan?",
+   "options": [
+    "Daniel Defo",
+    "Jonatan Svift",
+    "Genri Filding",
+    "Jon Milton"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi adib doktor Faust haqidagi qadimiy nemis afsonasini qayta yozgan?",
+   "options": [
+    "Iogann Sebastyan Bax",
+    "Volfgang Amadey Motsart",
+    "Iogann Volfgang Gyote",
+    "Lyudvig van Betxoven"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Doktor Faust haqidagi qadimiy nemis afsonasi qayta yaratilishiga necha yil sarflangan?",
+   "options": [
+    "30 yil",
+    "40 yil",
+    "50 yil",
+    "60 yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Uzoq hayot yo'lin o'tdim-u bosib, Olam haqiqatin ayladim yakun: Faqat shu munosib hayot va erkka, Kim har kun ular-chun kurashga kirsa!”. Ushbu jumlalar muallifi bo'lgan qahramonni toping.",
+   "options": [
+    "Doktor Faust",
+    "Robinzon Kruzo",
+    "Gulliver",
+    "Figaro"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi surat muallifi bo'lgan rassomni toping.",
+   "options": [
+    "Fransua Bushe",
+    "Sharl Le Bren",
+    "Antuan Vatto",
+    "Klod Loren"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVIII asrning birinchi yarmida “qirolning birinchi tasvirchisi” deb ta'riflangan rassom kim?",
+   "options": [
+    "Sharl Le Bren",
+    "Fransua Bushe",
+    "Antuan Vatto",
+    "Klod Loren"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Qiyin taklif”, “Beparvo” asarlari muallifi bo'lgan rassom kim?",
+   "options": [
+    "Sharl Le Bren",
+    "Fransua Bushe",
+    "Antuan Vatto",
+    "Klod Loren"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi nemis kompozitori hayot davrida mashhur emasdi, uning asarlari odamlarga o'ta jiddiy tuyulardi, cherkov esa xudodan qo'rqish ohanglarining yetarli emasligi uchun uning musiqalarini yoqtirmas edi?",
+   "options": [
+    "Iogann Sebastyan Bax",
+    "Volfgang Amadey Motsart",
+    "Iogann Volfgang Gyote",
+    "Lyudvig van Betxoven"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Matto bayon etgan buyuk musibat” musiqiy asari muallifi kim?",
+   "options": [
+    "Iogann Sebastyan Bax",
+    "Volfgang Amadey Motsart",
+    "Iogann Volfgang Gyote",
+    "Lyudvig van Betxoven"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Matto bayon etgan buyuk musibat” musiqiy asari Iso Masihning … Matto hikoya qilib bergan Isoning uqubatlarini, his-hayajonini ifodalaydi.",
+   "options": [
+    "do'sti",
+    "qotili",
+    "ustozi",
+    "shogirdi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi kompozitor Avstriyaning qadimiy go'zal shaharchasi Zalsburgda dunyoga kelgan?",
+   "options": [
+    "Iogann Sebastyan Bax",
+    "Volfgang Amadey Motsart",
+    "Iogann Volfgang Gyote",
+    "Lyudvig van Betxoven"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi kompozitor 3 yoshidan boshlab musiqani o'rgana boshlagan, 4 yoshida o'zining birinchi konsertini yozgan, 12 yoshida yozgan operasining premyerasi Milan teatrida qo'yilgan, 14 yoshida Italiyadagi eng obro'li musiqa akademiyasining akademigi bo'lgan?",
+   "options": [
+    "Iogann Sebastyan Bax",
+    "Volfgang Amadey Motsart",
+    "Iogann Volfgang Gyote",
+    "Lyudvig van Betxoven"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Volfgang Amadey Motsart hayotining so'nggi o'n yilini qayerda o'tkazgan?",
+   "options": [
+    "Berlin",
+    "Rim",
+    "Milan",
+    "Vena"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Figaroning uylanishi” operasi muallif kim?",
+   "options": [
+    "Iogann Sebastyan Bax",
+    "Iogann Volfgang Gyote",
+    "Volfgang Amadey Motsart",
+    "Lyudvig van Betxoven"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Rekviyem” (requem – tinchlik, orom) musiqiy asari muallifi kim?",
+   "options": [
+    "Iogann Volfgang Gyote",
+    "Iogann Sebastyan Bax",
+    "Lyudvig van Betxoven",
+    "Volfgang Amadey Motsart"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Lyudvig van Betxoven o'zini kimning vorisi deb hisoblagan?",
+   "options": [
+    "Volfgang Amadey Motsart",
+    "Iogann Sebastyan Bax",
+    "Karl Geynrix Graun",
+    "Georg Fridrix Xendel"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lyudvig van Betxoven 22 yoshidan boshlab qayerda yashagan?",
+   "options": [
+    "Berlin",
+    "Rim",
+    "Milan",
+    "Vena"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi kompozitor dahshatli kasallik oqibatida butunlay eshitmay qolgan?",
+   "options": [
+    "Karl Geynrix Graun",
+    "Iogann Sebastyan Bax",
+    "Lyudvig van Betxoven",
+    "Volfgang Amadey Motsart"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Fantaziya yo'lida sonata” (“Oydin”) musiqiy asari muallifi kim?",
+   "options": [
+    "Karl Geynrix Graun",
+    "Iogann Sebastyan Bax",
+    "Lyudvig van Betxoven",
+    "Volfgang Amadey Motsart"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Qahramonona” simfoniyasi muallifi kim?",
+   "options": [
+    "Lyudvig van Betxoven",
+    "Karl Geynrix Graun",
+    "Iogann Sebastyan Bax",
+    "Volfgang Amadey Motsart"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi musiqiy asar kompozitorning baxtsiz muhabbati haqida?",
+   "options": [
+    "“Qahramonona”",
+    "“Fantaziya yo'lida sonata” (“Oydin”)",
+    "“Rekviyem” (requem – tinchlik, orom)",
+    "“Figaroning uylanishi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi musiqiy asar XVIII asr oxirida Fransiyada yuz bergan inqilobiy voqealar ruhi bilan yo'g'rilgan va Bonapartga bag'ishlangan?",
+   "options": [
+    "“Qahramonona”",
+    "“Fantaziya yo'lida sonata” (“Oydin”)",
+    "“Rekviyem” (requem – tinchlik, orom)",
+    "“Figaroning uylanishi”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lyudvig van Betxoven qaysi voqeadan so'ng Bonapartga bag'ishlangan simfoniyasi nomini o'zgartirgan va uni Bonapart nomi bilan bog'lamagan?",
+   "options": [
+    "Misrga hujum qilganidan so'ng",
+    "Avstriyani bosib olganidan so'ng",
+    "O'zini imperator deb e'lon qilganidan so'ng",
+    "Konsul sifatida saylanganidan so'ng"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi simfoniya markazida bo'ysunmas isyonkor obrazi, taqdirning hech qanday zarbalari sindira olmaydigan jasur, qo'rqmas insonning qiyofasi namoyon bo'ladi?",
+   "options": [
+    "“Qahramonona”",
+    "“Fantaziya yo'lida sonata” (“Oydin”)",
+    "“Rekviyem” (requem – tinchlik, orom)",
+    "“Figaroning uylanishi”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi kompozitor umrining so'nggi kunlarigacha ongni, yorqin kuchlar tantanasi va g'alabasini sharaflashga bag'ishlangan asarlar yaratish orzusi bilan yashagan?",
+   "options": [
+    "Lyudvig van Betxoven",
+    "Karl Geynrix Graun",
+    "Iogann Sebastyan Bax",
+    "Volfgang Amadey Motsart"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ma'rifatparvarlik g'oyalari dastlab qayerda paydo bo'lgan?",
+   "options": [
+    "Italiya",
+    "Angliya",
+    "Fransiya",
+    "Germaniya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ma'rifatparvarlik g'oyalari qayerda rivoj topgan?",
+   "options": [
+    "Italiya",
+    "Angliya",
+    "Fransiya",
+    "Germaniya"
+   ],
+   "answer": 2
+  }
+ ]
+}

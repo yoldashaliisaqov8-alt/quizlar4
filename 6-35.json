@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 41-mavzu. Kushon davlati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Yuechji qabilalari Yunon-Baqtriya davlatini qachon bosib oldi?",
+   "options": [
+    "Milodiy III asrda",
+    "Mil. avv. 140–130-yillar oralig'ida",
+    "Milodiy I asrda",
+    "Mil. avv. 250-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kushon davlatiga qachon va kimlar orasida asos solindi?",
+   "options": [
+    "Mil. avv. II asrda; saklar orasida",
+    "Mil. avv. III asrda; sug'diylar orasida",
+    "Milodiy III asrda; xorazmliklar orasida",
+    "Milodiy I asrda; yuechjilar orasida Kushon xonadoni yuksalib"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yuechji qabilalarining mulklarini birlashtirgan birinchi kushon hukmdori kim?",
+   "options": [
+    "Diodot",
+    "Vima Kadfiz",
+    "Kanishka",
+    "Kudzula Kadfiz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kudzula Kadfiz davrida qaysi hududlar Kushon davlatiga qo'shib olindi?",
+   "options": [
+    "Xorazm va Sug'd",
+    "Farg'ona va Toshkent vohasi",
+    "Afg'oniston va Hindiston viloyati – Kashmir",
+    "Xitoy va Parfiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi podsho davrida Kushon davlati ulkan imperiyaga aylandi?",
+   "options": [
+    "Kudzula Kadfiz",
+    "Vima Kadfiz",
+    "Kanishka",
+    "Demetriy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kanishka davrida Kushon davlati hududiga qaysi yerlar kirgan?",
+   "options": [
+    "Xitoydan Rimgacha bo'lgan yerlar",
+    "Eron va Mesopotamiya",
+    "Faqat Baqtriya",
+    "Hindiston, Afg'oniston va O'zbekistonning janubigacha bo'lgan yerlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kushon podsholigi qaysi ulkan imperiyalar qatorida turgan?",
+   "options": [
+    "Misr, Bobil, Ossuriya",
+    "Rim, Parfiya, Xitoy",
+    "Fors, Makedoniya, Salavkiylar",
+    "Afina, Sparta, Korinf"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kushon davlati qachon va nima sababdan parchalanib ketdi?",
+   "options": [
+    "Mil. avv. II asrda; Xitoy bosqini oqibatida",
+    "Milodiy I asrda; zilzila oqibatida",
+    "Milodiy VIII asrda; arablar bosqini oqibatida",
+    "Milodiy III asrda; to'xtovsiz urushlar oqibatida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi hukmdor davrida hukmdor nomi bitilgan tangalar zarb qilinib, pul islohoti o'tkazildi?",
+   "options": [
+    "Kanishka",
+    "Vima Kadfiz",
+    "Yevtidem",
+    "Kudzula Kadfiz"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kushon tangalari qaysi metallardan tayyorlangan?",
+   "options": [
+    "Faqat bronzadan",
+    "Faqat temirdan",
+    "Oltin, kumush va misdan",
+    "Qo'rg'oshin va qalaydan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kanishka davrida qaysi imperiyalar bilan savdo va elchilik munosabatlari yo'lga qo'yildi?",
+   "options": [
+    "Hindiston, Xitoy va Rim",
+    "Misr va Bobil",
+    "Afina va Sparta",
+    "Fors va Makedoniya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kushon davlati xo'jaligining asosini nima tashkil qilgan?",
+   "options": [
+    "Ko'chmanchi chorvachilik",
+    "Sug'orma dehqonchilik, savdo-sotiq va hunarmandchilik",
+    "Faqat ovchilik",
+    "Dengizchilik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kushonlar davrida qanday moslamalardan keng foydalanildi?",
+   "options": [
+    "Toshotar va qo'chqor",
+    "Suv tegirmoni va chig'ir",
+    "Kompas va seysmograf",
+    "Suv soati va abak"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Chig'ir” nima?",
+   "options": [
+    "Tanga zarb qiladigan qolip",
+    "Suv chiqaradigan moslama",
+    "Mato to'qiydigan dastgoh",
+    "Don yanchadigan tosh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kushon davlati yodgorliklarini aniqlang.\n1) Xolchayon; 2) Dalvarzintepa; 3) Tuproqqal'a; 4) Zartepa; 5) Qanqa.",
+   "options": [
+    "3, 4, 5",
+    "2, 3, 4",
+    "1, 2, 4",
+    "1, 3, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kushon davlatida qaysi yozuv keng rivojlandi va uni o'zlashtirish nima uchun oson bo'lgan?",
+   "options": [
+    "Mixxat; rasmli bo'lgan",
+    "Iyeroglif; so'zlarni ifodalagan",
+    "Sanskrit; diniy bo'lgan",
+    "Qadimgi aramey yozuvi; alohida harflarga asoslangan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Termiz yodgorliklaridan qanday yozuv namunalari topilgan?",
+   "options": [
+    "Aramey yozuvi asosidagi kushon-baqtriya alifbosidagi yozuv",
+    "Shumer mixxati",
+    "Misr iyerogliflari",
+    "Xitoy iyerogliflari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kushon podsholigida yunon alifbosidagi kushon bitiklari qayerlardan topilgan?",
+   "options": [
+    "Dalvarzintepa va Xolchayon",
+    "Tuproqqal'a va Oqchaxon",
+    "Afrosiyob va Ko'ktepa",
+    "Surxko'tal (Afg'oniston, Qunduz yaqinida) va Kampirtepa (Termiz yaqinida)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kushon davlati tashkil topayotganda Baqtriya va Sug'diyona aholisi qaysi dinda edi?",
+   "options": [
+    "Zardushtiylik",
+    "Buddaviylik",
+    "Xristianlik",
+    "Hinduizm"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kushon davlati hududiga buddaviylik qanday kirib keldi?",
+   "options": [
+    "Yunonlar olib kelgan",
+    "Hindistonning shimoliy qismi qo'shib olingach, O'zbekiston janubi bilan yaqin aloqalar natijasida",
+    "Forslar majburan joriy etgan",
+    "Xitoydan Buyuk ipak yo'li orqali"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Surxon vohasidagi qaysi joylarda katta buddaviylik ibodatxonalari bo'lgan?",
+   "options": [
+    "Qanqa va Shoshtepa",
+    "Eski Termiz, Ayritom va Dalvarzintepa",
+    "Afrosiyob va Ko'ktepa",
+    "Xiva va Jonbosqal'a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buddaviylik O'rta Osiyoda qachongacha saqlanib qolgan?",
+   "options": [
+    "Milodiy I asrgacha",
+    "XVI asrgacha",
+    "Milodiy VIII asrgacha",
+    "Milodiy III asrgacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kushon shaharlarining tuzilishiga oid to'g'ri fikrni toping.",
+   "options": [
+    "Xom g'ishtdan qurilgan mudofaa devorlari bilan o'ralgan, hunarmandlar mahallalari va turarjoy mavzelariga ajratilgan",
+    "Devorsiz, ochiq shaharlar bo'lgan",
+    "Faqat tosh saroylardan iborat bo'lgan",
+    "Shaharlar tog' cho'qqilarida joylashgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kushon hukmdorlari saroyi qayerda o'rganilgan?",
+   "options": [
+    "Xolchayonda",
+    "Ayritomda",
+    "Kampirtepada",
+    "Fayoztepada"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ayritomdan qanday tasvirlar topilgan?",
+   "options": [
+    "Ov manzaralari",
+    "Do'mbirachi va ud chalayotgan musiqachilar tasvirlari",
+    "Fir'avn tasvirlari",
+    "Jang aravalari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Dalvarzintepadan qanday noyob topilma topilgan?",
+   "options": [
+    "Fil suyagidan yasalgan shaxmat donalari",
+    "Oltin niqob",
+    "Sopol askarlar",
+    "Rozett bitiktoshi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kushon san'atida qaysi uslublar muvofiqlashgan?",
+   "options": [
+    "Faqat Misr uslubi",
+    "Mahalliy an'analar, Qadimgi Sharq va Qadimgi Yunoniston ellinistik san'ati uslublari",
+    "Faqat Xitoy uslubi",
+    "Faqat Rim uslubi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nKushon hukmdori | Faoliyati\nKudzula Kadfiz | 1) ________\nVima Kadfiz | 2) ________\n3) ________ | davlat ulkan imperiyaga aylandi\na) yuechji mulklarini birlashtirgan birinchi hukmdor; b) hukmdor nomi bitilgan tangalar zarb qildi;\nc) Kanishka; d) Diodot; e) buddaviylikni taqiqladi; f) Demetriy.",
+   "options": [
+    "1-a, 2-b, 3-d",
+    "1-a, 2-e, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-e, 2-b, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nYodgorlik | Topilma yoki ma'lumot\nXolchayon | A\nDalvarzintepa | B\nAyritom | C\n1) Kushon hukmdorlari saroyi; 2) fil suyagidan shaxmat donalari; 3) do'mbirachi va ud chalayotgan musiqachilar tasviri; 4) 115 ta loy haykal; 5) olov ibodatxonasi; 6) oltin niqob.",
+   "options": [
+    "A-1, B-4, C-3",
+    "A-1, B-2, C-3",
+    "A-5, B-2, C-3",
+    "A-1, B-2, C-6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kushon davlatiga oid to'g'ri hukmlarni aniqlang.\nI. Kanishka davrida Kushon davlati taraqqiyot cho'qqisiga erishgan.\nII. Kushon davlati milodiy VIII asrda parchalangan.\nIII. Buddaviylik O'rta Osiyoga Surxon vohasi orqali tarqalgan.\nIV. Kushon tangalari faqat temirdan zarb qilingan.",
+   "options": [
+    "I va III",
+    "III va IV",
+    "I va II",
+    "II va IV"
+   ],
+   "answer": 0
+  }
+ ]
+}

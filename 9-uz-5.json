@@ -1,0 +1,366 @@
+{
+ "title": "9-sinf · 7-mavzu. Shayboniylar davrida ilm-fan, adabiyot va ta'lim",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qadimda matematika fani nima deb nomlanganini aniqlang.",
+   "options": [
+    "Fiqh",
+    "Riyozat",
+    "Handasa",
+    "Ilmi nujum"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimda geometriya fani nima deb nomlanganini toping.",
+   "options": [
+    "Fiqh",
+    "Riyozat",
+    "Handasa",
+    "Ilmi nujum"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimda astronomiya fani nima deb nom olganini belgilang.",
+   "options": [
+    "Fiqh",
+    "Riyozat",
+    "Handasa",
+    "Ilmi nujum"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hasanxo'ja Nisoriyga tegishli bo'lgan asarni aniqlang.",
+   "options": [
+    "\"Zafarnoma\"",
+    "\"Devon\"",
+    "\"Shayboniynoma\"",
+    "\"Muzakkiri ahbob\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Do'stlar yodnomasi\" nomli asar kimga atab yozilganini aniqlang.",
+   "options": [
+    "Abdullaxon II",
+    "Muhammad Shayboniyxon",
+    "Ubaydullaxon",
+    "Navro'z Ahmadxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta Osiyo, Eron va Hindistondagi adabiy muhit haqida boy ma'lumotlar beruvchi asarni belgilang.",
+   "options": [
+    "\"Zafarnoma\"",
+    "\"Devon\"",
+    "\"Shayboniynoma\"",
+    "\"Muzakkiri ahbob\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Do'st Muhammad Sulton kimning o'g'li ekanligini aniqlang.",
+   "options": [
+    "Abdullaxon II",
+    "Muhammad Shayboniyxon",
+    "Ubaydullaxon",
+    "Navro'z Ahmadxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi shayboniy hukmdor Buxoroni uzil-kesil poytaxtga aylantirgan edi.",
+   "options": [
+    "Abdullaxon II",
+    "Muhammad Shayboniyxon",
+    "Ubaydullaxon",
+    "Navro'z Ahmadxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Poytaxt hududiga kiritilgan qishloq nomini aniqlang.",
+   "options": [
+    "Varaxsha",
+    "Sumiton",
+    "Afshona",
+    "Zandana"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darvozayi Nav barpo etilgan hududni aniqlang.",
+   "options": [
+    "Toshkent",
+    "Samarqand",
+    "Buxoro",
+    "Qarshi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shayboniyxon qurdirgan Xoniya, Abu Said va Qulbobo Ko'kaldosh madrasalari qaysi hududda joylashgan.",
+   "options": [
+    "Toshkent",
+    "Samarqand",
+    "Buxoro",
+    "Qarshi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mir Arab, Abdullaxon, Modarixon madrasalari joylashgan hududni aniqlang.",
+   "options": [
+    "Toshkent",
+    "Samarqand",
+    "Buxoro",
+    "Qarshi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Baroqxon va Ko'kaldosh madrasalari joylashgan hududni aniqlang.",
+   "options": [
+    "Toshkent",
+    "Samarqand",
+    "Buxoro",
+    "Qarshi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shayboniyxon masjidi joylashgan hududni aniqlang.",
+   "options": [
+    "Karmana",
+    "Hirot",
+    "Turkiston",
+    "Balx"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qosim Shayx masjidi joylashgan hududni toping.",
+   "options": [
+    "Karmana",
+    "Hirot",
+    "Turkiston",
+    "Balx"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ko'kaldosh madrasasi joylashgan hududni aniqlang.",
+   "options": [
+    "Karmana",
+    "Hirot",
+    "Turkiston",
+    "Balx"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta Osiyodagi XVI asrga oid me'morchilik obidalarining asosiy qismi kimning davrida bunyod etilgan.",
+   "options": [
+    "Abdullaxon II",
+    "Muhammad Shayboniyxon",
+    "Ubaydullaxon",
+    "Abdulazizxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abdullaxon II portreti qachon yaratilgan.",
+   "options": [
+    "1502-yil",
+    "1570-yil",
+    "1509-yil",
+    "1505-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi hukmdorning Xuroson va Mashhadga yurishlari davomida Buxoro kutubxonasi to'ldiriladi.",
+   "options": [
+    "Abdullaxon II",
+    "Muhammad Shayboniyxon",
+    "Ubaydullaxon",
+    "Navro'z Ahmadxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1509-1550 yillarda yashab o'tgan shaxsni aniqlang.",
+   "options": [
+    "Abdullaxon II",
+    "Muhammad Shayboniyxon",
+    "Ubaydullaxon",
+    "Abdulazizxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Abdulazizxonning kutubxonasida kotiblar podshohi Amir Ali Husayniy, kitobdor (kitobxona boshlig'i) mavlono Sulton Mirak Munshiylar faoliyat yuritgan\" Bu ma'lumotning kimga tegishli ekanini aniqlang.",
+   "options": [
+    "Sharafiddin Ali Yazdiy",
+    "Muhammad Shayboniyxon",
+    "Hasanxo'ja Nisoriy",
+    "Zahiriddin Muhammad Bobur"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Samarqand yaqinidagi Konigilda o'tkazilgan majlisda qarovsiz qolgan mulk yerlaridan foydalanish haqida qaror qabul qilgan edi.",
+   "options": [
+    "1502-yil",
+    "1570-yil",
+    "1509-yil",
+    "1505-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi hukmdorning buyrug'i bilan fors tilida va mo'g'ul yozuvida bitilgan asarlar turkiy tilga tarjima qilinadi.",
+   "options": [
+    "Abdullaxon II",
+    "Muhammad Shayboniyxon",
+    "Ubaydullaxon",
+    "Abdulazizxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Zafarnoma\" va \"Muntaxabi Jome' va tavorixi shoni\" asarlarining muallifini aniqlang.",
+   "options": [
+    "Sharafiddin Ali Yazdiy",
+    "Muhammad Shayboniyxon",
+    "Hasanxo'ja Nisoriy",
+    "Zahiriddin Muhammad Bobur"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mirzo Ulug'bekka bag'ishlangan asarni aniqlang.",
+   "options": [
+    "\"Devon\"",
+    "\"Muntaxabi Jome' va tavorixi shoni\"",
+    "\"Bahr ul-hido\"",
+    "\"Muzakkiri Ahbob\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Devon\" va \"Bahr ul-hido\" asarlarining muallifini aniqlang.",
+   "options": [
+    "Sharafiddin Ali Yazdiy",
+    "Muhammad Shayboniyxon",
+    "Hasanxo'ja Nisoriy",
+    "Muhammad Solih"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Istanbuldagi To'pqopi saroy muzeyida saqlanayotgan asarni aniqlang.",
+   "options": [
+    "\"Devon\"",
+    "\"Muntaxabi Jome' va tavorixi shoni\"",
+    "\"Bahr ul-hido\"",
+    "\"Muzakkiri Ahbob\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Britaniya muzeyida saqlanayotgan asarni aniqlang.",
+   "options": [
+    "\"Devon\"",
+    "\"Muntaxabi Jome' va tavorixi shoni\"",
+    "\"Bahr ul-hido\"",
+    "\"Muzakkiri Ahbob\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Shayboniynoma\" asarining muallifini toping.",
+   "options": [
+    "Muhammad Yusuf",
+    "Muhammad Shayboniyxon",
+    "Sulton Ali",
+    "Muhammad Solih"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi asar she'riy uslubda yozilgan bo'lib, unda asar bosh qahramoni tug'ilganidan boshlab, 1505-yillar orasida Qipchoq dashti, Movarounnahr va hamda Xorazmda ro'y bergan ijtimoiy-siyosiy voqealargacha hikoya qilinadi.",
+   "options": [
+    "\"Devon\"",
+    "\"Muntaxabi Jome' va tavorixi shoni\"",
+    "\"Bahr ul-hido\"",
+    "\"Shayboniynoma\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Dastur al-iloj\" va \"Muqaddimayi dastur al-iloj\" asarlarining muallifini aniqlang.",
+   "options": [
+    "Muhammad Yusuf",
+    "Muhammad Shayboniyxon",
+    "Sulton Ali",
+    "Muhammad Solih"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Isitmani o'rganishga doir\" va \"Qon tomiri va peshob\" asarlarining muallifini aniqlang.",
+   "options": [
+    "Muhammad Yusuf",
+    "Mutribiy Samarqandiy",
+    "Sulton Ali",
+    "Muhammad Solih"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shayboniylar davrida bolalar necha yoshdan boshlab maktabga qabul qilingan.",
+   "options": [
+    "26",
+    "6",
+    "3",
+    "8"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shayboniylar davrida madrasaning har bosqichida necha yildan o'qilgan.",
+   "options": [
+    "26",
+    "6",
+    "3",
+    "8"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shayboniylar davrida o'qish jami necha yil davom etgan.",
+   "options": [
+    "26",
+    "6",
+    "3",
+    "8"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abdullaxon II bilan ko'rishishga muyassar bo'lgan olimni aniqlang.",
+   "options": [
+    "Muhammad Yusuf",
+    "Mutribiy Samarqandiy",
+    "Sulton Ali",
+    "Muhammad Solih"
+   ],
+   "answer": 1
+  }
+ ]
+}

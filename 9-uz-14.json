@@ -1,0 +1,396 @@
+{
+ "title": "9-sinf · 16-mavzu. Buxoro amirligida madaniy hayot va me'morchilik",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Amir Haydar quyidagi qaysi shaharda madrasa qurdirgan edi.",
+   "options": [
+    "Buxoro",
+    "Qarshi",
+    "Toshkent",
+    "Samarqand"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Haydar davrida quyidagi qaysi shaharda \"sut sotish bilan shug'ullanuvchi ayol-Gulining mablag'iga qurilgan\" nomli madrasa qurilgan.",
+   "options": [
+    "Buxoro",
+    "Qarshi",
+    "Toshkent",
+    "Samarqand"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1643-1727 yillarda yashagan shaxsni aniqlang.",
+   "options": [
+    "L.Eyler",
+    "G.V.Leybnis",
+    "I.Nyuton",
+    "J.Bruno"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1646-1716 yillarda yashagan shaxsni aniqlang.",
+   "options": [
+    "L.Eyler",
+    "G.V.Leybnis",
+    "I.Nyuton",
+    "J.Bruno"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "14 yoshida fan uning asosiy mashg'ulotiga aylangan shaxsni aniqlang.",
+   "options": [
+    "L.Eyler",
+    "G.V.Leybnis",
+    "I.Nyuton",
+    "J.Bruno"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Butun olam tortishish, mexanik harakat va nurning tarqalish qonunlarini kashf etgan shaxsni aniqlang.",
+   "options": [
+    "L.Eyler",
+    "G.V.Leybnis",
+    "I.Nyuton",
+    "J.Bruno"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nyuton shisha linzani, eng katta teleskoplardan ko'ra osmon jismlarini yaxshiroq ko'rsatadigan kichkina oynali teleskopni ixtiro qilgan vaqtni aniqlang.",
+   "options": [
+    "1786-yil",
+    "1671-yil",
+    "1807-yil",
+    "1208-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "I.Nyuton Qirollik jamiyati a'zosi etib saylanganida necha yosh bo'lganini aniqlang.",
+   "options": [
+    "24",
+    "12",
+    "20",
+    "18"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrning birinchi yarmida Buxoroda qancha madrasa faoliyat yuritganini aniqlang.",
+   "options": [
+    "150-200 ta",
+    "360 ta",
+    "366 ta",
+    "350 ta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Muhammad Sharif Buxoriyga tegishli asarni aniqlang.",
+   "options": [
+    "\"O'zbek podshohlari zikri\"",
+    "\"Tarixi Amir Haydar\"",
+    "\"Mizan at-tibb\"",
+    "\"Tuhfat az-zohirin\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Havzi Nav\" ansamblini barpo etgan hukmdorni aniqlang.",
+   "options": [
+    "Subhonqulixon",
+    "Nadir Muhammad",
+    "Ubaydullaxon II",
+    "Abdulazizxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1785-1800 yillarda hukmronlik qilgan Buxoro amirini aniqlang.",
+   "options": [
+    "Doniyolbiy",
+    "Shohmurod",
+    "Amir Haydar",
+    "Amir Nasrulla"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1800-1826 yillarda hukmronlik qilgan Buxoro amirini aniqlang.",
+   "options": [
+    "Doniyolbiy",
+    "Shohmurod",
+    "Amir Haydar",
+    "Amir Nasrulla"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xalq orasida \"Amiri Jannatmakon\" nomi bilan mashhur bo'lgan Buxoro amirini toping.",
+   "options": [
+    "Doniyolbiy",
+    "Shohmurod",
+    "Amir Haydar",
+    "Amir Nasrulla"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi Buxoro amiri Samarqandning qayta qurish tarhini o'zi chizgan.",
+   "options": [
+    "Doniyolbiy",
+    "Shohmurod",
+    "Amir Haydar",
+    "Amir Nasrulla"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Shohmurod davrida Samarqandda qancha mavze quriladi.",
+   "options": [
+    "24",
+    "12",
+    "20",
+    "39"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi asarda yozilishicha Xalifa Xudoydod Xorazm shahzodalaridan hisoblanadi.",
+   "options": [
+    "\"O'zbek podshohlari zikri\"",
+    "\"Tarixi Amir Haydar\"",
+    "\"Mizan at-tibb\"",
+    "\"Tuhfat az-zohirin\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xalifa Xudoydod tahsil olgan madrasa nomini aniqlang.",
+   "options": [
+    "Ko'kaldosh madrasasi",
+    "Mir arab madrasasi",
+    "Modarixon madrasasi",
+    "Abdulazizxon madrasasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xalifa Xudoydod Buxoroda yer sotib olib, u yerda toshdan xonaqoh hamda uning yonidan madrasa, sardoba va tahoratxona qurdirgan vaqtni aniqlang.",
+   "options": [
+    "1786-yil",
+    "1671-yil",
+    "1807-yil",
+    "1208-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Majmuaga kirish eshigi ikkita bo'lib, g'arbiy tomonda asosiy darvoza joylashgan...\" Gap qaysi majmua haqida ketmoqda.",
+   "options": [
+    "Chorsu",
+    "Chor Minor",
+    "Mir Bekoybiy madrasasi",
+    "Xalifa Xudoydod majmuasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xalifa Xudoydod majmuasida qancha hujralar qurilganini aniqlang.",
+   "options": [
+    "24",
+    "12",
+    "20",
+    "39"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xalifa Xudoydod majmuasida qancha talaba tahsil olgan.",
+   "options": [
+    "150-200 ta",
+    "360 ta",
+    "366 ta",
+    "350 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xalifa Xudaydod majmuasi qurilgan davrni aniqlang.",
+   "options": [
+    "1800-1826",
+    "1777-1855",
+    "1786-1855",
+    "1785-1800"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A.Byornis Buxoroda qancha madrasa bor ekanligini aytgan.",
+   "options": [
+    "150-200 ta",
+    "360 ta",
+    "366 ta",
+    "350 ta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Samarqand markazida olti qirrali Chorsuni bunyod ettirgan Buxoro amirini aniqlang.",
+   "options": [
+    "Doniyolbiy",
+    "Shohmurod",
+    "Amir Haydar",
+    "Amir Nasrulla"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Toqi muqaddas nomi berilgan majmua nomini aniqlang.",
+   "options": [
+    "Chorsu",
+    "Chor Minor",
+    "Mir Bekoybiy madrasasi",
+    "Xalifa Xudoydod majmuasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Binoning tashqi devorlari 12 qirrali prizmani hosil qiladi... Gap qaysi majmua haqida ketmoqda.",
+   "options": [
+    "Chorsu",
+    "Chor Minor",
+    "Mir Bekoybiy madrasasi",
+    "Xalifa Xudoydod majmuasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bu majmua Registonning janubi sharqida Samarqand, Toshkent, Buxoro va Shahrisabzni bog'lovchi yo'llar chorrahasida joylashgan... Gap qaysi majmua haqida ketmoqda.",
+   "options": [
+    "Chorsu",
+    "Chor Minor",
+    "Mir Bekoybiy madrasasi",
+    "Xalifa Xudoydod majmuasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chor Minor qurilgan vaqtni aniqlang.",
+   "options": [
+    "1786-yil",
+    "1671-yil",
+    "1807-yil",
+    "1208-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bu majmua an'anaviy usulda qurilgan masjid, bir qavatli madrasa, atrofi bir qavatli hujralar bilan o'ralgan hovlidan iborat... Gap qaysi majmua haqida ketmoqda.",
+   "options": [
+    "Chorsu",
+    "Chor Minor",
+    "Mir Bekoybiy madrasasi",
+    "Xalifa Xudoydod majmuasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bu madrasa Qarshining mashhur va qadimiy madrasalaridan biridir... Gap qaysi majmua haqida ketmoqda.",
+   "options": [
+    "Ko'kaldosh madrasasi",
+    "Mir Bekoybiy madrasasi",
+    "Modarixon madrasasi",
+    "Abdulazizxon madrasasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mir Bekoybiy madrasasiga vaqf mulki ajratgan Buxoro amirini aniqlang.",
+   "options": [
+    "Doniyolbiy",
+    "Shohmurod",
+    "Amir Haydar",
+    "Amir Nasrulla"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hijriy 1208 yilda quyidagi qaysi shahar yaqinidagi to'rtta mashhur qishloq Mir Bekoybiy madrasasiga sha'riy tarzda vaqf qilinadi.",
+   "options": [
+    "Marv",
+    "Buxoro",
+    "Samarqand",
+    "Nasaf"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1995-yilda YUNESKO tashkiloti tomonidan \"Butunjahon madaniy yodgorliklari\" ro'yxatiga kiritilgan majmuani aniqlang.",
+   "options": [
+    "Chorsu",
+    "Chor Minor",
+    "Mir Bekoybiy madrasasi",
+    "Xalifa Xudoydod majmuasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fors tilidan \"to'rtta yo'l\" deb tarjima qilinadigan atama nomini toping.",
+   "options": [
+    "Registon",
+    "Tim",
+    "Chorsu",
+    "Siyob"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fors-tojik tilida usti yopiq bozor, savdo rastasining baland tomi, gumbazi kabi ma'nolarni anglatuvchi atama nomini toping.",
+   "options": [
+    "Registon",
+    "Tim",
+    "Chorsu",
+    "Siyob"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sinchli peshayvon tipidagi masjid hovlining janubi-g'arbiy burchagida joylashgan... Gap qaysi majmua haqida ketmoqda.",
+   "options": [
+    "Chorsu",
+    "Chor Minor",
+    "Mir Bekoybiy madrasasi",
+    "Xalifa Xudoydod majmuasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sobiq ittifoq davrida tuz omborxonasi sifatida foydalanilgan majmua nomini aniqlang.",
+   "options": [
+    "Chorsu",
+    "Chor Minor",
+    "Mir Bekoybiy madrasasi",
+    "Xalifa Xudoydod majmuasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi atama \"qumloq joy\" ma'nosini anglatadi.",
+   "options": [
+    "Registon",
+    "Tim",
+    "Chorsu",
+    "Siyob"
+   ],
+   "answer": 0
+  }
+ ]
+}

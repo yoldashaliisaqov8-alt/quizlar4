@@ -1,0 +1,413 @@
+{
+ "title": "8-sinf · XIII asr – XIV asr birinchi yarmida ilm-fan",
+ "time": 30,
+ "questions": [
+  {
+   "q": "XIII asr – XIV asr ikkinchi yarmida adabiyot yo'nalishida ayniqsa o'rni va mavqei ko'tarilgan shaxslar qaysi javobda to'g'ri berilgan?",
+   "options": [
+    "Bahouddin Naqshband, Sa'diy, Juzjoniy",
+    "Rashididdin, Nasaviy, Otamalik",
+    "Nosiriddin Rabg'uziy, Pahlavon Mahmud, Guldursun",
+    "Jaloliddin Rumiy, Sa'diy Sheroziy, Amir Xusrav Dehlaviy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jaloliddin Rumiy asli qaysi shahardan bo'lgan?",
+   "options": [
+    "Shirozdan",
+    "Dehlidan",
+    "Buxorodan",
+    "Balx shahridan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jaloliddin Rumiy qaysi tillarda ijod qilgan?",
+   "options": [
+    "Arab, fors va turkiy tillarda",
+    "Faqat fors tilida",
+    "Arab va mo'g'ul tillarida",
+    "Fors va hind tillarida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddin Rumiy nima uchun “Rumiy” nisbasini olgan?",
+   "options": [
+    "Umrining katta qismi Rum davlatida o'tgani uchun",
+    "Rum sultoniga xizmat qilgani uchun",
+    "Asarlari Rumda yozilgani uchun",
+    "Rimda tug'ilgani uchun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-e, 2-d, 3-b, 4-a",
+    "1-e, 2-f, 3-b, 4-a",
+    "1-d, 2-c, 3-b, 4-a",
+    "1-e, 2-c, 3-b, 4-a"
+   ],
+   "answer": 3,
+   "image": "img/k8-08-05.jpg"
+  },
+  {
+   "q": "Rumiy qaysi shaharlardagi madrasalarda o'qigan?",
+   "options": [
+    "Misr, Makka va Madina",
+    "Buxoro, Samarqand va Balx",
+    "Halab, Damashq va Bag'dod",
+    "Hirot, Nishopur va Marv"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jaloliddin Rumiy yaratgan “Masnaviyi ma'naviy” dostoni necha baytdan iborat?",
+   "options": [
+    "10 ming bayt",
+    "72 ming bayt",
+    "36 ming bayt",
+    "5 ming bayt"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rumiyning hikoyasida u nega bolakayga shirinlik haqida nasihatni uch haftadan keyin ham darhol aytmagan?",
+   "options": [
+    "Ayolning iltimosini unutgani uchun",
+    "Bolakaydan xafa bo'lgani uchun",
+    "Shirinlik zararsiz deb hisoblagani uchun",
+    "O'zi ham shirinlik yeyishni yaxshi ko'rgani uchun, avval o'zi bu odatdan voz kechishi lozim edi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sa'diy Sheroziyning mashhur asarlari qaysi javobda to'g'ri berilgan?",
+   "options": [
+    "“Guliston” va “Bo'ston”",
+    "“Haqiqatlar xazinasi” va “Guliston”",
+    "“Masnaviyi ma'naviy” va “Bo'ston”",
+    "“Xamsa” va “Guliston”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada “Guldursun afsonasi”dagi shaxslar va ularga tegishli ma'lumotlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-f, 2-e, 3-b",
+    "1-b, 2-f, 3-e",
+    "1-e, 2-f, 3-b",
+    "1-e, 2-b, 3-f"
+   ],
+   "answer": 2,
+   "image": "img/k8-08-10.jpg"
+  },
+  {
+   "q": "Sa'diy Sharq mamlakatlari bo'ylab necha yil sayohat qilgan?",
+   "options": [
+    "40 yil",
+    "5 yil",
+    "10 yil",
+    "20 yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIII asr o'rtalarida Sherozga qaytgan Sa'diy qanday hayot kechirgan?",
+   "options": [
+    "Madrasada mudarris bo'lib",
+    "Sulton saroyida amaldor bo'lib",
+    "Savdo bilan shug'ullanib",
+    "Shahar chekkasidagi xonaqohda faqirona hayot"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sa'diy o'z asarlarida hukmdorlarni nimaga chaqirgan?",
+   "options": [
+    "Adolat va insofga",
+    "Soliq yig'ishga",
+    "Urushga",
+    "Taxtdan voz kechishga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sa'diy qaerda vafot etgan?",
+   "options": [
+    "Ona shahri Sherozda",
+    "Dehlida",
+    "Damashqda",
+    "Balxda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi asarlarni toping.",
+   "options": [
+    "1-a, 2-d, 3-f, 4-b",
+    "1-a, 2-d, 3-c, 4-e",
+    "1-a, 2-e, 3-c, 4-b",
+    "1-a, 2-d, 3-c, 4-b"
+   ],
+   "answer": 3,
+   "image": "img/k8-08-15.jpg"
+  },
+  {
+   "q": "Amir Xusrav Dehlaviy asli qaysi shahar kishilarining xonadonida dunyoga kelgan?",
+   "options": [
+    "Kesh (Shahrisabz)lik",
+    "Buxoroliklar",
+    "Xorazmliklar",
+    "Samarqandliklar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xusrav Dehlaviy qaysi shahardagi sulton saroyida yashagan?",
+   "options": [
+    "Bag'dodda",
+    "Dehlida",
+    "Sherozda",
+    "Balxda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Xusrav Dehlaviy yozgan asarlar qaysi javobda to'g'ri berilgan?",
+   "options": [
+    "“Qisasi Rabg'uziy”, “Falakning to'qqiz gumbazi”",
+    "“Guliston”, “Bo'ston”, “Xamsa”",
+    "“Xamsa”, “Xizrxon va Duvalra”, “G'oliblik kaliti”",
+    "“Masnaviyi ma'naviy”, “Xamsa”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan qaysi javobda XIII asrning ikkinchi yarmidan tarixnavislik rivoji bilan bog'liq olimlar to'g'ri berilgan?",
+   "options": [
+    "Pahlavon Mahmud, Rumiy, Juzjoniy, Xusrav",
+    "Sa'diy, Rumiy, Naqshband, Rabg'uziy",
+    "Rabg'uziy, Nasaviy, Sa'diy, Naqshband",
+    "Abu Umar Juzjoniy, Alouddin Otamalik, Fayzulloh Rashididdin, Shihobiddin Nasaviy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chizmada shaharlar va ularga oid ma'lumotlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-b, 2-d, 3-e",
+    "1-b, 2-a, 3-e",
+    "1-b, 2-f, 3-e",
+    "1-f, 2-b, 3-e"
+   ],
+   "answer": 2,
+   "image": "img/k8-08-20.jpg"
+  },
+  {
+   "q": "Pahlavon Mahmud qaysi nom bilan mashhur bo'lgan?",
+   "options": [
+    "“Sohibqiron”",
+    "“Puryovaliy” – pahlavonlar boshlig'i",
+    "“Xoja Bahouddin”",
+    "“Ulug' xon”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pahlavon Mahmud qaysi hunar egasi bo'lgan?",
+   "options": [
+    "Po'stindo'z va telpakdo'z",
+    "Temirchi",
+    "Kulol",
+    "Misgar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Pahlavon Mahmud yaratgan masnaviy qanday nomlanadi?",
+   "options": [
+    "“Falakning to'qqiz gumbazi”",
+    "“Haqiqatlar xazinasi”",
+    "“Masnaviyi ma'naviy”",
+    "“Qisasi Rabg'uziy”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pahlavon Mahmud XIV asr boshlarida o'z hisobidan qurdirgan maqbara hozir qaysi shaharda joylashgan?",
+   "options": [
+    "Buxoroda",
+    "Xivada",
+    "Urganchda",
+    "Samarqandda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chizmada “Qisasi Rabg'uziy” asariga oid ma'lumotlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-e, 2-c, 3-b",
+    "1-c, 2-f, 3-b",
+    "1-f, 2-c, 3-b",
+    "1-f, 2-b, 3-c"
+   ],
+   "answer": 2,
+   "image": "img/k8-08-25.jpg"
+  },
+  {
+   "q": "Pahlavon Mahmud nomini keyingi asrlarda o'zlarining harbiy hayqiriqlariga aylantirgan qavm kimlar?",
+   "options": [
+    "Qirg'izlar",
+    "Qozoqlar",
+    "Yovmut turkmanlari",
+    "Uyg'urlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nosiriddin Rabg'uziydan bizgacha yetib kelgan yagona asar qaysi?",
+   "options": [
+    "“Xamsa”",
+    "“Qisasi Rabg'uziy” (“Qisasul anbiyo”)",
+    "“Bo'ston”",
+    "“Guliston”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Qisasi Rabg'uziy” asari qaysi mo'g'ul beki iltimosiga ko'ra yozilgan?",
+   "options": [
+    "Nosiriddin To'qbug'aning",
+    "Kebekxonning",
+    "Esan Buqaning",
+    "Tarmashirinxonning"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Qisasi Rabg'uziy” necha qismdan iborat?",
+   "options": [
+    "100 qismdan",
+    "12 qismdan",
+    "72 qismdan",
+    "36 qismdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada asarlar va sayohatlarga oid ko'rsatkichlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-e, 2-b, 3-d",
+    "1-e, 2-b, 3-f",
+    "1-e, 2-a, 3-f",
+    "1-b, 2-e, 3-f"
+   ],
+   "answer": 1,
+   "image": "img/k8-08-30.jpg"
+  },
+  {
+   "q": "Naqshbandiylik tariqatining asoschisi kim?",
+   "options": [
+    "Najmiddin Kubro",
+    "Bahouddin Naqshband",
+    "Xoja Ali Romitaniy",
+    "Sayfiddin Boxarziy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bahouddin Naqshbandning asl ismi nima?",
+   "options": [
+    "Bahouddin",
+    "Ahmad",
+    "Muhammad",
+    "Ali"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bahouddin “Naqshband” laqabini nima sababdan olgan?",
+   "options": [
+    "Naqshbandlar qishlog'ida tug'ilgani uchun",
+    "Naqshli kiyim kiygani uchun",
+    "Yoshligida otasining yonida matolarga naqsh solish hunari bilan mashg'ul bo'lgani uchun",
+    "Kitoblarga naqsh chizgani uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Naqshband aqidasi qanday?",
+   "options": [
+    "“Dil ba yor-u dast ba kor” – ko'ngling Allohda, qo'ling ishda",
+    "“Yolg'izlikda yasha”",
+    "“Hukmdorga xizmat qil”",
+    "“Dunyodan voz kech”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada shaxslar va ularning hayot yillari to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-b, 2-d, 3-f",
+    "1-a, 2-d, 3-f",
+    "1-b, 2-c, 3-f",
+    "1-b, 2-e, 3-f"
+   ],
+   "answer": 0,
+   "image": "img/k8-08-35.jpg"
+  },
+  {
+   "q": "S.P.Tolstov 1937-yilda qaysi hududdagi Guldursun qal'a xarobasini o'rgangan?",
+   "options": [
+    "Farg'ona vodiysidagi",
+    "Qoraqalpog'iston hududidagi",
+    "Surxondaryodagi",
+    "Zarafshon vohasidagi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Guldursun afsonasida shahar nima sababdan dushmanga taslim bo'lgan?",
+   "options": [
+    "Podsho taslim bo'lgani sabab",
+    "Podshoning qizi Guldursun dushman boshlig'iga “sigir voqeasi hiyla” deb maktub yozgani sabab",
+    "Suv tugagani sabab",
+    "Darvoza ichkaridan ochilgani sabab"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Guldursun afsonasi”ga oid to'g'ri ma'lumotlarni aniqlang. 1) Guldursun yurtdoshlariga sodiq qolgan; 2) Afsona mo'g'ul bosqinchilariga qarshi kurash haqida ma'lumot beradi; 3) Aholi semiz sigirlarga so'nggi donni yedirib, darvozadan chiqarib yuborgan; 4) Afsonani S.P.Tolstov mahalliy aholidan eshitib yozib olgan; 5) Dushman boshlig'i Guldursunni sovrinlar bilan taqdirlagan.",
+   "options": [
+    "1, 2, 3, 5",
+    "2, 3, 4, 5",
+    "1, 3, 4, 5",
+    "2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng avval sodir bo'lgan?",
+   "options": [
+    "Sa'diy Sheroziy vafot etdi",
+    "Jaloliddin Rumiy vafot etdi",
+    "Amir Xusrav Dehlaviy vafot etdi",
+    "Pahlavon Mahmud vafot etdi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng keyin sodir bo'lgan?",
+   "options": [
+    "Jaloliddin Rumiy vafot etdi",
+    "Sa'diy Sheroziy vafot etdi",
+    "Amir Xusrav Dehlaviy vafot etdi",
+    "Pahlavon Mahmud vafot etdi"
+   ],
+   "answer": 3
+  }
+ ]
+}

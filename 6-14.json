@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 14-mavzu. Ahamoniylar davlati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Hozirgi Eron hududida qadim zamonlarda qaysi qabilalar yashagan?",
+   "options": [
+    "Shumerlar, akkadlar",
+    "Xettlar, finikiyaliklar",
+    "Kassiylar, elamiylar",
+    "Urartlar, skiflar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Keyinchalik Eronga qaysi xalqlar ko'chib kelib o'rnashdi?",
+   "options": [
+    "Yunonlar va makedonlar",
+    "Skiflar va saklar",
+    "Midiyaliklar va forslar",
+    "Ossuriyaliklar va bobilliklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi Eron aholisining mashg'ulotlariga oid to'g'ri fikrni toping.",
+   "options": [
+    "Asosan konchilik bilan shug'ullangan",
+    "Faqat ko'chmanchi chorvachilik bilan shug'ullangan",
+    "Tog'oldi vodiylarda dehqonchilik, dasht mintaqalarida chorvachilik bilan shug'ullangan",
+    "Barcha aholi dengizchilik bilan shug'ullangan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Elam davlati qayerda vujudga kelgan?",
+   "options": [
+    "Eronning janubi-g'arbiy qismida, Mesopotamiya bilan chegarada",
+    "Kaspiy dengizidan janubi-g'arbda",
+    "Kavkazortida",
+    "Fors ko'rfaziga tutash janubiy yerlarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Elam davlatining poytaxti qaysi shahar bo'lgan?",
+   "options": [
+    "Persepol",
+    "Tushpa",
+    "Ekbatana",
+    "Suza"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Elam davlati qanday madaniy yutuq bilan mashhur?",
+   "options": [
+    "Elamda birinchi alifbo yaratilgan",
+    "Elamda shaxmat ixtiro qilingan",
+    "Elamda jahondagi eng qadimiy yozuvlardan biri yaratilgan",
+    "Elamda birinchi taqvim tuzilgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Midiya qayerda joylashgan?",
+   "options": [
+    "Eronning janubi-g'arbida",
+    "Fors ko'rfazi bo'yida",
+    "Kaspiy dengizidan janubi-g'arbda",
+    "O'rta Yer dengizi sohilida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Midiya qachon va kimning hukmronligi davrida qudratli davlatga aylandi?",
+   "options": [
+    "Mil. avv. VI asrda; Kir II davrida",
+    "Mil. avv. VIII asrda; Ashshurbanipal davrida",
+    "Mil. avv. 2-mingyillikda; Xammurapi davrida",
+    "Mil. avv. VII asrda; podsho Kiaksar davrida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Midiya qaysi davlat bilan ittifoq bo'lib, Ossuriyani bosib oldi?",
+   "options": [
+    "Misr",
+    "Urartu",
+    "Bobil",
+    "Fors"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mil. avv. 558-yilda barcha forslarni o'z hokimiyati ostida birlashtirgan podsho kim?",
+   "options": [
+    "Doro I",
+    "Ahamoniylar sulolasidan Kir II",
+    "Kambiz II",
+    "Kiaksar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kir II qaysi davlatni bo'ysundirganidan so'ng ulkan lashkar tuzdi?",
+   "options": [
+    "Midiya podsholigini",
+    "Yunonistonni",
+    "Misrni",
+    "Bobilni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kir II zabt etgan mamlakatlarni aniqlang.\n1) Armaniston; 2) Misr; 3) Midiya; 4) Bobil; 5) Hindiston.",
+   "options": [
+    "1, 2, 5",
+    "2, 3, 4",
+    "1, 3, 4",
+    "3, 4, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Forslar O'rta Yer dengizi sohiliga chiqib, qaysi mamlakatlarni bo'ysundirdi?",
+   "options": [
+    "Urartu va Ossuriyani",
+    "Falastin va Finikiyani",
+    "Misr va Liviyani",
+    "Gretsiya va Frakiyani"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kir II ning istilochilik siyosatini kimlar davom ettirdi?",
+   "options": [
+    "Kiaksar va Kambiz II",
+    "Kambiz II va Doro I",
+    "Navuxodonosor II va Doro I",
+    "Doro I va Aleksandr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kambiz II Fors davlati hududini qanday kengaytirdi?",
+   "options": [
+    "Bobilni zabt etish orqali",
+    "Misrni zabt etish orqali",
+    "Hindistonni zabt etish orqali",
+    "Yunonistonni zabt etish orqali"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Doro I Fors davlati taxtiga qachon chiqdi?",
+   "options": [
+    "Mil. avv. 330-yilda",
+    "Mil. avv. 525-yilda",
+    "Mil. avv. 558-yilda",
+    "Mil. avv. 522-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Doro I taxtga chiqqan paytda qanday vaziyat yuzaga kelgan edi?",
+   "options": [
+    "Davlat tinch va osoyishta edi",
+    "Bosib olingan barcha mamlakatlarda qo'zg'olonlar alangalanib ketgan edi",
+    "Fors davlati Yunonistonga qaram edi",
+    "Davlat ikkiga bo'linib ketgan edi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Doro I Qora dengiz bo'ylarida yashovchi qaysi xalq ustiga yurish qildi?",
+   "options": [
+    "Midiyaliklar",
+    "Finikiyaliklar",
+    "Urartlar",
+    "Skiflar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yunon-fors urushlarining boshlanishiga nima sabab bo'ldi?",
+   "options": [
+    "Kir II ning Bobilni egallashi",
+    "Doro I ning Kichik Osiyodagi yunon koloniyalari va Frakiyani bosib olishi",
+    "Aleksandrning Forsga yurishi",
+    "Kambiz II ning Misrni bosib olishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Doro I hukmronligi davrida Fors davlati qanday hududni egalladi?",
+   "options": [
+    "Hindiston shimolidan O'rta Yer dengiziga qadar",
+    "Faqat Eron va Mesopotamiyani",
+    "Kaspiydan Fors ko'rfazigacha",
+    "Misrdan Yunonistongacha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Doro I muomalaga kiritgan yagona oltin tanga qanday nomlangan?",
+   "options": [
+    "Drahma",
+    "Dinor",
+    "Darik",
+    "Mino"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Shoh yo'li” qaysi shahardan qayergacha qurilgan?",
+   "options": [
+    "Persepoldan O'rta Yer dengiziga qadar",
+    "Ekbatanadan Kaspiy dengizigacha",
+    "Bobildan Misrgacha",
+    "Suzadan Hindistongacha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Doro I saltanatni qanday harbiy-ma'muriy o'lkalarga bo'ldi?",
+   "options": [
+    "“Nom”larga",
+    "Polislarga",
+    "Viloyat-noibliklarga",
+    "Satrapiyalarga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Doro I islohotlarini aniqlang.\n1) “darik” oltin tangasini muomalaga kiritdi; 2) “shoh yo'li”ni qurdirdi; 3) qonunlar to'plamini tosh ustunlarga yozdirdi; 4) satrapiyalar tuzdi; 5) birinchi muntazam qo'shinni tuzdi.",
+   "options": [
+    "2, 3, 4",
+    "1, 2, 4",
+    "1, 3, 5",
+    "2, 4, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ahamoniylar davlatidagi muhim savdo markazlarini aniqlang.",
+   "options": [
+    "Uruk, Lagash",
+    "Suza, Ekbatana",
+    "Memfis, Fiva",
+    "Tir, Sidon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Persepol saroyidagi bo'rtma naqshlarda bo'ysundirilgan elatlar qanday holatda tasvirlangan?",
+   "options": [
+    "Ibodat qilayotgan holatda",
+    "Dehqonchilik qilayotgan holatda",
+    "Fors qo'shini bilan jang qilayotgan holatda",
+    "Fors shohlariga o'lpon keltirayotgan holatda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fors shohlarining bitiklari qayerlarga o'yib yozilgan?",
+   "options": [
+    "Papirus o'ramlariga",
+    "Behistun va Naqshi Rustam qoyalariga, Persepol saroyi devorlariga",
+    "Bambuk taxtachalarga",
+    "Loy taxtachalarga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nVoqea | Sana\nKir II forslarni birlashtirdi | 1) ________\nDoro I taxtga chiqdi | 2) ________\nMakedoniyalik Aleksandr Fors davlatini bosib oldi | 3) ________\na) mil. avv. 558-yil; b) mil. avv. 522-yil; c) mil. avv. 330-yil; d) mil. avv. 525-yil; e) mil. avv. 539-yil; f) mil. avv. 605-yil.",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-a, 2-d, 3-c",
+    "1-a, 2-b, 3-f",
+    "1-e, 2-b, 3-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nDavlat | Poytaxti yoki markazi | Mashhur hukmdori\nElam | A | –\nMidiya | – | B\nFors podsholigi | Persepol | C\n1) Suza; 2) Kiaksar; 3) Doro I; 4) Nineviya; 5) Xammurapi; 6) Tushpa.",
+   "options": [
+    "A-1, B-5, C-3",
+    "A-1, B-2, C-6",
+    "A-4, B-2, C-3",
+    "A-1, B-2, C-3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ahamoniylar davlatiga oid to'g'ri hukmlarni aniqlang.\nI. Kir II mil. avv. 558-yilda forslarni birlashtirgan.\nII. Misrni Doro I zabt etgan.\nIII. Doro I saltanatni satrapiyalarga bo'lgan.\nIV. Forslar iyeroglif yozuvidan foydalangan.",
+   "options": [
+    "I va II",
+    "III va IV",
+    "II va IV",
+    "I va III"
+   ],
+   "answer": 3
+  }
+ ]
+}

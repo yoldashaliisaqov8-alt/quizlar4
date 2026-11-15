@@ -1,0 +1,196 @@
+{
+ "title": "9-sinf · 21-mavzu. Qoraqalpoq xalqining shakllanishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qoraqalpoqlarning eng qadimgi ajdodlarini aniqlang.",
+   "options": [
+    "Saklar",
+    "Bijanaklar",
+    "O'g'uzlar",
+    "Massagetlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraqalpoqlarning eng qadimgi ajdodlari yashagan hudud nomini aniqlang.",
+   "options": [
+    "Orol dengizining janubiy sohillari",
+    "Orol dengizining shimoliy sohillari",
+    "Orol dengizining g'arbiy sohillari",
+    "Orol dengizining sharqiy sohillari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraqalpoqlar Amudaryo quyi etagida qaysi xalq negizida shakllana boshlagan.",
+   "options": [
+    "Saklar",
+    "Bijanaklar",
+    "O'g'uzlar",
+    "Massagetlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "G'arbiy Xorazm, Ustyurt va Volga sohillarida yashagan qoraqalpoqlar bu davrda qaysi davlat hukmronligi ostida bo'lgan.",
+   "options": [
+    "No'g'ay xonligi",
+    "Ashtarxon xonligi",
+    "Oltin O'rda",
+    "Mo'g'uliston"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi davlatda joylashgan qoraqalpoqlar ham XIV asrning boshlarida Volga sohillariga ko'chib o'tgan edi.",
+   "options": [
+    "No'g'ay xonligi",
+    "Ashtarxon xonligi",
+    "Oltin O'rda",
+    "Mo'g'uliston"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XV asrning ikkinchi yarmidan to XVI asrning ikkinchi yarmigacha bo'lgan davrda qoraqalpoqlar qaysi davlat tarkibida bo'lganini aniqlang.",
+   "options": [
+    "No'g'ay xonligi",
+    "Ashtarxon xonligi",
+    "Oltin O'rda",
+    "Mo'g'uliston"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rossiya Ashtarxon xonligini bosib olgach, No'g'ay qabila sardorlari o'rtasida o'zaro nifoq va janjallar boshlangan vaqtni aniqlang.",
+   "options": [
+    "1598-yil",
+    "1556-yil",
+    "1723-yil",
+    "1714-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1557-1558-yillarda yuz bergan voqeani aniqlang.",
+   "options": [
+    "Rossiya Ashtarxon xonligini bosib oladi",
+    "Jung'or xonligi Turkistonga hujum qiladi",
+    "No'g'ay xonligida ikki yil ekin bitmay, ocharchilik boshlanadi",
+    "Amudaryo eski o'zaniga qaytadi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVII asrda qoraqalpoqlar Xorazmga ko'chib o'tgan o'zbeklar bilan birgalikda Xiva xonligining shimolida qaysi davlatni barpo etadilar.",
+   "options": [
+    "Orol",
+    "Kegeyli",
+    "Aran",
+    "A va C javoblar to'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVIII asrlarda qoraqalpoqlarning bir qismi ko'chib o'tgan hudud nomini aniqlang.",
+   "options": [
+    "Sirdaryoning quyi oqimi",
+    "Farg'ona vodiysi",
+    "Amudaryoning quyi qismi",
+    "Orolbo'yi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraqalpoqlarning aksariyati qozoqlarning siquvi va xonlarning zulmi natijasida quyidagi qaysi hududga ko'chib o'tishga majbur bo'ladi.",
+   "options": [
+    "Sirdaryoning quyi oqimi",
+    "Farg'ona vodiysi",
+    "Amudaryoning quyi qismi",
+    "Orolbo'yi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abu Fazl Bayhaqiyning \"Tarixi Bayhaqiy\" asarini o'rgangan sharqshunosni aniqlang.",
+   "options": [
+    "V.V. Bartold",
+    "S.P. Tolstov",
+    "P.P Ivanov",
+    "A.I. Levshin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XV asrdagi Xorazmshohlar lashkarida \"Qalpoq\" ismli lashkarboshi bo'lganini, biroq bu \"qalpoq\" atamasining lashkarboshiga daxli yo'qligini alohida ta'kidlagan sharqshunosni aniqlang.",
+   "options": [
+    "V.V. Bartold",
+    "S.P. Tolstov",
+    "P.P Ivanov",
+    "A.I. Levshin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "P.P.Ivanov \"Qalpoq\" so'ziga ma'nodosh \"Qalpoq\" etnonimi XI asrda qaysi hududda yashagan degan fikrga keladi.",
+   "options": [
+    "Sirdaryoning quyi oqimi",
+    "Farg'ona vodiysi",
+    "Amudaryoning quyi qismi",
+    "Orolbo'yi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi tarixchining XIV asrga mansub xalqlar ro'yxatida polovets-qipchoq toifalari ichida \"qora bo'rkli\" degan atama uchraydi.",
+   "options": [
+    "Juvayniy",
+    "An-Nuvayriy",
+    "Mirzo Ulug'bek",
+    "Ibn al-Asir"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraqalpoqlarning aniq ilk nomi Abdullaxon II ning Sig'noqdagi Ziyovuddin maqbarasiga qachongi bergan yorliqnomasida uchraydi.",
+   "options": [
+    "1598-yil",
+    "1556-yil",
+    "1723-yil",
+    "1714-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jung'or xonligining Turkistonga hujumi sababli qoraqalpoq xalqi uch guruhga bo'linib ketgan vaqtni aniqlang.",
+   "options": [
+    "1598-yil",
+    "1556-yil",
+    "1723-yil",
+    "1714-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Qoraqalpoqnoma\" asarining muallifini aniqlang.",
+   "options": [
+    "Berdaq",
+    "Kunxo'ja",
+    "T.Qayipberganov",
+    "K.Sultonov"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachonga kelib Sirdaryo qoraqalpoqlari yetakchilari Eshmuhammad (Eshimxon) boshchiligida tuzilgan davlatga birlashadi.",
+   "options": [
+    "1598-yil",
+    "1556-yil",
+    "1723-yil",
+    "1714-yil"
+   ],
+   "answer": 3
+  }
+ ]
+}

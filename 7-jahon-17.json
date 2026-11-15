@@ -1,0 +1,836 @@
+{
+ "title": "7-sinf · Salib yurishlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Klermondagi Papa so'zlariga javoban xaloyiq qanday javob qaytaradilar? 1. \"Yo'qolsin ochlik!\" 2. \"Xudoning xohishi shu!\" 3. \"Yaratgan uchun!\" 4. \"Xudoning irodasi shu\" 5. \"Payg'ambar qabrini ozod qilamiz!\"",
+   "options": [
+    "1,2",
+    "2,4",
+    "3,5",
+    "1,4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kichik Osiyo yarim oroli deyarli qaysi davlat qo'l ostida bo'lgan?",
+   "options": [
+    "Usmonli turklar",
+    "Arab xalifaligi",
+    "Sun sulolasi",
+    "Saljuqiylar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Klermon shahri qayerda joylashgan?",
+   "options": [
+    "Fransiya",
+    "Italiya",
+    "Germaniya",
+    "Angliya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Otadan qolgan mol-mulk faqat katta o'g'ilgagina meros bo'lib o'tishi G'arbiy Yevropada nima deb atalgan?",
+   "options": [
+    "Anafema",
+    "Mayorat",
+    "Orden",
+    "Inkvizitsiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan salib yurishlari ishtirokchilari haqida noto'g'ri javobni aniqlang.",
+   "options": [
+    "Ritsarlar o'zlariga shon-shuhrat va boylik istab yo'lga chiqqanlar",
+    "Qirollar o'zlariga yangi hudud va fuqarolarni bo'ysundirishni maqsad qilganlar",
+    "Dehqonlar sharqda mulkka va baxtli hayotga erishishga umid qilganlar",
+    "Savdogarlar G'arb mollari bilan savdo qilish orqali boyib ketishni orzu qilganlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon salib yurishlari uchun Sharqda qulay vaziyat yuzaga keladi?",
+   "options": [
+    "X asr boshlari",
+    "X asr o'rtalari",
+    "XI asr boshlari",
+    "XI asr oxirlari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quddus necha asrdan buyon musulmonlar qo'lida edi?",
+   "options": [
+    "Uch asr",
+    "Besh asr",
+    "Yetti asr",
+    "To'qqiz asr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rivoyatlarga ko'ra Iso payg'ambar qaysi shaharga dafn qilingan?",
+   "options": [
+    "Quddus",
+    "Isfahon",
+    "Shamasiya",
+    "Yerevan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xochga sig'inish rasmiy ravishda qachon tus oldi?",
+   "options": [
+    "III asr",
+    "VI asr",
+    "V asr",
+    "IV asr"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Papa Falastinda nimalar daryo bo'lib oqishini ta'kidlaydi?",
+   "options": [
+    "Oltin va kumush",
+    "Yog'och va metal",
+    "Asal va sut",
+    "Bug'doy va arpa"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi Rim papasi Klermon shahrida nutq so'zlaydi?",
+   "options": [
+    "Urban II",
+    "Bonifatsiy VIII",
+    "Grigoriy IX",
+    "Innokentiy III"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Musulmon hukmdorlarining o'zaro urushlari qachon boshlanadi?",
+   "options": [
+    "X asr boshlari",
+    "X asr o'rtalari",
+    "XI asr boshlari",
+    "XI asr oxirlari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi davlat xristianlar dushmanlariga qarshi kurashish maqsadida jangchi so'rab G'arbga murojaat qiladi?",
+   "options": [
+    "Vizantiya",
+    "Fransiya",
+    "Germaniya",
+    "Kiyev Rusi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Klermon yig'inida: \"Yerning kindigi, jannatmakon hosildor yerli o'lka\" deya ta'riflangan joy?",
+   "options": [
+    "Livan",
+    "Quddus",
+    "Oman",
+    "Shamasiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Salib yurishlari Yaqin Sharqqa qarshi nechanchi yillarda bo'lib o'tgan?",
+   "options": [
+    "1055-1258-yillarda",
+    "1066-1265-yillarda",
+    "1096-1270-yillarda",
+    "1099-1291-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Salibchilarning ko'pchiligini, asosan, kimlar tashkil qiladi?",
+   "options": [
+    "Dehqonlar",
+    "Savdogarlar",
+    "Ritsarlar",
+    "Hunarmandlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Rim papasi Klermon shahrida nutq so'zlaydi?",
+   "options": [
+    "1095-yil",
+    "1096-yil",
+    "1097-yil",
+    "1099-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Klermon shahridagi cherkov yig'inida asosan qaysi toifa vakillari to'planadilar?",
+   "options": [
+    "Ruhoniylar",
+    "Oddiy xalq",
+    "Ritsarlar",
+    "A, B, C"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Cherkov yurish ishtirokchilariga jumladan dehqonlarga qanday yengilliklar e'lon qiladi? 1. Oilalari cherkov himoyasiga olinishi 2. Uy-joy, yer-mulk bilan ta'minlash 3. Farzandlarini cherkov maktablarida o'qitish 4. Qarzdor bo'lsa qarzlaridan kechilish",
+   "options": [
+    "1,4",
+    "2,3",
+    "2,4",
+    "1,3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilardan Salib yurishlari haqidagi to'g'ri javobni aniqlang.",
+   "options": [
+    "Shaharliklar uyiga bostirib kirgan ritsar eshikka qalqonni osib qo'yar va bu uy barcha jihozlari bilan yangi xo'jayinga o'tar edi",
+    "Salibchilarga qaramlikka tushgan mahalliy dehqonlar hosilning 2/3 qismini soliq sifatida to'lardilar",
+    "Yurishlar Suriya va Falastinda salibchilarning o'z davlatini tuzishi bilan yakunlanadi",
+    "Uzoq Sharqda tuzilajak davlat Vizantiyaga qaram bo'lishi lozim edi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Uchinchi yirik diniy-ritsarlik ordeni bu?",
+   "options": [
+    "Tevton orden",
+    "Livoniya ordeni",
+    "Tampliyerlar ordeni",
+    "Gospitalyerlar ordeni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Musulmonlar Falastinni qaytadan egallaganidan so'ng gospitalyerlar ordeni bir necha asr o'tib qayerga ko'chib joylashadi?",
+   "options": [
+    "Kipr oroli",
+    "Krit oroli",
+    "Malta oroli",
+    "Rodos oroli"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi orden Quddusdagi ritsarlar joylashgan tepalik nomi bilan atalgan?",
+   "options": [
+    "Tevton ordeni",
+    "Tampliyerlar ordeni",
+    "Ioniya ordeni",
+    "Gospitalyerlar ordeni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ikkinchi salib yurishida qaysi davlat qirollari o'z qo'shini bilan ishtirok etgan?",
+   "options": [
+    "Fransiya, Germaniya",
+    "Italiya, Fransiya",
+    "Germaniya, Angliya",
+    "Angliya, Fransiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dastlabki diniy-ritsarlik ordeni bu?",
+   "options": [
+    "Tevton ordeni",
+    "Ioniya ordeni",
+    "Tampliyerlar ordeni",
+    "Gospitalyerlar ordeni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diniy-ritsarlik ordeni a'zolarining asosiy vazifalari nima edi?",
+   "options": [
+    "Ibodat",
+    "Mehnat",
+    "Urush",
+    "A, B"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Uchinchi salib yurishi nechanchi yillarda bo'lgan?",
+   "options": [
+    "1096-1099-yillar",
+    "1147-1149-yillar",
+    "1189-1192-yillar",
+    "1202-1204-yillar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Musulmonlar Falastinni qaytadan egallaganidan so'ng gospitalyerlar ordeni dastlab qayerga ko'chib joylashadi?",
+   "options": [
+    "Kipr oroli",
+    "Krit oroli",
+    "Malta oroli",
+    "Rodos oroli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Birinchi salib yurishida ritsarlarni qaysi Vizantiya imperatori vassallik qasamyodini qabul qildirishga erishadi?",
+   "options": [
+    "Aleksey I",
+    "Feodosiy",
+    "Yustin",
+    "Konstantin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ikkinchi ritsarlik ordeni bu?",
+   "options": [
+    "Tevton ordeni",
+    "Ioniya ordeni",
+    "Tampliyerlar ordeni",
+    "Gospitalyerlar ordeni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon musulmon amirliklari birlashib, salibchilarga qarshi kurash boshlaydilar?",
+   "options": [
+    "XI asr",
+    "XII asr",
+    "XIII asr",
+    "XI asr o'rtasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Salibchilar Quddusni egallashda birgina Jome masjidida qancha musulmonni o'ldiradilar?",
+   "options": [
+    "10 ming",
+    "15 ming",
+    "20 ming",
+    "1 ming"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi orden hayriya va in'omlar olishdan tashqari, sudxo'rlik bilan ham shug'ullangan?",
+   "options": [
+    "Tevton ordeni",
+    "Ioniya ordeni",
+    "Tampliyerlar ordeni",
+    "Gospitalyerlar ordeni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Uchinchi yirik diniy-ritsarlik ordeni a'zolarining ko'pchiligi qayerdan bo'lgan?",
+   "options": [
+    "Fransiya",
+    "Italiya",
+    "Germaniya",
+    "Angliya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ikkinchi salib yurishlari qachon bo'lib o'tdi?",
+   "options": [
+    "1146-1149-yillar",
+    "1189-1192-yillar",
+    "1155-1169-yillar",
+    "1147-1149-yillar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vizantiya poytaxti Konstantinopolda qachon ritsarlar to'plana boshlagan?",
+   "options": [
+    "1096-yilning kuzi",
+    "1097-yilning bahori",
+    "1098-yilning qishi",
+    "1099-yilning yozi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kim salibchilardan Quddusni tortib oladi?",
+   "options": [
+    "Alp Arslon",
+    "Amir Temur",
+    "O'zbekxon",
+    "Salohiddin Ayyubiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yahudiylarning ibodatxonasi qanday nomlanadi?",
+   "options": [
+    "Zikkurat",
+    "Bibliya",
+    "Sinagoga",
+    "Dinastiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Salohiddin Ayyubiy qayerning sultoni?",
+   "options": [
+    "Eron",
+    "Misr",
+    "Suriya",
+    "Iroq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Uchinchi salib yurishida qaysi davlatlar hukmdorlari qatnashgan? 1. Fransiya 2. Angliya 3. Germaniya 4. Rossiya 5. Italiya 6. Ispaniya",
+   "options": [
+    "1-2-3",
+    "4-5-6",
+    "1-3-5",
+    "2-4-6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi ordenni ba'zida ioanniylar ordeni ham deyishadi?",
+   "options": [
+    "Tevton ordeni",
+    "Livoniya ordeni",
+    "Tampliyerlar ordeni",
+    "Gospitalyerlar ordeni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi orden Muqaddas Bibi Maryamga bag'ishlangan?",
+   "options": [
+    "Tevton ordeni",
+    "Livoniya ordeni",
+    "Tampliyerlar ordeni",
+    "Gospitalyerlar ordeni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi orden dastlab Quddusga kelayotgan ziyoratchilarni himoya qilish uchun tuzilgan?",
+   "options": [
+    "Tevton ordeni",
+    "Ioniya ordeni",
+    "Tampliyerlar ordeni",
+    "Gospitalyerlar ordeni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Birinchi salib yurishlariga qaysi davlatlarning turli viloyatlaridan ritsarlar to'plangan? 1. Fransiya 2. Angliya 3. Germaniya 4. Rossiya 5. Italiya 6. Ispaniya",
+   "options": [
+    "1-2-3",
+    "4-5-6",
+    "1-3-5",
+    "2-4-6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yevropadan kelayotgan ritsarlar oqimi xristianlarga istilo qilingan hududlarni qancha vaqt qo'llarida saqlashga yordam beradi?",
+   "options": [
+    "Ikki asr",
+    "300 yil",
+    "1,5 asr",
+    "yarim yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tevton so'zi qaysi tildan olingan?",
+   "options": [
+    "Yunoncha",
+    "Lotincha",
+    "Nemischa",
+    "Italiancha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachongacha davom etgan yurishlar Suriya va Falastinda salibchilarning o'z davlatini tuzishi bilan yakunlanadi?",
+   "options": [
+    "1096-yil",
+    "1099-yil",
+    "1097-yil",
+    "1098-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Salibchilarning asosiy qirolligi qaysi davlati edi?",
+   "options": [
+    "Quddus",
+    "Suriya",
+    "Falastin",
+    "Konstantinopol"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diniy-ritsarlik ordenlari yarim harbiy, yarim rohiblar birlashmalari edi. Quyidagi ritsarlarning rohiblik yopinchig'i tagida qanday tasvirli bo'lgan ritsarlik libos kiyilganiga qarab moslashtiring? 1. tampliyer 2. gospitalyer 3. tevton a) oq mato qizil but b) oq mato qora but c) qizil mato oq but",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-c, 3-a",
+    "1-c, 2-a, 3-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Saljuqiylar hukmdori Malikshohning ishonchli vakili kim salibchilarga zarba berib Halab va Mosul oralig'idagi yerlarni egallaydi?",
+   "options": [
+    "Imomiddin Zafiy",
+    "Isomiddin Shirkuh",
+    "Imomiddin Zangiy",
+    "Nuriddin Zangiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nuriddin Zangiy qachon otasining o'rniga o'tiradi?",
+   "options": [
+    "1145-yil",
+    "1146-yil",
+    "1144-yil",
+    "1147-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kimlar Damashqni qamal qilib egallay olmay, Yevropaga qaytadilar?",
+   "options": [
+    "nemislar",
+    "inglizlar",
+    "fransiyaliklar",
+    "italiyaliklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kimlar saljuqiylar tomonidan Kichik Osiyoda tor-mor etildi?",
+   "options": [
+    "nemislar",
+    "inglizlar",
+    "fransiyaliklar",
+    "italiyaliklar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kim salibchilarni Sharqdan butunlay surib chiqarishni maqsad qilgan edi?",
+   "options": [
+    "Imomiddin Zangiy",
+    "Nuriddin Zangiy",
+    "Salohiddin Ayyubiy",
+    "Shirkuh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kim salibchilar tuzgan Antioxiya knyazligi hududining katta qismini egallaydi?",
+   "options": [
+    "Imomiddin Zangiy",
+    "Nuriddin Zangiy",
+    "Salohiddin Ayyubiy",
+    "Shirkuh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nuriddin Zangiy qaysi grafligda ham o'z hukmronligini saqlab qoladi?",
+   "options": [
+    "Quddus qirolligi",
+    "Antioxiya knyazligi",
+    "Edessa grafligi",
+    "Damashqda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Nuriddin Zangiy qo'shini Damashqni egalladi?",
+   "options": [
+    "1145-yil",
+    "1155-yil",
+    "1169-yil",
+    "1156-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nuriddin Zangiy qo'shini Damashqni egallashi bilan qayerda musulmonlar yagona siyosiy hokimiyatga ega bo'ladi?",
+   "options": [
+    "Suriya",
+    "Qohira",
+    "Damashq",
+    "Misr"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yaqin Sharqda qattiq qarshilikka uchragan salibchilar qayerni zabt etishga kirishadilar?",
+   "options": [
+    "Suriya",
+    "Qohira",
+    "Damashq",
+    "Misr"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nuriddin Zangiy qachon Shirkuh va uning jiyani Salohiddin boshchiligida qo'shin jo'natib, Misrni egallaydi?",
+   "options": [
+    "1145-yil",
+    "1155-yil",
+    "1169-yil",
+    "1156-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shirkuh vafot etgach, kim Misrda hokimiyatni to'liq qo'lga olib, Ayyubiylar davlatini tuzadi?",
+   "options": [
+    "Salohiddin",
+    "Nuriddin Zangiy",
+    "Malikshoh",
+    "Salohiddin Ayubek"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Salibchilardan Quddus qachon qaytarib olindi?",
+   "options": [
+    "1188-yil",
+    "1187-yil",
+    "1189-yil",
+    "1186-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Salib yurishlari o'zining asosiy maqsadi nimaga erisha olmadi?",
+   "options": [
+    "Quddusdagi Iso payg'ambar qabrini musulmonlardan xalos etish",
+    "Sharqda yer-mulkga ega bo'lish",
+    "Venetsiyaning savdodagi asosiy raqibi Vizantiyani kuchsizlantirish",
+    "Sharqda kuchli xristian davlatlarini yaratish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XII asr oxiridan qaysi papa yangi salib yurishlarini tashkil etishga kirishadi?",
+   "options": [
+    "Urban II",
+    "Bonifatsiy VIII",
+    "Grigoriy IX",
+    "Innokentiy III"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Salibchilar qaysi Vizantiya imperatoriga, toj-u taxtni qaytarmoqchi bo'ladilar?",
+   "options": [
+    "Yustinian I",
+    "Isaak II Angel",
+    "Roman IV Diogen",
+    "Mixail VIII Paleolog"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon G'arbiy Yevropa mamlakatlarida o'zgarishlar boshlangan?",
+   "options": [
+    "XI asrning oxirida",
+    "XII asrning oxirida",
+    "XIII asrning oxirida",
+    "XIV asrning oxirida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Salibchilar qayerda Lotin imperiyasini tuzadilar?",
+   "options": [
+    "Vizantiya",
+    "Mesopotamiya",
+    "Misr",
+    "Falastin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "So'nggi salib yurishiga qaysi davlat qiroli boshchilik qilgan?",
+   "options": [
+    "Fransiya",
+    "Italiya",
+    "Germaniya",
+    "Angliya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstantinopol shahriga asos solingandan keyin u ilk bor kimlarning hujumidan so'ng dushman o'ljasiga aylangan?",
+   "options": [
+    "German qabilalari hujumidan so'ng",
+    "Turklar hujumidan so'ng",
+    "Salibchilar hujumidan so'ng",
+    "Amir Temur hujumidan so'ng"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi ma'lumotlardan noto'g'ri javobni toping?",
+   "options": [
+    "Stefan boshchiligidagi olomon Fransiyaning janubidagi Kale portiga yetib kelgach, ikki nafar savdogar ularni \"xudoning roziligi\" uchun Suriyaga yetkazib qo'yishni taklif qiladi",
+    "Ular yettita kemada yo'lga chiqadilar, shundan ikkita kema yo'lda halokatga uchraydi. Qolgan beshta kemadagi bolalarni bu ikkita qulfurush Misrga olib kelib, qul sifatida sotib yuboradi",
+    "Germaniya imperatori Fridrix II keyinchalik ikkala jinoyatchi qulfurushlarni qo'lga olib, qatl ettiradi. Shuningdek, u Misr sultoni bilan bitim tuzib, bolalarning bir qismini qaytarishga erishadi",
+    "U xuddi Misr fir'avni zulmidan qochib ketayotgan Muso payg'ambar boshchiligidagi yahudiylar oldida dengiz chekingani kabi, Falastinga boradigan salibchilar qo'shini yo'lida dengiz qurib qolishi haqida ayta boshlaydi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vizantiyaliklar salibchilarni qanday nomlaganlar?",
+   "options": [
+    "Nikeyaliklar",
+    "Lotinlar",
+    "Axeyyaliklar",
+    "Fessalonikaliklar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Salibchilar qaysi shahar bilan dengiz orqali qo'shinni kemalarda Falastinga olib o'tishga kelishib 85 ming kumush marka pul to'lashni zimmalariga oladilar?",
+   "options": [
+    "Genuya",
+    "Milan",
+    "Anani",
+    "Venetsiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kimning 1269-1270-yillardagi sakkizinchi salib yurishlari so'nggi salib yurishlari bo'ladi?",
+   "options": [
+    "Lyudovik VI",
+    "Lyudovik VII",
+    "Lyudovik VIII",
+    "Lyudovik IX"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Salib yurishlari yakun topishining asosiy sababi?",
+   "options": [
+    "Yaqin Sharqdagi siyosiy vaziyatning keskinlashishi",
+    "Katolik cherkovi ta'sirining kuchsizlanishi",
+    "G'arbiy Yevropa mamlakatlarida boshlangan o'zgarishlar",
+    "Yevropa mamlakatlari o'rtasidagi o'zaro urushlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Salib yurishlaridan keyin Yevropa mamlakatlarida ro'y bergan o'zgarishlar xato berilgan javobni toping.",
+   "options": [
+    "Ishlab chiqarish kuchlari o'sib, dehqonchilik va hunarmandchilik yuksaladi",
+    "Qirol hokimiyati kuchaya boshlashi bilan ritsarlar qo'shinda xizmat qila boshladi",
+    "Soliqlarni pul bilan emas mahsulot bilan olish o'sib bordi",
+    "Yuz minglab kishilar halok bo'lib, katta moliyaviy zarar ko'riladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "To'rtinchi salib yurishlari qachon bo'lib o'tgan?",
+   "options": [
+    "1202-1204-yillar",
+    "1204-1212-yillar",
+    "1269-1270-yillar",
+    "1189-1192-yillar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kim mamlakat bo'ylab yurib bolalarni salib yurishlariga targ'ib qila boshlaydi?",
+   "options": [
+    "Arton",
+    "Pofiyos",
+    "Stefan",
+    "Gerfort"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mamlakat bo'ylab yurib bolalarni salib yurishiga targ'ib qilgan bola qayerlik?",
+   "options": [
+    "Angliya",
+    "Italiya",
+    "Germaniya",
+    "Fransiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vandom qishlog'idan chiqqan bir cho'pon bola qachon salib yurishlariga targ'ibot qila boshlaydi?",
+   "options": [
+    "1212-yil",
+    "1213-yil",
+    "1211-yil",
+    "1214-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "U o'zini xudo tomonidan vakil qilib yuborilganligini hamda o'ziga nasroniylarga yetakchilik qilib, qayerlarini egallash vazifasi topshirilganligini e'lon qiladi?",
+   "options": [
+    "Quddus",
+    "Falastin",
+    "Misr",
+    "Damashq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Stefan oldiga rohib timsolida Iso Masih tashrif buyurib, unga qayerni ozod qilish uchun faqat bolalar ishtirok etadigan yangi salib yurishiga bosh bo'lishni topshirganini ta'kidlaydi?",
+   "options": [
+    "Quddus",
+    "Falastin",
+    "Misr",
+    "Damashq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "To'rtinchi salib yurishiga bahona?",
+   "options": [
+    "Salibchilar dengiz orqali qo'shinni kemalarda Falastinga olib o'tishga kelishib 85 ming kumush marka pul to'lamagan",
+    "Saljuqiy turklarning Kichik Osiyoni egallab Vizantiya imperiyasiga xavf solishi",
+    "Misr sultoni Salohiddin Ayyubiyning Quddusni salibchilardan qaytarib olishi",
+    "Ukasi tomonidan taxtdan tushirilib ko'ziga mil tortilgan Vizantiya imperatoriga toj-u taxtni qaytarish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi ma'lumotlardan noto'g'ri javobni toping?",
+   "options": [
+    "Ular Vizantiya va musulmonlarning yuksak madaniyati hamda texnikadagi yutuqlarini o'zlashtiradilar. Yevropaga limon va o'rik mevalari hamda sholi, grechixa, tarvuz, shakarqamish kabi ekinlar keltirilib ekila boshlanadi",
+    "Arablardan keltirilgan aloqa kaptarlaridan ko'plab mamlakatlarda foydalana boshlanadi. Yevropaliklar Sharqdan pokiza va issiq hammomlardan foydalanishni va kiyim almashtirishni o'rgandilar",
+    "Saljuqiylar hukmdori Malikshohning ishonchli vakili – Imomiddin Zangiy salibchilarga zarba berib, Mosul va Halab oralig'idagi yerlarni egallaydi",
+    "Texnika sohasida arbalet, temirni toblash va ayrim gazlamalarni to'qish usullari o'zlashtiriladi. Salibchilar Vizantiyada ko'rgan shamol tegirmonlari XII asrdan Yevropada ham qurila boshlanadi"
+   ],
+   "answer": 3
+  }
+ ]
+}

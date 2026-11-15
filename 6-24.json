@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 26-mavzu. Afinada demokratiya",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Afinada savdo-sotiq, sud va harbiy sohalarga oid muhim masalalar qayerda muhokama qilingan?",
+   "options": [
+    "Podsho saroyida",
+    "Kohinlar majlisida",
+    "Oqsoqollar kengashida",
+    "Xalq yig'inida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Afinada xalq yig'ilgan shahar maydoni qanday atalgan?",
+   "options": [
+    "Pirey",
+    "Akropol",
+    "Agora",
+    "Palestra"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Agora qayerda joylashgan?",
+   "options": [
+    "Akropol tevaragida",
+    "Shahar tashqarisida",
+    "Pirey bandargohida",
+    "Olimp tog'ida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afinada erkak fuqarolar muammolar va yangi qonunlarni muhokama qilish uchun oyiga necha marta agorada yig'ilgan?",
+   "options": [
+    "O'n marta",
+    "Ikki marta",
+    "Bir marta",
+    "To'rt marta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Afina xalq yig'inida qarorlar qanday qabul qilingan?",
+   "options": [
+    "Qur'a tashlash bilan",
+    "Podsho farmoni bilan",
+    "Kohinlar fol ochishi bilan",
+    "Ovoz berish yo'li bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Demokratiya” atamasi qanday ma'noni anglatadi?",
+   "options": [
+    "“Xalq hokimiyati” (demos – “xalq”, kratos – “hokimiyat”)",
+    "“Shahar boshqaruvi”",
+    "“Aslzodalar hokimiyati”",
+    "“Yakka hokimlik”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afinani idora qilishda hokimlar va sudyalarni qaysi organ saylagan?",
+   "options": [
+    "Beshyuzlar kengashi",
+    "Oqsoqollar kengashi",
+    "Xalq sudi",
+    "Xalq majlisi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Afina aholisi o'rtasida kelishmovchilik va nizolar nima sababdan vujudga kelgan?",
+   "options": [
+    "Diniy kelishmovchiliklar tufayli",
+    "Forslar bosqini tufayli",
+    "Aholining bir qismi zodagonlar bo'lib, oddiy xalq ularning foydasiga ishlashga majbur edi",
+    "Spartaliklar hujumi tufayli"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Drakont qonunlari qachon amalga kiritilgan?",
+   "options": [
+    "Mil. avv. 490-yilda",
+    "Mil. avv. 621-yilda",
+    "Mil. avv. 594-yilda",
+    "Mil. avv. 443-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Afinaliklar Drakont qonunlariga qanday ta'rif berishgan?",
+   "options": [
+    "“Ma'budlar irodasi”",
+    "“Siyoh qolib, qon bilan yozilgan”",
+    "“Xalq hokimiyati”",
+    "“Eng adolatli qonunlar”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Drakont qonunlarni buzganlik uchun qanday jazo belgilagan?",
+   "options": [
+    "Qullikka sotishni",
+    "Jarimani",
+    "Faqat o'lim jazosini",
+    "Surgunni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Drakont qonunlarining oqibati nima bo'ldi?",
+   "options": [
+    "Afinada demokratiya o'rnatildi",
+    "Drakont Afina podshosi bo'ldi",
+    "Afinaliklar norozi bo'lib, qonunchi Drakontni shahardan haydab yuborishdi",
+    "Afina Spartaga qo'shildi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Solon kim bo'lgan?",
+   "options": [
+    "Xalqqa yon berish tarafdori bo'lgan bilimdon va tajribali zodagon",
+    "Fors shohi",
+    "Oddiy dehqon",
+    "Sparta podshosi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Solon qachon Afinani idora qilish tizimini o'zgartirdi?",
+   "options": [
+    "Mil. avv. 338-yilda",
+    "Mil. avv. 443-yilda",
+    "Mil. avv. 621-yilda",
+    "Mil. avv. 594-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Solon islohotlari natijasida boshqaruv tizimida qanday o'zgarish yuz berdi?",
+   "options": [
+    "Aristokratiya demokratiyaga almashtirildi",
+    "Podsholik o'rnatildi",
+    "Oqsoqollar kengashi oliy organ bo'ldi",
+    "Demokratiya aristokratiyaga almashtirildi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Aristokratiya” atamasining ma'nosi nima?",
+   "options": [
+    "Kohinlar hokimiyati",
+    "Xalq hokimiyati",
+    "Qullar hokimiyati",
+    "Aslzodalar hokimiyati"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Solon islohotlarini aniqlang.\n1) qarzdorlarni qul qilish bekor qilindi; 2) Xalq majlisi faoliyati tiklandi; 3) qonun buzganlarga o'lim jazosi joriy etildi; 4) ayollarga ovoz berish huquqi berildi.",
+   "options": [
+    "3, 4",
+    "2, 4",
+    "1, 2",
+    "1, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Solon islohotlaridan keyin ham davlat boshqaruvida kimlar ishtirok eta olmagan?",
+   "options": [
+    "Hunarmandlar va dehqonlar",
+    "Ayollar va chet elliklar",
+    "Savdogarlar",
+    "20 yoshdan oshgan erkaklar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Afinada erkak fuqarolar necha yoshdan Xalq majlisida ishtirok etgan?",
+   "options": [
+    "18 yoshdan",
+    "14 yoshdan",
+    "20 yoshdan",
+    "30 yoshdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xalq majlisining vakolatlarini aniqlang.",
+   "options": [
+    "Yangi qonunlarni tasdiqlash, eski qonunlarni bekor qilish, qurilish va armiyaga mablag' ajratish",
+    "Faqat diniy marosimlarni o'tkazish",
+    "Faqat sud ishlarini ko'rish",
+    "Faqat podsho saylash"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afinada kundalik joriy masalalarga yechim topgan organ qaysi?",
+   "options": [
+    "Har yili saylanadigan Beshyuzlar kengashi",
+    "Xalq sudi",
+    "Oqsoqollar kengashi",
+    "Xalq majlisi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Beshyuzlar kengashiga kim rahbarlik qilgan?",
+   "options": [
+    "Strateg",
+    "Kohin",
+    "Podsho",
+    "Arxont"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xalq sudida necha yoshga to'lgan fuqarolar ishtirok etgan?",
+   "options": [
+    "20 yoshga to'lganlar",
+    "40 yoshga to'lganlar",
+    "18 yoshga to'lganlar",
+    "30 yoshga to'lganlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Afina Xalq sudida ayblanuvchi o'zini qanday himoya qilgan?",
+   "options": [
+    "O'zini o'zi himoya qilgan yoki chiroyli so'zlay oladigan, qonunlarni biladigan odamni yollagan",
+    "Uni davlat himoyachisi himoya qilgan",
+    "Himoya qilish taqiqlangan",
+    "Uni kohinlar oqlagan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Perikl strateg lavozimiga necha marta saylangan?",
+   "options": [
+    "20 marotaba",
+    "5 marotaba",
+    "10 marotaba",
+    "15 marotaba"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Perikl asri” qaysi yillarni o'z ichiga oladi?",
+   "options": [
+    "Mil. avv. 490–479-yillar",
+    "Mil. avv. 621–594-yillar",
+    "Mil. avv. 338–323-yillar",
+    "Mil. avv. 443–429-yillar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Periklning faoliyatiga oid to'g'ri ma'lumotlarni aniqlang.\n1) Xalq majlisidagi lavozimlarga ish haqi to'lashni joriy qildi; 2) Parfenon qurilishining tashabbuskori bo'lgan; 3) qarzdorlarni qul qilishni bekor qildi; 4) tarixchi Gerodot va haykaltarosh Fidiy bilan do'st bo'lgan.",
+   "options": [
+    "1, 2, 3",
+    "2, 3, 4",
+    "1, 3, 4",
+    "1, 2, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nShaxs | Faoliyati | Sana\nDrakont | qattiq qonunlar yozdi | 1) ________\n2) ________ | aristokratiyani demokratiyaga almashtirdi | mil. avv. 594-yil\nPerikl | 15 marta strateg bo'ldi | 3) ________\na) mil. avv. 621-yil; b) Solon; c) mil. avv. 443–429-yillar; d) Fidiy; e) mil. avv. 490-yil; f) mil. avv. 338-yil.",
+   "options": [
+    "1-e, 2-b, 3-c",
+    "1-a, 2-d, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-b, 3-f"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nAfina davlat organi | Vazifasi yoki ishtirokchilari\nXalq majlisi | A\nB | kundalik joriy masalalarni hal qilgan\nXalq sudi | C\n1) qonunlarni tasdiqlagan, 20 yoshdan erkak fuqarolar qatnashgan; 2) Beshyuzlar kengashi; 3) 30 yoshga to'lgan fuqarolar ishtirok etgan; 4) Oqsoqollar kengashi; 5) faqat aslzodalar ishtirok etgan;\n6) ayollar ham qatnashgan.",
+   "options": [
+    "A-1, B-2, C-5",
+    "A-6, B-2, C-3",
+    "A-1, B-2, C-3",
+    "A-1, B-4, C-3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Afina demokratiyasiga oid to'g'ri hukmlarni aniqlang.\nI. Drakont qonunlarida bitta jazo – o'lim jazosi belgilangan.\nII. Solon demokratiyani aristokratiyaga almashtirgan.\nIII. Perikl Parfenon qurilishining tashabbuskori bo'lgan.\nIV. Afinada ayollar ham Xalq majlisida ovoz bergan.",
+   "options": [
+    "I va III",
+    "I va II",
+    "III va IV",
+    "II va IV"
+   ],
+   "answer": 0
+  }
+ ]
+}

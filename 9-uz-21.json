@@ -1,0 +1,176 @@
+{
+ "title": "9-sinf · 23-mavzu. Qoraqalpoqlarning xo'jalik hayoti va turmushi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qoraqalpoqlar hayoti haqida noto'g'ri javobni aniqlang.",
+   "options": [
+    "Harbiy qismlarni botirlar boshqargan",
+    "Aholi orasida ruhoniylar, shayxlar, xo'jalarning o'rni katta edi",
+    "Ovul boshlang'ich ma'muriy bo'g'in bo'lib, ularning butun hayotiga Biylar kengashi rahbarlik qilgan",
+    "Qoraqalpoqlarda yuzboshi, mirobboshi, qozi, rais kabi ma'muriy mansablar bor edi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amudaryoning so'l sohilidagi qoraqalpoqlarning bosh ma'muriy markazini aniqlang.",
+   "options": [
+    "Chimboy",
+    "Mang'it",
+    "Qo'ng'irot",
+    "Xo'jayli"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amudaryoning o'ng sohilidagi qoraqalpoqlarning bosh ma'muriy markazini aniqlang.",
+   "options": [
+    "Chimboy",
+    "Mang'it",
+    "Qo'ng'irot",
+    "Xo'jayli"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraqalpoqlar qadimdan qaysi soha bilan shug'ullanib kelganini aniqlang.",
+   "options": [
+    "Dehqonchilik va baliqchilik",
+    "Chorvachilik va baliqchilik",
+    "Chorvachilik va savdo-sotiq",
+    "Dehqonchilik va chorvachilik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi dostonda qoraqalpoqlarning yerlarni o'zlashtirib, suv inshootlari qurib, yer haydab g'alla yetishtirganligi, bog'lar yaratganligi haqida ma'lumotlar bor.",
+   "options": [
+    "Qublon",
+    "Mastposhsho",
+    "Edigey",
+    "Qirqqiz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVIII asrning oxirlarida Amudaryoning quyi tarmoqlarida vujudga kelgan dehqonchilik vohalarini aniqlang.",
+   "options": [
+    "Xo'jayli va Mang'it",
+    "Qalliko'l va Kegayli",
+    "Nukus va Biybozor",
+    "Chimboy va Qo'ng'irot"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraqalpoqlarning xo'jalik hayoti haqida noto'g'ri ma'lumotni aniqlang.",
+   "options": [
+    "Qoraqalpoqlar Orol bo'ylarida, Sirdaryo va Amudaryo oralig'idagi yerlarda dehqonchilik bilan shug'ullanganlar",
+    "Bug'doy, arpa, tariq va boshqa ekinlar ekib, mo'l hosil olganlar",
+    "Amudaryo va Quvondaryo havzalarida qoraqalpoqlar tomonidan barpo etilgan kanal va sug'orish inshootlari xo'jalikda dehqonchilik tarmog'ining yetakchi o'rinda turganligidan guvohlik beradi",
+    "Dehqonchilikda omoch, mola, ketmon, belkurak, o'roq kabi mehnat qurollaridan keng foydalanilgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yershi deb atalgan kasb egalarini aniqlang.",
+   "options": [
+    "Etikdo'z",
+    "Egarchi",
+    "Duradgor",
+    "Taqachi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi qabila ayollari nihoyatda mohir to'quvchi hisoblanishadi.",
+   "options": [
+    "Kenagas va mang'it",
+    "Qipchoq va nayman",
+    "Qarluq va jaloyir",
+    "Barlos va qang'li"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraqalpoqlarda mahalliy aholi o'tovni qaysi nom bilan ataganini aniqlang.",
+   "options": [
+    "Otorqa",
+    "Qora uy",
+    "O'rmak",
+    "Qoqra"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraqalpoqlar loysuvoq uylarni qaysi nom bilan ataganini aniqlang.",
+   "options": [
+    "Otorqa",
+    "Qora uy",
+    "O'rmak",
+    "Qoqra"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraqalpoq egarchilari egar yasaydigan qolip nima deb ataladi.",
+   "options": [
+    "Otorqa",
+    "Qora uy",
+    "O'rmak",
+    "Qoqra"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraqalpoqlar jun gazlama, sholcha hamda gilam to'qish uchun qaysi moslamadan foydalanishgan.",
+   "options": [
+    "Otorqa",
+    "Qora uy",
+    "O'rmak",
+    "Qoqra"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qoraqalpoqlardan olinadigan yer solig'ini aniqlang.",
+   "options": [
+    "Zakot",
+    "Salg'ut",
+    "Ushur",
+    "Qozon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraqalpoqlarda chorvadorlardan olinadigan soliq nomini aniqlang.",
+   "options": [
+    "Zakot",
+    "Salg'ut",
+    "Ushur",
+    "Qozon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Aholidan ruhoniylar uchun undirilgan soliq nomini aniqlang.",
+   "options": [
+    "Zakot",
+    "Salg'ut",
+    "Ushur",
+    "Qozon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Harbiy xavf yuz berganda xalqdan undirilgan soliq nomini aniqlang.",
+   "options": [
+    "Zakot",
+    "Salg'ut",
+    "Ushur",
+    "Qozon"
+   ],
+   "answer": 3
+  }
+ ]
+}

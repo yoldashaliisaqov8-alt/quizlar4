@@ -1,0 +1,412 @@
+{
+ "title": "8-sinf · Jaloliddin Manguberdi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Jaloliddin Manguberdi mo'g'ullarga qarshi 11 yil davomida qaysi hududlarda kurash olib borgan?",
+   "options": [
+    "Xuroson, Hindiston, Eron, Iroq va Kavkazda",
+    "Qrim, Volga bo'yi va Rusda",
+    "Movarounnahr, Sibir va Xitoyda",
+    "Arabiston va Misrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddin Manguberdi mo'g'ullarga qarshi nechta jang qilib, nechtasida g'olib bo'lgan?",
+   "options": [
+    "17 ta jang, 14 tasida g'olib",
+    "11 ta jang, 7 tasida g'olib",
+    "20 ta jang, 10 tasida g'olib",
+    "14 ta jang, 17 tasida g'olib"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddinning kuch-qudratiga hasad qilib, unga qarshi chiqqan shaxslar kimlar edi?",
+   "options": [
+    "Bag'dod xalifasi va Ko'niya sultoni Alovuddin Kaykubod",
+    "Hind rojasi va Misr sultoni",
+    "Xitoy imperatori va Eron shohi",
+    "Gruziya qiroli va Rus knyazi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Urganchdagi qaltis vaziyat tufayli shaharni tashlab chiqqan Jaloliddin necha kishisi bilan Xuroson tomon yo'l olgan?",
+   "options": [
+    "300 kishisi bilan",
+    "10 ming kishisi bilan",
+    "700 kishisi bilan",
+    "4 ming kishisi bilan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddin Xorazmdan Xurosondagi Niso qo'rg'oni atrofiga necha kunda yetib kelgan?",
+   "options": [
+    "3 kunda",
+    "16 kunda",
+    "1 oyda",
+    "40 kunda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Niso qo'rg'oni hozirgi qaysi davlat hududida joylashgan?",
+   "options": [
+    "Afg'onistonda",
+    "O'zbekistonda",
+    "Tojikistonda",
+    "Turkmanistonda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-d, 2-f, 3-c, 4-e",
+    "1-f, 2-d, 3-e, 4-c",
+    "1-d, 2-f, 3-e, 4-c",
+    "1-a, 2-f, 3-e, 4-c"
+   ],
+   "answer": 2,
+   "image": "img/k8-04-07.jpg"
+  },
+  {
+   "q": "Jaloliddin Niso yaqinida nechta askar bilan mo'g'ullarning pistirmadagi otryadini tor-mor etgan?",
+   "options": [
+    "4 ming askar bilan, 10 ming kishilik otryadni",
+    "700 ta askar bilan, 300 kishilik otryadni",
+    "1000 ta askar bilan, 45 ming kishilik qo'shinni",
+    "300 ta askar bilan, 700 kishilik otryadni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Niso g'alabasi qanday ahamiyat kasb etgan?",
+   "options": [
+    "Urush yakunlanishiga sabab bo'lgan",
+    "Xorazmshohlar poytaxti qaytarib olingan",
+    "Mo'g'ullar Movarounnahrdan chiqib ketgan",
+    "Mo'g'ullarning yengilmasligi haqidagi mish- mishlarga chek qo'ygan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jaloliddinning Niso yaqinidagi g'alabasi qaysi yilda sodir bo'lgan?",
+   "options": [
+    "1220-yilning fevralida",
+    "1222-yilning bahorida",
+    "1221-yilning boshida",
+    "1219-yilning oxirida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jaloliddinni Sind daryosida qutqargan ot Gruziyaning qaysi shahri egallanishi jarayonida nobud bo'lgan?",
+   "options": [
+    "Tbilisi",
+    "Batumi",
+    "Tabriz",
+    "Kutaisi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada jang joylari va ularda sodir bo'lgan voqealar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-d, 3-e",
+    "1-a, 2-e, 3-b",
+    "1-a, 2-b, 3-e",
+    "1-b, 2-a, 3-e"
+   ],
+   "answer": 2,
+   "image": "img/k8-04-12.jpg"
+  },
+  {
+   "q": "Jaloliddin tarixini yoritgan Shihobiddin Nasaviyning asari qanday nomlanadi?",
+   "options": [
+    "“Jome at-tavorix”",
+    "“Tarixi jahongusho”",
+    "“Siyrat as-sulton Jaloliddin Mangburni”",
+    "“Tabaqoti Nosiriy”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jaloliddin Manguberdi mo'g'ullarning Amudaryo janubidagi qaysi shaharlarga yurishi vaqtida qattiq qarshilik ko'rsatgan?",
+   "options": [
+    "Nisho'r, Rey va Tabrizda",
+    "Toshkent, Xo'jand va O'tror",
+    "Samarqand, Buxoro va Xivada",
+    "Balx, Hirot, Marv va G'aznada"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jaloliddinning mo'g'ullar ustidan dastlabki yirik g'alabasi qaysi qal'a yonida qozonilgan?",
+   "options": [
+    "Valiyon qal'asi yonida",
+    "O'tror qal'asi yonida",
+    "Niso qo'rg'oni yonida",
+    "Xo'jand qal'asi yonida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chingizxon Jaloliddinga qarshi qaysi sarkardani necha kishilik qo'shin bilan jo'natgan?",
+   "options": [
+    "Subutoyni 20 ming kishilik qo'shin bilan",
+    "Shixi Xutuxu no'yonni 45 ming kishilik qo'shin bilan",
+    "Aloq no'yonni 5 ming kishilik qo'shin bilan",
+    "Jebeni 10 ming kishilik qo'shin bilan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chizmada shaxslar va ularning Jaloliddin davridagi o'rni to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-b, 2-c, 3-f",
+    "1-c, 2-b, 3-f",
+    "1-c, 2-d, 3-f",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 1,
+   "image": "img/k8-04-17.jpg"
+  },
+  {
+   "q": "Parvon dashti qayerda joylashgan?",
+   "options": [
+    "Urganch yaqinida, Amudaryo bo'yida",
+    "Samarqand yaqinida, Zarafshon bo'yida",
+    "Sind daryosi quyilishida",
+    "G'azna yaqinida, Kobul daryosi bo'yida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Parvon jangidan keyin lashkarboshilar o'rtasida kelishmovchilik nima sababli boshlangan?",
+   "options": [
+    "Chingizxon bilan sulh tuzish masalasi tufayli",
+    "Taxt vorisligi tufayli",
+    "Oziq-ovqat yetishmasligi tufayli",
+    "Qo'lga kiritilgan o'ljalarni, ayniqsa qimmatbaho otni taqsimlash tufayli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Parvon jangidan keyin Jaloliddin qo'shinidan ajrab ketgan lashkarboshilar kimlar?",
+   "options": [
+    "Oqshoh, O'zloqshoh va Pirshoh",
+    "Temur Malik, Xumortegin va Tog'ayxon",
+    "Sayfuddin Ag'roq, A'zam Malik va Muzaffar Malik",
+    "Qutlug'xon, Baurchak va Arslonxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Parvon jangidan keyingi nizoda Amin Malik Sayfuddin Ig'roqning boshiga nima bilan urgan?",
+   "options": [
+    "Qilich qini bilan",
+    "Nayza bilan",
+    "Qamchi bilan",
+    "Kamon bilan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada keltirilgan jang va voqealardagi qo'shin sonlari to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-f, 3-c",
+    "1-f, 2-a, 3-c",
+    "1-b, 2-f, 3-c",
+    "1-a, 2-f, 3-d"
+   ],
+   "answer": 0,
+   "image": "img/k8-04-22.jpg"
+  },
+  {
+   "q": "Jaloliddin nima uchun qang'li-qipchoq lashkarboshisi Amin Malikni jazolamagan?",
+   "options": [
+    "Amin Malik elchi bo'lgani uchun",
+    "Amin Malik asir bo'lgani uchun",
+    "Amin Malik Turkon xotunning ukasi bo'lgani uchun",
+    "Amin Malik uning qaynotasi bo'lgani uchun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Lashkarboshilarning ajrab ketishi qanday oqibatga olib kelgan?",
+   "options": [
+    "Jaloliddin taxtdan voz kechgan",
+    "Jaloliddin mo'g'ullar bilan sulh tuzgan",
+    "Jaloliddinning harbiy salohiyati zaiflashib, qo'shini yarmiga qisqargan",
+    "Chingizxon ortga qaytgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fursatdan foydalangan Chingizxon qaysi shaharga askar tortib, nima qilgan?",
+   "options": [
+    "Hirotga askar tortib, sulh tuzgan",
+    "Balxga askar tortib, Jaloliddinni qamal qilgan",
+    "G'aznaga askar tortib, ajralib chiqqanlarni alohida-alohida tor-mor etgan",
+    "Marvga askar tortib, xalifa bilan ittifoq qilgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jaloliddin va Chingizxon o'rtasidagi Sind daryosi bo'yidagi jang qaysi yilda bo'lgan?",
+   "options": [
+    "1222-yilning bahorida",
+    "1221-yilning noyabrida",
+    "1219-yilning sentyabrida",
+    "1220-yilning fevralida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sind daryosi bo'yidagi jangda Jaloliddin dastlab nimani yengib o'tgan?",
+   "options": [
+    "Shixi Xutuxuni",
+    "Chingizxon qo'shinining ilg'orini",
+    "Chingizxonning o'zini",
+    "Tog'ayxonni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chizmada Jaloliddin kurashiga oid ma'lumotlar va ularning sonlari to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-b, 3-f",
+    "1-a, 2-b, 3-e",
+    "1-b, 2-a, 3-f",
+    "1-f, 2-b, 3-a"
+   ],
+   "answer": 0,
+   "image": "img/k8-04-28.jpg"
+  },
+  {
+   "q": "Sind jangida jang tashabbusini mo'g'ullar tomoniga o'tkazgan kuch qaysi edi?",
+   "options": [
+    "Qipchoq otliqlari",
+    "Pistirmadagi 10 ming nafar saralangan askar (keshik)",
+    "Hind piyodalari",
+    "Fillardan iborat otryad"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jaloliddin Sind daryosidan qancha askari bilan o'tib olgan?",
+   "options": [
+    "Yuz kishilik askari bilan",
+    "O'n ming kishilik askari bilan",
+    "Qirq ming kishilik askari bilan",
+    "To'rt ming kishilik askari bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chingizxon Jaloliddinning jasoratiga qoyil qolib, o'g'illariga nima degan va nimani taqiqlagan?",
+   "options": [
+    "“Uni tezda asir oling” degan",
+    "“U bilan sulh tuzamiz” degan",
+    "“Daryoni to'sib qo'ying” degan",
+    "“Otaning faqat shunday o'g'li bo'lishi lozim” degan va ta'qib etishni taqiqlagan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sind jangidan so'ng Chingizxon uch oy davomida nima bilan band bo'lgan?",
+   "options": [
+    "Hindistonni zabt etish bilan",
+    "Jaloliddin qo'shinidan ajrab ketgan sarkardalar qal'alarini qo'lga olish bilan",
+    "Xalifalik bilan muzokaralar bilan",
+    "Samarqandni qayta tiklash bilan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jaloliddinni dushman qo'lidan qutqargan, u minmasdan o'zi bilan olib yurgan jonivor kim edi?",
+   "options": [
+    "Tuyasi",
+    "Jangovar fili",
+    "Zaxiradagi oti",
+    "Itlari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jaloliddin otda qanday balandlikdagi jarlikdan Sind daryosiga sakragan?",
+   "options": [
+    "50 metrli jarlikdan",
+    "3–4 metrli jarlikdan",
+    "100 metrli jarlikdan",
+    "18–20 metrli jarlikdan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chizmada voqealar va ularning yillari to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-d, 2-f, 3-c",
+    "1-e, 2-f, 3-c",
+    "1-f, 2-e, 3-c",
+    "1-c, 2-f, 3-e"
+   ],
+   "answer": 1,
+   "image": "img/k8-04-35.jpg"
+  },
+  {
+   "q": "Sind jangida Jaloliddin Xorazmshohlar qo'shinining qaysi qismiga rahbarlik qilgan?",
+   "options": [
+    "Markaziga",
+    "Zaxirasiga",
+    "O'ng qanotiga",
+    "Chap qanotiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Parvon jangi va uning oqibatlari haqidagi to'g'ri ma'lumotlarni aniqlang. 1) G'alabadan keyin o'ljani taqsimlash nizoga sabab bo'ldi; 2) Jaloliddin Parvonda mag'lub bo'lib, Hindistonga qochdi; 3) Jang G'azna yaqinidagi Parvon dashtida bo'ldi; 4) Jaloliddin Shixi Xutuxu boshchiligidagi 45 minglik qo'shinni yengdi; 5) Jang Amudaryo bo'yida, Xivada bo'ldi.",
+   "options": [
+    "1, 3, 4",
+    "1, 4, 5",
+    "2, 3, 4",
+    "2, 3, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shihobiddin Nasaviy keltirgan Jaloliddin shaxsiyatiga oid to'g'ri ma'lumotlarni aniqlang. 1) U bachkana ta'riflarni yoqtirib, o'zini shoh deb atatgan; 2) U kam gapirar, kulmas, faqat jilmayib qo'yardi; 3) U nihoyatda jahldor va haqoratomuz so'zlarni yoqtirardi; 4) U turkiy tilda gapirar, forsiy tilda ham so'zlasha olardi; 5) U bug'doyrang, o'rta bo'yli, turkiy qiyofali edi.",
+   "options": [
+    "1, 2, 3, 5",
+    "2, 4, 5",
+    "2, 5",
+    "1, 2"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng avval sodir bo'lgan?",
+   "options": [
+    "Mo'g'ullar Samarqandni egalladi",
+    "Temuchin Chingizxon deb e'lon qilindi",
+    "Jaloliddin Sind daryosi bo'yida jang qildi",
+    "Chingizxon karvoni O'trorda qirib tashlandi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng keyin sodir bo'lgan?",
+   "options": [
+    "Temuchin Chingizxon deb e'lon qilindi",
+    "Chingizxon karvoni O'trorda qirib tashlandi",
+    "Jaloliddin Sind daryosi bo'yida jang qildi",
+    "Mo'g'ullar Samarqandni egalladi"
+   ],
+   "answer": 2
+  }
+ ]
+}

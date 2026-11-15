@@ -1,0 +1,676 @@
+{
+ "title": "9-sinf · 11-mavzu. XVII-XVIII asr Shimoliy Amerika",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Buyuk geografik kashfiyotlardan so'ng Markaziy va Janubiy Amerikada qaysi davlatlar mustamlakalari tashkil qilingan?",
+   "options": [
+    "Angliya va Fransiya",
+    "Fransiya va Ispaniya",
+    "Ispaniya va Portugaliya",
+    "Portugaliya va Angliya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buyuk geografik kashfiyotlardan so'ng Shimoliy Amerika, asosan, qaysi davlatlar tomonidan egallab olingan?",
+   "options": [
+    "Angliya va Fransiya",
+    "Fransiya va Ispaniya",
+    "Ispaniya va Portugaliya",
+    "Portugaliya va Angliya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Angliyaning Shimoliy Amerikadagi ilk mustamlakasi qaysi?",
+   "options": [
+    "Virjiniya",
+    "Massachusets",
+    "Karolina",
+    "Pensilvaniya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Angliyaning Shimoliy Amerikadagi ilk manzilgohi qaysi?",
+   "options": [
+    "Plimut",
+    "Filadelfiya",
+    "Boston",
+    "Jeymstaun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jeymstaun qachon tashkil qilingan?",
+   "options": [
+    "1603-yilda",
+    "1607-yilda",
+    "1620-yilda",
+    "1614-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jeymstaun manzilgohi qaysi mustamlakada tashkil qilingan?",
+   "options": [
+    "Virjiniya",
+    "Massachusets",
+    "Karolina",
+    "Pensilvaniya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVII asrda Shimoliy Amerikaning sharqiy qirg'oqlarida manzilgohlar tashkil qilish paytida tarqalgan qaysi kasallik hindular katta qismining o'limiga olib kelgan?",
+   "options": [
+    "Vabo",
+    "O'lat",
+    "Qizamiq",
+    "Chechak"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yillarda hindular orasida tarqalgan chechak tufayli to'liq bo'shab qolgan joyda Plimut manzilgohi paydo bo'lgan?",
+   "options": [
+    "1617–1619-yillarda",
+    "1618–1620-yillarda",
+    "1619–1621-yillarda",
+    "1620–1622-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Plimut manzilgohi paydo bo'lgan?",
+   "options": [
+    "1603-yilda",
+    "1607-yilda",
+    "1620-yilda",
+    "1614-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Plimut manzilgohi qaysi mustamlakada paydo bo'lgan?",
+   "options": [
+    "Virjiniya",
+    "Massachusets",
+    "Karolina",
+    "Pensilvaniya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shimoliy Amerikadagi mustamlakalarda o'ldirilgan har bir hindu uchun qancha funt sterling to'langan?",
+   "options": [
+    "30–80 funt sterling",
+    "40–90 funt sterling",
+    "50–100 funt sterling",
+    "60–110 funt sterling"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davrga kelib Shimoliy Amerika hindularining aksariyati yo'q qilingan?",
+   "options": [
+    "XIX asr boshlariga",
+    "XIX asr oxirlariga",
+    "XX asr boshlariga",
+    "XX asr oxirlariga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shimoliy Amerikada mustamlakachilar bilan savdo hindu qabilalari o'rtasida raqobatni kuchaytirgan, XVII asrda … .",
+   "options": [
+    "ular o'rtasida o'zaro qonli urushlar boshlangan",
+    "barcha qabilalar yagona konfederatsiyaga birlashgan",
+    "savdo butunlay to'xtab qolgan",
+    "qabilalar mustamlakachilar bilan tinchlik shartnomasi tuzishgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Shimoliy Amerikadagi mustamlakalarda birinchi manufakturalar paydo bo'lgan?",
+   "options": [
+    "XVII asrning birinchi yarmida",
+    "XVII asrning ikkinchi yarmida",
+    "XVIII asrning birinchi yarmida",
+    "XVIII asrning ikkinchi yarmida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachondan boshlab Shimoliy Amerikadagi mustamlakalarga Afrikadan ko'plab qora tanli qullar olib kelingan?",
+   "options": [
+    "XV asrdan",
+    "XVI asrdan",
+    "XVII asrdan",
+    "XVIII asrdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davrga kelib Angliyaning Shimoliy Amerikadagi mustamlakalarida yagona ichki bozor vujudga kela boshlagan, savdo aloqalari rivojlangan va ko'pchilik aholi o'zlarini “amerikalik” deb atay boshlagan?",
+   "options": [
+    "XVII asrning oxirlariga",
+    "XVIII asrning boshlariga",
+    "XVIII asrning o'rtalariga",
+    "XVIII asrning oxirlariga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buyuk Britaniyaga Shimoliy Amerikadagi mustamlakalaridan nimalar olib ketilgan? 1) Qimmatbaho xomashyo; 2) Teri; 3) Paxta.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amerikaliklarning Buyuk Britaniya hukumatiga qarshi dastlabki norozilik chiqishlari sabablari nimalar edi? 1) Cheklovlar; 2) Soliqlarning oshirilishi; 3) Siyosiy tazyiq.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Birinchi Qit'a Kongressi yig'ilgan?",
+   "options": [
+    "1773-yil avgustda",
+    "1774-yil sentyabrda",
+    "1775-yil noyabrda",
+    "1776-yil fevralda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Birinchi Qit'a Kongressi qayerda yig'ilgan?",
+   "options": [
+    "Plimut",
+    "Filadelfiya",
+    "Boston",
+    "Jeymstaun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Birinchi Qit'a Kongressida qaysi hududdan tashqari barcha mustamlakalardan vakillar qatnashgan?",
+   "options": [
+    "Massachusets",
+    "Virjiniya",
+    "Pensilvaniya",
+    "Jorjiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jorj Vashington qaysi yillarda yashagan?",
+   "options": [
+    "1728–1795-yillarda",
+    "1731–1798-yillarda",
+    "1732–1799-yillarda",
+    "1735–1802-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shimoliy Amerikada mustaqillik uchun urush davrida Amerika armiyasining bosh qo'mondoni kim bo'lgan?",
+   "options": [
+    "Tomas Jefferson",
+    "Benjamin Franklin",
+    "Jon Adams",
+    "Jorj Vashington"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "AQSH ning birinchi prezidenti kim bo'lgan?",
+   "options": [
+    "Tomas Jefferson",
+    "Benjamin Franklin",
+    "Jon Adams",
+    "Jorj Vashington"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi suratda Shimoliy Amerikadagi qaysi voqea tasvirlangan?",
+   "options": [
+    "“Plimut choyxo'rligi”",
+    "“Boston choyxo'rligi”",
+    "“Jeymstaun choyxo'rligi”",
+    "“Filadelfiya choyxo'rligi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Birinchi Qit'a Kongressi qaysi sohani boshqarish uchun “Kontinental Uyushma” tashkilotini tuzgan?",
+   "options": [
+    "Iqtisodiyotni",
+    "Armiyani",
+    "Qishloq xo'jaligini",
+    "Immigratsiyani"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nechanchi Qit'a Kongressi Shimoliy Amerikada mustaqillik uchun urush boshlashga qaror qilgan?",
+   "options": [
+    "Birinchi Qit'a Kongressi",
+    "Ikkinchi Qit'a Kongressi",
+    "Uchinchi Qit'a Kongressi",
+    "To'rtinchi Qit'a Kongressi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jorj Vashington qayerlik edi?",
+   "options": [
+    "Massachusets",
+    "Pensilvaniya",
+    "Virjiniya",
+    "Jorjiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mustaqillik uchun urush boshlanishidan oldin Jorj Vashington qanday unvonda edi?",
+   "options": [
+    "Kapitan",
+    "Mayor",
+    "Polkovnik",
+    "General"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Shimoliy Amerikada Buyuk Britaniyadan ajralib chiqishga da'vat etuvchi qaror qabul qilingan?",
+   "options": [
+    "1773-yil avgustda",
+    "1774-yil sentyabrda",
+    "1775-yil noyabrda",
+    "1776-yil mayda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shimoliy Amerikada Buyuk Britaniyadan ajralib chiqishga da'vat etuvchi rasmiy bayonotnoma tayyorlash uchun kim boshchiligida komissiya tuzilgan?",
+   "options": [
+    "Tomas Jefferson",
+    "Benjamin Franklin",
+    "Jon Adams",
+    "Jorj Vashington"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tomas Jefferson qayerlik edi?",
+   "options": [
+    "Massachusets",
+    "Pensilvaniya",
+    "Virjiniya",
+    "Jorjiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon AQSH Mustaqillik Deklaratsiyasi qabul qilingan?",
+   "options": [
+    "1776-yil 4-iyulda",
+    "1782-yil 22-oktyabrda",
+    "1783-yil 11-noyabrda",
+    "1787-yil 17-sentyabrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "AQSH Mustaqillik Deklaratsiyasi, asosan, kimning zakovatining mahsuli bo'lgan?",
+   "options": [
+    "Tomas Jefferson",
+    "Benjamin Franklin",
+    "Jon Adams",
+    "Jorj Vashington"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "AQSH Mustaqillik Deklaratsiyasida davlat qurilishining asosi sifatida nima e'lon qilingan?",
+   "options": [
+    "Qonun ustuvorligi prinsipi",
+    "Xalq suvereniteti prinsipi",
+    "Hokimiyatlar bo'linishi prinsipi",
+    "Huquq va erkinliklar kafolatlanishi prinsipi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "AQSH Mustaqillik Deklaratsiyasida xalqning qaysi huquqlari e'tirof etilgan? 1) Zolimlarga qarshi isyon qilish; 2) Yashash; 3) Ozod bo'lish; 4) Tenglik.",
+   "options": [
+    "2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi sana AQSH da Mustaqillik kuni sifatida nishonlanadi?",
+   "options": [
+    "4-iyul",
+    "22-oktyabr",
+    "11-noyabr",
+    "17-sentyabr"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shimoliy Amerikada mustaqillik uchun olib borilgan urush ayni paytda burjua inqilobi bo'lib, u ikkita, ya'ni qaysi muammolarni hal qilishi lozim edi?",
+   "options": [
+    "Ijtimoiy tenglikka erishish va milliy mustaqillikka erishish",
+    "Milliy mustaqillikka erishish va Amerikada kapitalistik munosabatlarni o'rnatish",
+    "Amerikada kapitalistik munosabatlarni o'rnatish va mamlakat hududini kengaytirish",
+    "Mamlakat hududini kengaytirish va ijtimoiy tenglikka erishish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mustaqillik uchun urush paytida harbiy harakatlar asosan AQSH ning qaysi qismida bo'lib o'tgan?",
+   "options": [
+    "Janubida",
+    "G'arbida",
+    "Shimolida",
+    "Sharqida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mustaqillik uchun urush yillarida AQSH qaysi davlat bilan “Do'stlik va tijorat bitimi” ni imzolagan?",
+   "options": [
+    "Germaniya",
+    "Ispaniya",
+    "Rossiya",
+    "Fransiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mustaqillik uchun urush yillarida qachon ingliz qo'shinining asosiy qismi taslim bo'lgan va Buyuk Britaniya hukumati AQSH bilan muzokaralar o'tkazishga qaror qilgan?",
+   "options": [
+    "1781-yilda",
+    "1782-yilda",
+    "1783-yilda",
+    "1784-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buyuk Britaniya hukumati AQSH bilan qaysi shaharda tinchlik muzokaralarini o'tkazgan?",
+   "options": [
+    "London",
+    "Vashington",
+    "Filadelfiya",
+    "Parij"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buyuk Britaniya-AQSH tinchlik muzokaralarida AQSH tomonidan kimlar qatnashgan?",
+   "options": [
+    "J. Adams, J. Jey, J. Vashington",
+    "J. Jey, J. Vashington, J. Medison",
+    "J. Vashington, J. Medison, B. Franklin",
+    "B. Franklin, J. Adams, J. Jey"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yilda Britaniya va uning Amerikadagi sobiq mustamlakalari o'rtasida sulh imzolangan va unga muvofiq, Buyuk Britaniya Amerika Qo'shma Shtatlarining tuzilganligini, uning mustaqilligi, ozodligi va suverenitetini tan olgan?",
+   "options": [
+    "1781-yilda",
+    "1782-yilda",
+    "1783-yilda",
+    "1784-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Benjamin Franklin qaysi yillarda yashagan?",
+   "options": [
+    "1706–1790-yillarda",
+    "1708–1792-yillarda",
+    "1712–1796-yillarda",
+    "1715–1799-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Amerika otalari” dan qaysi biri elektr sohasidagi kashfiyotlari va yashinqaytargichni ixtiro qilishi bilan ham mashhur bo'lgan, oddiy varrak yordamida chaqmoq elektr razryad ekanligini isbotlagan?",
+   "options": [
+    "Benjamin Franklin",
+    "Aleksandr Gamilton",
+    "Jeyms Medison",
+    "Jon Adams"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon AQSH da Federal Konvent ish boshlagan?",
+   "options": [
+    "1782-yil martda",
+    "1783-yil iyunda",
+    "1787-yil mayda",
+    "1789-yil aprelda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Federal Konvent tarkibida qaysi “Amerikaning otalari” bor edi? 1) Jorj Vashington; 2) Richard Stil; 3) Jeyms Uilson; 4) Jozef Addison; 5) Benjamin Uest; 6) Benjamin Franklin; 7) Jeyms Medison; 8) Aleksandr Gamilton.",
+   "options": [
+    "2, 4, 5, 6",
+    "1, 3, 6, 7, 8",
+    "1, 3, 4, 6, 7",
+    "3, 5, 6, 7"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "AQSH da Federal Konvent faoliyati davomida bahslar, asosan, qaysi masalalar xususida borgan? 1) Kongress; 2) Federal hukumat va Oliy sudning maqomi; 3) Shtatlar bilan markaziy hokimiyat o'rtasidagi munosabatlar.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon AQSH Konstitutsiyasi qabul qilingan?",
+   "options": [
+    "1776-yil 4-iyulda",
+    "1782-yil 22-oktyabrda",
+    "1783-yil 11-noyabrda",
+    "1787-yil 17-sentyabrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra AQSH da qaysi hokimiyatni boshqarish uchun saylanadigan va keng vakolatlarga ega bo'lgan AQSH prezidenti lavozimi joriy qilingan?",
+   "options": [
+    "Sud hokimiyatini",
+    "Qonun chiqaruvchi hokimiyatni",
+    "Ijro hokimiyatini",
+    "Barcha turdagi hokimiyatni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Konstitutsiyaga ko'ra AQSH prezidenti necha yil muddatga saylangan?",
+   "options": [
+    "3 yil",
+    "4 yil",
+    "5 yil",
+    "6 yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda bo'lib o'tgan saylovlarda Jorj Vashington AQSH ning birinchi prezidenti etib saylangan?",
+   "options": [
+    "1786-yilda",
+    "1787-yilda",
+    "1788-yilda",
+    "1789-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVIII asrda AQSH da qaysi sohaga inson va jamiyatni to'g'ri yo'lga solishning vositasi sifatida qarala boshlangan?",
+   "options": [
+    "Maorif",
+    "San'at",
+    "Adabiyot",
+    "Siyosat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Yel universitetiga asos solingan?",
+   "options": [
+    "1701-yilda",
+    "1704-yilda",
+    "1706-yilda",
+    "1707-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "AQSH da mustaqillik uchun urush boshlangunga qadar nechta kollej ochilib, keyinchalik universitetlarga aylangan?",
+   "options": [
+    "Yettita",
+    "Sakkizta",
+    "To'qqizta",
+    "O'nta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asrda AQSH da klassik ta'lim va kasb-hunar ta'limini qo'shib olib boruvchi qanday muassasalar ochilgan?",
+   "options": [
+    "Akademiya",
+    "Kollej",
+    "Gimnaziya",
+    "Universitet"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yilga kelib Shimoliy Amerikadagi mustamlakalarda 26 ta haftalik jurnal nashr qilingan?",
+   "options": [
+    "1762-yilga",
+    "1765-yilga",
+    "1767-yilga",
+    "1769-yilga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shimoliy Amerikada XVIII asr ikkinchi yarmida ijod qilgan ocherk va ko'plab she'rlar mualliflarini toping.",
+   "options": [
+    "Jon Singlton Kopli va Richard Stil",
+    "Richard Stil va Jozef Addison",
+    "Jozef Addison va Benjamin Uest",
+    "Benjamin Uest va Jon Singlton Kopli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "AQSH da qaysi yilda 75 ta gazeta nashr qilingan?",
+   "options": [
+    "1785-yilda",
+    "1788-yilda",
+    "1790-yilda",
+    "1793-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yilda AQSH da nashr qilingan gazetalar soni yuztadan ortib ketgan?",
+   "options": [
+    "1785-yilda",
+    "1788-yilda",
+    "1790-yilda",
+    "1793-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asr oxirida amerikalik qaysi rassomlar Yevropaning taniqli rassomlariga aylangan?",
+   "options": [
+    "Jon Singlton Kopli va Richard Stil",
+    "Richard Stil va Jozef Addison",
+    "Jozef Addison va Benjamin Uest",
+    "Benjamin Uest va Jon Singlton Kopli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Inauguratsiya” nima?",
+   "options": [
+    "Parlament sessiyasining ochilishi",
+    "Prezident qasamyodi",
+    "Hukumat iste'fosi",
+    "Yangi qonun kuchga kirishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shimoliy Amerikada dastlab yevropaliklar ijodiga taqlid qilingan bo'lsa, qaysi asrdan boshlab o'ziga xos Amerika madaniyati va san'ati rivojlangan?",
+   "options": [
+    "XVII asrdan",
+    "XVIII asrdan",
+    "XIX asrdan",
+    "XX asrdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mustaqillikdan keyin AQSH ning qaysi shtatlarida plantatsion qullik saqlanib qolgan?",
+   "options": [
+    "Janubiy shtatlarda",
+    "Shimoliy shtatlarda",
+    "G'arbiy shtatlarda",
+    "Sharqiy shtatlarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“So'nggi mogikan”, “Chingachguk – ulkan ilon”, “Izquvar” asarlari muallifi bo'lgan amerikalik yozuvchi kim?",
+   "options": [
+    "Jozef Addison",
+    "Fenimor Kuper",
+    "Richard Stil",
+    "Benjamin Uest"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi asarlar va ular yozilgan yillar to'g'ri ko'rsatilgan javobni toping. 1) “So'nggi mogikan”; 2) “Chingachguk – ulkan ilon”; 3) “Izquvar”. a) 1826-yil; b) 1840-yil; c) 1841-yil.",
+   "options": [
+    "1b, 2c, 3a",
+    "1c, 2a, 3b",
+    "1b, 2a, 3c",
+    "1a, 2c, 3b"
+   ],
+   "answer": 3
+  }
+ ]
+}

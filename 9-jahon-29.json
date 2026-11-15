@@ -1,0 +1,686 @@
+{
+ "title": "9-sinf · 29-mavzu. Usmoniylar: inqiroz va islohotlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "XIX asrda yevropaliklar Usmoniylar imperiyasini qanday atashgan?",
+   "options": [
+    "“Yevropaning kasal odami”",
+    "“Osiyoning kasal odami”",
+    "“Yevrosiyoning kasal odami”",
+    "“Dunyoning kasal odami”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Yevropa davlatlari Usmoniylar imperiyasi hududini bo'lib olish uchun kurashni avj oldirgan?",
+   "options": [
+    "XVIII asr oxirlarida",
+    "XIX asr boshlarida",
+    "XIX asr o'rtalarida",
+    "XIX asr oxirlarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Fransiya Jazoirni bosib olgan?",
+   "options": [
+    "1830-yilda",
+    "1801-yilda",
+    "1829-yilda",
+    "1805-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asr boshlarida Marokash qaysi davlat protektorati bo'lib qolgan?",
+   "options": [
+    "Buyuk Britaniya",
+    "Ispaniya",
+    "Fransiya",
+    "Portugaliya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon inglizlar Misrni egallagan, ammo u yerda o'rnashib ololmaganlar?",
+   "options": [
+    "1830-yilda",
+    "1801-yilda",
+    "1829-yilda",
+    "1805-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr boshlarida qaysi turk sultonining Misrda o'z hokimiyatini tiklash uchun urinishi muvaffaqiyat qozonmagan?",
+   "options": [
+    "Salim I",
+    "Salim III",
+    "Mahmud II",
+    "Abdul Aziz"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yilda Misrda qo'zg'olon ko'tarilgan va Muhammad Ali mamlakatning hukmdori deb e'lon qilingan?",
+   "options": [
+    "1830-yilda",
+    "1801-yilda",
+    "1829-yilda",
+    "1805-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yilda Turkiya amalda Misr ustidan o'z hukmronligini yo'qotgan?",
+   "options": [
+    "1830-yilda",
+    "1801-yilda",
+    "1829-yilda",
+    "1805-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon turk sultoni Mahmud II chet ellik ofitserlar yordamida yangi qo'shin tashkil qilish to'g'risida farmon imzolagan?",
+   "options": [
+    "1834-yil avgustda",
+    "1822-yil yanvarda",
+    "1826-yil mayda",
+    "1829-yil aprelda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Usmoniylar imperiyasida Mahmud II islohotlari boshlanganidan qancha vaqt o'tgach, yanicharlar isyon ko'targanlar?",
+   "options": [
+    "Bir oy",
+    "Ikki oy",
+    "Uch oy",
+    "To'rt oy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Turk sultoni Mahmud II islohotlariga qarshi chiqqan yanicharlar isyoni bostirilgach, o'n minglab yanicharlarning jasadlari qayerga uloqtirilgan?",
+   "options": [
+    "Bosfor va Dardanellga",
+    "Dardanell va Qora dengizga",
+    "Qora dengiz va Marmar dengiziga",
+    "Marmar dengizi va Bosforga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asr boshlarida eski yanicharlar armiyasi yo'q qilingan, yangisi esa hali tuzilmagan davrda qaysi yilda Turkiya rus–turk urushida mag'lubiyatga uchragan?",
+   "options": [
+    "1834-yilda",
+    "1822-yilda",
+    "1826-yilda",
+    "1829-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Turk sultoni Mahmud II harbiy islohotdan keyin, islohotlarning keyingi bosqichini, asosan, nimalarni amalga oshirishga qaratgan? 1) Harbiy-len tizimi bekor qilish; 2) Diniy ulamolarni siyosatdan chetlatish; 3) Ichki bojxonalarga barham berish; 4) Viloyatlar hokimlarining to'g'ridan to'g'ri sultonga",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Turk sultoni Mahmud II davrida hukumatdagi eski lavozimlar o'rniga yevropacha tipdagi qanday idoralar tashkil qilingan? 1) Ichki ishlar vazirligi; 2) Tashqi ishlar vazirligi; 3) Moliya vazirligi; 4) Harbiy vazirlik.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Turk sultoni Mahmud II davrida qayerda harbiy-tibbiyot bilim yurti ochilgan?",
+   "options": [
+    "Anqara",
+    "Edirna",
+    "Istanbul",
+    "Izmir"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yildan turk tilida birinchi gazeta – “Voqealar kundaligi” nashr qilina boshlangan?",
+   "options": [
+    "1829-yildan",
+    "1832-yildan",
+    "1838-yildan",
+    "1843-yildan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sulton Mahmud II Turkiyada kapitalizmning rivojlanishiga yana bir to'siq bo'lgan nimaga nafaqat qarshilik qilmagan, balki uni rag'batlantirgan ham?",
+   "options": [
+    "Chet el kapitali",
+    "Ichki bojxonalar",
+    "Boj solig'i",
+    "Chet el tovarlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yilda Angliya Turkiyani savdo konvensiyasi imzolashga majbur qilgan?",
+   "options": [
+    "1829-yilda",
+    "1832-yilda",
+    "1838-yilda",
+    "1843-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrning birinchi yarmida Angliya Turkiyani savdo konvensiyasi imzolashga majbur qilgan, unga ko'ra Turkiyaga olib kiriladigan barcha ingliz tovarlariga ular qiymatining necha foizi miqdorida boj solig'i o'rnatilgan?",
+   "options": [
+    "3 foizi",
+    "5 foizi",
+    "7 foizi",
+    "9 foizi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning birinchi yarmida narxi arzon bo'lgan chet el tovarlarining kirib kelishi oqibatida turklarning qaysi sanoati raqobatlashish uchun oxirgi imkoniyatidan mahrum bo'lgan?",
+   "options": [
+    "Kulolchilik sanoati",
+    "To'qimachilik sanoati",
+    "Temirchilik sanoati",
+    "Kosibchilik sanoati"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tanzimat davrida Turkiyada madaniyat sohasidagi islohotlar natijasida nimalar paydo bo'lgan? 1) Birinchi universitetlar; 2) Akademiyalar; 3) Pedagogik maktablar; 4) Dunyoviy (ya'ni diniy bo'lmagan) maktablar.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tanzimat davrida Turkiyada … . 1) Yanicharlarning zamonaviy akademiyasi ochilgan; 2) Sog'liqni saqlash vazirligi tashkil etilgan; 3) Fanlar akademiyasi tashkil etilgan; 4) Iqtisodiy va siyosiy fanlar maktabi tashkil etilgan; 5) Tarixda birinchi marta Usmoniylar imperiyasidan talabalar xorijga o'qish",
+   "options": [
+    "1, 3, 4",
+    "1, 2, 3, 4",
+    "2, 3, 4, 5",
+    "1, 2, 3, 4, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Tanzimat” so'zi qaysi tildan olingan?",
+   "options": [
+    "Arabcha",
+    "Forscha",
+    "Turkcha",
+    "Hindcha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Tanzimat” so'zi kelib chiqqan “tanzim” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Islohot o'tkazish”",
+    "“Tartib o'rnatish”",
+    "“Joriy etish”",
+    "“Yangilab borish”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Usmoniylar imperiyasida “Tanzimat” davri qaysi yillarni o'z ichiga oladi?",
+   "options": [
+    "1838–1875-yillar",
+    "1839–1876-yillar",
+    "1840–1877-yillar",
+    "1841–1878-yillar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Turkiyada kim tayyorlagan memorandum “Tanzimat” nomi bilan ma'lum bo'lgan islohotlarning yangi bosqichini boshlab bergan?",
+   "options": [
+    "Namiq Kemal posho",
+    "Ibrohim Shinasi posho",
+    "Mustafo Rashid posho",
+    "Ahmad Shekib posho"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Turkiyada Tanzimatning dastlabki bosqichidagi islohotlar chala, bir tomonlama xarakterga ega bo'lib, ular kimlarning qarshiligiga uchragan va oxirigacha amalga oshirilmagan? 1) Zodagonlar; 2) Ruhoniylar; 3) Dehqonlar.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Qrim urushi” qaysi yillarda bo'lib o'tgan?",
+   "options": [
+    "1850–1853-yillarda",
+    "1851–1854-yillarda",
+    "1852–1855-yillarda",
+    "1853–1856-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi Rossiya imperatori sultonga Turkiya hududida yashovchi barcha pravoslav xristianlarga Rossiyaning homiylik qilish huquqini tan olish to'g'risida ultimatum topshirgan?",
+   "options": [
+    "Nikolay I",
+    "Nikolay II",
+    "Aleksandr I",
+    "Aleksandr II"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qrim urushining asosiy sabablari Rossiyaning qayerlardagi diniy, siyosiy va iqtisodiy manfaatlarining boshqa Yevropa mamlakatlari manfaatlari bilan to'qnashuvi bo'lgan?",
+   "options": [
+    "Qora dengizi sohillari va Bolqondagi",
+    "Bolqon va Yaqin Sharqdagi",
+    "Yaqin Sharq va Kavkazdagi",
+    "Kavkaz va Qora dengizi sohillaridagi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr o'rtalarida Bolqon va Yaqin Sharqda Rossiya ta'siri kuchayishining oldini olish maqsadida tarkibiga qaysi davlatlar kirgan harbiy koalitsiya tuzilgan?",
+   "options": [
+    "Angliya, Fransiya, Avstriya",
+    "Fransiya, Avstriya, Prussiya",
+    "Avstriya, Prussiya, Turkiya",
+    "Turkiya, Angliya, Fransiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Qrim urushi” da harbiy harakatlar qaysi hududlarga yoyilgan? 1) Kavkaz; 2) Dunay knyazliklari; 3) Kamchatka; 4) Kuril orollari.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Qrim urushi” da harbiy harakatlar qaysi dengizlarga yoyilgan? 1) Boltiq; 2) O'rtayer; 3) Qora; 4) Marmar; 5) Azov; 6) Oq; 7) Barens.",
+   "options": [
+    "2, 3, 4, 6",
+    "1, 2, 4, 5",
+    "1, 3, 5, 6, 7",
+    "2, 3, 4, 5, 6, 7"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Qrim urushi” da harbiy harakatlar dunyo bo'ylab keng hududlarga yoyilga bo'lsada, nimaga urush bunday nom olgan?",
+   "options": [
+    "Asosiy qonli janglar Qrimda bo'lganligi sababli",
+    "Urush Qrimda boshlanganligi sababli",
+    "Asosiy maqsad Qrimni egallash bo'lganligi sababli",
+    "Urushning so'nggi janggi Qrimda bo'lganligi sababli"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Qrim urushi” dagi g'alaba natijasida Turkiya … .",
+   "options": [
+    "Bolqonda yangi hududlarga ega bo'lgan",
+    "Buyuk Britaniya va Fransiyaga yanada qaram bo'lib qolgan",
+    "Qora dengizda harbiy flot saqlash huquqiga ega bo'lgan",
+    "Rossiyaga siyosiy bosim o'tkaza boshlagan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Qrim urushi” yakunida qaysi sanada tinchlik shartnomasi imzolangan?",
+   "options": [
+    "1853-yil 30-iyulda",
+    "1854-yil 30-iyunda",
+    "1855-yil 30-mayda",
+    "1856-yil 30-martda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Qrim urushi” yakunida qayerda tinchlik shartnomasi imzolangan?",
+   "options": [
+    "London",
+    "Istanbul",
+    "Parij",
+    "Sankt-Peterburg"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrning qaysi davriga kelib mustamlakachi davlatlar Turkiyada uning siyosatini belgilashga imkon beruvchi iqtisodiy va siyosiy mavqega ega bo'lib olganlar?",
+   "options": [
+    "50-yillariga",
+    "60-yillariga",
+    "70-yillariga",
+    "80-yillariga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning ikkinchi yarmida Turkiyaning chet davlatlardan qarzi qancha edi?",
+   "options": [
+    "1,4 mlrd. frank",
+    "2,4 mlrd. frank",
+    "3,4 mlrd. frank",
+    "4,4 mlrd. frank"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qrim urushi vaqtida ruslar qaysi shaharni ingliz, fransuz va turklardan 350 kun himoya qilishgan?",
+   "options": [
+    "Feodosiya",
+    "Bog'chasaroy",
+    "Yalta",
+    "Sevastopol"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qrim urushi vaqtida Sevastopol himoyasida qaysi buyuk rus yozuvchisi qatnashgan?",
+   "options": [
+    "L. N. Tolstoy",
+    "A. S. Pushkin",
+    "M. Y. Lermontov",
+    "N. V. Gogol"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qrim urushida mag'lub bo'lgan Rossiya qayerdagi flotidan ayrilgan?",
+   "options": [
+    "Boltiq dengizidagi",
+    "Qora dengizdagi",
+    "Azov dengizidagi",
+    "Barens dengizidagi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qrim urushida mag'lub bo'lgan qaysi Rossiya imperatori diqqat-e'tiborini krepostnoylikni bekor qilish va O'rta Osiyoni bosib olishga qaratgan?",
+   "options": [
+    "Nikolay I",
+    "Nikolay II",
+    "Aleksandr I",
+    "Aleksandr II"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Turkiyada Tanzimatning yangi bosqichi nimalarda ifodalanadi? 1) Temiryo'llar, telegraf liniyalari, sanoat korxonalarining qurilishi; 2) Yer, fuqarolik va jinoiy kodekslarning qabul qilinishi; 3) Pul islohoti; 4) Dunyoviy mazmundagi maktablarning ochilishi; 5) Milliy harakatlarga yon bosish va ularni",
+   "options": [
+    "2, 3, 4",
+    "1, 3, 4, 5",
+    "1, 2, 3, 4, 6",
+    "1, 2, 3, 4, 5, 6"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Turkiyada Tanzimatning yangi bosqichida Yevropa davlatlari bilan hamkorlik nimalarda ifodalanadi? 1) Kreditlar olish; 2) Imperiya tarkibidagi chekka hududlarni mandat ostida topshirish; 3) Iqtisodga chet el kapitalini jalb etish; 4) Chet elliklarning Turkiyada yer va ko'chmas mulkka bo'lgan huquqlar",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda Istanbulda maxfiy siyosiy tashkilot tuzilib, o'z oldiga Turkiyada konstitutsion tuzum joriy qilinishiga erishishni maqsad qilib qo'ygan?",
+   "options": [
+    "1858-yilda",
+    "1861-yilda",
+    "1865-yilda",
+    "1867-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Yangi usmoniylar” tashkiloti qancha a'zoga ega edi?",
+   "options": [
+    "150 ga yaqin",
+    "250 ga yaqin",
+    "350 ga yaqin",
+    "450 ga yaqin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Yangi usmoniylar” tashkiloti safida qaysi dramaturg bor edi?",
+   "options": [
+    "Ibrohim Shinasi",
+    "Ziyobey",
+    "Husnu Yusuf",
+    "Namiq Kemal"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Yangi usmoniylar” tashkiloti safida qaysi qatlamlar vakillari bor edi? 1) Yozuvchilar; 2) Jurnalistlar; 3) Amaldorlar; 4) Ofitserlar; 5) Savdo burjuaziyasi.",
+   "options": [
+    "1, 2, 3, 4, 5",
+    "2, 3, 4, 5",
+    "1, 3, 4",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Yangi usmoniylar” tashkiloti qayerda “Yosh Turkiya”, uning ishtirokchilari – “Yosh turklar” nomini olgan?",
+   "options": [
+    "Uzoq Sharqda",
+    "Yaqin Sharqda",
+    "Yevropada",
+    "Amerikada"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Yosh turklar” qaysi sultonni konstitutsiya qabul qilishga ishontirish yoki majbur qilish umidida edilar?",
+   "options": [
+    "Mahmud II",
+    "Abdul Aziz",
+    "Abdul Hamid",
+    "Salim III"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda “Yosh turklar” tashkillashtirgan fitna fosh qilingan, ularning bir qismi qamoqqa olingan, ba'zilari chet elga qochib ketgan?",
+   "options": [
+    "1858-yilda",
+    "1861-yilda",
+    "1865-yilda",
+    "1867-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrda usmoniy turklar adabiyotida hukmronlik qilib kelgan … inqirozga yuz tutib, o'rniga Yevropa ta'siri ostidagi yangi … shakllana boshlagan.",
+   "options": [
+    "burjua adabiyoti va san'ati/xalq folklori",
+    "xalq folklori/teologik janr",
+    "teologik janr/saroyning nozik so'z san'ati",
+    "saroyning nozik so'z san'ati/burjua adabiyoti va san'ati"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Usmoniylar ma'rifat jamiyati” va “Kitobsevarlar jamiyati” ni tashkil qilgan yangi turk adabiyotining ko'zga ko'ringan vakillarini toping. 1) Ibrohim Shinasi; 2) Namiq Kemal; 3) Ziyobey; 4) Ahmad Shekib posho.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Turkiyada “Tasviri efkar” (“G'oyalar ifodachisi”) gazetasini kim tashkil qilgan?",
+   "options": [
+    "Namiq Kemal",
+    "Ziyobey",
+    "Ahmad Shekib posho",
+    "Ibrohim Shinasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrda turk adabiy tilida qanday yangi so'zlar paydo bo'lgan? 1) “Vatan”; 2) “Millat”; 3) “Vatanparvarlik”; 4) “Inqilob”.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tanzimat davridan oldin Turkiyada teatr san'ati, asosan, satirik yo'nalishdagi tomoshalarni namoyish qiladigan qaysi teatrdan iborat edi?",
+   "options": [
+    "Soyalar teatri",
+    "Masxarabozlar teatri",
+    "Qo'g'irchoq teatri",
+    "Komik teatr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tanzimat davridan keyin Turkiyada Yevropa teatr truppalari qayerlarda tomoshalar ko'rsata boshlagan?",
+   "options": [
+    "Bozor maydonlarida va xususiy teatrlarda",
+    "Xususiy teatrlarda va sulton saroyida",
+    "Sulton saroyida va mashhur odamlarning uylarida",
+    "Mashhur odamlarning uylarida va bozor maydonlarida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Birinchi turk xususiy teatri qachon ochilgan?",
+   "options": [
+    "XIX asrning 50-yillarida",
+    "XIX asrning 60-yillarida",
+    "XIX asrning 70-yillarida",
+    "XIX asrning 80-yillarida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Birinchi turk xususiy teatrini kim tashkil qilgan?",
+   "options": [
+    "Husnu Yusuf",
+    "No'mon posho",
+    "Ahmad Shekib posho",
+    "Ibrohim posho"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Asl turk pyesalari qaysi yilda “Gedik posho” teatri sahnasida paydo bo'lgan?",
+   "options": [
+    "1858-yilda",
+    "1863-yilda",
+    "1869-yilda",
+    "1872-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrda Turkiyadagi “Teatr” gazetasida kimning mamlakat ijtimoiy hayotida teatrning ahamiyati va roli haqidagi maqolasi chop etilgan?",
+   "options": [
+    "Husnu Yusuf",
+    "Namiq Kemal",
+    "Ziyobey",
+    "Ibrohim Shinasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda Turkiyada adabiyot va teatr sohasidagi faollik ilgari … ko'rinishida bo'lib, asosan, tor doiradagi saroy ahliga xizmat qilgan tasviriy san'atga ham ta'sir qilgan.",
+   "options": [
+    "miniatura",
+    "kalligrafiya",
+    "naqqoshlik",
+    "peyzaj"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrda Parijda ta'lim olgan turk rassomlarini toping. 1) No'mon posho; 2) Husnu Yusuf; 3) Ibrohim posho; 4) Ahmad Shekib posho.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Usmoniylar imperiyasida timar yoki len egasi shaxsan harbiy yurishlarda qatnashishi va har qancha aqcha daromadi hisobidan o'zi bilan bitta otliq askar ham olib kelishi shart bo'lgan?",
+   "options": [
+    "1 ming aqcha",
+    "2 ming aqcha",
+    "3 ming aqcha",
+    "4 ming aqcha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "… – maxsus masala bo'yicha ko'p tomonlama xalqaro shartnoma, bitim (odatda, davlatlar o'rtasida).",
+   "options": [
+    "Konvensiya",
+    "Konferensiya",
+    "Kollegiya",
+    "Konsessiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "… – davlat korxonalarini, mulkini muayyan muddatga chet el kapitaliga berish haqidagi kelishuv, shartnoma.",
+   "options": [
+    "Konvensiya",
+    "Konferensiya",
+    "Kollegiya",
+    "Konsessiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi so'z lotinchada “ruxsat”, “yon berish” degan ma'nolarni anglatadi?",
+   "options": [
+    "Konvensiya",
+    "Konferensiya",
+    "Kollegiya",
+    "Konsessiya"
+   ],
+   "answer": 3
+  }
+ ]
+}

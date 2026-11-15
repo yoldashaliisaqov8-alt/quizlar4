@@ -1,0 +1,410 @@
+{
+ "title": "8-sinf · Osiyo, Afrika va Amerika xalqlari madaniyati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Inklar maktablarida qaysi fanlar o'rgatilgan.",
+   "options": [
+    "Faqat harbiy ishlar",
+    "Din, tarix, huquq va kechua tili",
+    "Astronomiya va musiqa",
+    "Matematika va tibbiyot"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "To'pqopi saroyi qayerda joylashgan.",
+   "options": [
+    "Halabda",
+    "Ko'nyoda",
+    "Istanbulda",
+    "Pekinda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buyuk Xitoy devori qaysi vazifalarni bajargan.",
+   "options": [
+    "Faqat yo'l vazifasi",
+    "Faqat savdo vazifasi",
+    "Transport yo'lagi, chegara nazorati, kuzatuv minoralari, kazarma",
+    "Sug'orish va ibodat vazifasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jenne shahridagi madrasa qaysi ilm markazi sifatida yutuqlarga erishgan.",
+   "options": [
+    "Huquq",
+    "Ilohiyot",
+    "Tibbiyot",
+    "Astronomiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Oltin pavilyon qayerda va qachon qurilgan.",
+   "options": [
+    "Pekinda, XIII asrda",
+    "Samarqandda, XV asrda",
+    "Kiotoda, XIV asr oxirida",
+    "Kiotoda, XV asr oxirida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada Afrika madaniyatiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "2, 3",
+    "2, 4",
+    "1, 4",
+    "1, 2"
+   ],
+   "answer": 3,
+   "image": "img/j8-26-06.jpg"
+  },
+  {
+   "q": "Songay hukmdori Buyuk Askiya nimani qo'llab- quvvatladi.",
+   "options": [
+    "Faqat mahalliy tilni",
+    "Arab tilini va uning o'qitilishini",
+    "Lotin tilini",
+    "Yunon tilini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rivojlangan o'rta asrlarda Osiyoda eng taraqqiy etgan fanlardan biri qaysi edi.",
+   "options": [
+    "Alkimyo",
+    "Huquqshunoslik",
+    "Ilohiyot",
+    "Astronomiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diagrammada Osiyo ilm-faniga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "2, 4",
+    "1, 4",
+    "1, 2",
+    "2, 3"
+   ],
+   "answer": 1,
+   "image": "img/j8-26-09.jpg"
+  },
+  {
+   "q": "Afrikada islom dini va ilm markazlari sifatida shuhrat qozongan shaharlarni aniqlang.",
+   "options": [
+    "Tombuktu, Jenne, Gao",
+    "Niara, Kumbi Sale, Zimbabve",
+    "Buyuk Zimbabve, Niara, Gao",
+    "Qohira, Tunis, Marokash"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Inklar bosib olingan hududlarga nima talab qilgan.",
+   "options": [
+    "Islomni qabul qilish",
+    "Atstek xudolariga sig'inish",
+    "Mahalliy xudolarni butunlay taqiqlash",
+    "Quyosh xudosiga sig'inishni rasmiy qabul qilishni, mahalliy xudolarga sig'inish ham taqiqlanmagan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Inklarda rasmiy ishlar qaysi tilda yuritilgan.",
+   "options": [
+    "Mayya tilida",
+    "Atstek tilida",
+    "Kechua tilida",
+    "Ispan tilida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada Osiyo me'morchiligiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "3, 4",
+    "1, 3",
+    "2, 3",
+    "1, 4"
+   ],
+   "answer": 0,
+   "image": "img/j8-26-13.jpg"
+  },
+  {
+   "q": "Oltin pavilyonni qaysi syogun qurdirgan.",
+   "options": [
+    "Asikaga Yoshimitsu",
+    "Asikaga Takauji",
+    "Tayra Kiyomori",
+    "Minamoto Yoritomo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afrikada haykallar qayerda saqlangan.",
+   "options": [
+    "Bozor maydonlarida",
+    "Saroylarda",
+    "Xonadonlarda",
+    "Muqaddas joylarda, oddiy kishilarning ko'rishi man etilgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Atsteklar astronomiyani o'rganib qaysi taqvimga o'xshash taqvim yaratgan.",
+   "options": [
+    "Inka taqvimiga",
+    "Mayya taqvimiga",
+    "Yunon taqvimiga",
+    "Xitoy taqvimiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Madrasa bitiruvchisi qaysi lavozimlarda faoliyat yuritgan.",
+   "options": [
+    "Faqat ruhoniy",
+    "Savdogar yoki amaldor",
+    "Qozi yoki mudarris",
+    "Sarkarda yoki vazir"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Koreys fonetik alifbosi nechta harfdan iborat edi.",
+   "options": [
+    "Yigirma oltita",
+    "Yigirma sakkizta",
+    "O'ttiz uchta",
+    "O'n sakkizta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oq pagoda qaysi shaharda joylashgan.",
+   "options": [
+    "Nankinda",
+    "Pekinda",
+    "Kiotoda",
+    "Halabda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mirzo Ulug'bek Samarqandda tuzgan akademiya tarkibida nimalar faoliyat yuritgan.",
+   "options": [
+    "Kutubxona va karvonsaroy",
+    "Madrasa va bosmaxona",
+    "Rasadxona va kasalxona",
+    "Rasadxona, madrasa va boy kutubxona"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Afrika niqoblarida qaysi tasvirlar berilgan.",
+   "options": [
+    "Sirtlon, sher, maymun, ohu kabi hayvonlar qiyofasi",
+    "Qirollar va ritsarlar",
+    "Xudolar va farishtalar",
+    "Faqat odam yuzlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jenne madrasasida qaysi kasallikka qarshi muolajalar ishlab chiqilgan.",
+   "options": [
+    "Vabo",
+    "Chivinlar orqali tarqaladigan bezgakka",
+    "Sil",
+    "Chechak"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Inklar qaysi xudoga sig'ingan.",
+   "options": [
+    "Yomg'ir xudosiga",
+    "Urush xudosiga",
+    "Oy xudosiga",
+    "Quyosh xudosiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qutb minor qayerda va qaysi asrda qurilgan.",
+   "options": [
+    "Pekinda, XIII asrda",
+    "Samarqandda, XV asrda",
+    "Istanbulda, XV asrda",
+    "Dehlida, XIII asrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nosiriddin at-Tusiy maktabi vakillari kimning nazariyasini inkor etdi.",
+   "options": [
+    "Kopernikning",
+    "Galileyning",
+    "Ptolemeyning",
+    "Arastuning"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buyuk Xitoy devori qurilishida nimalardan foydalanilgan.",
+   "options": [
+    "G'isht va tosh bo'laklaridan",
+    "Yog'och va loydan",
+    "Faqat tuproqdan",
+    "Temir va misdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Marog'a olimlarining kashfiyoti fanda qanday nom bilan mashhur bo'ldi.",
+   "options": [
+    "“Astronomiya inqilobi”",
+    "“Marog'a inqilobi”",
+    "“Tusiy nazariyasi”",
+    "“Samarqand inqilobi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xo'ja Ahmad Yassaviy maqbarasi qayerda joylashgan.",
+   "options": [
+    "Turkistonda",
+    "Buxoroda",
+    "Samarqandda",
+    "Istanbulda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Musulmon geograflari sayohatlar davomida nimalarni ishlab chiqdi.",
+   "options": [
+    "Yangi pul tizimini",
+    "Yangi harbiy qurollarni",
+    "Mamlakatlarning aniq xaritalarini va masofalarni hisoblashning yangi usullarini",
+    "Dengiz kemalarini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sulton Xon karvonsaroyi qayerda joylashgan.",
+   "options": [
+    "Ko'nyoda",
+    "Turkistonda",
+    "Samarqandda",
+    "Halabda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada Amerika xalqlari madaniyatiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "1, 4",
+    "2, 3",
+    "1, 2",
+    "3, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-26-31.jpg"
+  },
+  {
+   "q": "Mansa Muso madaniy jarayonlarni qanday yangi bosqichga olib chiqdi.",
+   "options": [
+    "Dengiz yo'llarini ochib",
+    "Soliqlarni kamaytirib",
+    "Qal'alar qurib",
+    "Ta'limni rivojlantirib va islom dinini keng yoyib"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Koreys fonetik alifbosi nima maqsadda yaratilgan.",
+   "options": [
+    "Savdo hisobi uchun",
+    "Diniy kitoblarni yozish uchun",
+    "Xitoy yozuvini almashtirish uchun",
+    "Aholining savodxonligini oshirish uchun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oltin pavilyon necha qavatdan iborat bo'lgan.",
+   "options": [
+    "Uch qavatdan",
+    "To'rt qavatdan",
+    "Ikki qavatdan",
+    "Besh qavatdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afrika niqoblari nimadan yasalgan va qanday bo'yalgan.",
+   "options": [
+    "Teridan, oq rangda",
+    "Loydan, rangsiz",
+    "Misdan, qora rangda",
+    "Yog'ochdan, turfa ranglarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Koreya akademiyasida yosh olimlar qaysi sohalarda ilmiy izlanish olib borgan.",
+   "options": [
+    "Astronomiya va falsafa",
+    "Kemasozlik va qurolsozlik",
+    "Qishloq xo'jaligi va tibbiyot",
+    "Huquq va tarix"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Inklarda Kuskodagi maktablarda kimlar o'qigan.",
+   "options": [
+    "Barcha bolalar",
+    "Zodagonlarning o'g'il farzandlari",
+    "Quyi tabaqa qizlari",
+    "Savdogarlarning bolalari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIII–XV asrlarda faoliyat yuritgan rasadxonalarni aniqlang.",
+   "options": [
+    "Parij, Oksford, Bolonya",
+    "Qohira, Tombuktu, Jenne",
+    "Marog'a, Samarqand, Istanbul",
+    "Dehli, Pekin, Kioto"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Marog'a olimlari Yerning o'z o'qi atrofida aylanishini Kopernikdan necha yil oldin isbotlab berdi.",
+   "options": [
+    "300 yil",
+    "500 yil",
+    "30 yil",
+    "100 yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Atstek zodagonlari farzandlarini qanday maktablarda o'qitgan.",
+   "options": [
+    "Davlat boshqaruvi, moliya, harbiy bosh va ruhoniylar tayyorlaydigan maxsus maktablarda",
+    "Faqat harbiy akademiyalarda",
+    "Faqat cherkov maktablarida",
+    "Oddiy xalq maktablarida"
+   ],
+   "answer": 0
+  }
+ ]
+}

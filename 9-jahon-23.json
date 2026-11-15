@@ -1,0 +1,856 @@
+{
+ "title": "9-sinf · 23-mavzu. Germaniya va Italiya birlashuvi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Vena kongressida qaysi sanada imzolangan aktga binoan, Muqaddas Rim imperiyasi o'rnida “German ittifoqi” tuzilgan?",
+   "options": [
+    "1814-yil 8-iyunda",
+    "1814-yil 8-iyulda",
+    "1815-yil 8-iyunda",
+    "1815-yil 8-iyulda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muqaddas Rim imperiyasi qachon tarqalib ketgangan edi?",
+   "options": [
+    "1803-yilda",
+    "1806-yilda",
+    "1808-yilda",
+    "1811-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vena kongressida imzolangan aktga binoan, Muqaddas Rim imperiyasi o'rnida nechta mustaqil davlat va nechta erkin shahardan iborat “German ittifoqi” tuzilgan?",
+   "options": [
+    "14/2",
+    "24/3",
+    "34/4",
+    "44/5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "German ittifoqi tarkibiga qaysi imperiya kirgan?",
+   "options": [
+    "Avstriya",
+    "Prussiya",
+    "Saksoniya",
+    "Bavariya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "German ittifoqi tarkibiga nechta qirollik kirgan?",
+   "options": [
+    "To'rtta",
+    "Beshta",
+    "Oltita",
+    "Yettita"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "German ittifoqi tarkibiga nechta shahar-respublika kirgan?",
+   "options": [
+    "To'rtta",
+    "Beshta",
+    "Oltita",
+    "Yettita"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vena kongressida imzolangan aktga binoan, Angliya, Daniya va Niderland qirolligi tarkibida bo'lgan qaysi qirollik German ittifoqining a'zosi deb tan olingan?",
+   "options": [
+    "Golshteyn",
+    "Saksen-Lauenburg",
+    "Luksemburg",
+    "Gannover"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vena kongressida imzolangan aktga binoan, Angliya, Daniya va Niderland qirolligi tarkibida bo'lgan qaysi gersogliklar German ittifoqining a'zolari deb tan olingan? 1) Gannover; 2) Golshteyn; 3) Saksen-Lauenburg; 4) Luksemburg.",
+   "options": [
+    "1, 2",
+    "2, 3",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vena kongressida imzolangan aktga binoan, Angliya, Daniya va Niderland qirolligi tarkibida bo'lgan qaysi buyuk gersoglik German ittifoqining a'zosi deb tan olingan?",
+   "options": [
+    "Gannover",
+    "Golshteyn",
+    "Luksemburg",
+    "Saksen-Lauenburg"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vena kongressida imzolangan aktga binoan tashkil etilgan German ittifoqining eng katta davlatlari qaysilar edi?",
+   "options": [
+    "Prussiya va Gannover",
+    "Gannover va Saksen-Lauenburg",
+    "Saksen-Lauenburg va Luksemburg",
+    "Avstriya va Prussiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi davlat vakili German ittifoqining doimiy raisi sanalardi?",
+   "options": [
+    "Avstriya",
+    "Prussiya",
+    "Gannover",
+    "Luksemburg"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Germaniya inqilobining asosiy maqsadlari nimalar edi? 1) Yirik mustamlaka imperiyasini barpo etish; 2) Siyosiy tarqoqlikka barham berish; 3) Feodal tartiblarni tugatish.",
+   "options": [
+    "1, 2",
+    "2, 3",
+    "1, 3",
+    "1, 2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Germaniya inqilobiga qaysi qatlamning konstitutsiyaviy monarxiya tarafdori bo'lgan mo'tadil qismi rahbarlik qilgan?",
+   "options": [
+    "Burjuaziya",
+    "Proletariat",
+    "Aristokratiya",
+    "Intelligensiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kapitalizm rivojlanishining “Prusscha yo'li” ga nimalar kiradi? 1) Feodalizm elementlari saqlanib qolgan; 2) Feodal tuzumning elementlari yo'q; 3) Siyosiy hokimiyat burjuaziya qo'lida; 4) Burjuaziya siyosiy hokimiyatga ega emas; 5) Demokratiya mavjud; 6) Demokratiya rivojlanmagan.",
+   "options": [
+    "2, 4, 6",
+    "1, 3, 5",
+    "1, 4, 6",
+    "2, 3, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kapitalizm rivojlanishining “Amerikacha yo'li” ga nimalar kiradi? 1) Feodalizm elementlari saqlanib qolgan; 2) Feodal tuzumning elementlari yo'q; 3) Siyosiy hokimiyat burjuaziya qo'lida; 4) Burjuaziya siyosiy hokimiyatga ega emas; 5) Demokratiya mavjud; 6) Demokratiya rivojlanmagan.",
+   "options": [
+    "2, 4, 6",
+    "1, 3, 5",
+    "1, 4, 6",
+    "2, 3, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asr o'rtalarida qaysi yilda Yevropada iqtisodiy inqiroz yuz bergan?",
+   "options": [
+    "1847-yilda",
+    "1848-yilda",
+    "1849-yilda",
+    "1850-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransiyada boshlangan 1848-yilgi fevral inqilobi ta'sirida Germaniyaning qaysi shahrida qo'zg'olon boshlangan?",
+   "options": [
+    "Myunxen",
+    "Kyoln",
+    "Berlin",
+    "Gamburg"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asr o'rtasida Prussiya parlamenti qanday atalgan?",
+   "options": [
+    "Millat majlisi",
+    "Ta'sis majlisi",
+    "Xalq majlisi",
+    "German majlisi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Germaniya inqilobini bostirish uchun Prussiya qiroli qanday va'dalar bergan? 1) Parlamentga saylov belgilash; 2) Respublika tuzumini o'rnatish; 3) Konstitutsiya ishlab chiqish.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Prussiya qirolligida konstitutsiya joriy etilgan?",
+   "options": [
+    "1847-yilda",
+    "1848-yilda",
+    "1849-yilda",
+    "1850-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda Germaniyadagi kapitalizm rivojlanishi yo'li qanday nom olgan?",
+   "options": [
+    "“Yangicha” yo'l",
+    "“Germancha” yo'l",
+    "“Yevropacha” yo'l",
+    "“Prusscha” yo'l"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Germaniyada “Pomeshchiklar va dehqonlar o'rtasidagi munosabatlarni tartibga solish to'g'risida” gi farmon qabul qilingan?",
+   "options": [
+    "1847-yilda",
+    "1848-yilda",
+    "1849-yilda",
+    "1850-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Germaniya imperiyasining birinchi kansleri, Germaniyani birlashtirish rejasini amalga oshirgan siyosatchi, davlat arbobi kim?",
+   "options": [
+    "Alfred Krupp",
+    "Verner fon Simens",
+    "Otto fon Bismark",
+    "Avgust Borzig"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Otto fon Bismark qaysi yillarda yashagan?",
+   "options": [
+    "1813–1896-yillarda",
+    "1815–1898-yillarda",
+    "1819–1902-yillarda",
+    "1821–1904-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Otto fon Bismark qayerda tug'ilgan?",
+   "options": [
+    "Shyonxauzen",
+    "Saksoniya-Anxalt",
+    "Pomeraniya",
+    "Fridrixsru"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Otto fon Bismark qayerda vafot etgan?",
+   "options": [
+    "Shyonxauzen",
+    "Saksoniya-Anxalt",
+    "Pomeraniya",
+    "Fridrixsru"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Otto fon Bismarkni qanday atashgan?",
+   "options": [
+    "“Buyuk kansler”",
+    "“Donishmand kansler”",
+    "“Temir kansler”",
+    "“Adolatli kansler”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Germaniyada inqilobdan keyingi necha yil sanoat uchun hal qiluvchi davr bo'lgan?",
+   "options": [
+    "Besh yil",
+    "O'n yil",
+    "O'n besh yil",
+    "Yigirma yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr 50–60-yillarida dunyoda eng yirik hisoblangan lokomotiv zavodining egasi kim?",
+   "options": [
+    "Borzig",
+    "Krupp",
+    "Simens",
+    "Galske"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asr 50–60-yillarida ko'plab davlatlarni qurol bilan ta'minlab turgan shaxsni toping.",
+   "options": [
+    "Avgust Borzig",
+    "Alfred Krupp",
+    "Verner fon Simens",
+    "Fon Unru"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr 50–60-yillaridagi dengiz kabellari va telegraf simlarining egalarini toping. 1) Fon Unru; 2) Simens; 3) Galske.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asr 50–60-yillaridagi temiryo'llar quruvchisini toping.",
+   "options": [
+    "Avgust Borzig",
+    "Alfred Krupp",
+    "Verner fon Simens",
+    "Fon Unru"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrning o'rtalarida Germaniya imperiyasidagi eng qudratli davlat qaysi edi?",
+   "options": [
+    "Avstriya",
+    "Luksemburg",
+    "Prussiya",
+    "Gannover"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrning o'rtalarida Otto fon Bismark Germaniya imperiyasidagi qaysi davlatda kanslerlik qilardi?",
+   "options": [
+    "Avstriya",
+    "Luksemburg",
+    "Prussiya",
+    "Gannover"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda Prussiya Avstriya ustidan g'alaba qozongan?",
+   "options": [
+    "1862-yilda",
+    "1866-yilda",
+    "1869-yilda",
+    "1871-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Otto fon Bismark Prussiya bilan Germaniyadagi mavjud boshqa davlatlar o'rtasida “Shimoliy Germaniya ittifoqi” ni tuzish haqida shartnoma imzolanishiga erishgan?",
+   "options": [
+    "1862-yilda",
+    "1866-yilda",
+    "1869-yilda",
+    "1871-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Otto fon Bismark ishlab chiqqan Shimoliy Germaniya ittifoqi konstitutsiyasi nechanchi yilda Veymar Respublikasi konstitutsiyasi qabul qilingunga qadar amal qilib kelgan?",
+   "options": [
+    "1919-yilda",
+    "1920-yilda",
+    "1922-yilda",
+    "1914-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gogensollernlar sulolasi Germaniyaning qaysi qismida hukmronlik qilgan?",
+   "options": [
+    "Janubi-g'arbida",
+    "Janubi-sharqida",
+    "Shimoli-g'arbida",
+    "Shimoli-sharqida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi sulolaning qizil hoshiya bilan bezatilgan oq-qora bayrog'i ostida Shimoliy Germaniya birlashtirilgan?",
+   "options": [
+    "Gabsburglar",
+    "Saksoniyaliklar",
+    "Frankoniyaliklar",
+    "Gogensollernlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Jang maydonida halok bo'layotgan jangchining so'nib borayotgan ko'zlariga hech bo'lmasa bir bor tikilgan kishi urush boshlashdan oldin yaxshilab o'ylab ko'radi”. Ushbu jumlalar muallifi kim?",
+   "options": [
+    "Kamillo di Kavur",
+    "Otto fon Bismark",
+    "Juzeppe Madzini",
+    "Juzeppe Garibaldi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Agar bugun maktab qurmasak, ertaga qamoqxonalar qurishga to'g'ri keladi”. Ushbu jumlalar muallifi kim?",
+   "options": [
+    "Otto fon Bismark",
+    "Kamillo di Kavur",
+    "Juzeppe Garibaldi",
+    "Juzeppe Madzini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Prussiya imperatori Vilgelm I Versal saroyining serhasham zalida Germaniya imperatori deb e'lon qilingan?",
+   "options": [
+    "1870-yil fevralda",
+    "1871-yil yanvarda",
+    "1872-yil dekabrda",
+    "1873-yil sentyabrda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda Italiyaga fransuz intervensiyasining yangi davri boshlanib, Italiya o'n besh yilga Napoleon imperiyasining hukmronligi ostida qolgan?",
+   "options": [
+    "1798-yilda",
+    "1799-yilda",
+    "1800-yilda",
+    "1801-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrning boshlarida qaysi davlat ta'siri ostida Italiyada kapitalizm rivojini tezlashtirgan muhim o'zgarishlar amalga oshirilgan?",
+   "options": [
+    "Fransiya",
+    "Gollandiya",
+    "Avstriya",
+    "Angliya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Napoleon taxtdan ag'darilgach, barcha italyan davlatlari qaysi davlatga qaram bo'lib qolgan?",
+   "options": [
+    "Prussiya",
+    "Angliya",
+    "Ispaniya",
+    "Avstriya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yilda Janubiy Italiyadagi Neapolitan qirolligida “karbonariylar” ning maxfiy tashkiloti paydo bo'lib, ular mamlakatni birlashtirishga harakat qilgan?",
+   "options": [
+    "1800-yilda",
+    "1802-yilda",
+    "1805-yilda",
+    "1807-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Karbonariylar” so'zining ma'nosi nima?",
+   "options": [
+    "“Baliqchilar”",
+    "“Konchilar”",
+    "“Ko'mirchilar”",
+    "“Ishchilar”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Italiyaning birlashishida beqiyos rol o'ynagan italyan davlat arbobi, Italiyaning birinchi bosh vaziri kim?",
+   "options": [
+    "Juzeppe Garibaldi",
+    "Kamillo di Kavur",
+    "Viktor Emmanuil",
+    "Juzeppe Madzini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“1810, Turin, Po departamenti – 1861, Turin”. Ushbu ma'lumotlar kim haqida?",
+   "options": [
+    "Juzeppe Garibaldi",
+    "Kamillo di Kavur",
+    "Viktor Emmanuil",
+    "Juzeppe Madzini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Italiyalik siyosatchi, yozuvchi va faylasuf, XIX asrda milliy-ozodlik harakati va liberal islohotlarning birinchi bosqichida muhim rol o'ynagan shaxs kim?",
+   "options": [
+    "Juzeppe Garibaldi",
+    "Kamillo di Kavur",
+    "Viktor Emmanuil",
+    "Juzeppe Madzini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“1805, Genuya – 1872, Piza”. Ushbu ma'lumotlar kim haqida?",
+   "options": [
+    "Juzeppe Garibaldi",
+    "Kamillo di Kavur",
+    "Viktor Emmanuil",
+    "Juzeppe Madzini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yillarda Italiyada Avstriya zulmiga qarshi kurashning hal qiluvchi janglari bo'lib o'tgan?",
+   "options": [
+    "1840-yillarda",
+    "1850-yillarda",
+    "1860-yillarda",
+    "1870-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yillarda Shimoliy Italiyada sanoat rivojlanishi boshlangan?",
+   "options": [
+    "1840-yillarda",
+    "1850-yillarda",
+    "1860-yillarda",
+    "1870-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrning 40-yillarida Italiyada kimning hokimiyati ostida birlashish g'oyasi paydo bo'lgan?",
+   "options": [
+    "Neapolitan qiroli",
+    "Rim papasi",
+    "Sardiniya qiroli",
+    "Toskana gersogi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon graf Kamillo Kavur “Risorjimento” nomli gazeta nashr qilgan?",
+   "options": [
+    "1841-yilda",
+    "1844-yilda",
+    "1847-yilda",
+    "1849-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Risorjimento” so'zining ma'nosi nima?",
+   "options": [
+    "“Uyg'onish”",
+    "“Birlashtirish”",
+    "“Yangilanish”",
+    "“Yuksalish”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Italiyada Risorjimento uchun boshlanish nuqta qaysi voqea bo'lgan?",
+   "options": [
+    "Germaniya inqilobi",
+    "Angliyadagi sanoat to'ntarishi",
+    "Buyuk fransuz inqilobi",
+    "Napoleonning Italiyaga yurishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Yosh Italiya” nomli inqilobiy tashkilotni kim tuzgan?",
+   "options": [
+    "Juzeppe Garibaldi",
+    "Kamillo di Kavur",
+    "Viktor Emmanuil",
+    "Juzeppe Madzini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asr o'rtalaridagi Italiyani birlashtirish uchun boshlangan qo'zg'olonlar mag'lubiyatining asosiy sababi nima edi?",
+   "options": [
+    "Xalq ko'magining yo'qligi",
+    "Vatanparvarlarining tarqoqligi",
+    "Manfaatlarning turlichaligi",
+    "Tashqi dushmanlarning ko'pligi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr o'rtalaridagi Italiyani birlashtirish uchun boshlangan qo'zg'olonlarda burjuaziya kimlarni yordamga chaqirmagan?",
+   "options": [
+    "Ziyolilarni",
+    "Ishchilarni",
+    "Dehqonlarni",
+    "Hunarmandlarni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asr o'rtalarida Italiyadagi qaysi davlatlar mamlakatdagi siyosiy tarqoqlikning tayanchi bo'lib qolayotgan edi? 1) Sitsiliya qirolligi; 2) Neapol qirolligi; 3) Papa viloyati.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Juzeppe Garibaldi o'z harbiy kuchlari bilan Sitsiliya oroliga kelib tushgan?",
+   "options": [
+    "1859-yilda",
+    "1860-yilda",
+    "1861-yilda",
+    "1862-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sitsiliyada Juzeppe Garibaldini xalq ommasi kim sifatida kutib olgan?",
+   "options": [
+    "Bosqinchi",
+    "Jinoyatchi",
+    "Xaloskor",
+    "Isyonkor"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Juzeppe Garibaldi Sitsiliya qirolligining qaysi shahrini egallagan?",
+   "options": [
+    "Kataniya",
+    "Sirakuza",
+    "Palermo",
+    "Messina"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sitsiliyadan keyin Juzeppe Garibaldi qo'shini qaysi davlatga yurish qilgan va uni tugatgan?",
+   "options": [
+    "Genuya respublikasi",
+    "Sardiniya qirolligi",
+    "Toskana gersogligi",
+    "Neapol qirolligi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi sanada Viktor Emmanuil boshchiligida yagona Italiya qirolligi e'lon qilingan?",
+   "options": [
+    "1860-yil 17-mayda",
+    "1861-yil 17-martda",
+    "1862-yil 17-aprelda",
+    "1863-yil 17-iyulda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Viktor Emmanuil qaysi davlatning qiroli edi?",
+   "options": [
+    "Sardiniya qiroli",
+    "Neapol qiroli",
+    "Sitsiliya qiroli",
+    "Lombardiya qiroli"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Italiya qirolligi e'lon qilingach, … . 1) Qirol Viktor Emmanuil II nomi bilan taxtga o'tirgan; 2) Mamlakatda konstitutsiyaviy monarxiya qaror topgan; 3) Ikki palatali (Senat va Deputatlar palatasi) parlament joriy etilgan.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Italyan qo'mondoni, inqilobchi, siyosatchi, Risordjimento yetakchilaridan biri, Italiyaning milliy qahramoni va yozuvchi bo'lgan shaxsni toping.",
+   "options": [
+    "Juzeppe Garibaldi",
+    "Kamillo di Kavur",
+    "Viktor Emmanuil",
+    "Juzeppe Madzini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“1807, Nitsa – 1882, Kaprera oroli”. Ushbu ma'lumotlar kim haqida?",
+   "options": [
+    "Juzeppe Garibaldi",
+    "Kamillo di Kavur",
+    "Viktor Emmanuil",
+    "Juzeppe Madzini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Italiya qirolligi bosh vaziri K. Kavur Avstriya zulmiga qarshi kurashda qaysi davlat bilan shartnoma tuzishga erishgan?",
+   "options": [
+    "Rossiya",
+    "Prussiya",
+    "Fransiya",
+    "Ispaniya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Italiya qirolligi Venetsiyani egallagan?",
+   "options": [
+    "1861-yilda",
+    "1864-yilda",
+    "1866-yilda",
+    "1870-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Italiya qirolligi qaysi davlatga qarshi urush boshlab, Venetsiyani egallagan?",
+   "options": [
+    "Fransiya",
+    "Prussiya",
+    "Rossiya",
+    "Avstriya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Italiya qirolligi qaysi davlat ko'magida Venetsiyani egallagan?",
+   "options": [
+    "Fransiya",
+    "Prussiya",
+    "Angliya",
+    "Avstriya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Italiya qirolligi Savoyya va Nitsadan qaysi davlat foydasiga voz kechishga majbur bo'lgan?",
+   "options": [
+    "Fransiya",
+    "Prussiya",
+    "Angliya",
+    "Avstriya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Rim shahri Italiya qirolligining poytaxtiga aylangan?",
+   "options": [
+    "1861-yilda",
+    "1864-yilda",
+    "1866-yilda",
+    "1870-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi davlat o'z qo'shinlarini olib chiqqach, Rim shahri Italiya qirolligining poytaxtiga aylangan?",
+   "options": [
+    "Avstriya",
+    "Fransiya",
+    "Prussiya",
+    "Angliya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Italiyadagi qaysi shahar “Abadiy shahar” deb nom olgan?",
+   "options": [
+    "Venetsiya",
+    "Florensiya",
+    "Rim",
+    "Genuya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Birlashgan Italiya qirolligining oldida qanday muammolar turardi? 1) Shimol va Janub o'rtasida rivojlanishdagi katta farq; 2) Mamlakatda pulning yetishmasligi; 3) Dehqonlarning zodagonlarga qaramligi; 4) Saylov huquqining cheklanganligi.",
+   "options": [
+    "1, 2, 3",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Italiyani birlashtirish jarayonida qaysi ikkita masala hal etilgan?",
+   "options": [
+    "Sanoat inqilobini yakunlash va mamlakatning shimoli-sharqini avstriyaliklardan ozod qilish",
+    "Mamlakatning shimoli-sharqini avstriyaliklardan ozod qilish va milliy davlatni tashkil etish",
+    "Milliy davlatni tashkil etish va parlamentni joriy etish",
+    "Parlamentni joriy etish va sanoat inqilobini yakunlash"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Italiya birlashgandan so'ng, qanday sabab hukmron doiralarni bosqinchilikka, mustamlaka imperiyasini tuzishga chorlagan?",
+   "options": [
+    "Sanoatning sust taraqqiy etganligi",
+    "Ichki bozorning sust taraqqiy etganligi",
+    "Tashqi savdoning sust taraqqiy etganligi",
+    "Texnologiyalarning sust taraqqiy etganligi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "… – bu xususiy mulkni boshqarishning bir turi bo'lib, yirik yer egalari bo'lgan nemis zodagonlari xususiy xo'jaligining kapitalistik tarzda isloh qilingan shaklidir, ya'ni ular yollanma mehnatdan foydalanganlar, lekin shu bilan birga, krepostnoylar mehnatini ham saqlab qolganlar.",
+   "options": [
+    "Nemis xo'jaligi",
+    "Latifundiya xo'jaligi",
+    "Yunker xo'jaligi",
+    "Plantatsiya xo'jaligi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Karbonariylar” so'zi qaysi tildan olingan?",
+   "options": [
+    "Italyancha",
+    "Lotincha",
+    "Yunoncha",
+    "Fransuzcha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Italiyada karbonariylar yashirin inqilobiy jamiyati qaysi yillarda faoliyat yuritgan?",
+   "options": [
+    "1800–1825-yillarda",
+    "1802–1827-yillarda",
+    "1805–1830-yillarda",
+    "1807–1832-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Italiyada faoliyat yuritgan karbonariylar yashirin inqilobiy jamiyatining asosiy maqsadlari nimalar edi? 1) Monarxlar zulmini yengish; 2) Siyosiy huquqlarni qo'lga kiritish; 3) Konstitutsiyaviy hukumat o'rnatish.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 1
+  }
+ ]
+}

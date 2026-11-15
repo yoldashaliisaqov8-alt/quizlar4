@@ -1,0 +1,410 @@
+{
+ "title": "8-sinf · O'rta asrlar Yevropa aholisining kundalik hayoti",
+ "time": 30,
+ "questions": [
+  {
+   "q": "O'rta asr jarrohlik asboblari qanday holatda bo'lgan.",
+   "options": [
+    "Doimiy kaynatilgan",
+    "Maxsus shifoxonada saqlangan",
+    "Kumush bilan qoplangan",
+    "Hech biri tibbiy tozalanmagan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diagrammada dehqonlar hayotiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "1, 4",
+    "1, 2",
+    "2, 4",
+    "2, 3"
+   ],
+   "answer": 0,
+   "image": "img/j8-20-02.jpg"
+  },
+  {
+   "q": "Turnirda ritsarlarni bir-biridan nima farqlab turgan.",
+   "options": [
+    "Sovutlarining og'irligi",
+    "Qurollarining turi",
+    "Otlarining soni",
+    "Rang-barang ramzlari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Dehqonlar chorva mollarini qaysi oyda so'yib, go'shtini tuzlagan.",
+   "options": [
+    "Fevralda",
+    "Noyabrda",
+    "Oktyabrda",
+    "Avgustda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Malakali shifokorlar qaysi allomalarning asarlaridan xabardor edi.",
+   "options": [
+    "Ptolemey va Gerodot",
+    "Aristotel va Platon",
+    "Evklid va Arximed",
+    "Gippokrat va Galen"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Aholi ommaviy ravishda ibodatga qaysi kunlari borgan.",
+   "options": [
+    "Faqat yilning boshida",
+    "Yakshanba va diniy bayram kunlari",
+    "Har kuni ertalab",
+    "Faqat juma kuni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada zodagonlar hayotiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "1, 2",
+    "3, 4",
+    "1, 4",
+    "2, 3"
+   ],
+   "answer": 1,
+   "image": "img/j8-20-07.jpg"
+  },
+  {
+   "q": "XII asrdan boshlab lotin tiliga qaysi Sharq allomalarining asarlari tarjima qilindi.",
+   "options": [
+    "Farobiy va Ulug'bek",
+    "Al-Xorazmiy va Beruniy",
+    "Ibn Rushd va Ibn Xaldun",
+    "Abu Ali ibn Sino va Abu Bakr ar-Roziy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bazmlarda zodagonlar qanday joyda o'tirgan.",
+   "options": [
+    "Eshik oldida",
+    "Boshqalardan balandroq joyda",
+    "Alohida xonada",
+    "Dasturxon markazida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta asrlarda zodagonlar va oddiy aholi kiyinishining farqlanishi nima asosida tartibga solingan.",
+   "options": [
+    "Savdogarlar kelishuvi asosida",
+    "Qonunlar asosida",
+    "Cherkov farmoni asosida",
+    "An'ana asosida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada ritsarlarga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "2, 3",
+    "1, 3",
+    "2, 4",
+    "1, 2"
+   ],
+   "answer": 3,
+   "image": "img/j8-20-11.jpg"
+  },
+  {
+   "q": "Kambag'allar qaysi bayramlarda o'yin-kulgi va musobaqalarda qatnasha olgan.",
+   "options": [
+    "Turnirlarda",
+    "Nikoh bazmlarida",
+    "Toj kiyish marosimida",
+    "O'rim-yig'im paytidagi maxsus bayramlarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ritsar qoidalari to'plami nima deb atalgan.",
+   "options": [
+    "Katta xartiya",
+    "Manor nizomi",
+    "Ritsarlik kodeksi",
+    "Turnir qonuni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Karantin nimani anglatadi.",
+   "options": [
+    "Savdogarlarga soliq solish",
+    "Shaharlarni butunlay yopib qo'yish",
+    "Chegara hududlarida odamlar va tovarlarni 40 kun ushlab turish",
+    "Kasallarni shahardan haydab chiqarish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ruhoniylar cherkovlarda nimalarni qayd etib borgan.",
+   "options": [
+    "Urush va sulhlarni",
+    "Tug'ilish va o'limlarni",
+    "Soliq va qarzlarni",
+    "Yer va mulkni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Boylar qaysi mashg'ulotlarda imtiyozga ega bo'lgan.",
+   "options": [
+    "Dehqonchilik va chorvachilikda",
+    "Savdo va hunarmandchilikda",
+    "Kulolchilik va to'quvchilikda",
+    "Ov va shaxmat o'ynashda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Manorning markazi nima bo'lgan.",
+   "options": [
+    "Qal'a yoki qasr",
+    "Cherkov",
+    "Bozor",
+    "Dehqon qishlog'i"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dehqonlar suli, arpa, no'xat va loviya ekish uchun yerni qaysi oylarda shudgor qilgan.",
+   "options": [
+    "Noyabrda",
+    "Avgust va sentyabrda",
+    "Oktyabrda",
+    "Fevral va martda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qasrning ikkinchi qavatida nimalar joylashgan.",
+   "options": [
+    "Oshxona va katta zal",
+    "Omborxona va hammom",
+    "Katta bazmlar zali, yotoqxonalar, xizmatkorlar xonasi",
+    "Cherkov va kutubxona"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dabdabali ziyofatlar va bazmlarni asosan kimlar uyushtirgan.",
+   "options": [
+    "Ritsarlar va xizmatkorlar",
+    "Qirollar va yirik zodagonlar",
+    "Dehqonlar va hunarmandlar",
+    "Ruhoniylar va savdogarlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Salerno maktabi 1213-yilda qanday maqomga ega bo'ldi.",
+   "options": [
+    "Kasalxona maqomiga",
+    "Qirollik akademiyasi maqomiga",
+    "Universitet maqomiga",
+    "Monastir maqomiga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rus, ukrain, belarus tillari qaysi tillar oilasiga mansub.",
+   "options": [
+    "Hind-yevropa",
+    "Ural",
+    "Semit",
+    "Oltoy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qasrning birinchi qavatida nima joylashgan.",
+   "options": [
+    "Bazmlar zali",
+    "Xizmatkorlar xonasi",
+    "Oshxona va katta zal",
+    "Yotoqxonalar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Salerno tibbiyot maktabi qaysi asrda paydo bo'lgan.",
+   "options": [
+    "IX asrda",
+    "XV asrda",
+    "XIII asrda",
+    "XII asrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Frumentiy dastlab kimlarning taomi hisoblangan.",
+   "options": [
+    "Ritsarlarning",
+    "Zodagonlarning",
+    "Ruhoniylarning",
+    "Dehqonlarning"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ritsarlik unvoniga necha yoshdan oshgan yigitlar sazovor bo'lishi mumkin edi.",
+   "options": [
+    "Yigirma yoshdan",
+    "O'n olti yoshdan",
+    "O'n to'rt yoshdan",
+    "O'n sakkiz yoshdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada tibbiyotga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "1, 3",
+    "2, 4",
+    "2, 3",
+    "1, 2"
+   ],
+   "answer": 0,
+   "image": "img/j8-20-27.jpg"
+  },
+  {
+   "q": "Oddiy xalqning asosiy taomi nima edi.",
+   "options": [
+    "Sabzavotli sho'rva",
+    "Go'sht",
+    "Bug'doy, javdar, arpa, tariq va sulidan tayyorlangan non",
+    "Baliq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'rta asrlarda Yevropa aholisi qaysi ijtimoiy toifalarga bo'lingan.",
+   "options": [
+    "Ruhoniylar, zodagonlar, harbiylar, ozod va qaram dehqonlar, hunarmand va savdogarlar",
+    "Ruhoniylar, amaldorlar va savdogarlar",
+    "Qullar, ozodlar va hunarmandlar",
+    "Faqat zodagonlar va dehqonlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dastlab qal'a va qasrlar nimadan qurilgan.",
+   "options": [
+    "Yog'ochdan",
+    "Loydan",
+    "G'ishtdan",
+    "Toshdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Operatsiyalar vaqtida kambag'allarga nima tishlatilgan.",
+   "options": [
+    "Doka bog'lami",
+    "Giyoh damlamasi",
+    "Bir qultum vino",
+    "Bir bo'lak yog'och"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Turnirda ritsarlar qanday kurashgan.",
+   "options": [
+    "Kamon otib bellashgan",
+    "Kurash tushgan",
+    "Nayza yordamida raqibni otdan yiqitishga harakat qilgan",
+    "Qilich bilan piyoda jang qilgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Zodagon ayollar qanday matolardan kiyim kiyishi mumkin edi.",
+   "options": [
+    "Charm va mo'ynadan",
+    "Jun va zig'irdan",
+    "Nafis matolar va baxmaldan",
+    "Faqat ipakdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Badavlat kishilar hammomda suvga nima qo'shgan.",
+   "options": [
+    "Xushbo'y moylar, atirgul barglari yoki yalpiz",
+    "Vino va shakar",
+    "Sut va asal",
+    "Tuz va sirka"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bazmlarda quyidagilardan qaysi biri qatnashmagan.",
+   "options": [
+    "Qo'shiqchilar",
+    "Dehqonlar xori",
+    "Hikoyachilar",
+    "Masxarabozlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kambag'al dehqonlarning uylari qanday bo'lgan.",
+   "options": [
+    "Bir xonali",
+    "Tosh qal'a shaklida",
+    "Ikki qavatli",
+    "Uch xonali"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dehqonlar g'alla yig'im-terimini qaysi oylarda o'tkazgan.",
+   "options": [
+    "Avgust va sentyabrda",
+    "Fevral va martda",
+    "Iyun boshida",
+    "Noyabrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Lord” atamasining izohini aniqlang.",
+   "options": [
+    "Manor xizmatkori",
+    "Cherkov boshlig'i",
+    "G'arbiy Yevropada yirik mulkdor, zodagon, gersog va graflarga hurmat ma'nosida ishlatilgan",
+    "Ritsarlik unvoniga nomzod"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Zodagonlar urushga ketganida manorni kimlar boshqargan.",
+   "options": [
+    "Dehqonlar",
+    "Xotinlari yoki qizlari",
+    "Xizmatkorlar",
+    "Ruhoniylar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Frumentiy nimadan tayyorlangan.",
+   "options": [
+    "Makkajo'xoridan",
+    "Guruchdan",
+    "Qaynatilgan bug'doydan",
+    "Arpa unidan"
+   ],
+   "answer": 2
+  }
+ ]
+}

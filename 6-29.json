@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 32-mavzu. Qadimgi Yunoniston afsonalari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Afsonalar yunon tilida qanday ataladi?",
+   "options": [
+    "“Epos”",
+    "“Mif”",
+    "“Polis”",
+    "“Logos”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yunon afsonalari nimalar haqida hikoya qiladi?",
+   "options": [
+    "Faqat urushlar haqida",
+    "Faqat podsholar hayoti haqida",
+    "Olamning yaratilishi, hayot va odamning paydo bo'lishi, qahramonlar jasorati va dengiz sayohatlari haqida",
+    "Faqat savdo haqida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikda yunon afsonalariga qanday baho berilgan?",
+   "options": [
+    "Faqat ilmiy",
+    "Zerikarli va bir xil",
+    "Faqat qo'rqinchli",
+    "Rang-barang va qiziqarli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Afsonalarga ko'ra azalda Yer qanday bo'lgan?",
+   "options": [
+    "Tog'lardan iborat bo'lgan",
+    "Hamma tomondan dengizlar bilan o'ralgan",
+    "Olovdan iborat bo'lgan",
+    "Muz bilan qoplangan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Afsonalarga ko'ra dengizlarning dastlabki hukmdori kim bo'lgan?",
+   "options": [
+    "Atlant",
+    "Titan Okean",
+    "Zevs",
+    "Poseydon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi titan osmon gumbazini yelkasida suyab turgan?",
+   "options": [
+    "Prometey",
+    "Atlant",
+    "Okean",
+    "Kron"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yunon rivoyatlarida jasorati hikoya qilinadigan bahodir qahramonlarni aniqlang.",
+   "options": [
+    "Perikl va Solon",
+    "Leonid va Demosfen",
+    "Gerodot va Arximed",
+    "Gerakl va Axilles"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Afsonaviy qahramonlarga xos fazilatlarni toping.",
+   "options": [
+    "Matonat, kuch-qudrat va aql-zakovat",
+    "Boylik va dabdaba",
+    "Ayyorlik va xiyonat",
+    "Qo'rqoqlik va dangasalik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afsonaga ko'ra Gerakl nima tufayli Olimp tog'idagi xudolar saltanatida faxrli o'ringa ega bo'lgan?",
+   "options": [
+    "Troyani bosib olgani tufayli",
+    "Zevsning o'g'li bo'lgani tufayli",
+    "Olimpiya o'yinlarida g'alaba qozongani tufayli",
+    "O'n ikki jasorati tufayli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi yunonlar hayoti va tevarak-olam nimaga tobe ekanligiga ishongan?",
+   "options": [
+    "Atomlarga",
+    "Kohinlarga",
+    "Podsholarga",
+    "Ko'zga ko'rinmas sirli kuchlarga – xudolarga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi yunonlarning olamga hukmronlik qilgan uch ilohi va ularning hududlari to'g'ri berilgan javobni toping.",
+   "options": [
+    "Zevs – osmonda, Poseydon – dengizda, Aid – marhumlar saltanatida",
+    "Apollon – osmonda, Ares – dengizda, Aid – yerosti saltanatida",
+    "Zevs – dengizda, Poseydon – osmonda, Aid – yer yuzida",
+    "Zevs – osmonda, Aid – dengizda, Poseydon – marhumlar saltanatida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yunonlarning oliy xudosi kim deb hisoblangan?",
+   "options": [
+    "Zevs",
+    "Apollon",
+    "Poseydon",
+    "Aid"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Poseydon qayerda hukmronlik qilgan?",
+   "options": [
+    "Dengizda",
+    "Marhumlar saltanatida",
+    "O'rmonlarda",
+    "Osmonda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Aid qayerda hukmronlik qilgan?",
+   "options": [
+    "Olimp tog'ida",
+    "Osmonda",
+    "Dengizda",
+    "Marhumlar saltanatida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qolgan yunon ma'budlari nimalarning homiylari hisoblangan?",
+   "options": [
+    "Faqat urush va g'alaba",
+    "Dehqonchilik va hunarmandchilik, san'at va she'riyat, muhabbat va go'zallik",
+    "Faqat dengiz savdosi",
+    "Faqat marhumlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rmonlar, daryolar va tog'larda yashagan deb tasavvur qilingan ikkinchi darajali ma'budlar qanday atalgan?",
+   "options": [
+    "Sikloplar va kentavrlar",
+    "Satirlar va nimfalar",
+    "Sirenalar va harpiyalar",
+    "Titanlar va gigantlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yunonlar tasavvuriga ko'ra ma'budlar qayerda yashagan?",
+   "options": [
+    "Shimoliy Yunonistondagi Olimp tog'ida",
+    "Afinadagi Akropolda",
+    "Dengiz tubida",
+    "Krit orolida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yunonlar Olimp ma'budlarini qanday tasavvur qilgan?",
+   "options": [
+    "Odamlardek qizg'anchiq va shafqatsiz, bazm va o'yin-kulgida, bir-biri bilan tortishadigan",
+    "Faqat mehribon va adolatli",
+    "Hech qanday his-tuyg'usiz",
+    "Hayvon qiyofasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nima uchun yunonlar xudolar sharafiga ko'plab ibodatxonalar barpo etib, qurbonliklar qilgan?",
+   "options": [
+    "Bu davlat qonuni bo'lgan",
+    "Xudolar ularga boylik bergan",
+    "Kohinlar majburlagan",
+    "O'zlari yaratgan xudolardan qo'rqqan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Afsonaviy mavjudotlar va ularning tasviri to'g'ri moslashtirilgan javobni aniqlang.\n1) Kentavrlar; 2) Sirenalar; 3) Sikloplar.\na) peshanasida bitta ko'zi bo'lgan bahaybat mavjudotlar; b) yarim ot, yarim odam; c) yarim qush, yarim ayol; d) gigantlar.",
+   "options": [
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c",
+    "1-d, 2-c, 3-a",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Kentavr” qanday mavjudot?",
+   "options": [
+    "Yarim ot, yarim odam",
+    "Yarim qush, yarim ayol",
+    "Osmonni ko'tarib turgan titan",
+    "Bitta ko'zli bahaybat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikda sanalgan Olimp xudolarini aniqlang.\n1) Zevs; 2) Gera; 3) Ra; 4) Afina; 5) Ishtar; 6) Apollon.",
+   "options": [
+    "1, 2, 3, 6",
+    "1, 3, 4, 5",
+    "1, 2, 4, 6",
+    "2, 3, 5, 6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Afsonalar Qadimgi Yunoniston tarixini o'rganishda qanday ahamiyatga ega?",
+   "options": [
+    "Yunonlar tarixidagi qadimgi davr haqida ko'p narsalarni bilishga imkon beradi",
+    "Faqat diniy kitob sifatida ahamiyatli",
+    "Hech qanday ahamiyatga ega emas",
+    "Faqat bolalar uchun ertak hisoblanadi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yunon afsonalarida tabiat hodisalari qanday tushuntirilgan?",
+   "options": [
+    "Atomlar harakati orqali",
+    "Podsholar farmonlari orqali",
+    "Xudolar va titanlarning faoliyati orqali",
+    "Olimlarning tajribalari orqali"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darslikda tasvirlangan Gerakl jasoratlari soni nechta?",
+   "options": [
+    "10 ta",
+    "12 ta",
+    "7 ta",
+    "3 ta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi mavjudotlar “gigantlar” deb ham atalgan?",
+   "options": [
+    "Titanlar",
+    "Sirenalar",
+    "Kentavrlar",
+    "Nimfalar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qadimgi yunon e'tiqodiga oid noto'g'ri fikrni aniqlang.",
+   "options": [
+    "Zevs oliy xudo bo'lgan",
+    "Yunonlar xudolardan qo'rqib, qurbonliklar qilgan",
+    "Yunonlar yagona xudoga e'tiqod qilgan",
+    "Ma'budlar Olimp tog'ida yashagan deb hisoblangan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nXudo yoki titan | Hukmronlik yoki vazifa\nZevs | 1) ________\n2) ________ | dengiz\nAtlant | 3) ________\na) osmon, oliy xudo; b) Poseydon; c) osmon gumbazini yelkasida suyab turgan; d) Aid; e) marhumlar saltanati; f) dengizlarning dastlabki hukmdori.",
+   "options": [
+    "1-a, 2-b, 3-f",
+    "1-a, 2-b, 3-c",
+    "1-e, 2-b, 3-c",
+    "1-a, 2-d, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nAfsonaviy mavjudot | Tasviri\nSirenalar | A\nB | yarim ot, yarim odam\nSikloplar | C\n1) yarim qush, yarim ayol; 2) kentavrlar; 3) peshanasida bitta ko'zi bor bahaybat; 4) nimfalar; 5) osmonni ko'tarib turgan; 6) titanlar.",
+   "options": [
+    "A-5, B-2, C-3",
+    "A-1, B-6, C-3",
+    "A-1, B-2, C-4",
+    "A-1, B-2, C-3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Yunoniston afsonalariga oid to'g'ri hukmlarni aniqlang.\nI. Atlant osmon gumbazini yelkasida suyab turgan.\nII. Aid dengiz xudosi bo'lgan.\nIII. Gerakl o'n ikki jasorati tufayli Olimpda faxrli o'rin olgan.\nIV. Yunonlar ma'budlarni faqat mehribon deb bilgan.",
+   "options": [
+    "II va IV",
+    "III va IV",
+    "I va III",
+    "I va II"
+   ],
+   "answer": 2
+  }
+ ]
+}

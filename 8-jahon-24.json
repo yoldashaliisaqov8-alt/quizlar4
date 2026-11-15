@@ -1,0 +1,410 @@
+{
+ "title": "8-sinf · Yevropada me'morchilik va san'at",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Sobor” atamasining izohini aniqlang.",
+   "options": [
+    "Feodal qal'asi",
+    "Oliy martabali ruhoniylar boshchilik qiladigan yirik ibodatxona",
+    "Qirol saroyi",
+    "Shahar meriyasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Gotika cherkovlarining baland qilib qurilishi nimadan dalolat bergan.",
+   "options": [
+    "Qirolning g'alabasidan",
+    "Papaning kuchidan",
+    "Shaharlarning kuchi va boyligidan",
+    "Ritsarlar jasoratidan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'rta asrlarda tasviriy san'at va haykaltaroshlik kimning maqsadlariga yo'naltirilgan holda rivojlandi.",
+   "options": [
+    "Cherkovning",
+    "Ritsarlarning",
+    "Savdogarlarning",
+    "Qirolning"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Roman uslubidagi cherkovlarda tomni ushlab turish uchun nimadan foydalanishgan.",
+   "options": [
+    "Yarim arkali tayanch ustunlardan",
+    "Metall karkasdan",
+    "Katta ustun va qalin devorlardan",
+    "Yog'och to'sinlardan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Gotika uslubi qaysi asrda mukammallikka erishgan.",
+   "options": [
+    "XII asrda",
+    "XIV asrda",
+    "XIII asrda",
+    "XV asrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dastlab qaysi mamlakatda tosh yetishmasligi tufayli gotika inshootlari g'ishtdan qurilgan.",
+   "options": [
+    "Fransiyada",
+    "Germaniyada",
+    "Italiyada",
+    "Angliyada"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Gotika cherkovlari minoralarining balandligi qanchagacha bo'lgan.",
+   "options": [
+    "15 m gacha",
+    "150 m gacha",
+    "50 m gacha",
+    "500 m gacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada roman uslubiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "3, 4",
+    "2, 4",
+    "1, 3",
+    "1, 2"
+   ],
+   "answer": 3,
+   "image": "img/j8-24-08.jpg"
+  },
+  {
+   "q": "Gotika cherkovlarini balandroq qilish imkonini nima bergan.",
+   "options": [
+    "Kuchli tayanchlar ustiga arkali gumbaz va uchli yoylar o'rnatish",
+    "Yog'ochdan foydalanish",
+    "Devorlarni qalinlashtirish",
+    "Derazalarni kamaytirish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Barbakan” atamasi nimani anglatadi.",
+   "options": [
+    "Qal'a darvozasi",
+    "Qal'a oldidagi xandaq",
+    "Qal'a devorining yuqori qismidagi ilmoqli bo'shliq",
+    "Qal'a devoridan bo'rtib chiqqan dumaloq mudofaa minorasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Parijdagi Shartr soborida nechtadan ortiq haykal va turli rasmlar bo'lgan.",
+   "options": [
+    "O'n mingdan ortiq",
+    "Bir mingdan ortiq",
+    "Yuz mingdan ortiq",
+    "Bir yuzdan ortiq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qal'aning kirish darvozasini himoya qilish uchun nima barpo etilgan.",
+   "options": [
+    "Vitraj",
+    "Barbakan",
+    "Mashikuli",
+    "Arka"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta asrlarda “tasvir ... uchun adabiyotdir” deyilgan. Bo'sh joyni to'ldiring.",
+   "options": [
+    "Ruhoniylar",
+    "Savodsizlar",
+    "Savdogarlar",
+    "Ritsarlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jonglyor, shpilman va menestrellar faoliyatining gullagan davri qaysi asrlarga to'g'ri keladi.",
+   "options": [
+    "XVI–XVII asrlarga",
+    "XI–XII asrlarga",
+    "XIII–XV asrlarga",
+    "IX–XI asrlarga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qal'aga bostirib kelgan dushmanga qaynoq suv va mum quyish uchun nimadan foydalanilgan.",
+   "options": [
+    "Mashikulilardan",
+    "Xandaqdan",
+    "Barbakandan",
+    "Vitrajdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kusi qal'asi atrofi nima bilan o'ralgan edi.",
+   "options": [
+    "Daryo bilan",
+    "Suv to'ldirilgan chuqur xandaq bilan",
+    "Tosh devor bilan",
+    "Yog'och panjara bilan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qo'g'irchoqlar yordamida tomosha ko'rsatish san'ati qaysi asrlarda paydo bo'lgan.",
+   "options": [
+    "XVI asrda",
+    "X–XI asrlarda",
+    "XII–XIII asrlarda",
+    "XIV–XV asrlarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "X–XIII asrlardagi Yevropa cherkovlari qaysi uslubda qurilgan.",
+   "options": [
+    "Roman uslubida",
+    "Barokko uslubida",
+    "Vizantiya uslubida",
+    "Gotika uslubida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gotika inshootlarining ko'rkam bo'lishida kimlarning o'rni alohida bo'lgan.",
+   "options": [
+    "Faqat me'morlarning",
+    "Sangtarosh, haykaltarosh va vitraj rassomlarining",
+    "Faqat ruhoniylarning",
+    "Faqat qirollarning"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada gotika uslubiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "3, 4",
+    "2, 4",
+    "1, 4",
+    "1, 3"
+   ],
+   "answer": 2,
+   "image": "img/j8-24-20.jpg"
+  },
+  {
+   "q": "Kusi qal'asi markaziy minorasining balandligi qancha edi.",
+   "options": [
+    "150 m",
+    "31 m",
+    "64 m",
+    "7 m"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ko'ngilochar tomosha qo'yishni kasb qilgan kishilar Fransiyada qanday atalgan.",
+   "options": [
+    "Masxaraboz",
+    "Shpilman",
+    "Menestrel",
+    "Jonglyor"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diagrammada feodal qal'alarga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "2, 4",
+    "2, 3",
+    "1, 3",
+    "1, 4"
+   ],
+   "answer": 0,
+   "image": "img/j8-24-23.jpg"
+  },
+  {
+   "q": "Gotika cherkovlari devorlari yupqa bo'lgani uchun nima bilan to'ldirilgan.",
+   "options": [
+    "Toshdan naqshlar bilan",
+    "Yog'och panellar bilan",
+    "Haykallar bilan",
+    "Vitrajli oynalar bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Angliyadagi gotika yodgorliklarini aniqlang.",
+   "options": [
+    "Milan sobori va Shartr sobori",
+    "Notr-Dam va Reyms",
+    "Vestminster abbatligi va Linkoln sobori",
+    "Vorms va Mayns soborlari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Italiyadagi gotika yodgorligi qaysi.",
+   "options": [
+    "Linkoln sobori",
+    "Milan sobori",
+    "Notr-Dam",
+    "Reyms sobori"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Cherkov binolari qanday hikoyalarni aks ettirgan haykal, barelyef va rasmlar bilan bezatilgan.",
+   "options": [
+    "Ritsarlar jangini",
+    "Mifologik hikoyalarni",
+    "Qirollar tarixini",
+    "Injildan olingan hikoyalarni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Dastlab feodal qal'alar nimadan qurilgan.",
+   "options": [
+    "Loydan",
+    "Toshdan",
+    "Yog'ochdan",
+    "G'ishtdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Gotika uslubi qaysi asrda paydo bo'lgan.",
+   "options": [
+    "XII asrda",
+    "XV asrda",
+    "X asrda",
+    "XIV asrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ruhoniylarning sahnaga chiqishi nima sababdan taqiqlangan.",
+   "options": [
+    "Rim papasining farmoni bilan",
+    "Ritsarlar talabi bilan",
+    "Qirol farmoni bilan",
+    "Shahar kengashi qarori bilan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilardan qaysi biri Fransiyadagi gotika sobori.",
+   "options": [
+    "Vorms, Mayns",
+    "Vestminster, Linkoln",
+    "Milan, Piza",
+    "Notr-Dam, Reyms, Shartr"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Dastlab Injil voqealaridan parchalarni qayerda sahnalashtirishgan.",
+   "options": [
+    "Shahar ko'chalarida",
+    "Cherkov binosining ayvonlarida",
+    "Saroy zallarida",
+    "Bozor maydonlarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Gotikaning dunyoviy binolariga qaysilar kiradi.",
+   "options": [
+    "Milan sobori va Linkoln sobori",
+    "Notr-Dam va Reyms sobori",
+    "Bryusseldagi shahar meriyasi va Ambuazdagi Qirollik qal'asi",
+    "Kusi qal'asi va Shartr sobori"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada sayyor aktyorlarga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "3, 4",
+    "2, 4",
+    "1, 3",
+    "1, 4"
+   ],
+   "answer": 3,
+   "image": "img/j8-24-34.jpg"
+  },
+  {
+   "q": "Cherkov dastlab qanday tomoshalarni yo'q qila olmadi.",
+   "options": [
+    "Qo'g'irchoq teatrini",
+    "Turnirlarni",
+    "Jonglyorlarning chiqishlarini",
+    "Sirk tomoshalarini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ulkan vitrajlarda nimalar tasvirlangan.",
+   "options": [
+    "Faqat tabiat manzaralari",
+    "Faqat jang manzaralari",
+    "Faqat qirollar portretlari",
+    "Kitoblardan lavhalar, shahar turmushi, ritsarlik musobaqalari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Haykaltaroshlar haykallarda nimani aks ettirgan.",
+   "options": [
+    "Azob-uqubat, tushkunlik yoki xursandlik kabi hissiy holatlarni",
+    "Faqat qirollar qiyofasini",
+    "Faqat ritsarlarning qurollarini",
+    "Faqat tabiat manzaralarini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Birinchi g'ishtli gotika ibodatxonasi qayerda va qachon qurilgan.",
+   "options": [
+    "XII asrda Parijda",
+    "XIII asrda Vestminsterda",
+    "XIV asrda Milanda",
+    "XIII asrda Lyubekdagi cherkovda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Roman uslubidagi cherkov xonalari nima uchun qorong'i bo'lgan.",
+   "options": [
+    "Derazalar uchun kam joy qoldirilgani bois",
+    "Derazalar vitrajli bo'lgani bois",
+    "Tomi shaffof bo'lgani bois",
+    "Derazalar bo'lmagani bois"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Roman uslubidagi inshootlar tuzilishining asosini nima tashkil etgan.",
+   "options": [
+    "Uchli yoylar va vitrajlar",
+    "Arkali gumbaz va minoralar",
+    "Yog'och ustunlar",
+    "Yarim arkali tayanchlar"
+   ],
+   "answer": 1
+  }
+ ]
+}

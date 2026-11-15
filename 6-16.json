@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 16-mavzu. Qadimgi Hindiston madaniyati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qadimgi Hindistonda ilm-fanning qaysi sohalari yuksalgan?",
+   "options": [
+    "Falsafa va tarix",
+    "Geometriya va arxitektura",
+    "Astronomiya va matematika",
+    "Kimyo va fizika"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hindlar tuzgan taqvim necha kundan tarkib topgan?",
+   "options": [
+    "354 kun",
+    "365 kun",
+    "360 kun",
+    "366 kun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hindlarning sanash tizimiga xos xususiyat nima?",
+   "options": [
+    "Rim raqamlaridan foydalangan",
+    "Harflar bilan sanagan",
+    "Faqat o'ngacha sanashni bilgan",
+    "Juda katta raqamlarni bildiruvchi alohida belgilarni ishlatgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hind astronomlari nimalarni o'rgangan?",
+   "options": [
+    "Faqat Nil toshqinini",
+    "Quyosh, yulduzlar va sayyoralar harakatini",
+    "Zilzilalarni",
+    "Faqat Oy harakatini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hind astronomlari kuzatuvlari natijalari nimani aniqlashga imkon berdi?",
+   "options": [
+    "Zilzila vaqtini",
+    "Yil uzunligini",
+    "Daryo toshqinlarini",
+    "Yer bilan Oy orasidagi masofani"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindlarga Oy yog'dusi haqida nima ma'lum bo'lgan?",
+   "options": [
+    "U Oyning o'z nuri ekanligi",
+    "U Oy sirtiga tushgan quyosh nurining akslanishi ekanligi",
+    "U yulduzlar nuri ekanligi",
+    "U ma'budlar nuri ekanligi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Hindiston tibbiyotiga oid to'g'ri fikrni toping.",
+   "options": [
+    "Faqat duolar bilan davolangan",
+    "Tibbiyot umuman rivojlanmagan",
+    "Jarrohlik taqiqlangan",
+    "Yozma manbalarda turli kasalliklar va jarrohlik asboblari tilga olingan, shifobaxsh dorilar ishlatilgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hindistonda ixtiro qilingan, hindlarning o'zi “qo'shinlarning to'rt turi” deb atagan o'yin bugun qanday nom bilan mashhur?",
+   "options": [
+    "Domino",
+    "Nard",
+    "Shaxmat",
+    "Shashka"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimiy hind tillari asosida ishlab chiqilgan yangi adabiy til qanday nomlanadi?",
+   "options": [
+    "Hindi",
+    "Urdu",
+    "Sanskrit",
+    "Pali"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sanskrit tilida yozilgan dostonlarni aniqlang.",
+   "options": [
+    "“Mahabharata” va “Ramayana”",
+    "“Gilgamish” va “Avesto”",
+    "“Bibliya” va “Veda”",
+    "“Iliada” va “Odisseya”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hindistonda yangi din – buddaviylik qachon yaratilgan?",
+   "options": [
+    "Mil. avv. VI asrda",
+    "Milodiy I asrda",
+    "Mil. avv. 3-mingyillikda",
+    "Mil. avv. III asrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Buddaviylik asoschisi kim?",
+   "options": [
+    "Oliy ma'bud Brahma",
+    "Podsho Ashoka",
+    "Budda taxallusini olgan shahzoda Siddhartha Gautama",
+    "Kohin Ganesha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Siddhartha Gautama nechchi yoshgacha saroyda betashvish kun kechirgan?",
+   "options": [
+    "20 yoshga to'lguniga qadar",
+    "30 yoshgacha",
+    "10 yoshgacha",
+    "40 yoshgacha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Siddhartha Gautamaning hayotini tamomila o'zgartirib yuborgan voqea nima?",
+   "options": [
+    "Sayr paytida munkillagan, bedavo kishiga va dafn marosimiga ko'zi tushib, inson azob chekishi va vafot etishini anglashi",
+    "Ma'budning tushiga kirishi",
+    "Urushda yengilishi",
+    "Otasining taxtdan ag'darilishi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Saroydan chiqqan Siddhartha Gautama nima qildi?",
+   "options": [
+    "Yangi davlat tuzdi",
+    "Hayot mazmunini izlab dunyo bo'ylab sayohatga otlandi",
+    "Qo'shin to'plab, urush boshladi",
+    "Kohinlar maktabiga o'qishga kirdi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Budda” taxallusi qanday ma'noni anglatadi?",
+   "options": [
+    "“Osmon o'g'li”",
+    "“Ma'rifatga erishgan”",
+    "“Donishmand fil”",
+    "“Hazar qilinadigan”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Budda qanday xulosaga kelgan?",
+   "options": [
+    "Inson son-sanoqsiz marotaba tug'iladi va vafot etadi, keyingi hayoti uning amallariga bog'liq",
+    "Kastalar abadiy o'zgarmasdir",
+    "Insonning taqdiri faqat ma'budlarga bog'liq",
+    "Inson bir marta yashaydi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Buddaviylar inson nimalardan saqlanishi kerak deb hisoblaydi?\n1) yolg'on so'zlashdan; 2) mol-davlat to'plashdan; 3) tirik mavjudotlar qonini to'kishdan; 4) savdo qilishdan.",
+   "options": [
+    "2, 3, 4",
+    "1, 3, 4",
+    "1, 2, 3",
+    "1, 2, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buddaviylar nima uchun inson har qanday xohish-istaklaridan voz kechishi zarur deb hisoblagan?",
+   "options": [
+    "Xohish-istaklar boylikni kamaytiradi",
+    "Xohish-istaklar kastalarni buzadi",
+    "Har qanday xohish-istak azob-uqubatga olib keladi",
+    "Xohish-istaklar ma'budlarni g'azablantiradi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nima uchun buddaviylik “xudolarsiz din” deb atalgan?",
+   "options": [
+    "Avvaliga buddaviylar e'tiqodida ma'bud bo'lmagan, chunki ma'budlar inson azoblarini yengillashtira olmaydi deb hisoblangan",
+    "Buddaviylar ibodatxona qurmagan",
+    "Buddaviylar hech qanday qoidaga amal qilmagan",
+    "Buddaviylikni podsholar taqiqlagan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Keyinchalik buddaviylikda qanday o'zgarish yuz berdi?",
+   "options": [
+    "Buddaviylik butunlay yo'qoldi",
+    "Buddaning o'ziga sig'inish boshlandi",
+    "Brahmaga sig'inish boshlandi",
+    "Kastalar tizimi joriy etildi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Budda haykallarda qanday holatda tasvirlanadi?",
+   "options": [
+    "Nilufar gulida teran o'ylarga cho'mgancha chordana qurib o'tirgan holatda",
+    "Oltin aravada osmon bo'ylab ketayotgan holatda",
+    "Taxtda toj kiyib o'tirgan holatda",
+    "Fil ustida jang qilayotgan holatda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikda ko'rsatilgan Budda haykali qayerda joylashgan?",
+   "options": [
+    "Mohenjodaroda",
+    "Pataliputrada",
+    "Xarappada",
+    "Bodh Gayadagi Mahabodhi ibodatxonasi yaqinida, Hindistonda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi hindlarning ixtirolarini aniqlang.\n1) shaxmat; 2) raqamlar; 3) kompas; 4) qog'oz; 5) seysmograf.",
+   "options": [
+    "1, 2",
+    "4, 5",
+    "1, 3",
+    "3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qadimgi hindlarning yutuqlariga oid noto'g'ri fikrni toping.",
+   "options": [
+    "Hindlar sanskrit tilini ishlab chiqqan",
+    "Hindlar Oy yog'dusi akslangan quyosh nuri ekanini bilgan",
+    "Hindlar shaxmatni ixtiro qilgan",
+    "Hindlar yilni 365 kun deb hisoblagan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mil. avv. VI asrda Hindistonda qanday voqea yuz berdi?",
+   "options": [
+    "Hind vodiysi shaharlari vayron bo'ldi",
+    "Buddaviylik dini yaratildi",
+    "Mohenjodaro qurildi",
+    "Shaxmat ixtiro qilindi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buddaviylik va hind kastalari tizimini taqqoslang: buddaviylikka xos jihatni toping.",
+   "options": [
+    "“Chandal”lar alohida kiyim kiyishi shart",
+    "Inson tug'ilgan tabaqasidan chiqa olmaydi",
+    "Tabaqalarni Brahma yaratgan",
+    "Inson taqdiri uning amallariga bog'liq, deb hisoblanadi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nMadaniy yutuq | Ma'lumot\nHind taqvimi | 1) ________\nAdabiy til | 2) ________\n“Qo'shinlarning to'rt turi” o'yini | 3) ________\na) 360 kun; b) sanskrit; c) shaxmat; d) 365 kun; e) pali; f) nard.",
+   "options": [
+    "1-d, 2-b, 3-c",
+    "1-a, 2-b, 3-f",
+    "1-a, 2-e, 3-c",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nDin yoki asar | Asoschisi yoki tili | Ma'lumot\nBuddaviylik | A | mil. avv. VI asrda yaratilgan\n“Mahabharata” | B | doston\nBuddaviylik | Budda | C\n1) Siddhartha Gautama; 2) sanskrit; 3) “xudolarsiz din” deb atalgan; 4) Brahma; 5) lotin; 6) kastalarga bo'lingan.",
+   "options": [
+    "A-1, B-5, C-3",
+    "A-1, B-2, C-6",
+    "A-1, B-2, C-3",
+    "A-4, B-2, C-3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi Hindiston madaniyatiga oid to'g'ri hukmlarni aniqlang.\nI. Hindlar 360 kunlik taqvim tuzgan.\nII. Siddhartha Gautama 40 yoshgacha saroyda yashagan.\nIII. Shaxmat Hindistonda ixtiro qilingan.\nIV. Buddaviylar e'tiqodida dastlab ko'plab ma'budlar bo'lgan.",
+   "options": [
+    "III va IV",
+    "I va II",
+    "I va III",
+    "II va IV"
+   ],
+   "answer": 2
+  }
+ ]
+}

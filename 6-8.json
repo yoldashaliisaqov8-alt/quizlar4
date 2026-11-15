@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 8-mavzu. Qadimgi Misrda din",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qadimgi misrliklar uchun din qanday ahamiyatga ega bo'lgan?",
+   "options": [
+    "Faqat fir'avnlar uchun ahamiyatli bo'lgan",
+    "Kundalik turmushning ajralmas bir bo'lagi hisoblangan",
+    "Hayotda deyarli rol o'ynamagan",
+    "Faqat urush paytida muhim bo'lgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi misrliklar ma'budlar odamlar orasida qanday qiyofada yashaydi deb hisoblagan?",
+   "options": [
+    "Hayvonlar – mushuk, qo'y, ho'kiz, arslon, sigir qiyofasida",
+    "Faqat odam qiyofasida",
+    "Yulduz va sayyoralar qiyofasida",
+    "Daraxt va o'simliklar qiyofasida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misrliklar e'tiqodiga ko'ra ma'budlarning jonlari qayerda yashagan?",
+   "options": [
+    "Faqat ibodatxona devorlarida",
+    "Biri hayvon tanasida, boshqasi haykalida",
+    "Nil daryosining tubida",
+    "Faqat osmonda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kohinlar ma'budlarni nima bilan boqishadi deb hisoblashgan?",
+   "options": [
+    "Nil suvi bilan",
+    "Qurbon qilingan asirlar bilan",
+    "Fir'avn xazinasidagi boyliklar bilan",
+    "Dindorlar in'om tariqasida keltirgan narsalar bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Misr podsholigining poytaxti Memfisning ma'budi kim bo'lgan?",
+   "options": [
+    "Ra",
+    "Amon",
+    "Osiris",
+    "Ptax"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Misrliklar e'tiqodicha, olamni yaratayotganida har bir narsaning nomini odamga o'rgatgan ma'bud kim?",
+   "options": [
+    "Osiris",
+    "Ptax",
+    "Xapi",
+    "Apis"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nima uchun Ptaxning Yer yuzidagi qiyofasi sifatida Apis tasavvur qilingan?",
+   "options": [
+    "Ptax qushlar ma'budi bo'lgan",
+    "Ma'bud shunchalik qudratliki, uni asl qiyofasida ko'rishning iloji yo'q deb hisoblangan",
+    "Apis Fiva shahrining homiysi bo'lgan",
+    "Ptax Nil ma'budi bo'lgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Apis qanday timsolda tasavvur qilingan?",
+   "options": [
+    "Tanasi sher, boshi odam",
+    "Oltin sigir",
+    "Boshi qirg'iy, tanasi odam",
+    "Peshanasi va belida oq qashqasi bo'lgan qora ho'kiz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fir'avnlarning bosh ilohi va homiysi hisoblangan ma'bud kim?",
+   "options": [
+    "Osiris",
+    "Xapi",
+    "Quyosh ma'budi Amon-Ra",
+    "Ptax"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amon-Ra ma'budi qanday vujudga kelgan?",
+   "options": [
+    "Fiva shahri homiysi Amon va Quyosh ma'budi Ra yagona ma'budga birlashgan",
+    "Memfis va Fiva ma'budlari birlashgan",
+    "Osiris va Xapi birlashgan",
+    "Ptax va Apis birlashgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amon qaysi shaharning homiysi bo'lgan?",
+   "options": [
+    "Geliopol",
+    "Fiva",
+    "Sakkara",
+    "Memfis"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyosh ma'budi Raning ibodatxonasi qayerda bo'lgan?",
+   "options": [
+    "Geliopolda (Baolbek)",
+    "Memfisda",
+    "Fivada",
+    "Abu Simbalda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misrliklar fir'avnlarni kimning o'g'illari deb hisoblagan?",
+   "options": [
+    "Ptaxning",
+    "Quyosh ma'budining",
+    "Nil ma'budining",
+    "Osirisning"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fir'avnlar hamma ishni kimning amri bilan amalga oshiradi deb qaralgan?",
+   "options": [
+    "O'zining samoviy otasi – Quyosh ma'budi amri bilan",
+    "Kohinlar amri bilan",
+    "Xalq yig'ini qarori bilan",
+    "“Nom” hukmdorlari amri bilan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xapi qanday ma'bud hisoblangan?",
+   "options": [
+    "Yerosti saltanati ma'budi",
+    "Quyosh ma'budi",
+    "Nil ma'budi, Misrdagi hayotning birlamchi manbai va posboni",
+    "Memfis homiysi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Osiris qanday ma'bud hisoblangan?",
+   "options": [
+    "Hosildorlik ma'budasi",
+    "Quyosh ma'budi",
+    "Yerosti saltanati ma'budi",
+    "Nil ma'budi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi Misr ma'budlari va ularning vazifalari to'g'ri moslashtirilgan javobni aniqlang.\n1) Amon-Ra; 2) Xapi; 3) Osiris.\na) yerosti saltanati ma'budi; b) fir'avnlarning bosh ilohi, Quyosh ma'budi; c) Nil ma'budi; d) Memfis ma'budi.",
+   "options": [
+    "1-d, 2-c, 3-a",
+    "1-b, 2-c, 3-a",
+    "1-c, 2-b, 3-a",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Misrda ma'budlar va odamlar o'rtasida kim vositachi hisoblangan?",
+   "options": [
+    "Fir'avnlar",
+    "Nomarxlar",
+    "Mirzalar",
+    "Kohinlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Misrliklar e'tiqodicha, Yer yuzida maxsus marosimlar ado etilmasa nima bo'ladi?",
+   "options": [
+    "Fir'avn taxtdan ag'dariladi",
+    "Nil daryosi qurib qoladi",
+    "Ma'budlar odamlarga madad bermay qo'yadi",
+    "Quyosh chiqmay qoladi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kohinlar nufuzining kuchli bo'lishiga sabab bo'lgan bilimlarni aniqlang.\n1) Nil toshqini vaqtini bilgan; 2) urug' sochish va hosil yig'ish muddatini aniq bilgan; 3) diniy marosimlarni bilgan; 4) temir eritishni bilgan.",
+   "options": [
+    "1, 2, 4",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kohinlarning vazifalariga oid to'g'ri fikrni toping.",
+   "options": [
+    "Diniy marosimlarni bilar, qurbonlik bag'ishlar edi",
+    "Piramidalarni loyihalagan",
+    "Qo'shinga qo'mondonlik qilgan",
+    "“Nom”larni boshqargan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misrda ibodatxonalar qayerlarda bo'lgan?",
+   "options": [
+    "Faqat Fivada",
+    "Faqat Memfisda",
+    "Barcha “nom”larda",
+    "Faqat piramidalar yonida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fir'avnlar ibodatxonalarga nima hadya etardi?",
+   "options": [
+    "Katta-katta boylik va yerlar",
+    "Faqat oltin haykallar",
+    "Faqat qurbonlik hayvonlari",
+    "Qullar va kemalar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra, qaysi ma'bud Osiris taxtining himoyachisi sanalgan?",
+   "options": [
+    "Ptax",
+    "Apis",
+    "Xapi",
+    "Amon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi misrliklar e'tiqodiga xos jihatni aniqlang.",
+   "options": [
+    "Ajdodlar ruhiga sig'inmaslik",
+    "Ma'budlar hayvon qiyofasida odamlar orasida yashaydi, deb ishonish",
+    "Olov va suvga sig'inish",
+    "Yagona xudoga e'tiqod qilish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Misrliklarning qaysi e'tiqodi ibtidoiy odamlarning totemizmiga o'xshab ketadi?",
+   "options": [
+    "Ma'budlarning hayvonlar qiyofasida yashashiga ishonish",
+    "Ibodatxonalarga yer hadya qilish",
+    "Kohinlarni vositachi deb bilish",
+    "Fir'avnni Quyosh o'g'li deb bilish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ma'budlar va ular bilan bog'liq shahar yoki joylar to'g'ri berilgan javobni toping.",
+   "options": [
+    "Ptax – Memfis, Amon – Geliopol, Ra – Fiva",
+    "Ptax – Fiva, Amon – Memfis, Ra – Geliopol",
+    "Ptax – Geliopol, Amon – Fiva, Ra – Memfis",
+    "Ptax – Memfis, Amon – Fiva, Ra – Geliopol"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nMa'bud | Vazifasi yoki timsoli\nApis | 1) ________\n2) ________ | Nil ma'budi\nOsiris | 3) ________\na) qora ho'kiz – Ptaxning Yer yuzidagi qiyofasi; b) Xapi; c) yerosti saltanati ma'budi; d) Ra; e) Quyosh ma'budi; f) Fiva homiysi.",
+   "options": [
+    "1-e, 2-b, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-b, 3-f",
+    "1-a, 2-d, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nMa'bud | Bog'liq shahar | Vazifasi\nPtax | A | olamni yaratgan\nB | Geliopol | Quyosh ma'budi\nAmon | Fiva | C\n1) Memfis; 2) Ra; 3) shahar homiysi; 4) Xapi; 5) yerosti saltanati ma'budi; 6) Luksor.",
+   "options": [
+    "A-1, B-2, C-3",
+    "A-1, B-4, C-3",
+    "A-6, B-2, C-3",
+    "A-1, B-2, C-5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qadimgi Misr diniga oid to'g'ri hukmlarni aniqlang.\nI. Fir'avnlar Quyosh ma'budining o'g'illari deb hisoblangan.\nII. Apis oq ho'kiz timsolida tasavvur qilingan.\nIII. Kohinlar ma'budlar va odamlar o'rtasida vositachi hisoblangan.\nIV. Osiris Nil ma'budi bo'lgan.",
+   "options": [
+    "III va IV",
+    "II va IV",
+    "I va II",
+    "I va III"
+   ],
+   "answer": 3
+  }
+ ]
+}

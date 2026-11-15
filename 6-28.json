@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 31-mavzu. Qadimgi Yunoniston olimlari va mutafakkirlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qadimgi Yunonistonda olimlarni kimlar sifatida bilishgan?",
+   "options": [
+    "Savdogarlar sifatida",
+    "Kohinlar va sehrgarlar sifatida",
+    "Jangchilar sifatida",
+    "Donishmandlar, hayot murabbiylari sifatida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yunon mutafakkirlari nimani tushuntirishga harakat qilgan?",
+   "options": [
+    "Faqat davlat qonunlarini",
+    "Olam tuzilishi va inson hayoti ma'nosini",
+    "Faqat urush san'atini",
+    "Faqat savdo qoidalarini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yunon faylasufi yer yuzidagi hamma narsa olovdan kelib chiqqan deb uqtirgan?",
+   "options": [
+    "Arximed",
+    "Geraklit",
+    "Diogen",
+    "Demokrit"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Bir daryoga ikki marta tushish mumkin emas” hikmati kimga tegishli?",
+   "options": [
+    "Diogen",
+    "Demokrit",
+    "Geraklit",
+    "Gerodot"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Hamma narsa oqadi, hamma narsa o'zgaruvchandir” degan hikmat muallifi kim?",
+   "options": [
+    "Arximed",
+    "Demokrit",
+    "Geraklit",
+    "Diogen"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Demokrit qayerlik bo'lgan?",
+   "options": [
+    "Afinalik",
+    "Spartalik",
+    "Frakiyalik",
+    "Sirakuzalik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Demokrit qanday fikrni bayon etgan?",
+   "options": [
+    "Hamma narsa ko'zga ko'rinmaydigan mayda zarralar – atomlardan tashkil topgan",
+    "Insonda hech qanday ehtiyoj bo'lmasligi kerak",
+    "Hamma narsa suvdan paydo bo'lgan",
+    "Hamma narsa olovdan kelib chiqqan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Demokrit kimning fikriga e'tiroz bildirgan?",
+   "options": [
+    "Arximedning",
+    "Geraklitning",
+    "Gerodotning",
+    "Diogenning"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diogen o'z ta'limotiga qanday fikrni asos qilib olgan?",
+   "options": [
+    "“Insonda hech qanday ehtiyojlar bo'lmasligi shart”",
+    "“Evrika!”",
+    "“Hamma narsa oqadi”",
+    "“Hamma narsa atomlardan iborat”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hayotdagi barcha qulayliklardan voz kechgan Diogen qayerda kun kechirgan?",
+   "options": [
+    "Ibodatxonada",
+    "Saroyda",
+    "G'orda",
+    "Bir bochkada"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Afsonaga ko'ra Diogen kimga “Nariroq tur, quyoshni to'syapsan!” deb javob bergan?",
+   "options": [
+    "Makedoniyalik Aleksandrga",
+    "Kserksga",
+    "Periklga",
+    "Filipp II ga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gerodot qachon yashagan va qanday kitob yozgan?",
+   "options": [
+    "Mil. avv. I asrda; “Geografiya”",
+    "Milodiy II asrda; “Aleksandrning harbiy yurishlari”",
+    "Mil. avv. V asrda; yunon-fors urushlariga bag'ishlangan “Tarix”",
+    "Mil. avv. V asrda; “Iliada”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimda Gerodotga qanday nom berilgan?",
+   "options": [
+    "“Ikkinchi muallim”",
+    "“Donishmandlar donishmandi”",
+    "“Tarixning otasi”",
+    "“Hayot murabbiysi”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Evrika!” iborasi qanday ma'noni anglatadi?",
+   "options": [
+    "“Topdim, topdim!”",
+    "“Hamma narsa oqadi”",
+    "“G'alaba!”",
+    "“Nariroq tur!”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Evrika!” deb qiyqirgan olim kim?",
+   "options": [
+    "Geraklit",
+    "Yunon fizigi va matematigi Arximed",
+    "Gerodot",
+    "Demokrit"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hikoyaga ko'ra Arximed qanday qilib rimliklar kemalarini yondirib yuborgan?",
+   "options": [
+    "O'q-yoy bilan olovli o'qlar otib",
+    "Kemalarga yog' quyib",
+    "Yorug'likni ko'zgu orqali jamlab",
+    "Chaqmoqtosh bilan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Arximed qaysi shaharni rimliklardan himoya qilgan?",
+   "options": [
+    "Afina",
+    "Korinf",
+    "Sparta",
+    "Sirakuza"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Arximed qaysi qonunni ishlab chiqqan?",
+   "options": [
+    "Olov qonunini",
+    "Atomlar qonunini",
+    "Richag (dastak) qonunini",
+    "Taqvim qonunini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Menga tayanch nuqtasini topib bering, Yerni o'z o'qidan chiqarib yuboraman!” degan ibora kimga tegishli?",
+   "options": [
+    "Geraklit",
+    "Diogen",
+    "Arximed",
+    "Demokrit"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Olimlar va ularning g'oyalari to'g'ri moslashtirilgan javobni aniqlang.\n1) Geraklit; 2) Demokrit; 3) Diogen.\na) hamma narsa atomlardan tashkil topgan; b) hamma narsa olovdan kelib chiqqan; c) insonda ehtiyojlar bo'lmasligi shart; d) richag qonuni.",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-b, 2-c, 3-a",
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-d"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Arximedga oid to'g'ri ma'lumotlarni aniqlang.\n1) fizik va matematik bo'lgan; 2) “Evrika!” deb qiyqirgan; 3) bochkada yashagan; 4) richag qonunini ishlab chiqqan; 5) “Tarix” kitobini yozgan.",
+   "options": [
+    "2, 4, 5",
+    "1, 3, 5",
+    "1, 2, 4",
+    "2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi olim qadimgi yunon tarixchisi hisoblanadi?",
+   "options": [
+    "Diogen",
+    "Arximed",
+    "Gerodot",
+    "Demokrit"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi faylasufning qarashi hozirgi zamon ilmidagi atomlar haqidagi ta'limotga yaqin?",
+   "options": [
+    "Diogen",
+    "Gerodot",
+    "Geraklit",
+    "Demokrit"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Geraklitning “Bir daryoga ikki marta tushish mumkin emas” hikmatining mazmuni nima?",
+   "options": [
+    "Daryolar qurib qoladi",
+    "Daryoda cho'milish xavfli",
+    "Inson suzishni bilishi kerak",
+    "Dunyodagi hamma narsa doimo o'zgarib turadi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diogenning Aleksandrga bergan javobi uning qaysi g'oyasini ifodalaydi?",
+   "options": [
+    "Hamma narsa o'zgaruvchanligini",
+    "Quyosh ma'bud ekanligini",
+    "Hamma narsa atomlardan iboratligini",
+    "Insonga hech qanday ehtiyoj (hatto shoh yordami) kerak emasligini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Gerodotning “Tarix” kitobi qaysi urushlarga bag'ishlangan?",
+   "options": [
+    "Peloponnes urushiga",
+    "Troya urushiga",
+    "Yunon-fors urushlariga",
+    "Makedoniya urushlariga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi juftlik noto'g'ri berilgan?",
+   "options": [
+    "Geraklit – olov",
+    "Demokrit – atomlar",
+    "Diogen – richag qonuni",
+    "Arximed – “Evrika!”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nOlim | Hikmati yoki g'oyasi\nGeraklit | 1) ________\n2) ________ | “Evrika!”\nDiogen | 3) ________\na) “Hamma narsa oqadi, hamma narsa o'zgaruvchandir”; b) Arximed; c) “Nariroq tur, quyoshni to'syapsan!”; d) Demokrit; e) “Hamma narsa atomlardan iborat”; f) Gerodot.",
+   "options": [
+    "1-a, 2-d, 3-c",
+    "1-a, 2-b, 3-f",
+    "1-e, 2-b, 3-c",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nOlim | Sohasi | Ma'lumot\nGerodot | tarixchi | A\nB | fizik va matematik | rimliklar kemalarini ko'zgu bilan yondirgan\nDemokrit | faylasuf | C\n1) “tarixning otasi” deb atalgan; 2) Arximed; 3) atomlar haqidagi fikrni bayon etgan; 4) Geraklit; 5) bochkada yashagan; 6) “Iliada”ni yozgan.",
+   "options": [
+    "A-1, B-2, C-5",
+    "A-1, B-4, C-3",
+    "A-6, B-2, C-3",
+    "A-1, B-2, C-3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Yunoniston olimlariga oid to'g'ri hukmlarni aniqlang.\nI. Geraklit hamma narsa olovdan kelib chiqqan deb uqtirgan.\nII. Diogen “tarixning otasi” deb atalgan.\nIII. Arximed richag qonunini ishlab chiqqan.\nIV. Demokrit Geraklitning fikrini to'liq qo'llab-quvvatlagan.",
+   "options": [
+    "I va III",
+    "II va IV",
+    "I va II",
+    "III va IV"
+   ],
+   "answer": 0
+  }
+ ]
+}

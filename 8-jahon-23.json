@@ -1,0 +1,410 @@
+{
+ "title": "8-sinf · Yevropada ilm-fan",
+ "time": 30,
+ "questions": [
+  {
+   "q": "G'arbiy Yevropada kishilar tasavvurlarining kengayishi qaysi asrga kelib keng rivojlana boshladi.",
+   "options": [
+    "XI asrga",
+    "XIII asrga",
+    "XV asrga",
+    "IX asrga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Universitet rektori qanday saylangan.",
+   "options": [
+    "O'qituvchi va talabalarning umumiy yig'ilishida",
+    "Papa tomonidan tayinlangan",
+    "Qirol tomonidan tayinlangan",
+    "Shahar hokimi tomonidan tayinlangan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta asrlarda Yer qanday shaklga ega deb taxmin qilingan.",
+   "options": [
+    "Har tomondan okean bilan o'ralgan g'ildirak shaklida",
+    "Yassi tosh shaklida",
+    "Sharsimon",
+    "Kub shaklida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Pop Amis” qaysi mamlakatda yaratilgan novella.",
+   "options": [
+    "Ispaniyada (XIII asr)",
+    "Fransiyada (XII asr)",
+    "Angliyada (XIV asr)",
+    "Germaniyada (XIII asr)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tibbiyot fanlari qaysi shaharlarda o'rgatilgan.",
+   "options": [
+    "Parij, Bolonya, Salamanka",
+    "Oksford, Kembrij, Parij",
+    "Bolonya, Parij, Oksford",
+    "Salamanka, Monpelye, Salerno"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Italiyadagi qaysi universitet yuridik ta'limi bilan mashhur edi.",
+   "options": [
+    "Oksford",
+    "Bolonya",
+    "Parij",
+    "Salerno"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Yetti erkin san'at” necha bosqichdan iborat edi.",
+   "options": [
+    "Uchta",
+    "To'rtta",
+    "Ikkita",
+    "Yettita"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada universitetlarga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "2, 4",
+    "1, 4",
+    "1, 2",
+    "2, 3"
+   ],
+   "answer": 3,
+   "image": "img/j8-23-08.jpg"
+  },
+  {
+   "q": "Universitetda o'quv jarayoni qanday shakllarda o'tgan.",
+   "options": [
+    "Faqat laboratoriya",
+    "Ma'ruza va bahs-munozara",
+    "Faqat amaliy mashg'ulot",
+    "Imtihon va test"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada Marko Pologa oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "1, 4",
+    "2, 4",
+    "2, 3",
+    "1, 2"
+   ],
+   "answer": 2,
+   "image": "img/j8-23-10.jpg"
+  },
+  {
+   "q": "Qaysi universitet ilohiyotchilarni tayyorlagan.",
+   "options": [
+    "Oksford",
+    "Bolonya",
+    "Monpelye",
+    "Sorbonna"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Gutenberg ixtirosi nimani imkon berdi.",
+   "options": [
+    "Kitoblarni qimmatlashtirishni",
+    "Kitoblarni xorijdan olib kelishni",
+    "Yozishdan ko'ra chop etish orqali tezroq kitob yaratishni",
+    "Kitoblarni qo'lda ko'chirishni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Universitetlar qanday paydo bo'ldi.",
+   "options": [
+    "Yirik cherkov maktablari universitetlarga aylandi",
+    "Monastirlar yopilib, ochildi",
+    "Qirol farmoni bilan tashkil etildi",
+    "Savdogarlar uyushmasidan chiqdi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Marko Polo yevropaliklarga Xitoydan qaysi yangiliklarni birinchi bo'lib yetkazgan.",
+   "options": [
+    "Chinni va qog'oz",
+    "Porox va kompas",
+    "Qog'oz pullar va ko'mir",
+    "Ipak va choy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Luka Pacholining asari kimlar uchun amaliy qo'llanma bo'lgan.",
+   "options": [
+    "Dengizchilar uchun",
+    "Ritsarlar uchun",
+    "Rassom va me'morlar uchun",
+    "Shifokorlar uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Germaniyada paydo bo'lgan satirik janr qaysi.",
+   "options": [
+    "Ballada",
+    "Roman",
+    "Fablio",
+    "Shvank"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Gutenberg yoshligida qaysi ishlarning sir- asrorlarini o'rgangan.",
+   "options": [
+    "Kulolchilik va to'quvchilik",
+    "Qurolsozlik va charmgarlik",
+    "Tanga zarb qilish, temir quyish, zargarlik",
+    "Kemasozlik va dengizchilik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tibbiy va huquqshunoslik ta'limi necha yil davom etgan.",
+   "options": [
+    "5–6 yil",
+    "2–3 yil",
+    "12 yil",
+    "8–10 yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Universitet talabalari kitoblarni qanday olishgan.",
+   "options": [
+    "Maxsus do'kondan ijaraga olib, qo'lda ko'chirishgan",
+    "Qirol kutubxonasidan olishgan",
+    "Xayriya sifatida olishgan",
+    "Bosmaxonadan sotib olishgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Marko Polo Xitoyga qaysi yo'l orqali yetib bordi.",
+   "options": [
+    "Hind okeani orqali",
+    "Buyuk ipak yo'li bo'ylab",
+    "Sibir orqali",
+    "Sahroyi Kabir orqali"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yevropadagi eng katta oliy ta'lim muassasasi qaysi edi.",
+   "options": [
+    "Sorbonna universiteti",
+    "Salerno universiteti",
+    "Bolonya universiteti",
+    "Oksford universiteti"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta asrlarning eng muhim fani qaysi edi.",
+   "options": [
+    "Ilohiyot (teologiya)",
+    "Astronomiya",
+    "Huquqshunoslik",
+    "Alkimyo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Marko Polo Xubilayxon elchisi sifatida qayerlarga sayohat qilgan.",
+   "options": [
+    "Eron va Misrga",
+    "Yaponiya va Koreyaga",
+    "Hindiston va Janubi-Sharqiy Osiyo mamlakatlariga",
+    "Afrika va Arabistonga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ilohiyotni o'rganish kamida necha yil davom etgan.",
+   "options": [
+    "8 yil",
+    "12 yil",
+    "3 yil",
+    "5 yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alkimyogarlar nimani izlagan.",
+   "options": [
+    "Yangi dorivor giyoh",
+    "Eng kuchli qurol",
+    "Yangi qit'alarga yo'l",
+    "Oddiy metallarni oltinga aylantiradigan va umrni uzaytiradigan modda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oksford universiteti qaysi fanlari bo'yicha eng yaxshi dars bergan.",
+   "options": [
+    "Ilohiyot va falsafa",
+    "Tibbiyot va huquq",
+    "Grammatika va ritorika",
+    "Matematika va astronomiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Gutenberg bosma mashinasi qaysi yilda ixtiro qilingan.",
+   "options": [
+    "1545-yilda",
+    "1345-yilda",
+    "1445-yilda",
+    "1405-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Tulki haqida roman”da eshak Boduen kimni ifodalaydi.",
+   "options": [
+    "Qirolni",
+    "Ritsarni",
+    "Ruhoniyni",
+    "Feodalni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yevropada kimyoga oid birinchi asarlarni kimlar yozgan.",
+   "options": [
+    "Foma Akvinskiy va Luka Pacholi",
+    "Buyuk Albert va Foma Akvinskiy",
+    "Gutenberg va Rojer Bekon",
+    "Rojer Bekon va Buyuk Albert"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Cherkov maqsadlariga ko'ra grammatika nima uchun zarur bo'lgan.",
+   "options": [
+    "Cherkov kitoblarini tushunish uchun",
+    "Qirol farmonlari uchun",
+    "Savdo hisob-kitobi uchun",
+    "Ritsar qasamyodi uchun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Nibelunglar qo'shig'i” qaysi mamlakat eposi.",
+   "options": [
+    "Angliya (XIV asr)",
+    "Germaniya (XII asr)",
+    "Fransiya (XII asr)",
+    "Ispaniya (XII asr)"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sorbonna universitetida nechta fakultet bo'lgan.",
+   "options": [
+    "To'rtta: san'at, huquqshunoslik, tibbiyot, ilohiyot",
+    "Ikkita: ilohiyot va san'at",
+    "Uchta: ilohiyot, tibbiyot, huquq",
+    "Beshta: san'at, tarix, tibbiyot, huquq, ilohiyot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIII asr o'rtalarida Arastu falsafasi va xristianlik ta'limotini tadqiq qilgan olim kim.",
+   "options": [
+    "Buyuk Albert",
+    "Luka Pacholi",
+    "Rojer Bekon",
+    "Foma Akvinskiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Luka Pacholining mashhur asari qaysi.",
+   "options": [
+    "“Davlat boshqaruvi to'g'risida”",
+    "“Ilohiy nisbat to'g'risida”",
+    "“Kasalliklarni davolash to'g'risida”",
+    "“Tulki haqida roman”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada “Yetti erkin san'at”ga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "1, 3",
+    "2, 4",
+    "1, 2",
+    "1, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-23-35.jpg"
+  },
+  {
+   "q": "Diagrammada o'rta asr adabiyotiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "3, 4",
+    "1, 3",
+    "2, 3",
+    "1, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-23-36.jpg"
+  },
+  {
+   "q": "Fakultet dekani kimlar orasidan saylangan.",
+   "options": [
+    "Ruhoniylar orasidan",
+    "Talabalar orasidan",
+    "Fakultet o'qituvchilari orasidan",
+    "Shahar amaldorlari orasidan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Marko Poloni Xitoyda kim iliq kutib oldi.",
+   "options": [
+    "Yongle",
+    "Chingizxon",
+    "Chju Yuan Chjan",
+    "Xubilayxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Robin Gud haqida ballada” qaysi mamlakatda yaratilgan.",
+   "options": [
+    "Fransiyada (XIV asr)",
+    "Angliyada (XIV asr)",
+    "Ispaniyada (XII asr)",
+    "Germaniyada (XII asr)"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ritorika cherkov uchun nima vosita edi.",
+   "options": [
+    "Savdoni rivojlantirish vositasi",
+    "Cherkov va'zlarini to'plash vositasi",
+    "Qo'shinni boshqarish vositasi",
+    "Sud ishlarini yuritish vositasi"
+   ],
+   "answer": 1
+  }
+ ]
+}

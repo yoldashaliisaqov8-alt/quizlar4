@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 35–36-mavzu. O'rta Osiyo aholisining yunon-makedon istilochilariga qarshi kurashi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Aleksandr Makedoniya podshosi bo'lganda necha yoshda edi va bu qachon bo'ldi?",
+   "options": [
+    "20 yoshda; mil. avv. 336-yilda",
+    "30 yoshda; mil. avv. 338-yilda",
+    "18 yoshda; mil. avv. 334-yilda",
+    "25 yoshda; mil. avv. 330-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Aleksandr Sharqqa yurishni qachon boshladi va u qancha davom etdi?",
+   "options": [
+    "Mil. avv. 329-yilda; 20 yil",
+    "Mil. avv. 336-yilda; 3 yil",
+    "Mil. avv. 334-yilda; 10 yil",
+    "Mil. avv. 330-yilda; 5 yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Aleksandr Sharqqa yurishi davomida qaysi hududlarni bosib oldi?\n1) Kichik Osiyo; 2) Suriya; 3) Misr; 4) Xitoy; 5) Eron; 6) Rim.",
+   "options": [
+    "1, 2, 3, 5",
+    "1, 2, 4, 5",
+    "2, 4, 5, 6",
+    "1, 3, 4, 6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Aleksandr bosib olingan shaharlarga yunonlarni nima maqsadda joylashtirdi?",
+   "options": [
+    "Forslarga yordam berish uchun",
+    "Ulkan hududda yunon madaniyati tarqalishiga imkon yaratish maqsadida",
+    "Mahalliy aholini qul qilish uchun",
+    "Savdoni to'xtatish uchun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta Osiyo jangchilarining qurollarini aniqlang.",
+   "options": [
+    "Toshotar va qo'chqor",
+    "Xanjar (akinak), qilich, jangovar oybolta (sagaris), nayza va kamon",
+    "Faqat qilich va qalqon",
+    "Faqat tosh gurzi va palaxmon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta Osiyo jangchilarining xanjari va jangovar oyboltasi qanday atalgan?",
+   "options": [
+    "Darik va mino",
+    "Gladius va pilum",
+    "Falanga va goplit",
+    "Akinak va sagaris"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'rta Osiyoda dushmanga qarshi hujumni kim boshlab bergan?",
+   "options": [
+    "Jangovar fillar",
+    "Kamonchilar",
+    "Piyodalar",
+    "Suvoriylar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qal'a va shaharlarni himoya qilishda nimalardan foydalanilgan?",
+   "options": [
+    "O'q-yoy, palaxmon, tosh va pishirilgan loydan yadrolar",
+    "Faqat nayzalar",
+    "Toshotar mashinalar va fillar",
+    "Faqat qilichlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Makedoniyalik Aleksandr mil. avv. 330-yilda kimning qo'shinlarini tor-mor keltirdi?",
+   "options": [
+    "Bess",
+    "Kserks",
+    "Ahamoniylarning oxirgi shohi Doro III",
+    "Kir II"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Aleksandr nima maqsadda Oks (Amudaryo) ortida yashovchi elatlarni bo'ysundirishga qaror qildi?",
+   "options": [
+    "O'rta Osiyo boyliklarini olib ketish uchun",
+    "Saklar bilan ittifoq tuzish uchun",
+    "Roksanaga uylanish uchun",
+    "Hindistonga yurishdan oldin qo'shinlarining orqa tomonini xavfsizlantirish maqsadida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Aleksandrning yo'lini birinchi bo'lib to'sgan shahar qaysi?",
+   "options": [
+    "Xo'jand",
+    "Baqtriya poytaxti Baqtra (Zariasp)",
+    "Maroqanda",
+    "Kurushkat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bu paytda Baqtriya satrapi kim edi va u nima qildi?",
+   "options": [
+    "Oksiart; Aleksandrga taslim bo'ldi",
+    "Bess; Baqtra shahrini tashlab, Oks ortiga qochib o'tdi",
+    "Spitaman; shaharni himoya qildi",
+    "Frada; qo'zg'olon ko'tardi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yunon-makedonlar Maroqandani qachon egalladi?",
+   "options": [
+    "Mil. avv. 329-yilda",
+    "Mil. avv. 328-yilda",
+    "Mil. avv. 334-yilda",
+    "Mil. avv. 330-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rivoyatga ko'ra Kurushkat (Kiropolis) shahriga kim asos solgan?",
+   "options": [
+    "Spitaman",
+    "Doro I",
+    "Makedoniyalik Aleksandr",
+    "Fors shohi Kir II"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sug'diyonadagi qo'zg'olonga kim boshchilik qildi?",
+   "options": [
+    "Oksiart",
+    "Frada",
+    "Bess",
+    "Iste'dodli lashkarboshi Spitaman"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Spitaman qo'zg'oloniga sug'diylardan tashqari kimlar qo'shildi?",
+   "options": [
+    "Yunonlar va makedonlar",
+    "Baqtriyaliklar va saklar",
+    "Xorazmiylar va parfiyaliklar",
+    "Forslar va midiyaliklar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Spitaman makedoniyaliklar guruhini qayerda pistirma qo'yib qirib tashladi?",
+   "options": [
+    "Sirdaryo bo'yida",
+    "Manbalarda Politimet deb atalgan Zarafshon daryosi bo'yida",
+    "Hisor tog'larida",
+    "Amudaryo kechuvida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Spitamanning Zarafshon bo'yidagi g'alabasining ahamiyati nimada?",
+   "options": [
+    "Sug'diyona mustaqil davlatga aylandi",
+    "Aleksandr O'rta Osiyodan butunlay chiqib ketdi",
+    "Spitaman Makedoniya podshosi bo'ldi",
+    "Yunon-makedon qo'shinlarining yengilmasligi haqidagi afsonani chippakka chiqardi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Aleksandr saklarga qarshi kurash uchun qayerda qal'a barpo etishni buyurdi?",
+   "options": [
+    "Marg'iyonada",
+    "Baqtra yonida",
+    "Zarafshon bo'yida",
+    "Yaksart (Sirdaryo) bo'yidagi Xo'jand yaqinida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xo'jand yaqinida barpo etilgan qal'a qanday nomlandi?",
+   "options": [
+    "Aleksandriya Esxata (Chekka Aleksandriya)",
+    "Kurushkat",
+    "Oksdagi Aleksandriya",
+    "Marg'iyona Aleksandriyasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Spitamanning Aleksandr bilan hal qiluvchi jangi qachon bo'ldi va Spitamanning taqdiri qanday bo'ldi?",
+   "options": [
+    "Mil. avv. 328-yil kuzida; yengilib cho'lga chekindi va u yerda ko'chmanchi qabilalar boshliqlari tomonidan xoinlarcha o'ldirildi",
+    "Mil. avv. 327-yilda; Aleksandr bilan sulh tuzdi",
+    "Mil. avv. 330-yilda; g'alaba qozonib, podsho bo'ldi",
+    "Mil. avv. 329-yilda; asirga olinib, Makedoniyaga olib ketildi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Aleksandr mahalliy zodagonlar bilan munosabat o'rnatish uchun nima qildi?",
+   "options": [
+    "Spitamanni sarkarda etib tayinladi",
+    "Barcha zodagonlarni qatl ettirdi",
+    "Sug'd zodagoni Oksiartning qizi Ravshanak (Roksana)ga uylandi",
+    "Bessni satrap qilib qoldirdi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Aleksandr O'rta Osiyoning qaysi hududlarini bo'ysundira oldi?",
+   "options": [
+    "Marg'iyona, Baqtriya, Sug'diyona va hozirgi Bekobod–Xo'jand orasidagi Sirdaryo bo'ylarini",
+    "Faqat Maroqandani",
+    "Xorazm, Toshkent vohasi va Farg'onani",
+    "Butun O'rta Osiyoni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Aleksandr bosqini davrida qaysi hududlar mustaqilligicha qoldi?",
+   "options": [
+    "Maroqanda va Baqtra",
+    "Baqtriya va Sug'diyona",
+    "Marg'iyona va Parfiya",
+    "Xorazm, Toshkent vohasi va Farg'ona"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yunon-makedon bosqinining oqibatlarini aniqlang.\n1) O'rta Osiyo yerlari xarobazorga aylandi; 2) aholining katta qismi qirib tashlandi; 3) ko'plab shaharlar vayron etildi; 4) Xorazm Makedoniyaga qo'shib olindi.",
+   "options": [
+    "2, 3, 4",
+    "1, 2, 3",
+    "1, 3, 4",
+    "1, 2, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Makedoniyaliklarning sara otliq gvardiyasi qanday atalgan va unga kim qabul qilingan?",
+   "options": [
+    "Legion; sug'd dehqonlari",
+    "Agema; mahalliy aslzodalar yoshlari, shu jumladan Roksananing ukasi Itan",
+    "Falanga; faqat makedonlar",
+    "Satrapiya; forslar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Aleksandr yurishlari voqealarini xronologik tartibda joylashtiring.\n1) Spitamanning o'ldirilishi; 2) Doro III qo'shinlarining tor-mor etilishi; 3) Maroqandaning bosib olinishi.",
+   "options": [
+    "1, 2, 3",
+    "3, 2, 1",
+    "2, 3, 1",
+    "2, 1, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nVoqea | Sana\nDoro III qo'shinlarining tor-mor etilishi | 1) ________\nMaroqandaning bosib olinishi | 2) ________\nSpitamanning hal qiluvchi jangi va o'ldirilishi | 3) ________\na) mil. avv. 330-yil; b) mil. avv. 329-yil; c) mil. avv. 328-yil; d) mil. avv. 336-yil; e) mil. avv. 334-yil; f) mil. avv. 338-yil.",
+   "options": [
+    "1-a, 2-b, 3-f",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-e, 3-c",
+    "1-d, 2-b, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nShaxs | Ma'lumot\nBess | A\nB | Sug'diyona qo'zg'oloni rahbari\nOksiart | C\n1) Baqtriya satrapi, Oks ortiga qochgan; 2) Spitaman; 3) qizi Roksana Aleksandrga turmushga chiqqan; 4) Doro III; 5) agema qo'mondoni; 6) Kurushkatga asos solgan.",
+   "options": [
+    "A-4, B-2, C-3",
+    "A-1, B-5, C-3",
+    "A-1, B-2, C-3",
+    "A-1, B-2, C-6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'rta Osiyo aholisining yunon-makedonlarga qarshi kurashiga oid to'g'ri hukmlarni aniqlang.\nI. Spitaman qo'zg'oloniga baqtriyaliklar va saklar qo'shilgan.\nII. Aleksandr Xorazm va Farg'onani bo'ysundirgan.\nIII. Aleksandriya Esxata Xo'jand yaqinida barpo etilgan.\nIV. Spitaman Aleksandr tomonidan asirga olinib, qatl etilgan.",
+   "options": [
+    "I va II",
+    "I va III",
+    "II va IV",
+    "III va IV"
+   ],
+   "answer": 1
+  }
+ ]
+}

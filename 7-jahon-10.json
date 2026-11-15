@@ -1,0 +1,446 @@
+{
+ "title": "7-sinf · Mo'g'ullar davlati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Kimga Chingizxon unvoni beriladi?",
+   "options": [
+    "Bumin",
+    "Takash",
+    "Jamuxa",
+    "Temuchin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Asosiy qo'shindan tashqari Chingizxon ixtiyorida nima deb yuritilgan maxsus gvardiya ham tashkil etiladi?",
+   "options": [
+    "\"Shad\"",
+    "\"Keshik\"",
+    "\"Ariz\"",
+    "\"Tavochi\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mo'g'ullar qayerda qipchoqlarning ittifoqchisi sifatida ularga yordamga kelgan ruslar qo'shini mag'lub etiladi?",
+   "options": [
+    "Ili daryosi bo'yida",
+    "Kalka daryosi bo'yida",
+    "Chu daryosi bo'yida",
+    "Onon daryosi bo'yida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chingizxon kimni taxt vorisi etib tayinlaydi?",
+   "options": [
+    "Chig'atoy",
+    "O'qtoy",
+    "Jo'ji",
+    "Tuli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mo'g'ullarning ko'pchiligi nima bilan shug'ullangan?",
+   "options": [
+    "Dehqonchilik",
+    "Chorvachilik",
+    "Hunarmandchilik",
+    "Savdo-sotiq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qayerda Temuchin ulug' xon deb e'lon qilinadi?",
+   "options": [
+    "Ili daryosi bo'yida",
+    "Kalka daryosi bo'yida",
+    "Chu daryosi bo'yida",
+    "Onon daryosi bo'yida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mamlakatni markazlashtirish maqsadida Chingizxon qayerni o'z davlatining poytaxtiga aylantiradi?",
+   "options": [
+    "Qoraqurum",
+    "Saroy Berka",
+    "Saroy Botu",
+    "Sultoniya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rmonda yashagan ayrim mo'g'ul urug'lari nima bilan kun kechirgan?",
+   "options": [
+    "Dehqonchilik va hunarmandchilik",
+    "Dehqonchilik va chorvachilik",
+    "Chorvachilik va hunarmandchilik",
+    "Ovchichilik va baliqchilik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Temuchin ulug' xon deb e'lon qilinadi?",
+   "options": [
+    "1206-yil",
+    "1211-yil",
+    "1215-yil",
+    "1218-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chingizxon so'zi qanday ma'nolarni bildiradi? 1. \"Kuchli\" 2. \"Erkin\" 3. \"Qudratli\" 4. \"Jasur\" 5. \"Toza\" 6. \"Mard\"",
+   "options": [
+    "1-2-3",
+    "4-5-6",
+    "1-3-5",
+    "2-4-6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chingizxon qachon Shimoliy Xitoyga qarshi urush boshlaydi?",
+   "options": [
+    "1206-yil",
+    "1211-yil",
+    "1215-yil",
+    "1218-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mo'g'ul qabilalari orasidagi o'zaro urushlarda XIII asrning boshlarida kim g'olib chiqadi?",
+   "options": [
+    "Bumin",
+    "Takash",
+    "Jamuxa",
+    "Temuchin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yettisuv va Sharqiy Turkistonga qarshi qachon Chingizxon bosqinchilik urushlari boshlagan?",
+   "options": [
+    "1206-yil",
+    "1211-yil",
+    "1215-yil",
+    "1218-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Chingizxon zabt etilgan hududlarni o'z o'g'illari: Jo'ji, Chig'atoy, O'qtoy va Tuliga uluslarga bo'lib, taqsimlab beradi?",
+   "options": [
+    "1221-yil",
+    "1222-yil",
+    "1223-yil",
+    "1224-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1155-1227-yillarda kim yashagan?",
+   "options": [
+    "Bumin",
+    "Takash",
+    "Jamuxa",
+    "Temuchin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mo'g'ullar davlati qachon tashkil topgan?",
+   "options": [
+    "1206-yil",
+    "1211-yil",
+    "1215-yil",
+    "1218-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mo'g'ullarning sevimli quroli?",
+   "options": [
+    "Nayza",
+    "Qilich",
+    "Kamon",
+    "Oybolta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chingizxon qo'shini 1219-1221-yillarda qaysi davlatga bosqinlari yuz beradi?",
+   "options": [
+    "Xitoy",
+    "Usmonli Turklar",
+    "Xorazmshohlar davlati",
+    "Arab Xalifaligi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ul qabilalari qadimdan … hududlarida yashab kelgan? 1. Janubiy Sibir 2. Manchjuriya 3. Mo'g'uliston",
+   "options": [
+    "1",
+    "1,2",
+    "1,2,3",
+    "1,3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi javobda xatolik mavjud?",
+   "options": [
+    "Mo'g'ullar hayotida qadimgi udumlar, diniy tasavvurlarida esa ajdodlar ruhiga sig'inish, shomonlik e'tiqodlari yaxshi saqlanib qolgan",
+    "Aksari urug' boshliqlari no'yonlar o'z urug'doshlaridan navkarlar olib harbiy bo'linmalar tuzadilar",
+    "Ko'chmanchilar qo'shini, odatda, uchta qismga bo'lingan: markaz va ikki qanot. Jang boshlanganda qanot yolg'ondan chekingan, dushman uni ta'qib eta boshlasa, markazdan hujumga uchrar, chekinayotganlar ham to'xtab, jangga kirishardi",
+    "Kuchli qabila ittifoqlari o'zlariga tobe etilgan qo'shnilardan boj-to'lovlar olib turishgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachondan boshlab mo'g'ullar ijtimoiy munosabatlarida yangi xususiyat – mulkiy tabaqalanish kuchaya boshlaydi?",
+   "options": [
+    "XI asrning ikkinchi yarmi",
+    "XII asrning birinchi yarmi",
+    "XII asrning ikkinchi yarmi",
+    "XII asrning oxiri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi omillar mo'g'ullarga g'alaba keltirgan? 1. Jangni mohirona boshqarish 2. Yaxshi etilgan piyoda qo'shinning bo'lishi 3. Kuchli va tashkil intizomli otliq qo'shinning bo'lishi 4. Qo'shni mamlakatlardagi siyosiy tarqoqlik",
+   "options": [
+    "1,2,3",
+    "1,2",
+    "2,3,4",
+    "1,3,4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mo'g'ullarda qabila ittifoqlari yig'inlari, qurultoylarida qanday masalalar hal etilgan? 1. Soliq 2. Urush 3. Sulh 4. Qabila boshlig'ini saylash 5. Ittifoq tuzish 6. Xonni saylash 7. Qo'shin to'plash",
+   "options": [
+    "1,3,5,6",
+    "4,5,6,7",
+    "2,4,6,7",
+    "2,3,5,6"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chingizxon dastlab nayman qabilalarini egallab, keyinchalik qaysi qabilalarni ham bo'ysundiradi? 1. Uyg'ur 2. Yoqut 3. Qozoq 4. Qipchoq 5. Qirg'iz 6. Buyrat",
+   "options": [
+    "1,2,5,6",
+    "1,2,3,4",
+    "2,3,4,5",
+    "1,2,4,6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chingizxon Xorazmshohlar davlatidan so'ng qayergacha bo'lgan hududlarni egallab chiqadilar?",
+   "options": [
+    "Afg'oniston, Shimoliy Eron egallanib, Kavkaz orqali O'rta dengizga chiqadilar",
+    "Afg'oniston, Sharqiy Eron egallanib, Kavkaz orqali Dashti Qipchoqqa chiqadilar",
+    "Nishopur, Kaspiy dengizi egallanib, Sharqiy Eron orqali Kaspiy dengiziga chiqadilar",
+    "Afg'oniston, Tabriz egallanib, Kaspiy dengizi orqali Dashti Qipchoqqa chiqadilar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kim 1237-1242-yillari Sharqiy Yevropada istilochilik urushlari olib boradi?",
+   "options": [
+    "Berkaxon",
+    "Xuloku",
+    "Botuxon",
+    "Xubilay"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Botuxon bosib olgan hududlar noto'g'ri berilgan javobni aniqlang.",
+   "options": [
+    "Serbiya",
+    "Bolgariya",
+    "Shvetsiya",
+    "Polsha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tuluning o'g'li Xuloku qayerdagi harbiy yurishlarga boshchilik qiladi?",
+   "options": [
+    "O'rta Sharq va Old Osiyo",
+    "O'rta Sharq va Sharqiy Osiyo",
+    "Old Osiyo va Sharqiy Yevropa",
+    "Dashti Qipchoq va Kavkaz"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xuloku qachon Eronni bosib oladi va Xulokuiylar davlatiga asos soladi?",
+   "options": [
+    "1255-yil",
+    "1256-yil",
+    "1257-yil",
+    "1258-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xulokuiylar davlati qachon Bag'dodni egallaydilar?",
+   "options": [
+    "1255-yil",
+    "1256-yil",
+    "1257-yil",
+    "1258-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mo'g'ullar Bag'dodni qancha kun talaydilar?",
+   "options": [
+    "Ikki haftadan ko'proq",
+    "Bir haftadan oz",
+    "Uch haftadan ko'proq",
+    "Uch hafta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ullar shahardagi katta kutubxonani yondirib kitoblarni qaysi daryoga tashlaydilar?",
+   "options": [
+    "Elba",
+    "Dajla",
+    "Dunay",
+    "Don"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mo'g'ullar Yaqin Sharqqa bostirib kirib qayerni egallaydilar?",
+   "options": [
+    "Suriya",
+    "Halab",
+    "Qohira",
+    "Misr"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mo'g'ullar qaysi shaharni vayrona qiladilar?",
+   "options": [
+    "Suriya",
+    "Halab",
+    "Qohira",
+    "Misr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi shahar jangsiz taslim bo'ladi?",
+   "options": [
+    "Damashq",
+    "Qohira",
+    "Misr",
+    "Bag'dod"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Islom dunyosining markazi qayerga ko'chadi?",
+   "options": [
+    "Damashq",
+    "Bag'dod",
+    "Qohira",
+    "Misr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xuloku qayerga elchi yuborib taslim bo'lish shartini qo'yadi?",
+   "options": [
+    "Bag'dod",
+    "Misr",
+    "Qohira",
+    "Suriya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mo'g'ullar bilan Misr o'rtasida qachon jang bo'ldi?",
+   "options": [
+    "1259-yil",
+    "1262-yil",
+    "1260-yil",
+    "1265-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi Misr hukmdori jasorati tufayli mo'g'ullar ustidan g'alaba qozadilar?",
+   "options": [
+    "Sulton Sayfiddin Quduz",
+    "Sulton Sayfiddin Ag'roq",
+    "Sulton As-Solih II",
+    "Sulton Al-Mansur Ali"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misrliklarni mo'g'ullar ustidan g'alabasi tufayli mo'g'ullarning qayerga yurishi to'xtatib qo'yildi? 1. Yevropa 2. Afrika 3. Yaqin sharq",
+   "options": [
+    "1, 2, 3",
+    "1, 2",
+    "2, 3",
+    "1, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi ma'lumotlardan qaysi biri noto'g'ri?",
+   "options": [
+    "Sayfiddin Qutuz Xorazmshohlar avlodidan bo'lib, Jaloliddin Manguberdining opasining o'g'li bo'lgan",
+    "Sayfiddin Qutuzni misrlik qul savdogar Misr sultoni As-Solih II ning mamluklar qo'shinida xizmat qilish uchun sotib oladi",
+    "Qutuz mamluklar maktabida ta'lim oladi va harbiy san'at sirlarini o'rganadi. Sobiq qul mamluklar qo'shinida katta amir darajasiga yetadi, Misr sultoni noibi lavozimiga ko'tariladi",
+    "Sayfiddin Qutuz yengilish nima ekanligini bilmay kelayotgan mo'g'ullarni Ayn-Jotundagi jangda tor-mor etish orqali tarixda \"Mo'g'ullar g'olibi\" degan nomga sazovor bo'ladi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sayfiddin Qutuzni qaysi qul bozorida sotib yuboradilar?",
+   "options": [
+    "Damashq",
+    "Bag'dod",
+    "Qohira",
+    "Halab"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kim Oltin O'rda xonligini tuzadi?",
+   "options": [
+    "Botuxon",
+    "Berkaxon",
+    "Xuloku",
+    "Xubilay"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misr taxtiga kim o'tirgach amaldagi boshqaruv uning vasiysi bo'lgan Qutuz qo'liga o'tadi?",
+   "options": [
+    "Sulton Al-Mansur Ali II",
+    "Sulton Sayfiddin Ag'roq",
+    "Sulton As-Solih II",
+    "Sulton Al-Mansur Ali"
+   ],
+   "answer": 3
+  }
+ ]
+}

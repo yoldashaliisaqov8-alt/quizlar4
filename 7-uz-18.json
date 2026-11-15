@@ -1,0 +1,376 @@
+{
+ "title": "7-sinf · Xorazmshohlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Sulton Sanjar maqbarasi quyidagi qaysi variantdagi hududda joylashganligini toping.",
+   "options": [
+    "Nishopur",
+    "Marv",
+    "Isfahon",
+    "Sheroz"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilgan qaysi sulolaga xorazmshohiy unvoni berilganlarga nomuvofiq ekanligini toping.",
+   "options": [
+    "afrig'iylar",
+    "ma'muniylar",
+    "bahodiriylar",
+    "oltintoshiylar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Anushtegin qaysi saljuqiy sulton ko'zga ko'ringan va ishonchli mansabdorlaridan sanalganligini toping.",
+   "options": [
+    "Sulton Sanjar",
+    "Sulton Malikshoh",
+    "Sulton Alptegin",
+    "Sulton Tog'rulbek"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorazm doirasidan tashqariga chiqib, boshqaruvning saltanat darajasiga erishgan sulola qaysi ekanligini toping.",
+   "options": [
+    "afrig'iylar",
+    "anushteginiylar",
+    "siyovushlar",
+    "ma'muniylar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sulton Malikshoh Anushteginni qayerga hokim etib tayinlanganini aniqlang.",
+   "options": [
+    "Toshkent",
+    "Samarqand",
+    "Buxoro",
+    "Xorazm"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Anushteginiylar sulolasining asoschisi Xorazmda hokimlik lavozimida necha yil boshqarganligini toping.",
+   "options": [
+    "15 yil",
+    "20 yil",
+    "25 yil",
+    "30 yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorazm davlatini davlat doirasidan tashqariga chiqarib, boshqaruvni saltanat darajasiga olib chiqqan sulola asoschisi qachondan boshlab Xorazmga hokimlik lavozimiga tayinlanganligini toping.",
+   "options": [
+    "1076-yildan",
+    "1077-yildan",
+    "1078-yildan",
+    "1079-yildan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlardan tarixiy haqiqatga muvofiq keladigan javobni toping.",
+   "options": [
+    "Anushtegin Qutbiddin Muhammadning o'g'li",
+    "Qutbiddin Muhammadning o'g'li Otsiz",
+    "Sulton Sanjarning o'g'illari Anushtegin va Otsiz",
+    "Qutbiddin Muhammadning otasi Otsiz"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"U saljuqiylar dargohiga qaram bo'lib, har yili o'zi yoki o'g'li Otsiz orqali viloyatdan undiriladigan soliqni poytaxtga olib borib turgan.\" Yuqoridagi fikr kim haqida ekanligini aniqlang.",
+   "options": [
+    "Anushtegin",
+    "Qutbiddin Muhammad",
+    "Otsiz",
+    "Takash"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ota-o'g'il Anushtegin va Qutbiddin Muhammad davrida saljuqiylar davlatining poytaxti qayer bo'lganligini toping.",
+   "options": [
+    "Marv",
+    "Nishopur",
+    "Halab",
+    "Damashq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilarni tahlil qilgan holda, nuqtalar o'rniga mantiqan mos bo'lgan javobni aniqlang. Hokimlikka tayinlagan hukmdorlar: Anushtegin - sulton Malikshoh; Otsiz - ...",
+   "options": [
+    "Sulton To'g'rulbek",
+    "Sulton Sanjar",
+    "Sulton Alptegin",
+    "Sulton Malikshoh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bu vaqtda o'ttizga ham kirmagan Otsiz avvaliga otasi kabi ... xonadoniga sidqidildan xizmat qiladi. Nuqtalar o'rniga mos javobni qo'ying.",
+   "options": [
+    "somoniylar",
+    "safforiylar",
+    "saljuqiylar",
+    "siyovushlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Otsiz hukmronligi davrida saljuqiylar davlatida quyidagi qaysi hukmdorning hukmronligi ketayotganligini toping.",
+   "options": [
+    "Sulton Malikshoh",
+    "Sulton Alptegin",
+    "Sulton Tog'rulbek",
+    "Sulton Sanjar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xorazm shahrining birinchi va asosiy poytaxti bo'lgan hududni belgilang.",
+   "options": [
+    "Gurganch",
+    "Kat",
+    "Urganch",
+    "Xiva"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sulton Sanjar va Otsiz o'rtasidagi jangni yakunini sharhlagan o'sha davr tarixchisini toping.",
+   "options": [
+    "Otamalik Juvayniy",
+    "Ibn al Asr",
+    "Nasaviy",
+    "Mirxond"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kimlarning ma'lumotiga ko'ra sulola (anushteginiylar) asoschisi birinchi faoliyatini sulton Malikshoh I ga xizmat qilishdan boshlaganligini toping.",
+   "options": [
+    "Rashiduddin",
+    "Hofizi Abro'",
+    "Otamalik Juvayniy",
+    "A, B"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi saljuqiy hukmdor Xorazm uchun o'zi tayinlagan hokimga qarshi yurish qiladi va uni yengib yangi hokim tayinlaganini toping.",
+   "options": [
+    "Alptegin",
+    "Sanjar",
+    "Malikshoh I",
+    "Sulaymonshoh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi ma'lumotlardan faqat to'g'ri berilganlarini belgilang. I. Sulaymonshoh Otsizning o'g'li II. Bag'dod xalifasi Otsizga «Xorazm viloyati va u tomonidan Xorazmga qo'shib olingan hamda olinadigan g'arbiy, sharqiy chegaralardagi viloyatlarning hukmdori», deb tan olingan yorliqni oladi III. Otsiz Ray, Nishopurni ham o'zining tasarrufiga o'tkazadi IV. Otsiz o'zining ismi bitilgan oltin tangalarni zarb qilishni boshlab yuboradi",
+   "options": [
+    "I va II",
+    "II va III",
+    "I va III",
+    "II va IV"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Anushteginiylar sulolasining shajarasi to'g'ri berilgan variantni belgilang.",
+   "options": [
+    "Anushtegin - Otsiz - Qutbiddin Muhammad - El arslon",
+    "Anushtegin - Qutbiddin Muhammad - Otsiz - El arslon",
+    "Anushtegin - El arslon - Qutbiddin Muhammad - Otsiz",
+    "Qutbiddin Muhammad - Anushtegin - Otsiz - El arslon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta asrlarda qaysi davlatda majburiy umumxalq harbiy ta'lim tizimini joriy qilganligini toping.",
+   "options": [
+    "Qoraxoniylar",
+    "Saljuqiylar",
+    "G'aznaviylar",
+    "Xorazmshohlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kimning davriga kelib qo'shin soni (a) 170 ming nafar otliq askar va kimning davrida (b) 100 ming nafar suvoriy bo'lganligini toping.",
+   "options": [
+    "(a) Otsiz va (b) Qutbiddin Muhammad",
+    "(a) El arslon va (b) Takash",
+    "(a) Alouddin Muhammad va (b) Jaloliddin Manguberdi",
+    "(a) Takash va (b) Alouddin Muhammad"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraxitoylarga qarshi Movarounnahrda jang qilgan (a)... va Movarounnahrdan ularni haydab chiqargan (b)... xorazmshohlarni toping.",
+   "options": [
+    "a-Takash, b-El arslon",
+    "a-Otsiz, b-Takash",
+    "a-El arslon, b-Alouddin Muhammad",
+    "a-Alouddin Muhammad, b-Jaloliddin Manguberdi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Movarounnahrdagi El arslon va qoraxitoylar o'rtasida jangdan so'ng, El arslon qaysi hududlarni egalladi (a)..., qaysi hududga harbiy yurish e'lon qildi (b)...",
+   "options": [
+    "a-Gruziya, b-Ozarbayjon",
+    "a-Nishopur, b-Eron",
+    "a-Nishopur, b-Ozarbayjon",
+    "a-Nishopur, b-Isfahon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xorazmshoh Muhammadning 100 ming nafar suvoriy bilan zabt etgan hududlarga muvofiq keladigan javobni aniqlang. 1) Suriya 2) Fors Iroqi 3) Falastin 4) Ozarbayjon 5) Gruziya",
+   "options": [
+    "1, 2, 3",
+    "2, 4, 5",
+    "2, 4",
+    "1, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xorazmda 1172–1200-yillarda hukmronlik qilgan Xorazmshohga oid to'g'ri ma'lumotni toping.",
+   "options": [
+    "Uning otasi Otsiz bo'lgan",
+    "uning qo'shinida 170 ming nafar piyoda askar bo'lgan",
+    "uning Alouddin Muhammad ismli akasi bo'lgan",
+    "Hukmronligi so'nggida u hatto Bag'dodni xalifalik poytaxtini zabt etishga ham shaylanadi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xorazmshoh Takash qo'shinida qancha ming nafar otliq askar bo'lganligini aniqlang.",
+   "options": [
+    "150 ming",
+    "160 ming",
+    "170 ming",
+    "180 ming"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xorazmshoh Takash quyidagi qaysi hududlarni bo'ysuntirganligini aniqlang. 1) Sharqiy Eron 2) G'arbiy Eron 3) Kirmon 4) Ozarbayjon 5) Iroq",
+   "options": [
+    "1, 2, 3, 4, 5",
+    "2, 3, 4",
+    "2, 3",
+    "faqat 2"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qoraxitoylarga qarshi qilingan yurishlarda xorazmshoh Muhammadning qancha otliq askarlari bo'lganligini aniqlang.",
+   "options": [
+    "200 ming nafar",
+    "300 ming nafar",
+    "400 ming nafar",
+    "600 ming nafar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xorazmshoh Muhammadning Fors, Iroq, Ozarbayjonga qilgan yurishida qancha ming nafar suvoriy bo'lganligini aniqlang.",
+   "options": [
+    "70 ming",
+    "90 ming",
+    "100 ming",
+    "120 ming"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Alouddin Muhammad davriga kelib davlat chegarasi qaysi hududlargacha borganligini aniqlang.",
+   "options": [
+    "Movarounnahrdan Hindistongacha",
+    "Xurosondan Sharqiy Turkistongacha",
+    "Xurosondan Hindistongacha",
+    "Erondan Xitoygacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sulton Muhammadning asosiy maqsadi bo'lgan hududlarga nomuvofiq bo'lgan variantni toping.",
+   "options": [
+    "Suriya",
+    "Kavkaz",
+    "Kichik Osiyo",
+    "Misr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kimning hukmronligi davrida kelib, Xorazmshohlar davlati tarkibiga Ozarbayjon, Eron, Xurosondan Hindistongacha bo'lgan yerlar kirganligini aniqlang.",
+   "options": [
+    "Takash",
+    "Alouddin Muhammad",
+    "El arslon",
+    "Otsiz"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi xorazmshohning asosiy maqsadi Suriya, Kichik Osiyo va Misrni ham bo'ysundirish bo'lganligini aniqlang.",
+   "options": [
+    "Sulton Malikshoh I",
+    "Sulton Sanjar",
+    "Sulton Muhammad",
+    "Sulton Ahmad"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muhammad xorazmshoh 400 ming atrofidagi o'z qo'shinini qayerga yurishiga jo'natganligini toping.",
+   "options": [
+    "Bog'dod",
+    "Damashq",
+    "Isfahon",
+    "Ray"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ikkinchi Iskandar, ikkinchi Sulton Sanjar laqabi bilan mashhur bo'lgan hukmdorning otasini belgilang.",
+   "options": [
+    "Alouddin Muhammad",
+    "Takash",
+    "El arslon",
+    "Otsiz"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Muhammad Xorazmshoh qo'shini qaysi viloyatga yetganida g'ayritabiiy hodisa yuz beradi?",
+   "options": [
+    "Yaman",
+    "Hijoz",
+    "Hulvon",
+    "Makka"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida keltirilgan ma'lumotlardan qaysilarida davlat-hukmdor-voqea mos ravishda berilganligini toping.",
+   "options": [
+    "Xorazmshohlar — Takash — G'arbiy Eronning ayrim qismini hamda Kirmonni bo'ysundiradi",
+    "Saljuqiylar — Sulton To'g'rulbek — Suriya, Kichik Osiyo va Misrni ham bo'ysuntirdi",
+    "Safforiylar — Alouddin Muhammad — Movarounnahrdan qoraxitoylarni haydab chiqaradi",
+    "Xorazmshohlar — Nasr ibn Mansur — xalifalik poytaxtini zabt etdi"
+   ],
+   "answer": 0
+  }
+ ]
+}

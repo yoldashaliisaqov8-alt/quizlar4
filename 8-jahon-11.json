@@ -1,0 +1,680 @@
+{
+ "title": "8-sinf · Bolqon mamlakatlari, Markaziy va Sharqiy Yevropa",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Serbiya Vizantiyadan mustaqil bo'lib, qirollikka aylangan hukmdor kim edi.",
+   "options": [
+    "Asen II",
+    "Stefan Dushan",
+    "Stefan II",
+    "Milosh Obilich"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bolgariyada birinchi marotaba nima zarb qilingan.",
+   "options": [
+    "Qog'oz pul",
+    "Mis pul",
+    "Kumush pul",
+    "Oltin pul"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Stefan Dushan davrida qabul qilingan hujjatni aniqlang.",
+   "options": [
+    "Qonunlar to'plami",
+    "Oltin bulla",
+    "Erkinlikning buyuk xartiyasi",
+    "Huquqning yetti bo'limi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Serbiyaning oxirgi hududi turklar tomonidan qaysi yilda ishg'ol etilgan.",
+   "options": [
+    "1389-yilda",
+    "1396-yilda",
+    "1459-yilda",
+    "1331-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Guschilar harakatini bostira olmagan yangi qirolni aniqlang.",
+   "options": [
+    "Yan Lyuksemburg",
+    "Kazimir III",
+    "Pshemisl II",
+    "Sigizmund"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Stefan Dushan qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1371–1415-yillarda",
+    "1331–1355-yillarda",
+    "1308–1342-yillarda",
+    "1018–1187-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oltin bullaga ko'ra qaysi toifa soliqlardan ozod etildi.",
+   "options": [
+    "Harbiy ritsarlar",
+    "Dehqonlar",
+    "Shaharliklar",
+    "Ishpanlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1308-yilda Vengriya taxtini qaysi sulola vakillari egalladi.",
+   "options": [
+    "Anjuy sulolasi",
+    "Nemanyalar sulolasi",
+    "Arpadlar sulolasi",
+    "Piastlar sulolasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tevton ordeni harbiylari tomonidan bosib olingan hududlarni aniqlang.",
+   "options": [
+    "Prussiya va Pomorye",
+    "Krakov va Gnezno",
+    "Frakiya va Makedoniya",
+    "Bogemiya va Moraviya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bolgariyada Usmoniy turklar hukmronligi qachongacha davom etdi.",
+   "options": [
+    "XVII asr boshigacha",
+    "XV asr oxirigacha",
+    "XIX asrning ikkinchi yarmigacha",
+    "XX asr boshigacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yan Gus qaysi tilda va'z qilgan.",
+   "options": [
+    "Nemis tilida",
+    "Polyak tilida",
+    "Lotin tilida",
+    "Chex tilida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Guschilar harakati qaysi yilda bostirildi.",
+   "options": [
+    "1396-yilda",
+    "1415-yilda",
+    "1419-yilda",
+    "1434-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Arpadlar sulolasi qaysi yilda barham topdi.",
+   "options": [
+    "1301-yilda",
+    "1396-yilda",
+    "1308-yilda",
+    "1240-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Praga universiteti professori, katolik cherkovini keskin tanqid qilgan shaxsni aniqlang.",
+   "options": [
+    "Jon Viklif",
+    "Yan Lyuksemburg",
+    "Jon Boll",
+    "Yan Gus"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Serbiyani idora etgan sulolani aniqlang.",
+   "options": [
+    "Piastlar sulolasi",
+    "Arpadlar sulolasi",
+    "Anjuy sulolasi",
+    "Nemanya sulolasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kazimir III qaysi knyazning o'g'li edi.",
+   "options": [
+    "Pshemisl II ning",
+    "Vladislav I ning",
+    "Boleslav III ning",
+    "Ishtvan ning"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ikkinchi Bolgariya podshohligi qaysi yilda tashkil topgan.",
+   "options": [
+    "1396-yilda",
+    "1331-yilda",
+    "1187-yilda",
+    "1018-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bolqon yarimorolida istiqomat qiluvchi janubiy slavyanlar qanday nomlangan.",
+   "options": [
+    "Vengerlar",
+    "Serblar",
+    "Bolgarlar",
+    "Chexlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vengriyaning birinchi qiroli kim edi va u qachon toj kiydi.",
+   "options": [
+    "Arpad, 1240-yilda",
+    "Layosh, 1342-yilda",
+    "Ishtvan Buyuk, 1000-yilda",
+    "Andrash II, 1222-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vengerlar yana qanday nom bilan atalgan.",
+   "options": [
+    "Mojorlar",
+    "Serblar",
+    "Guschilar",
+    "Pannonlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chexiyada ruhoniylar, pan va harbiy-ritsarlardan iborat vakillik yig'ini qanday nomlangan.",
+   "options": [
+    "Kortes",
+    "Veche",
+    "Seym",
+    "Parlament"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vengriyaning muhim huquqiy hujjati — Oltin bulla qaysi qirol davrida qabul qilingan.",
+   "options": [
+    "Arpad",
+    "Ishtvan Buyuk",
+    "Layosh",
+    "Andrash II"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chexiya 1419-yilda qaysi imperiyadan ajralib, mustaqil davlatga aylandi.",
+   "options": [
+    "Vizantiya imperiyasidan",
+    "Oltin O'rdadan",
+    "Germaniya imperiyasidan",
+    "Usmoniy imperiyasidan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bolgar savdogarlari Fransiyaning qaysi yarmarkalarida qatnashgan.",
+   "options": [
+    "Parij va Orlean",
+    "Avinyon va Bretan",
+    "Flandriya va Shampan",
+    "Marsel va Lion"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yan Gus qaysi yili gulxanda yoqildi.",
+   "options": [
+    "1415-yilda",
+    "1434-yilda",
+    "1371-yilda",
+    "1419-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bolgariyaning Vizantiyaga qaramligi qaysi yillar oralig'ida davom etdi.",
+   "options": [
+    "1018–1187-yillarda",
+    "1187–1396-yillarda",
+    "1331–1355-yillarda",
+    "1389–1459-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIV asrda Chexiyaning qaysi shahri yirik savdo markaziga aylandi.",
+   "options": [
+    "Krakov",
+    "Poznan",
+    "Gnezno",
+    "Praga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Polshada qirollik eng qudratli hokimiyatga aylangan qirolni aniqlang.",
+   "options": [
+    "Boleslav III",
+    "Kazimir III",
+    "Vladislav I",
+    "Sigizmund"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vizantiyaga qarshi qo'zg'olon ko'tarib, Ikkinchi Bolgariya podshohligining birinchi hukmdori bo'lgan shaxsni aniqlang.",
+   "options": [
+    "Stefan II",
+    "Stefan Dushan",
+    "Asen II",
+    "Asen"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Polshani 960–1385-yillarda qaysi sulola idora qildi.",
+   "options": [
+    "Anjuy",
+    "Piastlar",
+    "Arpadlar",
+    "Nemanyalar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada berilgan hukmdorlar va ularning faoliyati to'g'ri ko'rsatilgan javobni aniqlang.",
+   "options": [
+    "1, 3",
+    "2, 4",
+    "1, 4",
+    "2, 3"
+   ],
+   "answer": 2,
+   "image": "img/j8-11-31.jpg"
+  },
+  {
+   "q": "Qaysi knyaz davrida Polsha o'nlab mayda viloyatlarga bo'linib ketdi.",
+   "options": [
+    "Vladislav I",
+    "Kazimir III",
+    "Pshemisl II",
+    "Boleslav III"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yan Gus qaysi yili ruhoniy bo'ldi va qaysi yili Praga universiteti rektori bo'ldi.",
+   "options": [
+    "1398-yilda ruhoniy, 1415-yilda rektor",
+    "1419-yilda ruhoniy, 1434-yilda rektor",
+    "1402-yilda ruhoniy, 1400-yilda rektor",
+    "1400-yilda ruhoniy, 1402-yilda rektor"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIV asrda Bolgariya qaysi uchta mustaqil davlatga bo'linib ketdi.",
+   "options": [
+    "Frakiya, Makedoniya, Epir",
+    "Serbiya, Chexiya, Polsha",
+    "Tirnovo, Kosovo, Bogemiya",
+    "Tirnovo, Vidin, Dobruja"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIII asrda Chexiya davlati yana qanday nom bilan atalgan.",
+   "options": [
+    "Silezya",
+    "Moraviya",
+    "Bogemiya",
+    "Pomorye"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Pan” so'zi Chexiya va Polsha davlatlarida qanday ma'nolarni bildiradi.",
+   "options": [
+    "Rahbar, graf",
+    "Feodal, yer egasi, xo'jayin, janob",
+    "Kengash, xalq yig'ini",
+    "Parlament, vakillik yig'ini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tevton ordeni hujumi natijasida Polsha qaysi dengizga chiqish yo'lidan mahrum bo'ldi.",
+   "options": [
+    "Adriatika dengiziga",
+    "O'rta dengizga",
+    "Boltiq dengiziga",
+    "Qora dengizga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Polsha shaharlaridan qaysilari savdo va hunarmandchilik markazlari hisoblangan.",
+   "options": [
+    "Lyubek, Gamburg, Bremen",
+    "Krakov, Gnezno, Poznan",
+    "Praga, Tirnovo, Vidin",
+    "Lissabon, Koimbra, Braga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vengriya 1240-yilda kim boshchiligidagi mo'g'ullar tomonidan ishg'ol etilgan.",
+   "options": [
+    "Mamay",
+    "To'xtamishxon",
+    "Botuxon",
+    "Chingizxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vengriya qaysi qirol davrida qudratli davlatga aylandi.",
+   "options": [
+    "Arpad",
+    "Andrash II",
+    "Layosh",
+    "Ishtvan Buyuk"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yan Gus qaysi shaharda bo'lib o'tgan ruhoniylar yig'ilishida qamoqqa olindi.",
+   "options": [
+    "Avinyon",
+    "Konstansa",
+    "Praga",
+    "Rim"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan to'g'ri bo'lganlarini aniqlang.",
+   "options": [
+    "3, 4",
+    "1, 3",
+    "1, 2",
+    "2, 3"
+   ],
+   "answer": 0,
+   "image": "img/j8-11-42.jpg"
+  },
+  {
+   "q": "Qirol Ishtvan Buyuk davrida Vengriya qaysi dinni qabul qildi.",
+   "options": [
+    "Xristian dinini",
+    "Islom dinini",
+    "Buddaviylikni",
+    "Yahudiylikni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oltin bulla muarrixlar tomonidan qaysi hujjatga qiyoslanadi.",
+   "options": [
+    "Ispaniyadagi “Huquqning yetti bo'limi”ga",
+    "Serbiyadagi “Qonunlar to'plami”ga",
+    "Angliyadagi “Erkinlikning buyuk xartiyasi”ga",
+    "Fransiyadagi “Sali haqiqati”ga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kosovo jangida turk sultoni Murod I kim tomonidan o'ldirilgan.",
+   "options": [
+    "Asen II",
+    "Stefan Dushan",
+    "Milosh Obilich",
+    "Stefan II"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Pragada guschilar qo'zg'oloni qaysi yilda ko'tarildi.",
+   "options": [
+    "1434-yilda",
+    "1415-yilda",
+    "1400-yilda",
+    "1419-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Asenning vorisi davrida Bolgariya podshohligi gullab-yashnadi. Bu qaysi hukmdor edi.",
+   "options": [
+    "Stefan II",
+    "Asen II",
+    "Yan Lyuksemburg",
+    "Stefan Dushan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Serbiya qirolligiga tegishlilarini aniqlang.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-11-48.jpg"
+  },
+  {
+   "q": "Vengerlar qaysi asrdan dehqonchilikni ham o'zlashtirgan.",
+   "options": [
+    "XV asrdan",
+    "XII asrdan",
+    "IX asrdan",
+    "X asrdan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Asen II davrida Bolgariyaga qaysi hududlar qo'shib olindi.",
+   "options": [
+    "Pomorye, Prussiya, Krakov",
+    "Frakiya, Makedoniya, Epir, Fessaliyaning bir qismi",
+    "Bogemiya, Moraviya, Silezya",
+    "Kosovo, Bosniya, Dalmatsiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Serblar va Usmoniy turklar o'rtasidagi hal qiluvchi jang qaysi yili, qayerda bo'lib o'tdi.",
+   "options": [
+    "1380-yilda, Kulikovo maydonida",
+    "1389-yilda, Kosovo maydonida",
+    "1395-yilda, Tarak daryosi bo'yida",
+    "1415-yilda, Konstansada"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XV asrda Polshada tashkil etilgan umumtoifa vakillarining ikki palatali yig'ini qanday nomlangan.",
+   "options": [
+    "Seym",
+    "General shtatlar",
+    "Kortes",
+    "Parlament"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bolgariyaning Vizantiyaga qaramligi taxminan necha yil davom etgan.",
+   "options": [
+    "170 yilga yaqin",
+    "500 yilga yaqin",
+    "70 yilga yaqin",
+    "270 yilga yaqin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yan Gus qaysi yilda tug'ilgan.",
+   "options": [
+    "1400-yilda",
+    "1415-yilda",
+    "1371-yilda",
+    "1419-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vengriyada ishpan deb nomlangan mansabdorlar kimga tenglashtirilgan.",
+   "options": [
+    "Fransuz qiroliga",
+    "Franklardagi grafga",
+    "Venetsiya dojiga",
+    "Rim papasiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vengriya davlati qachon tashkil topgan.",
+   "options": [
+    "XV asr o'rtalarida",
+    "X asr oxirida",
+    "IX asr oxirida",
+    "XIII asr boshida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Polshani birinchi bo'lib birlashtirib, qirollik mavqeyini qayta tiklagan knyazni aniqlang.",
+   "options": [
+    "Vladislav I",
+    "Kazimir III",
+    "Pshemisl II",
+    "Boleslav III"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vengerlar qaysi tillar guruhiga mansub xalqlar edi.",
+   "options": [
+    "Turkiy",
+    "Slavyan",
+    "German",
+    "Ugro-fin (ural)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Yan Gusga tegishlilarini aniqlang.",
+   "options": [
+    "3, 4",
+    "2, 4",
+    "1, 4",
+    "1, 2"
+   ],
+   "answer": 1,
+   "image": "img/j8-11-59.jpg"
+  },
+  {
+   "q": "Yan Gusning fikricha, Chexiya cherkovi kimga bo'ysunishi kerak edi.",
+   "options": [
+    "Qirolga",
+    "Nemis imperatoriga",
+    "Praga arxiyepiskopiga",
+    "Papaga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Stefan Dushan davrida Serbiya qanday davlat edi.",
+   "options": [
+    "Bolqon yarimorolidagi eng yirik va qudratli davlatlardan biri",
+    "Vizantiyaga qaram davlat",
+    "Uchta davlatga bo'lingan mamlakat",
+    "Usmoniylarga bo'ysungan davlat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ikkinchi Bolgariya podshohligi qaysi yilda tugatildi.",
+   "options": [
+    "1396-yilda",
+    "1389-yilda",
+    "1187-yilda",
+    "1459-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chexiya qirol Pshemisl II davrida hududi qaysi dengizning janubigacha yetib bordi.",
+   "options": [
+    "Qora dengiz",
+    "Adriatika dengizi",
+    "Boltiq dengizi",
+    "Shimoliy dengiz"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pshemisl II qaysi imperatorlikka o'z nomzodini qo'ydi. U muvaffaqiyatsizlikka uchradi.",
+   "options": [
+    "Vizantiya imperatorligiga",
+    "Usmoniy imperiyasiga",
+    "Rim papaligiga",
+    "Nemis imperatorligiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Asen II davrida Bolgariya Bolqon yarimorolidagi qanday davlatga aylandi.",
+   "options": [
+    "Eng kichik mamlakatga",
+    "Eng katta mamlakatga",
+    "Mustaqil bo'lmagan davlatga",
+    "Eng qoloq mamlakatga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi bolgar mahsulotlari G'arb bozorlarida xaridorgir edi.",
+   "options": [
+    "Yuqori sifatli terilardan ishlangan oyoq kiyimlar",
+    "Oyna buyumlar",
+    "Ipak gazlamalar",
+    "Qurol-yarog'lar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta asrlarda Chexiya va Polsha davlatlarida vakillik yig'inlari — parlament shunday atalgan. Atamani izohlang.",
+   "options": [
+    "Pan",
+    "Seym",
+    "Kortes",
+    "Veche"
+   ],
+   "answer": 1
+  }
+ ]
+}

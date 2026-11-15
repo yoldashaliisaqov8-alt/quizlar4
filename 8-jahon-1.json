@@ -1,0 +1,176 @@
+{
+ "title": "8-sinf · Kirish",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Hindistonda Dehli sultonligi tashkil topgan vaqtni belgilang.",
+   "options": [
+    "1302-yil",
+    "1299-yil",
+    "1206-yil",
+    "1397-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bu davrda Afrikadagi o'ziga xos iqtisodiy rivojlanish yo'lini bosib o'tgan davlatlarni aniqlang.",
+   "options": [
+    "Niger, Mali",
+    "Mali, Aksum",
+    "Niger, Gana",
+    "Mali, Songay"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bu davrda Amerikadagi o'ziga xos iqtisodiy rivojlanish yo'lini bosib o'tgan davlatlarni aniqlang.",
+   "options": [
+    "Mayya, Astek, Ink",
+    "Mayya, Astek, Kechua",
+    "Ink, Kechua, Olmek",
+    "Astek, Ink, Toltek"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mayyalar poytaxtini belgilang.",
+   "options": [
+    "Kusko",
+    "Tenochtitlan",
+    "Mayyapan",
+    "Gao"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Angliyada “Erkinlikning buyuk xartiyasi” qabul qilingan vaqtni toping.",
+   "options": [
+    "1263-yil",
+    "1215-yil",
+    "1250-yil",
+    "1429-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mayyapan shahriga qachon asos solingan.",
+   "options": [
+    "1263-yil",
+    "1215-yil",
+    "1250-yil",
+    "1429-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misrda Mamluklar davlatiga asos solingan vaqtni aniqlang.",
+   "options": [
+    "1263-yil",
+    "1215-yil",
+    "1250-yil",
+    "1429-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Asteklar mustaqillikka erishib, Tenochtitlan Meksika vodiysidagi eng qudratli shaharga aylangan vaqtni aniqlang.",
+   "options": [
+    "1263-yil",
+    "1215-yil",
+    "1250-yil",
+    "1429-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1453-yilda qanday voqea yuz bergan.",
+   "options": [
+    "Misrda Mamluklar davlatiga asos solingan",
+    "Vizantiya imperiyasi qulagan",
+    "Asteklar mustaqillikka erishib, Tenochtitlan Meksika vodiysidagi eng qudratli shaharga aylangan",
+    "Mayyapan shahriga asos solingan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1337-1453 yillarda qanday voqea yuz berganini aniqlang.",
+   "options": [
+    "Yevropada qora o'lat-vabo kasalligi tarqaldi",
+    "Yuz yillik urush bo'lib o'tdi",
+    "Xitoyda Min sulolasi hukmronligi o'rnatildi",
+    "Eronda Hulokiylar davlati tashkil etildi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1347-yilda qanday voqea yuz berganini aniqlang.",
+   "options": [
+    "Yevropada qora o'lat-vabo kasalligi tarqaldi",
+    "Yuz yillik urush bo'lib o'tdi",
+    "Xitoyda Min sulolasi hukmronligi o'rnatildi",
+    "Eronda Hulokiylar davlati tashkil etildi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1368-yilda qanday voqea yuz berganini aniqlang.",
+   "options": [
+    "Yevropada qora o'lat-vabo kasalligi tarqaldi",
+    "Yuz yillik urush bo'lib o'tdi",
+    "Xitoyda Min sulolasi hukmronligi o'rnatildi",
+    "Eronda Hulokiylar davlati tashkil etildi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1256-yilda qanday voqea yuz berganini aniqlang.",
+   "options": [
+    "Yevropada qora o'lat-vabo kasalligi tarqaldi",
+    "Yuz yillik urush bo'lib o'tdi",
+    "Xitoyda Min sulolasi hukmronligi o'rnatildi",
+    "Eronda Hulokiylar davlati tashkil etildi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fransiyada ilk bor general-shtatlar chaqirilgan vaqtni aniqlang.",
+   "options": [
+    "1302-yil",
+    "1299-yil",
+    "1445-yil",
+    "1397-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Iogann Gutenberg qachon kitob bosish dastgohini ixtiro qilganini aniqlang.",
+   "options": [
+    "1302-yil",
+    "1299-yil",
+    "1445-yil",
+    "1397-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Usmoniylar davlati qachon tashkil topgan.",
+   "options": [
+    "1302-yil",
+    "1299-yil",
+    "1445-yil",
+    "1397-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yaponiyada qachon Oltin pavilyon qurilganini aniqlang.",
+   "options": [
+    "1302-yil",
+    "1299-yil",
+    "1206-yil",
+    "1397-yil"
+   ],
+   "answer": 3
+  }
+ ]
+}

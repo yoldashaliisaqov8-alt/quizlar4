@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 6-mavzu. Nil vodiysi va uning aholisi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Darslikka ko'ra Nil daryosining uzunligi qancha?",
+   "options": [
+    "8 ming kilometr",
+    "6 ming kilometr",
+    "3 ming kilometr",
+    "4 ming kilometr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nil daryosining quyi qismidagi qora tuproqli serhosil dalalarning kengligi qancha bo'lgan?",
+   "options": [
+    "3 km dan 22 km gacha",
+    "100 km dan ortiq",
+    "1 km dan 5 km gacha",
+    "30 km dan 50 km gacha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vodiyliklar o'z yurtiga qanday nom berishgan?",
+   "options": [
+    "“Oltin o'lka” yoki “Quyosh yurti”",
+    "“Ikki daryo oralig'i”",
+    "“Qora tuproq” yoki “Nil in'omi”",
+    "“Qamishzor o'lka”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nima uchun Misr “Nil in'omi” deb atalgan?",
+   "options": [
+    "Nil bo'yida oltin konlari ko'p bo'lgan",
+    "Nil toshqinlari qirg'oqlarda qora tuproqli serhosil dalalarni vujudga keltirgan",
+    "Nil orqali boshqa mamlakatlardan sovg'alar kelgan",
+    "Misrliklar Nilni ma'bud deb bilgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadim zamonlarda Nil vodiysi qanday ko'rinishda bo'lgan?",
+   "options": [
+    "Papirus butalari chirmashib ketgan botqoqliklar bilan qoplangan, timsoh va ilonlar ko'p bo'lgan",
+    "Qalin o'rmonlar bilan qoplangan tog'lar bo'lgan",
+    "Qumli cho'l bo'lib, suv kam bo'lgan",
+    "Bog'-rog'larga burkangan serhosil voha bo'lgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Odamlar Nil daryosi qirg'oqlaridagi yerlarni qachon o'zlashtirishga bel bog'laganlar?",
+   "options": [
+    "Mil. avv. 2-mingyillikda",
+    "Mil. avv. 3000-yilda",
+    "Mil. avv. 6-mingyillikda",
+    "Mil. avv. 4-mingyillik boshlarida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Misrlik dehqonlarning hosili qachon barakali bo'lgan?",
+   "options": [
+    "Yomg'ir ko'p yoqqan yillarda",
+    "Nil daryosi dalalarni suvga bostirib, keng-mo'l oqqan yillarda",
+    "Nil suvi kam bo'lgan yillarda",
+    "Kohinlar qurbonlik qilmagan yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Misrliklar gazlamani nimadan to'qishgan?",
+   "options": [
+    "Qo'y junidan",
+    "Paxtadan",
+    "Kanopdan",
+    "Ipakdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nil vodiysida yetishtirilgan ekinlarni aniqlang.\n1) bug'doy; 2) arpa; 3) sholi; 4) uzum; 5) xurmo; 6) choy.",
+   "options": [
+    "1, 2, 3, 4",
+    "1, 2, 4, 5",
+    "2, 3, 5, 6",
+    "1, 3, 4, 6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimda misrliklar urug'likni yerga singdirish uchun nima qilishgan?",
+   "options": [
+    "Qoramollarni daladan haydab o'tishgan",
+    "Urug'ni qo'l bilan ko'mib chiqishgan",
+    "Yerni qayta haydashgan",
+    "Dalani suv bilan bostirishgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hosil yig'im-terimi paytida misrliklar boshoqlarni nima bilan o'rishgan?",
+   "options": [
+    "Tosh pichoqlar bilan",
+    "Mis o'roqlar bilan",
+    "Temir o'roqlar bilan",
+    "Bronza qilichlar bilan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Misrliklar hosilni qanday yanchishgan?",
+   "options": [
+    "Bug'doy yoki arpa bog'lari ustidan hayvonlarni haydab o'tish orqali",
+    "Tosh yanchg'ichlarda",
+    "Tayoqlar bilan urib",
+    "Suv tegirmonlarida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nima uchun misrliklar donni sopol xumlarda saqlashgan?",
+   "options": [
+    "Donni uzoq yo'lga olib ketish uchun",
+    "Donni Nil toshqinidan saqlash uchun",
+    "Donni son-sanoqsiz kemiruvchi zararkunandalardan himoyalash uchun",
+    "Donni soliqchilardan yashirish uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi Misr hunarmandlarining nechtadan ziyod kasb-kori bo'lgan?",
+   "options": [
+    "30 dan ziyod",
+    "50 dan ziyod",
+    "100 dan ziyod",
+    "10 dan ziyod"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misr hunarmandlari va ularning mashg'ulotlari to'g'ri moslashtirilgan javobni aniqlang.\n1) Misgarlar; 2) Kemasozlar; 3) Zargarlar.\na) qamishdan qayiq, yog'ochdan kema qurgan; b) misni eritib mehnat qurollari quygan; c) oltin va qimmatbaho toshlardan taqinchoq yasagan; d) loydan idish yasab xumdonda pishirgan.",
+   "options": [
+    "1-b, 2-a, 3-d",
+    "1-d, 2-a, 3-c",
+    "1-b, 2-a, 3-c",
+    "1-b, 2-c, 3-a"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Misrda turli tabaqalarning uylari nimadan qurilgan?",
+   "options": [
+    "Oddiy misrliklarniki – xom g'ishtdan, zodagonlarniki – toshdan",
+    "Oddiy misrliklarniki – yog'ochdan, fir'avnlarniki – pishiq g'ishtdan",
+    "Oddiy misrliklarniki – loy suvalgan papirus poyalaridan, zodagonlarniki – xom g'ishtdan, fir'avn saroylari – toshdan",
+    "Hammaning uyi toshdan qurilgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Misrda ibodatxonalar nimadan barpo etilgan?",
+   "options": [
+    "Yog'ochdan",
+    "Xom g'ishtdan",
+    "Toshdan",
+    "Papirus poyalaridan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Odamlar Nil vodiysidagi sermashaqqat turmush sharoitiga qachon moslasha boshladi?",
+   "options": [
+    "Mil. avv. 4-mingyillik oxirida",
+    "Mil. avv. 2-mingyillikda",
+    "Mil. avv. 6-mingyillikda",
+    "Mil. avv. VII asrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misrdagi ilk kichik davlatlar qanday atalgan va ularni kimlar boshqargan?",
+   "options": [
+    "“Polis”lar; arxontlar",
+    "Viloyatlar; fir'avnlar",
+    "“Nom”lar; nomarxlar",
+    "Satrapliklar; satraplar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Misrda dastlab qaysi ikki podsholik mavjud bo'lgan?",
+   "options": [
+    "Memfis va Fiva",
+    "Quyi (Shimoliy) Misr va Yuqori (Janubiy) Misr",
+    "Nubiya va Liviya",
+    "Sharqiy va G'arbiy Misr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Misr qachon va kim tomonidan birlashtirildi?",
+   "options": [
+    "Mil. avv. 2600-yilda; fir'avn Xufu",
+    "Mil. avv. 3000-yilda; Yuqori Misr hukmdori Menes",
+    "Mil. avv. 3000-yilda; Quyi Misr hukmdori Menes",
+    "Mil. avv. XVIII asrda; fir'avn Yaxmos"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Birlashgan Misr davlati uchun qaysi shahar yangi poytaxt sifatida barpo etildi?",
+   "options": [
+    "Memfis",
+    "Geliopol",
+    "Aleksandriya",
+    "Fiva"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misr mustaqil “nom”larga parchalanib ketishiga nima sabab bo'ldi?",
+   "options": [
+    "Giksoslarning hujumi",
+    "Forslar istilosi",
+    "“Nom” hukmdorlari ko'p yillar mobaynida o'z mol-mulkini ko'paytirib olgani",
+    "Nil toshqinlarining to'xtashi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mamlakat qayta birlashgach, Misr davlatining poytaxti qaysi shahar bo'ldi?",
+   "options": [
+    "Memfis",
+    "Sakkara",
+    "Giza",
+    "Fiva"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Misr tarixidagi voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Menesning ikki podsholikni birlashtirishi; 2) “nom”larning paydo bo'lishi; 3) Nil qirg'oqlarini o'zlashtirish boshlanishi.",
+   "options": [
+    "1, 2, 3",
+    "2, 3, 1",
+    "3, 2, 1",
+    "3, 1, 2"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi Misr hududida joylashgan shaharlarni aniqlang.\n1) Memfis; 2) Bobil; 3) Luksor; 4) Assuan; 5) Ur; 6) Giza.",
+   "options": [
+    "1, 2, 4, 6",
+    "1, 3, 4, 6",
+    "2, 4, 5, 6",
+    "1, 2, 3, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Fir'avn” va “nomarx” atamalarining mazmuni to'g'ri berilgan javobni toping.",
+   "options": [
+    "Qo'shin boshlig'i; soliq yig'uvchi",
+    "“Nom”ni boshqargan hukmdor; ibodatxona kohini",
+    "Birlashgan Misr hukmdori; “nom”ni boshqargan hukmdor",
+    "Ibodatxona kohini; birlashgan Misr hukmdori"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nVoqea | Sana yoki shaxs\nNil qirg'oqlarini o'zlashtirish boshlandi | 1) ________\nIkki podsholikni birlashtirgan hukmdor | 2) ________\nMisrning birlashtirilishi | 3) ________\na) mil. avv. 4-mingyillik boshlari; b) Menes; c) mil. avv. 3000-yil; d) Yaxmos; e) mil. avv. 2600-yil; f) mil. avv. 6-mingyillik.",
+   "options": [
+    "1-a, 2-b, 3-e",
+    "1-a, 2-d, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-f, 2-b, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nTabaqa yoki bino | Qurilish materiali\nOddiy misrliklar uyi | A\nZodagonlar uyi | B\nFir'avnlar saroyi va ibodatxonalar | C\n1) loy suvalgan papirus poyalari; 2) oftobda quritilgan xom g'isht; 3) tosh; 4) pishiq g'isht; 5) yog'och; 6) hayvon terisi.",
+   "options": [
+    "A-5, B-2, C-3",
+    "A-1, B-2, C-3",
+    "A-2, B-1, C-3",
+    "A-1, B-4, C-3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Misrga oid to'g'ri hukmlarni aniqlang.\nI. Misrda ikkita podsholik bo'lgan: Quyi va Yuqori Misr.\nII. Menes Quyi Misr hukmdori bo'lgan.\nIII. Birlashgan davlatning yangi poytaxti Memfis bo'lgan.\nIV. Misrliklar boshoqlarni temir o'roqlar bilan o'rishgan.",
+   "options": [
+    "III va IV",
+    "I va III",
+    "II va IV",
+    "I va II"
+   ],
+   "answer": 1
+  }
+ ]
+}

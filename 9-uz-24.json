@@ -1,0 +1,506 @@
+{
+ "title": "9-sinf · 26-mavzu. Qo'qon xonligining tashkil topishi va siyosiy tarixi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Shohruxbiyning qaysi urug'dan ekanligini belgilang.",
+   "options": [
+    "Mang'it",
+    "Nayman",
+    "Ming",
+    "Qo'ng'irot"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shohruxbiy Farg'onada o'z mustaqil hokimiyatini o'rnatgan vaqtini aniqlang.",
+   "options": [
+    "1733-yil",
+    "1709-yil",
+    "1740-yil",
+    "1758-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Farg'ona vodiysini to'liq bo'ysundirgan hukmdorni aniqlang.",
+   "options": [
+    "Shohruxbiy",
+    "Abdukarimxon",
+    "Abdurahimxon",
+    "Erdonaxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abdurahimxon Samarqand, Jizzax va Kattaqo'rg'onni, ya'ni ashtarxoniylar izmida bo'lgan muhim yerlarni ham o'z boshqaruviga olgan vaqtni aniqlang.",
+   "options": [
+    "1733-yil",
+    "1709-yil",
+    "1740-yil",
+    "1758-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abdurahimxon vafot etgan hudud nomini toping.",
+   "options": [
+    "Shahrisabz",
+    "Xo'jand",
+    "O'ratepa",
+    "Peshog'ar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nodirshohning qachon uyushtirgan bosqini paytida Samarqand, Kattaqo'rg'on va Jizzax, ya'ni minglar qo'l ostida bo'lgan hududlar dushman qo'liga o'tib ketadi.",
+   "options": [
+    "1733-yil",
+    "1709-yil",
+    "1740-yil",
+    "1758-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Minglar qo'shini qaysi hududga yetib kelganida, Eron qo'shini Xorazmga qarab yurishni davom ettirayotgan edi.",
+   "options": [
+    "Shahrisabz",
+    "Xo'jand",
+    "O'ratepa",
+    "Peshog'ar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abdulkarimxon har ehtimolga qarshi chora sifatida qo'shin qoldirgan hududlar nomini aniqlang.",
+   "options": [
+    "O'sh va O'zgan",
+    "Peshog'ar va Xo'jand",
+    "Xo'jand va Sharqiy Turkiston",
+    "Xo'jand va O'ratepa"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jung'orlarning hujumini qaytarishga muvaffaq bo'lgan shaxsni aniqlang.",
+   "options": [
+    "Shohruxbiy",
+    "Abdukarimxon",
+    "Abdurahimxon",
+    "Erdonaxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Abdulkarimxonning qancha vaqt hukmronlik qilganini aniqlang.",
+   "options": [
+    "8 oy",
+    "7 oy",
+    "9 oy",
+    "10 oy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abdulkarimxondan so'ng hokimiyatga kelgan shaxsni aniqlang.",
+   "options": [
+    "Shohruxbiy",
+    "Olimxon",
+    "Abdurahimxon",
+    "Erdonaxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Erdonaxon davrida bo'ysundirilgan hududlar nomini aniqlang.",
+   "options": [
+    "O'sh va O'zgan",
+    "Peshog'ar va Xo'jand",
+    "Xo'jand va Sharqiy Turkiston",
+    "Xo'jand va O'ratepa"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Erdonaxon quyidagi qaysi hududlarni egallashga urinib ko'radi.",
+   "options": [
+    "O'sh va O'zgan",
+    "Peshog'ar va Xo'jand",
+    "Xo'jand va Sharqiy Turkiston",
+    "Xo'jand va O'ratepa"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xitoyning Jung'orlarga tegishli hududlarini Toshkent, Sayram, Suzoq va Turkistongacha kengaytirish niyatini barbod qilishga erishgan hukmdorni aniqlang.",
+   "options": [
+    "Shohruxbiy",
+    "Olimxon",
+    "Abdurahimxon",
+    "Erdonaxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Erdonaxon tomonidan Xo'jand va O'ratepa shaharlari egallangan vaqtni aniqlang.",
+   "options": [
+    "1733-yil",
+    "1709-yil",
+    "1740-yil",
+    "1758-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jung'or xonligi tashkil topgan vaqtni belgilang.",
+   "options": [
+    "1758-yil",
+    "1635-yil",
+    "1763-yil",
+    "1463-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jung'or xonligi qachon Xitoy tomonidan tugatilgan.",
+   "options": [
+    "1758-yil",
+    "1635-yil",
+    "1763-yil",
+    "1463-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Minglar orasida birinchi bo'lib xon unvonini olgan shaxsni aniqlang.",
+   "options": [
+    "Shohruxbiy",
+    "Olimxon",
+    "Abdurahimxon",
+    "Erdonaxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Xitoyga borgan o'zbek elchisining maktubida Erdonaxon xon sifatida tilga olingan.",
+   "options": [
+    "1758-yil",
+    "1635-yil",
+    "1763-yil",
+    "1463-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Qo'qon xonligiga asos solgan ming urug'ining boshlig'i Shohruxbiy ibn Ashur Muhammaddir...\" Bu ma'lumotlar qaysi asardan olingan.",
+   "options": [
+    "\"Tarixi Jahonnomoy\"",
+    "\"Qo'qon xonligi tarixi\"",
+    "\"Turkiston tarixi\"",
+    "\"Shajarayi Turk\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Maxdumi A'zam tug'ilgan vaqtni belgilang.",
+   "options": [
+    "1758-yil",
+    "1635-yil",
+    "1542-yil",
+    "1463-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Maxdumi A'zam vafot etgan vaqtni aniqlang.",
+   "options": [
+    "1758-yil",
+    "1635-yil",
+    "1542-yil",
+    "1463-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Qo'qon xonligi tarixi\" asarining muallifini aniqlang.",
+   "options": [
+    "Azamat Ziyo",
+    "Akbar Zamonov",
+    "Ahmadali Asqarov",
+    "Shodmon Vohidov"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oltin Beshik ismli bolani qaysi hukmdor tashlab ketgan edi.",
+   "options": [
+    "M.Shayboniyxon",
+    "Z.M.Bobur",
+    "Nodirshoh",
+    "Mirzo Ulug'bek"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oltin Beshikdan tug'ilgan shaxsning ismini aniqlang.",
+   "options": [
+    "Xudoyor",
+    "Hojibiy",
+    "Ashurbiy",
+    "Tangriyor"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Eng uzoq muddat Qo'qon xonligini boshqargan shaxsni aniqlang.",
+   "options": [
+    "Olimxon",
+    "Muhammad Alixon",
+    "Norbo'taxon",
+    "Sheralixon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xo'jandda minglar hokimiyatini o'rnatish quyidagi qaysi hukmdorga nasib etadi.",
+   "options": [
+    "Olimxon",
+    "Muhammad Alixon",
+    "Norbo'taxon",
+    "Sheralixon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Harbiy islohot o'tkazgan hukmdorni aniqlang.",
+   "options": [
+    "Olimxon",
+    "Muhammad Alixon",
+    "Norbo'taxon",
+    "Sheralixon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mamlakatdagi sayyidlar va eshonlarga berilgan tarxonlar, soliqlardan ozod qilingan imtiyozli yerlarni qayta ko'rib chiqish maqsadida tekshiruvlar o'tkazgan hukmdorni aniqlang.",
+   "options": [
+    "Olimxon",
+    "Muhammad Alixon",
+    "Norbo'taxon",
+    "Sheralixon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi hukmdor soliqlardan ozod etishning haqiqiyligi yoki soxtaligini tasdiqlovchi hujjatlarni aniqlash va qayta nazoratdan o'tkazish bo'yicha farmon beradi.",
+   "options": [
+    "Olimxon",
+    "Muhammad Alixon",
+    "Norbo'taxon",
+    "Sheralixon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qorategin, Ko'lob, Darvoz, O'ratepani Qo'qon xonligiga qo'shib olgan Qo'qon xonini aniqlang.",
+   "options": [
+    "Olimxon",
+    "Muhammad Alixon",
+    "Norbo'taxon",
+    "Sheralixon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Koshg'ardagi xalqaro savdo to'liq Qo'qon nazoratiga o'tgan vaqtni aniqlang.",
+   "options": [
+    "1845-yil",
+    "1831-yil",
+    "1842-yil",
+    "1852-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buxoro amiri Nasrullaxon qachonga kelib Qo'qonni bo'ysundirishga muvaffaq bo'ladi.",
+   "options": [
+    "1845-yil",
+    "1831-yil",
+    "1842-yil",
+    "1852-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amir Nasrulla tomonidan Qo'qonga hokim etib tayinlangan shaxsni aniqlang.",
+   "options": [
+    "Muhammad Yusuf",
+    "Sarimsoqbek",
+    "Musulmonqul",
+    "Ibrohim parvonachi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Talas qirg'izlari boshlig'i Muhammad Yusuf tomonidan taxtga o'tqizilgan hukmdorni aniqlang.",
+   "options": [
+    "Olimxon",
+    "Muhammad Alixon",
+    "Norbo'taxon",
+    "Sheralixon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi hukmdor davrida Qo'qondan Toshkent, Xo'jand va janubiy Qozog'istongacha bo'lgan mulklarga voliylar qayta tayinlanadi.",
+   "options": [
+    "Murod",
+    "Muhammad Alixon",
+    "Norbo'taxon",
+    "Sheralixon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Muhammadyusufning qipchoqlarga qarshi harakat boshlaganini eshitgan qipchoqlar quyidagi qaysi hududlarda qo'shin yig'adi.",
+   "options": [
+    "O'sh va O'zgan",
+    "Andijon va Shahrixon",
+    "Xo'jand va Sharqiy Turkiston",
+    "Xo'jand va O'ratepa"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qipchoqlar oldiga muzokara uchun jo'natilgan Sheralixonning o'g'lini aniqlang.",
+   "options": [
+    "Muhammad Yusuf",
+    "Sarimsoqbek",
+    "Musulmonqul",
+    "Ibrohim parvonachi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon O'shdagi qo'zg'alonni bostirish uchun Andijon hokimining boturboshisi yuboriladi.",
+   "options": [
+    "1845-yil",
+    "1831-yil",
+    "1842-yil",
+    "1852-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Andijon hokimining boturboshisi bo'lgan shaxsni aniqlang.",
+   "options": [
+    "Muhammad Yusuf",
+    "Sarimsoqbek",
+    "Musulmonqul",
+    "Ibrohim parvonachi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sheralixonni o'ldirib, o'zini xon hamda Buxoro amirining noibi deb e'lon qilgan shaxsni aniqlang.",
+   "options": [
+    "Murod",
+    "Muhammad Alixon",
+    "Norbo'taxon",
+    "Xudoyor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Musulmonqul qizini quyidagi qaysi shaxsga turmushga beradi va uni xon deb e'lon qiladi.",
+   "options": [
+    "Murod",
+    "Muhammad Alixon",
+    "Norbo'taxon",
+    "Xudoyor"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon farg'onalik mulkdorlar toshkentliklar yordamida qipchoqlar hokimiyatiga qarshi qurolli kurash boshlashadi.",
+   "options": [
+    "1845-yil",
+    "1831-yil",
+    "1842-yil",
+    "1852-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Shunday zamon bo'ldiki, har kim o'zicha hukm surardi. Xon unvoni ma'nosiz bo'ldi...\" Bu ma'lumot qaysi asardan olingan.",
+   "options": [
+    "\"Tarixi Jahonnomoy\"",
+    "\"Qo'qon xonligi tarixi\"",
+    "\"Turkiston tarixi\"",
+    "\"Shajarayi Turk\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xudoyorxonga qarshi O'ratepada harakat boshlagan shaxsni aniqlang.",
+   "options": [
+    "To'raqul",
+    "Abdulg'afurbek",
+    "Mallabek",
+    "Sarimsoqbek"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xudoyorga qarshi Toshkentda harakat boshlagan shaxsni aniqlang.",
+   "options": [
+    "To'raqul",
+    "Abdulg'afurbek",
+    "Mallabek",
+    "Sarimsoqbek"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachonga kelib Oqmasjid graf Perovskiy tomonidan bosib olinadi.",
+   "options": [
+    "1845-yil",
+    "1853-yil",
+    "1842-yil",
+    "1852-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oqmasjid hokimi va ikkinchi ismi Abdu Vali bo'lgan shaxsni aniqlang.",
+   "options": [
+    "To'raqul",
+    "Abdulg'afurbek",
+    "Mallabek",
+    "Sarimsoqbek"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachonga kelib Rossiya qo'shinlari ham Oqmasjid orqali Qo'qon xonligi yerlariga bostirib kirishni davom ettiradi.",
+   "options": [
+    "1845-yil",
+    "1853-yil",
+    "1842-yil",
+    "1852-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Qamal davomida 30 nafar qo'qonlik, hujum vaqtida esa 212 kishi halok bo'lgan...\" Bu ma'lumotlar qaysi asardan olingan.",
+   "options": [
+    "\"Tarixi Jahonnomoy\"",
+    "\"Qo'qon xonligi tarixi\"",
+    "\"Turkiston tarixi\"",
+    "\"Shajarayi Turk\""
+   ],
+   "answer": 0
+  }
+ ]
+}

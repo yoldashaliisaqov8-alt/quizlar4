@@ -1,0 +1,796 @@
+{
+ "title": "9-sinf · 24-mavzu. Rossiya taraqqiyot yo'li",
+ "time": 30,
+ "questions": [
+  {
+   "q": "… – dehqon qaramligining eng to'liq va og'ir shakli bo'lib, u dehqonlarning yerga bog'lanishi, ya'ni ularning yer uchastkalarini tark etishini taqiqlash, yer egasining ma'muriy va sud hokimiyatiga bo'ysunishini nazarda tutgan.",
+   "options": [
+    "Krepostnoylik",
+    "Samoderjaviye",
+    "Oprichnina",
+    "Zemstvo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Krepostnoylik” so'zi kelib chiqqan “krepost” so'zi qaysi tildan olingan?",
+   "options": [
+    "Lotin tilidan",
+    "Rus tilidan",
+    "Yunon tilidan",
+    "Skandinav tilidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiyada qaysi yildan yerning erkin savdosiga ruxsat berilgan?",
+   "options": [
+    "1801-yildan",
+    "1803-yildan",
+    "1815-yildan",
+    "1818-yildan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rossiyada qaysi yilda pomeshchiklarga dehqonlarni to'lov evaziga ozod qilishga ruxsat berilgan?",
+   "options": [
+    "1801-yilda",
+    "1803-yilda",
+    "1815-yilda",
+    "1818-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiyada qaysi yilda dehqonlarning zavod va fabrikalar qurishiga ruxsat berilgan?",
+   "options": [
+    "1801-yilda",
+    "1803-yilda",
+    "1815-yilda",
+    "1818-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asr boshlarida Rossiyada yo'llarning yomon ahvoli sababli Volga bo'yida yetishtirilgan don qancha vaqtda Moskvaga yetib kelgan?",
+   "options": [
+    "Bir yildan keyin",
+    "Bir yarim yildan keyin",
+    "Ikki yildan keyin",
+    "Ikki yarim yildan keyin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Rossiyada “Yelizaveta” deb atalgan ilk paroxod paydo bo'lgan?",
+   "options": [
+    "1801-yilda",
+    "1803-yilda",
+    "1815-yilda",
+    "1818-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rossiyada Sankt-Peterburg bilan Sarskoye Seloni bog'lovchi temiryo'l qachon qurilgan?",
+   "options": [
+    "1837-yilda",
+    "1842-yilda",
+    "1856-yilda",
+    "1861-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yildagi islohot arafasida Rossiyada 1500 chaqirimlik temiryo'l mavjud edi?",
+   "options": [
+    "1837-yildagi",
+    "1842-yildagi",
+    "1856-yildagi",
+    "1861-yildagi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrning uchinchi choragida Rossiyadagi temiryo'llar uzunligi Angliyadagidan necha marta kam edi?",
+   "options": [
+    "10 marta",
+    "15 marta",
+    "20 marta",
+    "25 marta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning uchinchi choragida Rossiyadagi paroxodlar soni qancha edi?",
+   "options": [
+    "100 ta",
+    "200 ta",
+    "300 ta",
+    "400 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Rossiyada “kapitalistik uklad” shakllana boshlagan?",
+   "options": [
+    "XVIII asr oxirlarida",
+    "XIX asr boshlarida",
+    "XIX asr o'rtalarida",
+    "XIX asr oxirlarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi XIX asrga oid “Burlaklar Volgada” kartinasi muallifi kim?",
+   "options": [
+    "V. A. Tropinin",
+    "V. A. Venetsianov",
+    "I. Y. Repin",
+    "N. M. Karamzin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Rossiyada Aleksandr I taxtga o'tirgan?",
+   "options": [
+    "1801-yilda",
+    "1804-yilda",
+    "1808-yilda",
+    "1809-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Rossiya imperatori Aleksandr I yarmarkalarda dehqonlarni sotishni taqiqlagan?",
+   "options": [
+    "1801-yilda",
+    "1804-yilda",
+    "1808-yilda",
+    "1809-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Rossiya imperatori Aleksandr I dehqonlarni katorga qilishni taqiqlagan?",
+   "options": [
+    "1801-yilda",
+    "1804-yilda",
+    "1808-yilda",
+    "1809-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rossiyada dekabristlar qo'zg'oloni qaysi kunga belgilangan edi?",
+   "options": [
+    "Davlat Dumasida imperator nutq so'zlaydigan kunga",
+    "Senat maydonida harbiy parad o'tkaziladigan kunga",
+    "Vafot etgan imperator Aleksandr I o'rniga ukasi Nikolay I taxtga o'tirishiga bag'ishlangan marosim kuniga",
+    "Imperatorning tug'ilgan kuni sharafiga o'tkaziladigan bayram kuniga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rossiya tarixiga “Dekabristlar harakati” nomi bilan kirgan qo'zg'olon qaysi sanada sodir bo'lgan?",
+   "options": [
+    "1824-yil 13-dekabrda",
+    "1825-yil 14-dekabrda",
+    "1826-yil 15-dekabrda",
+    "1827-yil 16-dekabrda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiyada “Dekabristlar qo'zg'oloni” qaysi shahardagi Senat maydonida sodir bo'lgan?",
+   "options": [
+    "Sankt-Peterburg",
+    "Moskva",
+    "Kiyev",
+    "Novgorod"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dekabristlar qo'zg'oloni qanday maqsadda tashkil qilingan edi? 1) Samoderjaviyeni ag'darib tashlash; 2) Krepostnoylikni yo'q qilish; 3) Dumani tarqatish.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dekabristlar qo'zg'oloni bostirilganch, necha kishi o'lim jazosiga hukm qilinib, qatl etilgan?",
+   "options": [
+    "Uch kishi",
+    "To'rt kishi",
+    "Besh kishi",
+    "Olti kishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dekabristlar qo'zg'oloni bostirilganch, necha kishi Sibirga surgun qilingan?",
+   "options": [
+    "110 kishi",
+    "120 kishi",
+    "130 kishi",
+    "140 kishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiyadagi “narodniklik” harakatlari yo'nalishi va vakillari to'g'ri berilgan javobni toping. 1) Anarxistik (isyonchilik) yo'nalishi; 2) Tashviqotchilik yo'nalishi; 3) Fitnachilik yo'nalishi. a) P. L. Lavrov; b) P. N. Tkachyov; c) M. A. Bakunin.",
+   "options": [
+    "1c, 2b, 3a",
+    "1a, 2b, 3c",
+    "1b, 2a, 3c",
+    "1c, 2a, 3b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rossiyadagi “narodniklik” harakatlari mazmuni va ularning yo'nalishi to'g'ri berilgan javobni toping. 1) Har qanday hokimiyatga qarshi; Xalq inqilobga tayyor, faqat uni faol harakatga chorlash kerak; Dehqonlarning o'zini o'zi boshqaradigan, erkin federatsiyasini tuzish. 2) Ziyolilarga tayangan; Dehq",
+   "options": [
+    "1b, 2c, 3a",
+    "1a, 2c, 3b",
+    "1c, 2a, 3b",
+    "1a, 2b, 3c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrning qaysi yillari rus ijtimoiy-siyosiy hayotida inqilobiy – demokratik mafkuraning shakllanish davri bo'lgan?",
+   "options": [
+    "20–30-yillar",
+    "30–40-yillar",
+    "40–50-yillar",
+    "50–60-yillar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rus ijtimoiy-siyosiy hayotidagi inqilobiy – demokratik mafkuraning asoschilari kimlar edi?",
+   "options": [
+    "P. L. Lavrov va V. G. Belinskiy",
+    "V. G. Belinskiy va A. I. Gersen",
+    "A. I. Gersen va M. A. Bakunin",
+    "M. A. Bakunin va P. L. Lavrov"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning qaysi yillarida Rossiyada “narodniklik” deb nom olgan harakat shakllangan?",
+   "options": [
+    "40–50-yillarda",
+    "50–60-yillarda",
+    "60–70-yillarda",
+    "70–80-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rossiyadagi “narodniklik” harakatining qaysi yo'lboshchi dehqonlar inqilobga tayyor, faqat ziyolilardan chiqqan qahramon ularni inqilobga chaqirishi lozim, deb hisoblagan?",
+   "options": [
+    "P. L. Lavrov",
+    "M. A. Bakunin",
+    "P. N. Tkachyov",
+    "A. I. Gersen"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiyadagi “narodniklik” harakatining qaysi yo'lboshchi dehqonlar inqilobga tayyor emas, shuning uchun ma'lumotli kishilardan tashviqotchilarni bu ishga jalb qilish, uzoq tushuntirish orqali dehqonlarni inqilobga tayyorlashlari lozim, deb yozgan?",
+   "options": [
+    "P. L. Lavrov",
+    "M. A. Bakunin",
+    "P. N. Tkachyov",
+    "A. I. Gersen"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rossiyadagi “narodniklik” harakatining qaysi yo'lboshchi fitna yo'li bilan ozchilik tomonidan inqilobni amalga oshirish mumkin, deb hisoblagan?",
+   "options": [
+    "P. L. Lavrov",
+    "M. A. Bakunin",
+    "P. N. Tkachyov",
+    "A. I. Gersen"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rossiya mag'lubiyatga uchragan “Qrim urushi” qaysi yillarda bo'lib o'tgan?",
+   "options": [
+    "1850–1853-yillarda",
+    "1851–1854-yillarda",
+    "1852–1855-yillarda",
+    "1853–1856-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Qrim urushi” yana qanday nomlangan?",
+   "options": [
+    "“Sharqiy urush”",
+    "“G'arbiy urush”",
+    "“Shimoliy urush”",
+    "“Janubiy urush”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qrim urushida Rossiya imperiyasi qaysi davlatlar koalitsiyasiga qarshi urushgan? 1) Buyuk Britaniya; 2) Fransiya; 3) Usmoniylar imperiyasi; 4) Sardiniya qirolligi; 5) Prussiya.",
+   "options": [
+    "1, 2, 3, 4",
+    "1, 2, 5",
+    "2, 3, 4",
+    "1, 2, 3, 4, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qrim urushi Qora dengiz havzasidagi qaysi hududlardagi manfaatlar to'qnashuvi natijasida yuzaga kelgan?",
+   "options": [
+    "Kichik Osiyo va Kavkaz",
+    "Kavkaz va Bolqon",
+    "Bolqon va Qrim",
+    "Qrim va Kichik Osiyo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Rossiya imperatori Aleksandr II krepostnoylik huquqini bekor qilish to'g'risida manifest imzolagan?",
+   "options": [
+    "1859-yil 19-oktyabrda",
+    "1860-yil 19-dekabrda",
+    "1861-yil 19-fevralda",
+    "1862-yil 19-noyabrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Krepostnoylik huquqini bekor qilish to'g'risida manifestga ko'ra, dehqonlarni … taqiqlangan edi. 1) sotib olish; 2) sotish; 3) boshqa birovga hadya qilish.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Krepostnoylik huquqini bekor qilish to'g'risida manifestga ko'ra, dehqonlar … kabi huquqlarga ega bo'lgan. 1) pomeshchikning ruxsatisiz oila qurish; 2) mustaqil ravishda shartnoma, savdo bitimlari tuzish; 3) ko'chmas mulk sotib olish; 4) ko'chmas mulkni meros qoldirish.",
+   "options": [
+    "1, 2, 4",
+    "1, 3",
+    "1, 2, 3, 4",
+    "2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rossiyada krepostnoylik huquqi bekor qilinganidan keyin dehqonlarga berilgan yer qanday atalgan?",
+   "options": [
+    "“Pomeshchik yerlar”",
+    "“Chek yerlar”",
+    "“Narodnik yerlar”",
+    "“Ustav yerlar”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiyada krepostnoylik huquqi bekor qilinganidan keyin, pomeshchik o'z ixtiyoridagi yerning qancha qismini saqlab qolish huquqiga ega bo'lgan?",
+   "options": [
+    "1/2 qismini",
+    "1/3 qismini",
+    "1/4 qismini",
+    "1/5 qismini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiyada krepostnoylik huquqi bekor qilinganidan keyin, pomeshchik o'z ixtiyoridagi cho'l hududlarda joylashgan yerning qancha qismini saqlab qolish huquqiga ega bo'lgan?",
+   "options": [
+    "1/2 qismini",
+    "1/3 qismini",
+    "1/4 qismini",
+    "1/5 qismini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rossiyada krepostnoylik huquqi bekor qilinganidan keyin, dehqonlarga berilgan yerga to'lov qilishi uchun, davlat tomonidan foizi bilan necha yil davomida to'lab borish sharti evaziga pul berilgan?",
+   "options": [
+    "19 yil davomida",
+    "29 yil davomida",
+    "39 yil davomida",
+    "49 yil davomida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrning qaysi yillarida Rossiyada yer, moliya, sud, universitet, maktab, matbuot sohasida islohotlar amalga oshirilgan?",
+   "options": [
+    "40–50-yillarda",
+    "50–60-yillarda",
+    "60–70-yillarda",
+    "70–80-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda Rossiya imperatori Aleksandr I manifestiga binoan, Gruziya Rossiya tarkibiga qo'shib olingan?",
+   "options": [
+    "1801-yilda",
+    "1804-yilda",
+    "1806-yilda",
+    "1809-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bagrationlar sulolasi qayerda hukmronlik qilgan?",
+   "options": [
+    "Armaniston",
+    "Gruziya",
+    "Ruminiya",
+    "Ozarbayjon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yillarda butun Gruziya hududi Rossiya imperiyasi tarkibiga qo'shib olingan?",
+   "options": [
+    "1801–1802-yillarda",
+    "1802–1803-yillarda",
+    "1803–1804-yillarda",
+    "1804–1805-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asr boshida qaysi hududning qo'shib olinishi Rossiyaning Eron va Usmoniylar imperiyasi bilan to'qnashuviga olib kelgan?",
+   "options": [
+    "Armaniston",
+    "Gruziya",
+    "Ruminiya",
+    "Ozarbayjon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda Rossiya bilan Eron o'rtasida boshlangan urush natijasida Ozarbayjonning asosiy qismi Rossiyaga qo'shib olingan?",
+   "options": [
+    "1801-yilda",
+    "1804-yilda",
+    "1806-yilda",
+    "1809-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yillarda Ozarbayjonning asosiy qismi Rossiyaga qo'shib olingan?",
+   "options": [
+    "1801–1803-yillarda",
+    "1802–1804-yillarda",
+    "1803–1805-yillarda",
+    "1804–1806-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rossiya bilan Eron o'rtasida boshlangan urush qaysi yilda Ozarbayjonning Rossiyaga qo'shilgan qismining Eron tomonidan tan olinishi bilan yakunlangan?",
+   "options": [
+    "1810-yilda",
+    "1811-yilda",
+    "1812-yilda",
+    "1813-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asr boshida qaysi yillarda Rossiya bilan Eron o'rtasida Ozarbayjon uchun urush bo'lib o'tgan?",
+   "options": [
+    "1804–1813-yillarda",
+    "1805–1814-yillarda",
+    "1806–1815-yillarda",
+    "1807–1816-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asr boshida Rossiya bilan Eron o'rtasidagi Ozarbayjon uchun bo'lib o'tgan urush yakuniga ko'ra, Rossiya qayerda harbiy kemalarga ega bo'lish huquqini qo'lga kiritgan?",
+   "options": [
+    "O'rtayer dengizida",
+    "Kaspiy dengizida",
+    "Qizil dengizda",
+    "Qora dengizda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda Usmoniylar imperiyasi bilan Rossiya o'rtasida urush boshlanib, shu yili rus qo'shinlari Moldaviya va Valaxiyani egallagan?",
+   "options": [
+    "1806-yilda",
+    "1807-yilda",
+    "1808-yilda",
+    "1809-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yilda Buxarestda Usmoniylar imperiyasi bilan Rossiya o'rtasida tinchlik shartnomasi imzolanib, unga binoan, Moldaviyaning sharqiy qismi Rossiyaga qo'shib olingan?",
+   "options": [
+    "1806-yilda",
+    "1810-yilda",
+    "1812-yilda",
+    "1817-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Usmoniylar imperiyasi bilan Rossiya o'rtasida Moldaviya va Valaxiya uchun qaysi yillarda urush bo'lib o'tgan?",
+   "options": [
+    "1804–1810-yillarda",
+    "1805–1811-yillarda",
+    "1806–1812-yillarda",
+    "1807–1813-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asr boshlarida qaysi davlat tor-mor qilingandan so'ng Rossiyaning Yevropadagi mavqeyi oshib ketgan va u o'z yerlarini Yevropadagi mamlakatlar hisobiga kengaytirish imkoniyatiga ega bo'lgan?",
+   "options": [
+    "Usmoniylar imperiyasi",
+    "Napoleon imperiyasi",
+    "Polsha qirolligi",
+    "Prussiya qirolligi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Polsha qirolligi Rossiya imperiyasining tarkibiy qismi deb e'lon qilingan?",
+   "options": [
+    "1832-yilda",
+    "1843-yilda",
+    "1854-yilda",
+    "1865-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi suratda Rossiyadagi qaysi ibodatxona tasvirlangan?",
+   "options": [
+    "Avliyo Vasiliy ibodatxonasi",
+    "Smolniy ibodatxonasi",
+    "Isaakiyev ibodatxonasi",
+    "Novodevichiy ibodatxonasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrning boshlarida Kavkazortining Rossiyaga qo'shib olinishi butun … Kavkazni bo'ysundirish muammosini keltirib chiqargan.",
+   "options": [
+    "Sharqiy",
+    "Janubiy",
+    "G'arbiy",
+    "Shimoliy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrning boshlarida chorizmning Kavkazni bo'ysundirish istagi qaysi hududlar xalqlarining kuchli qarshiligiga uchragan? 1) Boshqirdiston; 2) Dog'iston; 3) Checheniston; 4) Adigeya.",
+   "options": [
+    "1, 2, 3",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rossiyaga juda qimmatga tushgan “Kavkaz urushi” qaysi yillarda bo'lib o'tgan?",
+   "options": [
+    "1815–1862-yillarda",
+    "1817–1864-yillarda",
+    "1820–1867-yillarda",
+    "1824–1871-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning I yarmida qayer Rossiyaga qo'shib olingandan so'ng O'rta Osiyodagi uchta davlat – Qo'qon va Xiva xonliklari hamda Buxoro amirligini zabt etish uchun tayyorgarlik boshlab yuborilgan?",
+   "options": [
+    "Qozog'iston",
+    "Ozarbayjon",
+    "Checheniston",
+    "Dog'iston"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Sirdaryo va Sibir harbiy liniyalari hamda Verniy qal'asi barpo qilingan?",
+   "options": [
+    "1832-yilda",
+    "1843-yilda",
+    "1854-yilda",
+    "1865-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Verniy qal'asi hozirgi qaysi shahar?",
+   "options": [
+    "Olmaota",
+    "Chimkent",
+    "Ostona",
+    "Taroz"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrning II yarmida O'rta Osiyodagi qaysi davlat Rossiya tomonidan bosib olingan? 1) Qo'qon xonligi; 2) Xiva xonligi; 3) Buxoro amirligi.",
+   "options": [
+    "1",
+    "1, 2",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrning II yarmida O'rta Osiyodagi qaysi davlat Rossiya tomonidan bo'ysundirilgan? 1) Qo'qon xonligi; 2) Xiva xonligi; 3) Buxoro amirligi.",
+   "options": [
+    "1",
+    "1, 2",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrda A. S. Pushkin, M. Y. Lermontov, F. M. Dostoyevskiy, L. N. Tolstoy, A. P. Chexov, N. V. Gogol qaysi sohada ijod qilgan?",
+   "options": [
+    "Tasviriy san'at",
+    "Musiqa",
+    "Tarix",
+    "Adabiyot"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrda M. I. Glinka, M. P. Musorgskiy, P. I. Chaykovskiy, N.A. Rimskiy-Korsakov qaysi sohada ijod qilgan?",
+   "options": [
+    "Tasviriy san'at",
+    "Musiqa",
+    "Tarix",
+    "Adabiyot"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asrning oxiridan boshlab N. M. Karamzin qaysi sohada ijod qilgan?",
+   "options": [
+    "Tasviriy san'at",
+    "Musiqa",
+    "Tarix",
+    "Adabiyot"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII asrning oxiridan boshlab V. A. Tropinin, V. A. Venetsianov qaysi sohada ijod qilgan?",
+   "options": [
+    "Tasviriy san'at",
+    "Musiqa",
+    "Tarix",
+    "Adabiyot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVIII asrning oxiridan boshlab Rossiyada tasviriy san'atda ba'zi rassomlar ijodiga xos bo'lgan sentimentalizmni qaysi yo'nalish siqib chiqara boshlagan?",
+   "options": [
+    "Modernizm",
+    "Klassitsizm",
+    "Postmodernizm",
+    "Realizm"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr rus arxitekturasi uchun quyidagi qaysi yo'nalish xarakterlidir?",
+   "options": [
+    "Modernizm",
+    "Klassitsizm",
+    "Sentimentalizm",
+    "Realizm"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi soha ko'proq umumlashtiruvchi san'at sifatida insonning Vatan oldidagi burchini, uning muvaffaqiyatlari uchun faxr tuyg'usini, davlatning birlamchiligi va uning qudrati g'oyasini yaxshiroq aks ettiradi?",
+   "options": [
+    "Musiqa",
+    "Adabiyot",
+    "Tasviriy san'at",
+    "Arxitektura"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrda A. N. Voronixin, A. D. Zaxarov, T. de Tomon, O. I. Bove, D. I. Jilyardi, K. I. Rossi, O. Manferran qaysi sohada ijod qilgan?",
+   "options": [
+    "Musiqa",
+    "Adabiyot",
+    "Tasviriy san'at",
+    "Arxitektura"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi bino hozirda Rus muzeyi binosi hisoblanadi?",
+   "options": [
+    "Admiralteystvo",
+    "Moskva universiteti",
+    "Mixaylov saroyi",
+    "Isaakiyev ibodatxonasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrda qurilgan Triumfalnaya arka Rossiyaning qaysi shahrida joylashgan?",
+   "options": [
+    "Sankt-Peterburg",
+    "Moskva",
+    "Qozon",
+    "Yekaterinburg"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda qurilgan Birja binosi Rossiyaning qaysi shahrida joylashgan?",
+   "options": [
+    "Sankt-Peterburg",
+    "Moskva",
+    "Qozon",
+    "Yekaterinburg"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi urushdagi mag'lubiyat Rossiyada krepostnoylik huquqi bekor qilinmasa, kapitalizm tez sur'atlar bilan taraqqiy etishi mumkin emasligini ko'rsatib bergan?",
+   "options": [
+    "“Shimoliy urush”",
+    "“Kavkaz urushi”",
+    "“Qrim urushi”",
+    "“Vatan urushi”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davr Rossiya tarixida rus madaniyatining “oltin davri” deb nomlangan?",
+   "options": [
+    "XVIII asrning birinchi yarmi",
+    "XVIII asrning ikkinchi yarmi",
+    "XIX asrning birinchi yarmi",
+    "XIX asrning ikkinchi yarmi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "… – ma'lum iqtisodiy tizimda xo'jalik yuritishning turli shakllarining mavjudligini bildiradi (masalan, bozor bilan sust bog'langan patriarxal, yarim natural xo'jalik; mayda tovar ishlab chiqaruvchi xo'jalik (hunarmandlar, kosiblar); kapitalistik va boshqalar).",
+   "options": [
+    "Rejali iqtisodiyot",
+    "Ko'p ukladli iqtisodiyot",
+    "Intensiv iqtisodiyot",
+    "Ekstensiv iqtisodiyot"
+   ],
+   "answer": 1
+  }
+ ]
+}

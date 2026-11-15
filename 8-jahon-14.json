@@ -1,0 +1,620 @@
+{
+ "title": "8-sinf · Oltin O'rda xonligi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Oltin O'rda mo'g'ullarning Xitoydagi qaysi imperiyasini tan olmadi.",
+   "options": [
+    "Sung imperiyasini",
+    "Tan imperiyasini",
+    "Min imperiyasini",
+    "Yuan imperiyasini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oltin O'rdada xonni saylash masalasi qaysi yig'inda hal etilgan.",
+   "options": [
+    "Veche yig'inida",
+    "Kortesda",
+    "Qurultoyda",
+    "Seymda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Oltin O'rda Sharq manbalarida qanday nom bilan atalgan.",
+   "options": [
+    "Chig'atoy ulusi",
+    "Jo'ji ulusi",
+    "Moveronnahr ulusi",
+    "Elxoniylar davlati"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oltin O'rda davlatiga qaysi hukmdor asos solgan.",
+   "options": [
+    "O'zbekxon",
+    "Botuxon",
+    "Berkaxon",
+    "Jo'ji"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oltin O'rda davlati Chingizxonning to'ng'ich o'g'li qaysi ulusi hududida tashkil topgan.",
+   "options": [
+    "Chig'atoy ulusi",
+    "Tulu ulusi",
+    "O'gaday ulusi",
+    "Jo'ji ulusi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oltin O'rdada xonlar qaysi urug'dan bo'lishi shart edi.",
+   "options": [
+    "Hulokuiylardan",
+    "Faqat Botu avlodidan",
+    "Qipchoq zodagonlaridan",
+    "Chingiziylar va Jo'ji avlodidan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Saroy Botu qaysi daryo quyi oqimida joylashgan.",
+   "options": [
+    "Irtish",
+    "Dnepr",
+    "Volga",
+    "Don"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Oltin O'rda Hulokuiylarga qarshi kurashda kimlar bilan ittifoq tuzdi.",
+   "options": [
+    "Usmoniylar bilan",
+    "Misr sultonlari bilan",
+    "Vizantiya bilan",
+    "Temuriylar bilan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jo'ji vafot etgach, ulus yerlarini kengaytirish uchun harbiy yurishlarni boshlagan hukmdor kim.",
+   "options": [
+    "O'zbekxon",
+    "Berkaxon",
+    "Mangu Temur",
+    "Botuxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jo'ji ulusi g'arbda qaysi daryodan sharqda Volgabo'yigacha cho'zilgan.",
+   "options": [
+    "Dnepr daryosidan",
+    "Dondan",
+    "Amudaryodan",
+    "Irtish daryosidan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Berkaxon davrida poytaxt qaysi shaharga ko'chirilgan.",
+   "options": [
+    "Qozon",
+    "Yangi Saroy (Saroy Berka)",
+    "Qoraqurum",
+    "Saroy Botu"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oltin O'rda xazina daromadlarining asosiy qismini nima tashkil qilgan.",
+   "options": [
+    "Savdo bojlari",
+    "Harbiy o'ljalar",
+    "Dehqonlardan olingan oltin",
+    "Cherkov soliqlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Imperiyadagi o'zaro kurashlarda g'alaba qozonib, ulug' xon deb e'lon qilingan hukmdorni aniqlang.",
+   "options": [
+    "Mangu Temur",
+    "Berkaxon",
+    "Xubilay",
+    "Munke"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Oltin O'rdada soliq, moliya va savdo ishlariga mas'ul devonga kim rahbarlik qilgan.",
+   "options": [
+    "No'yon",
+    "Vazir",
+    "Daruga",
+    "Beklarbegi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oltin O'rda aholisining asosiy qismini kimlar tashkil etgan.",
+   "options": [
+    "Qipchoq, bijanak, xazar va bulg'orlar kabi turkiy xalqlar",
+    "Ko'chmanchi mo'g'ullar",
+    "Slavyan xalqlari",
+    "Fors va arab xalqlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Oltin O'rda boshqaruviga tegishlilarini aniqlang.",
+   "options": [
+    "1, 4",
+    "2, 3",
+    "3, 4",
+    "2, 4"
+   ],
+   "answer": 3,
+   "image": "img/j8-14-16.jpg"
+  },
+  {
+   "q": "Berkaxon davriga kelib Qoraqurum bilan munosabatlar qanday bo'ldi.",
+   "options": [
+    "Yaxshilandi",
+    "Yomonlashdi",
+    "O'zgarmadi",
+    "Ittifoqqa aylandi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Berkaxon qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1237–1255-yillarda",
+    "1312–1342-yillarda",
+    "1255–1266-yillarda",
+    "1266–1282-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ullar o'lponni qaysi buyumlar orqali olishni afzal ko'rganlar.",
+   "options": [
+    "Ipak va ziravorlar",
+    "Don va chorva mollari",
+    "Kumush, mo'yna va zargarlik buyumlari",
+    "Qurol va zirhlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan to'g'ri bo'lganlarini aniqlang.",
+   "options": [
+    "2, 3",
+    "3, 4",
+    "1, 3",
+    "2, 4"
+   ],
+   "answer": 0,
+   "image": "img/j8-14-20.jpg"
+  },
+  {
+   "q": "Botuxon qaysi shaxsni ulug' xon etib saylanishiga yordam bergan.",
+   "options": [
+    "Jiyani Munkeni",
+    "Xubilayni",
+    "Ukasi Berkani",
+    "O'g'li Sartoqni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rusda barcha knyazlar Oltin O'rdadan nimani olishi shart bo'lgan.",
+   "options": [
+    "Qo'shin yordamini",
+    "Boshqaruv yorlig'ini",
+    "Oltin tanga",
+    "Qilich va toj"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekxon imperiya hududini nechta tumanga bo'lgan.",
+   "options": [
+    "10 ta",
+    "25 ta",
+    "70 ta",
+    "150 ta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Saylangan xon nimaga ko'tarilib taxtga o'tqizilgan va unga nima topshirilgan.",
+   "options": [
+    "Taxtga, kumush qilich",
+    "Qalqonga, oltin toj",
+    "Oq kigizga, oltin toj",
+    "Oq kigizga, oltin qilich"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XV asrning birinchi yarmida Oltin O'rda parchalanib ketgan xonliklardan qaysi biri bo'lmagan.",
+   "options": [
+    "Buxoro xonligi",
+    "Qrim xonligi",
+    "Sibir xonligi",
+    "Qozon xonligi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekxonning vorisi kim edi.",
+   "options": [
+    "To'xtamishxon",
+    "Jonibekxon",
+    "Mangu Temur",
+    "Berkaxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oltin O'rdada ijro hokimiyati boshlig'i kim hisoblangan.",
+   "options": [
+    "Tumanbegi",
+    "Beklarbegi",
+    "Daruga",
+    "Vazir"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oltin O'rdaning harbiy qudrati qaysi xon davrida eng yuqori cho'qqisiga chiqdi.",
+   "options": [
+    "O'zbekxon",
+    "Berkaxon",
+    "Botuxon",
+    "To'xtamishxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Viloyat va shaharlarga hokim qilib kimlar yuborilgan.",
+   "options": [
+    "Beklarbegilar",
+    "Ulusbegilar",
+    "Dorug'alar",
+    "Tumanbegilar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "To'xtamishxon kimning yordami bilan taxtni egalladi.",
+   "options": [
+    "Amir Temurning",
+    "Xubilayning",
+    "Mamayning",
+    "Ivan III ning"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mo'g'ullar bosib olingan xalqlar orasida nima uchun asta-sekin aralashib ketdi.",
+   "options": [
+    "Majburlab ko'chirilgani uchun",
+    "O'ziga xos rivojlangan madaniyati bo'lmagani uchun",
+    "Din almashgani uchun",
+    "Qo'shin tarqatib yuborilgani uchun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jonibekxon vafotidan so'ng Oltin O'rdada nima boshlandi.",
+   "options": [
+    "Islohotlar",
+    "Rus yerlariga yurish",
+    "Yangi istilolar",
+    "Taxt uchun kurash"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ipak yo'lining qaysi tarmog'i Oltin O'rda hududi orqali o'tgan.",
+   "options": [
+    "Shimoliy tarmog'i",
+    "Markaziy tarmog'i",
+    "Dengiz tarmog'i",
+    "Janubiy tarmog'i"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oltin O'rda qo'shinini kim boshqargan.",
+   "options": [
+    "Vazir",
+    "Daruga",
+    "Xon",
+    "Beklarbegi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'zbekxon tumanlarni nechta yirik viloyatga birlashtirdi.",
+   "options": [
+    "70 ta",
+    "20 ta",
+    "7 ta",
+    "10 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Botuxon istilosi natijasida qaysi davlatlar bo'ysundirildi.",
+   "options": [
+    "Vizantiya va Misr",
+    "Polsha, qisman Serbiya va Bolgariya",
+    "Fransiya va Angliya",
+    "Eron va Hindiston"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Dastlab Botuxon davrida Oltin O'rda ulug' xon qarorgohi Qoraqurumga nima uchun borib turgan.",
+   "options": [
+    "Qurultoyda ishtirok etish uchun",
+    "Elchi qabul qilish uchun",
+    "Soliq to'lash uchun",
+    "Savdo qilish uchun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temurning To'xtamishxon ustidan hal qiluvchi g'alabasi qaysi yilda bo'lgan.",
+   "options": [
+    "1380-yilda",
+    "1395-yilda",
+    "1389-yilda",
+    "1402-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Botuning ukalariga berilgan, ular uchun meros bo'lib qoladigan egallangan hududlar nima deb atalgan.",
+   "options": [
+    "Vaqf",
+    "Tumor",
+    "Suyurg'ol",
+    "Iqto"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Oltin O'rda armiyasi qaysi asr oxirida o'z artilleriyasiga ega bo'la boshladi.",
+   "options": [
+    "XIII asr o'rtalarida",
+    "XII asr oxirida",
+    "XIV asr oxirida",
+    "XV asr boshida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“O'rda” atamasi qanday ma'noni bildiradi.",
+   "options": [
+    "Qo'shin, lashkar",
+    "Xon, hukmdor",
+    "Yurt, vatan",
+    "Qarorgoh, chodir"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi xon davrida Saroy Berka aholisi 100 ming kishiga yetgan.",
+   "options": [
+    "Botuxon",
+    "Mangu Temur",
+    "Jonibek",
+    "Berkaxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIV asrning ikkinchi yarmida yigirma besh yil ichida nechta xon almashgan.",
+   "options": [
+    "20 ta",
+    "50 ta",
+    "5 ta",
+    "10 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oltin O'rda xoni O'zbekxonning taxti haqida ma'lumot bergan arab sayyohini aniqlang.",
+   "options": [
+    "Marko Polo",
+    "Ibn Xaldun",
+    "Klavixo",
+    "Ibn Battuta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Suyurg'ol” so'zi mo'g'ul tilida qanday ma'noni bildiradi.",
+   "options": [
+    "Soliq, o'lpon",
+    "Qarorgoh, chodir",
+    "In'om, sovg'a",
+    "Yer, mulk"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "To'xtamishxon qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1380–1395-yillarda",
+    "1312–1342-yillarda",
+    "1395–1420-yillarda",
+    "1342–1357-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oltin O'rda qo'shinining asosiy kuchi nimadan iborat edi.",
+   "options": [
+    "Dengiz flotidan",
+    "Artilleriyadan",
+    "Otliqlardan",
+    "Piyodalardan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Botuxonga tegishlilarini aniqlang.",
+   "options": [
+    "1, 3",
+    "1, 4",
+    "3, 4",
+    "2, 3"
+   ],
+   "answer": 3,
+   "image": "img/j8-14-48.jpg"
+  },
+  {
+   "q": "Botuxon Rus va Sharqiy Yevropada istilolarni qaysi yillarda amalga oshirdi.",
+   "options": [
+    "1237–1242-yillarda",
+    "1312–1342-yillarda",
+    "1255–1266-yillarda",
+    "1227–1237-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oltin O'rda Hulokuiylar davlati bilan qaysi hududga egalik qilish masalasida raqobatlashgan.",
+   "options": [
+    "Kavkazorti",
+    "Xuroson",
+    "Movarounnahr",
+    "Anatoliya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada berilgan hukmdorlar va ularning faoliyati to'g'ri ko'rsatilgan javobni aniqlang.",
+   "options": [
+    "2, 3",
+    "2, 4",
+    "1, 3",
+    "1, 2"
+   ],
+   "answer": 0,
+   "image": "img/j8-14-51.jpg"
+  },
+  {
+   "q": "O'zbekxon qo'shini qancha jangchidan oshgan.",
+   "options": [
+    "300 mingdan",
+    "1 milliondan",
+    "100 mingdan",
+    "30 mingdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mangu Temur Oltin O'rdani rasman mustaqil davlatga aylantirish uchun nima qildi.",
+   "options": [
+    "Qoraqurumga elchi yubordi",
+    "Yangi poytaxt qurdi",
+    "O'z nomidan tangalar zarb qila boshladi",
+    "Islomni qabul qildi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbekxon qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1255–1266-yillarda",
+    "1312–1342-yillarda",
+    "1342–1357-yillarda",
+    "1380–1395-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oltin O'rdaning Moskva knyazi Ivan III ni bo'ysundirish uchun qilgan urinishi qaysi yilda muvaffaqiyatsiz tugadi.",
+   "options": [
+    "1502-yilda",
+    "1380-yilda",
+    "1395-yilda",
+    "1480-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oltin O'rda qo'shinini 1502-yilda uzil-kesil mag'lub etgan hukmdor kim.",
+   "options": [
+    "Qrim xoni Mengli Garay",
+    "Usmoniy sultoni Bayazid II",
+    "Moskva knyazi Ivan III",
+    "Qozoq xoni Jonibek"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rus knyazliklari Oltin O'rdaga nisbatan qanday maqomda bo'lgan.",
+   "options": [
+    "Mustaqil",
+    "Vassal",
+    "Ittifoqchi",
+    "Viloyat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'zbekxon islomni qaysi yilda qabul qilib, davlat dini deb e'lon qildi.",
+   "options": [
+    "1380-yilda",
+    "1295-yilda",
+    "1342-yilda",
+    "1314-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Botuning nabirasi Mangu Temur o'z mulklarini qaysi yilda mustaqil deb e'lon qildi.",
+   "options": [
+    "1312-yilda",
+    "1255-yilda",
+    "1269-yilda",
+    "1282-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jonibekxon qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1380–1395-yillarda",
+    "1342–1357-yillarda",
+    "1312–1342-yillarda",
+    "1357–1380-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oltin O'rdaning dastlabki poytaxti qaysi shahar edi.",
+   "options": [
+    "Saroy Berka",
+    "Qoraqurum",
+    "Saroy Botu",
+    "Astraxan"
+   ],
+   "answer": 2
+  }
+ ]
+}

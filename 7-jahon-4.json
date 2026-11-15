@@ -1,0 +1,396 @@
+{
+ "title": "7-sinf · Muqaddas Rim imperiyasi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Karolinglar sulolasining Sharqiy Frank qirolligidagi boshqaruvi qachon yakun topgan?",
+   "options": [
+    "912-yilda",
+    "913-yilda",
+    "909-yilda",
+    "911-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sharqiy Frank qirolligida mahalliy zodagonlar gersoglardan eng qudratlisi bo'lgan Saksoniyaning qaysi gersogini davlat hukmdori etib saylashadi?",
+   "options": [
+    "910-yili Genrixni",
+    "919-yili Richard",
+    "919-yili Genrixni",
+    "919-yili Genrixni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi sana Germaniya qirolligining paydo bo'lgan yili hisoblanadi?",
+   "options": [
+    "910-yili",
+    "916-yili",
+    "918-yili",
+    "919-yili"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Germaniyaga shimoldan kimlar (a)-, janubdan ko'chmanchi kimlar (b)- hujumlar qilib turgan?",
+   "options": [
+    "(a)- normannlar, (b)- daniyaliklar",
+    "(a)- piktlar, (b)- vengerlar",
+    "(a)- normannlar, (b)- vikinglar",
+    "(a)- normannlar, (b)- vengerlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Genrix Vengerlar bilan necha yilga tinchlik sulhi imzolab, kuchli otliq qo'shin tuzishga kirishadi?",
+   "options": [
+    "10 yilga",
+    "19 yilga",
+    "29 yilga",
+    "9 yilga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Genrix buyrug'iga binoan qishloqlardagi har nechta xo'jalikdan bittadan kishi jangchilikka tayyorlanish uchun burglarga (qal'alarga) ko'chiriladi?",
+   "options": [
+    "6",
+    "9",
+    "7",
+    "3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Genrix I ning vorisi Otton I qaysi jangda vengerlarning otliq qo'shinini yegadi?",
+   "options": [
+    "965-yili Lex daryosi bo'yida",
+    "956-yili Reyn daryosi bo'yida",
+    "957-yili Sena daryosi bo'yida",
+    "955-yili Lex daryosi bo'yida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Otton I qaysi yili va kim tomonidan imperator deb e'lon qilinadi?",
+   "options": [
+    "963-yili Italiyaga yurish qilib, Vatikan papasi Ioann XII",
+    "962-yili Italiyaga yurish qilib, German papasi Lev III",
+    "964-yil Italiyaga yurish qilib, Rim papasi Pyotr XII",
+    "962-yili Italiyaga yurish qilib, Rim papasi Ioann XII"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Otton I asosiy e'tiborini qayerga qaratadi?",
+   "options": [
+    "Italiyaning janubiga",
+    "Germaniya shimoliga",
+    "Fransiya janubiga",
+    "Ispaniya janubiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muqaddas Rim imperiyasi nechanchi yillarda hukm surgan?",
+   "options": [
+    "963-yildan 1806-yilgacha",
+    "962-yildan 1808-yilgacha",
+    "962-yildan 1706-yilgacha",
+    "962-yildan 1806-yilgacha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi imperator o'z hokimiyati ostida butun xristian dunyosini birlashtirish orzusida bo'lgan?",
+   "options": [
+    "Otton III",
+    "Otton I",
+    "Buyuk Karl",
+    "Pipin Pakana"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muqaddas Rim imperiyasiga qayerlar kirgan?",
+   "options": [
+    "Italiya, Shotlandiya, Norvegiya va Shvetsiyani",
+    "Fransiya, Norvegiya va Shvetsiyani",
+    "Shotlandiya, Germaniya va Shvetsiyani",
+    "Germaniya va Shimoliy Italiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Germaniyada madaniy yuksalish boshlanadi, bu odatda nima deb ataladi?",
+   "options": [
+    "\"Fillip Uyg'onish davri\"",
+    "\"Italiya Uyg'onish davri\"",
+    "\"Pipin Uyg'onish davri\"",
+    "\"Otton Uyg'onish davri\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ustaxona o'rta asrlarda nima deb ataladi?",
+   "options": [
+    "Skriptoriya",
+    "Diskominatsiya",
+    "Frekamsoiya",
+    "Pergament"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muqaddas Rim Imperiyasida Vizantiya malikasiga uylanib, Vizantiya bilan madaniy aloqalarni mustahkamlashga hissa qo'shgan hukmdor kim edi?",
+   "options": [
+    "Otton III",
+    "Otton I",
+    "Otton II",
+    "Pipin Pakana"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muqaddas Rim Imperiyasida bo'lajak qirol Otton III ga ustozlik qilgan o'qituvchi kim edi?",
+   "options": [
+    "Gerbert",
+    "Eyngard",
+    "Alkuin",
+    "Pipin Pakana"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Manbalarda yozilishicha, Gerbert kambag'al oiladan bo'lib bilimga chanqoqligi tufayli qaysi shaharlarga borib tahsil olgan?",
+   "options": [
+    "Fransiya Qurdoba (Kordova) va Granada",
+    "Ispaniyasidagi Granada va Ishbiliya (Seviliya)",
+    "Ispaniyasidagi Qurdoba (Kordova) Valensiya",
+    "Ispaniyadagi Qurdoba (Kordova) va Ishbiliya (Seviliya)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Zamondoshlari \"dunyo mo'jizasi\" deb laqab qo'ygan hukmdor kim?",
+   "options": [
+    "Otton III",
+    "Otton I",
+    "Otton II",
+    "Genrix"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muqaddas Rim Imperiyasida qaysi hukmdor davrida tantanali saroy marosimlari ishlab chiqilgan?",
+   "options": [
+    "Otton III",
+    "Otton I",
+    "Otton II",
+    "Genrix"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muqaddas Rim Imperiyasida imperator hokimiyatining timsollari nimalardan iborat? 1. toj 2. but shakli solingan oltin shar 3. shamshir 4. saltanat hassasi",
+   "options": [
+    "1,2,3",
+    "1,2,3,4",
+    "1,2,4",
+    "1,3,4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi asrdan papalar xristian cherkovi ustidan nazoratni qayta qo'lga olish uchun imperatorlarga qarshi kurash boshlaydilar?",
+   "options": [
+    "XIII asrda",
+    "XII asr",
+    "X asrda",
+    "XI asr"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi hukmdor Rimda ko'plab yepiskoplar ishtirokida o'ziga ma'qul kelmagan papalardan birini sud qilib, lavozimidan chetlashtirgan?",
+   "options": [
+    "Otton III",
+    "Otton I",
+    "Otton II",
+    "Genrix"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi hukmdor o'zining ustozi rohib Gerbertni Silvester II nomi bilan Rim papaligiga saylanishiga erishgan?",
+   "options": [
+    "Otton I",
+    "Otton III",
+    "Otton II",
+    "Genrix"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Otton III Rimga borib imperatorlik tojini kiygan?",
+   "options": [
+    "995-yilda",
+    "997-yilda",
+    "998-yilda",
+    "996-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Saksoniyaliklar sulolasiga mansub bo'lgan oxirgi imperator Genrix II nechanchi yillarda hukmronlik qilgan?",
+   "options": [
+    "1015-1024",
+    "1014-1025",
+    "1014-1026",
+    "1014-1024"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Genrix II qaysi yilda Rimda imperator sifatida toj kiyadi?",
+   "options": [
+    "1078-yilda",
+    "1068-yilda",
+    "1018-yilda",
+    "1058-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Germaniyada Shtaufenlar sulolasi hokimiyat tepasiga keladi?",
+   "options": [
+    "1147-yilda",
+    "1157-yilda",
+    "1167-yilda",
+    "1137-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shtaufenlar sulolasi eng taniqli vakili kim?",
+   "options": [
+    "Genrix (1198-1216)",
+    "Otton I (936-973)",
+    "Fridrix I Barbarossa (1152-1190)",
+    "Pipin Pakana (714-768)"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kimning davrida Muqaddas Rim imperiyasi siyosiy jihatdan o'zining eng yuqori cho'qqisiga va harbiy qudratiga erishadi?",
+   "options": [
+    "Otton II",
+    "Otton I",
+    "Fridrix I Barbarossa",
+    "Pipin Pakana"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fridrix I qaysi qirolliklariga o'z hokimiyatining ustunligini tan oldirishga intiladi?",
+   "options": [
+    "Vengriya, Chexiya, Polsha va Daniya",
+    "Fransiya, Norvegiya va Shvetsiyani",
+    "Shotlandiya, Serbiya va Shvetsiyani",
+    "Shotlandiya, Norvegiya va Shvetsiyani"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi Imperator turli diplomatik usullar orqali Germaniyadagi gersog va graflarning o'zaro urushlariga chek qo'yib, mamlakatda tinchlik o'rnatish hamda imperiya hududlarini kengaytirishga ham erishadi?",
+   "options": [
+    "Otton III",
+    "Otton I",
+    "Fridrix I Barbarossa",
+    "Pipin Pakana"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dastlab Fridrix I diqqat-e'tiborini salib yurish boyib ketgan qaysi davlatga qaratadi?",
+   "options": [
+    "Italiya",
+    "Fransiya",
+    "Shotlandiya",
+    "Shvetsiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fridrix I qachon Rimga borib toj kiyadi?",
+   "options": [
+    "1154-yilda",
+    "1158-yilda",
+    "1158-yilda",
+    "1155-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fridrix I qachon katta qo'shin bilan yurish boshlab Italiyaning shimoliy shaharlarini bo'ysundiradi?",
+   "options": [
+    "1154-yilda",
+    "1158-yilda",
+    "1158-yilda",
+    "1155-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Milan qachon qayta tiklanib yangi jangga hozirlik ko'ra boshlaydi?",
+   "options": [
+    "XII asrning 80-90-yillarida",
+    "XII asrning 70-80-yillarida",
+    "XIII asrning 60-80-yillarida",
+    "XII asrning 60-70-yillarida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fridrix hukmdorligi davrida bo'lib o'tgan voqealarni belgilang. 1) Shimoliy Italiya shaharlariga erkinlik huquqini berishga va mustaqilligini tan olishga majbur bo'lgan 2) Italiyaning shimolidagi katta yer-mulklar qo'ldan ketgan bo'lsa-da, o'g'lini Sitsiliya malikasi Konstansiyaga uylantirish orqali Sitsiliya orollaridan tashqari, Italiyaning janubiy qismini ham o'z ichiga olgan kuchli qirollikni qo'lga kiritadi 3) Sitsiliyada qolib shu yerdan turib imperiyani boshqara boshlagan 4) Uning davrida Germaniyada nemis gersoglarining o'zboshimchaliklarini kuchaytirib, sulolaning inqirozini tezlashtiradi",
+   "options": [
+    "1,2",
+    "1,2,3",
+    "1,2,3,4",
+    "3,4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Lenyano jangida Fridrix I qo'shini italiyaliklardan mag'lubiyatga uchraydi?",
+   "options": [
+    "1177-yil",
+    "1176-yil",
+    "1178-yil",
+    "1175-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rimda qolishdan qo'rqib, Ravennaga ko'chib o'tgan hukmdor kim edi?",
+   "options": [
+    "Otton III",
+    "Otton I",
+    "Genrix",
+    "Pipin Pakana"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rimga borib toj kiygan qaysi imperator o'z hayotini Rim imperiyasini tiklashga bag'ishlab, shu yerda umrbod qolishga qaror qiladi?",
+   "options": [
+    "Otton III",
+    "Otton I",
+    "Genrix",
+    "Pipin Pakana"
+   ],
+   "answer": 0
+  }
+ ]
+}

@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 29-mavzu. Yunon fuqarolari tarbiyasi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Yunon maktablari oldiga qanday maqsad qo'yilgan?",
+   "options": [
+    "Faqat kohinlar tayyorlash",
+    "Faol fuqarolar, davlat himoyachilarini tarbiyalash",
+    "Qullarni o'qitish",
+    "Faqat savdogarlar tayyorlash"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sportni rivojlantirish va Olimpiya o'yinlariga ommaviy qiziqish nimaga xizmat qilgan?",
+   "options": [
+    "Faol fuqarolar va davlat himoyachilarini tarbiyalashga",
+    "Savdoni rivojlantirishga",
+    "Ma'budlarni xursand qilishga",
+    "Koloniyalar tashkil etishga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yunonlarda bolalikdanoq o'g'il bolalarga nimaga muhabbat singdirilgan?",
+   "options": [
+    "She'riyat va musiqaga",
+    "Savdo-sotiqqa",
+    "Dehqonchilikka",
+    "Dengizchilikka"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yunon yigitlari umumiy ta'limdan tashqari necha yil harbiy ta'lim olgan?",
+   "options": [
+    "O'n yil",
+    "Ikki yil",
+    "Bir yil",
+    "To'rt yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Harbiy ta'limning birinchi yilida yigitlar nimalarni o'rgangan?",
+   "options": [
+    "Pirey portida dengizchilikni",
+    "Attika chegara qal'alarida xizmat qilishni",
+    "Falsafa va astronomiyani",
+    "Uylarida yashab, safda yurish, qurol taqish, ochlik va sovuqqa chidamli bo'lishni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Harbiy ta'limning ikkinchi yilida yigitlar qayerda xizmat qilgan yoki nimani o'rgangan?",
+   "options": [
+    "Hammasi palestrada o'qigan",
+    "Ayrimlari Attika chegara qal'alarida xizmat qilgan, boshqalari Pirey portida dengizchilik asoslarini o'rgangan",
+    "Hammasi Olimpiyada musobaqalashgan",
+    "Hammasi Spartada xizmat qilgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mamlakatni mudofaa qilish zarurati tug'ilganda kimlar qurol-yarog'i bilan ko'rikka yetib kelishi shart edi?",
+   "options": [
+    "Faqat zodagonlar",
+    "Faqat meteklar",
+    "30 yoshga to'lmagan erkaklarning barchasi",
+    "Faqat 20 yoshli yigitlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yunonlarda Vatanga muhabbat nimada aks etgan?",
+   "options": [
+    "Chet elga ketishda",
+    "Ko'p ibodat qilishda",
+    "Boylik to'plashda",
+    "Har bir fuqaroning fidoyiligi va jasoratida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Birinchi Olimpiya o'yinlari qachon va qayerda o'tkazilgan?",
+   "options": [
+    "Mil. avv. 594-yilda; Spartada",
+    "Mil. avv. 490-yilda; Marafonda",
+    "Mil. avv. 776-yilda; Olimpiya shahrida",
+    "Mil. avv. 776-yilda; Afinada"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Olimpiya o'yinlari necha yilda bir marta o'tkazilgan?",
+   "options": [
+    "Ikki yilda bir marta",
+    "To'rt yilda bir marta",
+    "Besh yilda bir marta",
+    "Har yili"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Olimpiada olovi qanday yondirilgan?",
+   "options": [
+    "Ibodatxona o'chog'idan",
+    "Ishqalash yo'li bilan",
+    "Chaqmoqtosh bilan",
+    "Quyosh nurlarida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Olimpiya o'yinlarida sportchilar qanday musobaqada bellashgan?",
+   "options": [
+    "Besh kurashda",
+    "Faqat yugurishda",
+    "Faqat kurashda",
+    "Faqat suzishda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Olimpiyadagi otchoparda qanday musobaqalar uyushtirilgan?",
+   "options": [
+    "Aravalarda va otlarda poyga",
+    "Tuya poygasi",
+    "Qayiq poygasi",
+    "Fil poygasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nima uchun Olimpiya o'yinlari paytida urushlar to'xtatilgan?",
+   "options": [
+    "Odamlar va sportchilar Olimpiyaga eson-omon yetib kelishi uchun",
+    "Qo'shinlar sportchilarga aylangani uchun",
+    "Forslar talab qilgani uchun",
+    "Kohinlar urushni taqiqlagani uchun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Olimpiya o'yinlari kimning sharafiga o'tkazilgan?",
+   "options": [
+    "Ma'buda Afina sharafiga",
+    "Dengiz xudosi Poseydon sharafiga",
+    "Olimp xudosi Zevs sharafiga",
+    "Qahramon Axilles sharafiga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Afsonalarga ko'ra Olimpiya o'yinlari asoschisi kim hisoblangan?",
+   "options": [
+    "Axilles",
+    "Zevs",
+    "Gerakl",
+    "Perikl"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Olimpiya o'yinlarida kimlar ishtirok etishi mumkin bo'lgan?",
+   "options": [
+    "Faqat spartaliklar",
+    "Faqat zodagonlar",
+    "Faqat jinoyat sodir etmagan, sha'niga dog' tushirmagan ozod yunon",
+    "Barcha xohlovchilar, shu jumladan qullar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Musobaqalarda uch karra g'alaba qozongan sportchi qanday huquqqa ega bo'lgan?",
+   "options": [
+    "Xalq majlisida ovoz berish huquqiga",
+    "Olimpiya shahrida o'z haykalini o'rnattirish huquqiga",
+    "Afina hukmdori bo'lish huquqiga",
+    "Soliqdan ozod bo'lish huquqiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Olimpiya g'oliblari nima bilan taqdirlangan?",
+   "options": [
+    "Kumush qadah bilan",
+    "Muqaddas zaytun daraxti novdalaridan to'qilgan gulchambar bilan",
+    "Oltin tanga bilan",
+    "Yer-mulk bilan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yunonlar yil hisobini nimaga qarab yuritgan?",
+   "options": [
+    "Podsholar hukmronligiga qarab",
+    "Oy taqvimiga qarab",
+    "Olimpiya o'yinlariga qarab",
+    "Nil toshqiniga qarab"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi Olimpiya o'yinlari nima sababdan man qilingan?",
+   "options": [
+    "Zilzila natijasida",
+    "Xristian dini tarqalishi natijasida, chunki o'yinlar Zevs sharafiga bag'ishlangan edi",
+    "Forslar bosib olgani sababli",
+    "Sportchilar qolmagani sababli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Olimpiya o'yinlarini o'tkazish qachon butunlay to'xtab qoldi?",
+   "options": [
+    "Mil. avv. 394-yilda",
+    "Mil. avv. 146-yilda",
+    "Milodiy 394-yilda",
+    "Milodiy 476-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Olimpiya o'yinlari qachon qayta tiklandi?",
+   "options": [
+    "1900-yilda",
+    "1896-yilda",
+    "1796-yilda",
+    "1924-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Olimpiya o'yinlaridan hozirgacha saqlanib qolgan odat qaysi?",
+   "options": [
+    "O'yinlar paytida urushlarni to'xtatish",
+    "O'yinlar ochiladigan kunda quyosh nurlaridan yondirilgan mash'ala yoqish",
+    "Faqat erkaklarning qatnashishi",
+    "G'oliblarga zaytun gulchambari berish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Olimpiya o'yinlariga oid voqealarni xronologik tartibda joylashtiring.\n1) qadimgi o'yinlarning to'xtatilishi; 2) o'yinlarning qayta tiklanishi; 3) birinchi o'yinlarning o'tkazilishi.",
+   "options": [
+    "3, 2, 1",
+    "2, 3, 1",
+    "1, 3, 2",
+    "3, 1, 2"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Olimpiya o'yinlariga oid to'g'ri ma'lumotlarni aniqlang.\n1) to'rt yilda bir marta o'tkazilgan; 2) Poseydon sharafiga bag'ishlangan; 3) o'yinlar paytida urushlar to'xtatilgan; 4) qullar ham qatnasha olgan.",
+   "options": [
+    "2, 4",
+    "1, 3",
+    "3, 4",
+    "1, 2"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yunon tarbiyasiga xos bo'lmagan jihatni toping.",
+   "options": [
+    "Ikki yillik harbiy ta'lim",
+    "Yigitlarni harbiy ishdan ozod qilish",
+    "Sport bilan shug'ullantirish",
+    "She'riyat va musiqaga muhabbat singdirish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nVoqea | Sana\nBirinchi Olimpiya o'yinlari | 1) ________\nQadimgi Olimpiya o'yinlarining to'xtatilishi | 2) ________\nOlimpiya o'yinlarining qayta tiklanishi | 3) ________\na) mil. avv. 776-yil; b) milodiy 394-yil; c) 1896-yil; d) mil. avv. 490-yil; e) milodiy 476-yil; f) 1900-yil.",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-d, 2-b, 3-c",
+    "1-a, 2-b, 3-f",
+    "1-a, 2-e, 3-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nOlimpiya o'yinlari | Ma'lumot\nKim sharafiga o'tkazilgan | A\nAfsonaviy asoschisi | B\nG'oliblar mukofoti | C\n1) Zevs; 2) Gerakl; 3) zaytun novdasidan gulchambar; 4) Poseydon; 5) oltin tanga; 6) Axilles.",
+   "options": [
+    "A-1, B-2, C-3",
+    "A-1, B-6, C-3",
+    "A-4, B-2, C-3",
+    "A-1, B-2, C-5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yunon fuqarolari tarbiyasiga oid to'g'ri hukmlarni aniqlang.\nI. Yigitlar ikki yil harbiy ta'lim olgan.\nII. Olimpiya o'yinlari har yili o'tkazilgan.\nIII. Uch karra g'olib Olimpiyada haykal o'rnattirish huquqiga ega bo'lgan.\nIV. Olimpiya o'yinlari 1796-yilda qayta tiklangan.",
+   "options": [
+    "III va IV",
+    "II va IV",
+    "I va II",
+    "I va III"
+   ],
+   "answer": 3
+  }
+ ]
+}

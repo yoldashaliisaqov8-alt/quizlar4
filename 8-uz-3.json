@@ -1,0 +1,413 @@
+{
+ "title": "8-sinf · Muhammad Xorazmshohning mamlakat mudofaasiga oid tadbirlari va buning oqibati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Harbiy kengashda Jaloliddin va Xo'jand hokimi Temur Malik qanday taklif bilan chiqqan?",
+   "options": [
+    "Harbiy kuchlarni asosiy nuqtalarga to'plab, dushmanga zarba berishni",
+    "Qo'shinni shaharlarga bo'lib yuborishni",
+    "Mo'g'ullar bilan sulh tuzishni",
+    "Poytaxtni Xurosonga ko'chirishni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sulton Muhammad harbiy kuchlarni bir joyga to'plashdan nima uchun qo'rqqan?",
+   "options": [
+    "Mo'g'ullar bu haqda xabar topardi",
+    "Qo'shin soni juda oz edi",
+    "Bir joyga to'plangan qo'shin uni taxtdan ag'darib tashlashi mumkin edi",
+    "Oziq-ovqat zaxirasi yetishmasdi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sulton harbiy kengashda qanday taktikani qo'llashga qaror qilgan?",
+   "options": [
+    "Dushmanga hujum taktikasini",
+    "Partizanlik urushi taktikasini",
+    "Qo'shinlarni turli shaharlarga bo'lib, mudofaa taktikasini",
+    "Soxta chekinish taktikasini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sulton mo'g'ullarning asosiy zarbasi qaysi vodiyga qaratiladi deb hisoblagan?",
+   "options": [
+    "Zarafshon vodiysiga",
+    "Qashqadaryo vodiysiga",
+    "Farg'ona vodiysiga",
+    "Surxon vodiysiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sulton mo'g'ullar zarbasini kutib, qaysi shaharlarni mustahkamlashni buyurgan?",
+   "options": [
+    "Urganch va Xivani",
+    "Termiz va Balxni",
+    "Toshkent va Xo'jandni",
+    "Samarqand va Buxoroni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chingizxon Xorazmshohlar davlatiga qarshi harbiy yurishni qaysi yili boshlagan?",
+   "options": [
+    "1221-yili",
+    "1220-yili",
+    "1219-yili",
+    "1218-yili"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-c, 3-b, 4-d",
+    "1-a, 2-c, 3-b, 4-f",
+    "1-e, 2-c, 3-b, 4-d",
+    "1-f, 2-c, 3-b, 4-d"
+   ],
+   "answer": 0,
+   "image": "img/k8-03-07.jpg"
+  },
+  {
+   "q": "Chingizxonning asosiy harbiy kuchlari qancha edi?",
+   "options": [
+    "100 mingga yaqin",
+    "200 mingga yaqin",
+    "60 mingga yaqin",
+    "400 mingga yaqin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mo'g'ullar yozni qaysi daryo bo'yida o'tkazib, sentyabr oyida chegaradan o'tgan?",
+   "options": [
+    "Zarafshon daryosi",
+    "Irtish daryosi",
+    "Sirdaryo",
+    "Onon daryosi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chingizxon lashkariga uyg'ur ediquti (xoni) sifatida kim qo'shilgan?",
+   "options": [
+    "Arslonxon",
+    "Baurchak",
+    "Sig'noqtegin",
+    "Jebe"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chingizxon o'z qo'shinini 4 qismga bo'lgan joy qayerda joylashgan?",
+   "options": [
+    "Sirdaryoga tutashgan joydagi O'tror shahri yaqinida",
+    "Zarafshon vohasida, Buxoro yaqinida",
+    "Amudaryo bo'yida, Urganch yaqinida",
+    "Xo'jand yaqinida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada Chingizxon qo'shini qismlarining sarkardalari va ularga topshirilgan vazifalar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-e, 3-d",
+    "1-b, 2-a, 3-d",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-d, 3-b"
+   ],
+   "answer": 2,
+   "image": "img/k8-03-12.jpg"
+  },
+  {
+   "q": "Chingizxon o'zi bosh bo'lgan to'rtinchi – asosiy qism tarkibida qaysi taniqli sarkardalar bo'lgan?",
+   "options": [
+    "Jo'chi va Baurchak",
+    "Jebe va Subutoy",
+    "Chig'atoy va O'qtoy",
+    "Aloq no'yon va Suketu Cherbi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'tror qal'asi noibi G'oyirxon (Inolchiq) boshchiligida shaharda nechta suvoriy bor edi?",
+   "options": [
+    "10 ming",
+    "20 ming",
+    "60 ming",
+    "50 ming"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sulton Muhammad O'trorga “Lashkari birun” deb atalgan qancha askar yuborgan?",
+   "options": [
+    "10 ming",
+    "110 ming",
+    "20 ming",
+    "50 ming"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'trorliklar shaharni mo'g'ullar qamalida qancha vaqt o'z qo'llarida ushlab turdilar?",
+   "options": [
+    "Yetti oy",
+    "Uch kun",
+    "Bir hafta",
+    "Besh oy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chizmada sarkardalar va ular qamal qilgan (egallagan) shaharlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-c, 2-b, 3-f",
+    "1-c, 2-e, 3-f",
+    "1-b, 2-c, 3-f",
+    "1-d, 2-b, 3-f"
+   ],
+   "answer": 0,
+   "image": "img/k8-03-17.jpg"
+  },
+  {
+   "q": "G'oyirxon (Inolchiq) asirga tushirilgach, qayerga olib borilib qatl etilgan?",
+   "options": [
+    "Samarqandga",
+    "Buxoroga",
+    "Urganchga",
+    "Qoraqurumga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chingizxon Buxoro ustiga qachon qo'shin tortgan?",
+   "options": [
+    "1220-yilning martida",
+    "1221-yilning boshida",
+    "1219-yilning sentyabrida",
+    "1220-yilning fevralida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buxoro yonib ketganda faqat qaysi bino omon qolgan?",
+   "options": [
+    "Ark qal'asi",
+    "Somoniylar maqbarasi",
+    "G'ishtdan qurilgan katta masjid va ba'zi binolar",
+    "Chor Bakr majmuasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buxoro yong'inida xalq qaysi me'moriy yodgorlikni qumga ko'mib tashlagan?",
+   "options": [
+    "Ark qal'asini",
+    "Mir Arab madrasasini",
+    "Poyi Kalon minorasini",
+    "Somoniylar maqbarasini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chizmada shaxslar va ularga tegishli qo'shin miqdori to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-c, 2-f, 3-a",
+    "1-f, 2-c, 3-a",
+    "1-f, 2-e, 3-a",
+    "1-b, 2-c, 3-a"
+   ],
+   "answer": 1,
+   "image": "img/k8-03-22.jpg"
+  },
+  {
+   "q": "Sulton Samarqand mudofaasiga mas'ul qilib qoldirgan 40 ming g'ur jangchisiga kim boshchilik qilgan?",
+   "options": [
+    "Temur Malik",
+    "Sultonning tog'asi Tog'ayxon",
+    "Badriddin",
+    "Xumortegin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chingizxon Samarqandni egallash uchun qanday harbiy hiyla ishlatgan?",
+   "options": [
+    "Shaharga chorva haydab kelgan",
+    "Tunda kemalarda hujum qilgan",
+    "Yolg'ondakam chekinib, pistirmada qurshab olgan",
+    "Elchi orqali darvozani ochtirgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ullar Samarqandni suvsiz qoldirish uchun qaysi suv inshootini buzib tashlagan?",
+   "options": [
+    "Shohrud kanalini",
+    "Jo'yi arziz (Qo'rg'oshin novasi)ni",
+    "Amudaryo to'g'onini",
+    "Dargom ariqini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Samarqand talangach, jonlari omon qolgani uchun tirik qolganlarga qancha dinor tovon to'lash sharti qo'yilgan?",
+   "options": [
+    "20 ming dinor",
+    "200 ming dinor",
+    "30 ming dinor",
+    "110 ming dinor"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chizmada keltirilgan shaharlar va ularning mudofaasiga rahbarlik qilgan shaxslar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-f, 2-b, 3-d",
+    "1-c, 2-b, 3-a",
+    "1-c, 2-d, 3-b",
+    "1-c, 2-b, 3-d"
+   ],
+   "answer": 3,
+   "image": "img/k8-03-27.jpg"
+  },
+  {
+   "q": "Samarqandda mo'g'ullar omonlik va'da qilib, qirib tashlagan qo'shin qaysi qabilaga mansub edi?",
+   "options": [
+    "Qarluq qo'shini",
+    "G'ur qo'shini (40 ming)",
+    "Qang'li qo'shini (30 ming)",
+    "Uyg'ur qo'shini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xo'jand qamalida Temur Malik himoyachilarga qancha qayiq yasatgan?",
+   "options": [
+    "20 ta",
+    "50 ta",
+    "3 ta",
+    "12 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Temur Malik qayiqlarni yondirilgan o'qdan saqlash uchun nima bilan qoplatgan?",
+   "options": [
+    "Namat bilan qoplab, sirka shimdirilgan loy bilan suvatgan",
+    "Temir list bilan",
+    "Qalin yog'och bilan",
+    "Charm bilan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muhammad Xorazmshoh 1220-yilning dekabrida qayerda va qanday kasallikdan vafot etgan?",
+   "options": [
+    "Samarqandda, vabodan",
+    "Nishopurda, sil kasalidan",
+    "Urganchda, bezgakdan",
+    "Ashura orolida, plevrit (o'pkaga suv yig'ilishi)dan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chizmada qo'shin qismlari tavsifi va ularga boshchilik qilganlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-b, 3-d",
+    "1-a, 2-b, 3-f",
+    "1-b, 2-a, 3-d",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 0,
+   "image": "img/k8-03-32.jpg"
+  },
+  {
+   "q": "Muhammad Xorazmshoh o'limi oldidan valiahdlikni bekor qilib, taxt vorisi etib kimni e'lon qilgan?",
+   "options": [
+    "Qutbiddin O'zloqshohni",
+    "Xumorteginni",
+    "Oqshohni",
+    "Jaloliddinni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Urganch mudofaasida ishtirok etgan, Najmiddin Kubro nomi bilan shuhrat topgan 76 yoshli shayxning asl ismi nima edi?",
+   "options": [
+    "Mahmud Yalavoch",
+    "Muhammad Nasaviy",
+    "Ahmad ibn Umar Xivaqiy",
+    "Abu Usmon Minhojiddin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Najmiddin Kubroning qaysi xitobi Urganch himoyachilariga ilhom bergan?",
+   "options": [
+    "“Mardlik – yurt uchun!”",
+    "“Taslim bo'lmang, ey xorazmliklar!”",
+    "“Yo Vatan, yo sharafli o'lim!”",
+    "“Ona yurt – muqaddas!”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Temur Malikning Xo'jand mudofaasi haqidagi to'g'ri ma'lumotlarni aniqlang. 1) Aloq no'yon qamal uchun 20 ming nafar qo'shin safarbar qildi; 2) Qayiqlar ustida o'q otish uchun maxsus shinaklar bo'lgan; 3) Xo'jand qal'asi Sirdaryoning ikkiga ajralgan joyida qurilgan edi; 4) Xo'jand qal'asi Amudaryo bo'yida joylashgan edi; 5) Temur Malik qayiqlarni yasatmagan, faqat qal'ada qolgan.",
+   "options": [
+    "1, 2, 5",
+    "1, 4, 5",
+    "1, 2, 3",
+    "2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada keltirilgan voqealar va ularning yillari to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-f, 2-c, 3-d",
+    "1-f, 2-b, 3-d",
+    "1-a, 2-b, 3-d",
+    "1-f, 2-d, 3-b"
+   ],
+   "answer": 1,
+   "image": "img/k8-03-37.jpg"
+  },
+  {
+   "q": "Samarqand mudofaasiga oid to'g'ri ma'lumotlarni aniqlang. 1) Shaharning 100 ming hunarmandi asir olingan; 2) Shahar qo'shini 110 ming jangchidan iborat bo'lgan; 3) Samarqandda 20 ta jangovar fil bor edi; 4) Shahar ostonasida uch kun shiddatli jang kechgan; 5) Samarqand qo'shini Chingizxon hiylasiga uchmagan.",
+   "options": [
+    "2, 3, 4",
+    "1, 2, 4, 5",
+    "3, 4, 5",
+    "1, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng avval sodir bo'lgan?",
+   "options": [
+    "Chingizxon karvoni O'trorda qirib tashlandi",
+    "Chingizxon Xorazmshohlar davlatiga yurishni boshladi",
+    "Chingizxon qo'shinlarining Urganchga yurishi boshlandi",
+    "Mo'g'ullar Buxoro va Samarqandni egalladi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng keyin sodir bo'lgan?",
+   "options": [
+    "Chingizxon karvoni O'trorda qirib tashlandi",
+    "Chingizxon Xorazmshohlar davlatiga yurishni boshladi",
+    "Mo'g'ullar Buxoro va Samarqandni egalladi",
+    "Chingizxon qo'shinlarining Urganchga yurishi boshlandi"
+   ],
+   "answer": 3
+  }
+ ]
+}

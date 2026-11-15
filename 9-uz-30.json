@@ -1,0 +1,456 @@
+{
+ "title": "9-sinf · 32-mavzu. Qo'qon xonligida adabiyot va san'at",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Amiriy taxallusi bilan fors va o'zbek tillarida ijod qilgan hukmdorni aniqlang.",
+   "options": [
+    "Erdonaxon",
+    "Umarxon",
+    "Olimxon",
+    "Sheralixon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Umarxon davrida asos solingan shahar nomini aniqlang.",
+   "options": [
+    "Marg'ilon",
+    "Rishton",
+    "Shahrixon",
+    "Qo'qon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Umarxon atrofiga qancha shoir to'plangan.",
+   "options": [
+    "70 ta",
+    "17 ta",
+    "63 ta",
+    "69 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fazliy Namangoniy Umarxon topshirig'iga binoan \"Majmuayi shoiron\" to'plamini yaratgan vaqtni aniqlang.",
+   "options": [
+    "1882-yil",
+    "1844-yil",
+    "1770-yil",
+    "1821-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Majmuayi shoiron\" qancha shoirning asarini o'z ichiga olgan.",
+   "options": [
+    "26 ta",
+    "17 ta",
+    "63 ta",
+    "69 ta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Umarxonning g'azallar devoni 1882-yilda qaysi shaharda chop etilgan.",
+   "options": [
+    "Tehron",
+    "Toshkent",
+    "Qohira",
+    "Istanbul"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Umarxonning g'azallar devoni 1905-yilda qaysi shaharda chop etilgan.",
+   "options": [
+    "Tehron",
+    "Toshkent",
+    "Qohira",
+    "Istanbul"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi hukmdor davrida arab va fors tilidagi kitoblar o'zbek tiliga tarjima qilinadi.",
+   "options": [
+    "Erdonaxon",
+    "Umarxon",
+    "Olimxon",
+    "Sheralixon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Umarxon davrida Qo'qonga qaysi hududlardan olim va shoirlar kelib ijod qilganini aniqlang.",
+   "options": [
+    "Buxoro, Xiva, Sharqiy Turkiston",
+    "Xiva, Sharqiy Turkiston, Afg'oniston",
+    "Buxoro, Sharqiy Turkiston, Afg'oniston",
+    "Turkiya, Buxoro, Afg'oniston"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hozirda Umarxonning qancha qo'lyozma devoni mavjud.",
+   "options": [
+    "26 ta",
+    "17 ta",
+    "63 ta",
+    "69 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Umarxonning qo'lyozma devonlari qaysi hududlardagi kutubxonalarda saqlanishini aniqlang. 1. Samarqand 2. Istanbul 3. Tehron 4. Sank-Peterburg 5. Buxoro 6. Parij 7. Toshkent.",
+   "options": [
+    "1, 2, 5, 7",
+    "1, 5, 6, 7",
+    "1, 3, 5, 7",
+    "1, 4, 5, 7"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sharqshunoslik instituti qo'lyozmalar fondida Umarxonning qancha qo'lyozma devoni mavjud.",
+   "options": [
+    "26 ta",
+    "17 ta",
+    "63 ta",
+    "69 ta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Maxmur qachon vafot etganini aniqlang.",
+   "options": [
+    "1882-yil",
+    "1844-yil",
+    "1770-yil",
+    "1821-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Maxmur o'qigan madrasa nomini aniqlang.",
+   "options": [
+    "Jome",
+    "Mo'yi Muborak",
+    "Modarixon",
+    "Madrasayi Mir"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Maxmurning 3717 misrasi qancha asarda jam bo'lgan.",
+   "options": [
+    "26 ta",
+    "17 ta",
+    "63 ta",
+    "69 ta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hapalak she'rining muallifini aniqlang.",
+   "options": [
+    "Gulxaniy",
+    "Maxmur",
+    "Uvaysiy",
+    "Nodira"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Karimquli Mehtarning sifatlari\" nomli masnaviy muallifini aniqlang.",
+   "options": [
+    "Gulxaniy",
+    "Maxmur",
+    "Uvaysiy",
+    "Nodira"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Gulxaniy tavallud topgan vaqtni aniqlang.",
+   "options": [
+    "1882-yil",
+    "1844-yil",
+    "1770-yil",
+    "1821-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Gulxaniy tavallud topgan davlat nomini toping.",
+   "options": [
+    "Eron",
+    "Turkmaniston",
+    "Tojikiston",
+    "O'zbekiston"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Gulxaniy muhtojlik oqibatida qaysi hududda mardikorlik qilishga majbur bo'ladi.",
+   "options": [
+    "Qo'qon",
+    "Marg'ilon",
+    "Rishton",
+    "Namangan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'shinda sipohiylik qilgan ijodkorni aniqlang.",
+   "options": [
+    "Zavqiy",
+    "Maxmur",
+    "Gulxaniy",
+    "Muqimiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hammomda go'lax (o't yoquvchi) bo'lib ishlagan ijodkor kim.",
+   "options": [
+    "Zavqiy",
+    "Maxmur",
+    "Gulxaniy",
+    "Muqimiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Milliy adabiyotda ijtimoiy hajviyani yuksak pog'onaga ko'targan ijodkorni aniqlang.",
+   "options": [
+    "Zavqiy",
+    "Maxmur",
+    "Gulxaniy",
+    "Muqimiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Gulxaniyga tegishli asar nomini aniqlang.",
+   "options": [
+    "\"Zarbulmasal\"",
+    "\"Hapalak\"",
+    "\"Majmuayi Shoiron\"",
+    "\"Sabot ul-ojizin\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gulxaniy qaysi tillarda ijod qilgan.",
+   "options": [
+    "Arab va fors",
+    "Fors va tojik",
+    "O'zbek va turk",
+    "O'zbek va tojik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi asarda 400 yaqin xalq maqollari jamlangan.",
+   "options": [
+    "\"Zarbulmasal\"",
+    "\"Hapalak\"",
+    "\"Majmuayi Shoiron\"",
+    "\"Sabot ul-ojizin\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1779-1845 yillarda yashagan ijodkor kim.",
+   "options": [
+    "Gulxaniy",
+    "Maxmur",
+    "Uvaysiy",
+    "Nodira"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Noto'g'ri ma'lumotni aniqlang.",
+   "options": [
+    "Uvaysiyning asl ismi Jahon",
+    "Akasi Oxunjon hofizdan musiqa ilmini o'rgangan",
+    "Uvaysiy ayniqsa aruzni, muammo (she'rda fikrni yashirib ifodalash) san'atini mukammal egallagan",
+    "Uvaysiy Nodira bilan Konibodom, Xo'jand, O'ratepa, Toshkent, Andijon kabi shaharlarga safar qilgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1842-yilda Amir Nasrullaxon Qo'qonni egallagach, Uvaysiy qaysi shaharda umrining oxirigacha yashaydi.",
+   "options": [
+    "Qo'qon",
+    "Marg'ilon",
+    "Rishton",
+    "Namangan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Uvaysiyga atab Marg'ilonda muhtasham uy qurib bergan hukmdorni aniqlang.",
+   "options": [
+    "Erdonaxon",
+    "Umarxon",
+    "Olimxon",
+    "Sheralixon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Uvaysiyning avlodlari qachongacha xon tomonidan qurilgan muhtasham uyda yashashgan.",
+   "options": [
+    "1945-yil",
+    "1991-yil",
+    "1941-yil",
+    "2007-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Marg'ilon shahrida joylashgan Jahon Otin Uvaysiy uy-muzeyi qachon qurilganini aniqlang.",
+   "options": [
+    "1945-yil",
+    "1991-yil",
+    "1941-yil",
+    "2007-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1792-1842 yillarda yashagan ijodkorni aniqlang.",
+   "options": [
+    "Gulxaniy",
+    "Maxmur",
+    "Uvaysiy",
+    "Nodira"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi taxalluslardan qaysi biri Mohlaroyimga tegishli emas.",
+   "options": [
+    "Maknuna",
+    "Anbar Otin",
+    "Nodira",
+    "Komila"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mohlaroyim qachon Umarxonga turmushga chiqadi.",
+   "options": [
+    "1822-yil",
+    "1807-yil",
+    "1821-yil",
+    "1842-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Umarxon vafot etgan vaqtni aniqlang.",
+   "options": [
+    "1822-yil",
+    "1807-yil",
+    "1821-yil",
+    "1842-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "14-yoshida taxtga o'tirgan Qo'qon hukmdorini aniqlang.",
+   "options": [
+    "Erdonaxon",
+    "Umarxon",
+    "Olimxon",
+    "Muhammad Alixon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarixiy shaxsni aniqlang. U bir necha kitoblarni ko'chirtiradi va shoirlarni yangi-yangi asarlar yozishga ilhomlantiradi...",
+   "options": [
+    "Gulxaniy",
+    "Maxmur",
+    "Uvaysiy",
+    "Nodira"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Buxoro amiri Nasrulla Qo'qonga bostirib kirib, Madalixonni, ukasi Sulton Mahmudxonni, 14 yashar o'g'li Muhammad Aminxonni va Nodirani fojiali ravishda qatl ettirgan.",
+   "options": [
+    "1822-yil",
+    "1807-yil",
+    "1821-yil",
+    "1842-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qur'oni Karimning 1/7 qismi ko'chirilib yozilgan kitob nomini toping.",
+   "options": [
+    "\"Tavjid\"",
+    "\"Haftiyak\"",
+    "\"Chor kitob\"",
+    "\"Maslak ul-muqattin\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qur'oni Karimni qiroat bilan o'qish san'ati to'g'risidagi ilk kitob nima deb nomlanadi.",
+   "options": [
+    "\"Tavjid\"",
+    "\"Haftiyak\"",
+    "\"Farzi ayn\"",
+    "\"Maslak ul-muqattin\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shariatga ko'ra barcha musulmonlarga buyurilgan va bajarilishi shart bo'lgan amallar haqida tushunchalar nima deb nomlanadi.",
+   "options": [
+    "\"Tavjid\"",
+    "\"Haftiyak\"",
+    "\"Farzi ayn\"",
+    "\"Maslak ul-muqattin\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Islom dinining asosiy qoidalari bayon etilgan kitob nomini aniqlang.",
+   "options": [
+    "\"Sabot ul-ojizin\"",
+    "\"Haftiyak\"",
+    "\"Chor kitob\"",
+    "\"Maslak ul-muqattin\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Sabot ul-ojizin\" asarining fors tilida yozilgan nusxasi nima deb nomlangan.",
+   "options": [
+    "\"Tavjid\"",
+    "\"Haftiyak\"",
+    "\"Chor kitob\"",
+    "\"Maslak ul-muqattin\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Asar yozishdan maqsadim Nodiraning oqila, fahmli, ilm va so'zning qadriga yetadigan donishmand ayol ekanligini ko'rsatishdir…\" Bu ma'lumotlar kimga tegishli.",
+   "options": [
+    "Hofiz Tanish Buxoriy",
+    "Fazliy Namangoniy",
+    "Uvaysiy",
+    "Abdunabi Xotif"
+   ],
+   "answer": 3
+  }
+ ]
+}

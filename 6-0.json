@@ -1,0 +1,106 @@
+{
+ "title": "6-sinf · Kirish. Qadimgi dunyo tarixini o'rganish",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Tarix fanida qadimgi dunyo tarixi qaysi voqea bilan yakunlanadi?",
+   "options": [
+    "Mil. avv. 27-yilda Rimda imperiya o'rnatilishi bilan",
+    "Mil. avv. 30-yilda Misrning Rimga bo'ysundirilishi bilan",
+    "Milodiy 395-yilda Rim imperiyasining ikkiga bo'linishi bilan",
+    "Milodiy 476-yilda G'arbiy Rim imperiyasining qulashi bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi dunyo tarixi qaysi davrdan boshlanadi?",
+   "options": [
+    "Yer yuzida odam paydo bo'lgan davrdan",
+    "Metall kashf qilingan davrdan",
+    "Ilk davlatlar tashkil topgan davrdan",
+    "Dastlabki yozuv ixtiro qilingan davrdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kirishga ko'ra, qadimgi dunyo tarixi qanday manbalarda o'z aksini topgan?",
+   "options": [
+    "Turli-tuman arxeologik va yozma manbalarda",
+    "Faqat qadimgi hukmdorlarning bitiklarida",
+    "Faqat xalq og'zaki ijodi va rivoyatlarda",
+    "Faqat arxeologik qazishma topilmalarida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kirishda insonning uzoq tarixiy yo'li qaysi bosqichdan boshlangani aytiladi?",
+   "options": [
+    "Yozuvni yaratishdan",
+    "Dastlabki shaharlarni bunyod etishdan",
+    "Tosh qurollarni yasashdan",
+    "Metallni kashf qilishdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kirishga ko'ra, uzoq o'tmishda Vatanimiz – O'zbekiston zaminida nima yaratilgan?",
+   "options": [
+    "Ilk iyeroglif yozuvi",
+    "Ilk yunon polislari",
+    "Dastlabki piramidalar",
+    "O'ziga xos sivilizatsiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kirishga ko'ra, qadimda O'zbekiston zaminida yana nimalar tashkil topgan?",
+   "options": [
+    "Dastlabki piramidalar va zikkuratlar",
+    "Ilk yunon polislari va koloniyalari",
+    "Qadimgi shaharlar va davlatlar",
+    "Misrdagi kabi nomlar va nomarxliklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kirishga ko'ra, o'lka dovrug'ini o'z mehnati va yaratuvchanlik salohiyati bilan olamga kimlar yoyganlar?",
+   "options": [
+    "Ovchilar, baliqchilar va termachilar",
+    "Sarkardalar, kohinlar va hukmdorlar",
+    "Ziroatchilar, hunarmandlar va quruvchilar",
+    "Savdogarlar, elchilar va sayyohlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nKirishdagi ma'lumot | Javob\nQadimgi dunyo tarixi boshlanadigan davr | 1) ________\n2) ________ | milodiy 476-yil\nQadimgi dunyo tarixi aks etgan manbalar | 3) ________\na) Yer yuzida odam paydo bo'lishi; b) ilk davlatlarning paydo bo'lishi; c) G'arbiy Rim imperiyasining qulashi; d) Rim imperiyasining ikkiga bo'linishi; e) arxeologik va yozma manbalar; f) faqat og'zaki rivoyatlar.",
+   "options": [
+    "1-a, 2-c, 3-e",
+    "1-a, 2-c, 3-f",
+    "1-b, 2-c, 3-e",
+    "1-a, 2-d, 3-e"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nInson faoliyati | Boshlanishi | Erishilgan natija\nMehnat qurollari | tosh qurollar yasash | A\nTurarjoy qurilishi | B | dastlabki shaharlar bunyod etilishi\nYaratuvchanlik | ziroatchilar, hunarmandlar, quruvchilar mehnati | C\n1) metallning kashf qilinishi; 2) piramidalar qurilishi; 3) eng oddiy turarjoylar qurish; 4) o'lka dovrug'ining olamga yoyilishi; 5) temir qurollarning tarqalishi; 6) yangi yerlarning bosib olinishi.",
+   "options": [
+    "A-5, B-3, C-4",
+    "A-1, B-3, C-4",
+    "A-1, B-2, C-4",
+    "A-1, B-3, C-6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kirishga oid to'g'ri hukmlarni aniqlang.\nI. Qadimgi dunyo tarixi milodiy 476-yilda G'arbiy Rim imperiyasining qulashi bilan yakunlanadi.\nII. Qadimgi dunyo tarixi faqat yozma manbalarda aks etgan.\nIII. Inson tosh qurollarni yasashdan metallni kashf qilgunga qadar uzoq yo'l bosib o'tgan.\nIV. Qadimda O'zbekiston zaminida shahar va davlatlar tashkil topmagan.",
+   "options": [
+    "III va IV",
+    "I va II",
+    "I va III",
+    "II va IV"
+   ],
+   "answer": 2
+  }
+ ]
+}

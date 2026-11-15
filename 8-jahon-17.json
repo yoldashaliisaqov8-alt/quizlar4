@@ -1,0 +1,800 @@
+{
+ "title": "8-sinf · O'rta asrlarda Yaponiya va Koreya",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Taejo davrida Koreya Xitoyga nisbatan qanday mavqeda bo'ldi.",
+   "options": [
+    "Mustaqil davlat sifatida tan olindi",
+    "Xitoyni bo'ysundirdi",
+    "Xitoyning vassali deb tan olishga majbur bo'ldi",
+    "Xitoy bilan teng ittifoq tuzdi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1281-yilda mo'g'ullar qaysi ko'rfazga kirib keldi.",
+   "options": [
+    "Yosino ko'rfaziga",
+    "Xakata ko'rfaziga",
+    "Kioto ko'rfaziga",
+    "Kanxva ko'rfaziga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Koryoning poytaxt shahri qaysi edi.",
+   "options": [
+    "Kamakura",
+    "Kioto",
+    "Xanson",
+    "Kegyon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diagrammada Choson qirolligiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "3, 4",
+    "1, 3",
+    "2, 3",
+    "2, 4"
+   ],
+   "answer": 2,
+   "image": "img/j8-17-04.jpg"
+  },
+  {
+   "q": "1281-yilgi urushda mo'g'ullar qancha kema va askar yo'qotdi.",
+   "options": [
+    "To'rt ming kema va yuz ming askar",
+    "To'rt yuz kema va o'n ming askar",
+    "Yuz kema va to'rt ming askar",
+    "Ikki ming kema va ellik ming askar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Taejong 1402-yilda nima uchun “maxsus qabulxona” tuzdi.",
+   "options": [
+    "Savdogarlarni ro'yxatga olish uchun",
+    "Chet el elchilarini qabul qilish uchun",
+    "Aholining amaldor va zodagonlarga qarshi shikoyatlarini ko'rish uchun",
+    "Qo'shin boshliqlarini tayinlash uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kioto syogunligiga qaysi sulola asos solgan.",
+   "options": [
+    "Fudzivara",
+    "Tayra",
+    "Minamoto",
+    "Asikaga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Viloyatlar o'rtasida nizo chiqsa, daymyo nimaga tayangan.",
+   "options": [
+    "Syogun qo'shiniga",
+    "O'z samuraylaridan tuzilgan qo'shiniga",
+    "Dehqon lashkariga",
+    "Imperator hukmiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1274-yilgi hujumda mo'g'ul floti nima sababdan halokatga uchradi.",
+   "options": [
+    "Kemalar yong'inda yondi",
+    "Yapon floti yengdi",
+    "Tayfun kemalarni cho'ktirib yubordi",
+    "Qaroqchilar hujum qildi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buyuk Sejong qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1400–1418-yillarda",
+    "1469–1494-yillarda",
+    "1418–1450-yillarda",
+    "1392–1400-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlat kengashi tarkibini aniqlang.",
+   "options": [
+    "Bosh vazir va o'n o'rinbosar",
+    "Ikki vazir va to'rt amaldor",
+    "Bosh vazir va uning ikki o'rinbosari",
+    "Qirol va uch vazir"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Minamoto Yoritomo syogun unvonini qaysi yilda oldi.",
+   "options": [
+    "1338-yilda",
+    "1156-yilda",
+    "1185-yilda",
+    "1192-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Koryo mo'g'ullar oldida qanday majburiyatlarni oldi.",
+   "options": [
+    "Faqat savdo soliq to'lash",
+    "Har yili qiz va yer topshirish",
+    "Yapon floti bilan ittifoq tuzish",
+    "O'lpon to'lash va mo'g'ul qo'shinini boqish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Taxta bo'lagi qonuni nimaning oldini olgan.",
+   "options": [
+    "Soliq va harbiy xizmatdan bo'yin tovlashning",
+    "Xorijga chiqib ketishning",
+    "Savdo-sotiq qilishning",
+    "Yer sotib olishning"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Choson sulolasiga qaysi harbiy sarkarda asos solgan.",
+   "options": [
+    "Konmin",
+    "Li Son Ge",
+    "Sejong",
+    "Taejong"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Onin urushi” nima edi.",
+   "options": [
+    "Tayra va Minamoto o'rtasidagi urush",
+    "Mo'g'ullarga qarshi urush",
+    "Asikagalar xonadoni syogunlarining taxt uchun kurashi",
+    "Koreyaga qarshi yurish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Koryo hukmdori Konmin mo'g'ullar tarafdori amaldorlarni qaysi yilda lavozimidan chetlatdi.",
+   "options": [
+    "1356-yilda",
+    "1392-yilda",
+    "1368-yilda",
+    "1231-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kamakura syogunligini ag'dargan qudratli oilalar qaysi xonadon bilan birlashdi.",
+   "options": [
+    "Minamoto",
+    "Asikaga",
+    "Fudzivara",
+    "Tayra"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Choson qirolligining to'qqizinchi qiroli kim.",
+   "options": [
+    "Seongjong",
+    "Taejo",
+    "Taejong",
+    "Sejong"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Koreyada aholini ro'yxatga olish tizimi qaysi yilda joriy qilindi.",
+   "options": [
+    "1413-yilda",
+    "1392-yilda",
+    "1418-yilda",
+    "1402-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Onin urushi” qaysi yillarda yuz bergan.",
+   "options": [
+    "1333–1338-yillarda",
+    "1274–1281-yillarda",
+    "1156–1185-yillarda",
+    "1467–1477-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Syogun nima degani.",
+   "options": [
+    "Imperator maslahatchisi",
+    "Yaponiyani boshqaruvchi harbiy qo'mondon",
+    "Qirollik elchisi",
+    "Viloyatni boshqaruvchi yirik mulkdor"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Taejo Yaponiyaga elchilarni nima uchun yubordi.",
+   "options": [
+    "Mo'g'ullarga qarshi ittifoq tuzish uchun",
+    "Savdo yo'llarini ochish uchun",
+    "Yaponiyaga bostirib kirish uchun",
+    "Syogundan qaroqchilarga qarshi kurashda yordam so'rash uchun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Taejongning dastlabki harakatlaridan biri nima bo'ldi.",
+   "options": [
+    "Poytaxtni ko'chirish",
+    "Mo'g'ullarga qarshi yurish",
+    "Zodagonlar ixtiyoridagi qo'shinlarni tarqatish",
+    "Zodagonlarga yangi yerlar berish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Saroy tashqarisiga o'rnatilgan “katta do'mbira” nima uchun xizmat qilgan.",
+   "options": [
+    "Amaldorlar suiiste'molini hukmdorga shaxsan xabar qilish uchun",
+    "Qirol farmonini e'lon qilish uchun",
+    "Jang boshlanganini bildirish uchun",
+    "Soliq yig'ish vaqtini e'lon qilish uchun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Li Son Ge davlat to'ntarishiga nima sabab bo'ldi.",
+   "options": [
+    "Min qo'shinlarining chegara hududlarga bostirib kirishi",
+    "Dehqonlar qo'zg'oloni",
+    "Yaponiyaning hujumi",
+    "Mo'g'ullarning qaytishi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Choson qirolligining poytaxti qaysi shahar edi.",
+   "options": [
+    "Xanson (hozirgi Seul)",
+    "Kanxva",
+    "Kioto",
+    "Kegyon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Syogun Xubilay elchilariga nisbatan qanday yo'l tutdi.",
+   "options": [
+    "Elchilarni Koreyaga yubordi",
+    "Elchilarni sovg'a bilan qaytardi",
+    "Hokimiyatini tan olmay, elchilarni qatl ettirdi",
+    "Bo'ysunishga rozi bo'ldi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Taejong qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1392–1400-yillarda",
+    "1418–1450-yillarda",
+    "1469–1494-yillarda",
+    "1400–1418-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponiya imperatori qanday nom bilan atalgan.",
+   "options": [
+    "Daymyo",
+    "Mikado",
+    "Samuray",
+    "Syogun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sejong davrida iqtisodiyotning qaysi tarmog'iga katta e'tibor qaratildi.",
+   "options": [
+    "Konchilikka",
+    "Dengiz savdosiga",
+    "Hunarmandchilikka",
+    "Qishloq xo'jaligiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kamakura syogunligi qaysi yillarda hukm surgan.",
+   "options": [
+    "1185–1274-yillarda",
+    "1338–1573-yillarda",
+    "1192–1333-yillarda",
+    "1156–1185-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Minamoto Yoritomo barcha raqiblarini qaysi yilda mag'lub etdi.",
+   "options": [
+    "1192-yilda",
+    "1156-yilda",
+    "1274-yilda",
+    "1185-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Koryo Yuan imperiyasiga qaramlikdan qaysi yilda xalos bo'ldi.",
+   "options": [
+    "1368-yilda",
+    "1356-yilda",
+    "1392-yilda",
+    "1231-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sejong davrida dehqonlar ortiqcha donini nima qila oldi.",
+   "options": [
+    "Chet elga olib chiqdi",
+    "Soliqqa to'liq berdi",
+    "Sotishga ruxsat berildi",
+    "Davlatga topshirishi shart bo'ldi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yaponiyada imperator hokimiyatining real ahamiyatini yo'qotishiga nima sabab bo'ldi.",
+   "options": [
+    "Xitoyning aralashuvi",
+    "Dehqonlar qo'zg'oloni",
+    "Mo'g'ullarning bosqini",
+    "Feodallar hokimiyatining mustahkamlanib, mulklarini mustaqil idora qilishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Koryo hukumati nima uchun Kanxva oroliga ko'chirildi.",
+   "options": [
+    "Yapon qaroqchilaridan qochish uchun",
+    "Xitoyga yaqin bo'lgani uchun",
+    "Orolda xazina bo'lgani uchun",
+    "Mo'g'ul otliqlari bora olmasligi uchun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Asikaga syogun unvonini qaysi yilda oldi.",
+   "options": [
+    "1333-yilda",
+    "1338-yilda",
+    "1192-yilda",
+    "1573-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Kamikadze” so'zining ma'nosini aniqlang.",
+   "options": [
+    "“Quyosh farzandi”",
+    "“Dengiz qalqoni”",
+    "“Ilohiy shamol”",
+    "“Samuray ruhi”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Koreyaga mo'g'ullarning tinimsiz hujumlari qaysi asr boshlarida boshlandi.",
+   "options": [
+    "XII asr",
+    "XIV asr",
+    "XIII asr",
+    "XI asr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ullar koreyalik ustalarni nima qilishga majbur qildi.",
+   "options": [
+    "Qurol-yarog' yasashga",
+    "Kemalar yasashga",
+    "Qal'alar qurishga",
+    "Kanallar qazishga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Minamoto Yoritomo imperatorga nisbatan qanday yo'l tutdi.",
+   "options": [
+    "Mamlakatni Xitoyga bo'ysundirdi",
+    "Mikado hokimiyatini saqlab qoldi, ammo uning o'rniga hukmronlik qildi",
+    "Hokimiyatni imperatorga qaytardi",
+    "Imperatorni taxtdan ag'dardi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yaponlar tayfunni nima deb qabul qildi.",
+   "options": [
+    "Mo'g'ullarning ojizligi belgisi",
+    "Tabiiy ofat va jazo",
+    "Syogunning harbiy g'alabasi",
+    "Xudolar Yaponiyani qutqarish uchun yuborgan va ularni yengilmas qilib qo'ygan kuch"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Taejo mamlakat nomini nima deb e'lon qildi.",
+   "options": [
+    "Xanson",
+    "Koryo",
+    "Yuan",
+    "Choson"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mo'g'ullar Yaponiyaga birinchi marta qaysi yilda bostirib kirdi.",
+   "options": [
+    "1333-yilda",
+    "1274-yilda",
+    "1281-yilda",
+    "1156-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIV–XV asrlarda syogun hokimiyatining zaiflashishi nimaga olib keldi.",
+   "options": [
+    "Imperator hokimiyatining tiklanishiga",
+    "Markazlashuvning kuchayishiga",
+    "Mahalliy hokimiyatning kuchayishiga",
+    "Mo'g'ullar hukmronligiga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sejong davrida Koreya qaysi tashqi xavfga duch keldi.",
+   "options": [
+    "Yapon qaroqchilari bosqiniga",
+    "Hind flotiga",
+    "Mo'g'ullar bosqiniga",
+    "Rus qo'shiniga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xubilay Yaponiyaga birinchi bo'lib nima uchun elchi yubordi.",
+   "options": [
+    "Savdo bitimi tuzish uchun",
+    "Xitoyga qarshi ittifoq tuzish uchun",
+    "Yaponiya hukmdoridan bo'ysunishni talab qilish uchun",
+    "Dengiz yo'llarini aniqlash uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Imperator amalda davlatni qanday boshqargan.",
+   "options": [
+    "Davlat ishlariga kamdan kam aralashgan, oliy zodagonlar va amaldorlar boshqargan",
+    "Barcha ishni shaxsan o'zi hal qilgan",
+    "Hokimiyatni daymyolarga topshirgan",
+    "Faqat harbiy ishlarga rahbarlik qilgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan to'g'rilarini aniqlang.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 4",
+    "2, 3"
+   ],
+   "answer": 1,
+   "image": "img/j8-17-50.jpg"
+  },
+  {
+   "q": "Choson qirolligining uchinchi hukmdori kim.",
+   "options": [
+    "Taejong",
+    "Seongjong",
+    "Taejo",
+    "Sejong"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Taejo buyrug'i bilan yangi poytaxtda qaysi saroy qurildi.",
+   "options": [
+    "Kegyon",
+    "Xakata",
+    "Kyonbokkun",
+    "Yosino"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yaponlar e'tiqodiga ko'ra imperator kimning o'g'li hisoblangan.",
+   "options": [
+    "Quyosh xudosi Amaterasuning",
+    "Minamoto xonadonining",
+    "Tayfun xudosining",
+    "Osmon xudosining"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Min imperatori Xongvu Taejo yuborgan elchilarga qanday munosabatda bo'ldi.",
+   "options": [
+    "Elchilarni qatl ettirdi",
+    "Darhol tan oldi",
+    "Chosonni tan olishga shoshilmadi",
+    "Choson bilan ittifoq tuzdi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ullar Yaponiyaga ikkinchi marta qaysi yilda bostirib kirdi.",
+   "options": [
+    "1338-yilda",
+    "1281-yilda",
+    "1274-yilda",
+    "1185-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kioto syogunligi qaysi yillarda hukm surgan.",
+   "options": [
+    "1338–1573-yillarda",
+    "1467–1477-yillarda",
+    "1192–1333-yillarda",
+    "1333–1467-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Taejong davrida tashkil etilgan oliy hukumat organi qanday atalgan.",
+   "options": [
+    "Maxfiy kengash",
+    "Davlat kengashi",
+    "Qurultoy",
+    "Senat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Asikaga Kiotoni egallagach, imperatorni qayerga ko'chib o'tishga majbur qildi.",
+   "options": [
+    "Xakataga",
+    "Kamakuraga",
+    "Kanxva oroliga",
+    "Yosino viloyatiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Koreyada shaxsni tasdiqlovchi hujjat nima shaklida bo'lgan.",
+   "options": [
+    "Tosh lavha",
+    "Ismi yozilgan “taxta bo'lagi”",
+    "Muhrli qog'oz",
+    "Ipak lenta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Syogunning hokimiyati nimaga tayangan edi.",
+   "options": [
+    "Samuraylardan iborat kuchli qo'shinga",
+    "Dehqon militsiyasiga",
+    "Chet el yollanma qo'shiniga",
+    "Daymyolar kengashiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Koryo qo'shinlari qaysi jangda yengilib, sulh tuzishga majbur bo'ldi.",
+   "options": [
+    "1356-yil Kegyon jangida",
+    "1231-yil Anbuk qal'asidagi jangda",
+    "1274-yil Xakata jangida",
+    "1281-yil Kanxva jangida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Syogunlik boshqaruvida imperator qanday o'rin tutdi.",
+   "options": [
+    "Faqat nomigagina hukmdor bo'ldi",
+    "Haqiqiy hukmdor bo'lib qoldi",
+    "Qo'shinga rahbarlik qildi",
+    "Syogunni tayinladi va nazorat qildi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kamakura syogunligi qaysi yilda ag'darildi.",
+   "options": [
+    "1467-yilda",
+    "1274-yilda",
+    "1333-yilda",
+    "1338-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ullarga qarshi kurash siyosiy tuzumga qanday ta'sir qildi.",
+   "options": [
+    "Imperator hokimiyati tiklandi",
+    "Syogun hokimiyati mustahkamlandi",
+    "Zodagonlar yerlari musodara qilindi",
+    "Ko'p zodagonlar syogundan norozi bo'lib qoldi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Daymyo viloyatda qanday vakolatga ega bo'lgan.",
+   "options": [
+    "Imperator nomidan elchi yuborgan",
+    "Faqat sud ishlarini yurgizgan",
+    "Qonunlar chiqargan va soliqlar yig'gan",
+    "Faqat qo'shin boshqargan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Taejong davrida amaldorlar nima uchun vaqti-vaqti bilan bir hududdan boshqasiga o'tkazib turilgan.",
+   "options": [
+    "Soliqni oshirish uchun",
+    "Poraxo'rlik va ayirmachilikning oldini olish uchun",
+    "Qo'shinni kuchaytirish uchun",
+    "Jazolash uchun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sejong davrida soliq qanday belgilandi.",
+   "options": [
+    "Hosil hajmiga qarab",
+    "Hamma uchun bir xil",
+    "Yer maydoniga qarab",
+    "Aholi soniga qarab"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada syogunlik tuzumiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "3, 4",
+    "1, 2",
+    "2, 3",
+    "2, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-17-68.jpg"
+  },
+  {
+   "q": "Koryo hukumati poytaxtdan qaysi orolga ko'chirildi.",
+   "options": [
+    "Yosino oroliga",
+    "Kanxva oroliga",
+    "Ryukyu oroliga",
+    "Kyushu oroliga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada Koryoga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "1, 2",
+    "3, 4",
+    "2, 3",
+    "1, 4"
+   ],
+   "answer": 0,
+   "image": "img/j8-17-70.jpg"
+  },
+  {
+   "q": "Yaponiyaning qaysi xonadonlari 1156-yilda o'zaro urush boshladi.",
+   "options": [
+    "Tayra va Asikaga",
+    "Asikaga va Minamoto",
+    "Fudzivara va Asikaga",
+    "Tayra va Minamoto"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xubilay davrida Yuan imperiyasi Koryoni qanday davlatga aylantirdi.",
+   "options": [
+    "Ittifoqdosh davlatga",
+    "Himoyalanuvchi hududga",
+    "Mustamlakaga",
+    "Vassal davlatga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1274-yilda mo'g'ullar harbiy harakatlarni to'xtatib, flotni qayerga qaytardi.",
+   "options": [
+    "Koreyaga",
+    "Xitoyga",
+    "Mo'g'ulistonga",
+    "Xonbaliqqa"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Li Son Ge davlat to'ntarishini qaysi yilda amalga oshirdi.",
+   "options": [
+    "1356-yilda",
+    "1368-yilda",
+    "1418-yilda",
+    "1392-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Seongjong davrining yutug'i nima bo'ldi.",
+   "options": [
+    "Mo'g'ullarni quvib chiqarish",
+    "Yaponiyaga yurish",
+    "Poytaxtni ko'chirish",
+    "“Davlat boshqaruvi to'g'risida”gi Katta kodeksning yakunlanishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Li Son Ge qaysi nom bilan taxtga o'tirdi.",
+   "options": [
+    "Qirol Seongjong",
+    "Qirol Taejo",
+    "Qirol Sejong",
+    "Qirol Taejong"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yaponlar mo'g'ul otliqlari hujumini qaytarish uchun nima qurdi.",
+   "options": [
+    "Chuqur xandaq",
+    "Dengizda to'siq zanjiri",
+    "Qirg'oq bo'ylab uzun tosh devor",
+    "Qal'alar tizimi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kioto syogunligi davrida viloyatlarni kimlar boshqargan.",
+   "options": [
+    "Daymyolar",
+    "Syogunlar",
+    "Samuraylar",
+    "Mikadolar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Onin urushi” qanday oqibatga olib keldi.",
+   "options": [
+    "Yaponiyaning birlashishiga",
+    "Iqtisodiy zarar va Kiotoning vayron bo'lishiga",
+    "Syogunlikning mustahkamlanishiga",
+    "Imperator hokimiyatining tiklanishiga"
+   ],
+   "answer": 1
+  }
+ ]
+}

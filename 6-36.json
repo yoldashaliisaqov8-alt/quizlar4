@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 42-mavzu. Buyuk ipak yo'li",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Buyuk ipak yo'li qachongacha Sharq va G'arb o'rtasidagi aloqalarda muhim o'rin tutgan?",
+   "options": [
+    "Milodiy III asrgacha",
+    "XVI asrga qadar",
+    "XX asrgacha",
+    "Milodiy VIII asrgacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buyuk ipak yo'li qachon vujudga kelgan?",
+   "options": [
+    "Mil. avv. VI asrda",
+    "Milodiy I asrda",
+    "Mil. avv. 2-mingyillikda",
+    "Mil. avv. II asrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Ipak yo'li” degan nomni kim va qachon bergan?",
+   "options": [
+    "Yunon tarixchisi Gerodot; mil. avv. V asrda",
+    "Xitoy elchisi Chjan Szyan; mil. avv. II asrda",
+    "Ingliz olimi O. Dalton; 1905-yilda",
+    "Nemis geografi F. Rixtgofen; 1877-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buyuk ipak yo'li shakllanishidan oldin qanday holat bo'lgan?",
+   "options": [
+    "Savdo taqiqlangan",
+    "O'rta Osiyo va Qadimgi Sharqda savdo va madaniy ayirboshlash uchun turli qadimiy yo'llar mavjud bo'lgan",
+    "Hech qanday savdo yo'li bo'lmagan",
+    "Faqat dengiz yo'llari bo'lgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buyuk ipak yo'lining uzunligi qancha bo'lgan?",
+   "options": [
+    "20 ming kilometr",
+    "4 ming kilometr",
+    "12 ming kilometr",
+    "6 ming kilometr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buyuk ipak yo'li qayerdan boshlanib, qayergacha borgan?",
+   "options": [
+    "Fors ko'rfazidan Sariq dengizgacha",
+    "Kaspiy dengizidan Hindistongacha",
+    "Sariq dengiz qirg'og'idan O'rta Yer dengizi sohillarigacha",
+    "Qora dengizdan Xitoygacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sug'diyonadan Xitoyga qanday mahsulotlar olib borilgan?",
+   "options": [
+    "Guruch va qog'oz",
+    "Junli matolar, gilamlar, zeb-ziynat buyumlari va qimmatbaho toshlar",
+    "Ipak va choy",
+    "Paxta matolari va chigit"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mamlakatlar va ulardan olib borilgan mahsulotlar to'g'ri moslashtirilgan javobni aniqlang.\n1) Baqtriya; 2) Farg'ona; 3) Badaxshon.\na) zotli otlar; b) lojuvard; c) tuyalar; d) ipak.",
+   "options": [
+    "1-d, 2-a, 3-b",
+    "1-c, 2-a, 3-b",
+    "1-a, 2-c, 3-b",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistondan O'rta Osiyoga qanday mahsulotlar ortilgan karvonlar kelgan?",
+   "options": [
+    "Lojuvard va feruza",
+    "Guruch va ipak",
+    "Paxtadan tayyorlangan matolar va chigit",
+    "Tuyalar va otlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xitoydan O'rta Osiyoga qanday mahsulot keltirilgan?",
+   "options": [
+    "Paxta matolari",
+    "Guruch",
+    "Lojuvard",
+    "Uzum"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta Osiyodan Xitoyga qanday dehqonchilik mahsulotlari yetkazilgan?",
+   "options": [
+    "Uzum, yong'oq, anor",
+    "Guruch va choy",
+    "Sholi va bambuk",
+    "Shakarqamish va paxta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xitoy imperatori U-Di Chjan Szyanni qanday maqsadda yuborgan?",
+   "options": [
+    "Savdo yo'lini o'rganish uchun",
+    "Ko'chmanchi hunlarga qarshi kurashda ittifoqchi va hamkorlar topish uchun",
+    "Buddaviylikni o'rganish uchun",
+    "Farg'ona otlarini sotib olish uchun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chjan Szyan qancha vaqt hunlar asirligida bo'lgan?",
+   "options": [
+    "Uch yil",
+    "Bir yil",
+    "Yigirma yil",
+    "O'n yilcha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Asirlikdan qochgan Chjan Szyan qanday yo'l bilan Farg'onaga kelgan?",
+   "options": [
+    "Hindiston orqali",
+    "Kaspiy dengizi orqali",
+    "Amudaryo bo'ylab Baqtriyaga, so'ng Farg'onaga",
+    "Markaziy Tyanshan dovonlari orqali Issiqko'lga, so'ng Norin daryosi bo'ylab Farg'ona vodiysiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chjan Szyan vataniga qaysi vodiy orqali qaytgan?",
+   "options": [
+    "Zarafshon vodiysi orqali",
+    "Surxon vohasi orqali",
+    "Xorazm orqali",
+    "Oloy vodiysi orqali"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chjan Szyan Xitoyga Farg'onadan nimalarni olib kelgan?",
+   "options": [
+    "Uzum va anor ko'chatlari",
+    "Ipak va choy",
+    "Lojuvard va oltin",
+    "Farg'ona otlaridan birini va beda urug'ini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Imperator U-Di Chjan Szyan keltirgan beda urug'ini qayerga ektirgan?",
+   "options": [
+    "Buyuk Xitoy devori bo'ylab",
+    "O'z saroyi yaqiniga",
+    "Janubiy Xitoyga",
+    "Xuanxe daryosi bo'yiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buyuk ipak yo'li qaysi elchi yurgan yo'l asosida shakllangan?",
+   "options": [
+    "Marko Polo",
+    "Chjan Szyan",
+    "Arrian",
+    "Che Lin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buyuk ipak yo'li qaysi hududlarni bog'lagan?",
+   "options": [
+    "Xitoy, O'rta Osiyo, Eron, Old Osiyo va O'rta Yer dengizi mamlakatlarini",
+    "Yunoniston va Rimni",
+    "Faqat Xitoy va Hindistonni",
+    "Misr va Bobilni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta Osiyo Buyuk ipak yo'lida qanday o'rinda joylashgan?",
+   "options": [
+    "Yo'ldan uzoqda",
+    "Yo'lning chekkasida",
+    "Yo'lning asosiy yo'nalishlari kesib o'tadigan chorrahada",
+    "Faqat dengiz bo'yida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buyuk ipak yo'lining ahamiyatini aniqlang.",
+   "options": [
+    "Sharq va G'arb xalqlari o'rtasidagi madaniy va savdo aloqalarini kengaytirib, tinchlik va taraqqiyot asosini tashkil etgan",
+    "Faqat harbiy yurishlar uchun xizmat qilgan",
+    "Savdoni to'xtatgan",
+    "Faqat Xitoy boyligini oshirgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta Osiyoga Buyuk ipak yo'li orqali kimlar kelib turgan?",
+   "options": [
+    "Faqat qullar",
+    "Faqat ko'chmanchilar",
+    "Savdogarlar, hunarmandlar, olimlar va san'atkorlar",
+    "Faqat askarlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buyuk ipak yo'li orqali olib borilgan mahsulotlarni aniqlang.\n1) Baqtriya tuyalari; 2) Farg'ona otlari; 3) Badaxshon lojuvardi; 4) Hindiston paxta matolari; 5) Misr papirusi.",
+   "options": [
+    "2, 3, 5",
+    "1, 4, 5",
+    "1, 2, 5",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buyuk ipak yo'li faoliyat ko'rsatgan davr to'g'ri berilgan javobni toping.",
+   "options": [
+    "Mil. avv. VI asrdan milodiy III asrgacha",
+    "Mil. avv. II asrdan milodiy XVI asrga qadar",
+    "Milodiy I asrdan XX asrgacha",
+    "Mil. avv. 2-mingyillikdan milodiy I asrgacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Voqealarni xronologik tartibda joylashtiring.\n1) “Ipak yo'li” nomining berilishi; 2) Buyuk ipak yo'lining vujudga kelishi; 3) Buyuk ipak yo'li ahamiyatining pasayishi (XVI asr).",
+   "options": [
+    "2, 3, 1",
+    "2, 1, 3",
+    "1, 2, 3",
+    "3, 2, 1"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslikka ko'ra Buyuk ipak yo'li bilan bog'liq qaysi ma'lumot noto'g'ri?",
+   "options": [
+    "Nomini F. Rixtgofen bergan",
+    "Sariq dengiz qirg'og'idan boshlangan",
+    "Uzunligi 4 ming kilometr bo'lgan",
+    "Mil. avv. II asrda vujudga kelgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buyuk ipak yo'li O'rta Osiyo madaniyati rivojiga qanday ta'sir qilgan?",
+   "options": [
+    "Turli mamlakatlar madaniyati bilan aloqalar kuchayib, madaniyatlar boyigan",
+    "Madaniyatni yemirgan",
+    "Faqat urushlarni ko'paytirgan",
+    "Hech qanday ta'sir qilmagan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nBuyuk ipak yo'li haqida | Ma'lumot\nVujudga kelgan davr | 1) ________\n“Ipak yo'li” nomini bergan | 2) ________\nUzunligi | 3) ________\na) mil. avv. II asr; b) F. Rixtgofen (1877-yil); c) 12 ming km; d) Chjan Szyan; e) 6 ming km; f) mil. avv. VI asr.",
+   "options": [
+    "1-a, 2-b, 3-e",
+    "1-f, 2-b, 3-c",
+    "1-a, 2-d, 3-c",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nHudud | Olib borilgan mahsulot\nSug'diyona | A\nHindiston | B\nXitoy | C\n1) junli matolar, gilamlar; 2) paxta matolari va chigit; 3) guruch; 4) zotli otlar; 5) lojuvard; 6) tuyalar.",
+   "options": [
+    "A-4, B-2, C-3",
+    "A-1, B-5, C-3",
+    "A-1, B-2, C-6",
+    "A-1, B-2, C-3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buyuk ipak yo'liga oid to'g'ri hukmlarni aniqlang.\nI. Buyuk ipak yo'li mil. avv. II asrda vujudga kelgan.\nII. “Ipak yo'li” nomini Chjan Szyan bergan.\nIII. Chjan Szyan Xitoyga Farg'ona oti va beda urug'ini olib kelgan.\nIV. Buyuk ipak yo'li Kaspiy dengizidan boshlangan.",
+   "options": [
+    "I va III",
+    "I va II",
+    "II va IV",
+    "III va IV"
+   ],
+   "answer": 0
+  }
+ ]
+}

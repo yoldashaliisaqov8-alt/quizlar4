@@ -1,0 +1,496 @@
+{
+ "title": "9-sinf · 13-mavzu. Ashtarxoniylar davrida madaniy hayot (ilm-fan, adabiyot, me'morchilik)",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Samarqandda madrasa qurdirgan lavozimi qozi bo'lgan shaxsni aniqlang.",
+   "options": [
+    "Yalangto'sh Bahodir",
+    "Soqiy",
+    "Nodir Devonbegi",
+    "Muhammadyor otaliq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sherdor va Tillakori madrasalari, Sayyid Ahmadxo'ja madrasasi, Nodir devonbegi madrasasi kabi inshootlarni qurdirgan shaxsni aniqlang.",
+   "options": [
+    "Yalangto'sh Bahodir",
+    "Soqiy",
+    "Nodir Devonbegi",
+    "Muhammadyor otaliq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ikki qavatli Mag'oki ko'rpa masjidi qaysi shaharda joylashgan.",
+   "options": [
+    "Samarqand",
+    "Toshkent",
+    "Buxoro",
+    "Qarshi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Zargarlar madrasasi\" deb nom olgan madrasa nomini aniqlang.",
+   "options": [
+    "Sayyid Ahmadxo'ja madrasasi",
+    "Abdulazizxon madrasasi",
+    "Nodir devonbegi madrasasi",
+    "Sherdor madrasasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xiyobon, Bozori Go'sfand va Jo'ybori Kalon madrasalari qaysi shaharda joylashganini aniqlang.",
+   "options": [
+    "Samarqand",
+    "Toshkent",
+    "Buxoro",
+    "Qarshi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi shaxs Buxoro Registonidagi Ark devorlari ostida Poyandabiy otaliq masjidini qurdirgan.",
+   "options": [
+    "Yalangto'sh Bahodir",
+    "Soqiy",
+    "Nodir Devonbegi",
+    "Muhammadyor otaliq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Telpakfurushlar gumbazidan Registonga olib boruvchi yo'lda xonaqoh qurdirgan shaxsni aniqlang.",
+   "options": [
+    "Yalangto'sh Bahodir",
+    "Soqiy",
+    "Nodir Devonbegi",
+    "Muhammadyor otaliq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abdulazizxonning amaldori tomonidan qurilgan xonaqoh qayerda joylashganini aniqlang.",
+   "options": [
+    "Bozori-av",
+    "Telpakfurushlar gumbazi",
+    "Buxoro Registoni",
+    "Havzi nav guzari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ashtarxoniylarning beshinchi vakili bo'lgan shaxsni aniqlang.",
+   "options": [
+    "Nadir Muhammad",
+    "Vali Muhammad",
+    "Imomqulixon",
+    "Abdulazizxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abdulazizxon madrasasini qurgan me'morni aniqlang.",
+   "options": [
+    "Usto Xo'ja Qodir",
+    "Mihriddin Mashrab",
+    "Shayx Abdulla",
+    "Mimqoxon ibn Xo'ja Muhammadamin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abdulazizxon madrasasi qurilgan vaqtni aniqlang.",
+   "options": [
+    "1682-yil",
+    "1652-yil",
+    "1556-yil",
+    "1616-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bu tarixiy obida o'zidan avval qurilganlaridan uslubiy jihatdan ajralib turadi. Tashqi ko'rinishi oddiy. Hovlisi keng, ikki qavatli... Gap qaysi majmua haqida ketmoqda.",
+   "options": [
+    "Jo'ybori Kalon madrasasi",
+    "Sayyid Ahmadxo'ja madrasasi",
+    "Abdulazizxon madrasasi",
+    "Nodir devonbegi madrasasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi majmuadagi tasvirni ko'rgan sayyohlar \"Buxoroning o'zi mo'jiza. Mo'jizaning ichida mo'jizani ko'rishdan xursandmiz\" deyishgan.",
+   "options": [
+    "Jo'ybori Kalon madrasasi",
+    "Sayyid Ahmadxo'ja madrasasi",
+    "Abdulazizxon madrasasi",
+    "Nodir devonbegi madrasasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jo'ybori Kalon madrasasi joylashgan hudud nomini aniqlang.",
+   "options": [
+    "Bozori-av",
+    "Telpakfurushlar gumbazi",
+    "Buxoro Registoni",
+    "Havzi nav guzari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jo'ybori Kalon madrasasidagi hujralar sonini aniqlang.",
+   "options": [
+    "21 ta",
+    "25 ta",
+    "29 ta",
+    "34 ta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ayrim manbalarda Jo'ybori Kalon madrasasidagi hujralar soni qancha ekanligi aytilgan.",
+   "options": [
+    "21 ta",
+    "25 ta",
+    "29 ta",
+    "34 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jo'ybori Kalondagi kutubxonada qancha kitob saqlanganini aniqlang.",
+   "options": [
+    "10 ming jild",
+    "8 ming jild",
+    "12 ming jild",
+    "5 ming jild"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bu madrasaning qurilishida azaliy an'analarga rioya qilingan. Hovli o'rtasida obrav-chiqindi uvlari tushib ketadigan yo'l mavjud... Gap qaysi inshoot haqida ketmoqda.",
+   "options": [
+    "Jo'ybori Kalon madrasasi",
+    "Sayyid Ahmadxo'ja madrasasi",
+    "Abdulazizxon madrasasi",
+    "Nodir devonbegi madrasasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Gulnoriy\" deganda qaysi san'at turi tushuniladi?",
+   "options": [
+    "Geometrik shakllardan iborat kandakori san'ati",
+    "Bahor gullari rangiday bezak berish san'ati",
+    "O'ymakorlikda hayvonot olamini tasvirlash uslubi",
+    "To'qimachilikda zanjir shaklidagi naqshlar ishlash usuli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Agar imoratning birorta g'ishti siniq holda qolarkan, vazifadorlarning hech biriga bir chaqayam berilmasin\" Bu ma'lumotlar quyidagi qaysi madrasa vaqfnomasida yozilgan.",
+   "options": [
+    "Jo'ybori Kalon madrasasi",
+    "Sayyid Ahmadxo'ja madrasasi",
+    "Abdulazizxon madrasasi",
+    "Nodir devonbegi madrasasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi hukmdor xattotlik san'atini mukammal egallagan bo'lib, nas'h va nasta'liq xatlarida yuksak darajada yozish mahoratiga ega bo'lgan.",
+   "options": [
+    "Nadir Muhammad",
+    "Subhonqulixon",
+    "Imomqulixon",
+    "Abdulazizxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abdulazizxon quyidagi qaysi davlatlarga yuborilgan maktublarni o'zi tahrir qilgan.",
+   "options": [
+    "Hindiston, Eron, Xitoy",
+    "Hindiston, Eron, Yaponiya",
+    "Hindiston, Eron, Turkiya",
+    "Hindiston, Eron, Koreya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buxoro Registonida bir qavatli, sakkiz burchakli kasalxona qurdirgan hukmdorni aniqlang.",
+   "options": [
+    "Nadir Muhammad",
+    "Subhonqulixon",
+    "Imomqulixon",
+    "Abdulazizxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buxoro Registonidagi Ark devorlari tagida bir qavatli, sakkiz burchakli kasalxona qurilgan vaqtni aniqlang.",
+   "options": [
+    "1682-yil",
+    "1652-yil",
+    "1556-yil",
+    "1616-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Buxoro taxtiga o'tirishi bilan ……………… Buxoro Registoni ichida Zamzamni eslatuvchi hovuz qurishni buyurdi...\" Bu ma'lumotlar quyidagi qaysi shaxsga tegishli.",
+   "options": [
+    "Nadir Muhammad",
+    "Subhonqulixon",
+    "Imomqulixon",
+    "Abdulazizxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Dor ush-shifo talabalarga qaysi fanlarni o'rgatishga ixtisoslashgan edi.",
+   "options": [
+    "Tabobat va geografiya",
+    "Musiqa va ilohiyot",
+    "Tabobat va ilohiyot",
+    "Astronomiya va ilohiyot"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Ihyo at-tibi Subhoniy\" asarining muallifini aniqlang.",
+   "options": [
+    "Mahmud ibn Vali",
+    "Xoja Samandar Termiziy",
+    "Subhonqulixon",
+    "Muhammad Yusuf Munshiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nima uchun Subhonqulixon yoz faslida barcha novvoylarga yopiladigan non yuziga kunjut urug'ini sepishni buyurgan.",
+   "options": [
+    "Yoz oylarida tez-tez uchraydigan ich ketishni kunjutning shifobaxsh xususiyati orqali kamaytirish uchun",
+    "Nonning yoz faslida mog'orlab ketmasligini ta'minlash uchun",
+    "Nonning bozor narxini va sifatini belgilab tartibga solish uchun",
+    "Yozda nonni yumshoqroq saqlab turish maqsadida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Ihyo at-tibi Subhoniy\" asari qo'lyozmasining bir nusxasi qayerda saqlanishini aniqlang.",
+   "options": [
+    "Parij",
+    "Dublin",
+    "Vashington",
+    "Budapesht"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi asarda turli kasalliklarni aniqlash va davolash usullari haqida batafsil ma'lumot berilgan...",
+   "options": [
+    "Oy nurining ixtiyorat uchun mohiyati",
+    "Subhoniy tibbiyoti bo'yicha davolash",
+    "Subhonning hayotbaxsh tibbiyoti",
+    "Ayn at-Tavorix"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi asar 8-qismdan iborat bo'lib, uning har bir qismida dorilarning sifatli tayyorlanishi va ishlatilishiga oid masalalar yoritilgan...",
+   "options": [
+    "Oy nurining ixtiyorat uchun mohiyati",
+    "Subhoniy tibbiyoti bo'yicha davolash",
+    "Subhonning hayotbaxsh tibbiyoti",
+    "Ayn at-Tavorix"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Tib ilmida tengi yo'q edilar, chunonchi, 'Tibbi Subhoniy' buning qat'iy dalilidir. She'rga ta'bi baland edi. 'Nishoniy'ni taxallus qilgan edilar\" Bu jumlalar qaysi asardan olinganini aniqlang.",
+   "options": [
+    "Oy nurining ixtiyorat uchun mohiyati",
+    "Subhoniy tibbiyoti bo'yicha davolash",
+    "Subhonning hayotbaxsh tibbiyoti",
+    "Ayn at-Tavorix"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ayn at-Tavorix asarining muallifini aniqlang.",
+   "options": [
+    "Mahmud ibn Vali",
+    "Xoja Samandar Termiziy",
+    "Hoji Abdulazim Sha'riy",
+    "Muhammad Yusuf Munshiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Bahr ul-asror\" asarining muallifini aniqlang.",
+   "options": [
+    "Mahmud ibn Vali",
+    "Xoja Samandar Termiziy",
+    "Hoji Abdulazim Sha'riy",
+    "Muhammad Yusuf Munshiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Dastur al-mulk\" asarining muallifini aniqlang.",
+   "options": [
+    "Mahmud ibn Vali",
+    "Xoja Samandar Termiziy",
+    "Hoji Abdulazim Sha'riy",
+    "Muhammad Yusuf Munshiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Muqimxon tarixi\" asarining muallifini aniqlang.",
+   "options": [
+    "Mahmud ibn Vali",
+    "Xoja Samandar Termiziy",
+    "Hoji Abdulazim Sha'riy",
+    "Muhammad Yusuf Munshiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Ubaydullanoma\" asarining muallifini aniqlang.",
+   "options": [
+    "Hojamqulixon Balxiy",
+    "Abdurahmon Tole",
+    "Muhammad Murod Samarqandiy",
+    "Mir Muhammad Amin Buxoriy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Abulfayzxon tarixi\" asarining muallifini toping.",
+   "options": [
+    "Hojamqulixon Balxiy",
+    "Abdurahmon Tole",
+    "Muhammad Murod Samarqandiy",
+    "Mir Muhammad Amin Buxoriy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Qipchoqxon tarixi\" asarining muallifini toping.",
+   "options": [
+    "Hojamqulixon Balxiy",
+    "Abdurahmon Tole",
+    "Muhammad Murod Samarqandiy",
+    "Mir Muhammad Amin Buxoriy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Nishoniy\" taxallusi bilan ijod qilgan shaxsni aniqlang.",
+   "options": [
+    "Mahmud ibn Vali",
+    "Xoja Samandar Termiziy",
+    "Subhonqulixon",
+    "Muhammad Yusuf Munshiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Subhonqulixonning astronomiyaga oid asarini aniqlang.",
+   "options": [
+    "Oy nurining ixtiyorat uchun mohiyati",
+    "Subhoniy tibbiyoti bo'yicha davolash",
+    "Subhonning hayotbaxsh tibbiyoti",
+    "Barcha javoblar to'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVII asrda matematika, astronomiya, geometriya sohalarida ijod qilgan shaxslarni aniqlang.",
+   "options": [
+    "Mulla Tursun Faroziy, Muhammad Muqim",
+    "Abdullo Ofarinkentiy",
+    "Ali Buxoriy, mulla Rahmat Samarqandiy",
+    "Mulla Tursun Faroziy, mulla Ne'mat Samarqandiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVII asrda musiqashunoslik sohasida ijod qilgan shaxslarni aniqlang.",
+   "options": [
+    "Mulla Tursun Faroziy, Muhammad Muqim",
+    "Abdullo Ofarinkentiy, Ali Buxoriy, mulla Rahmat Samarqandiy",
+    "Abdullo Ofarinkentiy, Mullo Gadoy, mulla Rahmat Samarqandiy",
+    "Mulla Tursun Faroziy, mulla Ne'mat Samarqandiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Firdavsiyning \"Shohnoma\" va Sa'diyning \"Bo'ston\" asarlariga miniaturalar ishlagan shaxsni aniqlang.",
+   "options": [
+    "Hojamqulixon Balxiy",
+    "Abdurahmon Tole",
+    "Muhammad Murod Samarqandiy",
+    "Mir Muhammad Amin Buxoriy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Firdavsiyning \"Shohnoma\" asaridan nusxa ko'chirilgan vaqtni aniqlang.",
+   "options": [
+    "1682-yil",
+    "1652-yil",
+    "1556-yil",
+    "1616-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muhammad Murod Samarqandiy Firdavsiyning \"Shohnoma\" asarini qancha miniatura bilan bezagan.",
+   "options": [
+    "100",
+    "115",
+    "110",
+    "120"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Muhammad Sharif va Muhammad Murod Samarqandiy tomonidan yaratilgan Kitob o'qiyotgan o'smir miniaturasi bugungi kunda qayerda saqlanmoqda.",
+   "options": [
+    "Parij. Luvr muzeyi",
+    "Vashington. Frir galereyasi",
+    "London. Britaniya muzeyi",
+    "Dublin. Chester Bitti kutubxonasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muhammad Sharif va Muhammad Murod Samarqandiy tomonidan yaratilgan Piyola tutgan malika miniaturasi bugungi kunda qayerda saqlanmoqda.",
+   "options": [
+    "Parij. Luvr muzeyi",
+    "Vashington. Frir galereyasi",
+    "London. Britaniya muzeyi",
+    "Dublin. Chester Bitti kutubxonasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Muhammad Murod Samarqandiy tomonidan yaratilgan Saroydagi bazmga tayyorgarlik miniaturasi bugungi kunda qayerda saqlanmoqda.",
+   "options": [
+    "Parij. Luvr muzeyi",
+    "Vashington. Frir galereyasi",
+    "London. Britaniya muzeyi",
+    "Dublin. Chester Bitti kutubxonasi"
+   ],
+   "answer": 3
+  }
+ ]
+}

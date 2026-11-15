@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 13-mavzu. Old Osiyo davlatlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Ossuriya podsholigi qachon vujudga kelgan?",
+   "options": [
+    "Mil. avv. 4-mingyillikda",
+    "Mil. avv. 2-mingyillikda",
+    "Mil. avv. VII asrda",
+    "Mil. avv. IX asrda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadim zamonlarda ossuriyaliklar qayerni egallagan?",
+   "options": [
+    "Kavkazortini",
+    "O'rta Yer dengizining sharqiy qirg'og'ini",
+    "Frot va Dajla daryolari yuqori oqimidagi (hozirgi Iroq) kichik hududni",
+    "Nil vodiysini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ossuriyaning poytaxtlari qaysi shaharlar bo'lgan?",
+   "options": [
+    "Avval Tushpa, keyin Nineviya",
+    "Avval Bobil, keyin Ashshur",
+    "Avval Ashshur, keyin Nineviya",
+    "Avval Nineviya, keyin Ashshur"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ossuriya aholisining asosiy mashg'ulotlari nima edi?",
+   "options": [
+    "Dehqonchilik va savdo-sotiq",
+    "Konchilik va temirchilik",
+    "Dengizchilik va baliqchilik",
+    "Ko'chmanchi chorvachilik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ossuriyaliklarga xos xususiyat nima?",
+   "options": [
+    "Tinchliksevar, faqat savdo bilan shug'ullangan",
+    "Alifbo yaratgan",
+    "Dengiz orollarida yashagan",
+    "Jangari xalq bo'lib, qo'shni yerlarga tez-tez hujum qilib turgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ossuriyaga bo'ysundirilgan xalqlar nima qilishgan?",
+   "options": [
+    "Ossuriyaga ma'budlarini bergan",
+    "Ossuriya qo'shinida xizmat qilmagan",
+    "Ossuriya hukmdoriga katta miqdorda o'lpon to'lagan",
+    "Mustaqil bo'lib qolgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nineviyada sopol taxtachalardan iborat yirik kutubxona kimning hukmronligi yillarida jamlangan?",
+   "options": [
+    "Sargon I",
+    "Navuxodonosor II",
+    "Xammurapi",
+    "Ashshurbanipal"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ossuriya qo'shinlari qachon va kimlar tomonidan tor-mor etildi?",
+   "options": [
+    "Mil. avv. 605-yilda; Midiya va Bobil tomonidan",
+    "Mil. avv. VIII asrda; Urartu tomonidan",
+    "Mil. avv. 539-yilda; forslar tomonidan",
+    "Mil. avv. 525-yilda; Misr tomonidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Urartu davlati qayerda joylashgan?",
+   "options": [
+    "Kichik Osiyoning g'arbida",
+    "Kavkazortida, hozirgi Turkiyaning sharqiy qismi va Armaniston hududlarida",
+    "Frot va Dajla yuqori oqimida",
+    "Hozirgi Livan va Suriyaning bir qismida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Urartu davlati aholisi qanday atalgan?",
+   "options": [
+    "Finikiyaliklar",
+    "Urartlar",
+    "Ossuriyaliklar",
+    "Skiflar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Urartu davlati tashkil topishini nima tezlashtirdi?",
+   "options": [
+    "Ossuriya hujumlaridan himoyalanish zarurati",
+    "Midiyaning yordami",
+    "Skiflar ittifoqi",
+    "Finikiyaliklar bilan savdo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Urartu davlati qachon gullab-yashnadi?",
+   "options": [
+    "Mil. avv. IX–VIII asr boshlarida",
+    "Mil. avv. VI asrda",
+    "Mil. avv. 2-mingyillikda",
+    "Mil. avv. VII asr oxirida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Urartu davlatining poytaxti qaysi shahar edi?",
+   "options": [
+    "Tushpa",
+    "Teyshebaini",
+    "Ashshur",
+    "Nineviya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Teyshebaini shahridagi qal'ani kimlar ishg'ol etib, vayron qilgan?",
+   "options": [
+    "Ko'chmanchi skif qabilalari",
+    "Bobilliklar",
+    "Misrliklar",
+    "Ossuriyaliklar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oxir-oqibat Urartu podsholigini kim bosib oldi?",
+   "options": [
+    "Fors",
+    "Midiya",
+    "Ossuriya",
+    "Bobil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Urartu tarixidagi voqealarni xronologik tartibda joylashtiring.\n1) Teyshebaini qal'asining skiflar tomonidan vayron qilinishi; 2) urartlarning ossuriyaliklar ustidan g'alabalari; 3) Midiyaning Urartuni bosib olishi.",
+   "options": [
+    "3, 2, 1",
+    "2, 3, 1",
+    "2, 1, 3",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadim zamonlarda Finikiya qayerda joylashgan?",
+   "options": [
+    "O'rta Yer dengizining sharqiy qirg'og'i bo'ylab, hozirgi Livan va Suriyaning bir qismida",
+    "Kavkazortida",
+    "Nil deltasida",
+    "Kichik Osiyoda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Finikiyaliklarning asosiy mashg'ulotlaridan biri nima bo'lgan?",
+   "options": [
+    "Piramida qurish",
+    "Ko'chmanchi chorvachilik",
+    "Urush olib borish",
+    "Savdo-sotiq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Finikiyaliklar qo'shnilariga nimalar sotardi?",
+   "options": [
+    "Yog'och, metallar va gazlamalar",
+    "Don va chorva mollari",
+    "Papirus va kanop",
+    "Ipak va choy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Finikiyaning yirik dengiz bo'yi shaharlarini aniqlang.\n1) Tir; 2) Nineviya; 3) Sidon; 4) Tushpa; 5) Ugarit.",
+   "options": [
+    "1, 3, 5",
+    "1, 2, 4",
+    "2, 3, 5",
+    "3, 4, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Finikiyada alifbo qachon yaratilgan va u nechta harfdan iborat bo'lgan?",
+   "options": [
+    "Mil. avv. 2-mingyillikda; 22 unli harfdan",
+    "Mil. avv. VII asrda; 33 harfdan",
+    "Mil. avv. X asrda; 750 ta belgidan",
+    "Mil. avv. X asrda; 22 undosh harfdan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yunonlar Finikiya alifbosini qanday o'zgartirdi?",
+   "options": [
+    "Uni o'zlashtirib, unli harflarni qo'shib qo'ydi",
+    "Undosh harflarni olib tashladi",
+    "Uni rasmli yozuvga aylantirdi",
+    "Uni mixxatga aylantirdi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Falastin hududida Isroil podsholigi qachon vujudga kelgan?",
+   "options": [
+    "Mil. avv. 2-mingyillikda",
+    "Mil. avv. XI asrda",
+    "Mil. avv. X asrda",
+    "Mil. avv. VII asrda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Isroil podsholigi keyinchalik qaysi podsholik bilan birlashdi?",
+   "options": [
+    "Yahudiy podsholigi",
+    "Midiya",
+    "Finikiya",
+    "Urartu"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yahudiy podsholigini kim bosib oldi?",
+   "options": [
+    "Midiya",
+    "Bobil podsholigi",
+    "Ossuriya",
+    "Misr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Bibliya” so'zi qaysi tilda va qanday ma'noni anglatadi?",
+   "options": [
+    "Yunonchada “kitob”",
+    "Yunonchada “afsona”",
+    "Lotinchada “muqaddas”",
+    "Yahudiychada “qonun”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bibliyada qanday rivoyatlar mavjud?",
+   "options": [
+    "Gilgamish va Enkidu haqida",
+    "Xammurapi qonunlari haqida",
+    "Osiris sudi haqida",
+    "Olam, Odam Ato va Momo Havoning yaratilishi, yer yuzini to'fon bosishi haqida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nDavlat | Poytaxti yoki shahri\nOssuriya | 1) ________\nUrartu | 2) ________\nFinikiya | 3) ________\na) Ashshur, Nineviya; b) Tushpa; c) Tir, Sidon, Ugarit; d) Bobil; e) Memfis; f) Ur, Uruk.",
+   "options": [
+    "1-d, 2-b, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-b, 3-f",
+    "1-a, 2-e, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nDavlat | Voqea | Sana\nOssuriya | Midiya va Bobil tomonidan tor-mor etildi | A\nB | 22 undosh harfli alifbo yaratildi | mil. avv. X asr\nFalastin | Isroil podsholigi vujudga keldi | C\n1) mil. avv. 605-yil; 2) Finikiya; 3) mil. avv. XI asr; 4) Urartu; 5) mil. avv. 539-yil; 6) mil. avv. IX asr.",
+   "options": [
+    "A-1, B-2, C-6",
+    "A-1, B-4, C-3",
+    "A-5, B-2, C-3",
+    "A-1, B-2, C-3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Old Osiyo davlatlariga oid to'g'ri hukmlarni aniqlang.\nI. Ashshurbanipal davrida Nineviyada yirik kutubxona jamlangan.\nII. Urartu poytaxti Nineviya bo'lgan.\nIII. Finikiya alifbosi 22 undosh harfdan iborat bo'lgan.\nIV. Ossuriyani mil. avv. 539-yilda forslar tor-mor etgan.",
+   "options": [
+    "I va III",
+    "III va IV",
+    "I va II",
+    "II va IV"
+   ],
+   "answer": 0
+  }
+ ]
+}

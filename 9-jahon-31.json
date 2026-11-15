@@ -1,0 +1,736 @@
+{
+ "title": "9-sinf · 31-mavzu. Afrika: qul savdosi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Misr hukmdori Muhammad Ali qaysi yillarda yashagan?",
+   "options": [
+    "1769–1849-yillarda",
+    "1770–1850-yillarda",
+    "1771–1851-yillarda",
+    "1772–1852-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misr hukmdori Muhammad Ali qanday islohotlarni amalga oshirgan? 1) Mamluklarning yerlarini musodara qilgan; 2) Parlamentni tashkil qilgan; 3) Flot va armiyani Yevropa andozasida isloh etgan; 4) Misrliklardan ofitserlar korpusini tuzgan; 5) Chet el kapitalini jalb qilish uchun kompaniyalarga konsessi",
+   "options": [
+    "1, 2, 5, 6, 7, 8, 9, 10",
+    "1, 3, 4, 6, 7, 9, 10, 11",
+    "2, 3, 4, 5, 6, 7, 8, 9",
+    "2, 4, 5, 9, 10, 11"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Misr tarixidagi yangi davrning boshlanishi turk armiyasi tarkibiga kiruvchi qaysi xalq korpusi boshlig'i Muhammad Ali nomi bilan bog'liq?",
+   "options": [
+    "Alban",
+    "Venger",
+    "Xorvat",
+    "Bolgar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon qo'zg'olon natijasida Misr poshosi Xurshid hokimiyatdan ag'darilgandan so'ng Qohira shayxlari Muhammad Alini Misr poshosi etib saylaganlar, Turkiya hukumati esa buni tasdiqlagan?",
+   "options": [
+    "1801-yilda",
+    "1803-yilda",
+    "1805-yilda",
+    "1808-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrning qaysi davriga kelib, Misrning jahon kapitalistik xo'jaligiga tortilishi oqibatlari aniq ko'zga tashlanib qolgan?",
+   "options": [
+    "40-yillariga",
+    "50-yillariga",
+    "60-yillariga",
+    "70-yillariga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi davrda Misrda temiryo'llar qurilishi jadal olib borilgan, sug'orish kanallari qazilgan, portlar qayta jihozlangan?",
+   "options": [
+    "1850–1860-yillarda",
+    "1860–1870-yillarda",
+    "1870–1880-yillarda",
+    "1880–1890-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda Misrda O'rtayer dengizi bilan Qizil dengizni bog'lovchi Suvaysh kanalini qazish ishlari boshlangan?",
+   "options": [
+    "1857-yilda",
+    "1859-yilda",
+    "1864-yilda",
+    "1869-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Suvaysh kanali necha yilda qazib bitkazilgan?",
+   "options": [
+    "To'rt yilda",
+    "Olti yilda",
+    "Sakkiz yilda",
+    "O'n yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Suvaysh kanali ochilgandan so'ng Misrni o'z nazoratiga olish uchun qaysi davlatlar o'rtasida qizg'in kurash boshlanib ketgan?",
+   "options": [
+    "AQSH va Turkiya",
+    "Turkiya va Angliya",
+    "Angliya va Fransiya",
+    "Fransiya va AQSH"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yillarda Sudan Misr hukmdori Muhammad Ali qo'shinlari tomonidan zabt etilgan?",
+   "options": [
+    "1820–1822-yillarda",
+    "1822–1824-yillarda",
+    "1824–1826-yillarda",
+    "1826–1828-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asr boshlarida Sudanda eng “foydali” hunar qaysi bo'lgan?",
+   "options": [
+    "Oltin savdosi",
+    "Qul savdosi",
+    "Tuz savdosi",
+    "Fil suyagi savdosi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Misr hukmdori Muhammad Ali Sudanni istilo qilishidan oldin, u yerdan Misrga yiliga qancha qul jo'natilgan?",
+   "options": [
+    "7–8 ming",
+    "8–9 ming",
+    "9–10 ming",
+    "10–11 ming"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda Sudandan Misr hukmdori Muhammad Ali ixtiyoriga 40 ming qul jo'natilgan?",
+   "options": [
+    "1825-yilda",
+    "1828-yilda",
+    "1836-yilda",
+    "1839-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yilda Sudandan Misr hukmdori Muhammad Ali ixtiyoriga qariyb 200 ming qul jo'natilgan?",
+   "options": [
+    "1825-yilda",
+    "1828-yilda",
+    "1836-yilda",
+    "1839-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrning qaysi davrida Qohira hukumati Yevropa davlatlarining bosimi ostida qul savdosini taqiqlashga majbur bo'lgan?",
+   "options": [
+    "40-yillarida",
+    "50-yillarida",
+    "60-yillarida",
+    "70-yillarida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Liviyada Yusuf Qaramoniy hukmronligi yillarini toping.",
+   "options": [
+    "1790–1827-yillar",
+    "1793–1830-yillar",
+    "1795–1832-yillar",
+    "1799–1836-yillar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Liviyada Ali Qaramoniy hokimiyatga kelgan?",
+   "options": [
+    "1827-yilda",
+    "1830-yilda",
+    "1832-yilda",
+    "1836-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Liviyada kimning hukmronlik davrida O'rtayer dengizi havzasida Yevropa davlatlari bilan AQSH o'rtasida harbiy-siyosiy raqobat ancha faollashgan?",
+   "options": [
+    "Yusuf Qaramoniy",
+    "Ali Qaramoniy",
+    "Mustafo Najib posho",
+    "Muhammad ben Ali as-Senusiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Usmoniylar sultoni tomonidan Liviyaga jo'natilgan Mustafo Najib posho qaramoniy sulolasidan bo'lgan kimni butun qarindoshlari bilan asir olgan va sulola hokimiyatdan jangsiz ag'darilgan?",
+   "options": [
+    "Yusuf Qaramoniy",
+    "Ali Qaramoniy",
+    "Ahmad Qaramoniy",
+    "Muhammad Qaramoniy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Usmoniylar sultoni tomonidan jo'natilgan qaysi vali Liviyada yumshoq siyosat olib borgan va tinch yo'l bilan mamlakatni ushlab turishga harakat qilgan?",
+   "options": [
+    "Yusuf Qaramoniy",
+    "Ali Qaramoniy",
+    "Mustafo Najib posho",
+    "Muhammad ben Ali as-Senusiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrning qaysi davrida Liviyaning ijtimoiy hayotida Senusiyya musulmon birodarlari ta'sirli rol o'ynay boshlagan?",
+   "options": [
+    "30–40-yillarida",
+    "40–50-yillarida",
+    "50–60-yillarida",
+    "60–70-yillarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Senusiyya musulmon birodarlari jamiyatiga asos solgan Muhammad ben Ali as-Senusiy qayerlik edi?",
+   "options": [
+    "Misrlik",
+    "Sudanlik",
+    "Marokashlik",
+    "Jazoirlik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrda Muhammad as-Senusiyning qarashlarida islom mistitsizmi (so'fiylik) bilan … belgilari uyg'unlashib ketgan edi.",
+   "options": [
+    "vahhobiylik",
+    "mahdiylik",
+    "bobiylik",
+    "hanafiylik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrning boshlarida qanday omillar Jazoirga Yevropa davlatlarining e'tiborini jalb qilayotgan edi? 1) Davlatining kuchsizligi; 2) Qazilma resurslarga boyligi; 3) O'rtayer dengizining qulay Markaziy qismida joylashganligi.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Fransiya hukumati Jazoir hududiga ochiq harbiy intervensiyani boshlagan?",
+   "options": [
+    "1830-yil yozida",
+    "1832-yil kuzida",
+    "1834-yil qishida",
+    "1836-yil bahorida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jazoirda qaysi yilda chet elliklarga qarshi kurashga Abdulqodir boshchilik qilgan?",
+   "options": [
+    "1830-yilda",
+    "1832-yilda",
+    "1834-yilda",
+    "1836-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda Jazoir hukmdori Abdulqodir va fransuzlar o'rtasida yarashish va erkin savdo to'g'risida bitim imzolangan?",
+   "options": [
+    "1830-yilda",
+    "1832-yilda",
+    "1834-yilda",
+    "1836-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jazoir hukmdori Abdulqodir fransuzlar bilan tinchlikdan va qaysi davlat hukmdori islohotlarining muvaffaqiyatlaridan ilhomlangan hamda markaziy hokimiyatni mustahkamlash, savdo va ishlab chiqarishni rivojlantirish yo'lida bir qator tadbirlarni amalga oshirgan?",
+   "options": [
+    "Liviyadagi Yusuf Qaramoniy",
+    "Sudandagi Mustafo Najib",
+    "Marokashdagi Muhammad as-Senusiy",
+    "Misrdagi Muhammad Ali"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jazoir hukmdori Abdulqodir fransuzlar bilan tinchlikdan mamlakatidagi qaysi sohalarni isloh qilishda foydalangan? 1) Ma'muriy; 2) Sud; 3) Soliq.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yilda fransuzlar Jazoir poytaxti Konstantin shahrini zabt etganlaridan so'ng Abdulqodirga qarshi janglarni boshlab yuborgan?",
+   "options": [
+    "1836-yilda",
+    "1844-yilda",
+    "1839-yilda",
+    "1848-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda fransuzlar Jazoir shahrini egallaganlar?",
+   "options": [
+    "1836-yilda",
+    "1844-yilda",
+    "1839-yilda",
+    "1848-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fransiya Ikkinchi respublikasi yillarini toping.",
+   "options": [
+    "1848–1851-yillar",
+    "1850–1853-yillar",
+    "1852–1855-yillar",
+    "1854–1857-yillar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransiyada nechanchi respublika yillarida Jazoir Fransiya milliy hududining tarkibiy qismi deb rasman e'lon qilingan?",
+   "options": [
+    "Birinchi respublika",
+    "Ikkinchi respublika",
+    "Uchinchi respublika",
+    "To'rtinchi respublika"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning qaysi davridan keyin Tunis va Marokash Yevropa davlatlarining mustamlakasiga aylantirilgan?",
+   "options": [
+    "40-yillaridan",
+    "50-yillaridan",
+    "60-yillaridan",
+    "70-yillaridan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrda kapitalistik tuzumning genezisida muhim rol o'ynagan qanday savdo bekor qilingandan so'ng Yevropa davlatlarining harakatlari Afrika qit'asini bosib olish va mustamlakaga aylantirishga qaratilgan?",
+   "options": [
+    "Fil suyagi savdosi",
+    "Ziravor savdosi",
+    "Qul savdosi",
+    "Tuz savdosi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Afrikani muntazam tadqiq qilish qachon boshlangan?",
+   "options": [
+    "XVIII asrning boshlarida",
+    "XVIII asrning o'rtalarida",
+    "XVIII asrning oxirlarida",
+    "XIX asrning boshlarida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon G'arbiy Afrikaning ichkarisiga birinchi sayohat uyushtirilgan?",
+   "options": [
+    "1795-yilda",
+    "1797-yilda",
+    "1799-yilda",
+    "1801-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davrda Senegal, Gambiya va Rio Grande hududlari ochilgan?",
+   "options": [
+    "XVIII asrning birinchi yarmida",
+    "XVIII asrning ikkinchi yarmida",
+    "XIX asrning birinchi yarmida",
+    "XIX asrning ikkinchi yarmida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Afrikada kimlar ekspeditsiyasi Tripoli orqali Sahroyi Kabirga o'tib, Bornni hamda Chad ko'li atrofini o'rganib chiqqan?",
+   "options": [
+    "Fransuzlar",
+    "Inglizlar",
+    "Portugallar",
+    "Gollandlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Afrikada Bornni hamda Chad ko'li atrofi o'rganilganidan bir necha yildan keyin Chad ko'lidan …ga boradigan yo'l kashf qilingan, … va … vohalari tadqiq etilgan.",
+   "options": [
+    "Kufra/Ubari/Niger",
+    "Niger/Kano/Sokoto",
+    "Kano/Sokoto/Kufra",
+    "Sokoto/Kufra/Ubari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Afrikada kimlar Sharqiy Afrikaning Tanganika ko'li qirg'oqlariga yetib borganlar va Viktoriya ko'lini kashf qilishgan?",
+   "options": [
+    "Portugallar",
+    "Gollandlar",
+    "Inglizlar",
+    "Fransuzlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Afrikada kimlar yevropaliklar ichida birinchi bo'lib Buganda hududiga kirib borganlar?",
+   "options": [
+    "Portugallar",
+    "Gollandlar",
+    "Inglizlar",
+    "Fransuzlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Intervensiya” so'zi qaysi tildan olingan?",
+   "options": [
+    "Fransuz tilidan",
+    "Ingliz tilidan",
+    "Yunon tilidan",
+    "Lotin tilidan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Intervensiya” so'zi kelib chiqqan “interventio” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Aralashuv”",
+    "“Kelishuv”",
+    "“Birlashuv”",
+    "“To'qnashuv”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "… – bir yoki bir necha davlatning boshqa bir davlat ichki ishlariga zo'rlik bilan aralashuvi, uning hududiy yaxlitligi yoki siyosiy mustaqilligiga qarshi qaratilgan harakatlari.",
+   "options": [
+    "Anneksiya",
+    "Intervensiya",
+    "Kollaboratsiya",
+    "Koalitsiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Rasizm” so'zining ma'nosi nima?",
+   "options": [
+    "Ayirmachilik",
+    "Millatchilik",
+    "Buzg'unchilik",
+    "Irqchilik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "… – odamlarning irqlarga bo'linishini va bir irqning boshqasidan (qolganlaridan) ustunligini tasdiqlovchi mafkura yoki qarashlar tizimi.",
+   "options": [
+    "Natsizm",
+    "Aparteid",
+    "Rasizm",
+    "Shovinizm"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davrda Yevropada qulchilik va qul savdosiga qarshi norozilik harakatlari paydo bo'la boshlagan?",
+   "options": [
+    "XVIII asrning boshlarida",
+    "XVIII asrning oxirlarida",
+    "XIX asrning boshlarida",
+    "XIX asrning oxirlarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qulchilikka qarshilar qanday atalgan?",
+   "options": [
+    "Abolitsionistlar",
+    "Patsifistlar",
+    "Kollaboratsionistlar",
+    "Proteksionistlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qul savdosi yuridik jihatdan Buyuk Britaniyada qachon taqiqlangan?",
+   "options": [
+    "1852-yilda",
+    "1807-yilda",
+    "1808-yilda",
+    "1848-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qul savdosi yuridik jihatdan AQSH da qachon taqiqlangan?",
+   "options": [
+    "1852-yilda",
+    "1807-yilda",
+    "1808-yilda",
+    "1848-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qul savdosi yuridik jihatdan Fransiyada qachon taqiqlangan?",
+   "options": [
+    "1852-yilda",
+    "1807-yilda",
+    "1808-yilda",
+    "1848-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amalda qulchilik AQSH da qaysi yillardagi Fuqarolar urushigacha saqlanib qolgan?",
+   "options": [
+    "1858–1862-yillardagi",
+    "1859–1863-yillardagi",
+    "1860–1864-yillardagi",
+    "1861–1865-yillardagi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yevropaliklar qul savdosi bilan qachondan qachongacha shug'ullanganlar?",
+   "options": [
+    "XV asrning boshlaridan XIX asr 60-yillarigacha",
+    "XV asrning o'rtalaridan XIX asr 70-yillarigacha",
+    "XV asrning oxirlaridan XIX asr 80-yillarigacha",
+    "XVI asrning boshlaridan XIX asr 90-yillarigacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yevropa va Amerikadagi shaharlar – Bristol, Liverpul, Manchester, London, Nant, Ruan, Amsterdam, Nyu York, Yangi Orlean, Rio de Janeyrolarning jadal rivojlanishi va gullab-yashnashi nima bilan bog'liq edi?",
+   "options": [
+    "Qul savdosi",
+    "Ziravor savdosi",
+    "Oltin savdosi",
+    "Tuz savdosi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qariyb to'rt asr ichida yevropalik qulfurushlar Amerikaga qancha qul olib kelishgan?",
+   "options": [
+    "13–14 million",
+    "14–15 million",
+    "15–16 million",
+    "16–17 million"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qariyb to'rt asr ichida arablar musulmon mamlakatlariga qancha qul yetkazib bergan?",
+   "options": [
+    "13–14 million",
+    "14–15 million",
+    "15–16 million",
+    "16–17 million"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Atlantika okeani orqali amalga oshirilgan qul savdosi jarayonida qancha kishi halok bo'lgan?",
+   "options": [
+    "30–40 million",
+    "40–50 million",
+    "50–60 million",
+    "60–70 million"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Birlashgan Millatlar Tashkilotining ma'lumotlariga qaraganda, 1650-yildan 1850-yilgacha Afrika aholisining soni o'zgarmasdan turgan va qancha kishini tashkil etgan?",
+   "options": [
+    "100 mln. kishini",
+    "200 mln. kishini",
+    "300 mln. kishini",
+    "400 mln. kishini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Qabrdagi gulchambar” romani muallif kim?",
+   "options": [
+    "Garriyet Bicher Stou",
+    "Piter Abrahams",
+    "Jek London",
+    "Mark Tven"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1800-yildan 1870-yilgacha Afrikaga nechta yirik geografik ekspeditsiyalar yuborilgan?",
+   "options": [
+    "60 dan ortiq",
+    "70 dan ortiq",
+    "80 dan ortiq",
+    "90 dan ortiq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qul savdosi Afrikadagi qaysi an'anaviy hunarmandchilik sohalari rivojlanishiga to'sqinlik qilgan? 1) Naqqoshlik; 2) To'qimachilik; 3) Zargarlik.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Afrikadagi qaysi davlatlar qul savdosi sababli tarqalib ketgan?",
+   "options": [
+    "Benin, Kongo",
+    "Kongo, Vida",
+    "Vida, Ardra",
+    "Ardra, Benin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afrikadagi qaysi yangi paydo bo'lgan davlatlar qul savdosida vositachilik qilish bilan boyib borgan?",
+   "options": [
+    "Benin, Kongo",
+    "Kongo, Vida",
+    "Vida, Ardra",
+    "Ardra, Benin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qul savdosining Afrika uchun eng og'ir oqibatlaridan biri psixologik holat bo'lib, qulchilikning eng g'ayriinsoniy ko'rinishi bo'lmish qaysi mafkurani shakllanishiga olib kelgan?",
+   "options": [
+    "Natsizm",
+    "Rasizm",
+    "Aparteid",
+    "Shovinizm"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qul savdosi natijasida to'rt asr ichida ko'pchilikning, avvalo, kimlarning tasavvurida qul deganda afrikalik, ya'ni qora tanli odam aks etadigan bo'lib qolgan?",
+   "options": [
+    "Amerikaliklarning",
+    "Osiyoliklarning",
+    "Afrikaliklarning",
+    "Yevropaliklarning"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrda Yevropa davlatlari … va … Afrikani ochish va bo'lib olish jarayonini davom ettirganlar.",
+   "options": [
+    "Markaziy/Janubiy",
+    "Janubiy/G'arbiy",
+    "G'arbiy/Sharqiy",
+    "Sharqiy/Markaziy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afrikadagi quyidagi qaysi davlatlarda feodal monarxiyalar qaror topgan edi? 1) Efiopiya; 2) Misr; 3) Tunis; 4) Marokash; 5) Sudan; 6) Madagaskar.",
+   "options": [
+    "3, 4, 5",
+    "2, 3, 4, 6",
+    "1, 2, 3, 4, 5",
+    "1, 2, 3, 4, 5, 6"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "G'arbiy Afrikadagi eng qadimgi davlatlar qaysi?",
+   "options": [
+    "Tunis va Gana",
+    "Gana va Mali",
+    "Mali va Misr",
+    "Misr va Tunis"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Afrikadagi qaysi davlatlar o'z mustaqilligini saqlab qolgan?",
+   "options": [
+    "Madagaskar va Sudan",
+    "Sudan va Liberiya",
+    "Liberiya va Efiopiya",
+    "Efiopiya va Madagaskar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Afrikada Liberiya ozod davlati tuzilgan?",
+   "options": [
+    "1844-yilda",
+    "1847-yilda",
+    "1851-yilda",
+    "1856-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kap mustamlakasi Afrikaning qaysi qismida joylashgan edi?",
+   "options": [
+    "Janubida",
+    "Shimolida",
+    "G'arbida",
+    "Sharqida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Monroviya shahri Afrikadagi qaysi davlatda joylashgan?",
+   "options": [
+    "Marokash",
+    "Efiopiya",
+    "Sudan",
+    "Liberiya"
+   ],
+   "answer": 3
+  }
+ ]
+}

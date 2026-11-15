@@ -1,0 +1,514 @@
+{
+ "title": "8-sinf · Amir Temur markazlashgan davlat tuzish yo'lida",
+ "time": 30,
+ "questions": [
+  {
+   "q": "XIV asrning 70-yillari boshida Amir Temur qanday siyosatni boshlagan?",
+   "options": [
+    "Xorazm bilan ittifoq siyosatini",
+    "Movarounnahrni birlashtirish siyosatini",
+    "Dengiz savdosi siyosatini",
+    "Mo'g'ullar bilan ittifoq siyosatini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur dastlab qaysi hududlarni o'ziga bo'ysundirgan?",
+   "options": [
+    "Hindiston va Eronni",
+    "Amudaryo va Sirdaryo oralig'idagi hududlarni",
+    "Qoraqum cho'lini",
+    "Kavkazni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur sharqiy hududlarni kimlarning ta'siridan ozod etish uchun Sharqiy Turkistonga yurish qilgan?",
+   "options": [
+    "Arablar ta'siridan",
+    "Hindlar ta'siridan",
+    "Mo'g'ullar ta'siridan",
+    "Xitoyliklar ta'siridan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amir Temur sharqiy yurishlarda qaysi hududlarni o'z tasarrufiga olgan?",
+   "options": [
+    "Xorazm va Eronni",
+    "Kavkaz va Qrimni",
+    "Hirot va Balxni",
+    "Farg'ona vodiysi, O'tror, Yassi (Turkiston) va Sayramni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temur Mo'g'ulistonga yurishlarni qanday maqsadda uyushtirgan?",
+   "options": [
+    "Din tarqatish maqsadida",
+    "Xitoyga yo'l ochish maqsadida",
+    "Chegara hududlariga hujum uyushtiruvchi mo'g'ul aslzodalarini tiyish maqsadida",
+    "Mo'g'uliston boyliklarini olish maqsadida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada Xorazm hukmdorlari va ularga oid ma'lumotlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-f, 2-b, 3-e",
+    "1-c, 2-b, 3-e",
+    "1-c, 2-a, 3-e",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 1,
+   "image": "img/k8-10-06.jpg"
+  },
+  {
+   "q": "1376-yili Amir Temur o'g'li Mirzo Umarshayx Bahodirni qayerning hokimi etib tayinlagan?",
+   "options": [
+    "Hirot hokimi",
+    "Xorazm hokimi",
+    "Farg'ona hokimi",
+    "Samarqand hokimi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jo'chi ulusi qaysi ikki mustaqil davlatdan iborat bo'lgan?",
+   "options": [
+    "O'ng qanot – Oltin O'rda, chap qanot – Oq O'rda",
+    "Ilxoniylar va Oltin O'rda",
+    "Oq O'rda va Mo'g'uliston",
+    "Oltin O'rda va Chig'atoy ulusi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oltin O'rda tarkibiga quyidagilardan qaysi biri kirgan?",
+   "options": [
+    "Hindiston va Kashmir",
+    "Shimoliy Kavkaz, Bulg'or yerlari, G'arbiy Sibir, Qrim",
+    "Sharqiy Turkiston va Yettisuv",
+    "Eron va Iroq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temurning Mo'g'uliston bilan kurashi qaysi yillar davom etgan?",
+   "options": [
+    "1360–1366-yillar",
+    "1370–1372-yillar",
+    "1371–1390-yillar",
+    "1395–1405-yillar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-e, 3-d, 4-c",
+    "1-e, 2-c, 3-d, 4-a",
+    "1-a, 2-c, 3-d, 4-e",
+    "1-c, 2-a, 3-d, 4-e"
+   ],
+   "answer": 2,
+   "image": "img/k8-10-11.jpg"
+  },
+  {
+   "q": "Amir Temur mo'g'ul xonlarini qaysi daryo orqa tomoniga chekinishga majbur qilgan?",
+   "options": [
+    "Hind daryosi",
+    "Irtish daryosi",
+    "Volga daryosi",
+    "Amudaryo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur Mo'g'ulistonga xon qilib kimni tayinlagan?",
+   "options": [
+    "Suyurg'atmishni",
+    "Husayn So'fini",
+    "To'xtamishxonni",
+    "To'g'luq Temurxonning o'g'li Xizirxo'jani"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temur Mo'g'uliston jilovi va garov sifatida kimni o'zi bilan olib ketgan?",
+   "options": [
+    "Sulaymon So'fini",
+    "Xizirxo'janing o'g'li Sham'i Jahonni",
+    "Umarshayxni",
+    "Husayn So'fining o'g'lini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mo'g'ullar davrida markazi Urganch bo'lgan shimoliy Xorazm qaysi ulus tarkibiga kirgan?",
+   "options": [
+    "Yuan tarkibiga",
+    "Jo'chi ulusi tarkibiga",
+    "Ilxoniylar tarkibiga",
+    "Chig'atoy ulusi tarkibiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarga mos yillarni toping.",
+   "options": [
+    "1-b, 2-d, 3-c",
+    "1-d, 2-e, 3-c",
+    "1-e, 2-d, 3-a",
+    "1-e, 2-d, 3-c"
+   ],
+   "answer": 3,
+   "image": "img/k8-10-16.jpg"
+  },
+  {
+   "q": "Markazi Kat qal'asi bo'lgan janubiy Xorazm qaysi ulusga bo'ysundirilgan?",
+   "options": [
+    "Chig'atoy ulusiga",
+    "Hulagular davlatiga",
+    "Jo'chi ulusiga",
+    "Oq O'rdaga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shimoliy Xorazmda mustaqil bo'lib olgan Husayn So'fi qaysi sulolaga mansub edi?",
+   "options": [
+    "Qo'ng'irot so'fiylari sulolasiga",
+    "Muzaffariylar sulolasiga",
+    "Jaloyir sulolasiga",
+    "Barlos urug'iga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Husayn So'fi qaysi shaharlarni egallab, shimoliy va janubiy Xorazmni birlashtirgan?",
+   "options": [
+    "Samarqand va Buxoroni",
+    "Urganch va Qiyotni",
+    "Hirot va Balxni",
+    "Kat va Xivani"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temur Gurganjga tinchlik haqidagi noma bilan kimni yuborgan?",
+   "options": [
+    "Jaloliddin Keshiyni",
+    "Hoji Sayfiddinni",
+    "Alafa tavochini",
+    "Mir Sayyid Barakani"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada elchilar va ularning taqdiri to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-b, 3-f",
+    "1-a, 2-f, 3-e",
+    "1-f, 2-e, 3-a",
+    "1-a, 2-e, 3-f"
+   ],
+   "answer": 3,
+   "image": "img/k8-10-21.jpg"
+  },
+  {
+   "q": "Husayn So'fi Amir Temur elchisiga qanday javob bergan?",
+   "options": [
+    "“Men mamlakatni qilich bilan olganman, uni faqat qilich bilan olish mumkin”",
+    "“Ikki o'g'lim sizga garov”",
+    "“Xorazm hech kimga bo'ysunmaydi, lekin sulh tuzamiz”",
+    "“Taslim bo'lamiz”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur ikkinchi bor yuborgan elchi Jaloliddin Keshiy qanday taqdirga uchragan?",
+   "options": [
+    "Xonlikka tayinlangan",
+    "Zindonga tashlangan",
+    "Sovg'alar bilan kuzatilgan",
+    "Qatl etilgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1371-yili Gurganjga borish uchun Amir Temur qo'shini qaysi shahar orqali o'tishi kerak edi?",
+   "options": [
+    "Hirot shahri orqali",
+    "Kat shahri orqali",
+    "Xiva shahri orqali",
+    "Qiyot shahri orqali"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Husayn So'fi qaerda vafot etgan?",
+   "options": [
+    "Xivada",
+    "Gurganj qal'asida",
+    "Katda",
+    "Qiyotda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chizmada voqealar va ularning yillari to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-f, 2-e, 3-c",
+    "1-f, 2-b, 3-c",
+    "1-f, 2-a, 3-c",
+    "1-c, 2-e, 3-f"
+   ],
+   "answer": 0,
+   "image": "img/k8-10-26.jpg"
+  },
+  {
+   "q": "Yarash shartlarini buzgan Yusuf So'fi Amir Temur qaytib ketgach, qaysi shaharni bosib olgan?",
+   "options": [
+    "Kat shahrini",
+    "Qiyot shahrini",
+    "Urganchni",
+    "Hirotni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temurning Xorazmga ikkinchi yurishi natijasida nima yuz bergan?",
+   "options": [
+    "Temur mag'lub bo'lgan",
+    "Xorazm Oltin O'rdaga qo'shilgan",
+    "Husayn So'fi taxtdan voz kechgan",
+    "Janubiy Xorazm Amir Temur davlati tarkibiga kirgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xorazmning yangi hokimi Sulaymon So'fi kim bilan birlashib, chegara yerlarga hujum uyushtirgan?",
+   "options": [
+    "Mo'g'uliston xoni bilan",
+    "Shoh Mansur bilan",
+    "Oltin O'rda xoni To'xtamishxon bilan",
+    "Husayn bilan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1388-yilgi beshinchi yurishdan so'ng Amir Temur nomiga nimalar amalga oshirilgan?",
+   "options": [
+    "Yangi poytaxt qurilgan",
+    "Soliqlar bekor qilingan",
+    "Xutba o'qilib, tangalar zarb etilgan",
+    "Qo'rg'onlar buzilgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarga mos javoblarni toping.",
+   "options": [
+    "1-d, 2-b, 3-e",
+    "1-b, 2-c, 3-e",
+    "1-a, 2-d, 3-e",
+    "1-b, 2-d, 3-e"
+   ],
+   "answer": 3,
+   "image": "img/k8-10-31.jpg"
+  },
+  {
+   "q": "Sevinchbeka (Xonzoda begim) Amir Temurning qaysi o'g'liga olib berilgan?",
+   "options": [
+    "Jahongir Mirzoga",
+    "Mironshoh Mirzoga",
+    "Shohrux Mirzoga",
+    "Umarshayx Mirzoga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jahongir Mirzo va Sevinchbekadan 1375-yilda dunyoga kelgan valiahd nabira kim edi?",
+   "options": [
+    "Pirmuhammad mirzo",
+    "Boysunqur",
+    "Ulug'bek",
+    "Muhammad Sulton mirzo"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shayx Zayniddin Toyobodiy Hirot hukmdoriga maktubida qanday degan?",
+   "options": [
+    "“Qal'angni qaytar”",
+    "“Xalqqa soliq soling”",
+    "“Parvardigori olam yuborgan baloni baland devor bilan to'sa olmaysan”",
+    "“Temurga taslim bo'l”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xurosonda hukmronlik qilgan kurdlar sulolasini Hirotda kim boshqargan?",
+   "options": [
+    "Malik G'iyosiddin Pir Ali",
+    "Shoh Mansur",
+    "Sulton Iso",
+    "Malik Muhammad"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada shaxslar va ularga oid ma'lumotlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-a, 2-f, 3-c",
+    "1-f, 2-e, 3-c",
+    "1-c, 2-a, 3-f",
+    "1-f, 2-a, 3-c"
+   ],
+   "answer": 3,
+   "image": "img/k8-10-36.jpg"
+  },
+  {
+   "q": "1380-yili Amir Temur Hirot hukmdoriga qaysi elchini jo'natgan?",
+   "options": [
+    "Mir Sayyid Barakani",
+    "Jaloliddin Keshiyni",
+    "Hoji Sayfiddinni",
+    "Alafa tavochini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mironshoh Mirzo boshchiligidagi 25 ming kishilik qo'shin qaysi hududlarga yuborilgan?",
+   "options": [
+    "Balx, Shiburg'on va Bodhizga",
+    "Urganch, Kat va Xivaga",
+    "Hirot, Nishopur va Marvga",
+    "Samarqand, Buxoro va Keshga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur Hirot olinganda asirga olingan 2000 kishiga nisbatan qanday buyruq bergan?",
+   "options": [
+    "Ozod etishni",
+    "Qul qilishni",
+    "Qatl etishni",
+    "Samarqandga yuborishni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Uch yillik” (1386–1388) yurish davrida Amir Temur qaysi o'lkalarni bo'ysundirgan?",
+   "options": [
+    "Hindiston va Panjobni",
+    "Rus yerlarini",
+    "Misr va Shomni",
+    "Ozarbayjon, Mozandaron va G'ilonni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kavkaz yurishida Amir Temur qaysi qal'alarni egallagan?",
+   "options": [
+    "Tiflis, Arzirum va Vanni",
+    "Isfahon, Sheroz va Tabrizni",
+    "Boku, Derbent va Kutaisini",
+    "Xarkov, Kiyev va Moskvani"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada joy nomlari va ularga oid voqealar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "1-d, 2-a, 3-b",
+    "1-a, 2-b, 3-d",
+    "1-b, 2-d, 3-a",
+    "1-d, 2-b, 3-a"
+   ],
+   "answer": 3,
+   "image": "img/k8-10-42.jpg"
+  },
+  {
+   "q": "Isfahon aholisi kimning ig'vosiga uchib, Temur qoldirgan 3000 askarni qirib tashlagan?",
+   "options": [
+    "Xizirxo'janing",
+    "Ko'chakiy degan ig'vogarning",
+    "Sulton Isoning",
+    "Shoh Mansurning"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Besh yillik” (1392–1396) yurish natijasida qaysi sulolaga barham berilgan?",
+   "options": [
+    "Muzaffariylar sulolasiga",
+    "Jaloyirlarga",
+    "Kurdlar sulolasiga",
+    "Qo'ng'irot so'fiylariga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1394-yilning fevralida Amir Temur qaysi qal'ani egallashga jiddiy kirishgan?",
+   "options": [
+    "Hirotni",
+    "Tiflisni",
+    "Isfahonni",
+    "Mordin qal'asini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temur Mordin qamalini nima sababdan to'xtatgan?",
+   "options": [
+    "Shohrux mirzo xonadonida o'g'il (Ulug'bek) tug'ilgani xushxabari kelgani sababli",
+    "Mo'g'ullar hujum qilgani sababli",
+    "Qish kelgani sababli",
+    "Qal'a taslim bo'lgani sababli"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xorazmni Amir Temur davlatiga qo'shishga oid to'g'ri ma'lumotlarni aniqlang. 1) 1371-yili Kat shahri qisqa fursatda egallandi; 2) Janubiy Xorazm ikkinchi yurish natijasida Temur davlatiga kirdi; 3) Sulaymon So'fi Temurning o'g'li bilan birlashdi; 4) Husayn So'fi Temur bilan abadiy ittifoq tuzdi; 5) Temur dastlab Gurganjga tinchlik haqidagi noma bilan elchi yubordi.",
+   "options": [
+    "3, 4, 5",
+    "1, 2, 5",
+    "1, 4, 5",
+    "1, 3, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temurning Xuroson va Eronga yurishlariga oid to'g'ri ma'lumotlarni aniqlang. 1) Muzaffariylar sulolasi 1314-yilda tugatildi; 2) Kavkazga yurish “yetti yillik” yurishda bo'ldi; 3) “Uch yillik” yurish 1386–1388-yillarda bo'ldi; 4) 1381-yil fevralida Temur o'zi Xurosonga yo'l oldi; 5) Hirot hukmdori Malik G'iyosiddin Pir Ali edi.",
+   "options": [
+    "1, 4, 5",
+    "1, 3, 4, 5",
+    "3, 4, 5",
+    "1, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng avval sodir bo'lgan?",
+   "options": [
+    "Amir Temur o'g'li Umarshayxni Farg'ona hokimi etib tayinladi",
+    "Temur Mordin qal'asini egallashga kirishdi",
+    "“Yetti yillik” yurish boshlandi",
+    "Amir Temur Hirotni egalladi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri eng keyin sodir bo'lgan?",
+   "options": [
+    "Amir Temur Hirotni egalladi",
+    "Amir Temur o'g'li Umarshayxni Farg'ona hokimi etib tayinladi",
+    "“Yetti yillik” yurish boshlandi",
+    "Temur Mordin qal'asini egallashga kirishdi"
+   ],
+   "answer": 2
+  }
+ ]
+}

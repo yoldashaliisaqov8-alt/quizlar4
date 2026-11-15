@@ -1,0 +1,346 @@
+{
+ "title": "9-sinf · 31-mavzu. Qo'qon xonligida ta'lim va madaniy hayot",
+ "time": 30,
+ "questions": [
+  {
+   "q": "XIX asr o'rtalarida Qo'qon xonligining Qo'qon, Marg'ilon, Andijon, Toshkent, Xo'jand, O'sh shaharlarida nechta madrasa faoliyat ko'rsatgan?",
+   "options": [
+    "250 dan ortiq",
+    "300 dan ortiq",
+    "350 dan ortiq",
+    "400 dan ortiq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qo'qon xonligida quyi maktab nechta o'quvchini qamrab olgan?",
+   "options": [
+    "10 nafardan 30 nafargacha",
+    "20 nafardan 40 nafargacha",
+    "30 nafardan 50 nafargacha",
+    "40 nafardan 60 nafargacha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muslihiddin madrasasi qayerda joylashgan edi?",
+   "options": [
+    "Qo'qon",
+    "Toshkent",
+    "Marg'ilon",
+    "Xo'jand"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'qon xonligidagi maktabxonalarda Sa'diy Sheroziyning \"Bo'ston\" va \"Guliston\" asarlari o'rganib bo'lingach, nima o'rganilgan?",
+   "options": [
+    "Hofiz Sheroziyning \"Devon\"i",
+    "Alisher Navoiyning she'riy to'plamlari hamda husnixat",
+    "Hisob-kitob (arifmetika)",
+    "Arab grammatikasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ko'kaldosh, Baroqxon, Mo'yi Muborak, Beklarbegi, Eshonquli dodxoh, Yunusxon, Mahmud dasturxonchi, Normuhammad qushbegi, Abulqosim eshon madrasalari qayerda joylashgan edi?",
+   "options": [
+    "Qo'qon",
+    "Toshkent",
+    "Marg'ilon",
+    "Xo'jand"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sayidahmadxo'ja madrasasi qayerda joylashgan edi?",
+   "options": [
+    "Qo'qon",
+    "Toshkent",
+    "Marg'ilon",
+    "Xo'jand"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qo'qon xonligidagi maktabxonalarda qaysi asar lirik she'rlar to'plami bo'lib, o'quvchilarning axloqiy tarbiyasida asosiy qo'llanma sanalgan?",
+   "options": [
+    "So'fi Olloyorning \"Sabot ul-ojizin\" asari",
+    "Hofiz Sheroziyning \"Devon\"i",
+    "Sa'diy Sheroziyning \"Guliston\" asari",
+    "Sa'diy Sheroziyning \"Bo'ston\" asari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Norbo'tabiy, Jome, Chalpak, Oliy, Modarixon, Kamol qozi, Dasturxonchi, Miyon Hazrat madrasalari qayerda joylashgan edi?",
+   "options": [
+    "Qo'qon",
+    "Toshkent",
+    "Marg'ilon",
+    "Xo'jand"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Odam bolalari ibtidoda bir gavhardan bino bo'lganligi tufayli yaxlit bir vujud kabidirlar...\" BMT ning Tinchlik Kengashi binosi peshtoqiga bitilgan yuqoridagi jumlalar kimning qaysi asaridan olingan?",
+   "options": [
+    "So'fi Olloyorning \"Sabot ul-ojizin\" asaridan",
+    "Hofiz Sheroziyning \"Devon\"idan",
+    "Sa'diy Sheroziyning \"Guliston\" asaridan",
+    "Sa'diy Sheroziyning \"Bo'ston\" asaridan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Mening suhbatdoshlarim va dugonalarim aqlli qizlar va iste'dodli shoiralar edi...\" Yuqoridagi jumlalar kimning xotiralaridan?",
+   "options": [
+    "Nodirabegim",
+    "Jahon Otin Uvaysiy",
+    "Dilshodi Barno",
+    "Anbar otin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qo'qon xonligidagi maktabxonalarda So'fi Olloyor asari o'rganib bo'lingach, nima o'rganilgan?",
+   "options": [
+    "Qur'on qiroati ilmi",
+    "Sa'diy Sheroziyning \"Bo'ston\" va \"Guliston\" asarlari",
+    "Hofiz Sheroziyning \"Devon\"i",
+    "Arab grammatikasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qo'qon xonligi madrasalarida o'qitilgan Qur'on qiroati ilmi qanday atalgan?",
+   "options": [
+    "Tajvid",
+    "Faroiz",
+    "Aqida",
+    "Fiqh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qo'qon xonligi davrida faoliyat yuritgan, ammo xonlik davridan oldin qurilgan Ko'kaldosh va Baroqxon madrasalari qayerda joylashgan edi?",
+   "options": [
+    "Qo'qon",
+    "Toshkent",
+    "Marg'ilon",
+    "Xo'jand"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qo'qon xonligida \"otinoyilar\" deb kimlarga aytilgan?",
+   "options": [
+    "Xalq dostonlarini kuylovchi ayollarga",
+    "Shoiralik bilan shug'ullanuvchi ijodkor ayollarga",
+    "To'ylarda yor-yor aytuvchi ayollarga",
+    "Qiz bolalar maktabida dars beruvchi ayollarga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'qon xonligi ta'lim tizimi nechta bosqichdan iborat bo'lgan va ular qaysilar?",
+   "options": [
+    "Bir bosqich: maktab",
+    "Ikki bosqich: maktab va madrasa",
+    "Uch bosqich: quyi maktab, maktab va madrasa",
+    "To'rt bosqich: quyi maktab, o'rta maktab, yuqori maktab va madrasa"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Minglar hukmronligi davri tarixini tadqiq etgan tarixchi, manbashunos olimlar tomonidan nazm va nasrda nechta tarixiy asarlar yaratilgani ma'lum?",
+   "options": [
+    "10 ga yaqin",
+    "20 ga yaqin",
+    "30 ga yaqin",
+    "40 ga yaqin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'qon xonligida maktab ta'limini o'z ichiga olgan quyi maktablar qayerlarda faoliyat yuritgan?",
+   "options": [
+    "Shaharlarda",
+    "Katta qishloqlarda",
+    "Masjidlar qoshida",
+    "Ko'chmanchi ovullarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qo'qon xonligida maktab ta'limi qaysi bosqichlardan iborat bo'lgan?",
+   "options": [
+    "Quyi maktab",
+    "Quyi maktab va yuqori maktab",
+    "Quyi maktab, o'rta maktab va yuqori maktab",
+    "Quyi maktab, o'rta maktab, yuqori maktab va oliy maktab"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sa'diy Sheroziy qaysi asrda yashab o'tgan?",
+   "options": [
+    "XI asrda",
+    "XII asrda",
+    "XIII asrda",
+    "XIV asrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qo'qon xonligida maktab va madrasalar … tomonidan moliyalashtirilgan.",
+   "options": [
+    "hukmdorlar",
+    "zodagonlar",
+    "vaqf mulklari",
+    "o'quvchilar ota-onalari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hofiz Sheroziy qaysi yillarda yashagan?",
+   "options": [
+    "1320–1383-yillarda",
+    "1322–1385-yillarda",
+    "1324–1387-yillarda",
+    "1326–1389-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'qon xonligida maktab ta'limini o'z ichiga olgan yuqori maktablar qayerlarda faoliyat yuritgan? 1) Shaharlarda; 2) Katta qishloqlarda; 3) Masjidlar qoshida.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qo'qon xonligida quyi maktabda ta'lim necha yil davom etgan?",
+   "options": [
+    "Bir-to'rt yil",
+    "Ikki-besh yil",
+    "Uch-olti yil",
+    "To'rt-yetti yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qo'qon xonligidagi maktabxonalarda So'fi Olloyor, Sa'diy Sheroziy, Hofiz Sheroziy asarlaridan tashqari yana nimalar o'qitilgan? 1) Arab grammatikasi; 2) Alisher Navoiyning she'riy to'plamlari; 3) Husnixat; 4) Hisob-kitob (arifmetika).",
+   "options": [
+    "1, 2, 3, 4",
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ikki-besh yil davom etgan quyi maktab qancha o'quvchini qamrab olgan.",
+   "options": [
+    "20 dan 30 tagacha",
+    "15 dan 25 tagacha",
+    "10 dan 30 tagacha",
+    "10 dan 20 tagacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dilshodi Barno qancha vaqt maktabdorlik qilgan.",
+   "options": [
+    "40-yil",
+    "51-yil",
+    "35-yil",
+    "55-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Dilshodi Barnoning yiliga qancha o'quvchisi bo'lganini aniqlang.",
+   "options": [
+    "20 dan 30 tagacha",
+    "15 dan 25 tagacha",
+    "10 dan 30 tagacha",
+    "10 dan 20 tagacha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dilshodi Barno xotiralarida jami qancha qizning savodini chiqarganini aytgan.",
+   "options": [
+    "850 nafar",
+    "900 nafar",
+    "890 nafar",
+    "920 nafar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Bo'ston\" va \"Guliston\" asarlarining muallifini aniqlang.",
+   "options": [
+    "Hofiz Sheroziy",
+    "Sadiy Sheroziy",
+    "So'fi Olloyor",
+    "Alisher Navoiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Odam bolalari ibtidoda bir gavhardan bino bo'lganligi tufayli yaxlit bir vujud kabidirlar...\" Bu ma'lumotlar qaysi asardan olingan.",
+   "options": [
+    "\"Mahbub ul-qulub\"",
+    "\"Devon\"",
+    "\"Bo'ston\"",
+    "\"Guliston\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1326-1389-yillarda yashagan allomani aniqlang.",
+   "options": [
+    "Hofiz Sheroziy",
+    "Sadiy Sheroziy",
+    "So'fi Olloyor",
+    "Alisher Navoiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Devon\" asarining muallifini toping.",
+   "options": [
+    "Hofiz Sheroziy",
+    "Sadiy Sheroziy",
+    "So'fi Olloyor",
+    "Alisher Navoiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi asar lirik she'rlar to'plami bo'lib, o'quvchilarning axloqiy tarbiyasida asosiy qo'llanma sanalgan.",
+   "options": [
+    "\"Mahbub ul-qulub\"",
+    "\"Devon\"",
+    "\"Bo'ston\"",
+    "\"Guliston\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Minglar sulolasi davrida qancha tarixiy asarlar yaratilgan.",
+   "options": [
+    "40",
+    "51",
+    "35",
+    "55"
+   ],
+   "answer": 0
+  }
+ ]
+}

@@ -1,0 +1,506 @@
+{
+ "title": "6-sinf · Ilova. Tarixiy atamalar lug'ati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qadimgi Yunoniston shaharlarida xalq yig'inlari joyi, markaziy maydon qanday atalgan?",
+   "options": [
+    "Akropol",
+    "Agora",
+    "Termalar",
+    "Polis"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Akveduk nima?",
+   "options": [
+    "Qadimgi Rim shahridagi jamoat hammomlari majmuasi",
+    "Tepasida ibodatxonasi bo'lgan zinapoyali inshoot",
+    "Shaharga suv keladigan, ustida anhori bo'lgan baland ko'prik",
+    "Tomoshabinlar o'tiradigan tomsiz katta inshoot"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ispaniyadagi so'nggi paleolitga oid rasmlar topilgan g'or qaysi?",
+   "options": [
+    "Kromanyon",
+    "Teshiktosh",
+    "Altamir",
+    "Neandertal"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amfiteatr deb nimaga aytilgan?",
+   "options": [
+    "Xalq yig'inlari o'tkaziladigan markaziy maydonga",
+    "Shaharga suv keltiradigan baland ko'prik inshootiga",
+    "Odamlar xudolarga sig'inadigan muqaddas binoga",
+    "Sahna atrofida tomoshabinlar o'tiradigan tomsiz katta inshootga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Insonni qurshab turgan muhitda jonlar va ruhlarning mavjudligiga ishonish qanday ataladi?",
+   "options": [
+    "Buddaviylik",
+    "Animizm",
+    "Fetishizm",
+    "Totemizm"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Antik” so'zi qaysi tildan olingan va qanday ma'noni anglatadi?",
+   "options": [
+    "Yunoncha, “qadimgi”",
+    "Lotincha, “qadimgi”",
+    "Lotincha, “hukmdor”",
+    "Yunoncha, “shahar”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Aramey yozuvi haqidagi to'g'ri ma'lumotni toping.",
+   "options": [
+    "Arameylar tomonidan yaratilgan, 20 ta harfdan iborat bo'lgan",
+    "Shumerlar tomonidan yaratilgan, 24 ta harfdan iborat bo'lgan",
+    "Arameylar tomonidan yaratilgan, 30 ta harfdan iborat bo'lgan",
+    "Misrliklar tomonidan yaratilgan, 20 ta harfdan iborat bo'lgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darslik lug'atiga ko'ra, arxeologiyaning yana bir nomi qaysi?",
+   "options": [
+    "Qadimshunoslik",
+    "Elshunoslik",
+    "Odamshunoslik",
+    "Manbashunoslik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lug'atga ko'ra, arxeologiya qanday fan?",
+   "options": [
+    "Suyak qoldiqlarini o'rganib, qadimgi odam qiyofasini tiklovchi fan",
+    "Ashyoviy manbalarni o'rganib, ular bo'yicha o'tmishni qayta tiklovchi fan",
+    "Qadimgi yozuvlarni o'qib, ularni tarjima qiluvchi fan",
+    "Hozirgi xalqlarning urf-odatlari va turmushini o'rganuvchi fan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buddaviylikka qachon, qayerda va kim tomonidan asos solingan?",
+   "options": [
+    "Mil. avv. III asrda Hindistonda Ashoka tomonidan",
+    "Mil. avv. VI asrda Hindistonda Siddhartha Gautama tomonidan",
+    "Mil. avv. VI asrda Xitoyda Konfutsiy tomonidan",
+    "Mil. avv. VI asrda Eronda Zardusht tomonidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Falanga nima?",
+   "options": [
+    "Yengil qurollangan otliq askarlarning 3 qator saf tortishi",
+    "Og'ir qurollangan askarlarning odatda 9 yoki 16 qator saf tortishi",
+    "Kamonchilar va otliqlarning aralash tartibda saf tortishi",
+    "Og'ir qurollangan piyoda askarlarning yagona qator saf tortishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Falsafa” so'zini tashkil etgan “filo” va “sofiya” qanday ma'noni anglatadi?",
+   "options": [
+    "“sevish” va “haqiqat”",
+    "“bilim” va “haqiqat”",
+    "“donishmandlik” va “sevish”",
+    "“sevish” va “donishmandlik”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Fir'avn” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Umumiy ish”",
+    "“Muqaddas bitiklar”",
+    "“Ulug' xonadon”",
+    "“Oqsoqollar kengashi”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi Yunoniston va yunon-makedon armiyalarining og'ir qurollangan piyoda jangchisi qanday atalgan?",
+   "options": [
+    "Goplit",
+    "Gladiator",
+    "Legioner",
+    "Metek"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Imperator unvoni haqidagi to'g'ri fikrni toping.",
+   "options": [
+    "Rimda dastlab faxriy harbiy unvon, keyinchalik mutlaq hukmdor unvoni bo'lgan",
+    "Yunon polislarida xalq yig'ini saylaydigan sarkardaning unvoni bo'lgan",
+    "Misrdagi ilk kichik davlatlar hukmdorlariga berilgan unvon bo'lgan",
+    "Rimda har yili saylanadigan ikki nafar oliy mansabdorning unvoni bo'lgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lug'atga ko'ra, imperiya qanday davlat?",
+   "options": [
+    "Hukmdorning cheklanmagan hokimiyati joriy etilgan, ko'p xalqlarni bo'ysundirgan davlat",
+    "Nomarxlar boshqargan, Nil bo'yidagi ilk kichik davlat",
+    "Har yili saylanadigan ikki konsul va senat boshqaradigan davlat",
+    "Shahar va unga tutash yerlardan iborat kichik mustaqil davlat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Apennin yarimorolida istiqomat qilgan qadimiy qabilalar qanday atalgan?",
+   "options": [
+    "Italiklar",
+    "Axeylar",
+    "Arameylar",
+    "Gallar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Iyerogliflar” atamasi haqidagi to'g'ri fikrni toping.",
+   "options": [
+    "Rimliklar shumerlar yozuvini shunday atashgan; “loy bitiklar” degani",
+    "Yunonlar misrliklar yozuvini shunday atashgan; “muqaddas bitiklar” degani",
+    "Misrliklar o'z yozuvini shunday atashgan; “ulug' xonadon” degani",
+    "Xitoyliklar o'z yozuvini shunday atashgan; “tasvirli belgi” degani"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Lug'atga ko'ra, Rimdagi eng baland tepalik qaysi?",
+   "options": [
+    "Parnas tepaligi",
+    "Kapitoliy tepaligi",
+    "Akropol tepaligi",
+    "Olimp tepaligi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kohinlar kimlar?",
+   "options": [
+    "Afinada yashovchi chet elliklar",
+    "Rimning qadimgi tub aholisi",
+    "Misrdagi ilk davlatlar hukmdorlari",
+    "Ibodatxona ruhoniylari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Koloniyalar deb nimaga aytilgan?",
+   "options": [
+    "Rimga ko'chib kelgan odamlar va ularning avlodlariga",
+    "O'z yurtini tark etganlar yangi yerlarda asos solgan manzilgoh va shaharlarga",
+    "Imperiya tarkibiga majburan qo'shib olingan qabilalarga",
+    "Misrda Nil bo'yida vujudga kelgan ilk kichik davlatlarga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Konsul lavozimi haqidagi to'g'ri fikrni toping.",
+   "options": [
+    "Afinada har yili o'nta konsul saylanib, flotga rahbarlik qilgan",
+    "Rimda har besh yilda bitta konsul saylanib, faqat armiyani boshqargan",
+    "Rimda har yili ikki konsul saylanib, Senat va armiyaga rahbarlik qilgan",
+    "Misrda fir'avn tayinlagan konsul nomlarni boshqargan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kromanyon odami nomi qayerdan kelib chiqqan?",
+   "options": [
+    "Uning suyaklari dastlab topilgan Fransiyadagi joy nomidan",
+    "Uning suyaklarini birinchi topgan olimning familiyasidan",
+    "Uning suyaklari dastlab topilgan Germaniyadagi vodiy nomidan",
+    "Uning rasmlari topilgan Ispaniyadagi g'or nomidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lojuvard nima?",
+   "options": [
+    "Mis va qalay qotishmasi",
+    "Ko'k rangdagi tabiiy tosh, ma'dan",
+    "Yozuv materiali tayyorlanadigan qamish",
+    "Qizil rangli yumshoq metall"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Afinada yashovchi chet ellik qanday atalgan?",
+   "options": [
+    "Plebey",
+    "Goplit",
+    "Metek",
+    "Patritsiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Neandertal odam haqidagi to'g'ri ma'lumotni toping.",
+   "options": [
+    "Ilk paleolitda yashagan, suyaklari Afrikadagi daradan topilgan",
+    "O'rta paleolitda yashagan, suyaklari Germaniyadagi vodiydan topilgan",
+    "O'rta paleolitda yashagan, suyaklari Ispaniyadagi g'ordan topilgan",
+    "So'nggi paleolitda yashagan, suyaklari Fransiyadagi joydan topilgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Misrdagi ilk davlatlar qanday atalgan?",
+   "options": [
+    "Koloniyalar",
+    "Satrapliklar",
+    "“Nom”lar",
+    "Polislar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nomarx kim bo'lgan?",
+   "options": [
+    "Afina polisida xalq yig'ini saylagan rahbar",
+    "Qadimgi Misrdagi ibodatxona ruhoniylarining boshlig'i",
+    "Qadimgi Misrdagi ilk davlat – nomning hukmdori",
+    "Yagona Misr davlatining oliy harbiy sarkardasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Papirus nima?",
+   "options": [
+    "Poyasi yozuv materiali tayyorlash uchun ishlatiladigan qamish",
+    "Hayvon terisidan tayyorlangan yupqa yozuv materiali",
+    "Ko'k rangli tabiiy tosh va undan olingan bo'yoq",
+    "Mesopotamiyada yozuv uchun ishlatilgan loy taxtacha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Patritsiylar va plebeylar haqidagi to'g'ri fikrni toping.",
+   "options": [
+    "Patritsiylar – Afinadagi chet elliklar, plebeylar – Rimdagi qullar",
+    "Patritsiylar – ibodatxona ruhoniylari, plebeylar – Rim legionerlari",
+    "Patritsiylar – Rimning tub aholisi, plebeylar – Rimga ko'chib kelganlar avlodi",
+    "Plebeylar – Rimning tub aholisi, patritsiylar – Rimga ko'chib kelganlar avlodi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Piramida nima?",
+   "options": [
+    "Tepasida ibodatxonasi bo'lgan zinapoyali inshoot",
+    "Piramidalarni qo'riqlovchi ulkan haykal",
+    "Tomoshabinlar uchun qurilgan tomsiz inshoot",
+    "Mahobatli tosh inshoot, fir'avnlar maqbarasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yunoncha “polis” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Hukmdor”",
+    "“Shahar”",
+    "“Umumiy ish”",
+    "“Qadimgi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Respublika” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Oqsoqollar kengashi”",
+    "“Xalq hokimiyati”",
+    "“Umumiy ish”",
+    "“Shahar”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Senat” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Ulug' xonadon”",
+    "“Umumiy ish”",
+    "“Xalq yig'ini”",
+    "“Oqsoqollar kengashi”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kanallar va ariqlar yordamida ekinlarni sug'orish qanday ataladi?",
+   "options": [
+    "Ko'chma dehqonchilik",
+    "Lalmikorlik",
+    "Sun'iy sug'orish",
+    "Terrasa dehqonchiligi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sfinks qanday mavjudot sifatida tasvirlangan?",
+   "options": [
+    "Tanasi sherniki, boshi insonniki bo'lgan, piramidalarni qo'riqlovchi haykal",
+    "Tanasi otniki, boshi insonniki bo'lgan, ibodatxonani qo'riqlovchi haykal",
+    "Tanasi buqaniki, boshi burgutniki bo'lgan, saroyni qo'riqlovchi haykal",
+    "Tanasi insonniki, boshi lochinniki bo'lgan, quyosh xudosi haykali"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Termalar nima?",
+   "options": [
+    "Qadimgi Rimdagi xalq yig'inlari maydonlari",
+    "Qadimgi Rimdagi gladiatorlar maktablari",
+    "Qadimgi Rim shahriga suv keltiruvchi ko'priklar",
+    "Qadimgi Rim shahridagi jamoat hammomlari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Varvar” so'zi DASTLAB kimga nisbatan ishlatilgan?",
+   "options": [
+    "Yunon tilida so'zlashmaydigan har qanday chet mamlakatlik kishiga",
+    "Rimga boshqa yerlardan ko'chib kelgan odamlar va avlodlariga",
+    "Afinada doimiy yashab, savdo bilan shug'ullangan chet elliklarga",
+    "Faqat madaniylashmagan, yovvoyi turmush kechiruvchi odamlarga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lug'atga ko'ra, sivilizatsiyaning yuksak darajasi nimalarda namoyon bo'ladi?",
+   "options": [
+    "Shaharlar, yozuv va davlatlarning rivojlanishida",
+    "Ovchilik, termachilik va baliqchilikning rivojida",
+    "Urug', qabila va jamoalarning birlashishida",
+    "Tosh qurollar, olov va g'orlardan foydalanishda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Zikkurat qanday inshoot?",
+   "options": [
+    "Tepasida ibodatxonasi bo'lgan zinapoyali yirik va baland inshoot",
+    "Sahna atrofida o'rindiqlar bilan qurshalgan tomsiz inshoot",
+    "Shaharga suv keltiruvchi, ustida anhori bo'lgan baland inshoot",
+    "Fir'avnlar maqbarasi bo'lgan, to'rt qirrali silliq tosh inshoot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ibodatxona deb nimaga aytilgan?",
+   "options": [
+    "Xalq yig'inlari o'tkaziladigan shahar markazidagi maydonga",
+    "Hukmdor va uning oilasi yashaydigan mustahkam qal'a yoki saroyga",
+    "Fir'avnlar dafn etilgan mahobatli tosh inshoot yoki maqbaraga",
+    "Muqaddas deb e'lon qilingan, odamlar xudolarga sig'ingan bino yoki joyga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi juftlikda atama va uning ma'nosi to'g'ri berilgan?",
+   "options": [
+    "Fir'avn – “oqsoqollar kengashi”",
+    "Polis – “qadimgi”",
+    "Respublika – “umumiy ish”",
+    "Senat – “ulug' xonadon”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi juftlikda atama va uning izohi NOTO'G'RI berilgan?",
+   "options": [
+    "Metek – Rimning qadimgi tub aholisi",
+    "Termalar – Rimdagi jamoat hammomlari",
+    "Goplit – og'ir qurollangan piyoda jangchi",
+    "Kohinlar – ibodatxona ruhoniylari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi qatorda faqat Qadimgi Rimga oid atamalar berilgan?",
+   "options": [
+    "Nom, nomarx, fir'avn, papirus",
+    "Agora, goplit, metek, polis",
+    "Zikkurat, falanga, nom, buddaviylik",
+    "Konsul, senat, patritsiylar, termalar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi qatorda faqat Qadimgi Misrga oid atamalar berilgan?",
+   "options": [
+    "Zikkurat, Altamir, falanga, lojuvard",
+    "Nom, nomarx, papirus, sfinks",
+    "Agora, polis, metek, goplit",
+    "Konsul, plebeylar, akveduk, termalar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi qatorda faqat Qadimgi Yunonistonga oid atamalar berilgan?",
+   "options": [
+    "Senat, plebeylar, sfinks, akveduk",
+    "Konsul, termalar, italiklar, Kapitoliy",
+    "Agora, polis, metek, goplit",
+    "Nom, nomarx, papirus, piramida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kromanyon va neandertal odamlari nomlari qanday kelib chiqqan?",
+   "options": [
+    "Ular yashagan tosh davri bosqichlari nomidan",
+    "Ular yasagan mehnat qurollari nomidan",
+    "Ularning suyaklari dastlab topilgan joylar nomidan",
+    "Ularni birinchi o'rgangan olimlar familiyasidan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nAtama | Ma'nosi\nFir'avn | 1) ________\n2) ________ | “umumiy ish”\nSenat | 3) ________\na) “ulug' xonadon”; b) “hukmdor”; c) Respublika; d) Imperiya; e) “oqsoqollar kengashi”; f) “shahar”.",
+   "options": [
+    "1-b, 2-c, 3-e",
+    "1-a, 2-c, 3-f",
+    "1-a, 2-c, 3-e",
+    "1-a, 2-d, 3-e"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nAtama | Mazmuni | Qaysi o'lkaga oid\nMetek | A | Qadimgi Yunoniston\nB | jamoat hammomlari | Qadimgi Rim\nZikkurat | tepasida ibodatxonasi bo'lgan zinapoyali inshoot | C\n1) Mesopotamiya; 2) termalar; 3) ibodatxona ruhoniysi; 4) Afinada yashovchi chet ellik; 5) akveduk;\n6) Qadimgi Hindiston.",
+   "options": [
+    "A-4, B-2, C-6",
+    "A-4, B-2, C-1",
+    "A-4, B-5, C-1",
+    "A-3, B-2, C-1"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarixiy atamalarga oid to'g'ri hukmlarni aniqlang.\nI. Aramey yozuvi 30 ta harfdan iborat bo'lgan.\nII. Falanga – og'ir qurollangan askarlarning odatda 9 yoki 16 qator saf tortishi.\nIII. “Iyerogliflar” – “ulug' xonadon” ma'nosini anglatadi.\nIV. Kapitoliy – Rimdagi eng baland tepalik.",
+   "options": [
+    "II va IV",
+    "I va III",
+    "III va IV",
+    "I va II Ko'proq testlar va materiallar uchun Telegram kanalimiz: https://t.me/yoldashaliisakov Tuzuvchi: Yo'ldashali Isaqov, tarix fani o'qituvchisi"
+   ],
+   "answer": 0
+  }
+ ]
+}

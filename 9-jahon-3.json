@@ -1,0 +1,656 @@
+{
+ "title": "9-sinf · 3-mavzu. Gumanizm va Yangi davr madaniyati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“Antik” so'zi qaysi tildan olingan?",
+   "options": [
+    "Italyanchadan",
+    "Fransuzchadan",
+    "Lotinchadan",
+    "Yunonchadan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Antik” so'zi kelib chiqqan “antiquitas” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Antiqa”",
+    "“Qadimgi”",
+    "“Ulug'vor”",
+    "“Qadrli”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Antik davr” deganda qaysi sivilizatsiyalar tushuniladi?",
+   "options": [
+    "Qadimgi Yunoniston sivilizatsiyasi",
+    "Qadimgi Rim sivilizatsiyasi",
+    "Qadimgi yunon-rim sivilizatsiyasi",
+    "Qadimgi Mesopotamiya va Misr sivilizatsiyasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'rta asrlarda Yevropada fan va adabiyot tili qaysi til bo'lgan?",
+   "options": [
+    "Lotin tili",
+    "Yunon tili",
+    "Sanskrit tili",
+    "German tili"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Gumanist” so'zi kelib chiqqan “humanus” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "Dunyoviy",
+    "Insoniy",
+    "Ilohiy",
+    "Haqqoniy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi asrga kelib ko'plab ruhoniylar va hatto Rim papalari ham gumanizm g'oyalari bilan qiziqib, gumanistlarga o'z fikrlarini erkin bayon qilish imkonini bergan?",
+   "options": [
+    "XIII asrga",
+    "XIV asrga",
+    "XV asrga",
+    "XVI asrga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Gumanizm qachon paydo bo'lgan?",
+   "options": [
+    "XII–XIII asrlarda",
+    "XIII–XIV asrlarda",
+    "XIV–XV asrlarda",
+    "XV–XVI asrlarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Gumanizm qayerda paydo bo'lgan?",
+   "options": [
+    "Italiya",
+    "Ispaniya",
+    "Fransiya",
+    "Germaniya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tomas Mor qaysi davlat qirolining birinchi vaziri bo'lgan?",
+   "options": [
+    "Angliya",
+    "Portugaliya",
+    "Gollandiya",
+    "Prussiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tomas Mor qaysi yillarda yashagan?",
+   "options": [
+    "1564–1616-yillarda",
+    "1478–1535-yillarda",
+    "1452–1519-yillarda",
+    "1547–1616-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Utopiya” asari muallifi kim?",
+   "options": [
+    "Fransua Rable",
+    "Migel de Servantes",
+    "Uilyam Shekspir",
+    "Tomas Mor"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Utopiya” so'zining ma'nosi nima?",
+   "options": [
+    "“Quyoshi botmas yer”",
+    "“Inson qadrlanadigan yer”",
+    "“Mavjud bo'lmagan yer”",
+    "“Orzu qilinadigan yer”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Uilyam Shekspir qaysi millatga mansub bo'lgan?",
+   "options": [
+    "Nemis",
+    "Ingliz",
+    "Italyan",
+    "Ispan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Uilyam Shekspir qaysi yillarda yashagan?",
+   "options": [
+    "1564–1616-yillarda",
+    "1478–1535-yillarda",
+    "1452–1519-yillarda",
+    "1547–1616-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kim “Inson — tabiatning ajoyib mo'jizasi”, deb hisoblagan?",
+   "options": [
+    "Fransua Rable",
+    "Migel de Servantes",
+    "Uilyam Shekspir",
+    "Tomas Mor"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kim insonlarni o'rab turgan olamni teatr, odamlarni esa aktyorlar deb tasavvur qilgan?",
+   "options": [
+    "Fransua Rable",
+    "Migel de Servantes",
+    "Uilyam Shekspir",
+    "Tomas Mor"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Otello”, “Hamlet”, “Qirol Lir”, “Romeo va Julyetta” asarlari muallifi kim?",
+   "options": [
+    "Uilyam Shekspir",
+    "Fransua Rable",
+    "Migel de Servantes",
+    "Tomas Mor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Migel de Servantes qaysi millatga mansub bo'lgan?",
+   "options": [
+    "Nemis",
+    "Ingliz",
+    "Italyan",
+    "Ispan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Migel de Servantes qaysi yillarda yashagan?",
+   "options": [
+    "1564–1616-yillarda",
+    "1478–1535-yillarda",
+    "1452–1519-yillarda",
+    "1547–1616-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Don Kixot” asari asari muallifi kim?",
+   "options": [
+    "Uilyam Shekspir",
+    "Migel de Servantes",
+    "Fransua Rable",
+    "Tomas Mor"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Uilyam Shekspir asarlari sahnalashtirilgan “Globus” teatri qaysi yillarda faoliyat yuritgan?",
+   "options": [
+    "1599–1644-yillarda",
+    "1596–1641-yillarda",
+    "1592–1637-yillarda",
+    "1603–1648-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Uilyam Shekspir asarlari sahnalashtirilgan “Globus” teatri qaysi shaharda faoliyat yuritgan?",
+   "options": [
+    "Manchester",
+    "Liverpul",
+    "London",
+    "Birmingem"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Uilyam Shekspir asarlari sahnalashtirilgan “Globus” teatrining yog'ochdan yasalgan binosi qachon yonib ketgan va g'ishtdan qayta qurilgan?",
+   "options": [
+    "XVI asr oxirlarida",
+    "XVII asr boshlarida",
+    "XVII asr o'rtalarida",
+    "XVII asr oxirlarida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Uilyam Shekspir asarlari sahnalashtirilgan “Globus” teatri binosi qachon ingliz parlamentining qaroriga binoan buzib tashlangan?",
+   "options": [
+    "1644-yilda",
+    "1641-yilda",
+    "1637-yilda",
+    "1648-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Leonardo da Vinchi qayerlik bo'lgan?",
+   "options": [
+    "Ispaniyalik",
+    "Italiyalik",
+    "Portugaliyalik",
+    "Gollandiyalik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Leonardo da Vinchi qaysi yillarda yashagan?",
+   "options": [
+    "1564–1616-yillarda",
+    "1478–1535-yillarda",
+    "1452–1519-yillarda",
+    "1547–1616-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Leonardo da Vinchi bir vaqtning o'zida … edi. 1) rassom; 2) shoir; 3) me'mor; 4) haykaltarosh; 5) musiqachi; 6) ixtirochi.",
+   "options": [
+    "1, 2, 5",
+    "2, 3, 4, 5",
+    "2, 3, 4, 5, 6",
+    "1, 2, 3, 4, 5, 6"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Leonardo da Vinchi qaysi san'atni “san'atlar malikasi” deb atagan?",
+   "options": [
+    "Rasm chizish",
+    "Haykal yasash",
+    "Musiqa chalish",
+    "She'r yozish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Chaqaloq ko'targan Madonna”, “Mona Liza” (“Jokonda”) kartinalari muallifi kim?",
+   "options": [
+    "Rafael Santi",
+    "Leonardo da Vinchi",
+    "Mikelanjelo Buonarroti",
+    "Rembrandt"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“U shunchalar yoqimliki, suratni ko'rib insoniylikdan ko'ra ko'proq ilohiy oziq olasan”, deb qaysi asar haqida o'sha davr tarixchilaridan biri yozgan?",
+   "options": [
+    "“Chaqaloq ko'targan Madonna”",
+    "“Mona Liza”",
+    "“Sikstin madonnasi”",
+    "“Madonna Benua”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rafael Santi qayerlik bo'lgan?",
+   "options": [
+    "Ispaniyalik",
+    "Portugaliyalik",
+    "Italiyalik",
+    "Gollandiyalik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rafael Santi qaysi yillarda yashagan?",
+   "options": [
+    "1478–1535-yillarda",
+    "1473–1543-yillarda",
+    "1475–1564-yillarda",
+    "1483–1520-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rafael Santi necha yil umr ko'rgan?",
+   "options": [
+    "31 yil",
+    "35 yil",
+    "37 yil",
+    "42 yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Sikstin madonnasi” kartinasi muallifi kim?",
+   "options": [
+    "Rafael Santi",
+    "Leonardo da Vinchi",
+    "Mikelanjelo Buonarroti",
+    "Rembrandt"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rembrandt qayerlik bo'lgan?",
+   "options": [
+    "Ispaniyalik",
+    "Portugaliyalik",
+    "Italiyalik",
+    "Gollandiyalik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Adashgan o'g'ilning qaytishi” kartinasi muallifi kim?",
+   "options": [
+    "Rafael Santi",
+    "Leonardo da Vinchi",
+    "Mikelanjelo Buonarroti",
+    "Rembrandt"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mikelanjelo Buonarroti qayerlik bo'lgan?",
+   "options": [
+    "Italiyalik",
+    "Ispaniyalik",
+    "Portugaliyalik",
+    "Gollandiyalik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mikelanjelo Buonarroti qaysi yillarda yashagan?",
+   "options": [
+    "1478–1535-yillarda",
+    "1473–1543-yillarda",
+    "1475–1564-yillarda",
+    "1483–1520-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Tiriklikdan, borliqdan ko'ra, San'atning qismati buyukdir har dam, Uni yenga olmas, o'lim ham, vaqt ham”. Ushbu she'r muallifi kim?",
+   "options": [
+    "Rafael Santi",
+    "Mikelanjelo Buonarroti",
+    "Leonardo da Vinchi",
+    "Rembrandt"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“David” haykali muallifi kim?",
+   "options": [
+    "Rafael Santi",
+    "Mikelanjelo Buonarroti",
+    "Leonardo da Vinchi",
+    "Rembrandt"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Injil rivoyatlariga ko'ra, yosh yigit David dahshatli devsifat … bilan jangga tushishga jur'at qilgan.",
+   "options": [
+    "Goliaf",
+    "Leviafan",
+    "Serafim",
+    "Gavril"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Injil rivoyatlariga ko'ra, dahshatli devsifat jangchi bilan jangga tushishga jur'at qilgan yosh yigit Davidning kasbi nima bo'lgan?",
+   "options": [
+    "Hunarmand",
+    "Cho'pon",
+    "Dehqon",
+    "Jangchi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Injil rivoyatlariga ko'ra, yosh yigit David dahshatli devsifat jangchini nima bilan o'ldirgan?",
+   "options": [
+    "Nayza",
+    "Qilich",
+    "Kamon o'qi",
+    "Palaxmon toshi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "David haykalini Mikelanjelo necha yoshida yaxlit marmar toshdan yasagan?",
+   "options": [
+    "24 yoshida",
+    "26 yoshida",
+    "28 yoshida",
+    "30 yoshida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mikelanjeloning David haykali balandligi – … metr, og'irligi – … tonna.",
+   "options": [
+    "3,2/3,7",
+    "4,2/4,7",
+    "5,2/5,7",
+    "6,2/6,7"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nikolay Kopernik qaysi millatga mansub bo'lgan?",
+   "options": [
+    "Italyan",
+    "Slovak",
+    "Venger",
+    "Polyak"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nikolay Kopernik qaysi yillarda yashagan?",
+   "options": [
+    "1478–1535-yillarda",
+    "1473–1543-yillarda",
+    "1475–1564-yillarda",
+    "1483–1520-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nikolay Kopernik necha yil davomida osmon jismlarini kuzatib, Yer Quyosh atrofida va o'z o'qi atrofida aylanadi, degan xulosaga kelgan?",
+   "options": [
+    "10 yil",
+    "20 yil",
+    "30 yil",
+    "40 yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jordano Bruno qaysi millatga mansub bo'lgan?",
+   "options": [
+    "Italyan",
+    "Slovak",
+    "Venger",
+    "Polyak"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jordano Bruno qaysi yillarda yashagan?",
+   "options": [
+    "1564–1642-yillarda",
+    "1548–1600-yillarda",
+    "1642–1727-yillarda",
+    "1632–1704-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi olim olam abadiy mavjud, u hech qachon yo'q bo'lmaydi, degan xulosani dadil ilgari surgan, olamning cheksizligi va abadiyligi haqidagi nazariyani yaratgan?",
+   "options": [
+    "Isaak Nyuton",
+    "Galileo Galiley",
+    "Nikolay Kopernik",
+    "Jordano Bruno"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi olim cherkov tomonidan gulxanda yoqishga hukm qilingan?",
+   "options": [
+    "Isaak Nyuton",
+    "Galileo Galiley",
+    "Nikolay Kopernik",
+    "Jordano Bruno"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Galileo Galiley qayerlik bo'lgan?",
+   "options": [
+    "Italiyalik",
+    "Ispaniyalik",
+    "Portugaliyalik",
+    "Gollandiyalik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Galileo Galiley qaysi yillarda yashagan?",
+   "options": [
+    "1564–1642-yillarda",
+    "1548–1600-yillarda",
+    "1642–1727-yillarda",
+    "1632–1704-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Galileo Galiley kimning ta'limotini davom ettirgan?",
+   "options": [
+    "Jordano Bruno",
+    "Isaak Nyuton",
+    "Nikolay Kopernik",
+    "Jon Lokk"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi olim geliotsentrik nazariyaga asos solgan?",
+   "options": [
+    "Isaak Nyuton",
+    "Galileo Galiley",
+    "Nikolay Kopernik",
+    "Jordano Bruno"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi olim yevropalik olimlar orasida birinchi bo'lib osmon jismlarini teleskop yordamida kuzatgan?",
+   "options": [
+    "Isaak Nyuton",
+    "Galileo Galiley",
+    "Nikolay Kopernik",
+    "Jordano Bruno"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Isaak Nyuton qaysi millatga mansub bo'lgan?",
+   "options": [
+    "Nemis",
+    "Fransuz",
+    "Ingliz",
+    "Italyan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Isaak Nyuton qaysi yillarda yashagan?",
+   "options": [
+    "1564–1642-yillarda",
+    "1548–1600-yillarda",
+    "1642–1727-yillarda",
+    "1632–1704-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi olim mexanika va astronomiyaning nazariy asoslarini yaratgan, butun olam tortishish qonunini ishlab chiqqan, ko'zguli teleskopni kashf qilgan?",
+   "options": [
+    "Isaak Nyuton",
+    "Galileo Galiley",
+    "Nikolay Kopernik",
+    "Jordano Bruno"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jon Lokk qaysi millatga mansub bo'lgan?",
+   "options": [
+    "Nemis",
+    "Fransuz",
+    "Ingliz",
+    "Italyan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jon Lokk qaysi yillarda yashagan?",
+   "options": [
+    "1564–1642-yillarda",
+    "1548–1600-yillarda",
+    "1642–1727-yillarda",
+    "1632–1704-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi faylasuf olim insonning tabiiy huquqlari: yashash, erkinlik va mulk huquqlari haqidagi ta'limotni yaratgan, shuningdek, hokimiyatni bo'lish – ijro hokimiyatini qonun chiqaruvchi hokimiyatdan ajratish haqidagi ta'limotni ham ishlab chiqqan?",
+   "options": [
+    "Tomas Mor",
+    "Jon Lokk",
+    "Isaak Nyuton",
+    "Frensis Bekon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rassomlar qaysi olimni, ko'pincha, olma bilan tasvirlashgan?",
+   "options": [
+    "Isaak Nyuton",
+    "Galileo Galiley",
+    "Nikolay Kopernik",
+    "Jordano Bruno"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi olim ko'plab ixtirolarning loyihalarini chizib qoldirgan va ba'zi oldindan mavjudlarini takomillashtirgan?",
+   "options": [
+    "Isaak Nyuton",
+    "Galileo Galiley",
+    "Jordano Bruno",
+    "Leonardo da Vinchi"
+   ],
+   "answer": 3
+  }
+ ]
+}

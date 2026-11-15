@@ -1,0 +1,206 @@
+{
+ "title": "7-sinf · Etnik jarayonlar va o'zbek xalqining shakllanishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "O'zbeklar alohida etnik birlik (elat) bo'lib, shakllangan mintaqalarga kirmaydigan hududni belgilang.",
+   "options": [
+    "Movarounnahr",
+    "Yettisuv",
+    "Xuroson",
+    "Sharqiy Turkiston"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ular qadimdan o'troq yashab, quyidagi qaysi sohalar bilan shug'ullanib kelganligini toping. 1) sug'orma dehqonchilik 2) Savdo-sotiq 3) chorvachilik 4) hunarmandchilik",
+   "options": [
+    "1 va 2",
+    "2 va 4",
+    "1 va 4",
+    "2 va 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbek xalqini tashkil etgan etnoslarga nomuvofiq bo'lgan javobni belgilang.",
+   "options": [
+    "sug'diylar",
+    "massagetlar",
+    "turklar",
+    "baqtriyaliklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi daryolar oralig'ida yashagan qabila va elatlarning etnik jihatdan aralashuv jarayoni natijasida o'troq hayotga moslashgan turkiy hududiy maydon, o'zbek xalqiga xos antropologik qiyofa shakllanganligini toping. 1) Amudaryo 2) Sirdaryo 3) Zarafshon 4) Orol dengizi",
+   "options": [
+    "1 va 2",
+    "2 va 4",
+    "3 va 4",
+    "1 va 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Berilgan voqealardan qaysi biri boshqalariga nisbatan oldinroq sodir bo'lgan?",
+   "options": [
+    "o'zbek xalqi shakllanishi",
+    "arab va boshqa xalqlarining O'rta Osiyoga kirib kelishi",
+    "Movarounnahr mintaqasida yaxlit turkiy etnik qatlam, turkiy til muhiti vujudga kela boshladi",
+    "o'lkamiz «Turkiston» nomi bilan atala boshlangan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'zbeklar alohida etnik birlik (elat) bo'lib, quyidagi qaysi mintaqalarida shakllangan? 1) Movarounnahr 2) Yettisuv 3) Sharqiy Turkiston 4) Xuroson 5) Xorazm 6) Balx 7) Marv",
+   "options": [
+    "1, 2, 3, 5, 7",
+    "2, 4, 5, 7",
+    "1, 2, 3, 5",
+    "4, 5, 6, 7"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Movarounnahrda joylashgan aholi quyidagi qaysi tillarda so'zlashganligini toping. 1) sug'd 2) arab 3) fors 4) turk",
+   "options": [
+    "1, 2, 3, 4",
+    "1, 2, 4",
+    "1, 4",
+    "faqat 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbek xalqining asosini quyidagi qaysi vakillar tashkil etganligini toping. 1) dehqon 2) savdogar 3) ziroatkor 4) chorvador 5) hunarmand",
+   "options": [
+    "1 va 2",
+    "3 va 4",
+    "4 va 5",
+    "1 va 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Movarounnahrda joylashgan aholi nechta tilda so'zlashganligini aniqlang.",
+   "options": [
+    "2 til",
+    "3 til",
+    "4 til",
+    "5 til"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nechanchi asrlarga kelib o'zbek xalqi shakllanganligini toping.",
+   "options": [
+    "IX-XII asrlar",
+    "X-XII asrlar",
+    "IX-XI asrlar",
+    "IX-XIII asrlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nuqtalar o'rniga quyidagilardan mos javobni toping. ... asarlarda bu madaniyat «Qovunchi madaniyati» nomini olgan.",
+   "options": [
+    "antropologlar",
+    "arxeologlar",
+    "etnograflar",
+    "lingvistlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "«etnos» so'zi qaysi tildan olingan va nima degan ma'noni anglatishini aniqlang.",
+   "options": [
+    "lotincha, «davlat»",
+    "yunoncha, «olamon»",
+    "forscha, «xalq»",
+    "yunoncha, «xalq»"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'lkamiz qachondan boshlab «Turkiston» nomi bilan atala boshlaganligini toping.",
+   "options": [
+    "VI asr",
+    "VII asr",
+    "VIII asr",
+    "V asr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachondan boshlab arab va boshqa xalqlarining O'rta Osiyoga kirib kelishi mintaqadagi etnik jarayonlarga katta ta'sir etmagan?",
+   "options": [
+    "VI asrdan",
+    "VII asrdan",
+    "VIII asrdan",
+    "V asrdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xalqlarning kelib chiqish tarixi fanda nima deb atalganligini toping.",
+   "options": [
+    "etnogeneziya",
+    "etnografiya",
+    "arxeologiya",
+    "antropologiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "VIII asrda boshlab arablar quyidagi qaysi hududga bostirib kirishgan?",
+   "options": [
+    "G'arbiy Osiyo",
+    "Janubi-Sharqiy Osiyo",
+    "Uzoq Sharq",
+    "O'rta Osiyo"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachonga kelib, Movarounnahr mintaqasida yaxlit turkiy etnik qatlam, turkiy til muhiti vujudga kela boshlaganligini toping.",
+   "options": [
+    "IX asrdan",
+    "X asrdan",
+    "XI asrdan",
+    "XII asrdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nuqtalar o'rniga mos javobni toping. ... davrida Movarounnahr va Xorazmda siyosiy hokimiyat turkiy sulolalarga o'tishi munosabati bilan sodir bo'lgan etnik jarayon o'zbek xalqining shakllanishida yakuniy bosqich bo'ldi.",
+   "options": [
+    "Saljuqiylar",
+    "Qoraxoniylar",
+    "Somoniylar",
+    "G'aznaviylar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nuqtalar o'rniga mos javobni aniqlang. ... davlati davrida turkiyzabon etnoslar ustuvorlik qilib, o'ziga xos uyg'unlashgan madaniyat yuzaga keladi.",
+   "options": [
+    "Kushon",
+    "Qang'",
+    "Xorazm",
+    "Baqtriya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi berilgan ma'lumotlardan noto'g'risini toping.",
+   "options": [
+    "Qang' davlati davrida turkiyzabon etnoslar ustuvorlik qilib, o'ziga xos uyg'unlashgan madaniyat yuzaga keladi",
+    "O'rta Osiyoning vodiy va vohalarida yashovchi aholi tashqi qiyofalarida hozirgi o'zbek va voha tojiklariga xos antropologik qiyofasi to'liq shakllandi",
+    "O'zbek xalqining asosini sug'diylar, baqtriylar, xorazmiylar, farg'onaliklar, shoshliklar va sak-massagetlar tashkil etgan",
+    "o'zbeklar qadimdan o'troq yashab, chorvachilik va dehqonchilik bilan shug'ullanib kelishgan"
+   ],
+   "answer": 3
+  }
+ ]
+}

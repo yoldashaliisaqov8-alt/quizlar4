@@ -1,0 +1,316 @@
+{
+ "title": "9-sinf · 22-mavzu. Qoraqalpoqlarning siyosiy tarixi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qoraqalpoq tili qaysi til guruhiga kiradi.",
+   "options": [
+    "O'g'uz turkiy tillari",
+    "Qarluq turkiy tillari",
+    "Qipchoq turkiy tillari",
+    "Uyg'ur-o'g'uz tillari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "X-XI asrlarda qoraqalpoqlar yashagan hududlar dastlab qaysi davlat tarkibiga kirgan.",
+   "options": [
+    "Xorazm",
+    "O'g'uz davlati",
+    "Mo'g'uliston",
+    "Rossiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "X-XI asrlarda qoraqalpoqlar yashagan hududlar keyinchalik qaysi davlat tarkibiga kirgan.",
+   "options": [
+    "Xorazm",
+    "O'g'uz davlati",
+    "Mo'g'uliston",
+    "Rossiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIII-XIV asrlarda qoraqalpoqlar qaysi davlat hukmronligi ostida bo'lgan.",
+   "options": [
+    "Xorazm",
+    "O'g'uz davlati",
+    "Mo'g'uliston",
+    "Rossiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrning ikkinchi yarmida qoraqalpoqlar qaysi davlat tarkibiga kiritilgan.",
+   "options": [
+    "Xorazm",
+    "O'g'uz davlati",
+    "Mo'g'uliston",
+    "Rossiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XVIII asrning 20-yillaridan boshlab qoraqalpoq xoni quyidagi qaysi davlat bilan yaqinlashish yo'llarini izlay boshladi.",
+   "options": [
+    "Xorazm",
+    "O'g'uz davlati",
+    "Mo'g'uliston",
+    "Rossiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraqalpoqlar quyidagi qaysi hududlar bilan savdo aloqalarini yanada kengaytirishdan manfaatdor edi.",
+   "options": [
+    "Qozon va Astraxan",
+    "Tatariston va Boshqirdiston",
+    "Sibir va Oltoy hududlari",
+    "Qrim va Kavkaz o'lkasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII asrning 20-yillari boshlarida quyidagi qaysi xalq tomonidan hujum xavfi nihoyatda kuchayadi.",
+   "options": [
+    "Qozoqlar",
+    "Qipchoqlar",
+    "Jung'orlar",
+    "Turkmanlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Eshmuhammadxon tomonidan Rossiyaga elchilar yuborilgan vaqtni aniqlang.",
+   "options": [
+    "1723-yil",
+    "1721-yil",
+    "1635-yil",
+    "1758-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi xalq qalmiqlar-g'arbiy mo'g'ullar nomi bilan atalgan.",
+   "options": [
+    "Qozoqlar",
+    "Qipchoqlar",
+    "Jung'orlar",
+    "Turkmanlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon jung'orlarning qoraqalpoqlar ustiga hujumi boshlanadi.",
+   "options": [
+    "1723-yil",
+    "1721-yil",
+    "1635-yil",
+    "1758-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jung'orlar davlati tashkil topgan vaqtni aniqlang.",
+   "options": [
+    "1723-yil",
+    "1721-yil",
+    "1635-yil",
+    "1758-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jung'orlar davlati Chin imperiyasi tomonidan tugatilgan vaqtni aniqlang.",
+   "options": [
+    "1723-yil",
+    "1721-yil",
+    "1635-yil",
+    "1758-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraqalpoqlar uchga bo'linib ketgach, ularning birinchi guruhi qayerga ko'chib o'tganligini aniqlang.",
+   "options": [
+    "O'rta Osiyoning keng dalalari",
+    "Xitoy va afg'onlar yurti",
+    "Quvondaryo atrofi",
+    "Hozirgi Qoraqalpog'iston respublikasi hududi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraqalpoqlar uchga bo'linib ketgach, ularning ikkinchi guruhi qayerdan boshpana topganligini aniqlang.",
+   "options": [
+    "O'rta Osiyoning keng dalalari",
+    "Xitoy va afg'onlar yurti",
+    "Quvondaryo atrofi",
+    "Hozirgi Qoraqalpog'iston respublikasi hududi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraqalpoqlar uchga bo'linib ketgach, ularning uchinchi guruhi qayerda yashab qolganini aniqlang.",
+   "options": [
+    "O'rta Osiyoning keng dalalari",
+    "Xitoy va afg'onlar yurti",
+    "Quvondaryo atrofi",
+    "Hozirgi Qoraqalpog'iston respublikasi hududi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyi qoraqalpoqlarning asosiy qismi quyidagi qaysi hududda joylashadilar.",
+   "options": [
+    "Sirdaryoning yuqori oqimi",
+    "Toshkent",
+    "Quvondaryo atrofi",
+    "Orol dengizi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyi qoraqalpoqlar o'lpon to'lab turgan davlat nomini aniqlang.",
+   "options": [
+    "Kichik Juz",
+    "Xiva xonligi",
+    "Jung'orlar",
+    "Rossiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachondan boshlab qoraqalpoqlar yana Rossiya bilan munosabatlarni qayta tiklashga harakat qiladi.",
+   "options": [
+    "1743-yil",
+    "1724-yil",
+    "1726-yil",
+    "1731-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qozoq xoni Abulxayrxon Peterburgga o'z elchilarini jo'natgan vaqtni aniqlang.",
+   "options": [
+    "1743-yil",
+    "1724-yil",
+    "1726-yil",
+    "1731-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rossiya M.Tevkelevni Abulxayrxon huzuriga yo'llagan vaqtni aniqlang.",
+   "options": [
+    "1743-yil",
+    "1724-yil",
+    "1726-yil",
+    "1731-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Botir Mamanbiy boshchiligida Peterburgga elchi yuborilgan vaqtni aniqlang.",
+   "options": [
+    "1743-yil",
+    "1724-yil",
+    "1726-yil",
+    "1731-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abulxayrxon qoraqalpoqlarning bir qismini qayerga ko'chishga majburlaydi.",
+   "options": [
+    "Sirdaryoning quyi oqimi",
+    "Talas daryosi bo'yi",
+    "Yangidaryo va Quvondaryo bo'ylari",
+    "Orolbo'yi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraqalpoqlarning asosiy qismi qaysi hududga ko'chib ketishga muvaffaq bo'ladi.",
+   "options": [
+    "Sirdaryoning quyi oqimi",
+    "Talas daryosi bo'yi",
+    "Yangidaryo va Quvondaryo bo'ylari",
+    "Orolbo'yi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Orolbo'yi o'zbeklari va qoraqalpoqlarni Xiva xonligi hokimiyatini tan olishga majbur etgan Xiva xonini aniqlang.",
+   "options": [
+    "Muhammad Amin",
+    "Eltuzarxon",
+    "Elbarsxon",
+    "Muhammad Rahimxon I"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1770-1790 yillarda hukmronlik qilgan hukmdorni aniqlang.",
+   "options": [
+    "Muhammad Amin",
+    "Eltuzarxon",
+    "Elbarsxon",
+    "Muhammad Rahimxon I"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kimning hukmronligi davrida qoraqalpoqlar ixtiyoriy ravishda Xiva xonligi fuqaroligiga o'ta boshlaydi.",
+   "options": [
+    "Muhammad Amin",
+    "Eltuzarxon",
+    "Elbarsxon",
+    "Muhammad Rahimxon I"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraqalpoqlar Xiva xonligiga to'la bo'ysundirilgan vaqtni aniqlang.",
+   "options": [
+    "1827-yil",
+    "1811-yil",
+    "1743-yil",
+    "1723-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oydo'stbiyni biylar biyi lavozimiga tayinlagan hukmdorni aniqlang.",
+   "options": [
+    "Muhammad Amin",
+    "Olloqullixon",
+    "Elbarsxon",
+    "Muhammad Rahimxon I"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi hukmdor davrida Oydo'stbiyga berilgan imtiyozlar bekor qilinadi.",
+   "options": [
+    "Muhammad Amin",
+    "Olloqullixon",
+    "Elbarsxon",
+    "Muhammad Rahimxon I"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oydo'stbiy boshchiligidagi qo'zg'alon boshlangan vaqtni aniqlang.",
+   "options": [
+    "1827-yil",
+    "1811-yil",
+    "1743-yil",
+    "1723-yil"
+   ],
+   "answer": 0
+  }
+ ]
+}

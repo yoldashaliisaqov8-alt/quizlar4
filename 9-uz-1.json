@@ -1,0 +1,436 @@
+{
+ "title": "9-sinf · 3-mavzu. Muhammad Shayboniyxon istilolari va Buxoro xonligining tashkil topishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Quyidagi shaxslardan qaysi biri Abulxayrxonning o'g'li hisoblanadi.",
+   "options": [
+    "Boyshayx",
+    "Sulton Ali Mirzo",
+    "Shohbudog' Sulton",
+    "Ubaydulla Sulton"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi shaxsning taxallusi \"Shohbaxt\" edi.",
+   "options": [
+    "Boyshayx",
+    "Sulton Ali Mirzo",
+    "Shohbudog' Sulton",
+    "Ubaydulla Sulton"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muhammad Shayboniy va Sulton Muhammadni voyaga yetkazgan shaxsni aniqlang.",
+   "options": [
+    "Boyshayx",
+    "Sulton Ali Mirzo",
+    "Shohbudog' Sulton",
+    "Ubaydulla Sulton"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muhammad Shayboniy va Sulton Muhammadni otasi kimligini aniqlang.",
+   "options": [
+    "Boyshayx",
+    "Sulton Ali Mirzo",
+    "Shohbudog' Sulton",
+    "Ubaydulla Sulton"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbek ulusi davlati qulagan vaqtni aniqlang.",
+   "options": [
+    "1480-yil",
+    "1468-yil",
+    "1499-yil",
+    "1500-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shayboniyxonning O'zbek ulusi davlatini qayta tiklagan vaqtni aniqlang.",
+   "options": [
+    "1480-yil",
+    "1468-yil",
+    "1499-yil",
+    "1500-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shayboniyxon qachon Jizzax va Samarqand orqali Qarshi va Shahrisabzgacha bosib boradi.",
+   "options": [
+    "1480-yil",
+    "1468-yil",
+    "1499-yil",
+    "1500-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shayboniyxon tomonidan 1499-yilda egallangan hududni aniqlang.",
+   "options": [
+    "Samarqand",
+    "Qarshi",
+    "Dashti Qipchoq",
+    "Buxoro"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sulton Ali Mirzo Samarqandni Shayboniyxonga jangsiz topshirgan vaqtni aniqlang.",
+   "options": [
+    "1480-yil",
+    "1468-yil",
+    "1499-yil",
+    "1500-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shayboniyxon tomonidan Buxoro shahri zabt etilgan vaqtni aniqlang.",
+   "options": [
+    "1480-yil",
+    "1468-yil",
+    "1499-yil",
+    "1500-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Zahiriddin Muhammad Bobur Samarqandni qaytarib olgan vaqtni aniqlang.",
+   "options": [
+    "1480-yil",
+    "1468-yil",
+    "1499-yil",
+    "1500-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qisqa vaqt ichida quyidagi qaysi hududlarda Boburning hokimiyati e'tirof etiladi.",
+   "options": [
+    "Jizzax va Samarqand",
+    "Qarshi va Shahrisabz",
+    "Samarqandning barcha tumanlari, Qarshi va G'uzor",
+    "Urganch, Balx, Hirot"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Shayboniyxon Toshkent xoni Mahmudxon, Bobur va qalmoqlarning birlashgan qo'shinini Sirdaryo bo'yida tor-mor qiladi.",
+   "options": [
+    "1503-yil",
+    "1510-yil",
+    "1511-yil",
+    "1512-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shayboniyxon 1505-1507 yillarda hokimiyatini o'rnatgan hududlarni aniqlang.",
+   "options": [
+    "Damg'on, Astrobod, Mashhad",
+    "Qarshi va Shahrisabz",
+    "Samarqandning barcha tumanlari, Qarshi va G'uzor",
+    "Urganch, Balx, Hirot"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shayboniyxon tomonidan keyingi ikki yil mobaynida egallangan hududlarni aniqlang.",
+   "options": [
+    "Damg'on, Astrobod, Mashhad",
+    "Qarshi va Shahrisabz",
+    "Samarqandning barcha tumanlari, Qarshi va G'uzor",
+    "Urganch, Balx, Hirot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shimolda Sirdaryodan, janubda Qandahorgacha, sharqda Xitoygacha, g'arbda Kaspiy dengizigacha bo'lgan hududlarni yagona davlatga birlashtirgan shaxsni aniqlang.",
+   "options": [
+    "Muhammad Shayboniyxon",
+    "Sulton Ali Mirzo",
+    "Shohbudog' Sulton",
+    "Ubaydulla Sulton"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Marv yaqinidagi jangda Shayboniyxon yengilgan va halok bo'lgan vaqtni aniqlang.",
+   "options": [
+    "1503-yil",
+    "1510-yil",
+    "1511-yil",
+    "1512-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bobur qachonga kelib shoh Ismoil bilan harbiy-siyosiy ittifoq tuzgan edi.",
+   "options": [
+    "1503-yil",
+    "1510-yil",
+    "1511-yil",
+    "1512-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1512-yilning bahorida Bobur tomonidan qo'lga kiritilgan hududni aniqlang.",
+   "options": [
+    "Buxoro",
+    "Hisor",
+    "Samarqand",
+    "Qarshi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1512-yilning yozida Bobur tomonidan qo'lga kiritilgan hududni aniqlang.",
+   "options": [
+    "Buxoro",
+    "Hisor",
+    "Samarqand",
+    "Qarshi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1512-yilning kuzida Bobur tomonidan qo'lga kiritilgan hududni aniqlang.",
+   "options": [
+    "Buxoro",
+    "Hisor",
+    "Samarqand",
+    "Qarshi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Zahiriddin Muhammad Bobur Ko'hi Malik jangida Ubaydulla Sulton boshliq qo'shinlardan yengiladi.",
+   "options": [
+    "1503-yil",
+    "1510-yil",
+    "1511-yil",
+    "1512-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Zahiriddin Muhammad Bobur Ubaydulla Sulton boshliq qo'shinlardan yengilgach quyidagi qaysi hududga chekinadi.",
+   "options": [
+    "Buxoro",
+    "Hisor",
+    "Samarqand",
+    "Qarshi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Bobur shoh Ismoil yuborgan Najmi Soniy laqabli lashkarboshi bilan uchrashadi.",
+   "options": [
+    "1503-yil",
+    "1510-yil",
+    "1511-yil",
+    "1512-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bobur shoh Ismoil yuborgan Najmi Soniy laqabli lashkarboshi bilan uchrashgan hududni aniqlang.",
+   "options": [
+    "Huzar",
+    "Qarshi",
+    "Balx",
+    "Buxoro"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Zahriddin Muhammad Bobur Amudaryodan kechib o'tgach, eng avval egallangan hududni aniqlang.",
+   "options": [
+    "Huzar",
+    "Qarshi",
+    "Balx",
+    "Buxoro"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Zahriddin Muhammad Boburga uzoq muddatli qamaldan so'ng taslim bo'lgan shaharni aniqlang.",
+   "options": [
+    "Huzar",
+    "Qarshi",
+    "Balx",
+    "Buxoro"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon G'ijduvon jangi bo'lib o'tadi va unda Bobur shayboniylardan yana yengiladi.",
+   "options": [
+    "1503-yil",
+    "1510-yil",
+    "1511-yil",
+    "1512-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ubaydullaxon qachondan boshlab davlatni boshqara boshlagan edi.",
+   "options": [
+    "1557-yil",
+    "1533-yil",
+    "1598-yil",
+    "1618-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ubaydullaxon davlat poytaxtini Samarqanddan Buxoroga ko'chirgan vaqtni aniqlang.",
+   "options": [
+    "1557-yil",
+    "1533-yil",
+    "1598-yil",
+    "1618-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buxoro xonligiga asos solingan vaqtni aniqlang.",
+   "options": [
+    "1557-yil",
+    "1533-yil",
+    "1598-yil",
+    "1618-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ubaydullaxonning o'limidan so'ng Buxoro taxtiga o'tirgan shaxsni aniqlang.",
+   "options": [
+    "Ko'chkunchixon",
+    "Abdulaziz",
+    "Abdulmo'min",
+    "Pirmuhammadxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Abdullaxon II o'z siyosiy yo'nalishini qachon Buxoroni qo'lga kiritishdan boshlagan edi.",
+   "options": [
+    "1557-yil",
+    "1533-yil",
+    "1598-yil",
+    "1618-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Olti oy hukmronlik qilgan Abdullaxon II ning o'g'lini aniqlang.",
+   "options": [
+    "Ko'chkunchixon",
+    "Abdulaziz",
+    "Abdulmo'min",
+    "Pirmuhammadxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abdullaxon II vafot etgan vaqtni aniqlang.",
+   "options": [
+    "1557-yil",
+    "1533-yil",
+    "1598-yil",
+    "1618-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shayboniylar sulolasining so'nggi vakilini aniqlang.",
+   "options": [
+    "Abdullaxon II",
+    "Abdulaziz",
+    "Abdulmo'min",
+    "Pirmuhammadxon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abdullaxon II ning kalxat bilan ovda aks etgan miniaturasi qachon ishlangan.",
+   "options": [
+    "1557-yil",
+    "1533-yil",
+    "1598-yil",
+    "1618-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi hukmdor \"Xon\" taxallusi bilan ijod qilgan.",
+   "options": [
+    "Abdullaxon II",
+    "Abdulaziz",
+    "Abdulmo'min",
+    "Pirmuhammadxon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hofiz Tanish Buxoriyning 1584-1589-yillarda yozilgan asarini aniqlang.",
+   "options": [
+    "\"Muzakkiri asbob\"",
+    "\"Abdullanoma\"",
+    "\"Haft iqlim\"",
+    "\"Tazkirati shuaro\""
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amin Ahmad Roziyning 1593-1594-yillarda yozilgan asarini belgilang.",
+   "options": [
+    "\"Muzakkiri asbob\"",
+    "\"Abdullanoma\"",
+    "\"Haft iqlim\"",
+    "\"Tazkirati shuaro\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mutribiyning 1593-1595 yillarda yozilgan va dunyo xaritasi ilova qilingan asarini belgilang.",
+   "options": [
+    "\"Muzakkiri asbob\"",
+    "\"Abdullanoma\"",
+    "\"Haft iqlim\"",
+    "\"Tazkirati shuaro\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hasanxo'ja Nisoriyning Abdullaxon II ga bag'ishlangan asarini aniqlang.",
+   "options": [
+    "\"Muzakkiri asbob\"",
+    "\"Abdullanoma\"",
+    "\"Haft iqlim\"",
+    "\"Tazkirati shuaro\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abdullaxon madrasasi qurilgan shaharni aniqlang.",
+   "options": [
+    "Samarqand",
+    "Qarshi",
+    "Balx",
+    "Buxoro"
+   ],
+   "answer": 3
+  }
+ ]
+}

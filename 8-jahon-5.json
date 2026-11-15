@@ -1,0 +1,436 @@
+{
+ "title": "8-sinf · Angliyada markazlashgan davlatning tashkil topishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Vilgelm I qayerlik ekanligini aniqlang.",
+   "options": [
+    "Burgundiya",
+    "Normandiya",
+    "Flandriya",
+    "Akvitaniya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bu davrda nafaqat Angliya, balki Yevropaning muhim savdo markaziga aylangan shaharni aniqlang.",
+   "options": [
+    "Nottingem",
+    "Manchester",
+    "London",
+    "Kenterberi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Angliyada guruh-guruh bo'lib zodagon, yepiskop, va amaldorlarga qarshi kurashganlarni xalq nima atagan.",
+   "options": [
+    "Erkin merganlar",
+    "Erkin dehqonlar",
+    "Dofinlar",
+    "Yomenlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachonga kelib xalq orasida kurashchi qahramonlarning qahramonligi, jasurligi va ajoyib sarguzashtlari haqida qo'shiqlar va balladalar to'qilgan edi.",
+   "options": [
+    "X-XII asrlarda",
+    "XII-XIV asrlarda",
+    "XII-XIII asrlarda",
+    "XIV-XV asrlarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mazlum ingliz xalqining sevimli qahramoni kim edi.",
+   "options": [
+    "Robin Gud",
+    "Gilyom Kal",
+    "Janna d'Ark",
+    "Simon de Monfor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hukmronligi davrida qirollik hokimiyati zaiflashib qolgan Richard I Sheryurak va Ioann kimning vorislari ekanligini aniqlang.",
+   "options": [
+    "Vilgelm I",
+    "Karl Jasur",
+    "Genrix II",
+    "Genrix I"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fransiyaning qaysi qiroli va Papa Innokentiy o'rtasida munosabatlar buziladi.",
+   "options": [
+    "Vilgelm I",
+    "Ioann",
+    "Genrix II",
+    "Genrix I"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fransiya qiroli va papa Innokentiy o'rtasidagi munosabatlarning buzilishiga qaysi graflik arxiyepiskopini saylash masalasi sabab bo'lgan edi.",
+   "options": [
+    "Nottingem",
+    "Manchester",
+    "London",
+    "Kenterberi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Papa Innokentiy III tomonidan cherkovdan quvilib, butun Angliyada ibodat qilishi taqiqlangan hukmdorni aniqlang.",
+   "options": [
+    "Vilgelm I",
+    "Ioann",
+    "Genrix II",
+    "Genrix I"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Taxtdan ayrilish xavfi ostida qolgan va aholining qo'llab-quvvatlashiga ko'zi yetmagan qirol taslim bo'lishga majbur bo'ladi. U o'zini papaning vassal deb tan olish va har yili uning xazinasiga ming funt sterling soliq to'lash majburiyatini oladi. Gap kim haqida ketmoqda.",
+   "options": [
+    "Vilgelm I",
+    "Ioann",
+    "Genrix II",
+    "Genrix I"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qirol Ioanni mayda va o'rta mulkdorlar yordamidan mahrum etgan omilni aniqlang.",
+   "options": [
+    "Soliqlar oshirilishi",
+    "Qo'shinning tarqatib yuborilishi",
+    "Qirolning yana feodallarga ishonishi",
+    "Qirolning papaga taslim bo'lishi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qirol Ioannga qarshi qachon qo'zg'olon ko'tarilgan edi.",
+   "options": [
+    "1265-yil",
+    "1295-yil",
+    "1297-yil",
+    "1215-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qirol Ioannga qarshi boshlangan qo'zg'olonga boshchilik qilgan toifani aniqlang.",
+   "options": [
+    "Shaharliklar",
+    "Yirik zodagonlar",
+    "Ritsarlar",
+    "Dehqonlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Robin Gud va uning hamrohlari qaysi o'rmonda o'z faoliyatlarini olib borgan edi.",
+   "options": [
+    "Shrouli o'rmoni",
+    "Shotover o'rmoni",
+    "Shervud o'rmoni",
+    "Sharpham o'rmoni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Robin Gud va uning hamrohlarining asosiy raqibi qayerning sherifi edi.",
+   "options": [
+    "Nottingem",
+    "Manchester",
+    "London",
+    "Kenterberi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Aksariyat xalq og'zaki ijodi namunalarida Robin Gud qanday rangdagi kiyimda tasvirlangan.",
+   "options": [
+    "Ko'k",
+    "Qora",
+    "Yashil",
+    "Qizil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Robin Gudning hokimiyatga qarshi qo'zg'oloniga nima sabab bo'lganini aniqlang.",
+   "options": [
+    "Qirol Ioanning papaga taslim bo'lishi",
+    "Ov huquqlarini cheklab qo'ygan o'rmon qonunlariga nisbatan xalqning noroziligi",
+    "Qirolning yangi soliqlar joriy qilishi",
+    "Qirolning yana feodallar toifasiga ishonib boshlashi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Robin Gud qaysi qirol davrida yashagan deb qaraladi.",
+   "options": [
+    "Vilgelm I",
+    "Ioann",
+    "Genrix II",
+    "Richard I Sheryurak"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Robin Gud qaysi tarixiy qahramon kabi mashhurlikka erishgan.",
+   "options": [
+    "Janna d'Ark",
+    "Uot Tayler",
+    "Merlin",
+    "Qirol Artur"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qirol Ioann qachon “Erkinlikning buyuk xartiyasi” deb nomlangan hujjatga imzo chekdi.",
+   "options": [
+    "1265-yil",
+    "1295-yil",
+    "1297-yil",
+    "1215-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Erkinlikning buyuk xartiyasi” qaysi tilda yozilganligini aniqlang.",
+   "options": [
+    "Lotin",
+    "Ingliz",
+    "Ispan",
+    "Italyan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Erkinlikning buyuk xartiyasi” nechta moddadan iborat edi.",
+   "options": [
+    "20",
+    "70",
+    "63",
+    "45"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Erkinlikning buyuk xartiyasi”ga ko'ra qirol nimaga rozi bo'ldi.",
+   "options": [
+    "Qonunlarga muvofiq hukmronlik qilishga",
+    "Bundan keyin papaga sodiq bo'lishga",
+    "Bundan keyin feodallarga qarshi kurash olib bormaslikka",
+    "Yirik zodagonlarning manfaati har doim birinchi o'rinda bo'lishiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Erkinlikning buyuk xartiyasi”ga ko'ra qirol qaysi organ roziligisiz soliq yig'a olmas edi.",
+   "options": [
+    "Lordlar palatasi",
+    "Buyuk kengash",
+    "Umumpalata",
+    "Donolar kengashi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Erkinlikning buyuk xartiyasi”ga ko'ra biror jinoyatda ayblangan erkin kishilarni sudlay oladigan organni aniqlang.",
+   "options": [
+    "Davlat tomonidan tayinlangan sud",
+    "O'z jamoalari tomonidan",
+    "Angl-saks sudlari",
+    "A va B javob to'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fransiyaning qaysi qiroli soliqlarni yanada oshirib, yirik mulkdor zodagonlar, ritsarlar, shaharliklar va oddiy aholini o'ziga qarshi qilib qo'ydi.",
+   "options": [
+    "Qirol Ioann",
+    "Genrix III",
+    "Richard I Sheryurak",
+    "Vilgelm I"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qirol Ioanning vorisini aniqlang.",
+   "options": [
+    "Qirol Ioann",
+    "Genrix III",
+    "Richard I Sheryurak",
+    "Vilgelm I"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qirol Genrix III ga qarshi norozilik harakatiga rahbarlik qilgan shaxsni aniqlang.",
+   "options": [
+    "Robin Gud",
+    "Uot Tayler",
+    "Simon de Monfor",
+    "Qirol Artur"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Simon de Monfor tomonidan asirga olingan shahzoda Eduardning otasi kimligini aniqlang.",
+   "options": [
+    "Qirol Ioann",
+    "Genrix III",
+    "Richard I Sheryurak",
+    "Vilgelm I"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Simon de Monfor qachon uch toifa vakillarini o'z ichiga olgan majlis-parlamentni chaqirdi.",
+   "options": [
+    "1265-yil",
+    "1295-yil",
+    "1297-yil",
+    "1215-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachondan boshlab parlament doimiy chaqirilib turiladigan bo'ldi.",
+   "options": [
+    "1265-yil",
+    "1295-yil",
+    "1297-yil",
+    "1215-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Parlamentga soliqlarni tasdiqlash huquqi qachon berilganini aniqlang.",
+   "options": [
+    "1265-yil",
+    "1295-yil",
+    "1297-yil",
+    "1343-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi qirolning davridan boshlab parlament doimiy chaqirilib turiladigan bo'ldi.",
+   "options": [
+    "Qirol Ioann",
+    "Genrix III",
+    "Richard I Sheryurak",
+    "Eduard"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nechanchi asrdan qonunlar chiqarish va siyosiy ishlar, ya'ni qirol vazirlari tomonidan sodir etilgan jinoyatlar bo'yicha Oliy sud huquqini qo'lga kiritdi.",
+   "options": [
+    "XII asrdan",
+    "XIV asrdan",
+    "XIII asrdan",
+    "XV asrdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachondan parlament ikki palataga bo'lindi.",
+   "options": [
+    "1265-yil",
+    "1295-yil",
+    "1297-yil",
+    "1343-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Parlamentning yuqori palatasi nima deb ataldi.",
+   "options": [
+    "Umumpalata",
+    "Vakillar palatasi",
+    "Oqsoqollar kengashi",
+    "Lordlar palatasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyi palata nima deb nomlangan edi.",
+   "options": [
+    "Umumpalata",
+    "Vakillar palatasi",
+    "Oqsoqollar kengashi",
+    "Lordlar palatasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lordlar palatasida ishtirok etmagan toifani aniqlang.",
+   "options": [
+    "Yepiskop",
+    "Ritsar",
+    "Abbat",
+    "Zodagonlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyi palatada ishtirok etgan toifalarni aniqlang.",
+   "options": [
+    "Har bir graflikdan ikkita ritsar",
+    "Shaharlardan ikkita vakil",
+    "A va B javob to'g'ri",
+    "Har bir graflikdan ikkita ritsar va shaharlardan ikki nafar ruhoniy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyi palata qo'lga kiritgan huquqni aniqlang.",
+   "options": [
+    "Uning roziligisiz soliqlar joriy etilmasligi",
+    "Uning roziligisiz yangi qo'shin tuzilmasligi",
+    "Uning roziligisiz urush boshlanmasligi",
+    "Uning roziligisiz taxt vorisi tayinlanmasligi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachonga kelib Angliyada toifaviy monarxiya sifatida markazlashgan davlat qaror topdi.",
+   "options": [
+    "X-XII asrlarda",
+    "XIII-XIV asrlarda",
+    "XII-XIII asrlarda",
+    "XIV-XV asrlarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Lotincha so'zdan olingan bo'lib, qog'oz, yorliq ma'nosini bildiradi. U o'rta asrlarda ijtimoiy-siyosiy, huquqiy ahamiyatga ega bo'lgan, jamiyatning ma'lum bir huquqlarini ifodalagan hujjatni anglatadi. Atamani izohlang.",
+   "options": [
+    "Xartiya",
+    "Dofin",
+    "Parlament",
+    "Yomen"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransuz tilidan olingan bo'lib, gapirmoq, so'zlamoq ma'nosini anglatadi. Atamani izohlang.",
+   "options": [
+    "Xartiya",
+    "Dofin",
+    "Parlament",
+    "Yomen"
+   ],
+   "answer": 2
+  }
+ ]
+}

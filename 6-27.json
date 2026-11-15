@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 30-mavzu. Qadimgi Yunoniston madaniyati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Yunonlar Troyaga qarshi taxminan qachon urush boshlagan?",
+   "options": [
+    "Mil. avv. 490-yilda",
+    "Mil. avv. 776-yilda",
+    "Mil. avv. 1200-yilda",
+    "Mil. avv. 2-mingyillik boshida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Troya qayerda joylashgan?",
+   "options": [
+    "Peloponnesda",
+    "Krit orolida",
+    "Sitsiliyada",
+    "Egey dengizi qirg'og'idagi Kichik Osiyoda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yunon rivoyatlariga ko'ra Troya urushining sababi nima bo'lgan?",
+   "options": [
+    "Forslar Troyani qo'llab-quvvatlagani",
+    "Troyaliklar Olimpiya o'yinlarida yutqazgani",
+    "Troya podshosining o'g'li Paris Sparta podshosining rafiqasi Sohibjamol Yelenani o'g'irlab ketgani",
+    "Troyaliklar Afinani bosib olgani"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yunonlar Troyani necha yil behuda qamal qilgan?",
+   "options": [
+    "To'qqiz yil",
+    "Yigirma yil",
+    "Bir yil",
+    "Uch yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Iliada” va “Odisseya” dostonlarining muallifi kim?",
+   "options": [
+    "Aristofan",
+    "Sofokl",
+    "Gerodot",
+    "Qadimgi yunon shoiri Gomer"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Iliada” dostoni nima haqida hikoya qiladi?",
+   "options": [
+    "Troya urushining oxirgi o'ninchi yili haqida",
+    "Yunon-fors urushlari haqida",
+    "Gerakl jasoratlari haqida",
+    "Odisseyning uyga qaytishi haqida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kimning maslahati bilan yunonlar ichi bo'sh ulkan yog'och ot yasashgan?",
+   "options": [
+    "Parisning",
+    "Odisseyning",
+    "Agamemnonning",
+    "Axillesning"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Troyaliklar yog'och otni nima uchun shaharga olib kirishgan?",
+   "options": [
+    "Otni ibodatxonaga qo'yish uchun",
+    "Yunonlar qamalni to'xtatib, Troya homiysi Afina Palladaga xush kelishi uchun ot sovg'a qilibdi deb o'ylashgan",
+    "Yunonlar bilan sulh tuzgani uchun",
+    "Ot ichida oltin borligini bilishgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hozirgi tillarda “Troya oti” iborasi qanday ma'noni anglatadi?",
+   "options": [
+    "Topqirlik",
+    "Kuchli qahramon",
+    "Nozik joy",
+    "Xosiyatsiz sovg'a-salom"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Iliada” dostonining bosh qahramoni kim?",
+   "options": [
+    "Axilles",
+    "Gerakl",
+    "Paris",
+    "Odissey"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Axillesning onasi uni nima maqsadda Stiks daryosiga botirib olgan?",
+   "options": [
+    "O'g'lining mangu barhayot bo'lishini istab",
+    "Uni cho'miltirish uchun",
+    "Uni suzishga o'rgatish uchun",
+    "Uni ma'budlarga qurbon qilish uchun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Axilles tovoni” iborasi qanday ma'noni anglatadi?",
+   "options": [
+    "Kuchli qahramon",
+    "Xosiyatsiz sovg'a",
+    "Nozik (zaif) joy",
+    "Ayyorlik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yunonistonda teatr qachon dunyoga kelgan?",
+   "options": [
+    "Bundan besh ming yil muqaddam",
+    "Bundan bir ming yil muqaddam",
+    "Bundan ikki yarim ming yil muqaddam",
+    "Milodiy V asrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Teatr” so'zi yunonchadan tarjima qilinganda qanday ma'noni anglatadi?",
+   "options": [
+    "“Niqob”",
+    "“Qo'shiq”",
+    "“Xalq maydoni”",
+    "“Tomoshalar uchun joy”, “tomoshaxona”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Yunonistonda teatr tomoshalari qachon uyushtirilgan?",
+   "options": [
+    "Har haftada",
+    "Har kuni",
+    "Faqat bayramlarda",
+    "Faqat urush paytida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qashshoq fuqarolarning teatrga borishi uchun nima qilingan?",
+   "options": [
+    "Ularga teatrga borishi uchun pul berilgan",
+    "Ular teatrda bepul ishlagan",
+    "Ularga teatrga kirish taqiqlangan",
+    "Ularga faqat tushdan keyin ruxsat berilgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yunon teatrida sahnada barcha rollarni kimlar ijro etgan?",
+   "options": [
+    "Qullar",
+    "Faqat erkaklar",
+    "Faqat ayollar",
+    "Erkaklar va ayollar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Halok bo'lish bilan tugaydigan, o'zaro kurash namoyish etilgan pyesalar qanday atalgan?",
+   "options": [
+    "Doston",
+    "Afsona",
+    "Tragediya",
+    "Komediya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Shoh Edip” va “Antigona” tragediyalarining muallifi kim?",
+   "options": [
+    "Gerodot",
+    "Gomer",
+    "Sofokl",
+    "Aristofan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Komediyalarning eng mashhur muallifi kim edi?",
+   "options": [
+    "Aristofan",
+    "Gomer",
+    "Fidiy",
+    "Sofokl"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yunonlar podsholar va zodagonlar uchun saroylardan tashqari yana qanday binolar qurgan?",
+   "options": [
+    "Faqat maqbaralar",
+    "Hamma odamlar foydalanadigan jamoat binolari",
+    "Faqat ibodatxonalar",
+    "Faqat harbiy qal'alar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yunon ibodatxonalari va jamoat binolari nimadan barpo etilgan?",
+   "options": [
+    "Qamishdan",
+    "Yog'ochdan",
+    "Toshdan",
+    "G'isht va paxsadan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yunonistonda xususiy uylar nimadan qurilgan?",
+   "options": [
+    "Marmardan",
+    "Papirusdan",
+    "G'ishtdan va paxsadan",
+    "Toshdan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yunon ibodatxonalariga alohida ko'rk bergan me'moriy unsur qanday ataladi?",
+   "options": [
+    "Gumbazlar",
+    "Ustunlar – kolonnalar",
+    "Zikkuratlar",
+    "Minoralar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rivoyatga ko'ra Dedal kim uchun Labirint saroyini barpo etgan?",
+   "options": [
+    "Perikl uchun",
+    "Zevs uchun",
+    "Podsho Minos uchun",
+    "Sparta podshosi uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Akropoldagi Parfenon qurilishiga kim boshchilik qilgan va u nimadan qurilgan?",
+   "options": [
+    "Haykaltarosh Fidiy; marmar toshlardan",
+    "Perikl; yog'ochdan",
+    "Gomer; paxsadan",
+    "Dedal; g'ishtdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mualliflar va ularning asarlari to'g'ri moslashtirilgan javobni aniqlang.\n1) Gomer; 2) Sofokl; 3) Aristofan.\na) komediyalar; b) “Iliada” va “Odisseya”; c) “Shoh Edip” va “Antigona”; d) “Tarix”.",
+   "options": [
+    "1-d, 2-c, 3-a",
+    "1-c, 2-b, 3-a",
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nIbora yoki atama | Ma'nosi\n“Troya oti” | 1) ________\n“Axilles tovoni” | 2) ________\nTeatr | 3) ________\na) xosiyatsiz sovg'a-salom; b) nozik joy; c) tomoshalar uchun joy; d) kuchli qahramon; e) halok bo'lish bilan tugaydigan pyesa; f) xalq maydoni.",
+   "options": [
+    "1-d, 2-b, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-b, 3-f",
+    "1-a, 2-e, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nMadaniyat arbobi | Sohasi | Asari yoki ishi\nGomer | shoir | A\nB | dramaturg | “Shoh Edip”, “Antigona”\nFidiy | haykaltarosh | C\n1) “Iliada” va “Odisseya”; 2) Sofokl; 3) Parfenon qurilishiga boshchilik qilgan; 4) Aristofan; 5) Labirint saroyini qurgan; 6) “Tarix”.",
+   "options": [
+    "A-1, B-2, C-3",
+    "A-1, B-2, C-5",
+    "A-6, B-2, C-3",
+    "A-1, B-4, C-3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qadimgi Yunoniston madaniyatiga oid to'g'ri hukmlarni aniqlang.\nI. “Iliada” Troya urushining o'ninchi yili haqida hikoya qiladi.\nII. Yunon teatrida ayollar ham rol ijro etgan.\nIII. Parfenon marmar toshlardan qurilgan.\nIV. Komediyalarning eng mashhur muallifi Sofokl bo'lgan.",
+   "options": [
+    "I va III",
+    "III va IV",
+    "I va II",
+    "II va IV"
+   ],
+   "answer": 0
+  }
+ ]
+}

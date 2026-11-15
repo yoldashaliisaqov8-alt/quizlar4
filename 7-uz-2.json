@@ -1,0 +1,316 @@
+{
+ "title": "7-sinf · IV–VII asrlarda Xorazm",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Zaiflashib borayotgan Qang' davlati tarkibidan dastlab qaysi davlat ajralib chiqganligini toping.",
+   "options": [
+    "Baqtriya",
+    "Sug'diyona",
+    "Xorazm",
+    "Parfiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xorazm vohasiga qaysi sahro tutashib ketgan?",
+   "options": [
+    "Qoraqum",
+    "Qizilqum",
+    "Mo'yinqum",
+    "Bo'rsiq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ilk o'rta asrlar davrida Xorazm davlatining poytaxti dastlab qaysi shahar bo'lgan?",
+   "options": [
+    "Ko'zaliqir",
+    "Tuproqqal'a",
+    "Kat",
+    "Jonbosqal'a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorazm vohasi Xiva meridianidan sal (I) da qum tepaliklar chegarasi (II) tomonga buriladi va shu yo'nalishda deyarli (III) gacha borib yetadi. Nuqtalar o'rniga mos so'zni qo'ying.",
+   "options": [
+    "I-sharqroq; II- shimoliy-g'arb; III-Qorako'l ko'li",
+    "I-sharqroq; II- shimoliy-sharq; III-Qorako'l ko'li",
+    "I-sharqroq; II- shimoliy-g'arb; III-Qoraqum sahrosi",
+    "I-shimolroq; II- shimoliy-g'arb; III-Qorako'l ko'li"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amudaryo daryosi qayerdan boshlanadi?",
+   "options": [
+    "Ko'ksuv tog' tugunidagi Zarafshon muzligidan",
+    "Hisor tizmasining g'arbiy qismidan boshlanadi",
+    "Norin daryosining boshlanish joyidan",
+    "Hindiqushning Shimoliy yonbag'irlaridagi muzliklardan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilardan qaysi biri Xorazm diyorida yuqori darajada rivoj topgan sohalarga kirmaydi?",
+   "options": [
+    "ilm-fan",
+    "hunarmandchilik",
+    "haykaltaroshlik",
+    "kandakorlik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xorazmliklarning xo'jalik turmushida, alohida o'rin tutgan mahsulotlarni aniqlang: 1) tut 2) guruch 3) baliq 4) tarvuz 5) qovoq 6) yovvoyi olma 7) qovun",
+   "options": [
+    "1, 2, 3, 4",
+    "1, 3, 5, 7",
+    "1, 3, 5, 6",
+    "2, 3, 5, 7"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tuproqqal'a shahri devorining o'rtasida ... bo'lgan.",
+   "options": [
+    "burj",
+    "xandaq",
+    "shinak",
+    "darvoza"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xorazm diyorini suv bilan ta'minlagan daryo nomi muvofiq berilgan javobni toping.",
+   "options": [
+    "Sirdaryo",
+    "Amudaryo",
+    "Zarafshon",
+    "Norin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ilk o'rta asrlar davrida Xorazmni qaysi sulolaga mansub xorazmshohlar idora qilishgan?",
+   "options": [
+    "Oltintoshlar",
+    "Siyovushlar",
+    "Afrig'iylar",
+    "Ma'muniylar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tuproqqal'a markazidan yuqoriroqda nima joylashganligini toping.",
+   "options": [
+    "bozor maydoni",
+    "ibodatxona majmuasi",
+    "hokimiyat idorasi",
+    "hunarmandlar guzari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan qaysi biri Xorazm diyorida yuqori darajada rivoj topgan sohalarga kirmaydi?",
+   "options": [
+    "yog'ochsozlik",
+    "hunarmandchilik",
+    "chorvachilik",
+    "sug'orma dehqonchilik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilardan Tuproqqal'a shahriga oid yakuniy hukmni aniqlang: I – shahar devorining o'rtasida darvozaxona bo'lgan II – ibodatxonaning burchak qismida minorasiz xorazmshohlar qasri qad ko'targan III – mudofaa jihatidan poytaxt nihoyatda mustahkam qilib qurilgan",
+   "options": [
+    "I-to'g'ri; II-to'g'ri; III-to'g'ri",
+    "I-noto'g'ri; II-to'g'ri; III-noto'g'ri",
+    "I-to'g'ri; II-noto'g'ri; III-to'g'ri",
+    "I-noto'g'ri; II-noto'g'ri; III-to'g'ri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xorazmda VIII asrgacha qaysi dinning ta'siri kuchli bo'lgan?",
+   "options": [
+    "buddaviylik",
+    "zardushtiylik",
+    "nasroniylik",
+    "islom"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorazmshoh Afrig' o'z qarorgohini Xorazmning qadimgi poytaxti Kat shahriga qachon ko'chirgan?",
+   "options": [
+    "mil.avv 206-yil",
+    "mil.avv 305-yil",
+    "milodiy 206-yil",
+    "milodiy 305-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xorazm davlatining ichki va tashqi savdo munosabatlarda mustaqil bo'lib olishiga sabab omilni belgilang.",
+   "options": [
+    "mamlakat poytaxtining boshqa shaharga ko'chirilishi",
+    "hokimiyat tepasiga yangi qudratli sulolaning kelishi",
+    "boshqa davlatlar bilan talonchilikning o'rnatilishi",
+    "kumush tangalarning zarb etilishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilardan Xorazmshohlar qasriga oid to'g'ri ma'lumotni toping: I – ko'p minorali inshoot edi II – ikki qavatli shoh saroyi bo'lgan III – koshona turar joylarining tom qismi rangdor tasvirlar, bo'rtma ganchkor naqshlar hamda haykallar bilan bezatilgan IV – balandligi 35 metr bo'lgan",
+   "options": [
+    "I, II",
+    "I, III",
+    "II, III",
+    "III, IV"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afrig'iylar sulolasiga oid yakuniy hukmni toping: I. Xorazmshohlar unvoniga sazovor bo'lishgan II. IV-X asrlarda hukmronlik qilgan III. sulola asoschisi – Afrig' ismli hukmdor bo'lgan IV. sulola podshohlari kumush tangalar zarb ettirgan",
+   "options": [
+    "I-to'g'ri; II-noto'g'ri; III-to'g'ri; IV-to'g'ri",
+    "I-noto'g'ri; II-to'g'ri; III-noto'g'ri; IV-to'g'ri",
+    "I-to'g'ri; II-noto'g'ri; III-to'g'ri; IV-noto'g'ri",
+    "I-noto'g'ri; II-noto'g'ri; III-to'g'ri; IV-to'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tuproqqal'a shahri xarobasi hozirgi qaysi hududga to'g'ri keladi?",
+   "options": [
+    "Qoraqalpog'istonning Amudaryo tumani",
+    "Navoiy viloyatining Nurota tumani",
+    "Xorazm viloyatining Shovot tumani",
+    "Qoraqalpog'istonning Ellikqal'a tumani"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilardan Afrig'iylar sulolasiga mansub hukmdorni toping.",
+   "options": [
+    "Saksafar",
+    "Kayxusrav",
+    "Farasman",
+    "Shovshafar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Zardushtiylik ibodatxonalari diniy marosimlarni bajaruvchilar qanday nomlangan?",
+   "options": [
+    "mobadlar",
+    "mazdiylar",
+    "xaltlar",
+    "chinvotlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afrig'iylar davridagi Xorazmning hukmronlik ramzlari to'g'ri berilgan javobni toping: I. burgut II. humo III. lochin IV. kabutar",
+   "options": [
+    "I; III",
+    "II; III",
+    "III; IV",
+    "II; IV"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tuproqqal'a shahrining maydonini aniqlang.",
+   "options": [
+    "30 gektar",
+    "25 gektar",
+    "40 gektar",
+    "35 gektar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorazmda qayiqlarning burnida kimning haykali o'rnatilgan?",
+   "options": [
+    "Jamshid ismli hukmdor",
+    "Xubbi",
+    "dengiz malikasi",
+    "Xubbining onasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xorazmda Xubbi qanday ilohi hisoblanadi?",
+   "options": [
+    "quyosh",
+    "suv",
+    "yer",
+    "osmon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Afrig'iylar sulolasi qancha muddat Xorazmni idora qilganligini aniqlang.",
+   "options": [
+    "6 asr",
+    "7 asr",
+    "5 asr",
+    "9 asr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi hukmdor taxtga o'tirgan vaqtda Xubbi dom-daraksiz g'oyib bo'ladi?",
+   "options": [
+    "Jahongir",
+    "Jasur",
+    "Jamshid",
+    "Javohir"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xorazmda kim suvning saqlovchisi sifatida qadrlangan?",
+   "options": [
+    "Jamshid ismli hukmdor",
+    "Xubbi",
+    "dengiz malikasi",
+    "Xubbining onasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Milodiy 305-yilda xorazmshoh Afrig' o'z qarorgohini Xorazmning qadimgi poytaxti Kat shahriga ko'chirdi. Kat qayta tiklanib, uning yonida joylashgan Alfir qasri ichida shoh o'ziga yangi saroy qurdirdi\" Yuqoridagi tarixiy ma'lumotlar qaysi allomaga tegishli?",
+   "options": [
+    "Istaxriy",
+    "Narshaxiy",
+    "Beruniy",
+    "Farhodiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xubbi haqidagi bandlar mazmuniga oid yakuniy hukmni aniqlang: I. so'yilgan ho'kizlarga jon bag'ishlagan II. suvning saqlovchisi sifatida qadrlangan III. baliqni bir qo'li bilan tutib quyoshga uzatar va uni quyosh shulasida qovurib yer ekan IV. Xorazmda qayiqlarning burnida shu ayolning haykali o'rnatilgan",
+   "options": [
+    "I-to'g'ri; II-to'g'ri; III-to'g'ri; IV-noto'g'ri",
+    "I-noto'g'ri; II-to'g'ri; III-noto'g'ri; IV-to'g'ri",
+    "I-to'g'ri; II-noto'g'ri; III-to'g'ri; IV-noto'g'ri",
+    "I-to'g'ri; II-noto'g'ri; III-to'g'ri; IV-to'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Xorazm Jayhunning butun foydasini ola bilgan mamlakatdir» ushbu so'zlarning muallifini aniqlang.",
+   "options": [
+    "Juvayniy",
+    "Istaxriy",
+    "Yoqut Hamaviy",
+    "Ibn Xavqal"
+   ],
+   "answer": 1
+  }
+ ]
+}

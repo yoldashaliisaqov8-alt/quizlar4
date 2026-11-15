@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 40-mavzu. Qadimgi Qang' va Davan davlatlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Xitoy manbalarida Qang' davlati qanday atalgan?",
+   "options": [
+    "Qang'yuy",
+    "Ershi",
+    "Davan",
+    "Bityan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qang' davlatiga kimlar va qachon asos solgan?",
+   "options": [
+    "Sug'diylar; mil. avv. VI asrda",
+    "Xorazmliklar; mil. avv. IV asrda",
+    "Saklar; mil. avv. III asrda",
+    "Yuechjilar; mil. avv. II asrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Saklarning sobiq poytaxti Qang'diz bo'lgan Qanqa shahar-qal'asi qayerda joylashgan?",
+   "options": [
+    "Farg'ona vodiysida",
+    "Zarafshon vohasida",
+    "Xorazmda",
+    "Toshkent vohasining Oqqo'rg'on tumanida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xitoy manbalarida Qang'diz shahri qanday atalgan?",
+   "options": [
+    "Ershi",
+    "Kiropolis",
+    "Qang'yuy",
+    "Bityan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qang' davlati hududlari qayerlarni qamrab olgan?",
+   "options": [
+    "O'rta Sirdaryo sohillari bo'ylab joylashgan yerlarni",
+    "Amudaryoning quyi oqimini",
+    "Zarafshon vodiysini",
+    "Kaspiy bo'ylarini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qang' qachon qudratli davlat birlashmasiga aylandi?",
+   "options": [
+    "Mil. avv. II asr oxirida",
+    "Mil. avv. IV asrda",
+    "Mil. avv. III asr boshida",
+    "Milodiy III asrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qang' davlatida odamlar qaysi ekinlarni ekishgan?",
+   "options": [
+    "Paxta va choy",
+    "Bug'doy, arpa va sholi",
+    "Faqat tariq",
+    "Shakarqamish va kanop"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qang'liklar nimaga sig'ingan?",
+   "options": [
+    "Daraxtlarga",
+    "Olov va quyoshga",
+    "Hayvonlarga",
+    "Faqat ajdodlar ruhiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shoshtepada qanday ibodatxona qurilgan va qachon?",
+   "options": [
+    "Buddaviylik ibodatxonasi; milodiy I asrda",
+    "Doira shaklidagi olov ibodatxonasi; mil. avv. II asrda",
+    "Piramida shaklidagi ibodatxona; mil. avv. IV asrda",
+    "To'rtburchak zikkurat; mil. avv. III asrda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shoshtepa ibodatxonasining dumaloq shakli nimaning ramzi hisoblangan?",
+   "options": [
+    "Quyosh ramzi",
+    "Yer ramzi",
+    "Suv ramzi",
+    "Oy ramzi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qang' hududidan Buyuk ipak yo'lining qaysi tarmog'i o'tgan?",
+   "options": [
+    "Shimoliy tarmog'i",
+    "G'arbiy tarmog'i",
+    "Dengiz tarmog'i",
+    "Janubiy tarmog'i"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qang' davlati qachon mayda mulklarga parchalanib ketdi?",
+   "options": [
+    "Mil. avv. II asrda",
+    "Milodiy V asrda",
+    "Milodiy I asrda",
+    "Milodiy III asrga kelib"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Davan davlati qayerda joylashgan va taxminan qachon paydo bo'lgan?",
+   "options": [
+    "Xorazmda; mil. avv. IV asrda",
+    "Zarafshon vohasida; mil. avv. VI asrda",
+    "Toshkent vohasida; mil. avv. II asrda",
+    "Farg'ona vodiysida; mil. avv. III asrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xitoy elchisi Chjan Szyanning yozishicha, Davanda nechta katta-kichik shahar bo'lgan?",
+   "options": [
+    "7 ta",
+    "115 ta",
+    "30 ta",
+    "70 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chjan Szyan davanliklarni qanday ta'riflagan?",
+   "options": [
+    "Jangari va shafqatsiz",
+    "Juda mehmondo'st va ko'ngli ochiq odamlar",
+    "Faqat ko'chmanchi chorvadorlar",
+    "Kambag'al va savodsiz"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davan davlatining poytaxti qaysi shahar bo'lgan?",
+   "options": [
+    "Qang'diz",
+    "Axsikent",
+    "Bityan",
+    "Ershi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xitoy hukmdorlarini Farg'onaning nimasi o'ziga jalb qilgan?",
+   "options": [
+    "Oltin konlari",
+    "Zotdor otlari",
+    "Shaharlari",
+    "Ipak mahsulotlari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xitoyliklar Farg'ona otlarining bir zotini qanday atagan?",
+   "options": [
+    "“Qora otlar”",
+    "“Tog' otlari”",
+    "“Oltin otlar”",
+    "“Samoviy otlar”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rivoyatga ko'ra “samoviy otlar” qanday paydo bo'lgan?",
+   "options": [
+    "Xitoydan keltirilgan otlardan",
+    "Zotdor biyalarni tog'dagi yovvoyi ayg'irlar oldiga haydash natijasida",
+    "Hindistondan olib kelingan",
+    "Ma'budlar in'om etgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Samoviy otlar” nomining kelib chiqishi nima bilan bog'liq?",
+   "options": [
+    "Otlarning osmonga uchishi bilan",
+    "Imperator nomi bilan",
+    "Ular faqat kechasi chopgani bilan",
+    "Tyanshan – xitoy tilida “samoviy tog'lar” degani, bu nom otlarga ham o'tgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xitoy imperatori Davanga elchi qilib kimni yubordi?",
+   "options": [
+    "Sin Shixuandini",
+    "Pahlavon Che Linni",
+    "Chjan Szyanni",
+    "Mitridatni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davan bilan Xitoy o'rtasidagi urushga nima sabab bo'ldi?",
+   "options": [
+    "Davanning Xitoyga hujumi",
+    "Qang' davlatining aralashuvi",
+    "Savdo yo'lining to'silishi",
+    "Davan hukmdorining Xitoy elchisi talabiga – arg'umoqlarni berishga rad javobi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xitoy lashkarining Davanga ikkinchi yurishida necha ming nafar askar qatnashgan?",
+   "options": [
+    "60 ming",
+    "6 ming",
+    "20 ming",
+    "100 ming"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xitoyliklar nima sababdan Ershiga bostirib kirmasdan sulhga rozi bo'lgan?",
+   "options": [
+    "Davan Xitoyga bo'ysungani uchun",
+    "Imperator vafot etgani uchun",
+    "Qang' davlatidan madad yetib kelishidan cho'chib",
+    "Ularda oziq-ovqat tugagani uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Samoviy otlar” uchun bo'lib o'tgan urush necha yil davom etgan?",
+   "options": [
+    "Qirq yil",
+    "Bir yil",
+    "To'rt yil",
+    "O'n yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xitoyliklarni hayratga solgan, Davandan Xitoyga olib ketilgan ekinlarni aniqlang.",
+   "options": [
+    "Bug'doy va arpa",
+    "Beda va uzum",
+    "Sholi va choy",
+    "Paxta va kanop"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Farg'ona vodiysida o'rganilgan qadimiy shahar xarobalarini aniqlang.\n1) Sho'rabashot; 2) Axsikent; 3) Uchqo'rg'on; 4) Qanqa; 5) Tuproqqal'a.",
+   "options": [
+    "3, 4, 5",
+    "1, 4, 5",
+    "1, 2, 3",
+    "2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nDavlat | Joylashgan hudud | Poytaxti\nQang' | o'rta Sirdaryo bo'yi, Toshkent vohasi | 1) ________\nDavan | 2) ________ | Ershi\nQang' va Davan | – | 3) (barham topgan davr)\na) Qang'diz (Bityan); b) Farg'ona vodiysi; c) milodiy III asr; d) Xorazm; e) mil. avv. III asr; f) Maroqanda.",
+   "options": [
+    "1-a, 2-d, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-f, 2-b, 3-c",
+    "1-a, 2-b, 3-e"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nMa'lumot | Davlat yoki joy\nDoira shaklidagi olov ibodatxonasi | A\n“Samoviy otlar” vatani | B\nBuyuk ipak yo'lining shimoliy tarmog'i o'tgan | C\n1) Shoshtepa (Qang'); 2) Davan (Farg'ona); 3) Qang'; 4) Xorazm; 5) Baqtriya; 6) Ershi ibodatxonasi.",
+   "options": [
+    "A-6, B-2, C-3",
+    "A-1, B-2, C-5",
+    "A-1, B-2, C-3",
+    "A-1, B-4, C-3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi Qang' va Davan davlatlariga oid to'g'ri hukmlarni aniqlang.\nI. Qang' davlatiga mil. avv. III asrda saklar asos solgan.\nII. Davan Toshkent vohasida joylashgan.\nIII. Xitoyliklar Davandan beda va uzum urug'ini olib ketgan.\nIV. Xitoy qo'shini Ershiga bostirib kirib, uni vayron qilgan.",
+   "options": [
+    "I va III",
+    "II va IV",
+    "I va II",
+    "III va IV"
+   ],
+   "answer": 0
+  }
+ ]
+}

@@ -1,0 +1,670 @@
+{
+ "title": "8-sinf · O'rta asrlarda Xitoy",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Xubilay qaysi yilda ulug' xoqon deb e'lon qilindi.",
+   "options": [
+    "1279-yilda",
+    "1260-yilda",
+    "1368-yilda",
+    "1351-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yongle davrida qaysi suv yo'li deyarli qayta qurildi.",
+   "options": [
+    "Sariq daryo kanali",
+    "Yanszi daryo to'g'oni",
+    "Janubiy dengiz kanali",
+    "Buyuk Kanal"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xubilay saroyida yuqori lavozimlardan birida xizmat qilgan venetsiyalik sayyohni aniqlang.",
+   "options": [
+    "Vasko da Gama",
+    "Ibn Battuta",
+    "Marko Polo",
+    "Plano Karpini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xubilay imperiyani ma'muriy jihatdan nechta viloyatga bo'ldi.",
+   "options": [
+    "Yigirmata",
+    "O'n ikkita",
+    "O'n beshta",
+    "Yettita"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hosil kam olingan yillarda aholini ta'minlash uchun nima yaratildi.",
+   "options": [
+    "Chet eldan don olib kelish tizimi",
+    "Soliqsiz bozorlar",
+    "Xususiy don omborlari",
+    "Davlat omborlarida oziq-ovqat zaxiralari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Poytaxt imtihoni” g'oliblariga nima berilgan.",
+   "options": [
+    "Oliy daraja va yuqori lavozimlarga tayinlanish imkoni",
+    "Oltin va ipak",
+    "Imperatorning qizi bilan turmush qurish huquqi",
+    "Yer va qullar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xubilay Xitoyni egallagach, imperiyaning markazini qayerga aylantirdi.",
+   "options": [
+    "Koreyaga",
+    "Samarqandga",
+    "Mo'g'ulistonga",
+    "Xitoyga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1387–1388-yillarda Min qo'shini nimaga erishdi.",
+   "options": [
+    "Koreyani bo'ysundirdi",
+    "Yaponiyani bosib oldi",
+    "Amir Temur qo'shinini mag'lub etdi",
+    "Mo'g'ullarning asosiy harbiy kuchlarini yanchib, Yuan davlatini tugatdi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yuan sulolasining asoschisini aniqlang.",
+   "options": [
+    "Yongle",
+    "Chju Yuan Chjan",
+    "Chingizxon",
+    "Xubilay"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Min sulolasida uch bosqichli imtihon tizimi nima uchun tiklandi.",
+   "options": [
+    "Savdogarlarni soliqdan ozod qilish uchun",
+    "Harbiylarni saralash uchun",
+    "Davlat lavozimlariga yangi mansabdorlarni tayyorlash uchun",
+    "Mo'g'ul tilini o'rgatish uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yongle davrida imperiya poytaxti qayerdan qayerga ko'chirildi.",
+   "options": [
+    "Pekindan Nankinga",
+    "Nankindan Pekinga",
+    "Xonbaliqdan Nankinga",
+    "Nankindan Xonbaliqqa"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xubilay davrida qaysi davlat vassalga aylantirildi.",
+   "options": [
+    "Yaponiya",
+    "Koreya",
+    "Kambodja",
+    "Vyetnam"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Imperator Yongle Chjan Xega nima uchun G'arb mamlakatlari bilan dengiz yo'li orqali aloqa o'rnatishni buyurdi.",
+   "options": [
+    "Mo'g'ullar savdo karvonlarining dashtlardan o'tishiga to'sqinlik qilgani uchun",
+    "Hindistonga bosqin uyushtirish uchun",
+    "Yaponiyani bo'ysundirish uchun",
+    "Karvon yo'llari qurib qolgani uchun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xubilay kimning o'g'li edi.",
+   "options": [
+    "Tuluxonning",
+    "Chingizxonning",
+    "Botuxonning",
+    "O'qtoy xonning"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Chjan Xega tegishlilarini aniqlang.",
+   "options": [
+    "2, 3",
+    "2, 4",
+    "1, 4",
+    "3, 4"
+   ],
+   "answer": 2,
+   "image": "img/j8-16-15.jpg"
+  },
+  {
+   "q": "XIV asrning 40-yillarida qaysi daryoda toshqin yuz berdi.",
+   "options": [
+    "Yanszi daryosida",
+    "Amur daryosida",
+    "Sariq daryoda (Xuanxe)",
+    "Hind daryosida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xubilay qaysi sulolani tugatib, Yuan sulolasiga asos soldi.",
+   "options": [
+    "Chin sulolasini",
+    "Szin sulolasini",
+    "Sun sulolasini",
+    "Min sulolasini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yuan sulolasi poytaxti qaysi shahar edi.",
+   "options": [
+    "Xonbaliq",
+    "Dasin",
+    "Beypin",
+    "Nankin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xuanxe toshqini oqibatida suv ostida qolgan hududni aniqlang.",
+   "options": [
+    "Hindixitoy yarimoroli",
+    "Shandun yarimoroli",
+    "Liaodun yarimoroli",
+    "Koreya yarimoroli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yuan davridagi boshqaruv tuzilmasi keyinchalik qaysi sulolalar boshqaruviga asos bo'ldi.",
+   "options": [
+    "Sun va Min",
+    "Tan va Chin",
+    "Min va Chin",
+    "Szin va Sun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Qizil peshonabog'lilar” qo'zg'oloni dastlab qaysi viloyatlarda boshlandi.",
+   "options": [
+    "Yanszi va Guandunda",
+    "Xenan va Shandunda",
+    "Shansi va Liaodunda",
+    "Nankin va Pekinda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yongle davrida 1408-yilda nima yozildi.",
+   "options": [
+    "“Xitoy yilnomasi”",
+    "“Min qonunlari”",
+    "“Buyuk kanal tarixi”",
+    "“Yongle ensiklopediyasi”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diagrammada Min sulolasi islohotlariga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "3, 4",
+    "1, 2",
+    "2, 3",
+    "1, 4"
+   ],
+   "answer": 0,
+   "image": "img/j8-16-23.jpg"
+  },
+  {
+   "q": "Yuan davrida sug'oriladigan yerlarning asosiy qismi kimlar qo'liga o'tdi.",
+   "options": [
+    "Mo'g'ul zodagonlari",
+    "Buddaviy ruhoniylar",
+    "Xitoy amaldorlari",
+    "Xitoy dehqonlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xubilay qaysi davlatlarni o'ziga bo'ysundirdi.",
+   "options": [
+    "Kambodja, Hindiston va Seylonni",
+    "Birma, Kambodja va Koreyani",
+    "Koreya, Yaponiya va Vyetnamni",
+    "Hindiston, Yaponiya va Birmani"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Qizil peshonabog'lilar” qo'zg'oloni qaysi yilda boshlandi.",
+   "options": [
+    "1351-yilda",
+    "1368-yilda",
+    "1279-yilda",
+    "1405-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Dehqonlar og'ir mehnat evaziga qaysi daryo vodiysini o'zlashtirdi.",
+   "options": [
+    "Xuanxe",
+    "Yanszi",
+    "Amudaryo",
+    "Hind"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yongle Temuriylardan qaysi hukmdorlar bilan munosabat o'rnatdi.",
+   "options": [
+    "Bobur va Umarshayx",
+    "Shohrux va Ulug'bek",
+    "Boysung'ur va Husayn Boyqaro",
+    "Xalil Sulton va Mironshoh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chjan Xe ekspeditsiyalari qaysi yillar oralig'ida tashkil etilgan.",
+   "options": [
+    "1387–1388-yillarda",
+    "1368–1398-yillarda",
+    "1402–1424-yillarda",
+    "1405–1433-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Min dengiz floti yapon qaroqchilariga qarshi qayerda tor-mor keltirdi.",
+   "options": [
+    "Ryukyu orollari yaqinida",
+    "Seylon yaqinida",
+    "Hindixitoy qirg'oqlarida",
+    "Fors ko'rfazida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Min sulolasi davrida soliqlar miqdorini aniqlashtirish maqsadida nima qilindi.",
+   "options": [
+    "1370-yilda aholi ro'yxatdan o'tkazildi",
+    "Aholi ro'yxatdan o'tkazish taqiqlandi",
+    "1370-yilda soliqlar ikki barobar oshirildi",
+    "Yerlar mo'g'ullarga qaytarildi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIII asr oxiri – XIV asr boshlarida mo'g'ullar kimning kuchli ta'siri ostiga tushib qoldi.",
+   "options": [
+    "Yaponlarning",
+    "Xitoyliklarning",
+    "Arablarning",
+    "Hindlarning"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chjan Xe boshchiligidagi flot taxminan nechta kemadan iborat bo'lgan.",
+   "options": [
+    "30 ga yaqin",
+    "70 ga yaqin",
+    "250 ga yaqin",
+    "500 ga yaqin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Toshqin tufayli qaysi inshoot vayron bo'ldi.",
+   "options": [
+    "Buyuk kanal",
+    "Buyuk Xitoy devori",
+    "Chinni minora",
+    "Pekin darvozalari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Markaziy Xitoydagi qo'zg'olonga kim boshchilik qildi.",
+   "options": [
+    "Admiral Chjan Xe",
+    "Imperator Yongle",
+    "Xubilay",
+    "Rohib Chju Yuan Chjan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chjan Xening asl ismi nima edi.",
+   "options": [
+    "Yongle",
+    "Kamoliddin",
+    "Mahmud",
+    "Umar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Min” so'zi qanday ma'noni anglatadi.",
+   "options": [
+    "Osmon o'g'li",
+    "Yorug'lik imperiyasi",
+    "Buyuk devor",
+    "Oltin sulola"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yuan davrida dehqonlarga nima taqiqlangan edi.",
+   "options": [
+    "Yer sotib olish",
+    "Yashash joyini tark etish",
+    "Yangi yerlarni o'zlashtirish",
+    "Yiliga ikki marta hosil olish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mo'g'ullar va yirik mulkdorlarning yerlari musodara qilingach, ular kimga bo'lib berildi.",
+   "options": [
+    "Yersiz dehqonlarga",
+    "Qo'shin boshliqlariga",
+    "Savdogarlarga",
+    "Amaldorlarga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xubilay o'zini nima deb e'lon qildi.",
+   "options": [
+    "Osmon o'g'li",
+    "Yorug'lik imperatori",
+    "Xudoning soyasi",
+    "Sohibqiron"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Yongle hukmronligiga tegishlilarini aniqlang.",
+   "options": [
+    "2, 3",
+    "1, 3",
+    "2, 4",
+    "3, 4"
+   ],
+   "answer": 2,
+   "image": "img/j8-16-41.jpg"
+  },
+  {
+   "q": "Min sulolasi dastlabki islohotlarida soliqlarni undirish qanday belgilandi.",
+   "options": [
+    "Yiliga to'rt marta",
+    "Har uch yilda bir marta",
+    "Yiliga bir marta",
+    "Yiliga ikki marta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Pekin Min imperiyasining poytaxtiga aylangunga qadar qaysi nom bilan atalgan.",
+   "options": [
+    "Dasin",
+    "Beypin",
+    "Chjundu",
+    "Xonbaliq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xuanxe toshqinining shimoliy viloyatlarga ta'sirini aniqlang.",
+   "options": [
+    "Soliqlar kamayib, hosil ko'paydi",
+    "Ocharchilik boshlanib, dehqonlar janubga qochdi",
+    "Savdo kuchayib, aholi shimolga ko'chdi",
+    "Qo'zg'olon bostirilib, tinchlik o'rnatildi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yongle qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1405–1433-yillarda",
+    "1368–1398-yillarda",
+    "1424–1450-yillarda",
+    "1402–1424-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Qizil peshonabog'lilar” nomi nimadan kelib chiqqan.",
+   "options": [
+    "Qizil sariq daryo bo'yida yashaganidan",
+    "Isyonchilar boshiga qizil mato bog'laganidan",
+    "Qizil kiyim kiyganidan",
+    "Qizil bayroq ko'targanidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diagrammada berilgan ma'lumotlardan Xubilayga tegishlilarini aniqlang.",
+   "options": [
+    "3, 4",
+    "1, 4",
+    "2, 4",
+    "1, 2"
+   ],
+   "answer": 1,
+   "image": "img/j8-16-47.jpg"
+  },
+  {
+   "q": "Mo'g'ullar bosqiniga qadar Pekin qaysi nom bilan atalgan.",
+   "options": [
+    "Nankin",
+    "Beypin",
+    "Dasin (Chjundu)",
+    "Xonbaliq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yuan sulolasi qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1402–1424-yillarda",
+    "1279–1368-yillarda",
+    "1260–1351-yillarda",
+    "1368–1644-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Min sulolasi qaysi yillarda hukmronlik qilgan.",
+   "options": [
+    "1402–1433-yillarda",
+    "1351–1368-yillarda",
+    "1279–1368-yillarda",
+    "1368–1644-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Pekin Min imperiyasining poytaxtiga qaysi yilda aylandi.",
+   "options": [
+    "1421-yilda",
+    "1368-yilda",
+    "1408-yilda",
+    "1405-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur Xitoyga qaysi yili yurish boshladi.",
+   "options": [
+    "1404-yil oxirida",
+    "1405-yil boshida",
+    "1398-yilda",
+    "1387-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xubilay Xitoyni qaysi yilda to'liq egalladi.",
+   "options": [
+    "1368-yilda",
+    "1351-yilda",
+    "1260-yilda",
+    "1279-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Qizil peshonabog'lilar” qo'zg'olonini qaysi ittifoq tayyorlagan.",
+   "options": [
+    "“Yorug'lik”",
+    "“Osmon o'g'li”",
+    "“Oq nilufar”",
+    "“Sariq daryo”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yuan davrida ish yuritish qanday olib borilgan.",
+   "options": [
+    "Xitoy va fors tillarida",
+    "Faqat xitoy tilida",
+    "Mo'g'ul va xitoy tillarida baravar",
+    "Faqat mo'g'ul tilida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chju Yuan Chjan qaysi yilda Nankinni egallab, o'zini imperator deb e'lon qildi.",
+   "options": [
+    "1402-yilda",
+    "1351-yilda",
+    "1370-yilda",
+    "1368-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temurning Xitoy yurishi nima uchun amalga oshmadi.",
+   "options": [
+    "Qo'shin dasht ocharchiligidan qirildi",
+    "Yongle elchi yubordi",
+    "Min qo'shini yengdi",
+    "U yo'lda vafot etdi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Dehqonlar balandlikdagi yerlarni sug'orish uchun nimadan foydalangan.",
+   "options": [
+    "Suv tortuvchi qurilmalardan",
+    "Yer osti kanallaridan",
+    "Tog' suvlaridan",
+    "Yomg'ir suvidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xitoy dengiz ekspeditsiyalariga kim boshchilik qildi.",
+   "options": [
+    "Admiral Chjan Xe",
+    "Imperator Yongle",
+    "Chju Yuan Chjan",
+    "Marko Polo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yuan imperiyasi poytaxtida tuzilgan markaziy boshqaruv organlarini aniqlang.",
+   "options": [
+    "Qurultoy, devon, xazina boshqarmasi",
+    "Moliya vazirligi, harbiy kengash, sud boshqarmasi",
+    "Ichki ishlar boshqarmasi, maxfiy davlat kengashi, davlat xizmatchilari ishini nazorat qilish bo'limi",
+    "Ichki ishlar boshqarmasi, harbiy kengash, sud boshqarmasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xubilay davlat boshqaruvida qanday yo'l tutdi.",
+   "options": [
+    "Mo'g'ul usulini to'liq joriy qildi, xitoyliklarni chetlatdi",
+    "Faqat mahalliy amaldorlarga tayandi",
+    "Xitoycha usulni saqlab qoldi, ammo mahalliy amaldorlar xizmatidan foydalanmadi",
+    "Davlatni Hindiston usulida boshqardi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buyuk Xitoy devorining 600 km qismini qurish qaysi imperator davrida buyurilgan.",
+   "options": [
+    "Xubilay",
+    "Yongle",
+    "Cheng Xua",
+    "Chju Yuan Chjan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ullar imperiyasi dastlab qaysi hududlardan iborat bo'lgan.",
+   "options": [
+    "Xitoy va Hindixitoydan",
+    "Mo'g'uliston va Janubiy Xitoydan",
+    "Butun Xitoy va Koreyadan",
+    "Mo'g'uliston va Shimoliy Xitoydan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Min sulolasining asoschisi kim.",
+   "options": [
+    "Xubilay",
+    "Yongle",
+    "Chju Yuan Chjan",
+    "Chjan Xe"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Cheng Xua davrida devor qurilishida nechta askar qatnashgan.",
+   "options": [
+    "200 ming",
+    "250 ming",
+    "30 ming",
+    "70 ming"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chjan Xening ajdodlari qaysi shahardan edi.",
+   "options": [
+    "Samarqanddan",
+    "Buxorodan",
+    "Xonbaliqdan",
+    "Nankindan"
+   ],
+   "answer": 1
+  }
+ ]
+}

@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 43-mavzu. Qadimgi Italiya va uning aholisi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Italiya qaysi yarimorolni to'liq egallagan?",
+   "options": [
+    "Attika yarimorolini",
+    "Bolqon yarimorolini",
+    "Apennin yarimorolini",
+    "Peloponnes yarimorolini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Italiyaning iqlimiga xos xususiyat nima?",
+   "options": [
+    "Qattiq sovuq va qorli",
+    "Iqlimi iliq, qurg'oqchilik ham, qattiq sovuq ham bo'lmagan",
+    "Doimo yomg'irli va botqoq",
+    "Juda issiq va qurg'oqchil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Italiya aholisining ko'p asrlar davomida asosiy mashg'uloti nima bo'lgan?",
+   "options": [
+    "Dehqonchilik va chorvachilik",
+    "Konchilik",
+    "Ko'chmanchilik",
+    "Dengiz savdosi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Italiya” so'zi qanday ma'noni bildiradi?",
+   "options": [
+    "“Yettita tepalik”",
+    "“Buzoqchalar mamlakati”",
+    "“Bo'ri yurti”",
+    "“Xalq ishi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Italiya” nomi kimlar bilan bog'liq?",
+   "options": [
+    "Karfagenliklar shunday nom bergan",
+    "Rimliklar o'z yurtlarini shunday atagan",
+    "Italiya sohillarida koloniyalarga asos solgan yunonlar sigirlarni o'tlatish uchun ajoyib o'tloqlarni topgan",
+    "Etrusklar sigirlarga sig'ingan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Apennin yarimorolidagi eng katta daryo qaysi?",
+   "options": [
+    "Po daryosi",
+    "Nil daryosi",
+    "Tibr daryosi",
+    "Dunay daryosi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Apennin yarimoroli qabilalari qanday nomlangan?",
+   "options": [
+    "Etrusklar",
+    "Latinlar",
+    "Ellinlar",
+    "Italiklar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Italiyaning shimoli-g'arbiy qismida kimlar yashagan?",
+   "options": [
+    "Etrusklar",
+    "Italiklar",
+    "Karfagenliklar",
+    "Yunonlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Etrusklar qachon Italiyada nechta shahar-davlat tuzishgan?",
+   "options": [
+    "Mil. avv. VI asrda; 7 ta",
+    "Mil. avv. 2-mingyillikda; 22 ta",
+    "Mil. avv. V asrda; 30 ta",
+    "Mil. avv. VIII asrda; 12 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Etrusklar nima maqsadda yunon koloniyalari bilan kurash boshlagan?",
+   "options": [
+    "Dinni tarqatish uchun",
+    "Yangi yerlarni o'zlashtirish uchun",
+    "Sharq mamlakatlari bilan erkin savdo-sotiq qilish uchun",
+    "Rimga asos solish uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Etrusklarga yunonlarga qarshi kurashda qaysi shahar-davlat qo'shildi?",
+   "options": [
+    "Afina",
+    "Sparta",
+    "Rim",
+    "Afrikaning shimoliy sohilidagi Finikiya koloniyasi – Karfagen"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Etrusklar va karfagenliklarning yunonlarga qarshi kurashi qanday yakunlandi?",
+   "options": [
+    "Dastlab ular g'alaba qozondi, ammo ko'p o'tmay yunon qo'shini ularni quruqlik va dengizda tor-mor qildi",
+    "Etrusklar butun Italiyani egalladi",
+    "Yunonlar Italiyadan haydaldi",
+    "Sulh tuzildi va hamma joyida qoldi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rim shahri qaysi daryo bo'yida vujudga kelgan?",
+   "options": [
+    "Po daryosi bo'yida",
+    "Nil daryosi bo'yida",
+    "Tibr daryosi bo'yida",
+    "Dunay daryosi bo'yida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rim shahri qanday tashkil topgan?",
+   "options": [
+    "Karfagenliklar qurgan qal'a o'rnida",
+    "Yunon koloniyasi asosida",
+    "Tibr bo'yidagi kichik dehqonchilik manzilgohlari birlashib, katta shaharga aylangan",
+    "Etrusklar poytaxti sifatida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nima uchun Rimning joylashuvi harbiy nuqtayi nazardan qulay bo'lgan?",
+   "options": [
+    "Cho'l o'rtasida joylashgan",
+    "Tog' cho'qqisida joylashgan",
+    "Dengiz orolida joylashgan",
+    "Yettita tepalikda joylashgan, daryo va botqoqlik aholini qo'shni qabilalar hujumidan himoya qilgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rivoyatga ko'ra Rim shahriga qachon va kimlar asos solgan?",
+   "options": [
+    "Mil. avv. 753-yilda; aka-uka Romul va Rem",
+    "Mil. avv. 509-yilda; Tarkviniy",
+    "Mil. avv. 776-yilda; Gerakl",
+    "Mil. avv. VIII asrda; etrusklar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afsonaga ko'ra Tibr bo'yida qolgan egizak chaqaloqlarni kim topib olib, emizgan?",
+   "options": [
+    "Burgut",
+    "Ona bo'ri",
+    "Ona ayiq",
+    "Cho'pon xotini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Romul va Remni ona bo'ridan keyin kim topib olib tarbiyalagan?",
+   "options": [
+    "Bir cho'pon",
+    "Kohin",
+    "Yunon savdogari",
+    "Etrusk podshosi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bugungi kunda Rimning timsoli nima hisoblanadi?",
+   "options": [
+    "Egizaklarni emizgan ona bo'ri",
+    "Sher",
+    "Zaytun novdasi",
+    "Burgut"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rimda dushmanlardan himoyalanish uchun qal'a qaysi tepalikda bunyod etilgan?",
+   "options": [
+    "Palatin tepaligida",
+    "Kapitoliy tepaligida",
+    "Olimpda",
+    "Akropolda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Rimda hukmdorlar qanday vazifalarni bajargan?",
+   "options": [
+    "Faqat qo'mondon bo'lgan",
+    "Ham harbiy boshliq, ham sudya, ham kohin bo'lgan",
+    "Faqat soliq yig'gan",
+    "Faqat kohin bo'lgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Rimda hukmdorlar qanday yo'l bilan hokimiyatga kelgan?",
+   "options": [
+    "Kohinlar tayinlagan",
+    "Hokimiyat meros bo'lib o'tgan",
+    "Etrusklar tayinlagan",
+    "Rimliklar o'z hukmdorlarini saylagan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Saylangan hukmdorni o'ldirib, hokimiyatni egallab olgan kishi qanday laqab bilan tarixda qolgan?",
+   "options": [
+    "Buyuk Romul",
+    "Dono Numa",
+    "Jasur Rem",
+    "Mag'rur Tarkviniy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarkviniy hokimiyatni egallagach, aholi nima qildi?",
+   "options": [
+    "Unga bo'ysundi",
+    "Qo'zg'olon ko'tarib, Tarkviniyni shahardan haydab yubordi",
+    "Uni podsho deb tan oldi",
+    "Shaharni tashlab ketdi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rimliklar Tarkviniy quvilgach qanday qarorga keldi?",
+   "options": [
+    "Butun hokimiyat bir kishi qo'lida jamlanishiga yo'l qo'ymaydigan boshqaruv shakliga o'tishga",
+    "Etrusklarga bo'ysunishga",
+    "Yunon koloniyasiga aylanishga",
+    "Yangi podsho saylashga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rim respublikasining asosi qachon yaratildi?",
+   "options": [
+    "Mil. avv. 753-yilda Rimga asos solinishi bilan",
+    "Mil. avv. 776-yilda",
+    "Mil. avv. 509-yilda podsho hokimiyati ag'darilishi bilan",
+    "Mil. avv. VIII asrda etrusklar shahar-davlatlari tuzilishi bilan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Voqealarni xronologik tartibda joylashtiring.\n1) Rim respublikasi asosining yaratilishi; 2) Rimga asos solinishi; 3) etrusklarning 12 ta shahar- davlat tuzishi.",
+   "options": [
+    "2, 3, 1",
+    "3, 1, 2",
+    "3, 2, 1",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nVoqea | Sana yoki shaxs\nRimga asos solinishi | 1) ________\nRimga asos solgan aka-uka | 2) ________\nRim respublikasi asosining yaratilishi | 3) ________\na) mil. avv. 753-yil; b) Romul va Rem; c) mil. avv. 509-yil; d) mil. avv. 776-yil; e) Tarkviniy; f) mil. avv. 323-yil.",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-a, 2-b, 3-f",
+    "1-d, 2-b, 3-c",
+    "1-a, 2-e, 3-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nXalq yoki shahar | Joylashuvi yoki ma'lumot\nEtrusklar | A\nB | Afrikaning shimoliy sohilidagi Finikiya koloniyasi\nRim | C\n1) Italiyaning shimoli-g'arbida, 12 ta shahar-davlat tuzgan; 2) Karfagen; 3) Tibr daryosi bo'yida, yettita tepalikda; 4) Sirakuza; 5) Po daryosi deltasida; 6) Afina.",
+   "options": [
+    "A-1, B-4, C-3",
+    "A-5, B-2, C-3",
+    "A-1, B-2, C-6",
+    "A-1, B-2, C-3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Italiyaga oid to'g'ri hukmlarni aniqlang.\nI. “Italiya” so'zi “buzoqchalar mamlakati” degan ma'noni bildiradi.\nII. Rim Po daryosi bo'yida vujudga kelgan.\nIII. Rim respublikasining asosi mil. avv. 509-yilda yaratilgan.\nIV. Etrusklar Italiyaning janubida yashagan.",
+   "options": [
+    "I va III",
+    "III va IV",
+    "II va IV",
+    "I va II"
+   ],
+   "answer": 0
+  }
+ ]
+}

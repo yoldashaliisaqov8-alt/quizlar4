@@ -1,0 +1,956 @@
+{
+ "title": "9-sinf · 22-mavzu. Fransiya: inqilob va imperiyalar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Napoleon Bonapart qaysi yillarda yashagan?",
+   "options": [
+    "1769–1821-yillarda",
+    "1771–1823-yillarda",
+    "1775–1827-yillarda",
+    "1778–1830-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Napoleon Bonapart tug'ilgan Ayachcho shahri qayerda joylashgan?",
+   "options": [
+    "Sardiniya orolida",
+    "Korsika orolida",
+    "Elba orolida",
+    "Avliyo Yelena orolida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Napoleon Bonapart vafot etgan Atlantika okeanidagi orolni toping.",
+   "options": [
+    "Sardiniya oroli",
+    "Korsika oroli",
+    "Elba oroli",
+    "Avliyo Yelena oroli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buyuk fransuz inqilobidan keyingi bir asrdan ko'proq vaqt davomida Fransiya yana … inqilobni boshdan kechirgan, … marta respublika, … marta imperiya ta'sis etilgan.",
+   "options": [
+    "ikkita/ikki/bir",
+    "uchta/uch/bir",
+    "to'rtta/to'rt/ikki",
+    "beshta/besh/ikki"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yildagi davlat to'ntarishidan so'ng Napoleon Fransiyada Birinchi konsul lavozimini egallagan?",
+   "options": [
+    "1797-yildagi",
+    "1799-yildagi",
+    "1802-yildagi",
+    "1804-yildagi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Senat Napoleonni “Fransuzlar imperatori Napoleon I” deb e'lon qilgan?",
+   "options": [
+    "1797-yilda",
+    "1799-yilda",
+    "1802-yilda",
+    "1804-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fransiyada Birinchi imperiya qaysi yillarda hukm surgan?",
+   "options": [
+    "1797–1807-yillarda",
+    "1799–1809-yillarda",
+    "1802–1812-yillarda",
+    "1804–1814-yillarda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Napoleon urushlari davridagi Austerlis jangi qaysi yilda bo'lib o'tgan?",
+   "options": [
+    "1807-yilda",
+    "1810-yilda",
+    "1812-yilda",
+    "1813-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Austerlis jangida Napoleon qaysi davlatlarning birlashgan armiyasi ustidan hal qiluvchi g'alabani qo'lga kiritgan?",
+   "options": [
+    "Angliya va Rossiya",
+    "Rossiya va Avstriya",
+    "Avstriya va Prussiya",
+    "Prussiya va Angliya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Napoleon urushlari davridagi qaysi jang “Uch imperator jangi” deb atalgan?",
+   "options": [
+    "Austerlis jangi",
+    "Leypsig jangi",
+    "Borodino jangi",
+    "Vaterloo jangi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Napoleon qaysi davlatga qarshi “qit'a qamali” deb nomlangan siyosatini e'lon qilgan?",
+   "options": [
+    "Rossiya",
+    "Prussiya",
+    "Avstriya",
+    "Buyuk Britaniya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Napoleon qaysi jangdagi g'alabasidan ruhlanib, “qit'a qamali” deb nomlangan siyosatini e'lon qilgan?",
+   "options": [
+    "Austerlis jangidagi",
+    "Leypsig jangidagi",
+    "Borodino jangidagi",
+    "Vaterloo jangidagi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yilda Rossiya Napoleon bilan tinchlik hamda ittifoq to'g'risida Tilzit shartnomasini imzolab, Fransiyaning Yevropadagi barcha g'alabalarini tan olgan?",
+   "options": [
+    "1807-yilda",
+    "1810-yilda",
+    "1812-yilda",
+    "1813-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Buyuk Britaniyaga qarshi qit'a qamalidan ko'zlagan maqsadiga erisha olmagach, aholi orasida kuchaygan norozilik va milliy-ozodlik harakatlaridan odamlarni chalg'itish uchun Napoleonga katta bir g'olibona urush kerak edi va u qaysi davlatga qarshi urush boshlashni rejalashtirgan?",
+   "options": [
+    "Ispaniya",
+    "Prussiya",
+    "Rossiya",
+    "Avstriya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Haligacha hal etilmagan savol bu quyidagi savoldir: nima muhimroq – armiyani yo'qotishmi yoki Moskvani yo'qotishmi?”. Ushbu jumlalarni kim o'z maktublaridan birida yozgan edi?",
+   "options": [
+    "A. V. Suvorov",
+    "P. I. Bagration",
+    "M. I. Kutuzov",
+    "A. Y. Yermolov"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Napoleon Rossiyaga qarshi urush boshlagan?",
+   "options": [
+    "1810-yilda",
+    "1812-yilda",
+    "1813-yilda",
+    "1815-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Napoleonning Rossiyaga qarshi urushi Rossiya tarixiga qanday nom bilan kirgan?",
+   "options": [
+    "“Vatan urushi”",
+    "“Napoleon urushi”",
+    "“Buyuk urush”",
+    "“Sovuq urush”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Napoleon va Rossiya armiyasi o'rtasidagi hal qiluvchi Borodino jangi qachon bo'lib o'tgan?",
+   "options": [
+    "1810-yil 7-oktyabrda",
+    "1812-yil 7-sentyabrda",
+    "1813-yil 7-dekabrda",
+    "1815-yil 7-noyabrda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Borodino qishlog'i qayerda joylashgan?",
+   "options": [
+    "Sankt-Peterburg yaqinida",
+    "Kiyev yaqinida",
+    "Novgorod yaqinida",
+    "Moskva yaqinida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Napoleon Rossiyaning qaysi shahrini egallagan, ammo armiyasida tartib yo'qolib, askarlar yoppasiga talonchilik bilan shug'ullana boshlagach, shaharni tashlab chiqishga majbur bo'lgan?",
+   "options": [
+    "Sankt-Peterburg",
+    "Kiyev",
+    "Novgorod",
+    "Moskva"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Napoleon bosqini vaqtida Rossiya armiyasi bosh qo'mondoni kim edi?",
+   "options": [
+    "A. V. Suvorov",
+    "P. I. Bagration",
+    "M. I. Kutuzov",
+    "A. Y. Yermolov"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yevropa mamlakatlari qo'shinlaridan iborat qurolli kuchlar bilan Napoleon armiyasi o'rtasidagi hal qiluvchi Leypsig jangi qachon bo'lib o'tgan?",
+   "options": [
+    "1810-yilda",
+    "1812-yilda",
+    "1813-yilda",
+    "1815-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Napoleon urushlari davridagi qaysi jang “Xalqlar jangi” deb nom olgan?",
+   "options": [
+    "Austerlis jangidagi",
+    "Leypsig jangidagi",
+    "Borodino jangidagi",
+    "Vaterloo jangidagi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi yilda ittifoqchi davlatlar armiyasi Parij shahriga kirib kelgan, Napoleon taxtdan voz kechishga majbur bo'lgan va Birinchi imperiya qulagan?",
+   "options": [
+    "1812-yilda",
+    "1813-yilda",
+    "1814-yilda",
+    "1815-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Birinchi imperiya qulagach, Napoleon O'rtayer dengizidagi qaysi orolga surgun qilingan?",
+   "options": [
+    "Elba oroliga",
+    "Muqaddas Yelena oroliga",
+    "Sardiniya oroliga",
+    "Korsika oroliga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Birinchi imperiya qulagach, ittifoqchi davlatlar Fransiyada Burbonlar sulolasi hokimiyatini tiklashga qaror qilganlar va qatl etilgan qirol Lyudovik XVI ning ukasi bo'lgan kim Senatning qarori bilan taxtga o'tqazilgan?",
+   "options": [
+    "Lyudovik XVII",
+    "Lyudovik XVIII",
+    "Karl IX",
+    "Karl X"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Birinchi imperiya qulagach, ittifoqchilar Fransiya bilan sulh shartnomasini imzolaganlar va unga ko'ra, Fransiya … .",
+   "options": [
+    "Napoleon davrida bosib olgan barcha hududlardan mahrum etilgan",
+    "katta miqdorda tovon to'lash majburiyatini olgan",
+    "armiyani tarqatib yuborish majburiyatini olgan",
+    "Amerika va Afrikadagi barcha mustamlakalaridan mahrum etilgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Birinchi imperiya qulagach, surgun qilingan Napoleon qachon Fransiyaning janubiga yetib kelgan?",
+   "options": [
+    "1812-yil iyunda",
+    "1813-yil iyulda",
+    "1814-yil mayda",
+    "1815-yil martda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Surgundan Fransiyaga qaytgan Napoleonga qarshi yuborilgan qirol Lyudovik XVIII ning qancha ming kishilik qo'shini Napoleon tomoniga o'tib ketgan?",
+   "options": [
+    "10 ming kishilik",
+    "20 ming kishilik",
+    "30 ming kishilik",
+    "40 ming kishilik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Napoleon ikkinchi marta taxtga o'tirganida hokimiyatni necha kun boshqargan?",
+   "options": [
+    "70 kun",
+    "80 kun",
+    "90 kun",
+    "100 kun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Napoleon ikkinchi marta taxtga o'tirganida ittifoqchi qaysi davlatlar juda katta armiyani unga qarshi qo'ygan?",
+   "options": [
+    "Rossiya, Avstriya, Buyuk Britaniya",
+    "Buyuk Britaniya, Gollandiya, Prussiya",
+    "Gollandiya, Prussiya, Rossiya",
+    "Prussiya, Rossiya, Avstriya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ittifoqchi davlatlar va Napoleon o'rtasidagi hal qiluvchi Vaterloo jangi qachon bo'lib o'tgan?",
+   "options": [
+    "1812-yilda",
+    "1813-yilda",
+    "1814-yilda",
+    "1815-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vaterloo qishlog'i hozirgi qaysi davlat hududida joylashgan?",
+   "options": [
+    "Belgiya",
+    "Gollandiya",
+    "Germaniya",
+    "Avstriya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vaterloo jangida mag'lub bo'lgan va ikkinchi bor taxtdan voz kechgan Napoleon qayerga surgun qilingan?",
+   "options": [
+    "Elba oroliga",
+    "Muqaddas Yelena oroliga",
+    "Sardiniya oroliga",
+    "Korsika oroliga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Napoleon Bonapart qachon vafot etgan?",
+   "options": [
+    "1821-yilda",
+    "1823-yilda",
+    "1827-yilda",
+    "1830-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Napoleon ikkinchi bor taxtdan voz kechgach, Fransiyada … .",
+   "options": [
+    "respublika tuzumi o'rnatilgan",
+    "imperiya o'z faoliyatini davom ettirgan",
+    "burbonlar hokimiyati qayta tiklangan",
+    "ittifoqchi davlatlarning hokimiyati o'rnatilgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Napoleon ikkinchi bor taxtdan voz kechgach, g'olib davlatlar Kongress chaqirgan Vena shahri qaysi davlat poytaxti hisoblanadi?",
+   "options": [
+    "Gollandiya",
+    "Belgiya",
+    "Shveysariya",
+    "Avstriya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Napoleon urushlaridan keyin chaqirilgan Vena Kongressi qaysi yillarda bo'lib o'tgan?",
+   "options": [
+    "1813–1814-yillarda",
+    "1814–1815-yillarda",
+    "1815–1816-yillarda",
+    "1816–1817-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Napoleon urushlaridan keyin chaqirilgan Vena Kongressining asosiy maqsadi nima edi?",
+   "options": [
+    "Fransiyaning siyosiy tuzumini belgilash",
+    "Mustamlakalarni qayta taqsimlash",
+    "Yevropani g'oliblar manfaatlari yo'lida qayta taqsimlash",
+    "Mintaqaviy yangi urushlarni oldini olish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Napoleon urushlaridan keyin chaqirilgan Vena Kongressining yakunlovchi hujjatiga binoan, Fransiya hududi o'zining qaysi yildagi chegarasigacha qisqartirilgan?",
+   "options": [
+    "1789-yildagi",
+    "1797-yildagi",
+    "1804-yildagi",
+    "1812-yildagi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Napoleon urushlaridan keyin chaqirilgan Vena Kongressidan keyin Yevropada qaysi davlatlarning ta'siri kuchaygan?",
+   "options": [
+    "Rossiya va Prussiya",
+    "Prussiya va Avstriya",
+    "Avstriya va Buyuk Britaniya",
+    "Buyuk Britaniya va Rossiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Napoleon urushlaridan keyin chaqirilgan Vena Kongressi nimani taqiqlovchi deklaratsiya qabul qilgan?",
+   "options": [
+    "Mustamlakalar egallashni",
+    "Afyun savdosini",
+    "Qul savdosini",
+    "Siyosiy qatag'onlarni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Napoleon urushlaridan keyin chaqirilgan Vena Kongressi qaroriga ko'ra egallangan hududlar va ularni egallagan davlatlar mos keltirilgan javobni toping. 1) Rossiya; 2) Prussiya; 3) Avstriya; 4) Angliya. a) Reyn viloyati va Vestfaliya, Polshaning g'arbiy hududlari; b) Malta va Seylon orollari, Kap yer",
+   "options": [
+    "1b, 2c, 3a, 4d",
+    "1d, 2a, 3c, 4b",
+    "1c, 2b, 3d, 4a",
+    "1a, 2d, 3b, 4c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi “Vaterloo jangi” kartinasi muallifi kim?",
+   "options": [
+    "Vilyam Sedler",
+    "Devid Roberts",
+    "Edvard Burn-Jons",
+    "Jon Constebl"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Muqaddas ittifoq” qanday maqsadda tuzilgan?",
+   "options": [
+    "Mustamlakalarni qayta taqsimlash maqsadida",
+    "Egallab olinmagan yerlarda ta'sir doiralarini belgilab olish maqsadida",
+    "Yevropada kelgusida ro'y berishi mumkin bo'lgan inqiloblarga qarshi birgalikda kurashish maqsadida",
+    "Yevropani g'oliblar manfaatlari yo'lida qayta taqsimlash maqsadida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Muqaddas ittifoq” qachon tuzilgan?",
+   "options": [
+    "1814-yil 26-dekabrda",
+    "1814-yil 26-oktyabrda",
+    "1815-yil 26-noyabrda",
+    "1815-yil 26-sentyabrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Muqaddas ittifoq” qayerda tuzilgan?",
+   "options": [
+    "Parij",
+    "Vena",
+    "Sankt-Peterburg",
+    "Berlin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Muqaddas ittifoq” qaysi davlatlar monarxlari o'rtasida tuzilgan?",
+   "options": [
+    "Buyuk Britaniya, Fransiya, Rossiya",
+    "Rossiya, Avstriya, Prussiya",
+    "Avstriya, Prussiya, Buyuk Britaniya",
+    "Prussiya, Buyuk Britaniya, Fransiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Fransiya qiroli Lyudovik XVIII vafot etgan?",
+   "options": [
+    "1824-yilda",
+    "1830-yilda",
+    "1846-yilda",
+    "1848-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransiya qiroli Lyudovik XVIII vafot etgach, taxtni ukasi bo'lgan kim egallagan?",
+   "options": [
+    "Lyudovik XIX",
+    "Lyudovik XX",
+    "Karl IX",
+    "Karl X"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Fransiya qiroli Karl X mamlakat parlamentini tarqatib yuborgan va fuqarolar saylov huquqlarining yanada cheklanishini ma'lum qilgan?",
+   "options": [
+    "1824-yilda",
+    "1830-yilda",
+    "1846-yilda",
+    "1848-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Parij shahrida 1830-yilda boshlangan inqilobning ishtirokchilari kimlar edi? 1) Burjuaziya; 2) Ishchilar; 3) Hunarmandlar; 4) Talabalar.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Parij shahrida 1830-yilda boshlangan inqilobning maqsadi nima edi?",
+   "options": [
+    "Imperiyani qayta tiklash",
+    "Konstitutsion monarxiyani joriy qilish",
+    "Respublika tuzumini o'rnatish",
+    "Hukmron sulolani almashtirish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon inqilobdan cho'chib chet elga qochib ketgan Fransiya qiroli Karl X o'rniga burjuaziya burbonlarning qarindoshi Lui Filippni taxtga o'tqazgan?",
+   "options": [
+    "1824-yilda",
+    "1830-yilda",
+    "1846-yilda",
+    "1848-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fransiyadagi 1830-yil inqilobi iyul oyida ro'y berganligi tufayli tarixga … nomi bilan kirgan.",
+   "options": [
+    "“Iyul monarxiyasi”",
+    "“Iyul inqilobi”",
+    "“Iyul respublikasi”",
+    "“Iyul imperiyasi”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransiya qiroli Lui Filipp davrida qabul qilingan konstitutsiyaga ko'ra, … . 1) So'z, matbuot, yig'inlar o'tkazish erkinliklari e'lon qilingan; 2) Shaxs va mol-mulk daxlsizligi kafolatlangan; 3) Saylovchilar uchun yosh va mulk senzlari kamaytirilgan.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fransiya qiroli Lui Filipp davrida kimlarning ahvoli og'irligicha qolgan va ular tomonidan boshlangan bir necha qo'zg'olon shafqatsizlarcha bostirilgan?",
+   "options": [
+    "Hunarmandlar va askarlar",
+    "Askarlar va ishchilar",
+    "Ishchilar va dehqonlar",
+    "Dehqonlar va hunarmandlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda Fransiyada qish juda sovuq kelib, kuzgi g'alla nobud bo'lgan, oqibatda oziq-ovqat mahsulotlari, birinchi navbatda, nonning narxi keskin oshib ketgan hamda tut daraxtlarini sovuq urib, pilla yetishtiruvchi to'qimachilik sanoati inqirozga uchragan va ishsizlikni yuzaga keltirgan?",
+   "options": [
+    "1824-yilda",
+    "1830-yilda",
+    "1846-yilda",
+    "1848-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Parij shahrida yuz bergan inqilob natijasida Fransiya qiroli Lui Filipp taxtdan voz kechib, mamlakatdan qochib ketgan?",
+   "options": [
+    "1848-yil fevralda",
+    "1848-yil dekabrda",
+    "1851-yil fevralda",
+    "1852-yil dekabrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransiya qiroli Lui Filipp taxtdan voz kechib, qayerga qochib ketgan?",
+   "options": [
+    "Gollandiya",
+    "Belgiya",
+    "Ispaniya",
+    "Buyuk Britaniya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi Fransiya qiroli taxti qo'zg'olonchilar tomonidan yoqib yuborilgan?",
+   "options": [
+    "Karl X",
+    "Lyudovik XVI",
+    "Lui Filipp",
+    "Lyudovik XVIII"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fransiyada 1848-yildagi inqilobda kimlarning harakati ancha keskin tus olgan?",
+   "options": [
+    "Dehqonlarning",
+    "Ishchilarning",
+    "Hunarmandlarning",
+    "Burjuaziyaning"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Muqaddas ittifoq” tarkibiga kirgan davlatlar hukmdorlari to'g'ri keltirilgan javobni toping. 1) Rossiya; 2) Avstriya; 3) Prussiya. a) Fridrix Vilgelm III; b) Aleksandr I; c) Frans II.",
+   "options": [
+    "1b, 2c, 3a",
+    "1c, 2a, 3b",
+    "1c, 2b, 3a",
+    "1a, 2c, 3b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Fransiya ikkinchi marta Respublika deb e'lon qilingan?",
+   "options": [
+    "1848-yil 25-fevralda",
+    "1848-yil 25-dekabrda",
+    "1851-yil 25-fevralda",
+    "1852-yil 25-dekabrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransiyadagi ikkinchi Respublika Muvaqqat hukumati qanday erkinliklarni e'lon qilgan? 1) Ish tashlash erkinligi; 2) Matbuot erkinligi; 3) Namoyishlar o'tkazish erkinligi.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fransiyadagi ikkinchi Respublika Muvaqqat hukumati necha yoshga to'lgan barcha erkaklarga saylov huquqini bergan?",
+   "options": [
+    "18 yoshga",
+    "19 yoshga",
+    "20 yoshga",
+    "21 yoshga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon fransuzlar O'rtayer dengizi va Qizil dengizni bog'lovchi Suvaysh kanalini ochib, kemalar qatnovini yo'lga qo'yishgan?",
+   "options": [
+    "1864-yilda",
+    "1869-yilda",
+    "1871-yilda",
+    "1875-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fransuzlar tomonidan Suvaysh kanali ochilganidan keyin dengiz yo'li qanchaga qisqargan?",
+   "options": [
+    "6 ming km. ga",
+    "7 ming km. ga",
+    "8 ming km. ga",
+    "9 ming km. ga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Napoleon Bonapartning jiyani Lui Napoleon Bonapart Fransiya Prezidenti etib saylangan?",
+   "options": [
+    "1848-yil fevralda",
+    "1848-yil dekabrda",
+    "1851-yil fevralda",
+    "1852-yil dekabrda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Lui Napoleon Bonapart davlat to'ntarishi o'tkazgan va o'zi uchun xavfli bo'lgan kishilarning barchasini qamoqqa olgan?",
+   "options": [
+    "1849-yilda",
+    "1850-yilda",
+    "1851-yilda",
+    "1852-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Lui Napoleon Bonapart Napoleon III nomi bilan Fransiya imperatori deb e'lon qilingan?",
+   "options": [
+    "1849-yil 2-martda",
+    "1850-yil 2-iyulda",
+    "1851-yil 2-fevralda",
+    "1852-yil 2-dekabrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Fransiyada Ikkinchi imperiya o'rnatilgan?",
+   "options": [
+    "1849-yil 2-martda",
+    "1850-yil 2-iyulda",
+    "1851-yil 2-fevralda",
+    "1852-yil 2-dekabrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fransiyada 1850–1870-yillarda sanoat ishlab chiqarishi qanchaga o'sgan?",
+   "options": [
+    "Deyarli ikki barobarga",
+    "Deyarli uch barobarga",
+    "Deyarli to'rt barobarga",
+    "Deyarli besh barobarga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fransiyadagi korxonalarda 1852-yilda qancha bug' mashinasi ishlangan?",
+   "options": [
+    "6 ming",
+    "7 ming",
+    "8 ming",
+    "9 ming"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransiyadagi korxonalarda 1869-yilda qancha bug' mashinasi ishlangan?",
+   "options": [
+    "23 ming 200 ta",
+    "24 ming 200 ta",
+    "25 ming 200 ta",
+    "26 ming 200 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ikkinchi imperiya davrida Fransiyada sanoatning qaysi sohalari hajmi uch barobarga ko'paygan? 1) Toshko'mir qazib olish; 2) Po'lat ishlab chiqarish; 3) Cho'yan eritish; 4) Temir eritish.",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ikkinchi imperiya davrida Fransiyada sanoatning qaysi sohasi hajmi sakkiz marta ko'paygan?",
+   "options": [
+    "Toshko'mir qazib olish",
+    "Po'lat ishlab chiqarish",
+    "Cho'yan eritish",
+    "Temir eritish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ikkinchi imperiya davrida Fransiya iqtisodiyotida an'anaviy qaysi sohani rivojlantirishga asosiy e'tibor qaratilgan?",
+   "options": [
+    "Xizmat ko'rsatishni",
+    "Og'ir sanoatni",
+    "Yengil sanoatni",
+    "Bank-moliya tizimini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ikkinchi imperiya davrida Fransiyada ish kuni necha soat davom etgan?",
+   "options": [
+    "10–12 soat",
+    "12–14 soat",
+    "14–16 soat",
+    "16–18 soat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ikkinchi imperiya davrida Fransiyadagi fabrika va zavodlarda necha yoshli bolalar mehnat qilgan?",
+   "options": [
+    "6–10 yoshli",
+    "8–12 yoshli",
+    "10–14 yoshli",
+    "12–16 yoshli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Napoleon III asos solgan Ikkinchi imperiya qaysi yilgacha mavjud bo'lgan?",
+   "options": [
+    "1870-yilgacha",
+    "1871-yilgacha",
+    "1872-yilgacha",
+    "1873-yilgacha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon boshlangan Fransiya – Prussiya urushi dastlabki janglardanoq Fransiya hukumati va armiyasining yaroqsizligini ko'rsatgan?",
+   "options": [
+    "1870-yil iyulda",
+    "1871-yil iyunda",
+    "1872-yil mayda",
+    "1873-yil martda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransiya – Prussiya urushida qaysi sanada Fransiya armiyasi taslim bo'lgan?",
+   "options": [
+    "1870-yil 1-sentyabrda",
+    "1870-yil 2-sentyabrda",
+    "1870-yil 3-sentyabrda",
+    "1870-yil 4-sentyabrda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi sanada Parij ishchilari Lui Napoleon Bonapart va uning sulolasi taxtdan ag'darilganligini e'lon qilgan?",
+   "options": [
+    "1870-yil 1-sentyabrda",
+    "1870-yil 2-sentyabrda",
+    "1870-yil 3-sentyabrda",
+    "1870-yil 4-sentyabrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Fransiyada Ikkinchi imperiya qulagan?",
+   "options": [
+    "1870-yil 4-sentyabrda",
+    "1871-yil 4-dekabrda",
+    "1872-yil 4-noyabrda",
+    "1873-yil 4-oktyabrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Parij Kommunasi qaysi yilda faoliyat yuritgan?",
+   "options": [
+    "1870-yilda",
+    "1871-yilda",
+    "1872-yilda",
+    "1873-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Parij Kommunasi necha kun faoliyat yuritgan?",
+   "options": [
+    "70 kun",
+    "72 kun",
+    "74 kun",
+    "76 kun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda yevropalik qaysi millat eng ko'p inqilobni amalga oshirgan?",
+   "options": [
+    "Inglizlar",
+    "Nemislar",
+    "Fransuzlar",
+    "Gollandlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Borodino” she'ri muallifi kim?",
+   "options": [
+    "A. S. Pushkin",
+    "N. A. Nekrasov",
+    "A. K. Tolstoy",
+    "M. Y. Lermontov"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Borodino” she'rini kim tarjima qilgan?",
+   "options": [
+    "G'. G'ulom",
+    "A. Oripov",
+    "E. Vohidov",
+    "H. Olimjon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Xatolar” she'ri muallifi kim?",
+   "options": [
+    "G'. G'ulom",
+    "A. Oripov",
+    "E. Vohidov",
+    "H. Olimjon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon Napoleon “Fuqarolik kodeksi” – burjua huquqi normalari to'plamini nashr etgan?",
+   "options": [
+    "1801-yilda",
+    "1804-yilda",
+    "1807-yilda",
+    "1808-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Napoleon nashr etgan “Fuqarolik kodeksi” yana qanday nom bilan ataladi?",
+   "options": [
+    "“Napoleon kodeksi”",
+    "“Fransiya kodeksi”",
+    "“Inqilob kodeksi”",
+    "“Imperiya kodeksi”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Napoleon nashr etgan “Fuqarolik kodeksi” nimalarni ta'minlagan? 1) Mulk huquqi; 2) Xususiy tadbirkorlik erkinligi; 3) Oilaviy huquq normalari.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Napoleon shunday degan edi: “Mening haqiqiy shon-shuhratim … jangda g'alaba qozonganimda emas. Ular unutilishi mumkin. Lekin mening “Fuqarolik kodeksim” abadiy yashaydi”.",
+   "options": [
+    "10 ta",
+    "20 ta",
+    "30 ta",
+    "40 ta"
+   ],
+   "answer": 3
+  }
+ ]
+}

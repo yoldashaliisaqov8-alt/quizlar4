@@ -1,0 +1,256 @@
+{
+ "title": "9-sinf · 33-mavzu. Qo'qon xonligining tashqi siyosati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Abdulkarimxon qachon Jung'or xonligi tomonidan yuborilgan elchilarni qabul qiladi.",
+   "options": [
+    "1745-yil",
+    "1831-yil",
+    "1833-yil",
+    "1760-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1745-yili jung'orlarning quyidagi qaysi hududlarga bostirib kelishi Qo'qonga xavfni yuzaga keltiradi.",
+   "options": [
+    "Turkiston va Sayram",
+    "Turkiston va Toshkent",
+    "Sayram va Toshkent",
+    "Toshkent va Samarqand"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Abdulkarimxon jung'orlarga kim boshchiligida qo'shin jo'natganini aniqlang.",
+   "options": [
+    "Abdulqosim",
+    "Mirza Muhammad Rahim",
+    "Bobobek",
+    "Jahongirxo'ja"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xitoy va Sharqiy Turkiston xo'jalari masalasi qaysi hukmdor davrida Qo'qon xonligining tashqi siyosatiga ta'sir ko'rsatgan muhim omillardan biri bo'ldi.",
+   "options": [
+    "Erdonaxon",
+    "Norbo'taxon",
+    "Olimxon",
+    "Muhammad Alixon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Norbo'taxon tomonidan Abdulqosim boshchiligida Pekinga elchilar yuborilgan davrni aniqlang.",
+   "options": [
+    "1796-1797 yillar",
+    "1792-1793 yillar",
+    "1782-1783 yillar",
+    "1757-1759 yillar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Norbo'taxon tomonidan Mirza Muhammad Rahim boshchiligida Pekinga elchilar yuborilgan davrni aniqlang.",
+   "options": [
+    "1796-1797 yillar",
+    "1792-1793 yillar",
+    "1782-1783 yillar",
+    "1757-1759 yillar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Norbo'taxon tomonidan Bobojon boshchiligida Pekinga elchilar yuborilgan davrni aniqlang.",
+   "options": [
+    "1796-1797 yillar",
+    "1792-1793 yillar",
+    "1782-1783 yillar",
+    "1757-1759 yillar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xitoy Sharqiy Turkistonda o'z hukmronligini o'rnatgan davrni aniqlang.",
+   "options": [
+    "1796-1797 yillar",
+    "1792-1793 yillar",
+    "1782-1783 yillar",
+    "1757-1759 yillar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'qonning rasmiy vakili-xudoydod mansabining vazifasiga kirmagan javobni aniqlang.",
+   "options": [
+    "Qo'qon savdogarlarining faoliyati bilan shug'ullangan",
+    "Koshg'ardagi barcha soliqlarni to'plash",
+    "Qo'qon savdogarlari haq-huquqlari bilan shug'ullanish",
+    "Sharqiy Turkistonda muomalada bo'lgan Qo'qon tanga-pullarini nazorat qilgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Erdonaxon faol tashqi siyosat yurita boshlagan davrni aniqlang.",
+   "options": [
+    "1745-yil",
+    "1831-yil",
+    "1833-yil",
+    "1760-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ahmadshoh Durroniyga maktub yuborib, uni harbiy ittifoqqa da'vat etgan hukmdorni aniqlang.",
+   "options": [
+    "Erdonaxon",
+    "Norbo'taxon",
+    "Olimxon",
+    "Muhammad Alixon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qo'qon xudoydodligi (konsulligi) ochilgan hudud nomini toping.",
+   "options": [
+    "Istanbul",
+    "Tehron",
+    "Kobul",
+    "Koshg'ar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi hukmdor Sharqiy Turkiston hududida Qo'qon savdogarlariga imtiyozlar berilishiga erishadi.",
+   "options": [
+    "Erdonaxon",
+    "Norbo'taxon",
+    "Olimxon",
+    "Muhammad Alixon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon tuzilgan Qo'qon-Xitoy shartnomasi xonlik uchun Koshg'ardagi xalqaro savdoni to'liq nazoratga olish imkoniyatini beradi.",
+   "options": [
+    "1745-yil",
+    "1831-yil",
+    "1833-yil",
+    "1760-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilar orasidan Koshg'arning sobiq hukmdorini aniqlang.",
+   "options": [
+    "Abdulqosim",
+    "Mirza Muhammad Rahim",
+    "Bobobek",
+    "Jahongirxo'ja"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'qon xonligining Rossiya bilan elchilik munosabatlari qachondan boshlanadi.",
+   "options": [
+    "1831-yil",
+    "1810-yil",
+    "1833-yil",
+    "1837-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Minglar Usmonli sultonligi bilan elchilik munosabatlari o'rnatgan davrni aniqlang.",
+   "options": [
+    "1796-1797 yillar",
+    "1792-1793 yillar",
+    "1782-1783 yillar",
+    "1819-1820 yillar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Umarxon tomonidan Istanbulga yuborilgan elchini aniqlang.",
+   "options": [
+    "Abdulqosim",
+    "Mirza Muhammad Rahim",
+    "Boboyor",
+    "Xoja Mir Qurbon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Muhammad Alixon dastlab qachon Usmonlilar poytaxtiga elchi yuboradi.",
+   "options": [
+    "1831-yil",
+    "1810-yil",
+    "1833-yil",
+    "1837-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muhammad Alixon ikkinchi bor Usmonlilar poytaxtiga elchi yuborgan vaqtni aniqlang.",
+   "options": [
+    "1831-yil",
+    "1810-yil",
+    "1833-yil",
+    "1837-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'qon xonligi dastlab qachon Hindistonga elchilar yuboradi.",
+   "options": [
+    "1831-yil",
+    "1810-yil",
+    "1833-yil",
+    "1837-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Umarxon davrida qaysi Buxoro amiri Usmonli sultoni Mahmud II ga Xiva va Qo'qon xonliklari ustidan arz qilib xat jo'natadi.",
+   "options": [
+    "Shohmurod",
+    "Nasrulla",
+    "Haydar",
+    "Doniyolbiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Toshkentning mustaqil beklik maqomi qachon tugatilgan.",
+   "options": [
+    "1831-yil",
+    "1810-yil",
+    "1833-yil",
+    "1837-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Toshkent qachon Qo'qon xonligiga qo'shib olingan.",
+   "options": [
+    "1831-yil",
+    "1810-yil",
+    "1833-yil",
+    "1837-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi shaxslardan qaysi biri Muhammad Alixon davrida Istanbul va Sank-Peterburgga elchi qilib yuborilgan.",
+   "options": [
+    "Abdulqosim",
+    "Mirza Muhammad Rahim",
+    "Boboyor",
+    "Xoja Mir Qurbon"
+   ],
+   "answer": 3
+  }
+ ]
+}

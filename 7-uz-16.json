@@ -1,0 +1,376 @@
+{
+ "title": "7-sinf · Qoraxoniylar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Somoniylar davlati kuchsizlana boshlagan asrni belgilang.",
+   "options": [
+    "XI asrning birinchi yarmi",
+    "XI asrning ikkinchi yarmi",
+    "X asrning birinchi yarmi",
+    "X asrning ikkinchi yarmi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Somoniylarga tobe bo'lgan viloyatlar, ayniqsa, ...da ular hokimiyatiga qarshi ko'tarilgan isyonlar, toj-u taxt uchun uzluksiz olib borilgan kurashlar Somoniylar davlati inqirozini yaqinlashtirgan edi. Nuqtalar o'rniga mantiqan mos keladigan javobni toping.",
+   "options": [
+    "Movarounnahr",
+    "Xuroson",
+    "G'azna",
+    "Sharqiy Turkiston va Yettisuv"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Somoniylar davlati inqirozi yaqinlashganligidan quyidagi qaysi hududlardagi turkiy qabilalar faollasha boshlashdi? 1) Yettisuv 2) Sharqiy Turkiston 3) Qoshg'ar 4) Istijob 5) Xuroson 6) Nishopur",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "4, 6",
+    "3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan X asrning ikkinchi yarmiga kelib vujudga kelgan turkiy qabilalarga nomuvofiq bo'lgan javobni toping.",
+   "options": [
+    "qarluq",
+    "yag'mo",
+    "chigil",
+    "o'g'uz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Isfijob hozirgi qaysi hududga to'g'ri keladi?",
+   "options": [
+    "Sayram",
+    "Turkiston",
+    "Eron",
+    "Iroq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi to'g'ri javoblarni aniqlang. \"Ismoil Somoniy (a)...ni egallaganidan so'ng turkiy qabilalar (b)... yerlari tomonga chekinishga majbur bo'lishdi.\" 1) Tabriz 2) Taroz 3) Shimoliy Hindiston 4) Sharqiy Turkiston 5) G'arbiy Qoshg'ar",
+   "options": [
+    "a-2, b-5",
+    "a-2, b-4",
+    "a-1, b-5",
+    "a-2, b-3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraxoniylarning Movarounnahrga hukmronligi qachonga kelib to'liq qaror topdi.",
+   "options": [
+    "X asrning 40-yillarida",
+    "X asrning 50-yillarida",
+    "XI asrning 40-yillarida",
+    "XI asrning 50-yillarida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyida keltirilgan ma'lumotlardan qaysilarida Davlat-hukmdor-voqea mos ravishda berilgan edi",
+   "options": [
+    "Qoraxoniylar - Bilgakul - Yettisuv va Qoshg'arda hukmronlik o'rnatilishi",
+    "G'aznaviylar - Muhammad Yusuf - Harbiylar o'z xat-xabar va qozilik xizmatlariga ega bo'lgan",
+    "Qoraxoniylar - Sotuq Bug'roxon - Qoraxoniylar sulolasi islomni qabul qilgan",
+    "Somoniylar - Alptegin - siyosiy nufuzi ortdi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qoraxoniylar quyidagi qaysi hududlarni egallab bo'lishgandan so'ng, Movarounnahrga yurish boshlashdi? 1) Tyanshan 2) Gobi sahrosi 3) Sharqiy Turkiston 4) Yettisuv 5) Farg'ona",
+   "options": [
+    "1, 3, 5",
+    "2, 3, 4",
+    "2, 5",
+    "1, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraxoniylarning Movarounnahrga hujumi natijasida dastlab (a) va keyinroq (b) qaysi somoniylarga tegishli bo'lgan mulklarning kattagina qismini egallashganini toping. 1) Farg'ona 2) Isfijob 3) Yettisuv 4) Samarqand 5) Buxoro 6) Toshkent",
+   "options": [
+    "a-1,2 b-5,6",
+    "a-2,3 b-4,5",
+    "a-1,2 b-4,5",
+    "a-2,3 b-5,6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qoraxoniy Ibrohim Nasr 1066-yili qaysi hududda qurilgan shifoxona ixtiyoriga butun imoratlari, rastalari bilan ikki karvonsaroyni in'om-hadya (vaqf) etganini aniqlang.",
+   "options": [
+    "Toshkent",
+    "Samarqand",
+    "Buxoro",
+    "Xorazm"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yettisuv viloyatida yuksalishni boshlagan qoraxoniylar qaysi yo'nalishlarida o'z hukmronlik doiralarini kengaytirib borganliklarini aniqlang. 1) shimol 2) janub 3) g'arb 4) sharq",
+   "options": [
+    "1,2",
+    "2,3",
+    "2,4",
+    "1,3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "X asrning ikkinchi yarmida Qoraxoniylarning sharqiy yo'nalishiga qayerlar kirganligini toping.",
+   "options": [
+    "Balxash ko'li — Cherchen daryosigacha",
+    "Baykal ko'li — Cherchen daryosigacha",
+    "Balxash ko'li — Amur daryosigacha",
+    "Balxash ko'li — Volga daryosigacha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraxoniylarning Turondagi hukmronligi necha yilga yaqin davom etadi?",
+   "options": [
+    "100 yil",
+    "200 yil",
+    "300 yil",
+    "400 yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraxoniylarning qayerdagi hukmronligi 200 yilga yaqin davom etadi?",
+   "options": [
+    "Xuroson",
+    "Nishopur",
+    "Shimoliy Hindiston",
+    "Turon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraxoniylar Buxoro, Samarqand va Amudaryogacha bo'lgan hududlarni o'z tasarruflariga kiritgan yil berilgan muvofiq javobni belgilang.",
+   "options": [
+    "1004-yil",
+    "1005-yil",
+    "1007-yil",
+    "1008-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachondan boshlab qoraxoniylar davlati ikki (g'arbiy va sharqiy) qismga bo'linib ketganligini toping?",
+   "options": [
+    "X asrning uchinchi choragi",
+    "IX asrning uchinchi choragi",
+    "XI asrning uchinchi choragi",
+    "XII asrning uchinchi choragi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qoraxoniylar qaysi viloyatga o'rnashib, yuksalishi natijasida hukmronligi qayergacha boshqarganligini aniqlang.",
+   "options": [
+    "Cherchen daryosidan Farg'onagacha",
+    "Cherchen daryosidan Bolosog'ungacha",
+    "Cherchen daryosidan Xorazmgacha",
+    "Amudaryo daryosidan Xorazmgacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qoraxoniylarning siyosiy markazini aniqlang.",
+   "options": [
+    "Yettisuv",
+    "Bolo",
+    "Chag'aniyon",
+    "Qoshg'ar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1008-yil qaysi G'aznaviy hukmdor qoraxoniylarga hujum qilganini aniqlang?",
+   "options": [
+    "Alptegin",
+    "Sabuktegin",
+    "Mahmud",
+    "Ma'sud"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachonga kelib Mahmud G'aznaviyning 500 ta o'rgatilgan fillarga ega bo'lgan katta qo'shin bilan qoraxoniylarga qarshi hujumga o'tganini toping.",
+   "options": [
+    "1004-yil",
+    "1006-yil",
+    "1008-yil",
+    "1002-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Termiz, Qabodiyon, Xuttalon Amudaryoning qaysi qismida joylashganligini toping",
+   "options": [
+    "shimol",
+    "sharq",
+    "janub",
+    "g'arb"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraxoniylar sulolasi qarorgohi xarobalari yurtimizning qaysi viloyatidan topilganligini toping.",
+   "options": [
+    "Toshkent",
+    "Buxoro",
+    "Samarqand",
+    "Xorazm"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Xonlik taxtiga oga-inichilik udumi asosida sulolaning eng yoshi ulug' kishisi o'tirgan.\" Yuqoridagi ma'lumot qaysi davlat tarixiga oidligini aniqlang.",
+   "options": [
+    "Somoniylar",
+    "G'aznaviylar",
+    "Qoraxoniylar",
+    "Xorazmshohlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Oliy hukmdor o'ziga tobe bo'lgan viloyat va shaharlarga hukmdor sulola namoyandalarini tayinlab, bu bilan, tabiiy ravishda, butun mamlakat uzra o'z siyosatini yurgizishni maqsad qilib qo'ygan. Yuqoridagi ma'lumot qaysi davlat tarixiga oid ekanligini toping.",
+   "options": [
+    "Somoniylar",
+    "Safforiylar",
+    "Qoraxoniylar",
+    "G'aznaviylar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qoraxoniylar davlatida viloyatlarni kim boshqarganligini toping.",
+   "options": [
+    "takin",
+    "tegin",
+    "eloqxon",
+    "A, B"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraxoniylar davrida barpo etilgan Raboti Malik karvonsaroyi yurtimizning qaysi qismida joylashganligini toping.",
+   "options": [
+    "Buxoro",
+    "Samarqand",
+    "Navoiy",
+    "Xiva"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qoraxoniylar davrida qayerlarda to'qilgan paxtadan turli xildagi gazlamalar mintaqada hamda xorijiy o'lkalarda mashhur bo'lgan. 1) Toshkent 2) Farg'ona 3) Samarqand 4) Buxoro 5) Xorazm",
+   "options": [
+    "1, 2, 3, 4, 5",
+    "2, 3, 4",
+    "1, 2",
+    "3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraxoniylarning qayerdagi hukmronlik qilgan vakillari markazga bo'ysunishdan bosh tortib, mustaqil siyosat yurgiza boshlaganligini toping.",
+   "options": [
+    "Xuroson",
+    "Xorazm",
+    "Movarounnahr",
+    "Yettisuv"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Somoniylardan farqli ravishda qoraxoniylar davrida kimlar, asosan, oliy hukmdor, viloyat hokimlarining davlat va raiyat ishlari bo'yicha eng yaqin maslahatchilari hisoblanishgan ekanligini toping.",
+   "options": [
+    "noiblar",
+    "taqinlar",
+    "hojiblar",
+    "vazirlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi olimlarga qoraxoniylar tomonidan «xos hojib» unvoni berilganligini toping. 1) Mahmud Qoshg'ariy 2) Yusuf xos hojib 3) Ahmad Yugnakiy 4) Mahmud Zamaxshariy",
+   "options": [
+    "1, 2",
+    "2, 4",
+    "1, 3",
+    "2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mehmonlarni qabul qilish xizmati boshlig'i nima deb atalganligini toping.",
+   "options": [
+    "Ag'ichi",
+    "Biruk",
+    "qushchi",
+    "oschi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yirik lashkarboshilardan tashqari kichik zobitlar, otliqlar sardori, yuzboshi, mingboshi kabi harbiy mansablar ham mavjud bo'lgan. Yuqoridagi harbiy taktik ta'rif o'rta asrlardagi qaysi davlatga tegishli.",
+   "options": [
+    "Somoniylar",
+    "Qoraxoniylar",
+    "Qoraxitoyliklar",
+    "G'aznaviylar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tashqi siyosat bilan shug'ullanuvchi mansabdorlarga, xususan, elchilar oldiga juda katta talablar qo'yilgan. Yuqoridagi jumla qaysi davlat boshqaruv shakliga oid ekanligini toping.",
+   "options": [
+    "G'aznaviylar",
+    "Qoraxitoyliklar",
+    "Qoraxoniylar",
+    "Somoniylar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tashqi siyosat bilan shug'ullanuvchi mansabdorlarga, xususan, elchilar oldiga juda katta talablar qo'yilgan. Yuqoridagi jumla qaysi olimga tegishli ekanligini toping.",
+   "options": [
+    "Yusuf xos Hojib",
+    "Mahmud Qoshg'ariy",
+    "Mahmud G'aznaviy",
+    "Ahmad Yugnakiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tashqi siyosat bilan shug'ullanuvchi mansabdorlarga, xususan, elchilar oldiga juda katta talablar qo'yilgan. Yuqoridagi qoraxoniylar davlati boshqaruv shakliga oid jumla qaysi asarda keltirilganligini toping.",
+   "options": [
+    "«Qutadg'u bilig»",
+    "«Hibbat ul-haqoyiq»",
+    "«Hikmatlar»",
+    "«Devonu lug'atit turk»"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ko'nchilik mahsulotlari qaysi hayvonlar terisidan to'qilgan?",
+   "options": [
+    "olmaxon, maymun",
+    "sug'ur, sobol",
+    "olmaxon, sobol",
+    "olmaxon, sigir"
+   ],
+   "answer": 2
+  }
+ ]
+}

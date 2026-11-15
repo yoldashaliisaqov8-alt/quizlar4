@@ -1,0 +1,106 @@
+{
+ "title": "7-sinf · Kirish",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qaysi davr \"O'rta asrlar tarixi\" deb ataladi?",
+   "options": [
+    "V asr oxiridan XV asr oxirigacha",
+    "V asr o'rtasidan XV asr so'nggigacha",
+    "V asr boshidan XV asr so'nggigacha",
+    "V asr so'nggidan XV asr o'rtasigacha"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta asrlar tarixi necha asr davom qilgan?",
+   "options": [
+    "8 asr",
+    "10 asr",
+    "12 asr",
+    "15 asr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta asrlar davrida shakllangan nima insoniyat tarixida muhim o'rin tutadi?",
+   "options": [
+    "Xristian dini tarqalishi",
+    "Yer egaligi munosabatlari",
+    "Islom va buddaviylik tarqalishi",
+    "Savdo, ilm-fan va madaniyatning rivojlanishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yer egaligi munosabatlari Osiyoda nima deb atalgan?",
+   "options": [
+    "An'anaviy jamiyat",
+    "Yer egaligi jamiyati",
+    "Feodal jamiyat",
+    "Industrial jamiyat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yer egaligi munosabatlari Yevropada nima deb atalgan?",
+   "options": [
+    "An'anaviy jamiyat",
+    "Yer egaligi jamiyati",
+    "Feodal jamiyat",
+    "Industrial jamiyat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Feodallarga in'om etilgan yerlarning merosiy mulkka aylanishi nimaga olib keladi?",
+   "options": [
+    "Qirol hokimiyati kuchayishiga",
+    "Feodallar hokimiyati kuchayishiga",
+    "Mamlakatlarda siyosiy tarqoqliklar hukm surishiga",
+    "B, C"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarixiy manbalar necha xil?",
+   "options": [
+    "2 xil",
+    "3 xil",
+    "4 xil",
+    "5 xil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon Xitoyda kitob bosish dastgohi yaratiladi?",
+   "options": [
+    "XI asr",
+    "XII asr",
+    "XIII asr",
+    "XV asr"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yevropada qachon kitob bosish dastgohi yaratiladi?",
+   "options": [
+    "XI asr",
+    "XII asr",
+    "XIII asr",
+    "XV asr"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "7-sinf jahon tarixi darsligi nechanchi asrgacha bo'lgan tarixni o'z ichiga oladi?",
+   "options": [
+    "V-XV asrlar",
+    "V-XII asrlar",
+    "V-XIII asrlar",
+    "IV-XIV asrlar"
+   ],
+   "answer": 2
+  }
+ ]
+}

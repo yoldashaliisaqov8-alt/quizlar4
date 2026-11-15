@@ -1,0 +1,256 @@
+{
+ "title": "9-sinf · 4-mavzu. Buxoro xonligida davlat boshqaruvi tizimi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Quyidagi qaysi sulolada taxt dastlab otadan bolaga emas, balki shu sulola orasidagi yoshi katta shaxsga nasib etgan.",
+   "options": [
+    "Temuriylar",
+    "Ashtarxoniylar",
+    "Shayboniylar",
+    "Mang'itlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi hukmdor davriga kelib, taxtning otadan o'g'ilga o'tish an'anasi shakllandi.",
+   "options": [
+    "Ubaydullaxon",
+    "Abdullaxon II",
+    "Ko'chkunchixon",
+    "Suyunchxo'ja"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi sulolada taxt vorisi \"navvob\", \"qolg'a\", \"kichik xon\" deb atalgan.",
+   "options": [
+    "Temuriylar",
+    "Ashtarxoniylar",
+    "Shayboniylar",
+    "Mang'itlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ko'chkunchixon oliy hukmdor bo'lgach, taxt vorisi etib tayinlangan shaxsni aniqlang.",
+   "options": [
+    "Ubaydullaxon",
+    "Abdullaxon II",
+    "Jonibek Sulton",
+    "Suyunchxo'ja"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Suyunchxo'ja vafotidan so'ng taxt vorisi etib belgilangan shaxsni aniqlang.",
+   "options": [
+    "Ubaydullaxon",
+    "Abdullaxon II",
+    "Jonibek Sulton",
+    "Abu Said"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1529-yilda vafot etgan shayboniylar vakilini aniqlang.",
+   "options": [
+    "Ubaydullaxon",
+    "Abdullaxon II",
+    "Jonibek Sulton",
+    "Abu Said"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abdullaxon II tomonidan kiritilgan tartibga ko'ra, valiahdga boshqarish uchun berilgan hududni aniqlang.",
+   "options": [
+    "Marv",
+    "Ko'lob",
+    "Samarqand",
+    "Balx"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi lavozim egasini aniqlang. U dargohda yirik amaldor hisoblangan. Bu lavozimni egallagan shaxs oliy hukmdorning eng yaqin va ishonchli kishisi bo'lib, xon qabulidagi marosimlarda oliy hukmdorga juda yaqin o'tirgan. Ichki va tashqi siyosat, harbiy masalalarda xonning asosiy maslahatchisi sifatida e'tirof etilgan.",
+   "options": [
+    "Otaliq",
+    "Naqib",
+    "Parvonachi",
+    "Dodxoh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shahzodalar tarbiyasiga mutasaddi bo'lgan va qabilalarning katta amirlaridan tayinlangan lavozim egasini aniqlang.",
+   "options": [
+    "Otaliq",
+    "Naqib",
+    "Parvonachi",
+    "Dodxoh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi lavozim egasi oliy hukmdor chiqargan hukmlar, yorliqlarni ijrochilarga, muayyan tayinlangan amaldorlarga yetkazuvchi vazifasini bajargan.",
+   "options": [
+    "Otaliq",
+    "Naqib",
+    "Parvonachi",
+    "Dodxoh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Aholining arz-dodlari va iltimoslari aks etgan xatlarni qabul qiluvchi va ularga javob qaytaruvchi, mamlakatdagi adolat tartiblariga rioya qilinishini nazorat qiluvchi lavozim egasini aniqlang.",
+   "options": [
+    "Otaliq",
+    "Naqib",
+    "Parvonachi",
+    "Dodxoh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Elchilarni qabul qilgan, elchilarni kutib olish va kuzatish ishlarini tashkil qilgan va o'zi ham elchi sifatida boshqa mamlakatlarga borgan lavozim egasini aniqlang.",
+   "options": [
+    "Otaliq",
+    "Naqib",
+    "Parvonachi",
+    "Dodxoh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi lavozim egasi oliy hukmdor va sulolaga eng yaqin kishilardan biri sanalib, odatda, hukmron sulolaning biron-bir vakili bilan bir onani emgan shaxs bo'lgan.",
+   "options": [
+    "Ko'kaldosh",
+    "Devonbegi",
+    "Devoni sarkorixossa",
+    "Xon yasovuli"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hukmron sulolaga tegishli yer-suv, mol-mulk boshqaruvi, nazorati va soliq ishlarini olib borgan maxsus tuzilma manbalarda qanday nom bilan uchraydi.",
+   "options": [
+    "Ko'kaldosh",
+    "Devonbegi",
+    "Devoni sarkorixossa",
+    "Xon yasovuli"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi lavozim egasi bosh vazir vazifasini bajargan.",
+   "options": [
+    "Ko'kaldosh",
+    "Devonbegi",
+    "Devoni sarkorixossa",
+    "Xon yasovuli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mamlakatning muhim ishlari, mol-mulk, moliya, soliq, yer-suv masalalari, mansablarga tayinlash va bularning barchasi haqida oliy hukmdorga har kuni hisobot berib turgan lavozim egasini aniqlang.",
+   "options": [
+    "Ko'kaldosh",
+    "Devonbegi",
+    "Devoni sarkorixossa",
+    "Xon yasovuli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Saroy xavfsizligi, tartib, keldi-ketdidan xabardorlik zimmasiga yuklatilgan lavozim egasini aniqlang.",
+   "options": [
+    "Mirshab",
+    "Mushrif",
+    "Eshik og'asi",
+    "Miroxur"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hukmdor tomonidan tortiq qilingan kiyimlar, harbiy asbob va anjomlar, shuningdek, soliq daftarlariga yig'ilgan xirojni yozib borish yuklatilgan lavozim egasini aniqlang.",
+   "options": [
+    "Mirshab",
+    "Mushrif",
+    "Eshik og'asi",
+    "Miroxur"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tungi qo'riqlash boshlig'i bo'lgan lavozim egasini aniqlang.",
+   "options": [
+    "Mirshab",
+    "Mushrif",
+    "Eshik og'asi",
+    "Miroxur"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oliy hukmdorga tegishli yilqi, ot-ulov, ularning ta'minoti kabilarga javobgar bo'lgan lavozim egasini aniqlang.",
+   "options": [
+    "Mirshab",
+    "Mushrif",
+    "Eshik og'asi",
+    "Miroxur"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xorijiy elchilarni qabul qilishga mutasaddi bo'lgan lavozim egasini aniqlang.",
+   "options": [
+    "To'qsabo",
+    "Qushbegi",
+    "Shig'ovul",
+    "Qozi askar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ovqat suzuvchi va ichimlik quyuvchi bo'lgan lavozim egasini aniqlang.",
+   "options": [
+    "To'qsabo",
+    "Qushbegi",
+    "Shig'ovul",
+    "Qozi askar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ov qurol aslahalari va ov qushlari, itlariga mas'ul bo'lgan lavozim egasini aniqlang.",
+   "options": [
+    "To'qsabo",
+    "Qushbegi",
+    "Shig'ovul",
+    "Qozi askar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi hukmdor davrida harbiy san'at taraqqiy etgan.",
+   "options": [
+    "Ubaydullaxon",
+    "Abdullaxon II",
+    "Ko'chkunchixon",
+    "Suyunchxo'ja"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi hukmdor davrida mamlakat hududi Qashqardan Orol va Kaspiy dengizlari sohillarigacha, Turkiston va Sayramdan Xurosonning sharqiy qismigacha bo'lgan yerlardan iborat bo'lgan.",
+   "options": [
+    "Ubaydullaxon",
+    "Abdullaxon II",
+    "Ko'chkunchixon",
+    "Suyunchxo'ja"
+   ],
+   "answer": 1
+  }
+ ]
+}

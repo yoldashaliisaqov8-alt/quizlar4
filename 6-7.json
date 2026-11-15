@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 7-mavzu. Qadimgi Misr va qo'shni davlatlar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Misr janubda qaysi mamlakat bilan chegaradosh bo'lgan?",
+   "options": [
+    "Nubiya (Shimoliy Sudan)",
+    "Liviya",
+    "Falastin",
+    "Suriya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misr g'arbida qaysi mamlakat joylashgan edi?",
+   "options": [
+    "Liviya",
+    "Sinay",
+    "Nubiya",
+    "Finikiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Liviya sahrosi aholisi qanday mashg'ulot bilan shug'ullangan?",
+   "options": [
+    "Ko'chmanchi chorvachilik",
+    "Dengiz savdosi",
+    "Sug'orma dehqonchilik",
+    "Kemasozlik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyi Misrdagi Memfis shahri orqali o'tadigan yo'l qayerga olib borgan?",
+   "options": [
+    "Kipr oroliga",
+    "Sinay yarimoroliga",
+    "Nubiyaga",
+    "Liviya cho'liga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sinay yarimorolida nima qazib olingan?",
+   "options": [
+    "Oltin",
+    "Temir",
+    "Mis",
+    "Kumush"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sinay yarimorolidan shimolroqda qaysi mamlakatlar joylashgan?",
+   "options": [
+    "Falastin va Suriya",
+    "Bobil va Ossuriya",
+    "Nubiya va Liviya",
+    "Kipr va Krit"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Falastin va Suriya qanday boyliklarga boy bo'lgan?",
+   "options": [
+    "Neft va gazga",
+    "Oltin va kumushga",
+    "Mis va temir rudasi hamda boshqa foydali qazilmalarga",
+    "Papirus va kanopga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Misrliklar Falastin va Suriyadan nimalarni olib kelgan?",
+   "options": [
+    "Hunarmandlar yasagan nodir buyumlar va qimmatbaho toshlarni",
+    "Don va chorva mollarini",
+    "Papirus va qamishni",
+    "Qullar va jangchilarni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qadimgi podsholik davrida qaysi hudud bosib olinib, mahalliy qabilalar Misrga soliq to'lay boshladi?",
+   "options": [
+    "Janubiy Falastin",
+    "Suriya",
+    "Sinay yarimoroli",
+    "Finikiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi podsholik fir'avnlari yana qaysi mamlakatlarga yurish qilib, boyliklarni egallagan?",
+   "options": [
+    "Bobil va Ossuriyaga",
+    "Finikiya va Suriyaga",
+    "Nubiya va Liviyaga",
+    "Kipr va Kritga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'rta podsholik fir'avnlari qaysi yerlarni Misrga qo'shib oldi?",
+   "options": [
+    "Finikiya va Suriyani",
+    "Janubiy Falastin yerlari va Nubiya shimolini",
+    "Sinay yarimorolini",
+    "Liviyani"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Giksoslar Misrga qachon hujum qildi?",
+   "options": [
+    "Mil. avv. XVIII asr oxirida",
+    "Mil. avv. 525-yilda",
+    "Mil. avv. 3000-yilda",
+    "Mil. avv. VII asrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Giksoslar kimlar edi?",
+   "options": [
+    "Finikiyalik dengizchilar",
+    "Ko'chmanchi qabilalar",
+    "Fors qo'shinlari",
+    "Nubiya podsholari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Giksoslar Misrning qaysi qismini bosib olgan?",
+   "options": [
+    "Yuqori Misrni",
+    "Faqat Fiva shahrini",
+    "Butun Misrni",
+    "Quyi Misrni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Giksoslar hujumi paytida Misr podsholigining ahvoli qanday edi?",
+   "options": [
+    "Ko'plab mayda “nom”larga bo'linib ketgan, ular giksoslarga soliq to'lar edi",
+    "Kuchli markazlashgan davlat edi",
+    "Old Osiyoni bosib olgan edi",
+    "Forslar hukmronligi ostida edi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi shahar hukmdorlari giksoslarga itoat qilmadi?",
+   "options": [
+    "Memfis",
+    "Sakkara",
+    "Geliopol",
+    "Fiva"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bosqinchilar zulmidan xalos bo'lishni istagan “nom”lar hukmdorlari qaysi shahar atrofiga birlasha boshladi?",
+   "options": [
+    "Abu Simbal",
+    "Giza",
+    "Memfis",
+    "Fiva"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Giksoslarni tor-mor etib, Misrdan haydab chiqargan fir'avn kim?",
+   "options": [
+    "Tutmos III",
+    "Yaxmos",
+    "Xufu",
+    "Menes"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yaxmos zamonidan Misr tarixidagi qaysi davr boshlandi?",
+   "options": [
+    "Yangi podsholik davri",
+    "Qadimgi podsholik davri",
+    "Forslar hukmronligi davri",
+    "O'rta podsholik davri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yangi podsholik hukmdorlarining tashqi siyosatiga xos xususiyat nima?",
+   "options": [
+    "Nubiya va Old Osiyo mamlakatlariga bosqinchilik yurishlari uyushtirdilar",
+    "Forslarga qaram bo'ldilar",
+    "Giksoslarga soliq to'ladilar",
+    "Qo'shnilar bilan faqat savdo aloqalarini olib bordilar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi fir'avn davrida Falastin, Finikiya va Suriyani istilo qilish boshlandi?",
+   "options": [
+    "Tutmos II",
+    "Tutmos III",
+    "Tutanxamon",
+    "Yaxmos"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tutmos III yurishlari natijasida nima bo'ldi?",
+   "options": [
+    "Misr forslarga bo'ysundi",
+    "Misr ikkiga bo'linib ketdi",
+    "Old Osiyoda misrliklar hukmronligi o'rnatildi",
+    "Misr giksoslardan ozod bo'ldi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Misr qachon yana yagona davlatga birlashib, iqtisodiyot va madaniyatda yuksalish boshlandi?",
+   "options": [
+    "Mil. avv. V asrda",
+    "Mil. avv. 3000-yilda",
+    "Mil. avv. VII asrda",
+    "Mil. avv. XVIII asrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mil. avv. 525-yilda Misrni kim bosib oldi?",
+   "options": [
+    "Kserks",
+    "Kir II",
+    "Doro I",
+    "Kir II ning o'g'li Kambiz II"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fir'avnlar va ularning faoliyati to'g'ri moslashtirilgan javobni aniqlang.\n1) Yaxmos; 2) Tutmos II; 3) Tutmos III.\na) Old Osiyoda misrliklar hukmronligini o'rnatdi; b) giksoslarni Misrdan haydab chiqardi; c) Falastin, Finikiya va Suriyani istilo qilishni boshladi; d) Misrni birlashtirdi.",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-b, 2-c, 3-a",
+    "1-d, 2-c, 3-a"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Kambiz II ning Misrni bosib olishi; 2) giksoslarning Misrga hujumi; 3) Yaxmosning giksoslarni haydab chiqarishi; 4) Misrning mil. avv. VII asrda yana birlashishi.",
+   "options": [
+    "2, 3, 1, 4",
+    "2, 4, 3, 1",
+    "2, 3, 4, 1",
+    "3, 2, 4, 1"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Misr fir'avnlari bosib olgan yoki yurish qilgan hududlarni aniqlang.\n1) Sinay yarimoroli; 2) Nubiya; 3) Bobil; 4) Finikiya; 5) Eron.",
+   "options": [
+    "2, 4, 5",
+    "2, 3, 4",
+    "1, 2, 4",
+    "1, 3, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nMisrning qo'shnisi | Joylashuvi yoki boyligi\nNubiya | 1) ________\n2) ________ | Misr g'arbi, Liviya cho'li\nSinay yarimoroli | 3) ________\na) Misr janubi (Shimoliy Sudan); b) Liviya; c) mis qazib olingan; d) Falastin; e) oltin qazib olingan;\nf) Misr sharqi.",
+   "options": [
+    "1-a, 2-b, 3-e",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-d, 3-c",
+    "1-f, 2-b, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nDavr | Voqea | Shaxs\nMil. avv. XVIII asr oxiri | A | ko'chmanchi qabilalar\nYangi podsholik boshi | giksoslar haydab chiqarildi | B\nMil. avv. 525-yil | Misr bosib olindi | C\n1) giksoslar Misrga hujum qildi; 2) Yaxmos; 3) Kambiz II; 4) Menes; 5) Tutmos III; 6) Misr birlashtirildi.",
+   "options": [
+    "A-1, B-2, C-3",
+    "A-6, B-2, C-3",
+    "A-1, B-5, C-3",
+    "A-1, B-2, C-4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qadimgi Misr va qo'shnilariga oid to'g'ri hukmlarni aniqlang.\nI. Giksoslar Yuqori Misrni bosib olgan.\nII. Fiva hukmdorlari giksoslarga itoat qilmagan.\nIII. Tutmos III davrida Old Osiyoda Misr hukmronligi o'rnatilgan.\nIV. Kambiz II mil. avv. VII asrda Misrni bosib olgan.",
+   "options": [
+    "I va IV",
+    "III va IV",
+    "I va II",
+    "II va III"
+   ],
+   "answer": 3
+  }
+ ]
+}

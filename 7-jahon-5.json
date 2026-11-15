@@ -1,0 +1,326 @@
+{
+ "title": "7-sinf · Vizantiya: G'arb va Sharq",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qaysi davlat deyarli ming yil davomida Yevropaning eng qudratli davlati bo'lib qolgan hamda antik davr va Rim imperiyasi an'analarini davom ettirgan?",
+   "options": [
+    "Vizantiya",
+    "Germaniya",
+    "Italiya",
+    "Turkiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Imperator Feodosiyning o'g'illari qachon Rim imperiyasini ikki mustaqil davlatga bo'lib olishadi?",
+   "options": [
+    "396-yil",
+    "397-yil",
+    "398-yil",
+    "395-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rim shahri qaysi davlatning poytaxti bo'lgan?",
+   "options": [
+    "G'arbiy Rim imperiyasi",
+    "Sharqiy Rim imperiyasi",
+    "Fransiya",
+    "Turkiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konstantinopol shahri qaysi davlatning poytaxti bo'lgan?",
+   "options": [
+    "G'arbiy Rim imperiyasi",
+    "Sharqiy Rim imperiyasi",
+    "Fransiya",
+    "Turkiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Katta o'g'il Arkadiyga imperiyaning nisbatan boy hududlari tegadi, unga qaysi hududlar kirgan?",
+   "options": [
+    "Bolqon va Kichik Osiyo yarimorollari, Suriya, Falastin, Turkiya, Misr kirgan",
+    "Fransiya, Bolqon va Kichik Osiyo yarimorollari, Suriya, Falastin, Misr kirgan",
+    "Germaniya, Bolqon va Kichik Osiyo yarimorollari, Suriya, Falastin, Misr kirgan",
+    "Bolqon va Kichik Osiyo yarimorollari, Suriya, Falastin, Misr kirgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yunonlar nisbatan ko'pchilikni tashkil etgani uchun, yillar o'tib imperiyada qaysi tilning o'rnini yunon tili egallaydi?",
+   "options": [
+    "Lotin tili",
+    "Ingliz tili",
+    "Italiyan tili",
+    "Ispan tili"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qayerda qulchilik saqlanib qolgan bo'lsa-da, aholisining katta qismini soliq to'laydigan erkin dehqonlar tashkil etishi, sun'iy sug'oriladigan maydonlardan mo'l hosil olinishi mamlakatning iqtisodiy barqarorligini ta'minlagan?",
+   "options": [
+    "Vizantiya",
+    "Germaniya",
+    "Fransiya",
+    "Turkiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vizantiya imperiyasida VI asrda qaysi yirik savdo va hunarmandchilik markazlari gullab-yashnagan?",
+   "options": [
+    "Konstantinopol, Aleksandriya, Antioxiya, Edessa",
+    "Konstantinopol, Antioх, Falastin",
+    "Aleksandriya, Suriya, Falastin",
+    "Aleksandriya, Antioх, Suriya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vizantiya imperiyasining qaysi shaharlarida muhtasham binolar, ko'p qavatli uylar, haykallar va favvoralar o'rnatilgan maydonlar bezab turgan?",
+   "options": [
+    "Konstantinopol, Aleksandriya",
+    "Antioxiya, Edessa",
+    "Rim va Vatikan",
+    "Aleksandriya, Edessa"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vizantiya shaharlarida hunarmandchilikning qaysi sohalari yuksalgan?",
+   "options": [
+    "shishasozlik, yog'ochsozlik, ipak gazlamalar to'qish, zargarlik, me'morchilik",
+    "shishasozlik, movut, ipak gazlamalar to'qish, zargarlik, me'morchilik",
+    "shishasozlik, jun, ipak gazlamalar to'qish, zargarlik, me'morchilik",
+    "shishasozlik, movut, ipak gazlamalar to'qish, temirchilik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qayerga qadar bo'lgan hududlardagi mamlakatlar savdogarlari romeylar bozorlariga shoshilganlar?",
+   "options": [
+    "Konstantinopoldan Aleksandriyaga",
+    "Antioxiyadan Edessaga",
+    "Rimdan Xitoyga",
+    "Ispaniyadan Xitoyga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi shahar ramziy ma'noda Osiyo va Yevropani bog'laydigan \"oltin ko'prik\" deb atalgan?",
+   "options": [
+    "Antioxiya",
+    "Konstantinopol",
+    "Rim",
+    "Edessa"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi shahar Yevropaning eng yirik shahriga aylangan?",
+   "options": [
+    "Antioxiya",
+    "Konstantinopol",
+    "Rim",
+    "Edessa"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vizantiya oltin tangasi nima deb atalgan?",
+   "options": [
+    "Darik",
+    "Sinklit",
+    "Numisma",
+    "Amulet"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sharqiy Rim imperiyasini kim boshqargan?",
+   "options": [
+    "Vasilevs",
+    "Qirol",
+    "Sinklit",
+    "Senat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vasilevslar Yevropa, Old Osiyo va Shimoliy Afrikani boshqarish huquqini kimlardan olishgan?",
+   "options": [
+    "Papadan",
+    "Rimliklardan",
+    "Konstantinopoldan",
+    "Germanlardan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vasilevs qanday vazifalarni bajargan? 1. Amaldorlarni tayinlagan 2. Qonun chiqargan 3. Qo'shinni boshqargan 4. Urush e'lon qilgan 5. Sulh tuzgan 6. Qo'shinga mablag' ajratgan",
+   "options": [
+    "1, 2, 3, 4",
+    "1, 2, 3, 4, 5",
+    "1, 3, 5, 6",
+    "2, 3, 4, 5, 6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vizantiya kimning davrida o'z qudrati cho'qqisiga erishadi?",
+   "options": [
+    "Yustin",
+    "Arkadiy",
+    "Yustinian I",
+    "Feodosiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yustinian I nechanchi yillarda hukmronlik qilgan?",
+   "options": [
+    "527-565-yillar",
+    "537-565-yillar",
+    "526-565-yillar",
+    "525-575-yillar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kim qo'shinda oddiy askarlikdan sarkarda darajasiga ko'tarilib, imperatorlik taxtini egallaydi?",
+   "options": [
+    "Yustin",
+    "Arkadiy",
+    "Yustinian I",
+    "Feodosiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yustinian I taxtga o'tirgach o'z atrofiga kimlarni to'playdi?",
+   "options": [
+    "Iqtidorli sarkardalar",
+    "Huquqshunoslar",
+    "Tarixchilarni",
+    "Barcha javoblar to'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kimning davrida Konstantinopoldagi Ayo Sofiya (Avliyo Sofiya), Ravennadagi (Italiya) San-Vitale ibodatxonalari qurilgan?",
+   "options": [
+    "Yustin",
+    "Arkadiy",
+    "Yustinian I",
+    "Feodosiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi hukmdor orzusi Rim imperiyasining 395-yildan oldingi chegaralarini tiklash bo'lgan?",
+   "options": [
+    "Yustin",
+    "Arkadiy",
+    "Yustinian I",
+    "Feodosiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yustinian I orzusini ro'yobga chiqarish uchun uzoq urushlardan so'ng qayerlarni katta qismini istilo qilsa-da, uning bosib olingan o'lkalarda qullikni tiklashga bo'lgan intilishi mahalliy aholi tomonidan qo'llab-quvvatlanmaydi?",
+   "options": [
+    "Shimoliy Afrika, Italiya",
+    "Ispaniya, Sharqiy Afrika",
+    "Italiya, Misr",
+    "Shimoliy Afrika, Misr"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yustinian I g'arbga qilgan harbiy yurishlari, sharqda qaysi davlat bilan janglari natijasida xazinaning bo'shab qolishi aholini xonavayron qilib, qo'shinni holdan toydirgan?",
+   "options": [
+    "Suriya",
+    "Eron",
+    "Italiya",
+    "Misr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kimning vafotidan keyin Vizantiya hududlari asta-sekin qisqarib boradi?",
+   "options": [
+    "Yustinian I",
+    "Yustin",
+    "Arkadiy",
+    "Feodosiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Langobardlar Vizantiyaliklardan qayerni tortib oladilar?",
+   "options": [
+    "Suriya",
+    "Eron",
+    "Ispaniya",
+    "Misr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Imperator Irakliy I qaysi davlatga qarshi kurashib, Xusrav II qo'shinini mag'lub etadi?",
+   "options": [
+    "Suriya",
+    "Eron",
+    "Italiya",
+    "Misr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Arablar Vizantiyaning qaysi hududlarini bosib oladilar? 1. Suriya 2. Misr 3. Eron 4. Falastin 5. Iroq",
+   "options": [
+    "1,2,4",
+    "1,3,5",
+    "1,2,3",
+    "2,4,5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vizantiya zaiflashgach Bolqon yarim orolida qaysi podsholik vujudga keladi?",
+   "options": [
+    "Buyuk Moraviya",
+    "Bolgariya podsholigi",
+    "Chexiya",
+    "Polsha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vizantiyaga keyingi asrlarda slavyanlar, avarlar, pecheneglar (bijanaklar), vengerlar, bolgarlar, normannlar, saljuqiy turklar bosqinchilik yurishlari qilishgan, qaysi shahar bir necha bor qamal qilingan?",
+   "options": [
+    "Konstantinopol",
+    "Rim",
+    "Istanbul",
+    "Vatikan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Zamonaviy diplomatiya asoslariga qaysi davlat diplomatiyasining ko'plab qoidalari kirgan?",
+   "options": [
+    "Germaniya",
+    "Vizantiya",
+    "Fransiya",
+    "Turkiya"
+   ],
+   "answer": 1
+  }
+ ]
+}

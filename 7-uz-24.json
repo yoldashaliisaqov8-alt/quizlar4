@@ -1,0 +1,226 @@
+{
+ "title": "7-sinf · IX-XII asrlarda ilm-fan va madaniyat",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Quyidagi qaysi hudud jahon madaniyatining ko'hna o'choqlaridan biri bo'lgan?",
+   "options": [
+    "Sharqiy Osiyo",
+    "Kichik Osiyo",
+    "Turon",
+    "Xuroson"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Islom dini kirib kelishidan avval ham bu yerda yashagan xalqlar boy qaysi soha an'analariga ega edilar",
+   "options": [
+    "bog'dorchilik va hunarmandchilik",
+    "me'morchilik va dehqonchilik",
+    "me'morchilik va hunarmandchilik",
+    "me'morchilik va shishasozlik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Islom dini kirib kelgach nimalarni misli ko'rilmagan darajada taraqqiy etishiga ta'sir ko'rsatgan? 1) Ilm-fan 2) dehqonchilik 3) savdo-sotiq 4) hunarmandchilik 5) qurilish 6) me'morchilik 7) qishloq xo'jaligi",
+   "options": [
+    "2, 3, 5, 7",
+    "1, 2, 5, 7",
+    "2, 3, 4, 7",
+    "1, 3, 5, 7"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "IX-X asrlarda me'morchilikning ajoyib yutuqlari nimalar qurilishida ko'proq namoyon bo'ldi.",
+   "options": [
+    "masjid va maqbaralar",
+    "karvonsaroy va madrasalar",
+    "masjid va madrasalar",
+    "masjid va xonaqohlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Iqtisodiy ahvolning yaxshilanishi, shaharlar ahamiyatining ortib borishi natijasida IX asrga qadar asosan nimalardan qurib kelingan binolar o'rniga endi pishiq g'ishtlar ham ishlatila boshladi?",
+   "options": [
+    "paxsa va xom g'ishtdan",
+    "loy va xom g'ishtdan",
+    "xom g'isht va toshdan",
+    "loy va pishiq g'ishtdan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi sulolalar davrida iqtisodiy va madaniy taraqqiyot yuksalgan? 1) qoraxoniylar 2) qarluqlar 3) ummaviylar 4) g'aznaviylar 5) saljuqiylar 6) ma'muniylar 7) anushteginiylar",
+   "options": [
+    "1, 4, 5, 7",
+    "2, 3, 5, 6",
+    "1, 3, 5, 7",
+    "2, 4, 6, 7"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi to'g'ri javobni qo'ying. \"Aholi orasida ... deb yuritiladigan qurilish ashyosi, sariq loydan tayyorlanib, maxsus xumdonlarda pishirilgan\"",
+   "options": [
+    "Movarounnahr g'ishti",
+    "Xorazm g'ishti",
+    "Musulmon g'ishti",
+    "Eron g'ishti"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Turon diyorining har bir shahar va viloyatda o'ziga xos me'moriy uslublar rivojlanganligi aynan qaysi fanlarning rivojlanishi bilan bog'liq?",
+   "options": [
+    "algebra va geometriya",
+    "geografiya va algebra",
+    "geografiya va geometriya",
+    "astronomiya va geometriya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi to'g'ri javobni qo'ying. \"Hozirgi geologiya, mineralogiya, fizika va kimyo sohalari uchun nihoyatda muhim va ishonchli bo'lgan moddalar tahlili (diagnostikasi)ning usuli, ya'ni moddalar solishtirma og'irligini aniqlash ilk bor Xorazmda Ma'mun akademiyasida .... tomonidan kashf etilgan\"",
+   "options": [
+    "Muso al-Xorazmiy",
+    "Abu Rayhon Beruniy",
+    "Abu Ali ibn Sino",
+    "Al-Farg'oniy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi sulola davrida fan va madaniyat taraqqiyoti uchun barcha shart-sharoit yaratib berilgan",
+   "options": [
+    "G'aznaviylar",
+    "Qoraxoniylar",
+    "Saljuqiylar",
+    "Anushteginiylar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan Saljuqiylarga oid to'g'ri ma'lumotni aniqlang. I. Saljuqiylar xonadoniga mansub oliy hukmdor, shahzoda yoki malika, hammalari biror-bir shaharda bir yoki bir nechta madrasa qurishni o'z vazifalari deb bilganlar II. Nizomulmulk tomonidan asos solingan Damashqdagi «Nizomiya» madrasalaridan birida olti ming talaba yashab, ta'lim olgan III. Saljuqiylar davrida o'quvchilarga oylik nafaqa berilgan, joy bilan ta'minlangan IV. Har bir madrasa qoshida kutubxona, ayrimlarida kutubxona ham mavjud bo'lgan",
+   "options": [
+    "I; III",
+    "II; IV",
+    "I; IV",
+    "II; III"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi bandlar mazmuniga oid yakuniy hukmni aniqlang. I. Marvda asos solingan madrasaga shifoxona ham biriktirilgan II. Nizomulmulk tomonidan asos solingan Bag'doddagi «Nizomiya» madrasalaridan birida olti ming talaba yashab, ta'lim olgan III. Nishopurda asos solingan madrasaga shifoxona ham biriktirilgan",
+   "options": [
+    "I – to'g'ri / II – noto'g'ri / III – to'g'ri",
+    "I – noto'g'ri / II – to'g'ri / III – to'g'ri",
+    "I – noto'g'ri / II – noto'g'ri / III – to'g'ri",
+    "I – to'g'ri / II – noto'g'ri / III – noto'g'ri"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Saljuqiylar davrida madrasada faoliyat ko'rsatgan olimlardan to'g'risini aniqlang.",
+   "options": [
+    "geograflar",
+    "tarixchilar",
+    "kimyogarlar",
+    "fiqhshunoslar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi javobni aniqlang. \"Marv noibi Ma'mun 813-yilda Bag'dod xalifaligi taxtiga o'tiradi. U Xuroson, Movarounnahr va Xorazmdagi ilm ahlini Bag'dodga olib ketadi. Ular orasida ....\"",
+   "options": [
+    "Ahmad Farg'oniy",
+    "Muhammad Muso Xorazmiy",
+    "Abu Rayhon Beruniy",
+    "Hakim Termiziy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorazmshohlardan qaysi hukmdor davrida ilmga katta e'tibor ko'rsatib, o'z saroyiga olimlarni taklif qiladi?",
+   "options": [
+    "Abul Hasan Ali ibn Ma'mun",
+    "Qutbiddin Ibn Anushtegin",
+    "Alovuddin ibn Takash",
+    "Jaloliddin ibn Alovuddin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gurganchda 1004-yilda asos solingan akademiyada faoliyat yuritmagan allomani aniqlang.",
+   "options": [
+    "Muhammad Muso Xorazmiy",
+    "Abu Rayhon Beruniy",
+    "Abul Xayr Hammor",
+    "Abu Ali ibn Sino"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Saljuqiylar davrida madrasada faoliyat ko'rsatgan kasblardan to'g'risini aniqlang.",
+   "options": [
+    "falakiyotshunoslar",
+    "tarixchilar",
+    "geograflar",
+    "musiqachilar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilardan Ma'mun akademiyasida o'qitilmagan fanlarni aniqlang.",
+   "options": [
+    "falsafa",
+    "tuproqshunoslik",
+    "astronomiya",
+    "tarix"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi ma'lumot qaysi tarixiy shaxs haqida ekanligini aniqlang. Xorazmshoh Ma'munning vaziri bo'lib, u zukko ma'rifatparvar va faylasuf bo'lgan. Hukmdorning ilm-fanga yuksak e'tibori u tufayli ham edi.",
+   "options": [
+    "Ahmad Nasafiy",
+    "Sharofulmulk",
+    "Nizomulmulk",
+    "Abu Husayn Suhayliy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yunon olimlarini to'g'ri berilgan javobni aniqlang",
+   "options": [
+    "Platon, Tatsit",
+    "Aristotel, Ptolemey",
+    "Yevklid, Kvint Kursiy Ruf",
+    "Pifagor, Plutarx"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ma'lumotlarni o'zaro moslashtiring. Gurganch madrasalari: a) astronomiya b) matematika c) kimyo; 1) Abu Nasr 2) Abul Xayr Hammor 3) Beruniy",
+   "options": [
+    "1-a; 2-c; 3-b",
+    "1-b; 2-c; 3-a",
+    "1-b; 2-a; 3-c",
+    "1-c; 2-b; 3-a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi bandlar mazmuniga oid yakuniy hukmni aniqlang I. Ma'mun akademiyasida yig'ilgan olimlarning aksariyati Muhammad Muso Xorazmiy asarlarining sharhlovchilari yoki bu olimning biror fan sohasidagi ilmiy an'analari davomchilari bo'lgan II. Gurganj madrasalari va yuqoridagi maktablar haqiqiy ilm-maskanlariga aylandi, ta'lim olgan yoshlar keyinchalik g'arbning mashhur allomalari bo'lib yetishdilar III. 2006-yilda mamlakatimizda Xorazm Ma'mun akademiyasining 1500 yilligi nishonlangan",
+   "options": [
+    "I – to'g'ri / II – noto'g'ri / III – to'g'ri",
+    "I – noto'g'ri / II – to'g'ri / III – to'g'ri",
+    "I – to'g'ri / II – to'g'ri / III – to'g'ri",
+    "I – noto'g'ri / II – noto'g'ri / III – to'g'ri"
+   ],
+   "answer": 0
+  }
+ ]
+}

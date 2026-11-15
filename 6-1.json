@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 1-mavzu. Qadimgi tarix ildizlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Tarix fanida qadimgi dunyo tarixi qaysi davrni o'z ichiga oladi?",
+   "options": [
+    "Tosh davri boshlanganidan Buyuk ipak yo'li vujudga kelguniga qadar",
+    "Yer yuzida odam paydo bo'lganidan milodiy 476-yilda G'arbiy Rim imperiyasi qulaguniga qadar",
+    "Yer yuzida odam paydo bo'lganidan metallning kashf etilishigacha",
+    "Ilk davlatlar paydo bo'lganidan milodiy 476-yilgacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadim zamonlarda odamlar yashagan manzilgoh va turarjoylarda qazishma ishlarini olib boruvchi olimlar qanday ataladi?",
+   "options": [
+    "Geograflar",
+    "Antropologlar",
+    "Arxeologlar",
+    "Etnograflar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi odamlarning skelet va bosh chanoqlarini tekshirib, ularning tashqi ko'rinishini tiklovchi olimlar kimlar?",
+   "options": [
+    "Antropologlar",
+    "Tarixchilar",
+    "Arxeologlar",
+    "Etnograflar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Etnograflar nimani o'rganadi?",
+   "options": [
+    "Qoyalarga o'yib yozilgan qadimgi bitiklarni",
+    "Qadimgi odamlarning suyak qoldiqlarini",
+    "Qadimgi manzilgohlardagi qazishma topilmalarini",
+    "Qadimgi urf-odat, xo'jalik va madaniy an'analarni saqlab qolgan, hozir yashayotgan qabila va elatlarni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Arxeologlar topgan mehnat qurollari, sopol idishlar, qurol-aslahalar va zeb-ziynat buyumlari qanday manbalar hisoblanadi?",
+   "options": [
+    "Etnografik manbalar",
+    "Og'zaki manbalar",
+    "Yozma manbalar",
+    "Moddiy (ashyoviy) manbalar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nima uchun olimlar arxeologik topilmalardan tashqari yozma manbalarga ham murojaat etadilar?",
+   "options": [
+    "Arxeologiya ma'lumotlari qadimgi dunyo tarixi haqida to'la tasavvur bera olmaydi",
+    "Arxeologik topilmalar faqat O'rta Osiyodan topilgan",
+    "Yozma manbalar arxeologik topilmalardan qadimiyroq",
+    "Arxeologik qazishmalar taqiqlangan edi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta Osiyo tarixi bo'yicha eng qadimgi yozma manba qaysi?",
+   "options": [
+    "“Avesto”",
+    "Behistun yozuvlari",
+    "Gerodotning “Tarix” kitobi",
+    "Strabonning “Geografiya”si"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Behistun qoyasi yozuvlari qayerda joylashgan va kimning buyrug'i bilan bitilgan?",
+   "options": [
+    "Misrda; fir'avn Tutmos III buyrug'i bilan",
+    "Eronda; Kir II buyrug'i bilan",
+    "Bobilda; Hammurapi buyrug'i bilan",
+    "Eronda; fors shohi Doro I buyrug'i bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Behistun yozuvlari O'rta Osiyo tarixi uchun nima sababdan qimmatli manba hisoblanadi?",
+   "options": [
+    "U O'rta Osiyoda yaratilgan eng qadimgi yozuv hisoblanadi",
+    "Unda Aleksandrning O'rta Osiyoga yurishlari yoritilgan",
+    "Unda zabt etilgan o'lkalar qatorida O'rta Osiyoning qadimgi davlatlari ham sanab o'tiladi",
+    "Unda O'rta Osiyo shaharlarining batafsil xaritasi berilgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Miloddan avvalgi V asrda turli mamlakatlarga sayohat qilib, “Tarix” kitobini yozgan yunon tarixchisi kim?",
+   "options": [
+    "Arrian",
+    "Gerodot",
+    "Strabon",
+    "Ksenofont"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Aleksandrning harbiy yurishlari” asari muallifi va u yozilgan davrni toping.",
+   "options": [
+    "Gerodot; mil. avv. V asr",
+    "Strabon; mil. avv. I asr oxiri",
+    "Arrian; milodiy II asr",
+    "Arrian; mil. avv. II asr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mil. avv. I asr oxirlarida “Geografiya” nomli asar yozgan qadimgi yunon tarixchisi va geografi kim?",
+   "options": [
+    "Strabon",
+    "Gerodot",
+    "Arrian",
+    "Ptolemey"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mualliflar va ularning asarlari to'g'ri moslashtirilgan javobni aniqlang.\n1) Gerodot; 2) Strabon; 3) Arrian.\na) “Geografiya”; b) “Aleksandrning harbiy yurishlari”; c) “Tarix”; d) “Avesto”.",
+   "options": [
+    "1-c, 2-a, 3-b",
+    "1-a, 2-c, 3-b",
+    "1-d, 2-a, 3-b",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Manbalarni yaratilish davri bo'yicha xronologik ketma-ketlikda joylashtiring.\n1) Strabonning “Geografiya”si; 2) Gerodotning “Tarix” kitobi; 3) Arrianning “Aleksandrning harbiy yurishlari” asari.",
+   "options": [
+    "2, 1, 3",
+    "1, 2, 3",
+    "3, 2, 1",
+    "2, 3, 1"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jahondagi barcha xalqlarning tarixi qaysi tuzumdan boshlangan?",
+   "options": [
+    "Urug'chilik tuzumidan",
+    "Ibtidoiy jamoa tuzumidan",
+    "Quldorlik tuzumidan",
+    "Patriarxat tuzumidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Insoniyat rivojidagi birinchi bosqich nima edi?",
+   "options": [
+    "Dehqonchilikka o'tish",
+    "Kishilarning alohida guruhlarga birlashuvi – eng qadimgi odamlarning dastlabki jamoasi",
+    "Urug' jamoalarining qabilalarga birlashuvi",
+    "Ota urug'i davrining boshlanishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Dastlabki urug' jamoalari kim atrofida birlashgan va bu davr qanday ataladi?",
+   "options": [
+    "Oqsoqollar atrofida; matriarxat",
+    "Erkak kishi atrofida; patriarxat",
+    "Ayol – ona atrofida; patriarxat",
+    "Ayol – ona atrofida; matriarxat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jamoadagi yetakchilik mavqeyining erkak kishiga o'ta boshlashiga nima sabab bo'lgan?",
+   "options": [
+    "Olovdan foydalanishni o'rganish",
+    "Mehnat qurollari va xo'jalik yuritish shakllarining takomillashuvi",
+    "Buyuk muzlik davrining boshlanishi",
+    "Diniy e'tiqodlarning paydo bo'lishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Patriarxat” atamasining ma'nosini toping.",
+   "options": [
+    "Ota urug'i davri – urug'ga erkak kishi boshchilik qilgan davr",
+    "Ona urug'i davri",
+    "Qarindosh urug'larning ajralib chiqish davri",
+    "Qabilalar ittifoqi davri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nima uchun arxeologlar insoniyat tarixining boshlanishini “tosh davri” deb atashadi?",
+   "options": [
+    "Eng qadimgi odamlar dastlabki mehnat qurollarini toshdan yasashgan",
+    "Odamlar tosh uylarda yashagan",
+    "Ilk yozuvlar toshlarga bitilgan",
+    "Odamlar toshlarga sig'inishgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Paleolit” atamasi qaysi tildan olingan va qanday ma'noni anglatadi?",
+   "options": [
+    "Lotincha; “qadimgi tosh”",
+    "Yunoncha; “qadimgi tosh”",
+    "Yunoncha; “yangi tosh”",
+    "Lotincha; “mis-tosh”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi atama tarkibidagi so'zlardan biri lotin tilidan olingan?",
+   "options": [
+    "Eneolit",
+    "Neolit",
+    "Paleolit",
+    "Mezolit"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Mezolit” va “neolit” atamalari mos ravishda qanday ma'noni bildiradi?",
+   "options": [
+    "O'rta tosh davri; mis-tosh davri",
+    "Yangi tosh davri; mis-tosh davri",
+    "Qadimgi tosh davri; o'rta tosh davri",
+    "O'rta tosh davri; yangi tosh davri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tosh davri bosqichlarini xronologik ketma-ketlikda joylashtiring.\n1) Neolit; 2) Paleolit; 3) Eneolit; 4) Mezolit.",
+   "options": [
+    "4, 2, 1, 3",
+    "2, 1, 4, 3",
+    "2, 4, 1, 3",
+    "2, 4, 3, 1"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi tosh davri (paleolit) qanday davrlarga ajratib o'rganiladi?",
+   "options": [
+    "Ilk va so'nggi paleolit",
+    "Quyi va yuqori paleolit",
+    "Ilk, o'rta va so'nggi paleolit",
+    "Paleolit, mezolit va neolit"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi tarixni o'rganuvchi olimlarga oid to'g'ri ma'lumotlarni aniqlang.\n1) arxeologlar qazishma ishlarini olib boradi; 2) antropologlar hozirgi qabilalarning urf-odatlarini o'rganadi; 3) etnograflar suyak qoldiqlaridan qiyofani tiklaydi; 4) antropologlar ming yillar avvalgi kishilar qiyofasidagi o'zgarishlarni o'rganadi.",
+   "options": [
+    "1, 3",
+    "1, 4",
+    "2, 3",
+    "2, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darslikdagi sana va ma'lumotlarga ko'ra qaysi juftlik noto'g'ri berilgan?",
+   "options": [
+    "Arrian – mil. avv. V asr",
+    "Arrian – milodiy II asr",
+    "Strabon – mil. avv. I asr oxiri",
+    "Gerodot – mil. avv. V asr"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nTosh davri bosqichi | Ma'nosi\nPaleolit | 1) ________\n2) ________ | o'rta tosh davri\nEneolit | 3) ________\na) yangi tosh davri; b) qadimgi tosh davri; c) mezolit; d) mis-tosh davri; e) neolit; f) jez davri.",
+   "options": [
+    "1-b, 2-e, 3-d",
+    "1-b, 2-c, 3-d",
+    "1-b, 2-c, 3-f",
+    "1-a, 2-c, 3-d"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nManba | Muallifi yoki buyurtmachisi | Qo'shimcha ma'lumot\n“Tarix” | A | mil. avv. V asr\nBehistun yozuvlari | B | Erondagi qoyaga o'yib yozilgan\nC | Strabon | mil. avv. I asr oxiri\n1) Arrian; 2) “Geografiya”; 3) Gerodot; 4) “Avesto”; 5) Doro I; 6) Kir II.",
+   "options": [
+    "A-3, B-6, C-2",
+    "A-1, B-5, C-2",
+    "A-3, B-5, C-4",
+    "A-3, B-5, C-2"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi tarix manbalariga oid to'g'ri hukmlarni aniqlang.\nI. “Avesto” – O'rta Osiyo tarixi bo'yicha eng qadimgi yozma manba.\nII. Behistun yozuvlari Misrda joylashgan.\nIII. Arrian Aleksandrning O'rta Osiyoga yurishlari haqida asar yozgan.\nIV. Arxeologik ma'lumotlar qadimgi dunyo haqida to'liq tasavvur beradi.",
+   "options": [
+    "I va II",
+    "III va IV",
+    "II va IV",
+    "I va III"
+   ],
+   "answer": 3
+  }
+ ]
+}

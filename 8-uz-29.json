@@ -1,0 +1,406 @@
+{
+ "title": "8-sinf · Amir Temur davlatida obodonlashtirish va bunyodkorlik ishlari-2",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Amir Temur davlatida o'rnatilgan tartib bo'yicha kimdir sahroni obod qilsa yoki biron xarob bo'lib yotgan yerni obod qilsa qancha muddatga soliqdan ozod qilingan?",
+   "options": [
+    "3 yil",
+    "1 yil",
+    "5 yil",
+    "4 yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur Qashqadaryodagi eski Anhor kanalini qanday munosabat bilan qurdirgan edi?",
+   "options": [
+    "Mirzo Ulug'bekning tavalludi",
+    "Sulton Boyazid ustidan qilingan g'alaba munosabati bilan",
+    "Hindiston egallanishi munosabati bilan",
+    "Ispaniyadan Klavixoning tashrif buyurishi tufayli"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur Murg'ob vodiysidagi qurg'oqchilikni bartaraf etish uchun nechta kanal qazdirdi?",
+   "options": [
+    "30 ta",
+    "25 ta",
+    "20 ta",
+    "10 ta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amir Temur Ozarbayjondagi Mug'on shahrida nechta bog' barpo qildi?",
+   "options": [
+    "12 ta",
+    "24 ta",
+    "42 ta",
+    "20 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada bog'lar va ularga oid ma'lumotlar to'g'ri moslashtirilgan javobni toping.\nQutichalar | Variantlar\n1. Bog'i Behisht | a) Lolazor qishlog'i o'rnida joylashgan\n2. Bog'i Dilkusho | b) Bog'i Shamol\n3. Bog'i Nav | c) Temurning xotini Xayrunnisoga atab qurilgan; yana «Bog'i Jannat» deb ataladi\n| d) Tukal xonim sharafiga qurilgan\n| e) Bog'i Maydon",
+   "options": [
+    "1-c, 2-d, 3-a",
+    "1-b, 2-d, 3-a",
+    "1-e, 2-d, 3-a",
+    "1-c, 2-b, 3-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur Qarabog'da necha kilometrlik kanal qazitdi?",
+   "options": [
+    "42 km",
+    "12 km",
+    "30 km",
+    "25 km"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur qurdirgan bog'lar nomi to'g'ri ko'rsatilgan qatorni belgilang. 1) Bog'i Davlatobod 2) Bog'i Chinobod 3) Bog'i Dilkusho 4) Bog'i Baland 5) Bog'i Behisht 6) Bog'i Samarqand",
+   "options": [
+    "1, 3, 5",
+    "1 va 3",
+    "1 va 6",
+    "1, 2, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Qayda bir joydan bir g'isht olsam, o'rniga 10 ta g'isht qo'ydirdim, bir daraxt kestirsam o'nta ko'chat ektirdim\". Ushbu fikrlar kimga tegishli?",
+   "options": [
+    "Alisher Navoiy",
+    "Husayn Boyqaro",
+    "Amir Temur",
+    "Mirzo Ulug'bek"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ushbu ta'rif qaysi bog' haqida: \"Konigilning janubi-g'arbida, hozirgi Qo'shtamg'alik tepaligi o'rnida barpo qilingan. Bog' markazida saroy joylashgan.\"",
+   "options": [
+    "Bog'i Nav",
+    "Bog'i Jahonnamo",
+    "Bog'i Shamol",
+    "Bog'i Chinor"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ushbu ta'rif qaysi bog' haqida: \"Cho'pon ota tepaligi etagida, Samarqand shimolida joylashgan. Bog'da bir ayvon va taxt bo'lgan. Mirzo Ulug'bek bu bog'ni yanada obod qilgan\".",
+   "options": [
+    "Bog'i Dilkusho",
+    "Bog'i Jahonnamo",
+    "Bog'i Maydon",
+    "Bog'i Davlatobod"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chizmada ma'lumotlar va ularga mos raqamlar to'g'ri moslashtirilgan javobni toping.\nQutichalar | Variantlar\n1. Murg'ob vodiysida qazdirilgan kanallar soni | a) 12 ta\n2. Mug'onda barpo etilgan bog'lar soni | b) 20 ta\n3. Qorabog'da qazitilgan kanal uzunligi | c) 42 km\n| d) 6 ta\n| e) 500 ta",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c",
+    "1-b, 2-a, 3-d",
+    "1-c, 2-a, 3-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur qaysi davlat (shahar)dan qirg'iydorlar, shisha idish va chinni ishlab chiqaruvchi ustalarni olib kelgan?",
+   "options": [
+    "Kichik Osiyo",
+    "Eron",
+    "Suriya",
+    "Hindiston"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bog'i Behisht qaysi yili qurilgan?",
+   "options": [
+    "1378-yil",
+    "1392-yil",
+    "1380-yil",
+    "1375-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Bog'ning ortasida Tabriz oq marmaridan qurilgan hashamatli qasr bo'lib, uning atrofidagi uzumlar, anjirzorlar va olmazorlar bog'ga go'zal tarovat baxsh etib turadi.\" Qaysi bog' haqida ma'lumot berilmoqda?",
+   "options": [
+    "Bog'i Baland",
+    "Bog'i Dilkusho",
+    "Bog'i Nav",
+    "Bog'i Behisht"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi bog' Lolazor qishlog'i o'rnida joylashgan?",
+   "options": [
+    "Bog'i Shamol",
+    "Bog'i Maydon",
+    "Bog'i Davlatobod",
+    "Bog'i Nav"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temur qaysi bog'da urushlardan keyin dam olgan, xorijiy elchilarni qabul qilgan.",
+   "options": [
+    "Bog'i Davlatobod",
+    "Bog'i Baland",
+    "Bog'i Behisht",
+    "Bog'i Jahonnamo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chizmada shaharlar va ulardan olib kelingan ustalar to'g'ri moslashtirilgan javobni toping.\nQutichalar | Variantlar\n1. Suriya | a) shisha idish va chinni ustalari\n2. Halab | b) imoratsozlar va naqqoshlar\n3. Tabriz va Xorazm | c) paxta yigiruvchilar\n| d) Eron muarrixlari\n| e) Kichik Osiyo to'pchilari",
+   "options": [
+    "1-b, 2-c, 3-a",
+    "1-a, 2-e, 3-b",
+    "1-a, 2-d, 3-b",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temur qaysi shaharda Ahmad Yassaviy sharafiga qabr ustiga maqbara qurdirgan?",
+   "options": [
+    "Bag'dod",
+    "Sheroz",
+    "Buxoro",
+    "Turkiston"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi qaysi bog' Tukal xonim sharafiga qurilgan?",
+   "options": [
+    "Bog'i Behisht",
+    "Bog'i Dilkusho",
+    "Bog'i Baland",
+    "Bog'i Davlatobod"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur qaysi davlat (shahar)dan paxta yigiruvchilarni olib kelgan?",
+   "options": [
+    "Halab",
+    "Tabriz",
+    "Eron",
+    "Suriya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temurning Oq saroyi qaysi shaharda qurilgan edi?",
+   "options": [
+    "Toshkent",
+    "Samarqand",
+    "Buxoro",
+    "Kesh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temurning bunyodkorlik ishlariga oid to'g'ri ma'lumotlarni aniqlang.\n1) Turkistonda Ahmad Yassaviy maqbarasi qurilgan; 2) Bog'i Behisht 1378-yilda qurilgan; 3) Oq saroy Samarqandda qurilgan; 4) Bog'i Dilkushoning har tarafi 90 metrlik devor bilan o'ralgan; 5) Temur davrida hunarmandchilikning 500 ta turi bo'lgan; 6) Samarqand 6 ta darvozali qilib qaytadan qurildi.",
+   "options": [
+    "2, 5, 6",
+    "1, 2, 3, 5, 6",
+    "1, 2, 5, 6",
+    "1, 2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi bog' Temurning xotini Xayrunnisoga atab qurdirgan?",
+   "options": [
+    "Bog'i Dilkusho",
+    "Bog'i Behisht",
+    "Bog'i Nav",
+    "Bog'i Jahonnamo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur bog'lari haqida ma'lumotlarni moslashtiring: a) Bog'i Shamol b) Bog'i Behisht c) Bog'i Nav d) Bog'i Dilkusho; 1) 1404-yil qurilgan 2) 1397-yil qurilgan 3) 1378-yil qurilgan 4) 1375-yil qurilgan",
+   "options": [
+    "a-2, b-3, c-1, d-4",
+    "a-2, b-3, c-1, d-2",
+    "a-3, b-1, c-2, d-2",
+    "a-1, b-2, c-4, d-3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur qaysi davlat (shahar)dan muarrixlar, musavvirlar, sozandalar, xattotlar olib kelgan?",
+   "options": [
+    "Fors va Ozarbayjondan",
+    "Tabriz va Xorazmdan",
+    "Erondan",
+    "Halab"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi shahar \"Qubbat ul-ilm val-adab\" unvoniga ega bo'lgan?",
+   "options": [
+    "Samarqand",
+    "Buxoro",
+    "Kesh",
+    "Turkiston"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi bog'ning har tarafi 900 metr uzunlikdagi baland paxsa devor bilan o'ralgan?",
+   "options": [
+    "Bog'i Jahonnamo",
+    "Bog'i Davlatobod",
+    "Bog'i Chinor",
+    "Bog'i Dilkusho"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temur davrida shaharlarni obod qilishga oid to'g'ri ma'lumotlarni aniqlang.\n1) Keshga «Qubbat ul-ilm val-adab» unvoni berilgan; 2) Oq saroy Keshda qurilgan; 3) Namozgoh — Samarqand darvozalaridan biri; 4) Qashqadaryodagi eski Anhor kanali Boyazid ustidan g'alaba munosabati bilan qurdirilgan; 5) Shaharlarning asosiy qismi hisor deb atalgan.",
+   "options": [
+    "1, 3, 4, 5",
+    "1, 2, 4, 5",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur bog'lari haqida ma'lumotlarni moslashtiring (2)",
+   "options": [
+    "1-d, 2-b, 3-a, 4-c",
+    "1-a, 2-c, 3-b, 4-d",
+    "1-c, 2-d, 3-a, 4-b",
+    "1-c, 2-a, 3-b, 4-d"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temur davrida Samarqand shahri nechta darvozali qilib qaytadan qurildi?",
+   "options": [
+    "10 ta",
+    "6 ta",
+    "8 ta",
+    "12 ta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur davrida shaharlarning asosiy qismi qanday atalar edi?",
+   "options": [
+    "guzar",
+    "ark",
+    "hisor",
+    "shahriston"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amir Temur davrida hunarmandchilikning nechta turi bo'lgan?",
+   "options": [
+    "800 ta",
+    "300 ta",
+    "100 ta",
+    "500 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temur qaysi shahardan chodir tikuvchilar, pillachilar, qalpoq yasovchilar, mol tabiblari, kamon-yoy yasovchi ustalar olib kelingan?",
+   "options": [
+    "Suriya",
+    "Eron",
+    "Kichik Osiyo",
+    "Halab"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping.\nQutichalar | Variantlar\n1. Hisor | a) shaharning asosiy qismi\n2. Behisht | b) Oq saroy qurilgan shahar\n3. Kesh | c) Ozarbayjondagi shahar\n4. Mug'on | d) Bog'i Jannat deb ham atalgan bog'\n| e) Sharqning mashhur shahri\n| f) Temur davrida qurilgan kanal",
+   "options": [
+    "1-a, 2-b, 3-d, 4-c",
+    "1-a, 2-d, 3-b, 4-c",
+    "1-a, 2-e, 3-b, 4-c",
+    "1-d, 2-a, 3-b, 4-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur davrida Samarqand darvozalari nomi xato berilgan qatorni belgilang",
+   "options": [
+    "So'zangaron",
+    "Chorsu",
+    "Namozgoh",
+    "Feruza"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi bog'ning yana bir nomi \"Bog'i Jannat\" deb ataladi?",
+   "options": [
+    "Bog'i Davlatobod",
+    "Bog'i Behisht",
+    "Bog'i Dilkusho",
+    "Bog'i Nav"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ushbu ta'rif qaysi bog' haqida: \"Bog'ning hududi juda ham katta bo'lib, yo'qolib qolgan ot 6 oydan keyin topilgan ekan\".",
+   "options": [
+    "Bog'i Behisht",
+    "Bog'i Chinor",
+    "Bog'i Jahonnamo",
+    "Bog'i Davlatobod"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ushbu bog'dagi saroy to'rtburchak shaklida bo'lib, har tomoni 1500 qadamni tashkil qilgan. Qurilishda qorayog'och va fil suyagidan foydalanilgan?",
+   "options": [
+    "Bog'i Shamol",
+    "Bog'i Chinor",
+    "Bog'i Nav",
+    "Bog'i Maydon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur qaysi davlat (shahar)dan arqon eshuvchi ustalar, qurolsozlar, to'pchi muhandislarni olib kelgan?",
+   "options": [
+    "Hindiston",
+    "Eron",
+    "Suriya",
+    "Kichik Osiyo"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temur qaysi davlat (shahar)dan imoratsozlar va naqqoshlar olib kelgan?",
+   "options": [
+    "Fors va Ozarbayjon",
+    "Hindiston",
+    "Suriya",
+    "Tabriz va Xorazmdan 8-sinf O'zbekiston tarixi"
+   ],
+   "answer": 3
+  }
+ ]
+}

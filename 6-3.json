@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 3-mavzu. Urug'chilik jamiyati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "So'nggi paleolit davri qaysi mingyilliklarni o'z ichiga oladi?",
+   "options": [
+    "Mil. avv. 12–7-mingyilliklar",
+    "Mil. avv. 100–40-mingyilliklar",
+    "Mil. avv. 40–12-mingyilliklar",
+    "Mil. avv. 6–4-mingyilliklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "So'nggi paleolit davrida qanday o'zgarishlar ro'y berdi?",
+   "options": [
+    "Ishlab chiqaruvchi xo'jalikka o'tildi",
+    "Toshga ishlov berish texnikasi va mehnat qurollari yasash usullari o'zgardi",
+    "Odamlar misdan qurol yasashni o'rgandi",
+    "Sopol idishlar yasash kashf etildi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "So'nggi paleolit davrida yashagan zamonaviy qiyofaga ega odam qanday ataladi?",
+   "options": [
+    "Neandertal odam",
+    "“Tik yuruvchi odam”",
+    "Kromanyon odami",
+    "“Ishbilarmon odam”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "So'nggi paleolit davriga oid manzilgohlar joylashgan hududlarni aniqlang.\n1) Samarqand shahri hududi; 2) Ko'lbuloq (Toshkent viloyati); 3) Machay (Surxondaryo); 4) Farg'ona vodiysi; 5) Zamonbobo (Buxoro viloyati).",
+   "options": [
+    "1, 4, 5",
+    "2, 3, 4",
+    "1, 2, 4",
+    "1, 3, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "So'nggi paleolit davrida odam nimalarni o'rgandi?\n1) olov hosil qilishni; 2) taqinchoqlar yasashni; 3) o'q-yoy yasashni; 4) boshpana qurishni; 5) sopol idish yasashni.",
+   "options": [
+    "1, 2, 4",
+    "1, 3, 5",
+    "2, 3, 4",
+    "3, 4, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qarindoshlardan tarkib topgan ixcham guruhlar qanday atalgan?",
+   "options": [
+    "Qabilalar",
+    "Urug' jamoalari",
+    "Hududiy qo'shnichilik jamoalari",
+    "Katta patriarxal oilalar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Bir joyda yashab turgan bir qancha urug'lar nimani tashkil etgan?",
+   "options": [
+    "Qo'shnichilik jamoasini",
+    "Urug' jamoasini",
+    "Davlatni",
+    "Qabilani"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "So'nggi paleolit davri odamlarining muhim ixtirosi nima bo'ldi?",
+   "options": [
+    "O'q-yoyning kashf etilishi",
+    "Turarjoylar (boshpana) qurilishi",
+    "Hayvonlarni qo'lga o'rgatish",
+    "Kulolchilik charxining kashf etilishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "So'nggi paleolit davrida odamlar kiyim-kechakni nimadan tayyorlashgan?",
+   "options": [
+    "Ipakdan",
+    "Tolalar va jundan",
+    "Zig'ir matodan",
+    "Hayvonlar terisidan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mezolit davri qaysi mingyilliklarni o'z ichiga oladi?",
+   "options": [
+    "Mil. avv. 12–7-mingyilliklar",
+    "Mil. avv. 4–3-mingyilliklar",
+    "Mil. avv. 6–4-mingyilliklar",
+    "Mil. avv. 40–12-mingyilliklar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mezolit davrining boshlanishi bilan qanday o'zgarish yuz berdi?",
+   "options": [
+    "Buyuk muzlik davri boshlandi",
+    "Muzlik davri poyoniga yetib, iqlim ancha iliydi",
+    "Ilk shaharlar paydo bo'ldi",
+    "Odamlar temirdan foydalana boshladi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta Osiyodagi mezolit davri manzilgohlari va ular joylashgan hududlar to'g'ri moslashtirilgan javobni toping.\n1) Obishir; 2) Qo'shilish; 3) Machay.\na) Toshkent vohasi; b) Surxondaryo viloyati; c) Farg'ona vodiysi; d) Buxoro viloyati.",
+   "options": [
+    "1-c, 2-b, 3-a",
+    "1-c, 2-a, 3-d",
+    "1-a, 2-c, 3-b",
+    "1-c, 2-a, 3-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mezolit davrida inson nimalarni o'rgandi?",
+   "options": [
+    "Olov hosil qilishni, boshpana qurishni, taqinchoq yasashni",
+    "Misdan qurol yasashni, xom g'ishtdan uy qurishni",
+    "O'q-yoy yasashni, hayvonlarni qo'lga o'rgatishni, ibtidoiy ziroatchilik va chorvachilikni",
+    "Kulolchilik charxi va g'ildirakni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mezolit davri oxirida inson hayvonlarni qo'lga o'rgata boshlagach, nima o'zgardi?",
+   "options": [
+    "Odamlar ko'chmanchi chorvachilikka o'tdilar",
+    "Odamlar hayvonlarga sig'ina boshladilar",
+    "Odamlar ovchilikdan butunlay voz kechdilar",
+    "Tiriklayin tutilgan qo'zichoq va uloqchalarni o'ldirmasdan yegulik zaxirasi sifatida saqlay boshladilar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslikdagi rivoyatga ko'ra, kuchukni odamlar yashaydigan g'orlar tomon nima yetaklagan?",
+   "options": [
+    "Yirtqichlardan qochish istagi",
+    "Sovuq",
+    "Odamlarning chaqirishi",
+    "Ochlik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ovchilar birinchi bo'lib qaysi hayvonni qo'lga o'rgatdilar?",
+   "options": [
+    "Otni",
+    "Itni",
+    "Echkini",
+    "Qo'yni"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Itning qo'lga o'rgatilishi odamlarga qanday foyda keltirdi?",
+   "options": [
+    "Sut va jun bera boshladi",
+    "Hayvonlarni ovlashni osonlashtirdi va odamlarni xavfdan ogohlantirdi",
+    "Yuk tashishni osonlashtirdi",
+    "Yerni haydashga yordam berdi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Neolit davrida inson qanday xo'jaliklarga o'ta boshladi?",
+   "options": [
+    "Baliqchilik va ovchilikka",
+    "Ishlab chiqaruvchi xo'jaliklar – ziroatchilik va chorvachilikka",
+    "O'zlashtiruvchi xo'jalik – termachilik va ovchilikka",
+    "Hunarmandchilik va savdoga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xo'jalik turlari va ularga kiruvchi mashg'ulotlar to'g'ri moslashtirilgan javobni aniqlang.\n1) O'zlashtiruvchi xo'jalik; 2) Ishlab chiqaruvchi xo'jalik.\na) termachilik, ovchilik, baliqchilik; b) dehqonchilik, chorvachilik; c) hunarmandchilik, savdo.",
+   "options": [
+    "1-c, 2-b",
+    "1-a, 2-c",
+    "1-b, 2-a",
+    "1-a, 2-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'rta Osiyoda neolit davri qaysi mingyilliklarni o'z ichiga oladi?",
+   "options": [
+    "Mil. avv. 12–7-mingyilliklar",
+    "Mil. avv. 4–3-mingyilliklar",
+    "Mil. avv. 6–4-mingyilliklar",
+    "Mil. avv. 40–12-mingyilliklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Arxeologlar neolit davri boshlanishini nima bilan belgilaydilar?",
+   "options": [
+    "O'q-yoyning kashf etilishi bilan",
+    "Misdan foydalanish bilan",
+    "Itning qo'lga o'rgatilishi bilan",
+    "Sopol idishlar yasashning kashf etilishi bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mezolit va neolit davrida odam toshdan yasagan mayda mehnat qurollari qanday ataladi?",
+   "options": [
+    "Chopperlar",
+    "Ulama qurollar",
+    "Mikrolitlar",
+    "Paykonlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mezolit va neolit davrida toshga ishlov berishning qanday yangi usullari qo'llana boshlandi?",
+   "options": [
+    "Silliqlash va teshikchalar parmalash",
+    "Bo'yash va naqsh solish",
+    "Urib o'tkirlash va yorish",
+    "Eritish va qoliplarga quyish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Neolit davrining muhim kashfiyotlarini aniqlang.\n1) kulolchilik; 2) o'q-yoy; 3) to'quvchilik; 4) misdan qurol yasash; 5) boshpana qurish.",
+   "options": [
+    "2, 5",
+    "3, 4",
+    "1, 2",
+    "1, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Neolit davrida odam turmush tarzida qanday o'zgarish yuz berdi?",
+   "options": [
+    "Doimiy turarjoylar qura boshlab, o'troq turmush tarziga o'tdi",
+    "Shaharlarga ko'chib o'tdi",
+    "G'orlarda yashashni boshladi",
+    "Ko'chmanchi turmush tarziga o'tdi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Kulolchilik” va “to'quvchilik” atamalarining mazmuni to'g'ri berilgan javobni toping.",
+   "options": [
+    "Tolalar va jundan kiyim tayyorlash; loydan idish yasash",
+    "Loydan ishlangan va olovda pishirilgan idishlar yasash; tolalar va jundan kiyim- kechak tayyorlash",
+    "Toshga ishlov berish; terini oshlash",
+    "Metallni eritish; bo'yra to'qish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Davrlar va ularga xos yangiliklarni xronologik tartibda joylashtiring.\n1) o'q-yoyning yasalishi; 2) sopol idishlarning kashf etilishi; 3) boshpana qurishning o'rganilishi.",
+   "options": [
+    "3, 1, 2",
+    "1, 3, 2",
+    "2, 1, 3",
+    "3, 2, 1"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nDavr | Sanasi | Muhim yangiligi\nSo'nggi paleolit | 1) ________ | boshpana qurilishi\nMezolit | mil. avv. 12–7-mingyilliklar | 2) ________\nNeolit (O'rta Osiyoda) | 3) ________ | kulolchilik, to'quvchilik\na) mil. avv. 40–12-mingyilliklar; b) o'q-yoy yasash; c) mil. avv. 6–4-mingyilliklar; d) misdan qurol yasash; e) mil. avv. 4–3-mingyilliklar; f) mil. avv. 100–40-mingyilliklar.",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-a, 2-d, 3-c",
+    "1-f, 2-b, 3-c",
+    "1-a, 2-b, 3-e"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nDavr | Manzilgoh | Hudud\nMezolit | Obishir | A\nMezolit | B | Surxondaryo viloyati\nSo'nggi paleolit | Ko'lbuloq | C\n1) Farg'ona vodiysi; 2) Toshkent viloyati; 3) Machay; 4) Teshiktosh; 5) Buxoro viloyati; 6) Qo'shilish.",
+   "options": [
+    "A-1, B-3, C-5",
+    "A-2, B-3, C-1",
+    "A-1, B-4, C-2",
+    "A-1, B-3, C-2"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Urug'chilik jamiyatiga oid to'g'ri hukmlarni aniqlang.\nI. Kromanyon odami so'nggi paleolit davrida yashagan.\nII. O'q-yoy neolit davrida kashf etilgan.\nIII. Bir joyda yashagan bir qancha urug'lar qabilani tashkil etgan.\nIV. Neolit davrida odamlar ko'chmanchi turmushga o'tgan.",
+   "options": [
+    "III va IV",
+    "II va IV",
+    "I va II",
+    "I va III"
+   ],
+   "answer": 3
+  }
+ ]
+}

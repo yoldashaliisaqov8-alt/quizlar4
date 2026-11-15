@@ -1,0 +1,486 @@
+{
+ "title": "7-sinf · Britaniyadan – Angliyaga",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Buyuk Britaniya Yevropaning qaysi qismida joylashgan?",
+   "options": [
+    "Shimoli-g'arbiy",
+    "Shimoli-sharqida",
+    "Janubi-g'arbida",
+    "Shimoli-janubida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Buyuk Britaniya hududida mil. avv. I ming yillikda qaysi qabilalar yashagan?",
+   "options": [
+    "kelt qabilalari-brittlar",
+    "Anglosaksonlar",
+    "Skot va pikit",
+    "Vestgotlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachondan boshlab Britaniya orollarining katta qismini rimliklar bosib oladi, shu bilan Janubiy Britaniya ustidan ularning deyarli 400 yillik hukmronligi boshlanadi?",
+   "options": [
+    "Milodiy 48-yildan",
+    "Milodiy 44-yildan",
+    "Milodiy 47-yildan",
+    "Milodiy 43-yildan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rim imperiyasi Britaniya orollarini istilo qilganida orolning janubida qaysi qabilalar yashagan?",
+   "options": [
+    "Kelt, britt",
+    "Skott, pikt",
+    "Vestgotlar",
+    "Ostgotlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rim imperiyasi Britaniya orollarini istilo qilganida, orolning shimolida qaysi qabilalar yashagan?",
+   "options": [
+    "Kelt, britt",
+    "Skott, pikt",
+    "Vestgotlar",
+    "Ostgotlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rimning Britaniyadagi legioni qachon Italiyaga qaytganidan so'ng, oroldagi rimlik aholi ham qit'aga qaytadi?",
+   "options": [
+    "408-yilda",
+    "409-yilda",
+    "406-yilda",
+    "407-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Pikt va skott qabilalaridan himoyalanish maqsadida brittlar qayerda joylashgan angl, saks, yut va friz qabilalari (umumiy nomi anglosakslar)dan yordam so'raydilar?",
+   "options": [
+    "Italiya ichki (shimoliy) qismida",
+    "Fransiya ichki (shimoliy) qismida",
+    "Tabariston ichki (shimoliy) qismida",
+    "Germaniyaning ichki (shimoliy) qismida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Britaniyadagi so'nggi rimliklardan kim va qachon brittlarni birlashtirib, anglosakslarga qarshi deyarli yarim asr kurashgan?",
+   "options": [
+    "Amvrosiy Avrelian VIII asrning boshlarida",
+    "Amvrosiy Avrelian VII asrning boshlarida",
+    "Amvrosiy Avrelian V asrning boshlarida",
+    "Amvrosiy Avrelian VI asrning boshlarida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kimdan so'ng brittlarda munosib yo'lboshchining bo'lmaganligi anglosakslar tomonidan orolning katta qismi bosib olinishiga imkon beradi?",
+   "options": [
+    "Amvrosiy Avrelian",
+    "Vilgilim I",
+    "Richard II",
+    "Fridirix II"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Britaniyada joylashgan anglosaks qabilalari qachon mahalliy brittlarning qolgan qismini bo'ysundirib, o'zlarining ilk feodal qirolliklarini tuzishadi?",
+   "options": [
+    "IV-VI asrlarda",
+    "V-VI asrlarda",
+    "V-VIII asrlarda",
+    "V-VI asrlarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Anglosakslar tomonidan mahalliy brittlar orolning qaysi qismiga surib chiqariladi?",
+   "options": [
+    "Shimoli-g'arbiy",
+    "Shimoli-sharqida",
+    "Janubi-g'arbida",
+    "Shimoli-janubida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Anglosakslar istilosi dahshatidan ko'pgina brittlar va keltlar franklar davlatining qaysi viloyatiga ko'chib o'tgan?",
+   "options": [
+    "Armorika",
+    "Suasson",
+    "Galiyaga",
+    "Flansiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Britaniyada kelt, britt tillari emas istilochilarning qaysi til ustunlikka erishadi?",
+   "options": [
+    "Mersiy shevasi",
+    "Angllar tili",
+    "Fransuz tili",
+    "Ispan tili"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Britaniyada qaysi sheva tobora keng qo'llanilib, ingliz tili paydo bo'ladi?",
+   "options": [
+    "Angllar tili",
+    "Ispan tili",
+    "Ingiliz tili",
+    "Mersiya shevasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Anglosaks qirolliklari monarxiya davlatlari bo'lsa-da, ammo ularda qirol hokimiyati zaif edi. Qirol zodagonlardan iborat qaysi tashkilotga qaram edi?",
+   "options": [
+    "Xalq majlisi",
+    "\"Parlament kengashi\"",
+    "\"Xalq kengashi\"",
+    "\"Donolar kengashi\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Britaniyada \"Donolar kengashi\" ning vakolatlarini aniqlang. 1. Qonunlarni tasdiqlagan 2. Mamlakatning oliy sud organi hisoblangan 3. Qirolni saylashi va uni taxtdan mahrum qilishi ham mumkin edi",
+   "options": [
+    "1,2",
+    "1,2,3",
+    "1,3",
+    "3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Britaniyada grafliklar tashkil etilib, ularni kim tomonidan idora qilishar edi?",
+   "options": [
+    "Gersoglar",
+    "Graflar",
+    "Lordlar",
+    "Sherif"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Britaniyada yirik yer egalari qanday nomlangan?",
+   "options": [
+    "Gersoglar",
+    "Graflar",
+    "Lordlar",
+    "Sherif"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon Uesseks hukmdori Ekbert oroldagi barcha qirolliklar aholisini yagona davlatga birlashtirib, o'zini qirol deb e'lon qiladi?",
+   "options": [
+    "839-yilda",
+    "849-yilda",
+    "819-yilda",
+    "829-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon anglosaks davlatlari birlashtirilib mamlakat umumiy nom bilan \"Angliya\" deb atala boshlandi?",
+   "options": [
+    "XI asr boshlarida",
+    "X asr boshlarida",
+    "XII asr boshlarida",
+    "IX asr boshlarida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Afsonaga ko'ra qaysi qirol majlislarda ishtirokchilar bir-birlari bilan eng yaxshi joy masalasida bahslashmasliklari va o'zlarini teng his qilishlari uchun davra stolini o'ylab topgan?",
+   "options": [
+    "Amvrosiy Avrelian",
+    "Velgilim I",
+    "Richard II",
+    "Fridirix II"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Davra stoli qaysi qal'adagi zalda joylashgan edi?",
+   "options": [
+    "Kamelot",
+    "Tauer",
+    "Uels",
+    "Kenisberg"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Manbalarda dumaloq stol atrofidagi ritsarlarning soni turlicha keltiriladi, lekin ularning aksariyatida nechta ritsar bo'lgani yozib qoldirilgan?",
+   "options": [
+    "25 ta",
+    "26 ta",
+    "28 ta",
+    "24 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hozirgi kunda qayerda aynan davra suhbati hali ham o'tkaziladi va bu an'ana yuzlab yillar davomida uzluksiz davom etib kelmoqda?",
+   "options": [
+    "Vinchesterda",
+    "Manchesterda",
+    "Liverpoolda",
+    "Londonda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vikinglar qaysi asrlarda Yevropa mamlakatlarida dengiz yo'li orqali savdo-sotiq bilan shug'ullanganlar?",
+   "options": [
+    "VII asr oxiri-XI asr o'rtalarida",
+    "VIII asr oxiri-XII asr o'rtalarida",
+    "VIII asr oxiri-XIII asr o'rtalarida",
+    "VIII asr oxiri-XI asr o'rtalarida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vikinglar qaysi hududlarda yashagan?",
+   "options": [
+    "Daniya",
+    "Norvegiya",
+    "Shvetsiya",
+    "A va B javoblar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi ma'lumotlardan qaysi biri xato?",
+   "options": [
+    "G'arbiy Yevropada vikinglarni normannlar deb atashgan",
+    "Rimliklar Janubiy Britaniya ustidan deyarli 400 yillik hukmronlik qilishgan",
+    "Rusda vikinglarni varyaglar deb atashgan",
+    "London milodiy 43-yili orolni Rim imperiyasi istilo qilganidan keyin Temza daryosi sohilida barpo etilgan hamda besh asrga yaqin rimliklarning bosh shahri bo'lgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Ekbert normannlarning Angliyaga qilgan hujumlaridan birini qaytara oladi?",
+   "options": [
+    "858-yilda",
+    "818-yilda",
+    "828-yilda",
+    "838-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon normannlar Londonni talaydilar va yondirib yuboradilar?",
+   "options": [
+    "858-yilda",
+    "818-yilda",
+    "828-yilda",
+    "842-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Normannlar Londonni talab va yondirib yuborganidan so'ng juda ko'plab skandinaviyaliklar Angliyaning qaysi qismida o'rnashib olib taraqqiyotiga ta'sir etgan?",
+   "options": [
+    "shimoli-sharqiy",
+    "shimoli-g'arbiy",
+    "janubi-g'arbiy",
+    "janubi-sharqiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "U ko'plab qal'alar bunyod ettirib, chegaralarni mustahkamlaydi, dengiz kemalaridan harbiy flot tuzib, qo'shinni isloh qiladi. Yuqoridagi ta'rif kimga tegishli?",
+   "options": [
+    "Buyuk Alfred",
+    "Kanut",
+    "Eduard",
+    "Vilgelm"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Angliyada birinchi marta alohida doimiy soliq olishni joriy qilgan shaxs kim?",
+   "options": [
+    "Buyuk Alfred",
+    "Velgilim I",
+    "Richard II",
+    "Fridirix II"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qirol Alfred joriy qilgan soliq nima deb nomlangan?",
+   "options": [
+    "\"ispanlar puli\"",
+    "\"fransuzlar puli\"",
+    "\"italyanlar puli\"",
+    "\"daniyaliklar puli\""
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qirol Alfred qachon normannlarni o'z hukmronligi ostidagi ingliz yerlarining daxlsizligini tan olganliklari haqidagi shartnomani tuzishga majbur etadi?",
+   "options": [
+    "868-yilda",
+    "878-yilda",
+    "878-yilda",
+    "879-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi qirol davrida ingliz yerlarida tinchlik qaror topib, ilm-fan rivojlanadi, madaniy yuksalish boshlanadi?",
+   "options": [
+    "Buyuk Alfred",
+    "Velgilim I",
+    "Richard II",
+    "Fridirix II"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi qirol davrida \"Anglosakson solnomasi\" tuzilib, muhim voqealar yilma-yil qayd etib borilgan?",
+   "options": [
+    "Buyuk Alfred",
+    "Velgilim I",
+    "Richard II",
+    "Fridirix II"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Anglosakson solnomasi\" necha yil davomida bitilgan?",
+   "options": [
+    "260-yil",
+    "270 yil",
+    "280 yil",
+    "250 yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi asarga \"Alfred haqiqati\" nomi berilgan?",
+   "options": [
+    "\"Donolar kitobi\"",
+    "\"She'riy to'plamlar\"",
+    "\"Anglosakson solnomasi\"",
+    "\"Buyuklar kitobi\""
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qachon normannlar Angliyaga qayta hujum boshlaydilar?",
+   "options": [
+    "XIII asrda",
+    "XII asr oxirida",
+    "X asrda",
+    "XI asr boshida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi Daniya qiroli ingliz sohiliga qo'shin tushurib, uni katta qiyinchiliklarsiz zabt etadi?",
+   "options": [
+    "Vilgelim I, 1011-yili",
+    "Richard II, 1045-yili",
+    "Kanut, 1038-yili",
+    "Kanut, 1013-yili"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kanut qaysi hududlarni o'z ichiga olgan yirik davlat barpo qiladi? 1. Angliya 2. Shotlandiya 3. Norvegiya 4. Shvetsiya",
+   "options": [
+    "1,2",
+    "1,2,3",
+    "1,2,3,4",
+    "1,3,4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kanut vafot etgach ingliz taxtiga kim keladi?",
+   "options": [
+    "Eduard",
+    "Velgilim I",
+    "Richard II",
+    "Fridirix II"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi yili Fransiyaning shimolidagi Normandiya gersogi Vilgelm I normand va fransuz ritsarlaridan iborat qo'shin bilan Angliya qirg'oqlariga tushadi?",
+   "options": [
+    "1068-yil",
+    "1069-yil",
+    "1067-yil",
+    "1066-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kimlar Angliyada hukmronligi o'rnatilgach ko'plab anglosakslar o'z mulklarini yo'qotadilar?",
+   "options": [
+    "Daniyaliklar",
+    "Normandlar",
+    "Vikinglar",
+    "Skotlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Angliyada kimning davrida qirollik sudi kuchayadi, shuningdek, qirollik moliya boshqarmasi ham tashkil topadi?",
+   "options": [
+    "Genrix I",
+    "Velgilim I",
+    "Richard II",
+    "Fridirix"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Genrix I ning o'g'il farzandi bo'lmaganligi sababli uning vafotidan so'ng taxt uchun kurash avj oladi. Uzoq davom etgan bu kurashda qizining o'g'li kim va nechanchi yillarda g'alaba qozonadi?",
+   "options": [
+    "Genrix II (1155-1189)",
+    "Richard II (1154-1189)",
+    "Kanut (1154-1189)",
+    "Genrix II (1154-1189)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Angliyada kimning davrida moliyaviy va harbiy islohotlar o'tkaziladi?",
+   "options": [
+    "Eduard",
+    "Genrix II",
+    "Richard II",
+    "Fridirix II"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Angliyada qaysi qirol davrida baronlarga harbiy xizmat o'rniga xazinaga \"qalqon puli\" solig'ini to'lashlariga ruxsat beriladi?",
+   "options": [
+    "Eduard",
+    "Genrix II",
+    "Richard II",
+    "Fridirix II"
+   ],
+   "answer": 1
+  }
+ ]
+}

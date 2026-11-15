@@ -1,0 +1,336 @@
+{
+ "title": "7-sinf · VI–VII asrlarda Turon xalqlari madaniy hayoti",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Mamlakatimiz tarixida ta'lim tizimining rivojlanishi nimaning paydo bo'lishi bilan yanada jadallashganligini toping.",
+   "options": [
+    "qog'oz",
+    "zardushtiylik dini",
+    "yozuv",
+    "ibodatxona"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan ta'lim tarixidan so'zlovchi manbalar muvofiq ko'rsatilgan javobni aniqlang? 1) sopol 2) xumdonlar 3) teri 4) yog'och 5) qadimgi tosh bitiklar 6) loy taxtachalar 7) yozuv 8) qog'oz",
+   "options": [
+    "1, 3, 4, 6, 7",
+    "1, 3, 4, 5, 8",
+    "1, 2, 4, 5, 7",
+    "1, 3, 5, 6, 8"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ov manzarasi tasvirlangan mis idish qachon va qayerdan topilganligini aniqlang.",
+   "options": [
+    "IV asr / Eron",
+    "V asr / Hindiston",
+    "VI asr / Afg'oniston",
+    "V asr / Pokistondan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Turon hududda ta'limning rivojlanganlik darajasini ko'rsatadigan omillar xato berilgan javobni aniqlang. 1) arxeologik topilmalar 2) ibodatxonalar 3) qo'lyozmalar 4) behustun yozuvlari 5) mehnat qurollari 6) savdo aloqalari 7) sopol idishlar 8) hunarmandchilik buyumlari",
+   "options": [
+    "1, 3, 4, 6, 7",
+    "1, 3, 4, 5, 8",
+    "2, 5, 7, 8",
+    "1, 3, 5, 6, 8"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nafaqat diniy, balki dunyoviy bilimlar, tarixiy voqealar hamda ma'naviy-ma'rifiy qarashlar haqidagi ma'lumotlar to'plangan asarni muvofiq berilgan javobni toping.",
+   "options": [
+    "Marhumlar kitobi",
+    "Avesto",
+    "Rigveda",
+    "Bibliya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi hududdan topilgan zardushtiylarning ibodatxonasi diqqatga sazovor inshootlarning o'rtasida qo'sh devorlar bilan qurshalgan va ichkariga aylanma yo'lagi orqali kiriladigan to'g'ri burchakli bino bo'lgan?",
+   "options": [
+    "Jonbosqal'a va Tuproqqal'a",
+    "Jarqo'rg'on va Surxko'tal",
+    "Afrosiyob va Ellikqal'a",
+    "Muzrabod va Qo'yqirilganqal'a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mamlakatimiz hududida yashagan xalqlar quyidagi qaysi dinlarga e'tiqod qilishganliklarini aniqlang. 1) tangrichilik 2) zardushtiylik 3) otashparaslik 4) shomoniylik 5) xristianlik 6) moniylik 7) buddaviylik",
+   "options": [
+    "2, 3, 4, 6",
+    "1, 3, 5, 6",
+    "1, 4, 5, 7",
+    "1, 2, 5, 7"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jonbosqal'a va Tuproqqal'adan topilgan ibodatxonalarga tutash binolarda shug'ullangan faoliyat turlari muvofiq kelgan javobni aniqlang. 1) ta'lim maskanlari 2) hukmdor saroylari 3) huquq idoralari 4) shifoxonalar 5) ma'muriy-xo'jalik ishlari",
+   "options": [
+    "1, 3, 5",
+    "2, 4, 5",
+    "2, 3, 5",
+    "2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xorazmda o'g'il bolalarga o'rgatilgan sohalardan nomuvofiq javobni aniqlang.",
+   "options": [
+    "o'qish",
+    "hisob-kitob",
+    "yozish",
+    "sheriyat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xorazmda o'g'il bolalarga keyinchalik o'rgatilgan fanlarga kirmaydigan javobni aniqlang.",
+   "options": [
+    "astronomiya",
+    "geografiya",
+    "tarix",
+    "me'morchilik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Zardushtiylik diniga oid Chilpiqqal'a qaysi hududdan topilganligini aniqlang.",
+   "options": [
+    "Jonbosqal'a, Xorazm viloyati",
+    "Amudaryo tumani, Qoraqalpog'iston",
+    "Qorako'l tumani, Buxoro viloyati",
+    "Bekobod tumani, Toshkent viloyati"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida keltirilgan qaysi qal'alarning xonalaridan teriga va yog'ochga yozilgan turli mazmundagi hujjatlar hamda katta-kichik haykalchalar topib o'rganilganligini aniqlang.",
+   "options": [
+    "Tuproqqal'a va Oybo'yirqal'a",
+    "Qal'aliqir va Jonbosqal'adan",
+    "Jonbosqal'a va Tuproqqal'a",
+    "Qo'yqirilganqal'a va Qal'aliqir"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi ta'limot bilan bog'liq an'analar o'rganilganida, har bir ibodatxonada rohiblar tayyorlaydigan ta'lim muassasalari bo'lganligini aniqlang.",
+   "options": [
+    "xristianlik",
+    "buddaviylik",
+    "zardushtiylik",
+    "tangrichilik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keladigan javobni aniqlang. \"buddaviy o'quv maskanlari – viharalarda asosiy fan sifatida .... ya'ni diniy qonun-qoidalar va Xudoning mohiyati hamda irodasi haqida ta'lim berilgan\"",
+   "options": [
+    "Marhumlar kitobi",
+    "Rigveda",
+    "Avesto",
+    "Daxarma"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yahudiylar Ossuriya quvg'inlaridan so'ng ko'chib kelgan hududlar nomuvofiq javobni aniqlang.",
+   "options": [
+    "Samarqand",
+    "Eron",
+    "Marv",
+    "Buxoro"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yahudiy jamoalari bilan birga kirib kelgan hudud madaniyati muvofiq berilgan javobni aniqlang.",
+   "options": [
+    "Mesopotamiya",
+    "Bobil",
+    "Misr",
+    "Finikiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachonga kelib Samarqand va Buxoroda xristianlik tarqalib, diniy muassasalar tashkil qilingan?",
+   "options": [
+    "IV asr",
+    "V asr",
+    "VI asr",
+    "VII asr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Turon hududidan o'tgan savdo yo'llarida eng qimmatbaho tovar bu nimalar hisoblanganligi nomuvofiq berilgan javobni aniqlang. 1) yozuv materiallari 2) qimmatbaho munchoqlar 3) ipak matolar 4) kitoblar",
+   "options": [
+    "1, 2, 4",
+    "2, 3",
+    "1, 4",
+    "2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "To'nyuquq bitiktoshi topilgan hudud to'g'ri berilgan javobni aniqlang.",
+   "options": [
+    "Shimoliy Mo'g'uliston",
+    "Janubiy Mo'g'uliston",
+    "Yettisuv",
+    "Sharqiy Turkiston"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi bandlar mazmuniga oid yakuniy hukmni aniqlang. I. Sug'ddagi katta nestoriyan jamoalarining hujjatlari sug'd tilida yozilgan II. Sug'ddagi katta nestoriyan jamoalarining hujjatlari baqtriya yozuvida yozilgan III. Turklarning turkiy run (ko'kturk) xati biri ikkinchisiga tutashib ketadigan 38–40 ta harfdan iborat edi",
+   "options": [
+    "I – noto'g'ri / II – to'g'ri / III – to'g'ri",
+    "I – to'g'ri / II – noto'g'ri / III – to'g'ri",
+    "I – noto'g'ri / II – noto'g'ri / III – to'g'ri",
+    "I – to'g'ri / II – to'g'ri / III – to'g'ri"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xudodan qo'rqish qanchalik go'zal va buyuk ekanligi qaysi ta'limotga tegishli ekanligini aniqlang.",
+   "options": [
+    "tangrichilik",
+    "buddaviylik",
+    "Xristianlik",
+    "zardushtiylik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Turkiy run yozuvini nimalarga o'yib yozishga nihoyatda qulay bo'lganligini aniqlang.",
+   "options": [
+    "temir va yog'ochga",
+    "tosh va yog'ochga",
+    "jez va toshga",
+    "sopol va metall buyumlarga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos javobni qo'ying. Qadimgi ko'kturk bitiklari: 1) Oltoy 2) Sharqiy Turkiston 3) Yettisuv 4) Farg'ona 5) ...",
+   "options": [
+    "Xorazm",
+    "Termiz",
+    "Karmana",
+    "Zarafshon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keladigan javobni aniqlang. Hudud-Devoriy surat: 1) Surxon vohasida – Bolaliktepa 2) Zarafshon vodiysida – Varaxsha 3) Farg'ona vodiysida – ....",
+   "options": [
+    "Quva",
+    "Afrosiyob",
+    "Panjikent",
+    "Afrosiyob (2)"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Haykaltaroshlik rivojiga kuchli ta'sir ko'rsatgan din to'g'ri ko'rsatilgan javobni aniqlang.",
+   "options": [
+    "tangrichilik",
+    "zardushtiylik",
+    "xristianlik",
+    "buddaviylik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Turon aholisi madaniyatidan darak beradigan qazilmalar topilgan hududlarga nomuvofiq berilgan javobni aniqlang.",
+   "options": [
+    "Afrosiyob",
+    "Bolaliktepa",
+    "Varaxsha",
+    "Panjikent"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Saroy va ibodatxona, turar joy binolari, devorlardagi naqshlar, turli suratlar, haykallar, yog'och o'ymakorligi buyumlari, Mug' tog'i va Afrosiyobda topilgan yozuv muvofiq berilgan javobni aniqlang.",
+   "options": [
+    "oromiy yozuvlari",
+    "sug'd yozuvlari",
+    "toxar yozuvlari",
+    "baqtriya yozuvi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi ko'kturk (Kultegin va Bilga xoqon) bitiklari Oltoy va Sharqiy Turkistondan tashqari, Yettisuv, Farg'ona va Zarafshon vodiylaridan topilgan buyumlarga muvofiq keladigan javobni aniqlang. 1) qabrtoshlari 2) jezdan yasalgan buyumlar 3) sopol 4) haykalchalar 5) kumush tangalar 6) metall buyumlar 7) yog'och 8) asarlar 9) tanga pullar",
+   "options": [
+    "1; 3; 5; 7; 9",
+    "1; 3; 5; 8; 9",
+    "1; 3; 6; 7; 9",
+    "1; 2; 5; 8; 9"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan qaysi sohani yuqori darajada rivoj topganligini aniqlang.",
+   "options": [
+    "hunarmandchilik",
+    "to'qimachilik",
+    "shishasozlik",
+    "chorvachilik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keladigan javobni aniqlang. Turon hududida foydalanilgan buyumlar: a) tog'li va tog'oldi hududlarda b) vodiylarda; 1) jun 2) zargarlik buyumlari 3) ipak va ip mato 4) mehnat qurollari",
+   "options": [
+    "a – 1; b – 2",
+    "a – 3; b – 4",
+    "a – 1; b – 3",
+    "a – 2; b – 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Turon gazmol markazlarida «zandanachi» kabi ko'k rangli ipak va boshqa matolarning ishlab chiqarilishi natijasida qanday kiyim turlari paydo bo'lgan?",
+   "options": [
+    "kaftan, yopinchiq va po'stin",
+    "shleyfli uzun ko'ylak, kofta",
+    "yopishtirma yassi, g'ilof",
+    "kalta kaftan va ko'ylaklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi hududda tanaga yopishib turishga qulay o'tkazma yengli kiyimlar paydo bo'lgan?",
+   "options": [
+    "Xitoy",
+    "Turon",
+    "Old Osiyo",
+    "Misr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qayerda faqat erkak va ayol xizmatchilar belbog' taqishardi, aslzoda ayollar esa belini bog'lashmaganligini aniqlang.",
+   "options": [
+    "Chag'aniyon",
+    "Turon",
+    "Old Osiyo",
+    "Toxariston"
+   ],
+   "answer": 3
+  }
+ ]
+}

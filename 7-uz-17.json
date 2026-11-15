@@ -1,0 +1,316 @@
+{
+ "title": "7-sinf · Saljuqiylar",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Saljuqiylar turkiy o'g'uz qavmi tarkibida dastlab hozirgi qaysi hududlarda ko'chmanchi hayot kechirganlar?",
+   "options": [
+    "Janubiy Qozog'iston, Sirdaryoning yuqori oqimida",
+    "Janubiy Qozog'iston, Sirdaryoning o'rta oqimida",
+    "Shimoliy Qozog'iston, Sirdaryoning o'rta oqimida",
+    "Janubiy Qozog'iston, Sirdaryoning quyi oqimida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "X asrda kim o'zining fazilatlari, bilimdonligi, abjirligi va mardligi tufayli obro'-e'tibor qozonib, bir qancha qabilalar sardori, katta harbiy kuch boshlig'i darajasiga erishganligi aniqlang.",
+   "options": [
+    "Ma'sud",
+    "Ali",
+    "Mahmud",
+    "Saljuq"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mos javobni qo'ying. Mahmud G'aznaviyning roziligi va bir necha shartlar bilan saljuqiy oilalari .... qadam bosadilar. 1) Xuroson 2) Movarounnahr 3) Yettisuv 4) Sharqiy Turkiston",
+   "options": [
+    "1, 2, 3",
+    "1, 2",
+    "faqat 3",
+    "faqat 1"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1040-yilda saljuqiylar va g'aznaviylar o'rtasida to'qnashuv bo'lgan hudud to'g'ri berilgan javobni aniqlang.",
+   "options": [
+    "Sheroz",
+    "Sayram",
+    "Isfahon",
+    "Dandanaqon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachonga kelib saljuqiylar Xorazm, Eron, Kavkazortiga harbiy yurishlar uyushtiradilar va bu hududlarni o'z ta'sir doiralariga o'tkazganlar?",
+   "options": [
+    "XII asrning 30-yillarida",
+    "XII asrning 40-yillarida",
+    "XI asrning 40-yillarida",
+    "XI asrning 60-yillarida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mos javobni qo'ying. \"Saljuqiylar xalifalik poytaxti ...... egallaydilar\"",
+   "options": [
+    "Bag'dod",
+    "Damashq",
+    "Marv",
+    "Isfahon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Saljuqiy hukmdori .....(a) Kichik Osiyoda Vizantiya podshosi ......(b) yengadi. 1) Sulton Sanjar 2) Sulton Alp Arslon 3) Mahmud G'aznaviy 4) Roman IV Diogen",
+   "options": [
+    "a-2; b-4",
+    "a-1; b-4",
+    "a-2; b-3",
+    "a-4; b-2"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi hududlarga g'arbiy saljuqiylarga kirmaydigan variantni belgilang.",
+   "options": [
+    "Eron",
+    "Iroq",
+    "Ozarbayjon",
+    "Gruziya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XI asrning 40-yillarida saljuqiylar qaysi hududlarga harbiy yurishlar uyushtirganlar va bu hududlarni o'z ta'sir doiralariga o'tkazganlar?",
+   "options": [
+    "Xorazm, Eron, Kavkazorti",
+    "Pokiston, Eron, Kavkazorti",
+    "Xorazm, Eron, Orolbo'yi",
+    "Xorazm, Afg'oniston, Kavkazorti"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyida keltirilgan ma'lumotlardan qaysilarida Davlat-hukmdor-voqea mos ravishda berilganligini toping.",
+   "options": [
+    "Saljuqiy-Alp Arslon-Kichik Osiyoda Vizantiya podshosi Roman IV Diogenni yengdi",
+    "Saljuqiy-Sulton Malikshoh-Samarqand, Buxoro, Farg'ona saljuqiylar qo'l ostida birlashadi",
+    "Vizantiya -Sulton Malikshoh-saltanat Sharqiy Turkistondan O'rta dengizgacha bo'lgan hududni o'z ichiga olgan",
+    "Anushteginiylar- Nizomulmulk siyosatnoma asarini yozdi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan sulton Malikshoh hukmronligi davrida saljuqiylar qo'l ostida birlashgan hududlarga nomuvofiq bo'lgan javobni belgilang.",
+   "options": [
+    "Samarqand",
+    "Buxoro",
+    "Toshkent",
+    "Farg'ona"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "«Malik al-Mashriq», ya'ni «Sharq hukmdori» hamda «Rukn ad-din» — «din suyanchig'i» degan nom olgan hukmdor qaysi davlatda hukmronlik qilganligini toping.",
+   "options": [
+    "Saljuqiylar",
+    "Bog'dod xalifasi",
+    "Damashq xalifasi",
+    "O'g'uzlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kimning hukmronligi davrida Saljuqiylar saltanati Sharqiy Turkistondan O'rta dengizgacha bo'lgan hududni o'z ichiga olganligini toping.",
+   "options": [
+    "Sulton Alp Arslon",
+    "Sulton Malikshoh",
+    "Sulton Tug'rulbek",
+    "Sulton Nizomulmulk"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachondan boshlab saljuqiylar saltanati zaiflashib parchalana boshlaganligini toping.",
+   "options": [
+    "X asrning birinchi yarmida",
+    "X asrning ikkinchi yarmida",
+    "XI asrning birinchi yarmida",
+    "XI asrning ikkinchi yarmida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sulton Tug'rulbekka «din suyanchig'i» degan nom bergan hukmdor qaysi davlatni boshqarganligini toping.",
+   "options": [
+    "Bog'dod",
+    "Saljuqiylar",
+    "G'aznaviylar",
+    "Somoniylar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Saljuqiylar saltanatining parchalanishiga olib kelgan asosiy sabab to'g'ri berilgan qatorni toping.",
+   "options": [
+    "poraxo'rlikning avj olishi",
+    "tez-tez qo'zg'olonlar ko'tarilishi",
+    "saltanatning haddan tashqari ulkan hududda yoyilganligi",
+    "buyuk davlat olib borilgan kuchli raqobat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Saljuqiylar xonadoni vakillari faoliyati bilan bog'liq yuzaga kelgan sultonliklarga quyidagi qaysi javob nomuvofiq ekanligini toping.",
+   "options": [
+    "Suriya",
+    "Iroq",
+    "Kirmon",
+    "Sheroz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nizomulmulk vazirlik davrida quyidagi qaysi hududlarda «Nizomiya» nomidagi madrasalar qurdirganligini aniqlang. 1) Bag'dod 2) Basra 3) Sheroz 4) Isfahon 5) Damashq",
+   "options": [
+    "1, 2, 3, 4",
+    "2, 4, 5",
+    "1, 2, 4",
+    "1, 3, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kalendarni isloh etish uchun tuzilgan ishchi guruhga rahbarlikka taklif qilingan kishini biz kim deb tanishimizni quyidagilardan to'g'risini toping.",
+   "options": [
+    "astronom",
+    "yulduzshunos",
+    "matematik",
+    "to'rtlik ustasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraxitoylarning Movarounnahrga yurishi vaqtida sharqiy qoraxoniylar davlatida hukmdor kim ekanligini toping.",
+   "options": [
+    "Sulton To'g'rulbek",
+    "Sulton Malikshoh",
+    "Sulton Sanjar",
+    "Sulton Alp Arslon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xorazmshohlar (anushteginiylar) qachondan boshlab g'arbiy saljuqiylarga zarba berganligini aniqlang.",
+   "options": [
+    "XI asrning birinchi yarmi",
+    "XI asrning ikkinchi yarmi",
+    "XII asrning birinchi yarmi",
+    "XII asrning ikkinchi yarmi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Arzchilar eng muhim so'zlarini aytmoqlari, (hukmdor esa) ular bo'yicha hukm chiqarmog'i lozim.\" Yuqoridagi jumla muallifining lavozimini toping.",
+   "options": [
+    "bosh vazir",
+    "bosh qo'mondon",
+    "bosh noib",
+    "hokim"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyida berilgan vazifalardan saljuqiylar sultonining vazifasiga kirmaydigan javobni toping.",
+   "options": [
+    "mamlakatning obodonchiligi, qurilishlar, karvon yo'llarining xavfsizligini ta'minlash",
+    "moliyaviy kirim-chiqimlarning hisoblash va tekshirish",
+    "sud ishlari bilan shug'ullanish",
+    "Mulk, yer-suv taqsimlash"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlardan faqat to'g'risini toping. I. Xalq orasida va tarixda Nizomulmulk (mulk – davlatning tartibotchisi) nomi bilan mashhur bo'lgan qoraxoniylarning mashhur vaziri II. Nizomulmulk Saljuqiy shohlar davrida ishni oddiy amaldorlikdan boshlab, bosh sarkarda darajasigacha erishgan III. Vazirlar «qilich va qalam sohibi» degan sharafga erishganlar IV. «Temur tuzuklari» vazirlarni qadrlashga da'vat etiladi",
+   "options": [
+    "I va II",
+    "II va III",
+    "III va IV",
+    "II va IV"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "«Temur tuzuklari»da alohida mehr-muhabbat bilan, har jihatdan namuna qilib ko'rsatilgan asarni muallifini aniqlang.",
+   "options": [
+    "Yusuf xos hojib",
+    "Mahmud Qoshg'ariy",
+    "Nizomulmulk",
+    "Sulton Malikshoh"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "«Siyar ul-muluk» nomli asar qaysi davlat boshqaruvining asosiy qoidalarini hamda huquqiy masalalarini o'rganishda muhim manba hisoblanganligini aniqlang.",
+   "options": [
+    "Somoniylar",
+    "Qoraxoniylar",
+    "G'aznaviylar",
+    "Saljuqiylar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "«Siyar ul-muluk» asarining asosiy g'oyasi nima haqida ekanligini toping",
+   "options": [
+    "jamiyatdagi illatlar",
+    "elchilik masalasi",
+    "amaldorlarning qilmishlari",
+    "davlat masalasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "«Siyosatnoma»ning eng qadimgi nusxasi qayerda saqlanib kelayotgan ekanligini aniqlang.",
+   "options": [
+    "Iroqda, Bog'dod kutubxonasida",
+    "Eronda, Tabriz kutubxonasida",
+    "Suriyada, Damashq kutubxonasida",
+    "Angliyada, London kutubxonasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Podshohlarning turmush tarzi nomli asarning muallifi berilgan javobni toping.",
+   "options": [
+    "Yusuf xos hojib",
+    "Mahmud Qoshg'ariy",
+    "Nizomulmulk",
+    "Sulton Malikshoh"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "«Jome at-tavorix» kitobining muallifi qaysi saljuqiy hukmdorning toj kiyish marosimini yoritganligini toping.",
+   "options": [
+    "Ahmad Sanjar",
+    "Sulton Sanjar",
+    "Sulton Malikshoh",
+    "Sulton Tog'rulbek"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi ta'rif saljuqiylar davridagi qaysi olim haqida ekanligini toping. \"U matematika tarixida sonlardan butun musbat ildiz topishning umumiy qoidasini birinchi bo'lib isbotlab bergan olim edi.\"",
+   "options": [
+    "Nizomulmulk",
+    "Firdavsiy",
+    "Umar Xayyom",
+    "Ali Yazdiy"
+   ],
+   "answer": 2
+  }
+ ]
+}

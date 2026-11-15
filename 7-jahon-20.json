@@ -1,0 +1,456 @@
+{
+ "title": "7-sinf · Yevropaning o'rta asrlar madaniyati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Kimning davrida \"karolinglar uyg'onishi\" deb nomlangan madaniy yuksalish boshlandi?",
+   "options": [
+    "Xlodvig",
+    "Eyngard",
+    "Aflotun",
+    "Buyuk Karl"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ilk darsliklarni yozgan shaxsga kim maktablarni boshqarishni topshirgan?",
+   "options": [
+    "Xlodvig",
+    "Eyngard",
+    "Aflotun",
+    "Buyuk Karl"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Asarlarida Buyuk Karl hayoti va faoliyatiga oid ma'lumotlarni keltirgan olimni zamondoshlari nima deyishgan?",
+   "options": [
+    "mehnatsevar chumoli",
+    "olimlar podshosi",
+    "mehnatsevar ari",
+    "vazirlar vaziri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yostig'ining tagida doim mum surilgan yozuv taxtachasi bo'lgan imperator qayerda yunoncha \"akademiya\" tashkil etgan?",
+   "options": [
+    "Axen",
+    "Persepol",
+    "Kopella",
+    "Sofiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Karl o'z saroyiga quyidagi qaysi davlatlardan bilimdon kishilarni taklif qilgan? 1. Italiya 2. Ispaniya 3. Fransiya 4. Angliya 5. Irlandiya",
+   "options": [
+    "1,2,3,4,5",
+    "1,2,3,5",
+    "1,2,4,5",
+    "1,2,3,4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vizantiyadagi maktablar nimasi bilan ajralib turgan?",
+   "options": [
+    "bepul",
+    "hamma o'qigan",
+    "ta'lim past bo'lgan",
+    "ta'lim darajasi yuqori bo'lgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilarni moslashtiring. 1. Prokopiy 2. Lev Diakon 3. Ayo Sofiya a-VI b-IV c-X d-IX e-532-537 g-523-537",
+   "options": [
+    "1-b,a 2-c 3-e",
+    "1-a 2-c 3-e",
+    "1-a 2-e 3-c",
+    "1-e 2-a 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vizantiya madaniyati nima uchun G'arbiy Yevropaniki singari inqirozni boshdan kechirmadi?",
+   "options": [
+    "o'z daxlsizligini saqlab qoldi",
+    "ta'lim yuqori",
+    "Xristian dini ustunlik qildi",
+    "ilohiyat rivojlangan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'ziga xos yuksak madaniyati bilan Yevropaning eng ilg'or mamlakati bo'lgan davlat qaysi?",
+   "options": [
+    "Vizantiya",
+    "G'arbiy Rim Imperiyasi",
+    "Kiyev",
+    "Yaponiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Biz yerdamizmi, osmondamizmi - bilmas edik, chunki yer yuzida bunday ajoyib manzara va go'zallik yo'q\". Bu so'zlar kimga tegishli?",
+   "options": [
+    "Yakob",
+    "Vladimir",
+    "Tyudor",
+    "Svyatopolk"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Avliyo Sofiya ibodatxonasi gumbazi diametri(a) va derazalar soni(b) nechataga teng?",
+   "options": [
+    "a-30,5m b-40ta",
+    "a-31 b-41",
+    "a-31,5 b-40",
+    "a-31,5 b-41"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ikona nima?",
+   "options": [
+    "katoliklarning ibodatxonasi",
+    "nam suvoqqa ishlangan rasm",
+    "naqsh tasvir",
+    "yog'ochning qattiq qismiga ishlangan tasvir"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xori manastiri hozirgi ….",
+   "options": [
+    "Qohira masjidi",
+    "Buxoriy maqbarasi",
+    "Al Hamro saroyi",
+    "Qahriya masjidi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rus knyazi Vladimir tashrif buyurgan ibodatxona kimning davrida bunyod etilgan?",
+   "options": [
+    "Yustinian I",
+    "Yustin",
+    "Al Kuin",
+    "Eyngard"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Barcha fanlar onasi …",
+   "options": [
+    "Ritorika",
+    "Dialektika",
+    "Kvadrium",
+    "Yetti erkin sanat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Maktablarda quyidagi qaysi fanlar o'qitilgan? 1. Grammatika 2. Ritorika 3. Dialektika 4. Arifmetika 5. Geometriya 6. Astronomiya",
+   "options": [
+    "1,2,3",
+    "1,2,3,4",
+    "1,2,3,4,5",
+    "1,2,3,4,5,6"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nechanchi asrga kelib har bir mamlakatning o'z milliy tilida o'qitiladigan maktablar ochila boshlandi?",
+   "options": [
+    "XVI",
+    "XIV",
+    "XV",
+    "XVII"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta asrlarda maktabda o'qish yengil kechmagan, bilim olish jarayoni nimalarni talab qilgan?",
+   "options": [
+    "pul, bilim, iroda",
+    "temir iroda, xotira va salomatlik",
+    "xotira va pul",
+    "bilim"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Dars davomida intizom borasida muammo yuzaga kelsa ….?",
+   "options": [
+    "burchakka qarab o'tirgan",
+    "tushuntirish ishlari olib borilgan",
+    "maktabdan haydalgan",
+    "xivich bilan kaltaklangan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yevropada nima uchun ilm-ma'rifatli kishilarga talab oshgan?",
+   "options": [
+    "markazlashgan davlat tashkil topgan",
+    "ish soni ortgan",
+    "maktablar ko'paygan",
+    "t.j.y"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yevropada ilk universitetlar qachon ochilgan?",
+   "options": [
+    "IX-XII",
+    "XI-XII",
+    "X-XII",
+    "IX-XI"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Universitetlar kimlarga bo'ysungan?",
+   "options": [
+    "davlatga",
+    "cherkovga",
+    "imperatorga",
+    "rim papasiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Darslar qaysi tilda olib borilgan?",
+   "options": [
+    "ingliz",
+    "yunon",
+    "grek",
+    "lotin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qayerda kolligiyalarga asos solingan?",
+   "options": [
+    "Angliya, Fransiyada",
+    "Angliya, Italiya",
+    "Italiya, Fransiya",
+    "Fransiya, Germaniya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tuluza universiteti qaysi davlatda joylashgan?",
+   "options": [
+    "Angliya",
+    "Italiya",
+    "Ispaniya",
+    "Fransiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buyuk Karl 2 taniqli qo'shiqchini taklif etgan mamlakatda tashkil topgan universitet qaysi?",
+   "options": [
+    "Sevilya",
+    "Boloniya",
+    "Tuluza",
+    "Valensiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buyuk Karl qaysi tillarni bilgan?",
+   "options": [
+    "lotin va ispan",
+    "lotin va fransuz",
+    "lotin va yunon",
+    "ispan va yunon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yunon olovi nechanchi asrda yaratilgan?",
+   "options": [
+    "VI",
+    "VIII",
+    "IV",
+    "VII"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konstantinopolda qachon Magnavr oliy maktabi ochildi?",
+   "options": [
+    "IX asr",
+    "X asr",
+    "XI asr o'rtalari",
+    "VII asr"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qachon huquqshunoslik va falsafa fakultetlari bo'lgan universitet ochiladi?",
+   "options": [
+    "IX asr",
+    "X asr",
+    "XI asr o'rtalari",
+    "VII asr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qayerda oliy tibbiyot maktabi ham faoliyat yuritgan?",
+   "options": [
+    "Vizantiya",
+    "Axen",
+    "Konstantinopol",
+    "Poytaxtda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kimlar geografiyadan ko'plab bilimlarni to'plaganlar?",
+   "options": [
+    "Vizantiyaliklar",
+    "Axenliklar",
+    "Konstantinopolliklar",
+    "Germaniyaliklar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qayerda tarixiy asarlar yaratishga katta e'tibor qaratilgan?",
+   "options": [
+    "Germaniya",
+    "Axen",
+    "Konstantinopol",
+    "Vizantiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hunarmandchilik, dengizchilik, savdo, tibbiyot, harbiy soha, qishloq xo'jaligining yuksalishi uchun xizmat qiladigan tabiiy fanlar?",
+   "options": [
+    "Astronomiya, Matematika, Fizika",
+    "Astronomiya, Kimyo, Matematika",
+    "Matematika, Kimyo, Geografiya",
+    "Geometriya, Tarix, Astronomiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mozaika nima?",
+   "options": [
+    "koshin tosh, yog'och, marmarlar, rangli shishalardan ishlangan naqsh, tasvir",
+    "nam suvoq ustiga tushurilgan rangli tasvir",
+    "odatda yog'ochning qattiq turlaridan ishlangan xudo, Bibi Maryam, Injil sahnalari, avliyolar tasvir",
+    "xom suvoqqa ishlangan bezaklar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Freska nima?",
+   "options": [
+    "nam suvoq ustiga tushurilgan rangli tasvir",
+    "koshin tosh, yog'och, marmarlar, rangli shishalardan ishlangan naqsh, tasvir",
+    "odatda yog'ochning qattiq turlaridan ishlangan xudo, Bibi Maryam, Injil sahnalari, avliyolar tasvir",
+    "xom suvoqqa ishlangan bezaklar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yevropadagi dastlabki universitetlar qayerda joylashgan?",
+   "options": [
+    "Italiya, Fransiya",
+    "Angliya, Italiya",
+    "Ispaniya, Fransiya",
+    "Fransiya, Germaniya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qayerda o'quvchilar ustozlari boshchiligida har yili bir necha bor o'rmonga xivich tayyorlagani borishgan?",
+   "options": [
+    "Germaniya",
+    "Vizantiya",
+    "Konstantinopol",
+    "Fransiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oksford va Kembrij universitetlari qayerda joylashgan?",
+   "options": [
+    "Italiya",
+    "Ispaniya",
+    "Fransiya",
+    "Angliya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sevilya va Valensiya universitetlari qayerda joylashgan?",
+   "options": [
+    "Italiya",
+    "Angliya",
+    "Fransiya",
+    "Ispaniya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Neapol universiteti qayerda joylashgan?",
+   "options": [
+    "Italiya",
+    "Angliya",
+    "Fransiya",
+    "Ispaniya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Universitetlar qaysi fakultetlardan iborat bo'lgan? 1. Ilohiyot 2. San'at 3. Tarix 4. Musiqa 5. Huquqshunoslik 6. Tibbiyot",
+   "options": [
+    "1, 2, 3",
+    "4, 5, 6",
+    "1, 2, 5, 6",
+    "1, 3, 4, 6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fakultetlarni kim boshqargan?",
+   "options": [
+    "Dekan",
+    "Rektor",
+    "Kansler",
+    "Tyudor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hamjamiyat tepasida esa saylangan kim turgan?",
+   "options": [
+    "Dekan",
+    "Rektor",
+    "Kansler",
+    "Tyudor"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hokimiyat tomonidan tayinlangan kim turgan?",
+   "options": [
+    "Dekan",
+    "Kansler",
+    "Tyudor",
+    "Kansler"
+   ],
+   "answer": 1
+  }
+ ]
+}

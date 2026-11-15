@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 44-mavzu. Rim respublikasi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Rim Xalq majlisining vakolatlarini aniqlang.",
+   "options": [
+    "Urush e'lon qilish, sulh tuzish, qonunlarni tasdiqlash va bekor qilish, muhim mansabdorlarni tayinlash",
+    "Faqat sud ishlarini ko'rish",
+    "Faqat diniy marosimlarni o'tkazish",
+    "Faqat soliq yig'ish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rim Xalq majlisining qarorini qaysi organ tasdiqlagan?",
+   "options": [
+    "Konsullar",
+    "Xalq tribunlari",
+    "Senat",
+    "Diktator"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Lotincha “senat” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Oqsoqollar kengashi”",
+    "“Buzoqchalar mamlakati”",
+    "“Xalq ishi”",
+    "“Taqiqlayman”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rimning tub aholisi qanday atalgan?",
+   "options": [
+    "Patritsiylar",
+    "Plebeylar",
+    "Meteklar",
+    "Ilotlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rimga ko'chib kelgan odamlar va ularning avlodlari qanday atalgan?",
+   "options": [
+    "Patritsiylar",
+    "Plebeylar",
+    "Senatorlar",
+    "Periyeklar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Dastlab Rim boshqaruvida kimlar ishtirok eta olgan?",
+   "options": [
+    "Barcha fuqarolar",
+    "Qullar ham",
+    "Faqat patritsiylar",
+    "Faqat plebeylar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rim davlati qachondan respublika deb yuritila boshlagan?",
+   "options": [
+    "Mil. avv. III asrdan",
+    "Milodiy I asrdan",
+    "Mil. avv. VIII asrdan",
+    "Mil. avv. VI asr oxiridan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Lotincha “respublika” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Xalq ishi, umumiy ish” (res – “ish”, publika – “xalq”)",
+    "“Xalq hokimiyati”",
+    "“Yakka hokimlik”",
+    "“Oqsoqollar kengashi”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rim Xalq majlisi patritsiylardan necha kishini qancha muddatga hokim qilib saylagan va ular qanday atalgan?",
+   "options": [
+    "Ikki kishini; bir yil muddatga; konsullar",
+    "O'n kishini; besh yilga; senatorlar",
+    "Bir kishini; umrbod; diktator",
+    "Ikki kishini; olti oyga; tribunlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Saylov kuni konsullikka nomzodlar qanday libos kiyishgan?",
+   "options": [
+    "Qizil plash",
+    "Qora libos",
+    "Pushti yo'lli toga",
+    "“Kandida” deb ataluvchi oq harir libos"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hozirgi “kandidat” so'zi nimadan kelib chiqqan?",
+   "options": [
+    "Konsul ismidan",
+    "Rimdagi nomzodlarning oq libosi – “kandida”dan",
+    "Senat nomidan",
+    "Yunoncha “kandela” – “sham”dan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Badavlat odamlar saylovchilarni o'z tarafiga og'dirish uchun nimalar qilgan?",
+   "options": [
+    "Saylovchilarni qamoqqa olgan",
+    "Bepul tushlik uyushtirgan, sovg'a-salom tarqatgan",
+    "Hech narsa qilmagan",
+    "Saylovni bekor qilgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rim Senatining vakolatiga oid to'g'ri fikrni toping.",
+   "options": [
+    "Birorta qonun Senatda muhokama etilmasdan Xalq majlisi tomonidan qabul qilinmas edi",
+    "Senat faqat diniy masalalarni hal qilgan",
+    "Senat har yili Xalq majlisiga hisobot bergan",
+    "Senat a'zolari har yili qayta saylangan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vaqt o'tishi bilan konsullar qanday mavqega erishdilar?",
+   "options": [
+    "Hech bir saylovsiz Senatda o'rin egallab, umrbod senatorga aylanadigan bo'ldilar",
+    "Xalq tribuni bo'ldilar",
+    "Hokimiyatdan butunlay chetlatildilar",
+    "Diktatorga aylandilar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rimda urush yoki xalq qo'zg'oloni paytida kim tayinlangan?",
+   "options": [
+    "Buyuk pontifik",
+    "Ikkita qo'shimcha konsul",
+    "Xalq tribuni",
+    "Diktator va uning o'rinbosari – otliq qo'shinlar boshlig'i"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rim diktatori hokimiyatda qancha muddat tura olgan?",
+   "options": [
+    "O'n yil",
+    "Bir yil",
+    "Olti oydan ko'p emas",
+    "Umrbod"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Har bir konsulni nechta kishidan iborat faxriy qorovul qo'riqlab yurgan va ular qanday atalgan?",
+   "options": [
+    "12 kishi; liktorlar",
+    "2 kishi; avgurlar",
+    "300 kishi; legionerlar",
+    "6 kishi; tribunlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Liktorlar yelkasidagi xivich bog'lamasi va undagi boltacha nimaning alomati bo'lgan?",
+   "options": [
+    "Konsulning jinoyatchilarni jazolash imkoniyatiga egaligining",
+    "Konsulning kohin ekanligining",
+    "Konsulning boyligining",
+    "Rimning g'alabasining"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Konsullarning vazifalarini aniqlang.\n1) yil davomida respublikani boshqarib, rimliklarni sud qilgan; 2) harbiy davrlarda qo'shinlarga qo'mondonlik qilgan; 3) har yili Xalq majlisiga hisobot bergan; 4) “veto” huquqiga ega bo'lgan; 5) umrbod saylangan.",
+   "options": [
+    "2, 3, 5",
+    "1, 2, 3",
+    "3, 4, 5",
+    "1, 4, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rim respublikasida xalq tribunlari kimlarning manfaatlarini ifoda etgan?",
+   "options": [
+    "Patritsiylar manfaatlarini",
+    "Qullar manfaatlarini",
+    "Senatorlar manfaatlarini",
+    "Qashshoq rimliklar manfaatlarini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xalq tribunlari qanday saylangan?",
+   "options": [
+    "Majlislarda barcha fuqarolarning teng va yashirin ovozi bilan",
+    "Senat tomonidan tayinlangan",
+    "Meros bo'yicha",
+    "Konsullar tomonidan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xalq tribuni qanday so'zni aytish huquqiga ega bo'lgan va uning oqibati nima edi?",
+   "options": [
+    "“Respublika”; xalq majlisi chaqirilardi",
+    "“Evrika”; qonun darhol qabul qilinardi",
+    "“Kandida”; saylov boshlanardi",
+    "“Veto” (“taqiqlayman”); qonun qabul qilinmas edi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Dastlab Qadimgi Rim qonunchiligi nimaga asoslangan edi?",
+   "options": [
+    "Yozma “12 jadval qonunlari”ga",
+    "Xammurapi qonunlariga",
+    "Drakont qonunlariga",
+    "Og'zaki qonunlarga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qonunlarning yozma majmuasini yaratish uchun Senat qanday hay'at tuzishga majbur bo'ldi?",
+   "options": [
+    "Ikkita konsuldan iborat hay'at",
+    "Besh kohindan iborat hay'at",
+    "O'nta plebeydan iborat hay'at",
+    "O'nta patritsiydan iborat hay'at"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“12 jadval qonunlari” nimaga o'yib yozilgan va qayerga joylashtirilgan?",
+   "options": [
+    "Tosh ustunlarga; Senat binosiga",
+    "12 ta mis lavhaga; Rimning markaziy maydoni – forumga",
+    "Loy taxtachalarga; konsul uyiga",
+    "Papirusga; ibodatxonaga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“12 jadval qonunlari”ning mazmuniga oid to'g'ri fikrni toping.",
+   "options": [
+    "Patritsiylarni hokimiyatdan chetlatdi",
+    "Qullarni ozod qildi",
+    "Barcha fuqarolarni teng deb e'lon qildi",
+    "Xususiy mulkni daxlsiz deb e'lon qildi, ammo plebeylar va patritsiylar tengsizligini qonunlashtirdi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rimning barcha fuqarolari qonun oldida teng deb hisoblanadigan qonunlar qachon qabul qilingan?",
+   "options": [
+    "Mil. avv. VI asr oxirida",
+    "Milodiy I asrda",
+    "Mil. avv. 509-yilda",
+    "Mil. avv. III asr boshlariga kelib"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nAtama | Ma'nosi\nSenat | 1) ________\nRespublika | 2) ________\nVeto | 3) ________\na) “oqsoqollar kengashi”; b) “xalq ishi, umumiy ish”; c) “taqiqlayman”; d) “xalq hokimiyati”; e) oq harir libos; f) “buzoqchalar mamlakati”.",
+   "options": [
+    "1-a, 2-b, 3-e",
+    "1-a, 2-d, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-d, 2-b, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nMansab | Ma'lumot\nKonsul | A\nB | olti oydan ko'p hokimiyatda tura olmagan\nXalq tribuni | C\n1) ikki kishi, bir yilga saylangan; 2) diktator; 3) “veto” huquqiga ega bo'lgan; 4) senator; 5) umrbod saylangan; 6) buyuk pontifik.",
+   "options": [
+    "A-5, B-2, C-3",
+    "A-1, B-2, C-6",
+    "A-1, B-2, C-3",
+    "A-1, B-4, C-3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rim respublikasiga oid to'g'ri hukmlarni aniqlang.\nI. Konsullar ikki kishi bo'lib, bir yil muddatga saylangan.\nII. Plebeylar Rimning tub aholisi bo'lgan.\nIII. “12 jadval qonunlari” mis lavhalarga o'yib yozilgan.\nIV. Diktator umrbod hokimiyatga ega bo'lgan.",
+   "options": [
+    "II va IV",
+    "III va IV",
+    "I va II",
+    "I va III"
+   ],
+   "answer": 3
+  }
+ ]
+}

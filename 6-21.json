@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 22-mavzu. Antik tarixning boshlanishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qadimgi Yunoniston qaysi hududlarni o'z ichiga olgan?",
+   "options": [
+    "Kipr va Sitsiliyani",
+    "Bolqon yarimoroli va O'rta Yer dengizi orollarini",
+    "Kichik Osiyo va Misrni",
+    "Apennin yarimorolini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Yunonistonni qaysi dengizlar o'rab turgan?",
+   "options": [
+    "O'rta Yer va Egey dengizlari",
+    "Qora va Kaspiy dengizlari",
+    "Boltiq va Shimoliy dengiz",
+    "Qizil va Arabiston dengizlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qadimgi Yunonistonni qaysi tomondan dengiz o'ramagan?",
+   "options": [
+    "G'arb tarafidan",
+    "Shimol tarafidan",
+    "Janub tarafidan",
+    "Sharq tarafidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yunoniston hududining katta qismini nima egallagan?",
+   "options": [
+    "Botqoqliklar",
+    "Cho'llar",
+    "Tog'lar",
+    "Tekisliklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yunonistondagi eng baland cho'qqi qaysi va u qayerda joylashgan?",
+   "options": [
+    "Parnas tog'i; janubda",
+    "Olimp tog'i; mamlakatning shimoli-sharqida",
+    "Olimp tog'i; Peloponnesda",
+    "Ida tog'i; Krit orolida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yunonistonda serunum dalalar qayerda joylashgan?",
+   "options": [
+    "Dengiz orollarining o'rtasida",
+    "Cho'llarda",
+    "Tog' daryolari bo'ylarida",
+    "Tog' cho'qqilarida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yunonlar qadim zamonlardan qanday mashg'ulotlar bilan shug'ullangan?",
+   "options": [
+    "Dehqonchilik va chorvachilik",
+    "Faqat savdo",
+    "Konchilik va temirchilik",
+    "Faqat ovchilik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Krit orolida ilk shahar-davlatlar qachon vujudga kela boshlagan?",
+   "options": [
+    "Mil. avv. 1-mingyillikda",
+    "Mil. avv. 4-mingyillikda",
+    "Mil. avv. 2-mingyillikda",
+    "Mil. avv. VIII asrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Krit orolidagi sivilizatsiya qanday nomlangan va nima uchun?",
+   "options": [
+    "Minoy sivilizatsiyasi; afsonaviy podsho Minos nomi bilan",
+    "Axey sivilizatsiyasi; axeylar nomi bilan",
+    "Miken sivilizatsiyasi; Miken shahri nomi bilan",
+    "Doriy sivilizatsiyasi; doriylar nomi bilan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Krit davlatining shahar va manzilgohlari nima oqibatida vayron bo'lgan?",
+   "options": [
+    "Zilzila, kuchli dengiz to'lqinlari va vulqon otilishi oqibatida",
+    "Ichki urushlar oqibatida",
+    "Forslar bosqini oqibatida",
+    "Misrliklar hujumi oqibatida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Minoy sivilizatsiyasi barbod bo'lishini kimlar nihoyasiga yetkazgan?",
+   "options": [
+    "Forslar",
+    "Doriylar",
+    "Finikiyaliklar",
+    "Axeylar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Axeylar kimlar edi?",
+   "options": [
+    "Misrdan kelgan savdogarlar",
+    "Fors qo'shinlari",
+    "Qit'adagi Yunoniston hududidan bostirib kirgan jangovar qabilalar",
+    "Krit orolining tub aholisi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Doriy qabilalarining Janubiy Yunonistonga bostirib kirishi nimaga olib keldi?",
+   "options": [
+    "Minoy sivilizatsiyasining vujudga kelishiga",
+    "Miken davlatining tugatilishi va Sparta davlatining vujudga kelishiga",
+    "Afinaning tashkil topishiga",
+    "Krit davlatining qayta tiklanishiga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Miken sivilizatsiyasi qaysi hududda joylashgan?",
+   "options": [
+    "Janubiy Yunonistonda",
+    "Kichik Osiyoda",
+    "Shimoliy Yunonistonda",
+    "Krit orolida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sivilizatsiyalar va ularni xarob qilgan qabilalar to'g'ri moslashtirilgan javobni aniqlang.\n1) Minoy sivilizatsiyasi; 2) Miken sivilizatsiyasi.\na) doriylar vayron qilgan; b) axeylar barbod qilgan; c) forslar bosib olgan.",
+   "options": [
+    "1-c, 2-a",
+    "1-b, 2-c",
+    "1-a, 2-b",
+    "1-b, 2-a"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Voqealarni xronologik tartibda joylashtiring.\n1) Sparta davlatining vujudga kelishi; 2) Krit orolida ilk shahar-davlatlarning paydo bo'lishi; 3) axeylarning Minoy sivilizatsiyasini barbod qilishi.",
+   "options": [
+    "2, 3, 1",
+    "3, 2, 1",
+    "2, 1, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mikenning mashhur yodgorligi qaysi?",
+   "options": [
+    "Olimpiya ibodatxonasi",
+    "Ishtar darvozasi",
+    "“Arslonlar darvozasi”",
+    "Sfinks haykali"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mikendan topilgan mashhur buyumlarni aniqlang.",
+   "options": [
+    "Rozett bitiktoshi va papirus",
+    "Oltin niqob va oltin qadah",
+    "Loy taxtachalar va zikkurat",
+    "Sopol askarlar va kompas"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yunonlar orasida dengizchilik rivoj topishiga nima imkon yaratgan?",
+   "options": [
+    "Katta kemalar va kompasning bo'lishi",
+    "Egey dengizidagi ko'p sonli orollar, qulay dengiz qirg'oqlari va qo'ltiqlar",
+    "Ko'p o'rmonlar va daryolar",
+    "Yunonistonning dengizdan uzoqligi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nima uchun dastlab yunonlar uchun sohildan yiroqqa suzish xatarli bo'lgan?",
+   "options": [
+    "Dengizda qaroqchilar ko'p bo'lgan",
+    "Ma'budlar dengizga chiqishni taqiqlagan",
+    "Dengiz doimo muzlab qolgan",
+    "Katta kemalar bo'lmagan, kichik eshkakli qayiqlar va kompas yo'qligi sababli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kompas bo'lmagani uchun yunonlar qanday suzishgan?",
+   "options": [
+    "Faqat kechasi yulduzlarga qarab",
+    "Faqat daryolarda",
+    "Ko'z ilg'aydigan qisqa masofalarga – oroldan orolga yoki sohil yaqinida",
+    "Faqat katta karvonlar bilan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tajribali yunon dengizchilari yelkanlardan foydalanib qayerlarga suzib borgan?",
+   "options": [
+    "Kaspiy dengiziga",
+    "Hindiston va Xitoyga",
+    "Amerika qirg'oqlariga",
+    "Misrga, O'rta Yer va Qora dengiz sohillaridagi shaharlarga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Yunoniston shaharlari va hududlarini aniqlang.\n1) Afina; 2) Sparta; 3) Tir; 4) Miken; 5) Nineviya; 6) Olimpiya.",
+   "options": [
+    "1, 2, 4, 6",
+    "1, 3, 5, 6",
+    "2, 3, 4, 5",
+    "1, 2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi orollar Qadimgi Yunoniston hududiga kirgan?",
+   "options": [
+    "Krit va Rodos",
+    "Korsika va Sardiniya",
+    "Tayvan va Xaynan",
+    "Kipr va Sitsiliya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Peloponnes nima?",
+   "options": [
+    "Krit orolidagi shahar",
+    "Kichik Osiyodagi viloyat",
+    "Olimp tog'ining cho'qqisi",
+    "Yunonistondagi yarimorol"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Yunoniston tabiiy sharoitining yunonlar mashg'ulotlariga ta'sirini aniqlang.",
+   "options": [
+    "Tog'larning yo'qligi chorvachilikka xalaqit bergan",
+    "Keng cho'llar ko'chmanchilikka sabab bo'lgan",
+    "Katta daryolar toshqini sug'orma dehqonchilikni rivojlantirgan",
+    "Ko'p orol va qulay qirg'oqlar dengizchilikka, tog' daryolari bo'yidagi serunum dalalar dehqonchilikka imkon bergan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi yunonlar tasavvurida Olimp tog'i nima bo'lgan?",
+   "options": [
+    "Podsholar qarorgohi",
+    "Xudolar maskani",
+    "Olimpiya o'yinlari o'tkaziladigan joy",
+    "Kohinlar maktabi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nSivilizatsiya | Joylashgan hududi | Uni barbod qilganlar\nMinoy | 1) ________ | axeylar\nMiken | Janubiy Yunoniston | 2) ________\n3) ________ | Krit oroli | –\na) Krit oroli; b) doriylar; c) Knoss; d) forslar; e) Kichik Osiyo; f) Sparta.",
+   "options": [
+    "1-e, 2-b, 3-c",
+    "1-a, 2-d, 3-c",
+    "1-a, 2-b, 3-f",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nGeografik obyekt | Ma'lumot\nA | Yunonistonning eng baland cho'qqisi\nEgey dengizi | B\nC | Minoy sivilizatsiyasi vatani\n1) Olimp tog'i; 2) ko'p sonli orollari dengizchilikka imkon bergan; 3) Krit oroli; 4) Peloponnes; 5) Qora dengiz; 6) Rodos oroli.",
+   "options": [
+    "A-1, B-5, C-3",
+    "A-1, B-2, C-6",
+    "A-1, B-2, C-3",
+    "A-4, B-2, C-3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi Yunonistonning ilk tarixiga oid to'g'ri hukmlarni aniqlang.\nI. Krit orolidagi sivilizatsiya Minoy sivilizatsiyasi deb atalgan.\nII. Doriylar Minoy sivilizatsiyasini barbod qilgan.\nIII. Yunonlarda dastlab kompas bo'lmagan.\nIV. Yunoniston hududining katta qismini cho'llar egallagan.",
+   "options": [
+    "II va IV",
+    "I va II",
+    "III va IV",
+    "I va III"
+   ],
+   "answer": 3
+  }
+ ]
+}

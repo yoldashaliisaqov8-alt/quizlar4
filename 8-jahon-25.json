@@ -1,0 +1,410 @@
+{
+ "title": "8-sinf · Ilk Uyg'onish davri madaniyati",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Matbaa ixtirosi musiqada nimani imkon berdi.",
+   "options": [
+    "Notalarni tarqatishni",
+    "Musiqa maktablarini ochishni",
+    "Cholg'u asboblarini ko'paytirishni",
+    "Opera teatrini ochishni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIV asrga kelib Osiyo mamlakatlari bilan savdoda yetakchilik qilgan Italiya shaharlarini aniqlang.",
+   "options": [
+    "Parij, Lion, Marsel, Bordo",
+    "Florensiya, Genuya, Milan, Venetsiya",
+    "Rim, Neapol, Piza, Bolonya",
+    "Sevilya, Kordova, Granada, Barselona"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ilk Uyg'onish davrining birinchi rassomi hisoblangan florensiyalik ijodkor kim.",
+   "options": [
+    "Sandro Bottichelli",
+    "Pyetro Perujino",
+    "Yan van Eyk",
+    "Tommazo Mazachcho"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Uyg'onish davri arxitekturasining asoschisi kim.",
+   "options": [
+    "Jovanni Bellini",
+    "Tommazo Mazachcho",
+    "Filippo Brunelleski",
+    "Andrea del Verrokkio"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Brunelleskining eng mashhur ijod namunalari qaysilar.",
+   "options": [
+    "Santa Mariya sobori gumbazi va Florensiya Bolalar uyidagi galereyalar",
+    "Milan sobori va Bryussel meriyasi",
+    "Pizadagi minora va Rim Kolizeyi",
+    "Notr-Dam sobori va Kusi qal'asi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rafael Santining otasi Jovanni Santi qaysi shaharda ijod qilgan.",
+   "options": [
+    "Urbinoda",
+    "Mantuada",
+    "Perujada",
+    "Ferrarada"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Renessans tarixi nechta bosqichga bo'lib o'rganiladi.",
+   "options": [
+    "Beshta",
+    "To'rtta",
+    "Uchta",
+    "Ikkita"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Renessans davri qaysi mamlakatda boshlangan.",
+   "options": [
+    "Angliyada",
+    "Italiyada",
+    "Fransiyada",
+    "Germaniyada"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Italiya olimlari qadimiy matnlarni o'qib chiqib nimani qayta kashf etdi.",
+   "options": [
+    "Yunoniston va Rimning ulug'vorligini",
+    "Slavyan madaniyatini",
+    "Vizantiya me'morchiligini",
+    "Sharq tibbiyotini"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta asrlarda dindorlar cherkovda qo'shiqlarni qaysi tilda kuylashgan.",
+   "options": [
+    "Yunon tilida",
+    "Italyan tilida",
+    "Mahalliy xalq tilida",
+    "Lotin tilida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diagrammada Renessans bosqichlariga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "2, 4",
+    "2, 3",
+    "1, 4",
+    "1, 2"
+   ],
+   "answer": 1,
+   "image": "img/j8-25-11.jpg"
+  },
+  {
+   "q": "Diagrammada Shimoliy Yevropa Uyg'onishiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "2, 4",
+    "2, 3",
+    "1, 3",
+    "3, 4"
+   ],
+   "answer": 1,
+   "image": "img/j8-25-12.jpg"
+  },
+  {
+   "q": "Shimoliy Yevropa Uyg'onish davrining yirik vakili kim.",
+   "options": [
+    "Mazachcho",
+    "Leonardo da Vinchi",
+    "Yan van Eyk",
+    "Verrokkio"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "So'nggi Uyg'onish bosqichi qaysi yillarni qamrab oladi.",
+   "options": [
+    "1600–1700-yillar",
+    "1530–1620-yillar",
+    "1500–1527-yillar",
+    "1420–1500-yillar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Uyg'onish davrida bastakorlar qanday musiqalarni yozgan.",
+   "options": [
+    "Diniy va kundalik hayot tasvirlangan dunyoviy musiqalarni",
+    "Faqat saroy musiqalarini",
+    "Faqat harbiy marshlarni",
+    "Faqat diniy musiqalarni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Uyg'onish davri g'oyalarining Shimoliy Yevropaga tarqalishiga nima yordam berdi.",
+   "options": [
+    "Salib yurishlari va savdo",
+    "Mo'g'ullar yurishlari",
+    "Universitet bitiruvchilari, san'at vakillari, sayohatchilar va matbaa",
+    "Dengiz urushlari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Petrarka va Bokkachcholar nimani ilk bor amalga oshirgan ijodkorlar bo'ldi.",
+   "options": [
+    "Birinchi bosma kitob chiqargan",
+    "Birinchi universitetni ochgan",
+    "Yuksak obraz va fikrlarni ochiq, umumiy tilda ifodalay boshlagan",
+    "Birinchi gumbazni qurgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dante Aligyeri o'z asarlarini qaysi tilda yozgan.",
+   "options": [
+    "Italyan tilida",
+    "Lotin tilida",
+    "Yunon tilida",
+    "Fransuz tilida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Insonparvarlik dunyoqarashini rivojlantirishda qaysi ijodkorlarning o'rni bor.",
+   "options": [
+    "Brunelleski, Mazachcho, Verrokkio",
+    "Leonardo, Rafael, Mikelanjelo",
+    "Dante Aligyeri, Petrarka, Bokkachcho, Salutati",
+    "Gutenberg, Bekon, Akvinskiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rim madaniyatini eslatuvchi qaysi yodgorliklar xarobalari Italiyada saqlangan.",
+   "options": [
+    "Parfenon va Akropol",
+    "Alhambra va Kordova masjidi",
+    "Panteon, Kolizey va Rim forumlari",
+    "Notr-Dam va Shartr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Diagrammada Ilk Uyg'onish san'atiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "2, 3",
+    "3, 4",
+    "1, 2",
+    "1, 4"
+   ],
+   "answer": 2,
+   "image": "img/j8-25-21.jpg"
+  },
+  {
+   "q": "Renessans davrida diniy mafkuradan farqli qanday mafkura vujudga keldi.",
+   "options": [
+    "Mutlaq monarxiya",
+    "Insonparvarlik (gumanizm)",
+    "Mistitsizm",
+    "Ritsarlik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Renessans” so'zi qanday ma'noni anglatadi.",
+   "options": [
+    "Uyg'onish, qayta tiklanish",
+    "Kashfiyot",
+    "Islohot",
+    "Yangilanish va isyon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Statir” so'zining izohini aniqlang.",
+   "options": [
+    "Antik davrdagi ibodatxona",
+    "Antik davrda pul birligi",
+    "Antik davrdagi qurol",
+    "Antik davrdagi o'lchov birligi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rivojlangan Uyg'onish bosqichi qaysi yillarni qamrab oladi.",
+   "options": [
+    "1420–1500-yillar",
+    "1530–1620-yillar",
+    "1450–1500-yillar",
+    "1500–1527-yillar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Boy savdogarlar va ishbilarmonlarning bir qismi nimaga aylandi.",
+   "options": [
+    "San'at ahlining homiylariga",
+    "Cherkov rahbarlariga",
+    "Ritsarlarga",
+    "Qirol maslahatchilariga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Filippo Brunelleski qaysi shaharlik me'mor edi.",
+   "options": [
+    "Rimlik",
+    "Florensiyalik",
+    "Venetsiyalik",
+    "Milanlik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yevropada iqtisodiy jarayonlarning rivoji kimning mavqeini kuchaytirib yubordi.",
+   "options": [
+    "Ritsarlarning",
+    "Ruhoniylarning",
+    "Qaram dehqonlarning",
+    "O'rta sinfning"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Brunelleski yashagan yillarni aniqlang.",
+   "options": [
+    "1377–1446",
+    "1435–1488",
+    "1450–1520",
+    "1401–1428"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jovanni Bellini qaysi shaharda mashhur bo'lgan.",
+   "options": [
+    "Urbinoda",
+    "Ferrarada",
+    "Venetsiyada",
+    "Mantuada"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Gumanitar fanlarni o'rganish qanday yangicha fikrlash uslubini yuzaga chiqardi.",
+   "options": [
+    "Sxolastikani",
+    "Insonparvarlikni",
+    "Alkimyoni",
+    "Mistikani"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Andrea Mantenya qaysi shaharda mashhur bo'lgan.",
+   "options": [
+    "Urbinoda",
+    "Venetsiyada",
+    "Perujada",
+    "Mantuada"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Verrokkioning mashhur haykali qaysi.",
+   "options": [
+    "“Jovanni Arnolfini”",
+    "“Statir mo'jizasi”",
+    "“Santa Mariya gumbazi”",
+    "“Qo'mondon Bartolomeo Kolleoni”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shimoliy Yevropa talabalari yangi g'oyalarni qayerdan olib ketishgan.",
+   "options": [
+    "Oksford cherkovlaridan",
+    "Parij monastirlaridan",
+    "Konstantinopol maktablaridan",
+    "Italiya universitetlaridagi gumanist o'qituvchilardan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diagrammada Uyg'onish davri adabiyotiga oid to'g'ri ma'lumotlarni aniqlang.",
+   "options": [
+    "1, 4",
+    "1, 3",
+    "3, 4",
+    "2, 4"
+   ],
+   "answer": 3,
+   "image": "img/j8-25-35.jpg"
+  },
+  {
+   "q": "Verrokkio ustaxonasida kimlar san'at sirlarini o'rgangan.",
+   "options": [
+    "Mantenya, Bellini, Rafael",
+    "Brunelleski, Mazachcho, Bellini",
+    "Bottichelli, Perujino va Leonardo da Vinchi",
+    "Van Eyk, Mazachcho, Bottichelli"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mazachcho qaysi yillarda yashagan.",
+   "options": [
+    "1435–1488",
+    "1401–1428",
+    "1452–1519",
+    "1377–1446"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yan van Eykning mashhur portreti qaysi.",
+   "options": [
+    "“Statir mo'jizasi”",
+    "“Mona Liza”",
+    "“Qo'mondon Kolleoni”",
+    "“Jovanni Arnolfini”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Gumanitar fanlar qatoriga qaysilar kirgan.",
+   "options": [
+    "Grammatika, nutq, she'riyat, tarix, filologiya",
+    "Fizika, kimyo, biologiya",
+    "Arifmetika, geometriya, astronomiya",
+    "Tibbiyot, huquq, ilohiyot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Franchesko del Kossa qaysi shaharda mashhur bo'lgan.",
+   "options": [
+    "Perujada",
+    "Urbinoda",
+    "Venetsiyada",
+    "Ferrarada"
+   ],
+   "answer": 3
+  }
+ ]
+}

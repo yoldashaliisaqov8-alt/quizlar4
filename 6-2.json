@@ -1,0 +1,306 @@
+{
+ "title": "6-sinf · 2-mavzu. Eng qadimgi odamlarning rivojlanish bosqichlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Fanda odamning paydo bo'lishi masalasi qaysi fanlar ma'lumotlariga tayanib o'rganiladi?",
+   "options": [
+    "Antropologiya va geologiya",
+    "Arxeologiya va astronomiya",
+    "Antropologiya va arxeologiya",
+    "Etnografiya va geografiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarix fanida eng qadimgi odamlar qanday ataladi?",
+   "options": [
+    "Ibtidoiy odamlar",
+    "Neandertallar",
+    "Ishbilarmon odamlar",
+    "Tik yuruvchi odamlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Olimlar eng qadimgi odam suyaklari qoldiqlarini qayerdan topishgan?",
+   "options": [
+    "Old Osiyodan",
+    "O'rta Osiyodan",
+    "Sharqiy Afrikadan",
+    "Janubiy Yevropadan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sharqiy Afrikadan topilgan eng qadimgi odamning yoshi qancha?",
+   "options": [
+    "1 million yil atrofida",
+    "2 million yildan oshadi",
+    "700 ming yil",
+    "100 ming yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nima uchun Sharqiy Afrikadan topilgan eng qadimgi odam “ishbilarmon odam” deb atalgan?",
+   "options": [
+    "U qaddini tik tutib yurgan",
+    "U toshdan o'ta sodda mehnat qurollari yasashni bilgan",
+    "U g'or devorlariga rasm chizgan",
+    "U olovdan foydalanishni bilgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mingyilliklar davomida eng qadimgi odamning nimalari o'zgarib borgan?",
+   "options": [
+    "Faqat diniy e'tiqodlari",
+    "Faqat mehnat qurollari",
+    "Tashqi qiyofasi, ko'nikmalari va miya hajmi",
+    "Faqat yashash joyi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Tik yuruvchi odam”ga xos xususiyatni aniqlang.",
+   "options": [
+    "Olovni ishqalash yo'li bilan hosil qilgan",
+    "G'or devorlariga rasm chizgan",
+    "Chaqmoq zarbidan yong'in chiqqan o'rmondagi tabiiy olovdan foydalanishni bilgan",
+    "Toshdan faqat o'ta sodda qurollar yasay olgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Tik yuruvchi odamlar”ning makonlari va suyak qoldiqlari qayerlardan topilgan?",
+   "options": [
+    "Faqat O'rta Osiyodan",
+    "Afrikadan, Yevropa va Osiyoning ko'p joylaridan",
+    "Faqat Sharqiy Afrikadan",
+    "Amerika va Avstraliyadan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Iqlim iliq bo'lgan davrlarda ibtidoiy odamlar qayerlarni makon qilgan?",
+   "options": [
+    "Dengiz sohillaridagi g'orlarni",
+    "Mayda daryolar yoki buloqlar yaqinidagi tepaliklarni",
+    "Sahrodagi vohalarni",
+    "Baland tog' cho'qqilarini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buyuk muzlik davri qachon boshlangan?",
+   "options": [
+    "Mezolit davrida",
+    "Neolit davri oxirida",
+    "O'rta paleolit boshida",
+    "Ilk paleolit davrining oxirlarida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buyuk muzlik davri odamlar hayotiga qanday ta'sir ko'rsatdi?",
+   "options": [
+    "Odamlarning metall qurollar yasashiga sabab bo'ldi",
+    "Odamlarning yirik shaharlarga birlashishiga olib keldi",
+    "Odamlarni dehqonchilikka o'tishga majbur qildi",
+    "Odamlarni yangi iqlim va turmush sharoitlariga moslashishga undadi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Muzlik davrida qanday odamlar omon qolgan?",
+   "options": [
+    "Faqat ovchilar",
+    "Faqat ayollar va bolalar",
+    "Daryo bo'yida yashaganlar",
+    "Baquvvat odamlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'rta Osiyodan topilgan qadimiy tosh qurollar arxeologiya fanida qanday nomlanadi?",
+   "options": [
+    "Chopperlar",
+    "Ulama qurollar",
+    "Kirkalar",
+    "Pichoqsimon qurollar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chopperlarning o'ziga xos xususiyati nimada?",
+   "options": [
+    "Suyakdan yasalgan, uchi o'tkir",
+    "Qo'pol tosh qurol bo'lib, bir tomoni urib o'tkirlangan",
+    "Ikki tomoni silliqlangan, dastasi bor",
+    "Toshdan yasalgan nayza uchi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimiy tosh qurollar topilgan makonlar va ular joylashgan hududlar to'g'ri moslashtirilgan javobni aniqlang.\n1) Selungur; 2) Ko'lbuloq; 3) Teshiktosh.\na) Toshkent viloyati; b) Boysun tog'lari; c) Farg'ona vodiysi; d) Zarafshon vodiysi.",
+   "options": [
+    "1-c, 2-b, 3-a",
+    "1-c, 2-a, 3-b",
+    "1-a, 2-c, 3-b",
+    "1-c, 2-a, 3-d"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Odamlarning eng qadimiy mashg'ulotlari – meva-ildizlarni terish va ov qilish qanday xo'jalik deb ataladi?",
+   "options": [
+    "Ko'chmanchi xo'jalik",
+    "O'zlashtiruvchi xo'jalik",
+    "Natural xo'jalik",
+    "Ishlab chiqaruvchi xo'jalik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nima uchun termachilik va ovchilik o'zlashtiruvchi xo'jalik deb ataladi?",
+   "options": [
+    "Tabiat nimani in'om etsa, odam shuni olgan va topgan yeguligi bilan qanoatlangan",
+    "Odamlar o'zlari yetishtirgan mahsulotni iste'mol qilgan",
+    "Odamlar hayvonlarni qo'lga o'rgatgan",
+    "Odamlar ortiqcha mahsulotni ayirboshlagan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Teshiktosh g'ori qaysi davr madaniyatining jahonga mashhur yodgorligi hisoblanadi?",
+   "options": [
+    "Ilk paleolit (mil. avv. 1 mln – 100-mingyillik)",
+    "O'rta paleolit (mil. avv. 100–40-mingyillik)",
+    "So'nggi paleolit (mil. avv. 40–12-mingyillik)",
+    "Mezolit (mil. avv. 12–7-mingyillik)"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Teshiktosh g'oridan topilgan eng mashhur topilma qaysi?",
+   "options": [
+    "Toshdan yasalgan haykalcha",
+    "G'or devorlaridagi rangli rasmlar",
+    "Mamont suyagidan yasalgan turarjoy",
+    "8–9 yashar neandertal bolaning suyak qoldiqlari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Teshiktoshdagi neandertal bola jasadi atrofiga nima qadab chiqilgan?",
+   "options": [
+    "Mamont tishlari",
+    "Tosh qurollar",
+    "Kiyik suyaklari",
+    "Tog' echkisi shoxlari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Teshiktosh g'oridan qaysi hayvonlarning suyaklari topilgan?\n1) tog' echkisi; 2) kiyik; 3) mamont; 4) qoplon; 5) yovvoyi ot.",
+   "options": [
+    "1, 2, 3, 4",
+    "1, 3, 4, 5",
+    "2, 3, 5",
+    "1, 2, 4, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi odamlarning qaysi tabiat hodisalarini tushuna olmaganlari diniy e'tiqodlar paydo bo'lishiga sabab bo'lgan?",
+   "options": [
+    "Faqat yomg'ir va qor yog'ishi",
+    "Kun bilan tun, yil fasllarining almashinishi, vulqon otilishi, zilzila",
+    "Faqat daryolar toshqini",
+    "Faqat hayvonlarning ko'chishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Odamlar guruhi jamoasining biror hayvon yoki o'simlik turi bilan qarindoshlik aloqasiga ishonish qanday ataladi?",
+   "options": [
+    "Animizm",
+    "Totemizm",
+    "Fetishizm",
+    "Sehrgarlik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Diniy e'tiqod shakllari va ularning mazmuni to'g'ri moslashtirilgan javobni aniqlang.\n1) Animizm; 2) Fetishizm.\na) har bir narsaning joni va ruhi borligiga ishonish; b) hayvon yoki o'simlik bilan qarindoshlikka ishonish; c) buyumlar omad keltirishi yoki balo-qazoni daf qilishiga ishonish.",
+   "options": [
+    "1-a, 2-b",
+    "1-a, 2-c",
+    "1-c, 2-a",
+    "1-b, 2-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi odamlarda diniy e'tiqodlar bo'lganini nima isbotlaydi?",
+   "options": [
+    "Ilk paleolit makonlarining topilishi",
+    "Chopperlarning topilishi",
+    "So'nggi paleolitga oid g'orlar devorlaridagi rasmlarning topilishi",
+    "Teshiktoshdan tosh qurollar topilishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Eng qadimiy g'or rasmlari topilgan g'orlar va mamlakatlar to'g'ri berilgan javobni toping.",
+   "options": [
+    "Altamira – Ispaniya, Lasko – Fransiya, Kapova – Boshqirdiston (Rossiya)",
+    "Altamira – Ispaniya, Lasko – Fransiya, Kapova – Italiya",
+    "Altamira – Fransiya, Lasko – Ispaniya, Kapova – Boshqirdiston (Rossiya)",
+    "Altamira – Italiya, Lasko – Fransiya, Kapova – Ispaniya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qadimgi odamlar g'or devorlariga hayvonlar rasmini nima maqsadda chizishgan?",
+   "options": [
+    "Bolalarga ovni o'rgatish uchun",
+    "G'orni bezash uchun",
+    "Rasmlar bo'lajak ovda o'zlariga yordam berishiga ishonishgan",
+    "Qo'shni jamoalarga xabar qoldirish uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo'sh joylarni to'ldiruvchi javoblarni toping.\nMakon yoki g'or | Joylashgan hudud\nSelungur | 1) ________\nAltamira | 2) ________\n3) ________ | Boshqirdiston (Rossiya)\na) Fransiya; b) Farg'ona vodiysi; c) Kapova g'ori; d) Ispaniya; e) Lasko g'ori; f) Toshkent viloyati.",
+   "options": [
+    "1-b, 2-d, 3-e",
+    "1-f, 2-d, 3-c",
+    "1-b, 2-d, 3-c",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o'rniga mos keladigan javoblarni toping.\nBosqich | Nomi | Xususiyati\nEng qadimgi odam | A | toshdan o'ta sodda qurollar yasagan\nNavbatdagi bosqich | “tik yuruvchi odam” | B\nO'rta paleolit | neandertal | C\n1) “ishbilarmon odam”; 2) tabiiy olovdan foydalanishni bilgan; 3) Teshiktosh g'oridan bolaning suyak qoldiqlari topilgan; 4) neolit inqilobini amalga oshirgan; 5) “aqlli odam”; 6) metalldan qurol yasagan.",
+   "options": [
+    "A-1, B-2, C-3",
+    "A-1, B-6, C-3",
+    "A-1, B-2, C-4",
+    "A-5, B-2, C-3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eng qadimgi odamlarga oid to'g'ri hukmlarni aniqlang.\nI. Eng qadimgi odam suyaklari Sharqiy Afrikadan topilgan.\nII. Selungur makoni Toshkent viloyatida joylashgan.\nIII. Buyuk muzlik davri ilk paleolit oxirlarida boshlangan.\nIV. Altamira g'ori Fransiyada joylashgan.",
+   "options": [
+    "I va III",
+    "I va IV",
+    "II va IV",
+    "II va III"
+   ],
+   "answer": 0
+  }
+ ]
+}

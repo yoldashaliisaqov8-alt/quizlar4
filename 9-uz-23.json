@@ -1,0 +1,156 @@
+{
+ "title": "9-sinf · 25-mavzu. Qoraqalpoqlarning kiyim-kechagi va urf-odatlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qoraqalpoqlarda ingichka tuya junidan to'qilgan movut nima deb nomlangan.",
+   "options": [
+    "Kayis",
+    "Shekpen",
+    "Shol",
+    "Takiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qoraqalpoqlarning an'anaviy kiyimlari qaysi hudud kiyimlariga o'xshab ketadi.",
+   "options": [
+    "Samarqand",
+    "Xorazm",
+    "Buxoro",
+    "Toshkent"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraqalpoqlarda chakmon qaysi nom bilan atalishini aniqlang.",
+   "options": [
+    "Kayis",
+    "Shekpen",
+    "Shol",
+    "Takiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraqalpoqlarda kamar qaysi nom bilan ataladi.",
+   "options": [
+    "Kayis",
+    "Shekpen",
+    "Shol",
+    "Takiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraqalpoqlarda qalpoq qaysi nom bilan ataladi.",
+   "options": [
+    "Kayis",
+    "Shekpen",
+    "Shol",
+    "Takiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraqalpoq ayollarining choponi nima deb nomlanganini aniqlang.",
+   "options": [
+    "Haykel",
+    "Jegde",
+    "Halqali ko'ylak",
+    "Jengse"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraqalpoqlarning bayram ko'ylaklari qayerdan olib kelingan ola shoyidan tikilgan.",
+   "options": [
+    "Samarqand",
+    "Xorazm",
+    "Buxoro",
+    "Toshkent"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ko'ylakning tugma qadaladigan ikki tomonida yoqasidan beligacha, yenglari va etagiga xilma-xil rangli ipdan chillak shaklida keng kashta tikilgan. Bunday ko'ylaklar nima deb nomlangan.",
+   "options": [
+    "Sariq ko'ylak",
+    "Ko'k ko'ylak",
+    "Qora ko'ylak",
+    "Halqali ko'ylak"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Azador ayollar kiygan ko'ylakning nomini aniqlang.",
+   "options": [
+    "Sariq ko'ylak",
+    "Ko'k ko'ylak",
+    "Qora ko'ylak",
+    "Halqali ko'ylak"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraqalpoqlarda yeng nima deb nomlanadi.",
+   "options": [
+    "Haykel",
+    "Jegde",
+    "Jengse",
+    "Kayis"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qoraqalpoq ayollarining taqinchog'i nima deb nomlanadi.",
+   "options": [
+    "Haykel",
+    "Jegde",
+    "Jengse",
+    "Kayis"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraqalpoqlar bolalar ustki kiyimi nima deb nomlanadi.",
+   "options": [
+    "Turme",
+    "Bala shapan",
+    "Kurte",
+    "Sarvi gevish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ayollar boshiga o'raydigan mato nima deb nomlangan.",
+   "options": [
+    "Turme",
+    "Bala shapan",
+    "Kurte",
+    "Sarvi gevish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qoraqalpoqlarda ayollar kavushi nima deb nomlanadi.",
+   "options": [
+    "Turme",
+    "Bala shapan",
+    "Kurte",
+    "Sarvi gevish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraqalpoqlarda bolalar kiyimi nima deb nomlanadi.",
+   "options": [
+    "Turme",
+    "Bala shapan",
+    "Kurte",
+    "Sarvi gevish"
+   ],
+   "answer": 2
+  }
+ ]
+}

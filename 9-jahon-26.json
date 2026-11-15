@@ -1,0 +1,626 @@
+{
+ "title": "9-sinf · 26-mavzu. Yaponiya va Koreya mustaqilligi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qaysi asrda Yaponiya chet elliklar uchun yopib qo'yilgan edi?",
+   "options": [
+    "XV asrda",
+    "XVI asrda",
+    "XVII asrda",
+    "XVIII asrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davrga kelib Yaponiyada mamlakatni tashqi dunyodan yopib qo'yish noto'g'ri ekanligi ko'pchilikka ayon bo'lib qolgan?",
+   "options": [
+    "XVIII asr oxirlariga",
+    "XIX asr boshlariga",
+    "XIX asr o'rtalariga",
+    "XIX asr oxirlariga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachon tashqi kuchlar Yaponiyani ochilishga majbur etgan?",
+   "options": [
+    "1854-yilda",
+    "1868-yilda",
+    "1869-yilda",
+    "1873-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davlat harbiy-dengiz floti Yaponiyani ochilishga majbur etgan?",
+   "options": [
+    "Angliya",
+    "Fransiya",
+    "Gollandiya",
+    "AQSH"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yilda AQSH bilan Yaponiya o'rtasida “Tinchlik va do'stlik to'g'risida” shartnoma imzolangan?",
+   "options": [
+    "1854-yilda",
+    "1868-yilda",
+    "1869-yilda",
+    "1873-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrda AQSH bilan Yaponiya o'rtasida imzolangan “Tinchlik va do'stlik to'g'risida” gi shartnomaga ko'ra, Yaponiya AQSH ga nechta portini ochgan?",
+   "options": [
+    "Bitta portini",
+    "Ikkita portini",
+    "Uchta portini",
+    "To'rtta portini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda AQSH bilan Yaponiya o'rtasida imzolangan “Tinchlik va do'stlik to'g'risida” gi shartnomaga ko'ra, Yaponiya AQSH …ni qabul qilgan.",
+   "options": [
+    "prezidenti",
+    "generali",
+    "konsuli",
+    "admirali"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda Yaponiyada Fusima va Toba yaqinida muxolifat kuchlar bilan bo'lgan jangda syogun mag'lubiyatga uchragan?",
+   "options": [
+    "1854-yilda",
+    "1868-yilda",
+    "1869-yilda",
+    "1873-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda Yaponiyada Fusima va Toba yaqinida muxolifat kuchlar bilan bo'lgan jangda mag'lubiyatga uchragan syogun qayerga qochgan?",
+   "options": [
+    "Kioto",
+    "Osaka",
+    "Xakata",
+    "Edo"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qachon Yaponiyada muxolifat qo'shinlari syogun tarafdorlarini tor-mor etgan, syogunat tugagan va imperator hukmronligi tiklangan?",
+   "options": [
+    "1854-yil kuzda",
+    "1868-yil qishda",
+    "1869-yil bahorda",
+    "1873-yil yozda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yaponiyada muxolifat qo'shinlari qayerda to'plangan syogun tarafdorlarini tor-mor etgan, syogunat tugagan va imperator hukmronligi tiklangan?",
+   "options": [
+    "Xokkaydo orolida",
+    "Xonsyu orolida",
+    "Kyusyu orolida",
+    "Sekoku orolida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrda syogunat tugatilishi va imperator hukmronligi tiklanishi Yaponiya tarixida qanday nom olgan?",
+   "options": [
+    "“Musuxito inqilobi”",
+    "“Meydzi inqilobi”",
+    "“Syogun inqilobi”",
+    "“Ma'rifatli inqilob”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yaponiyada qaysi imperator hukmronligi rasman “Meydzi” deb atalgan?",
+   "options": [
+    "Xiroxito",
+    "Akixito",
+    "Naruxito",
+    "Musuxito"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Meydzi” so'zining ma'nosi nima?",
+   "options": [
+    "“Shonli boshqaruv”",
+    "“Qudratli boshqaruv”",
+    "“Ma'rifatli boshqaruv”",
+    "“Adolatli boshqaruv”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Meydzi islohotlari” davrida Yaponiya hukumati o'z oldiga qanday vazifani qo'ygan edi?",
+   "options": [
+    "An'analar to'la yangilangan, mustaqillikni to'la saqlab qolgan holda G'arb namunasida Yaponiyani zamonaviylashtirish",
+    "An'analardan voz kechmagan, qadimiy yapon davlatchiligi namunasida Yaponiyani shakllartirish",
+    "An'analardan voz kechmagan, G'arb davlatlari homiyligi va nazoratidagi Yaponiyani zamonaviylashtirish",
+    "An'analardan voz kechmagan, mustaqillikni to'la saqlab qolgan holatda G'arb namunasida Yaponiyani zamonaviylashtirish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponcha “busido” so'zi qanday ma'noni anglatadi?",
+   "options": [
+    "“Jangchining yo'li”",
+    "“Qonli yo'l”",
+    "“Olovli yo'l”",
+    "“Ma'rifat yo'li”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrda Yaponiyada busido an'analarida tarbiyalangan, davlat xizmatchilariga aylangan kimlar mutlaqo pora olishmas va barcha topshiriqlarni so'zsiz bajarishar edi?",
+   "options": [
+    "Daymyolar",
+    "Syogunlar",
+    "Samuraylar",
+    "Mikadolar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Busido” nima?",
+   "options": [
+    "Qonunlar to'plami",
+    "Samuraylar kodeksi",
+    "Tarixiy yilnoma",
+    "She'riy janr"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Meydzi islohotlari” davrida Yaponiyada dastlab qaysi sohada islohot o'tkazilgan?",
+   "options": [
+    "Agrar islohot",
+    "Ma'muriy islohot",
+    "Harbiy islohot",
+    "Madaniy islohot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yaponiyada “Meydzi islohotlari” davrida o'tkazilgan agrar islohotga ko'ra, yerni … ruxsat berilgan. 1) sotish va sotib olishga; 2) xususiy mulkka aylantirishga; 3) meros qoldirishga.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yaponiyada “Meydzi islohotlari” davrida o'tkazilgan agrar islohotga ko'ra, dehqonlarga berilgan chek yerlarga solingan soliq hosildan olinadigan daromad hajmining necha foiziga teng bo'lgan?",
+   "options": [
+    "20 foiziga",
+    "30 foiziga",
+    "40 foiziga",
+    "50 foiziga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponiyada “Meydzi islohotlari” davrida o'tkazilgan agrar islohotdan 10 yil o'tib, yer olgan dehqonlarning qancha qismi o'zlariga berilgan yerni qo'llarida saqlab qola olganlar?",
+   "options": [
+    "1/2 qismi",
+    "1/3 qismi",
+    "1/4 qismi",
+    "1/5 qismi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yaponiyada “Meydzi islohotlari” davrida o'tkazilgan ma'muriy islohotga ko'ra, … . 1) knyazlar yerlarining bir qismi musodara qilingan; 2) knyazlar boshqaruv huquqidan mahrum etilgan; 3) joylarda hokimiyat imperator tayinlaydigan gubernatorlar qo'liga o'tgan.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponiyada “Meydzi islohotlari” davrida o'tkazilgan harbiy islohotga ko'ra, … . 1) oliy qo'mondonlik syogunga topshirilgan; 2) umumiy harbiy majburiyat joriy etilgan; 3) samuraylar doimiy harbiy xizmat qilish imtiyozidan mahrum bo'lganlar; 4) yevropacha nusxadagi yangi qo'shinning shakllantirilishi",
+   "options": [
+    "1, 2, 3",
+    "1, 3, 4",
+    "2, 3, 4",
+    "1, 2, 3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yaponiyada “Meydzi islohotlari” davrida qaysi davlatdan harbiy mutaxassislar taklif etilgan?",
+   "options": [
+    "AQSH",
+    "Angliya",
+    "Fransiya",
+    "Rossiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrda yevropacha andoza asosida tuzilgan yapon armiyasidagi askarlarga singdirilgan qaysi g'oyalar “yaponcha milliy ruh” ning qirralari, belgilari deb hisoblangan? 1) O'z davlatining manfaatlariga sodiqlik; 2) Imperatorga muhabbat; 3) O'limni nazar-pisand qilmaslik.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponiyada Amaterasu qanday xudo hisoblanadi?",
+   "options": [
+    "Osmon xudosi",
+    "Quyosh xudosi",
+    "Urush xudosi",
+    "Olov xudosi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yaponiyada aholiga kim Amaterasu xohishiga ko'ra paydo bo'lganligi, shuning uchun ham bu davlat Osmon va Yer kabi abadiy mavjudligi, unga xudo Amaterasudek mehribonlik xos ekanligi, uning hech qachon nohaq bo'lishi mumkin emasligi singdirilgan?",
+   "options": [
+    "Imperator",
+    "Syogun",
+    "Samuray",
+    "Knyaz"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrda yaponlarga nima vatanparvarlikning oliy namunasi sifatida singdirilgan?",
+   "options": [
+    "Vatan uchun qurbon bo'lish",
+    "Imperatorga sodiqlik",
+    "Xudo Amaterasuga sig'inish",
+    "Tinimsiz mehnat qilish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda yaponlarga barcha Osiyo davlatlari nima uchun Yaponiya imperatori hokimiyati ostiga birlashishi lozimligi haqidagi g'oya singdirilgan?",
+   "options": [
+    "Yagona Sharqiy imperiyani yaratish uchun",
+    "Yapon millatini boshqalardan ustunligini isbotlash uchun",
+    "G'arb davlatlari siquviga qarshi turmoq uchun",
+    "Abadiy hukmron mavqega erishish uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrda Yaponiyada joriy etilgan yagona pul birligi qanday atalgan?",
+   "options": [
+    "Yuan",
+    "Von",
+    "Bat",
+    "Iyena"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrda Yaponiya hukumati qaysi masalaga uning ichki ishlariga chet davlatlar aralashuvi xavfidan himoya qiluvchi asosiy omil deb qaragan?",
+   "options": [
+    "Ishlab chiqarishni sanoatlashtirish masalasiga",
+    "Armiyani G'arb namunasida qayta qurish masalasiga",
+    "Millatni imperator atrofida birlashtirish masalasiga",
+    "Aholi savodxonligi va madaniyatini yuksaltirish masalasiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asr boshlarida Koreyada qaysi hukmron sulolaga qarshi boy zamindor Xon Gyon Ne boshchiligidagi eng yirik qurolli qo'zg'olon bo'lib o'tgan?",
+   "options": [
+    "Xvan sulolasiga",
+    "Pak sulolasiga",
+    "Li sulolasiga",
+    "Son sulolasiga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Koreyada qaysi yilda Chjechjyu orolida dehqonlar va baliqchilarning qo'zg'oloni bo'lib o'tgan?",
+   "options": [
+    "1808-yilda",
+    "1813-yilda",
+    "1817-yilda",
+    "1822-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr boshlarida Koreyada Chjechjyu orolida dehqonlar va baliqchilarning qo'zg'oloni bo'lib o'tganidan keyin, mamlakatda sodir bo'lgan qanday ofat natijasida ochlik va kasalliklardan ko'plab odamlar qirilib ketgan?",
+   "options": [
+    "Suv toshqini",
+    "O'lat tarqalishi",
+    "Chigirtkalar bosqini",
+    "Qurg'oqchilik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Koreyada qirol Yeongjo qaysi yillarda hukmronlik qilgan?",
+   "options": [
+    "1724–1776-yillarda",
+    "1726–1778-yillarda",
+    "1729–1781-yillarda",
+    "1731–1783-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrda Koreyaga o'z ta'sirini o'tkazish uchun kurashda qaysi davlat g'olib chiqqan?",
+   "options": [
+    "Rossiya",
+    "Yaponiya",
+    "AQSH",
+    "Xitoy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrdan Koreyani chet davlat uchun ochish va uni mustamlakaga aylantirishga intilish kimlarning faolligi oshgani bilan ifodalangan?",
+   "options": [
+    "Savdo kompaniyalari vakillarining",
+    "Harbiy flot askarlarining",
+    "Xorijiy elchilarning",
+    "Xristian missionerlarining"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi yilda Rim papasi Koreya yepiskopligi tuzilganligini e'lon qilgan?",
+   "options": [
+    "1829-yilda",
+    "1830-yilda",
+    "1831-yilda",
+    "1832-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yilda Koreya qirg'oqlari yaqinida paydo bo'lgan kema Buyuk Britaniya nomidan savdo munosabatlari o'rnatishni taklif qilgan, lekin rad javobini olgan?",
+   "options": [
+    "1829-yilda",
+    "1830-yilda",
+    "1831-yilda",
+    "1832-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asr birinchi yarmida Koreyada, asosan, qaysi millat xristian cherkovi missionerlari vakillari yashirin kirib kelib, o'z faoliyatlarini olib borayotgan edilar?",
+   "options": [
+    "Fransuz",
+    "Ingliz",
+    "Ispan",
+    "Portugal"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asr birinchi yarmida nima Koreyaga Fransiyaning harbiy kemalari yuborilishi uchun bahona bo'lgan?",
+   "options": [
+    "Fransuz missionerlarining Koreyadan quvilishi",
+    "Fransuz elchisining Koreyada o'ldirilishi",
+    "Fransuz missionerlarining xristian dinini qabul qilgan koreyslar bilan birga qatl etilishi",
+    "Fransuz ofitserining Koreyada qamoqqa tashlanishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asr birinchi yarmida o'z missionerlarining o'limi uchun tovon sifatida Koreyaga o'z kemalarini yuborgan fransuzlar Koreya hukumatidan nimani talab qilishgan?",
+   "options": [
+    "Tovon to'lanishini",
+    "Portlarining ochilishini",
+    "Bojlarning kamaytirilishini",
+    "Harbiylarni kiritilishini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr birinchi yarmida o'z missionerlarining o'limi uchun tovon sifatida Koreyaga o'z kemalarini yuborgan fransuzlarning nechta kemasi Koreya qirg'oqlari yaqinida sayozlikka o'tirib qolgan?",
+   "options": [
+    "Ikkita kema",
+    "Uchta kema",
+    "To'rtta kema",
+    "Beshta kema"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrdagi qaysi voqealar Koreyaning hukmron doiralariga juda katta ta'sir ko'rsatgan va Seullik hukmdorlar mamlakatni tashqi dunyodan yana ham qattiqroq va yana ham to'laroq ajratib qo'yish yo'liga o'tganlar? 1) Fransiyaning Koreya qirg'oqlariga kemalarini yuborishi; 2) Xitoyning chet davlatlar uc",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 3",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi davrda Koreyadagi missionerlardan biri mamlakatdagi xalq g'azabi haqida o'z yashirin xabarida: “Kichik bir uchqun shunday yong'in keltirib chiqarishi mumkinki, uning oqibatlarini, hatto taxmin qilib ham bo'lmaydi”, deya yozgan?",
+   "options": [
+    "XVIII asrning oxirlarida",
+    "XIX asrning boshlarida",
+    "XIX asrning o'rtalarida",
+    "XIX asrning oxirlarida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrning o'rtalarida kapitalistik davlatlar, ayniqsa, kimlar bir necha bor Koreya portlarini o'zlari uchun “ochishga” va teng bo'lmagan shartnomalar tuzishga urinib ko'rganlar?",
+   "options": [
+    "Fransiyaliklar",
+    "Angliyaliklar",
+    "Gollandiyaliklar",
+    "Amerikaliklar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrda Koreyada kimning hukmronlik qilish davri “tevongun”, ya'ni “hokim” nomi bilan mashhur?",
+   "options": [
+    "Yeongjo",
+    "Li Xa In",
+    "Xon Gyon Ne",
+    "Li Sze Xvan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda Koreyada “noron” deb kimlarga aytilgan?",
+   "options": [
+    "Oqsoqollarga",
+    "Qo'mondonlarga",
+    "Dehqonlarga",
+    "Hukmdorlarga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrda Koreyada qaysi hukmdor eng muhim davlat lavozimlariga o'z odamlarini qo'yib olgan “noron” asilzodalar partiyasining zo'ravonligiga chek qo'ygan?",
+   "options": [
+    "Yeongjo",
+    "Li Xa In",
+    "Xon Gyon Ne",
+    "Li Sze Xvan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda Koreyada qaysi hukmdor dvoryan bo'lmagan qatlamlar: savdogarlar, o'ziga to'q mayda yer egalarining ayrim vakillariga ham davlat xizmatiga kirish imkoniyatini yaratgan?",
+   "options": [
+    "Yeongjo",
+    "Li Xa In",
+    "Xon Gyon Ne",
+    "Li Sze Xvan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda Koreyada oddiy kishilar to'laydigan … barcha qatlamlar uchun majburiy … bilan almashtirilgan.",
+   "options": [
+    "jon solig'i/mulk solig'i",
+    "mulk solig'i/harbiy soliq",
+    "harbiy soliq/uy boshi solig'i",
+    "uy boshi solig'i/jon solig'i"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrda Koreyada asilzodalar va oddiy xalqni “tenglashtirish” maqsadida xalq uchun qanday rangdagi oyoq kiyimni kiyib yurishni taqiqlangan?",
+   "options": [
+    "Qora rangdagi",
+    "Oq rangdagi",
+    "Qizil rangdagi",
+    "Sariq rangdagi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asrda Koreyada podsholikning obro'sini oshirish uchun tevongun qaysi asrda yonib ketgan Kyonbokkun saroyini tiklagan?",
+   "options": [
+    "XIV asrda",
+    "XV asrda",
+    "XVI asrda",
+    "XVII asrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrda Koreyada podsholikning obro'sini oshirish uchun tevongun kimlar bosqini paytida yonib ketgan Kyonbokkun saroyini tiklagan?",
+   "options": [
+    "Manjurlar",
+    "Xitoylar",
+    "Mo'g'ullar",
+    "Yaponlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrda Koreya hukmron tabaqalarining zamon talablariga mos iqtisodiy islohotlarni o'tkazmaganligi, mamlakatni tashqi dunyodan ajratib qo'yganligi, oxir-oqibat, Koreyaning qaysi davlat mustamlakasiga aylanib qolishiga olib kelgan?",
+   "options": [
+    "Yaponiya",
+    "Xitoy",
+    "Fransiya",
+    "AQSH"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "… – biror dinga e'tiqod qiluvchi xalqlar orasida boshqa bir dinni targ'ib qilish.",
+   "options": [
+    "Protestantlik",
+    "Missionerlik",
+    "Tolerantlik",
+    "Irridentlik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII–XIX asr boshlarida Xitoy quyidagi qaysi hududlarni o'z ichiga olgan ulkan imperiya bo'lgan? 1) Manchjuriya; 2) Mo'g'uliston; 3) Koreya; 4) Annam; 5) Tibet; 6) Birma; 7) Jung'oriya.",
+   "options": [
+    "2, 3, 5, 6",
+    "1, 2, 5, 7",
+    "3, 4, 5, 6",
+    "1, 4, 5, 7"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVIII–XIX asr boshlarida Xitoy (Chin sulolasi) ga quyidagi qaysi davlatlar vassal bo'lgan? 1) Manchjuriya; 2) Mo'g'uliston; 3) Koreya; 4) Annam; 5) Tibet; 6) Birma; 7) Jung'oriya.",
+   "options": [
+    "2, 3, 6",
+    "1, 2, 7",
+    "3, 4, 6",
+    "1, 4, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XVIII–XIX asr boshlarida qaysi davlat Annam deb atalgan?",
+   "options": [
+    "Kambodja",
+    "Bruney",
+    "Laos",
+    "Vyetnam"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrda qaysi sharq davlati an'anaviy sivilizatsiya mamlakatlari ichida birinchi bo'lib industrial taraqqiyot yo'liga kirgan, mamlakatda kapitalistik taraqqiyot uchun sharoit yaratilgan, konstitutsiya qabul qilingan, siyosiy partiyalar paydo bo'la boshlagan va huquqiy davlatning belgilari shakllan",
+   "options": [
+    "Koreya",
+    "Yaponiya",
+    "Xitoy",
+    "Hindiston"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda qaysi sharq davlatida iqtisodiy o'sishning yuqori darajasi ta'minlangan, zamonaviy sanoatning asoslari yaratilgan, o'rtacha umr darajasi ikki marta oshgan, zamonaviy boshlang'ich ta'lim keng joriy qilingan, ayni paytda mustamlakachilar tomonidan mahalliy aholini kamsitishga qaratilgan avto",
+   "options": [
+    "Koreya",
+    "Yaponiya",
+    "Xitoy",
+    "Hindiston"
+   ],
+   "answer": 0
+  }
+ ]
+}
