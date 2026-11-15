@@ -1,0 +1,507 @@
+{
+ "title": "Attestatsiya tarix 9-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Antik mualliflar tomonidan «ming shaharli» o'lka deb ta'riflangan qadimgi davlatni aniqlang.",
+   "options": [
+    "Xorazm",
+    "Sug'diyona",
+    "Baqtriya",
+    "Parfiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi yozuvlar va ularga oid ma'lumotlarni moslashtiring.\n1. Sug'd yozuvi\n2. Baqtriya (kushon) yozuvi\n3. O'rxun-Enasoy yozuvi\n4. Qadimgi fors mixxati\na) oromiy yozuvi asosida shakllangan; Mug' tog'i hujjatlari shu yozuvda bitilgan\nb) yunon alifbosi asosida shakllangan\nc) turkiy run yozuvi; Kultegin bitiktoshi shu yozuvda\nd) Doro I ning Behistun yozuvi shu yozuvda bitilgan\ne) arab grafikasi asosidagi eski o'zbek yozuvi",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-e",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Aleksandr Makedonskiyning vafoti;\n2) birinchi Olimpiya o'yinlarining o'tkazilishi;\n3) Karfagenning rimliklar tomonidan vayron qilinishi;\n4) Kir II ning Bobilni egallashi;\n5) Rim shahriga asos solinishi;\n6) Navuxodonosor II ning Quddusni vayron qilishi.",
+   "options": [
+    "5, 2, 6, 4, 1, 3",
+    "2, 6, 5, 4, 1, 3",
+    "2, 5, 4, 6, 1, 3",
+    "2, 5, 6, 4, 1, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Rim arboblari va ularning faoliyatini moslashtiring.\n1. Tiberiy Grakx\n2. Gay Mariy\n3. Luciy Korneliy Sulla\n4. Konstantin I\na) mil. avv. 133-yilda yer islohotini o'tkazishga uringan xalq tribuni\nb) harbiy islohot o'tkazib, yollanma armiya tuzgan\nc) Rimda birinchi bo'lib muddatsiz diktator bo'lgan\nd) poytaxtni Konstantinopolga ko'chirgan, Milan ediktini chiqargan\ne) imperiyani to'rt hukmdor o'rtasida bo'lgan — tetrarxiyani joriy qilgan",
+   "options": [
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-e",
+    "1-a, 2-c, 3-b, 4-d",
+    "1-a, 2-b, 3-c, 4-d"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler–Venn diagrammasiga mos keladigan javobni aniqlang.\na) piramidalar qurilgan;\nb) ierogliflardan foydalanilgan;\nc) papirusdan yozuv materiali sifatida foydalanilgan;\nd) mixxat yozuvi yaratilgan;\ne) zikkuratlar qurilgan;\nf) daryo vodiysida sug'orma dehqonchilik rivojlangan;\ng) hukmdor ilohiy kuch egasi sifatida ulug'langan.",
+   "options": [
+    "I – a, b, c; II – d, e; III – f, g",
+    "I – a, c; II – b, d, e; III – f, g",
+    "I – a, b, c; II – d, e, f; III – g",
+    "I – a, b; II – c, d, e; III – f, g"
+   ],
+   "answer": 0,
+   "image": "img/acbb0fc9f8f5e.jpg"
+  },
+  {
+   "q": "568-yilda Turk xoqonligidan Vizantiyaga yuborilgan elchilikka boshchilik qilgan sug'dlik savdogarni aniqlang.",
+   "options": [
+    "Devashtich",
+    "Maniax",
+    "Zemarx",
+    "Tarxun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "VIII asrning 30-yillarida soliq islohoti o'tkazib, Movarounnahr aholisining noroziligini yumshatishga uringan Xuroson noibi kim?",
+   "options": [
+    "Asad ibn Abdulloh",
+    "Qutayba ibn Muslim",
+    "Nasr ibn Sayyor",
+    "Abu Muslim"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abu Ali ibn Sino qaysi somoniy amirni davolagani uchun saroy kutubxonasidan foydalanish huquqini olgan?",
+   "options": [
+    "Ahmad ibn Ismoil",
+    "Nuh ibn Mansur",
+    "Ismoil ibn Ahmad",
+    "Nasr ibn Ahmad"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buxorodagi Minorai Kalon qachon va qaysi hukmdor davrida qurilgan?",
+   "options": [
+    "1417-yil; Mirzo Ulug'bek",
+    "1127-yil; Ismoil Somoniy",
+    "1127-yil; Arslonxon Muhammad",
+    "943-yil; Arslonxon Muhammad"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XI–XIII asrlar allomalari va ularga oid ma'lumotlarni moslashtiring.\n1. Mahmud Zamaxshariy\n2. Najmiddin Kubro\n3. Ahmad Yassaviy\n4. Abduxoliq G'ijduvoniy\na) «Al-Kashshof» tafsirining muallifi\nb) kubraviya tariqatining asoschisi\nc) «Hikmatlar» muallifi, yassaviya tariqatining asoschisi\nd) xojagon tariqatining asoschisi\ne) naqshbandiya tariqatining asoschisi",
+   "options": [
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-e",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-a, 2-b, 3-c, 4-d"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1258-yilda Bag'dodni egallab, Abbosiylar xalifaligiga barham bergan mo'g'ul hukmdorini aniqlang.",
+   "options": [
+    "Hulokuxon",
+    "Munkexon",
+    "Botuxon",
+    "Chig'atoy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur yozishmalar olib borgan Yevropa hukmdorlarini aniqlang.\n1) Fransiya qiroli Karl VI;\n2) Angliya qiroli Genrix IV;\n3) Moskva knyazi Ivan III;\n4) Kastiliya qiroli Genrix III;\n5) Germaniya imperatori Fridrix Barbarossa.",
+   "options": [
+    "1, 2, 4",
+    "2, 3, 5",
+    "1, 3, 4",
+    "1, 2, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Hirotda madrasa, Mashhadda esa jome masjidini qurdirgan Shohruxning rafiqasi kim?",
+   "options": [
+    "Saroymulkxonim",
+    "Xonzodabegim",
+    "Gavharshodbegim",
+    "Tumanog'a"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mirzo Ulug'bek rasadxonasida faoliyat yuritgan olimlarni aniqlang.\n1) Qozizoda Rumiy;\n2) G'iyosiddin Jamshid Koshiy;\n3) Ali Qushchi;\n4) Mirxond;\n5) Kamoliddin Behzod.",
+   "options": [
+    "2, 4, 5",
+    "1, 2, 3",
+    "1, 3, 5",
+    "1, 2, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVI–XVII asrlar tarixchilari va ularning asarlarini moslashtiring.\n1. Hofiz Tanish Buxoriy\n2. Fazlulloh ibn Ro'zbehon\n3. Muhammad Solih\n4. Mahmud ibn Vali\na) «Abdullanoma» («Sharafnomai shohiy»)\nb) «Mehmonnomai Buxoro»\nc) «Shayboniynoma» dostoni\nd) «Bahr ul-asror»\ne) «Tarixi Rashidiy»",
+   "options": [
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-e",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-c, 3-b, 4-d"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buxoro amirligi ma'muriy jihatdan qanday hududiy birliklarga bo'lingan?",
+   "options": [
+    "viloyatlarga (oblastlarga)",
+    "bekliklarga",
+    "gubernalarga",
+    "uyezdlarga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nuqtalar o'rnida tushirib qoldirilgan ma'lumotlarni aniqlang. Kaspiyorti temir yo'li 1888-yilda 1. ............... gacha, 1899-yilda esa 2. ............... gacha yetkazildi. 1906- yilda 3. ............... – Toshkent temir yo'li ishga tushirildi.",
+   "options": [
+    "1 — Samarqand, 2 — Andijon, 3 — Orenburg",
+    "1 — Buxoro, 2 — Toshkent, 3 — Orenburg",
+    "1 — Samarqand, 2 — Toshkent, 3 — Orenburg",
+    "1 — Samarqand, 2 — Toshkent, 3 — Krasnovodsk"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1913-yilda Toshkentda «Turon» teatr truppasini tashkil etgan jadid ma'rifatparvarini aniqlang.",
+   "options": [
+    "Abdulla Avloniy",
+    "Mahmudxo'ja Behbudiy",
+    "Hamza Hakimzoda Niyoziy",
+    "Munavvar qori Abdurashidxonov"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1918–1922-yillardagi qurolli harakat yetakchilari va ularga oid ma'lumotlarni moslashtiring.\n1. Ergash qo'rboshi\n2. Madaminbek\n3. Shermuhammadbek (Ko'rshermat)\n4. Anvar posho\na) Turkiston muxtoriyati tor-mor etilgach, Farg'onada qurolli harakatni boshlagan\nb) «Muvaqqat Farg'ona hukumati»ni tuzgan\nc) Madaminbekdan keyin Farg'onadagi harakatga boshchilik qilgan\nd) 1922-yilda Sharqiy Buxoroda halok bo'lgan turk sarkardasi\ne) Xorazmdagi turkman yetakchisi",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-e",
+    "1-a, 2-b, 3-d, 4-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mirzacho'lni o'zlashtirish bo'yicha keng ko'lamli ishlar qaysi yildan boshlangan?",
+   "options": [
+    "1939-yil",
+    "1966-yil",
+    "1970-yil",
+    "1956-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'zbekiston tashabbusi bilan 2018-yilda BMT Bosh Assambleyasi tomonidan qabul qilingan rezolyutsiyani aniqlang.",
+   "options": [
+    "«Barqaror rivojlanish maqsadlari»",
+    "«Inson huquqlari umumjahon deklaratsiyasi»",
+    "«Ma'rifat va diniy bag'rikenglik»",
+    "«Ming yillik rivojlanish maqsadlari»"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fuqarolik huquqi kodeksini tuzdirgan va Konstantinopolda Avliyo Sofiya ibodatxonasini qurdirgan Vizantiya imperatori kim?",
+   "options": [
+    "Feodosiy I",
+    "Konstantin I",
+    "Vasiliy II",
+    "Yustinian I"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "732-yilda Puate yonidagi jangda arablarning G'arbiy Yevropaga yurishini to'xtatgan frank sarkardasini aniqlang.",
+   "options": [
+    "Pipin Qisqa",
+    "Buyuk Karl",
+    "Karl Martell",
+    "Xlodvig"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIII–XV asrlarda Shimoliy Yevropadagi savdo shaharlarining ittifoqi qanday atalgan?",
+   "options": [
+    "Lombard ligasi",
+    "Ganza",
+    "Shmalkalden ittifoqi",
+    "Antanta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pyotr I davriga oid voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Senatning ta'sis etilishi; 2) «Rangliklar jadvali»ning qabul qilinishi; 3) «Buyuk elchilik»; 4) Poltava jangi; 5) Sankt-Peterburgga asos solinishi; 6) Nishtadt sulhi.",
+   "options": [
+    "3, 4, 5, 1, 6, 2",
+    "5, 3, 4, 1, 6, 2",
+    "3, 5, 4, 1, 6, 2",
+    "3, 5, 4, 6, 1, 2"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "AQSH Konstitutsiyasi qachon va qayerda qabul qilingan?",
+   "options": [
+    "1776-yil; Filadelfiya",
+    "1787-yil; Filadelfiya",
+    "1783-yil; Parij",
+    "1787-yil; Vashington"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Napoleon urushlari davridagi janglar va ularga oid ma'lumotlarni moslashtiring.\n1. Austerlis jangi\n2. Trafalgar jangi\n3. Borodino jangi\n4. Leyptsig jangi\na) «uch imperator jangi» (1805)\nb) admiral Nelson boshchiligidagi ingliz flotining g'alabasi (1805)\nc) Rossiyaga yurish chog'idagi yirik jang (1812)\nd) «xalqlar jangi» (1813)\ne) Napoleonning so'nggi mag'lubiyati (1815)",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-c, 3-b, 4-d",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-e"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1911-yilgi Sinxay inqilobidan so'ng Xitoy Respublikasining birinchi muvaqqat prezidenti bo'lgan, «Uch xalq tamoyili» muallifi kim?",
+   "options": [
+    "Yuan Shikay",
+    "Mao Szedun",
+    "Sun Yatsen",
+    "Chan Kayshi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Versal tinchlik shartnomasining (1919) shartlarini aniqlang.\n1) Germaniya Avstriyaga qo'shib olindi;\n2) Elzas va Lotaringiya Fransiyaga qaytarildi;\n3) Germaniya barcha mustamlakalaridan mahrum bo'ldi;\n4) Germaniya Millatlar Ligasining asoschi a'zosi bo'ldi;\n5) Germaniya armiyasi 100 ming kishi bilan cheklandi;\n6) Reyn bo'yi hududi demilitarizatsiya qilindi.",
+   "options": [
+    "2, 4, 5, 6",
+    "2, 3, 5, 6",
+    "1, 3, 4, 6",
+    "1, 2, 3, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "BMT Xavfsizlik Kengashining doimiy a'zolarini aniqlang.",
+   "options": [
+    "AQSH, Rossiya, Xitoy, Hindiston, Fransiya",
+    "AQSH, Rossiya, Xitoy, Buyuk Britaniya, Germaniya",
+    "AQSH, Rossiya, Yaponiya, Buyuk Britaniya, Fransiya",
+    "AQSH, Rossiya, Xitoy, Buyuk Britaniya, Fransiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kubada Batista rejimi ag'darilib, inqilob g'alaba qozongan yilni va uning yetakchisini aniqlang.",
+   "options": [
+    "1959-yil; Salvador Alyende",
+    "1953-yil; Fidel Kastro",
+    "1959-yil; Fidel Kastro",
+    "1962-yil; Fidel Kastro"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "SSSRda «qayta qurish» siyosati qaysi yili boshlangan?",
+   "options": [
+    "1989-yil",
+    "1991-yil",
+    "1982-yil",
+    "1985-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Urushdan voz kechish haqidagi 9-moddani o'z ichiga olgan Yaponiya konstitutsiyasi qaysi yili kuchga kirgan?",
+   "options": [
+    "1951-yil",
+    "1947-yil",
+    "1889-yil",
+    "1945-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Turkiyada Mustafo Kamol davrida amalga oshirilgan o'zgarishlarni xronologik ketma-ketlikda joylashtiring.\n1) lotin alifbosiga o'tilishi; 2) sultonlikning bekor qilinishi; 3) familiyalar to'g'risidagi qonunning qabul qilinishi; 4) xalifalikning tugatilishi; 5) respublikaning e'lon qilinishi.",
+   "options": [
+    "2, 5, 4, 1, 3",
+    "2, 4, 5, 1, 3",
+    "2, 5, 4, 3, 1",
+    "5, 2, 4, 1, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Usmonlilar imperiyasining eng qudratli davri bilan bog'liq, «Qonuniy» laqabini olgan sulton kim?",
+   "options": [
+    "Boyazid I",
+    "Salim I",
+    "Mehmed II",
+    "Sulaymon I"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mehnat vazifalari va ularga tegishli mehnat harakatlarini moslashtiring.\n1. O'z-o'zini rivojlantirish va kasbiy o'sish\n2. Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik\na) O'zaro darslarda qatnashish, ularni tahlil qilish, undan o'zining kasbiy faoliyatida foydalanish\nb) O'quvchilarning ota-onalarini o'quvchilarni rivojlanishi va ta'lim muhiti to'g'risida qaror qabul qilishda ishtirok etishga jalb qilish\nc) O'quvchilarga xavfsizlik qoidalarining mazmuni va ularga rioya qilish asoslarini tushunishga yordam berish",
+   "options": [
+    "1-a, 2-b",
+    "1-b, 2-a",
+    "1-c, 2-b",
+    "1-a, 2-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi chorak uchun dars ishlanmalarini tuzayotib, har bir mavzuda interaktiv xarita, onlayn viktorina va taqdimotlardan qaysi bosqichda foydalanishini oldindan belgilab chiqdi. Bu vaziyatda o'qituvchi «O'quv jarayonini rejalashtirish» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "Dars jarayoniga zamonaviy axborot texnologiyalar integratsiyasini rejalashtirish",
+    "Davlat ta'lim standartlari va o'quv dasturlarining maqsadlariga muvofiq o'quv rejalarini ishlab chiqish",
+    "O'quvchilarning ehtiyojlari va qiziqishlaridan kelib chiqib o'quv dasturini moslashtirish (agar kerak bo'lsa)",
+    "Darsning maqsadlari, o'quvchilarning yosh xususiyatlari va o'zlashtirishiga mos keladigan dars shakllari va usullarini rejalashtirish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi o'quvchilarga «Nima uchun Temuriylar davlati parchalanib ketdi?» degan muammoli savolni berdi. O'quvchilar avval mustaqil, so'ng guruhlarda manbalarni tahlil qilib, turli versiyalarni tanqidiy baholadilar va o'z yechimlarini himoya qildilar. O'qituvchi ta'lim samaradorligini ta'minlash uchun kerakli bo'lgan qanday ko'nikmani namoyon etdi?",
+   "options": [
+    "Ta'lim jarayoni samaradorligini ta'minlashda axborot-kommunikatsiya texnologiyalaridan foydalanish",
+    "O'quv dasturining mazmuni mos keladigan samarali usullarini tanlash, interfaol metodlarni qo'llash",
+    "O'quvchilarning ijodkorlikka, muammolarni mustaqil, shuningdek jamoaviy hal qilish va tanqidiy fikrlashiga e'tibor bergan holda asosiy kompetensiyalari va hayotiy ko'nikmalarini rivojlantirish",
+    "Pedagogik va psixologik bilimlardan foydalanib, pedagogik vaziyat va hodisalarni kuzatib borish, ularni tahlil qilish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchining «O'zlashtirishni baholash va qayta aloqani taqdim etish» mehnat vazifasiga kiruvchi mehnat harakatlarini aniqlang: 1. Ta'lim natijalarini baholash uchun turli usul va vositalardan foydalanish 2. Dars rejasi va usullarini moslashtirishda tahlil natijalaridan foydalanish 3. Darsda vaqtdan oqilona foydalanish 4. O'quvchilarning o'zini o'zi boshqarish organlari faoliyatini tashkil qilishda yordam berish va qo'llab-quvvatlash",
+   "options": [
+    "2, 4",
+    "3, 4",
+    "1, 3",
+    "1, 2"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mehnat vazifalari va ularning zarur ko'nikmalarini moslashtiring.\n1. Tarbiyaviy faoliyatni tashkil etish\n2. Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash\na) Bolalar bilan muloqot qilish, ularning qadr-qimmatini tan olish\nb) O'quvchilarga o'zlarining asoslangan va mas'uliyatli qarorlarini qabul qilishlariga yordam berish\nc) Ta'lim jarayoni samaradorligini ta'minlashda axborot- kommunikatsiya texnologiyalaridan foydalanish",
+   "options": [
+    "1-a, 2-c",
+    "1-a, 2-b",
+    "1-c, 2-b",
+    "1-b, 2-a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yosh tadqiqotchi tajribali o'qituvchilarga yangi baholash tizimi haqida bir turkum savollar berdi. U har bir javobni tinglab, unga o'z munosabatini bildirib bordi va shu orqali suhbatdoshlarning muammoga bo'lgan munosabatini aniqladi. N. Mavlonova qo'llanmasiga ko'ra tadqiqotning qaysi metodidan foydalanilgan?",
+   "options": [
+    "Anketa metodi",
+    "Pedagogik kuzatish metodi",
+    "Intervyu metodi",
+    "Test metodi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi sinfda o'quvchilarning fikriga tayanib ish ko'radi. Sinf tadbiri rejasi jamoa bo'lib muhokama qilinadi, o'quvchilar tashabbusi qo'llab-quvvatlanadi, xatolar esa o'quvchining o'ziga anglatilgan holda tuzatiladi. O'qituvchi pedagogik muloqotning qaysi uslubini qo'llamoqda?",
+   "options": [
+    "Demokratik uslub",
+    "Liberal uslub",
+    "Ma'muriy uslub",
+    "Avtoritar uslub"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarix o'qituvchisi darsda faqat ilmiy jihatdan isbotlangan dalillarga, so'nggi arxeologik tadqiqotlar natijalariga tayandi; afsona va to'qimalarni tarixiy haqiqat sifatida berishdan saqlandi. O'qituvchi ta'limning qaysi tamoyiliga amal qilgan?",
+   "options": [
+    "Ilmiylik tamoyili",
+    "Tushunarlilik tamoyili",
+    "Mustahkamlik tamoyili",
+    "Ko'rgazmalilik tamoyili"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi bob yakunida butun darsni o'quvchilarning bilimini aniqlashga bag'ishladi: avval og'zaki so'rov o'tkazdi, so'ng yozma nazorat ishi oldi, yangi mavzu o'tilmadi. O'qituvchi darsning qaysi turidan foydalangan?",
+   "options": [
+    "Bilimlarni mustahkamlash va takrorlash darsi",
+    "Yangi materiallar bilan tanishish darsi",
+    "Kombinatsiyalashgan dars",
+    "Olingan bilimlarni tekshirish darsi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi vaziyatlarni ta'lim metodlari bilan moslashtiring.\n1. O'qituvchi murakkab nazariy materialni isbot, tahlil, taqqoslash va umumlashma asosida bayon qilib, ko'rgazmali vositalardan foydalandi.\n2. O'qituvchi savollarni shunday ketma-ketlikda berdiki, o'quvchilar mustaqil fikr yuritib, dalillar keltirib, yangi bilimni o'zlari kashf etdilar.\na) Tushuntirish\nb) Evristik suhbat\nc) Ma'ruza",
+   "options": [
+    "1-a, 2-c",
+    "1-a, 2-b",
+    "1-b, 2-a",
+    "1-c, 2-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'quvchi tarixiy loyiha ustida ishlashni boshlashdan oldin qanday harakat qilishni bilmay, o'qituvchiga murojaat qildi. O'qituvchi tayyor yechimni aytmasdan, ishni qanday tashkil etsa yaxshi bo'lishi haqida fikr bildirdi va o'quvchini mustaqil qaror qabul qilishga undadi. Tarbiyaning qaysi metodi qo'llanilgan?",
+   "options": [
+    "Buyruq va talab",
+    "Ishontirish",
+    "O'git-nasihat",
+    "Maslahat berish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yosh o'qituvchiga ustozi «Sinf oldida qaddingizni tik tuting, ortiqcha silkinish va keskin harakatlardan o'zingizni tiying — shunda o'quvchilar sizga ishonch bilan qaraydi» deb maslahat berdi. U. Tolipov qo'llanmasiga ko'ra ustoz pedagogik texnikaning qaysi unsurini takomillashtirishni maslahat bergan?",
+   "options": [
+    "Mimika",
+    "Pantomimika",
+    "Nutq texnikasi",
+    "Diksiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Insho yozishdan oldin o'qituvchi o'quvchilarga har bir mezon (mazmun, dalillar, tuzilish, savodxonlik) bo'yicha «a'lo», «yaxshi», «qoniqarli» darajalari tavsiflangan jadvalni tarqatdi va ishlarni shu jadval asosida baholadi. O'qituvchi baholashning qaysi vositasidan foydalangan?",
+   "options": [
+    "Portfolio",
+    "Baholash rubrikasi",
+    "Baholash spetsifikatsiyasi",
+    "Baholash yo'riqnomasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qituvchi tarix olimpiadasiga qatnashadigan jamoani tanlash uchun o'quvchilarning qobiliyatlarini o'rganib, ularning keyingi bosqichlarda qanday natija ko'rsatishini oldindan aniqlashga harakat qildi. Baholashning qaysi turi qo'llanilgan?",
+   "options": [
+    "Prognostik baholash",
+    "Summativ baholash",
+    "Ipsativ baholash",
+    "Formativ baholash"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Darsda bir o'quvchi o'qituvchiga qo'pol gap qaytardi. O'qituvchi o'zini yo'qotmadi, o'quvchini sinf oldida kamsitmadi, vaziyatni yengil hazil bilan yumshatib, dars tugagach u bilan xotirjam suhbatlashdi. O'qituvchining qaysi kasbiy sifati namoyon bo'lgan?",
+   "options": [
+    "Perseptiv qobiliyat",
+    "Pedagogik texnika",
+    "Konstruktiv qobiliyat",
+    "Pedagogik takt (nazokat)"
+   ],
+   "answer": 3
+  }
+ ]
+}

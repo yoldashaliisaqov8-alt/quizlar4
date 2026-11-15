@@ -1,0 +1,357 @@
+{
+ "title": "Demo test kuzgi 2026",
+ "time": 45,
+ "questions": [
+  {
+   "q": "1547-yilda Gabsburglar va Usmonlilar o'rtasida imzolangan shartnoma xaritadagi 3-raqamdagi davlatga qanday ta'sir ko'rsatdi?",
+   "options": [
+    "Mazkur davlat hududlari Turkiya va Avstriya o'rtasida bo'lib olindi",
+    "Moldaviyaning sharqiy qismini o'ziga qo'shib oldi",
+    "Mamlakat tashqi siyosati Angliyaga qaram bo'lib qoldi",
+    "Kaspiy dengizida harbiy kemalarga ega bo'lish huquqini qo'lga kiritdi"
+   ],
+   "answer": 0,
+   "image": "img/att-demo-01.jpg"
+  },
+  {
+   "q": "Tohir ibn Husaynning “Ikki qo'lda kurashuvchi” faxriy taxallusini olishi quyidagi qaysi jarayon bilan bog'liq?",
+   "options": [
+    "Horun ar-Rashidning o'g'li – Aminga xalifalik taxtini egallashda yordam berishi",
+    "Arab xalifaligiga qarshi ko'tarilgan “Oq kiyimlilar” qo'zg'olonini bostirishi",
+    "Rofe ibn Lays qo'zg'oloni davrida Harsama A'yani mag'lub etishi",
+    "Ray yaqinidagi jangda Ali Moxon ismli sarkardani mag'lub etishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Makedoniyalik Aleksandr nima maqsadda Aleksandriya Esxata qal'asini bunyod ettirgan?",
+   "options": [
+    "Spitaman va Krater boshchiligidagi qo'shinni bostirish uchun",
+    "Baqtriya podshosi Bessning ustidan qozongan g'alabasi uchun",
+    "Bo'ysunmas saklarga qarshi kurash olib borish uchun",
+    "Xoriyenning qizi Ravshanakka to'y sovg'asi sifatida berish uchun"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shayboniyxon faoliyati bilan bog'liq janglarni o'zaro moslashtiring.\n1. (1501) Zarafshon bo'yidagi Saripul qishlog'i yaqinidagi jang | a) Safaviylar Hirotni tark etishga majbur bo'ladi;\n2. 1503-yil Sirdaryo bo'yidagi jang | b) Muhammad Shayboniyxon yengiladi va halok bo'ladi;\n3. 1510-yil Marv yaqinidagi jang | c) Toshkent xoni (hokimi) Mahmudxon qo'shinini tor-mor keltirdi;\nd) Shayboniyxon Bobur qo'shini ustidan g'alaba qozonadi.",
+   "options": [
+    "1-b, 2-a, 3-d",
+    "1-c, 2-b, 3-a",
+    "1-d, 2-c, 3-b",
+    "1-a, 2-d, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "2024-yili Ostona shahrida bo'lib o'tgan Markaziy Osiyo rahbarlarining VI maslahat uchrashuvi bilan bog'liq to'g'ri javobni aniqlang.\n1. “Markaziy Osiyo – 2030” mintaqaviy hamkorlikni rivojlantish to'g'risida Bill imzolandi.\n2. “Markaziy Osiyo – 2040” mintaqaviy hamkorlikni rivojlantish konsepsiyasi imzolandi.\n3. Mintaqa davlatlarida transport-logistika markazlarini rivojlanritish bo'yicha o'zaro anglashuv memorandumi imzolandi.\n4. Mintaqa davlatlari o'rtasida chegara nazoratini bekor qilish to'g'risida deklaratsiya imzolandi.",
+   "options": [
+    "1, 2",
+    "2, 4",
+    "2, 3",
+    "1, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1995-yilda YUNESKOning Markaziy Osiyo tadqiqotlari xalqaro instituti qayerda tashkil etildi?",
+   "options": [
+    "Samarqand",
+    "Jizzax",
+    "Toshkent",
+    "Buxoro"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Germaniya imperatori Genrix II …",
+   "options": [
+    "O'z hokimiyatini yanada mustahkamlash maqsadida “Donolar kengashi”ni tuzdi",
+    "Italiyadagi katta feodallar va shaharliklarning o'ziga vassalligi bilan kifoyalandi",
+    "O'g'lini Sitsiliya malikasiga uylantirib, Italiyaning janubiy qismini qo'lga kiritdi",
+    "O'tkazgan ma'muriy islohoti natijasida mamkat 24 ta graflikka bo'lindi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Giksoslarning hujumi natijasida Misr siyosiy hayotida qanday o'zgarish sodir bo'lgan?",
+   "options": [
+    "Fiva shahri hukumdorlari ularga o'lpon to'laydigan bo'lgan",
+    "Yangi Misr podsholigi barham topgan",
+    "Quyi Misrda ularning hukmronligi o'rnatilgan",
+    "Memfis shahriga asos solingan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nuqtalar o'rniga mos so'zlarni qo'yib, tarixiy matnni to'ldiring.\n........A...... nemis qo'shinlari......B......da jangni boy berdi va ular urushdagi dastlabki jiddiy mag'lubiyatga uchradilar. ......C...da nemis qo'shinlari Volga daryosiga va Shimoliy Kavkazga yetib keladilar.\n1) 1941-yil dekabr;\n2) 1943-yil may;\n3) Moskva;\n4) Stalingrad;\n5) 1942-yil bahor-kuz.",
+   "options": [
+    "A-1, B-4, C-5",
+    "A-5, B-3, C-2",
+    "A-1, B-3, C-5",
+    "A-2, B-4, C-1"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan Jak-Shirakning prezidentligi davri bilan bog'liq to'g'ri hukmni aniqlang.",
+   "options": [
+    "Boylar uchun qo'shimcha soliq o'rnatish tashabbusi bilan chiqdi va bunga erishdi",
+    "Hukumat davlat byudjeti kamomadini kamaytirish, bandlikni ta'minlash rejasini e'lon qildi",
+    "Jamiyatning boylar va qashshoqlarga bo'linishini qo'llab-quvvatlash orqali o'z mavqeini oshirishga intildi",
+    "La-Mansh bo'g'ozi ostidan o'tgan temiryo'l tonneli qurilishi boshlandi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qat'iy islohotlar tarafdori sifatida juda tez tanilgan hamda jamiyatga o'zining yangi erkinlik deb atalgan siyosiy dasturini taklif qilgan AQSh prezidentini aniqlang.",
+   "options": [
+    "Teodor Ruzvelt",
+    "Franklin Ruzvelt",
+    "Vudro Vilson",
+    "Duayt Eyzenxauer"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "To'g'ri moslashtirilgan javobni aniqlang.\n1. Davlat hukmdorlari tavg'achxon, arslonxon, bug'roxon kabi faxriy unvonlar bilan ulug'langan.\n2. Mamlakat boshqaruv tizimi dargoh va devondan iborat edi.\n3. Dandanaqonda bo'lib o'tgan jangda dushmanga qarshi kurash olib bordi.\n4. Bag'dod hukmdori mazkur davlat hukmdoriga “Malik al-Mashriq” degan nom beradi.\n5. Davlat hukmdori Sulton Sanjarga hurmatsizlik qilgani uchun, Sulton bilan munosabatlariga darz ketadi.\n6. Buxoroda Minorai Kalon qad rostlanishiga sababchi bo'lgan sulola hisoblanadi.\n7. Bag'dod xalifasi mamlakat hukmdoriga “Yamin ud-davla va amin ul-milla” degan faxriy unvon, yorliq, bayroq va nog'ora yuboradi.\nA. G'aznaviylar | → | C. | ← | B. Qoraxoniylar",
+   "options": [
+    "A-2, 6 B-1, 4 C-3",
+    "A-3, 7 B-1, 6 C-2",
+    "A-4, 5 B-3, 7 C-2",
+    "A-2, 5 B-4, 7 C-3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilganlardan qaysi biri bronza davriga oid manzilgoh?",
+   "options": [
+    "Zarautsoy",
+    "Ko'lbuloq",
+    "Obishir",
+    "Sopollitepa"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Umarxon Qo'qon xonligi taxtini egallagach, boshqaruv tizimida qanday o'zgarishlarni amalga oshirdi?",
+   "options": [
+    "Toshkent hokimini beklarbegi unvonidan mahrum qildi",
+    "Devonbegi mansabidagi shaxsga lashkarboshchilik vakolati berildi",
+    "Bosh vazir lavozimi qushbegidan mingboshiga o'zgartirildi",
+    "“hukumat devonxonasi”ni tashkil etib, unga shig'ovul rahbar etib tayinlandi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Angliya tarixida Vilgelm I ning o'g'li bilan bog'liq sodir bo'lgan voqealarni toping.\n1. Qirollik sudi kuchaydi.\n2. “Anglosakson solnomasi” tuzilishi boshlandi.\n3. Dengiz kemalaridan harbiy flot tuzilib, qo'shin isloh qilindi.\n4. Qirollik moliya boshqarmasi tashkil etildi.\n5. Angliyada birinchi marta alohida doimiy soliq olish joriy qilindi.",
+   "options": [
+    "4, 5",
+    "2, 3",
+    "1, 3",
+    "1, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1812-1852-yillar oralig'ida Qo'ng'irot xonlari va Eron o'rtasidagi elchilik aloqalarida asosan qaysi masalalarga e'tibor qaratilgan?\n1. Asirlarni ozod qilish.\n2. Qimmatbaho toshlar bilan erkin savdo qilish.\n3. Qul savdosini to'xtatish.\n4. Nasiyaga olingan mollardan 3 foiz boj undirish.",
+   "options": [
+    "2, 4",
+    "1, 3",
+    "2, 3",
+    "1, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida keltirilgan Angliya qirollarini ma'lumotlar bilan moslashtiring.\n1. Buyuk Alfred | a) o'g'il farzandi bo'lmaganligi sababli uning vafotidan so'ng taxt uchun kurash avj oldi;\n2. Genrix I | b) Sitsiliya malikasi Konstansiyaga uylanish orqali janubiy Italiya yerlari ham qirollik tarkibiga kirdi;\n3. Vilgelm I | c) “daniyaliklar puli” deb atalgan doimiy soliq joriy qilindi;\nd) eng yaxshi yerlar va o'rmonlarni qirol qo'riqxonalari deb e'lon qildi.",
+   "options": [
+    "1-b; 2-c; 3-a",
+    "1-c; 2-a; 3-d",
+    "1-c; 2-b; 3-d",
+    "1-d; 2-b; 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi ma'lumotlar qaysi qo'zg'olon haqida ekanligini aniqlang. Rossiya sanoati tomonidan ishlab chiqarilgan uy-ro'zg'or buyumlari, ayniqsa, to'qimachilik mahsulotlari bilan O'rta Osiyo bozorlarining to'ldirilishi natijasida hunarmandchilikning ko'plab turlari inqirozga uchradi. Bu vaqtga kelib iqtisodiy qiyinchiliklar, yashash sharoitining yomonligi, soliqlarning ko'pligi, mehnat majburiyatlarining og'irligidan mahalliy aholining ahvoli yomonlashib ketdi. Natijada, XIX asr oxirida mustamlakachilikka qarshi o'lkaning turli joylarida norozilik chiqishlari bo'lib turdi. Jumladan, Mingtepada (hozirgi Andijon viloyati, Marhamat tumani) mustamlakachilarning siyosiy va iqtisodiy zulmiga qarshi qo'zg'olon ko'tarildi. Uni mustamlakachi hukumat kuch bilan bostirdi.",
+   "options": [
+    "1892-yilgi “Toshotar voqeasi” qo'zg'oloni",
+    "1875-yilgi Po'latxon boshchiligidagi qo'zg'olon",
+    "1878-yilgi Yetimxon boshchiligidagi qo'zg'olon",
+    "1896-yilgi Namangan qo'zg'oloni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvalda harflar ostiga yashiringan to'g'ri javobni toping.\n1. Xalifani dunyoviy vazifalaridan chetlatdi\n2. VI asr\n3. Bolgariya\n4. Mo'g'ullar hujumi natijasida davlat bir nechta viloyatlarga parchalanib ketdi\n5. VII asr\n6. Songai\nAsr | Davlat | Voqea\n____A____ | Hindiston | Xarsha imperiyasi tashkil topdi\nXI asr o'rtalari | Saljuqiylar | ____B____\nXI asr boshlari | ____C____ | Vizantiya istilosiga duchor bo'ldi",
+   "options": [
+    "A-2, B-4, C-6",
+    "A-5, B-1, C-3",
+    "A-2, B-1, C-6",
+    "A-5, B-4, C-3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvalda harflar ostiga yashiringan to'g'ri javobni toping.\n1. Hindularning birinchi bo'lib mustamlakachilarga qarshi qo'zg'oloni yuz bergan va unga Atuey rahbarlik qilgan\n2. XVI asr\n3. Sudan\n4. O'zini-o'zi ajratib qo'yish siyosati joriy etilib, 200 yildan ortiq vaqt davom etgan\n5. Prussiya\n6. XVIII asr\nDavr | Davlat | Voqea\nXVII asr | Yaponiya | ____A____\n____B____ | Angliya | Absolyutizm shakllangan\nXVIII asr | ____C____ | Eng katta yutuqqa erishgan mamlakat bo'lib, asr boshida qirollik deb e'lon qilingan",
+   "options": [
+    "A-1, B-6, C-5",
+    "A-1, B-6, C-3",
+    "A-4, B-2, C-3",
+    "A-4, B-2, C-5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi “to'g'ri” yoki “noto'g'ri” ekanligini aniqlang.\n№ | Voqea | Natija\n1. | Tunis Ispaniya va Usmonlilar imperiyasining asosiy manfaatlari to'qnashgan joyga aylandi | 1574-yilda Tunis ispanlar tomonidan zabt etilib, usmoniylar siyosiy tartibiga chek qo'yildi\n2. | Eronda Amir Nizomning islohotlari muvaffaqiyatsizlikka uchradi | Feodal tartiblarning saqlanishiga olib keldi va mamlakatning chet elliklar tomonidan bo'ysundirilish jarayonini yengillashtirdi\n3. | Yevropadagi “Yetti yillik urush” Fransiya uchun muvaffaqiyatsiz yakunlandi | Buyuk Britaniya Shimoliy Amerika va Hindistondagi asosiy mustamlakalaridan ayrildi\n4. | Rossiya Shvetsiya bilan bo'lgan Shimoliy urush (1700-1721)da g'alaba qozondi | Biroq bu g'alaba Rossiyaga Boltiq dengiziga chiqish huquqini bermadi",
+   "options": [
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-noto'g'ri, 4-noto'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-noto'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temurning harbiy yurishlari haqidagi ma'lumotlar to'g'ri moslashtirilgan javobni toping. 1. Mo'g'ulistonga yurishi 2. Eronga yurishi\na) besh yillik yurish natijasida Muzaffariylar sulolasiga barham berildi;\nb) Amir Temurning mazkur urushi yigirma yilga yaqin davom etgan;\nc) jangda 16 yashar shahzoda Xalil Sulton qahramonlik ko'rsatib, fillardan bir filni haydovchisini nest-u nobud qilib, oldiga solib, haydab, Sohibqiron qoshiga keltirdi;\nd) jangda Shoh Mansur halok bo'ladi;\ne) mazkur davlat qo'shini Amir Temurdan mag'lubiyatga uchragach, Irtish daryosi orqa tomoniga chekinishga majbur bo'ldi.",
+   "options": [
+    "1-b, d; 2-a, e",
+    "1-a, b; 2-d, e",
+    "1-a, d; 2-c, e",
+    "1-b, e; 2-a, d"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilardan qaysi biri O'zbekiston Respublikasi Prezidenti Shavkat Mirziyoyev boshqaruvi davriga oid?",
+   "options": [
+    "BMT tomonidan 21-mart Xalqaro Navro'z kuni deb e'lon qilindi",
+    "Iqtidorli yoshlarning chet ellarda o'qishini qo'llab-quvvatlash bo'yicha “Umid” jamg'armasi tashkil etildi",
+    "Davlat rahbari tashabbusi bilan Yoshlar ittifoqi tashkil etilib, 30-iyun Yoshlar kuni deb e'lon qilindi",
+    "Toshkentda Italiya bilan hamkorlikda Turin politexnika universitetining filiali ochildi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mang'it hukmdori Muhammad Rahimning hokimiyat tepasiga kelishi qanday ahamiyat kasb etdi?",
+   "options": [
+    "Davlat chegaralarini mustahkamlab, Hisor va Shahrisabz bekliklarini o'z davlatiga qo'shib oldi",
+    "Eron bosqiniga qarshi kurashib, mamlakatni ularning talon-tarojidan saqlab qolishga erisholmadi",
+    "Zarafshon vohasidagi egallanmagan ko'plab yerlarni tekinga tarqatib berdi",
+    "Qo'qon xonligini o'ziga bo'ysundirib, mamlakatda birlashgan davlat tuzdi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi to'g'ri yoki noto'g'riligini aniqlang.\n№ | Voqea | Natija\n1. | Fanokat taslim bo'lgach, Aloq no'yon boshchiligidagi mo'g'ul qo'shinlari Xo'jand shahriga qarab yurdi | Mo'g'ullar kutilmaganda Temur Malikning qattiq qarshiligiga uchradi\n2. | Chig'atoy ulusi xoni Olg'uxon vafot etdi | Xuloku boy hudud sanalgan Movarounnahr hududlari ustidan siyosiy nazorat o'rnatishga harakat qildi\n3. | Ilyosxo'ja sarbadorlardan mag'lubiyatga uchrab Samarqandni tark etdi | Samarqandda ham diniy, ham siyosiy hokimiyat Mavlonzoda qo'lida mujassamashdi\n4 | 1370-yili Amir Temur Termiz yaqinida joylashgan Biyo degan joyda qarorgoh qurib, jangga tayyorgarlik ko'rdi. | Shu yerda uning oldiga Sayyid Baraka tashrif buyurib, Temurga saltanat ramzlarini topshirdi va uning buyuk kelajagi haqida bashorat qildi.",
+   "options": [
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-noto'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-noto'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-noto'g'ri"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, unga mos to'g'ri javobni aniqlang.\n– Tomonlar hududiy va boyliklarni egallab olishga intilmaslik;\n– Xalqlarning o'z boshqaruv shaklini erkin tanlash huquqini hurmat qilish;\n– Zo'ravonlik yo'li bilan suverenitetidan mahrum qilingan xalqlarning o'z huquqlarini tiklashga intilishlarini qo'llab-quvvatlash.",
+   "options": [
+    "Urush payti va undan keyingi hamkorlik tamoyillari to'g'risidagi AQSh va Buyuk Britaniya o'rtasida imzolangan Atlantik xartiya haqida",
+    "SSSR va Sharqiy Yevropaning ko'pchilik davlatlari iqtisodiy ittifoqi – O'zaro Iqtisodiy Yordam Kengashi haqida",
+    "Afrika xalqlarining siyosiy faollashuviga katta rol o'ynagan birinchi Panafrika konferensiyasi haqida",
+    "Afrikani mustamlakaga aylantirish davridagi muhim voqea bo'lgan Berlin konferensiyasi haqida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qirol Taejong (van Txejon) davrida amaldorlar vaqti-vaqti bilan bir hududdan boshqasiga o'tkazib turilgan. Bundan qanday maqsad ko'zlangan edi?",
+   "options": [
+    "“Poyloqchilik manzillari” ustidan nazoratni kuchaytirish",
+    "Poraxo'rlik va ayirmachilikning oldini olish",
+    "Aholini ro'yxatga olish tizimini joriy qilish",
+    "Shu yo'l bilan Koreyani Xitoy vassalligidan ozod qilish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xronologik ketma-ketlik nomuvofiq berilgan javobni aniqlang.",
+   "options": [
+    "Navuxodonosorning Yangi Bobil podshosi bo'lishi → Kir II tomonidan Midiya egallanishi → Makedoniyalik Aleksandrning sharqqa yurish boshlashi",
+    "“Osmon ostidagi podsholik”ning barham topishi → Shan davlatining tashkil topishi → “ko'p podsholiklar davri”",
+    "Rim imperiyasining kuch qudrati zaiflasha boshlashi → Vizantiy shahri Rim imperiyasining poytaxti deb e'lon qilinishi → gotlarning Rimga hujumi",
+    "Isroil podsholigining vujudga kelishi → Urartu davlatining gullab-yashnashi → Ossuriyaning zavolga yuz tutishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilgan voqealarni natijalari bilan to'g'ri moslashtiring:\n№ | Voqea | Natija\n1. | Mustaqillikning dastlabki yillarida ayollarning ilmiy faoliyatini qo'llab-quvvatlash maqsadida “Olima” uyushmasi tashkil qilindi | a) 11-fevral – Xalqaro ilm-fan sohasidagi xotin-qizlar kuni deb e'lon qilindi\n2. | BMT Bosh Assambleyasi tomonidan 2015-yil 22-dekabrda “Taraqqiyot maqsadlaridagi fan, texnika va innovatsiyalar to'g'risida”gi rezolutsiyasi qabul qilindi | b) 100 ga yaqin OTM va fanlar akademiyasi institutlaridagi olima ayollarni birlashtirdi\n3. | Innovatsion rivojlanish vazirligi Innovatsion rivojlanish agentligiga aylantirildi | c) 1999–2020-yillarda 322 nafar yosh xotin-qiz taqdirlandi\n4 | “Zulfiya” nomidagi davlat mukofoti ta'sis etildi | d) “Bo'lajak olim”, “Olima ayollar”, “Akademik harakatchanlik” kabi tanlovlar joriy qilindi",
+   "options": [
+    "1-c; 2-b; 3-d; 4-a",
+    "1-d; 2-a; 3-c; 4-b",
+    "1-a; 2-d; 3-b; 4-c",
+    "1-b; 2-a; 3-d; 4-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XI asrning dastlabki choragida Xorazm qo'shinlarining Hazorasp yaqinida mag'lubiyatga uchrashi ushbu diyor uchun qanday oqibatga olib keldi?",
+   "options": [
+    "Xorazm noibi Malikshohning xalifa bilan munosabatlariga darz ketdi",
+    "Xorazmda ma'lum muddat ilm-fan rivoji to'xtab qoldi",
+    "Otsizning birlashtirish siyosatiga putur yetdi",
+    "Oltuntosh noibligi barham topdi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ma'lumotlar xronologik to'g'ri joylashgan javobni aniqlang.\n1. O'zbekiston Respublikasi Shanxay Hamkorlik Tashkilotiga a'zo bo'ldi.\n2. Muhammad Rizo Erniyozbek o'g'li Ogahiy tavalludining 190 yilligi keng nishonlandi.\n3. YuNESKO tomonidan Parijda “Bag'rikenglik tamoyillari deklaratsiyasi” qabul qilindi.\n4. Abdulla Avloniy “Buyuk xizmatlari uchun” ordeni bilan mukofotlandi.",
+   "options": [
+    "4, 3, 2, 1",
+    "3, 2, 1, 4",
+    "2, 1, 4, 3",
+    "3, 2, 4, 1"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Muhammadjon Tinishboyevning Semipalatinskka ko'chib ketishi quyidagilardan qaysi biri bilan bog'liq?",
+   "options": [
+    "“Alash-O'rda” hukumati ishini yo'lga qo'yish",
+    "RSFSRda Turkiston vakolatxonasini ochishga ruxsat olish",
+    "Milliy-hududiy chegaralanish siyosatidan noroziligi",
+    "Turkistonga g'alla keltirish masalasini hal qilish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida berilgan tarixiy voqealar to'g'ri xronologik ketma-ketlikda joylashtirilgan javob variantini aniqlang.\n1. Livon urushi davrida Rech Pospolita (Pospolitaya) davlati tashkil topdi.\n2. Gollandiya va Zelandiya dengizchilari Bril shahrini egalladi.\n3. Xitoy va Koreyaning birlashgan qo'shini Pxenyanni ozod qildi.\n4. Londonda dastlabki birja faoliyat yurita boshladi.",
+   "options": [
+    "2, 1, 3, 4",
+    "1, 2, 4, 3",
+    "3, 4, 2, 1",
+    "1, 2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, uning natijasi to'g'ri yoki noto'g'riligini aniqlang.\n№ | Voqea | Natija\n1. | XIV asrning 60-yillarida sulton Murod I Adrianopol shahrini egalladi | Mazkur shaharga Bursa deb nom berilib, Usmonlilar davlati poytaxtiga aylantirildi\n2. | 1380-yilda Venetsiya respublikasi tomonidan Genuya floti mag'lub etildi | Genuyaning O'rta dengiz sharqiy qismidagi siyosiy va iqtisodiy hukmronligi barham topdi\n3. | Granada amirligi ispanlar tomonidan qayta bosib olindi | Pireney yarimorolida rekonkista jarayoni yakunlandi\n4. | 1259-yilda Fransiya va Angliya o'rtasida Parij tinchlik shartnomasi imzolandi | Angliya qiroli shimoliy va shimoli-g'arbiy hududlaridan voz kechib, o'z qo'lida (vassallik huquqi bilan) Akvitaniyani saqlab qolishga muvaffaq bo'ldi",
+   "options": [
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "To'g'ri moslashtirilgan javobni toping.\n1. Ko'kxon | a) Amid yo'li yaqinida 25 chog'li mo'g'ul navkarlariga qaqshatqich zarba beradi; b) Sulton Jaloliddin halok bo'lgach, so'fiylar kiyimida Shom (Suriya)ga yo'l oladi;\n2. Malik Ingu | c) mo'g'ullarga 3 kun davomida qarshilik ko'rsatishni uddalay olgan Fanokat hokimi hisoblanadi; d) Buxoro mudofaasida bir hamla bilan bir necha dushmanni o'ldirib, hujum qilgan mo'g'ullarni orqaga chekinishga majbur etadi;\n3. Baroq (hojib) | e) G'iyosiddin Pirshohni qatl ettirgan Kirmon viloyati hokimi (noibi) hisoblanadi.",
+   "options": [
+    "1-d, 2-c, 3-e",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-e, 3-a",
+    "1-a, 2-d, 3-b"
+   ],
+   "answer": 0
+  }
+ ]
+}

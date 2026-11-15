@@ -1,0 +1,507 @@
+{
+ "title": "Attestatsiya tarix 14-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Yangi podsholik davrida misrliklar piramida qurishni to'xtatib, fir'avnlarni tog'larga o'yilgan tosh maqbaralarga dafn eta boshladi. Ulardan eng mashhuri qaysi fir'avnga tegishli bo'lgan?",
+   "options": [
+    "Xeops (Xufu)",
+    "Ramzes II",
+    "Exnaton",
+    "Tutanxamon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Mesopotamiyada xom g'ishtdan qurilgan pog'onali ibodatxona minorasi qanday nomlangan?",
+   "options": [
+    "Panteon",
+    "Akropol",
+    "Piramida",
+    "Zikkurat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Finikiyaliklar yaratgan alifbo nechta harfdan (undosh tovush belgisidan) iborat bo'lgan?",
+   "options": [
+    "26 ta",
+    "22 ta",
+    "33 ta",
+    "24 ta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Rim inshootlari va ularning vazifasini moslashtiring.\n1. Kolizey\n2. Akveduk\n3. Panteon\n4. Forum\na) gladiatorlar jangi va tomoshalar o'tkaziladigan amfiteatr\nb) shaharga suv keltiradigan inshoot\nc) barcha xudolar sharafiga qurilgan ibodatxona\nd) shaharning siyosiy va savdo hayoti o'tadigan markaziy maydoni\ne) Afina ma'budasi sharafiga qurilgan ibodatxona",
+   "options": [
+    "1-a, 2-b, 3-c, 4-e",
+    "1-a, 2-c, 3-b, 4-d",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-b, 2-a, 3-c, 4-d"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abu Rayhon Beruniy ma'lumotiga ko'ra Xorazmda Afrig'iylar sulolasi qaysi yili hokimiyatga kelgan?",
+   "options": [
+    "225-yil",
+    "995-yil",
+    "712-yil",
+    "305-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hindistonda Budda taxallusini olgan shahzoda Siddxartha Gautama asos solgan buddaviylik dini qachon yaratilgan?",
+   "options": [
+    "mil. avv. VI asrda",
+    "mil. avv. III asrda",
+    "milodiy I asrda",
+    "mil. avv. II mingyillikda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston hududidagi qadimgi va ilk o'rta asr voqealarini xronologik ketma-ketlikda joylashtiring. 1) Eftaliylar davlatining tashkil topishi; 2) Ahamoniylar istilosi; 3) Turk xoqonligining tashkil topishi; 4) Yunon-Baqtriya podsholigining tashkil topishi; 5) Kushon podsholigining tashkil topishi; 6) Aleksandr Makedonskiyning O'rta Osiyoga yurishi.",
+   "options": [
+    "2, 4, 6, 5, 1, 3",
+    "6, 2, 4, 5, 1, 3",
+    "2, 6, 4, 5, 1, 3",
+    "2, 6, 5, 4, 1, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Arab lashkarboshisi Qutayba ibn Muslim arab xalifasi tomonidan qaysi yili Xurosonga noib etib yuborilgan?",
+   "options": [
+    "712-yil",
+    "704-yil",
+    "651-yil",
+    "751-yil | 1"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ismoil Somoniy Movarounnahrni birlashtirgach, shimoli-sharqiy hududlarga yurish qilib, qaysi shaharni zabt etgan va dashtliklarga qaqshatqich zarba bergan?",
+   "options": [
+    "Shosh",
+    "O'tror",
+    "Taroz",
+    "Isfijob"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler–Venn diagrammasiga mos keladigan javobni aniqlang.\na) Ismoil Somoniy maqbarasi joylashgan;\nb) Minorai Kalon joylashgan;\nc) Registon maydoni joylashgan;\nd) Amir Temur maqbarasi (Go'ri Amir) joylashgan;\ne) Ulug'bek rasadxonasi qoldiqlari joylashgan;\nf) Buyuk Ipak yo'lidagi yirik savdo markazi bo'lgan;\ng) VIII asr boshlarida arablar tomonidan istilo qilingan.",
+   "options": [
+    "I – a, b; II – c, d; III – e, f, g",
+    "I – a; II – b, c, d, e; III – f, g",
+    "I – a, b, e; II – c, d; III – f, g",
+    "I – a, b; II – c, d, e; III – f, g"
+   ],
+   "answer": 3,
+   "image": "img/a1252948c1c30.jpg"
+  },
+  {
+   "q": "Mo'g'ullar istilosiga oid TO'G'RI ma'lumotlar soni nechta? 1) Temuchin 1206-yilgi qurultoyda Chingizxon deb e'lon qilingan; 2) Chingizxon o'z farmoyishlaridan iborat «Yasoq» deb atalgan qonunlar kitobini tuzgan; 3) mo'g'ullar 1220-yilda Buxoroni egallagan; 4) Movarounnahr Chig'atoy ulusi tarkibiga kiritilgan; 5) Chingizxon Samarqandda vafot etgan; 6) mo'g'ullar 1221-yilda Urganchni egallagan.",
+   "options": [
+    "5 ta",
+    "6 ta",
+    "3 ta",
+    "4 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mo'g'ullar davrida Buxoroda «Mas'udiya» madrasasini qurdirgan Movarounnahr noibi kim?",
+   "options": [
+    "Kebekxon",
+    "Qozonxon",
+    "Mahmud Yalavoch",
+    "Mas'udbek"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Amir Temur saltanatida markaziy boshqaruv organlari vazifasini bajargan devonxonada devonbegiga nechta vazir bo'ysungan?",
+   "options": [
+    "O'n ikkita",
+    "Yettita",
+    "To'rtta",
+    "Beshta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mirzo Ulug'bek qaysi yili fojiali tarzda o'ldirilgan?",
+   "options": [
+    "1449-yil",
+    "1451-yil",
+    "1469-yil",
+    "1447-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bir necha janglarda mag'lub bo'lib, Sind orqali Eronga ketishga majbur bo'lgan, natijada 1540– 1555-yillarda hokimiyat Sur urug'idan bo'lgan afg'on feodallari qo'liga o'tgan boburiy hukmdor kim?",
+   "options": [
+    "Akbar",
+    "Jahongir",
+    "Komron Mirzo",
+    "Humoyun | 2"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Muhammad Shayboniyxon Samarqandni birinchi marta qaysi yili egallagan?",
+   "options": [
+    "1505-yil",
+    "1500-yil",
+    "1510-yil",
+    "1501-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buxoro amirligi qaysi yili imzolangan shartnomaga ko'ra Rossiya protektoratiga aylangan?",
+   "options": [
+    "1865-yil",
+    "1876-yil",
+    "1873-yil",
+    "1868-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'qon xonligi tugatilib, uning hududida Farg'ona viloyati tuzilgan yilni aniqlang.",
+   "options": [
+    "1886-yil",
+    "1876-yil",
+    "1873-yil",
+    "1868-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xivadagi qurilishi tugallanmay qolgan Kalta minor qaysi xon nomi bilan bog'liq?",
+   "options": [
+    "Muhammad Aminxon",
+    "Muhammad Rahimxon II",
+    "Asfandiyorxon",
+    "Allaqulixon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nuqtalar o'rnida tushirib qoldirilgan ma'lumotlarni aniqlang. 1867-yilda tuzilgan Turkiston general-gubernatorligi dastlab 1............... va 2............... viloyatlaridan iborat bo'lgan. Uning ma'muriy markazi 3............... shahri edi.",
+   "options": [
+    "1 – Sirdaryo; 2 – Yettisuv; 3 – Toshkent",
+    "1 – Sirdaryo; 2 – Yettisuv; 3 – Verniy",
+    "1 – Zarafshon; 2 – Yettisuv; 3 – Samarqand",
+    "1 – Sirdaryo; 2 – Farg'ona; 3 – Toshkent"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbek adabiyotidagi birinchi roman — «O'tkan kunlar»ning muallifi kim?",
+   "options": [
+    "Oybek",
+    "Abdulla Qodiriy",
+    "Abdulhamid Cho'lpon",
+    "Abdurauf Fitrat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1916-yilda front ortidagi ishlarga mardikorlikka olishda Farg'ona viloyatida qanday tartib belgilangan?",
+   "options": [
+    "Har beshta xonadondan bir kishi",
+    "Har ikkita xonadondan bir kishi",
+    "Har o'nta xonadondan bir kishi",
+    "Har bir xonadondan ikki kishi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston mustaqilligining e'lon qilinishiga oid hukmlarni tahlil qilib, to'g'ri va noto'g'ri hukmlar uyg'unligini aniqlang. 1) 1991-yil 31-avgustda Oliy Kengashning navbatdan tashqari XII chaqiriq VI sessiyasi ish boshlagan; 2) «O'zbekiston Respublikasining davlat mustaqilligi asoslari to'g'risida»gi qonun 17 moddadan iborat bo'lgan; 3) bu qonun «muvaqqat kichik konstitutsiya» deb ta'riflanadi; 4) Konstitutsiyani tayyorlash bo'yicha komissiya 1990-yil 20-iyunda 32 a'zodan iborat tarzda tuzilgan.",
+   "options": [
+    "1 – noto'g'ri, 2 – to'g'ri, 3 – to'g'ri, 4 – to'g'ri",
+    "1 – to'g'ri, 2 – to'g'ri, 3 – noto'g'ri, 4 – noto'g'ri",
+    "1 – to'g'ri, 2 – noto'g'ri, 3 – to'g'ri, 4 – noto'g'ri",
+    "1 – to'g'ri, 2 – to'g'ri, 3 – to'g'ri, 4 – noto'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'zbekistonda so'm-kupon muomalaga kiritilgan sanani aniqlang.",
+   "options": [
+    "1993-yil 1-noyabr",
+    "1994-yil 1-iyul",
+    "1992-yil 2-mart",
+    "1991-yil 31-avgust"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shimoliy Galliyada barpo etilgan Franklar davlatining asoschisi — Meroveylar urug'idan chiqqan Sali franklari yo'lboshchisi kim bo'lgan?",
+   "options": [
+    "Karl Martell",
+    "Pipin Qisqa",
+    "Xlodvig",
+    "Buyuk Karl | 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Reformatsiyaga qarshi kurashish uchun 1540-yili Rim papasi ta'sis etgan «Iso jamiyati» (iyezuitlar ordeni)ning asoschisi kim bo'lgan?",
+   "options": [
+    "Martin Lyuter",
+    "Tomas Myunster",
+    "Ignatiy Loyola",
+    "Jan Kalvin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1846-yilgi hosilsizlik, ommaviy ishsizlik va ish haqining kamayishi Fransiyada qaysi yilgi inqilobga olib kelgan?",
+   "options": [
+    "1871-yil",
+    "1830-yil",
+    "1905-yil",
+    "1848-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1871-yili 72 kun faoliyat yuritgan, Fransiya tarixida alohida o'rin tutgan inqilobiy hokimiyat qanday nomlangan?",
+   "options": [
+    "Parij kommunasi",
+    "Milliy Konvent",
+    "Vishi hukumati",
+    "Direktoriya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1904–1905-yillardagi rus-yapon urushidan keyin Yaponiya Koreya ustidan hukmronligini o'rnatdi. Koreya qaysi yildan rasman Yaponiyaning mustamlakasiga aylangan?",
+   "options": [
+    "1895-yil",
+    "1931-yil",
+    "1910-yil",
+    "1905-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ikkinchi jahon urushida antigitler koalitsiyasining asosiy davlatlarini aniqlang.\n1. SSSR;\n2. AQSH;\n3. Buyuk Britaniya;\n4. Italiya;\n5. Yaponiya.",
+   "options": [
+    "2, 3, 5",
+    "1, 2, 4",
+    "1, 4, 5",
+    "1, 2, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1936–1939-yillardagi fuqarolar urushidan so'ng Ispaniyada hokimiyatni egallagan general kim?",
+   "options": [
+    "Migel Primo de Rivera",
+    "Antoniu Salazar",
+    "Fransisko Franko",
+    "Benito Mussolini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fashist harbiy jinoyatchilari ustidan Xalqaro harbiy tribunal (1945–1946) qaysi shaharda bo'lib o'tgan?",
+   "options": [
+    "Potsdam",
+    "Nyurnberg",
+    "Berlin",
+    "Gaaga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Germaniya Federativ Respublikasi va Germaniya Demokratik Respublikasi qaysi yili tashkil topgan?",
+   "options": [
+    "1955-yil",
+    "1961-yil",
+    "1949-yil",
+    "1945-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nuqtalar o'rnida tushirib qoldirilgan ma'lumotlarni aniqlang. Hindistonda 1885-yilda 1............... partiyasi tuzildi. Mustaqillik uchun «zo'ravonliksiz kurash» g'oyasini 2............... ilgari surdi. 1947-yilda Britaniya Hindistoni Hindiston Ittifoqi va 3............... davlatlariga bo'lindi.",
+   "options": [
+    "1 – Hindiston Milliy Kongressi; 2 – J. Neru; 3 – Pokiston",
+    "1 – Hindiston Milliy Kongressi; 2 – M. Gandi; 3 – Pokiston",
+    "1 – Hindiston Milliy Kongressi; 2 – M. Gandi; 3 – Bangladesh",
+    "1 – Musulmonlar ligasi; 2 – M. Gandi; 3 – Pokiston | 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xitoyda aholining tez keksayib borishi va yoshlar sonining kamayishiga uzoq yillar olib borilgan qaysi siyosat sabab bo'lgan?",
+   "options": [
+    "«Bitta oila — bitta farzand» siyosati",
+    "«Bir mamlakat — ikki tizim» siyosati",
+    "«Islohotlar va ochiqlik» siyosati",
+    "«Katta sakrash» siyosati"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mehnat vazifalari va ularga tegishli mehnat harakatlarini moslashtiring.\n1. O'zlashtirishni baholash va qayta aloqani taqdim etish\n2. Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik\na) Dars rejasi va usullarini moslashtirishda tahlil natijalaridan foydalanish\nb) O'quvchilarning ota-onalarini (ularning o'rnini bosuvchi shaxslarni) sinf va maktab hayotiga jalb qilish\nc) Darsda vaqtdan oqilona foydalanish",
+   "options": [
+    "1-a, 2-b",
+    "1-b, 2-a",
+    "1-c, 2-b",
+    "1-a, 2-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi 45 daqiqalik darsni bosqichlarga taqsimladi: takrorlashga 5, yangi mavzuga 20, mustahkamlashga 15, baholash va uyga vazifaga 5 daqiqa ajratib, taymer yordamida rejadagi barcha ishlarni o'z vaqtida bajardi. O'qituvchi «Ta'lim samaradorligini ta'minlash» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "Dars maqsadlari asosida o'quvchilar uchun erishimli vazifalarni belgilash",
+    "Darsda vaqtdan oqilona foydalanish",
+    "O'quvchilarning jamoaviy va loyihaviy ishlarini tashkil etish",
+    "Dars mavzusiga mos keladigan namoyish va tarqatma materiallardan foydalanish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "«Jadidchilik harakati» mavzusini o'tishda o'qituvchi mavzu mazmunidan kelib chiqib «Klaster» va «Insert» metodlarini tanladi, o'quvchilarni faol ishga jalb qildi. O'qituvchi «Ta'lim samaradorligini ta'minlash» mehnat vazifasining qaysi zarur ko'nikmasini namoyon etgan?",
+   "options": [
+    "O'quv dasturining mazmuni mos keladigan samarali usullarini tanlash, interfaol metodlarni qo'llash",
+    "Pedagogik va psixologik bilimlardan foydalanib, pedagogik vaziyat va hodisalarni kuzatib borish, ularni tahlil qilish",
+    "Ta'lim jarayoni samaradorligini ta'minlashda axborot-kommunikatsiya texnologiyalaridan foydalanish",
+    "O'quvchilarning ijodkorlikka, muammolarni mustaqil, shuningdek jamoaviy hal qilish va tanqidiy fikrlashiga e'tibor bergan holda asosiy kompetensiyalari va hayotiy ko'nikmalarini rivojlantirish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'quv yilining birinchi kunida sinf rahbari o'quvchilar bilan birgalikda «Sinfimiz qoidalari»ni ishlab chiqdi; o'quvchilar qoidalarni o'zlari taklif qilib, ularga rioya qilish majburiyatini oldilar. O'qituvchi «Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "Nizoli vaziyatlarni yetarli darajada hal qilish",
+    "O'quvchilar erkin rivojlanishlari va o'zlarini namoyon eta olishlari uchun o'zaro hurmat muhitini yaratish",
+    "O'quvchilarni sinf(guruh)dagi va maktabdagi odob-axloq qoidalarini yaratish va unga rioya etishga jalb qilish",
+    "O'quvchilarga xavfsizlik qoidalarining mazmuni va ularga rioya qilish asoslarini tushunishga yordam berish | 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarix o'qituvchisi kasbiy mahoratini oshirish uchun muntazam ravishda onlayn kurslarda o'qiydi, vebinarlarda qatnashadi va elektron ta'lim platformalaridagi metodik materiallardan foydalanadi. O'qituvchi «O'z-o'zini rivojlantirish va kasbiy o'sish» mehnat vazifasining qaysi zarur ko'nikmasini namoyon etgan?",
+   "options": [
+    "O'zingizning kasbiy o'sishi, shu jumladan o'z-o'zini rivojlanish yo'lini aniqlash",
+    "Faoliyatida chet tilidan foydalanish (zaruriyat bo'lganda)",
+    "Ta'lim jarayoni samaradorligini ta'minlashda axborot-kommunikatsiya texnologiyalaridan foydalanish",
+    "Kasbiy rivojlanishida AKT muhitidan foydalanish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "«Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik» mehnat vazifasiga kiruvchi mehnat harakatlarini aniqlang: 1. O'quvchilarning ota-onalarini (ularning o'rnini bosuvchi shaxslarni) sinf va maktab hayotiga jalb qilish 2. O'quvchining individual ta'lim trayektoriyasini loyihalashtirish va to'g'rilash uchun o'qituvchilar va boshqa mutaxassislar bilan o'zaro aloqada bo'lish 3. Nizoli vaziyatlarni yetarli darajada hal qilish 4. Tegishli o'quv, namoyish va tarqatma materiallardan foydalanishni rejalashtirish",
+   "options": [
+    "1, 3",
+    "2, 4",
+    "3, 4",
+    "1, 2"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tadqiqotchi o'quvchilarning tarixiy mavzudagi insholari, chizgan rasmlari va tayyorlagan loyihalarini o'rganib, ularning tarixiy tafakkuri rivojlanish darajasini aniqladi. N. Mavlonova qo'llanmasiga ko'ra tadqiqotning qaysi metodidan foydalanilgan?",
+   "options": [
+    "Pedagogik tajriba metodi",
+    "Anketa metodi",
+    "Bolalar ijodini o'rganish metodi",
+    "Test metodi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi har bir o'quvchining fikrlash sur'ati, temperamenti va qiziqishlarini hisobga olib, ularga turli shakldagi topshiriqlar berdi va har biriga alohida yordam ko'rsatdi. O'qituvchi ta'limning qaysi tamoyiliga amal qilgan?",
+   "options": [
+    "Ilmiylik tamoyili",
+    "O'quvchilarga individual yondashish tamoyili",
+    "Mustahkamlik tamoyili",
+    "Tizimlilik va izchillik tamoyili"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Darsda o'quvchilar «Amir Temur — buyuk davlat arbobi» masalasi bo'yicha prokuror, himoyachi, guvoh va hakam rollarini ijro etib, tarixiy dalillarni muhokama qildilar. O'qituvchi noan'anaviy darsning qaysi shaklidan foydalangan?",
+   "options": [
+    "Dars-sayohat",
+    "Dars-konferensiya",
+    "Dars-sud",
+    "Dars-musobaqa"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi vaziyatlarni ta'lim metodlari bilan moslashtiring.\n1. O'qituvchi muammoli savol\na) Muammoli bayon qo'yib, uni hal qilish yo'lini va b) Ekskursiya o'z mulohazalarini\nc) Ma'ruza o'quvchilarga ochiq bayon qilib berdi.\n2. O'quvchilar o'qituvchi bilan birga o'lkashunoslik muzeyiga borib, eksponatlar bilan bevosita tanishdilar.",
+   "options": [
+    "1-a, 2-c",
+    "1-a, 2-b",
+    "1-c, 2-b",
+    "1-b, 2-a | 6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tajribali o'qituvchi yangi sinf bilan ishlay boshlaganda har bir o'quvchining qanday rivojlanishini, qaysi sifatlari shakllanishini oldindan ko'ra bildi va tarbiyaviy ishini shunga qarab rejalashtirdi. O'qituvchining qaysi qobiliyati namoyon bo'lgan?",
+   "options": [
+    "Perseptiv qobiliyat",
+    "Akademik qobiliyat",
+    "Pedagogik xayol (oldindan ko'ra bilish) qobiliyati",
+    "Tashkilotchilik qobiliyati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi tarixiy voqealarni obrazli, ta'sirchan va aniq so'zlar bilan, mantiqiy izchil bayon qiladi; uning fikrlari o'quvchilarga oson yetib boradi va ularni hayajonga soladi. O'qituvchining qaysi qobiliyati namoyon bo'lgan?",
+   "options": [
+    "Kommunikativ qobiliyat",
+    "Konstruktiv qobiliyat",
+    "Nutq qobiliyati",
+    "Tashkilotchilik qobiliyati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darsda bir o'quvchining xatti-harakati o'qituvchining jahlini chiqardi. U chuqur nafas olib, o'zini bosdi, ovozini ko'tarmadi va darsni xotirjam davom ettirdi. O'qituvchi pedagogik texnikaning qaysi tarkibiy qismini namoyon etgan?",
+   "options": [
+    "Mimika",
+    "O'z hissiy holatini boshqara olish",
+    "Diksiya",
+    "Pantomimika"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'quvchilar juft-juft bo'lib, bir-birlarining insholarini oldindan berilgan mezonlar asosida tekshirdilar va sherigiga yozma izoh qoldirdilar. Baholashning qaysi turi qo'llanilgan?",
+   "options": [
+    "O'zaro baholash",
+    "Nisbiy baholash",
+    "Mezonli baholash",
+    "O'z-o'zini baholash"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Bitta yozma ishni ikki o'qituvchi bir-biridan mustaqil ravishda tekshirib, bir xil ball qo'ydi, ya'ni natija tekshiruvchining shaxsiy fikriga bog'liq bo'lmadi. Baholashning qaysi sifat ko'rsatkichi ta'minlangan?",
+   "options": [
+    "Diagnostiklik",
+    "Validlik",
+    "Amaliylik",
+    "Obyektivlik | 7"
+   ],
+   "answer": 3
+  }
+ ]
+}

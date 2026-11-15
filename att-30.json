@@ -1,0 +1,507 @@
+{
+ "title": "Attestatsiya tarix 30-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Zardushtiylik ta'limotiga ko'ra, zardushtiylar hayotining tub ma'nosi nimadan iborat bo'lgan?",
+   "options": [
+    "Ezgu fikr, ezgu so'z va ezgu amaldan",
+    "Faqat ibodatxonalarga qurbonlik keltirishdan",
+    "Olovni o'chirmasdan saqlash va urushda g'alaba qozonishdan",
+    "Dunyo ishlaridan butunlay voz kechib, tarkidunyochilik qilishdan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarixiy manbadan olingan parchani o'qing. Parchada qaysi voqea tasvirlangan va bu ma'lumotni kim yozib qoldirgan? «... botirlarining jasoratini, ularning yurti ko'plab mustahkam qo'rg'onlarga ega ekanini yaxshi bilgan ... o'ziga qarashli elatlardan ko'p sonli jangchilar to'pladi... Podsho Oksiart qurol ko'tarishga qodir barchani jangga safarbar qildi... Dahshatli jang boshlanganda ... dushmanni chekinishga majbur qildi. Ularni ta'qib etib, tog' etagigacha quvib bordi va yuz ming nafar dushman qo'shinini qirib tashladi».",
+   "options": [
+    "Doro I ning saklarga qarshi yurishi; Behistun yozuvi",
+    "Ossuriya podshosi Ninning Baqtriyaga yurishi; qadimgi yunon tarixchisi Ktesiy",
+    "Makedoniyalik Aleksandrning Sug'diyonaga yurishi; Arrian",
+    "Kir II ning massagetlarga yurishi; Gerodot"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Moturidiya va ash'ariya ta'limotlariga oid to'g'ri ma'lumotlarni aniqlang.\n1. Moturidiyga ko'ra, inson o'z xatti-harakatlarini tanlashda ixtiyorsizdir.\n2. Abu Mansur Moturidiy aql-idrokni ulug'lab, mantiqan asoslangan bilimning ahamiyatini alohida ta'kidlagan.\n3. Ash'ariya ta'limoti mo'taziliya oqimi g'oyalarini qo'llab-quvvatlagan.\n4. Ash'ariya ta'limotiga Abul Hasan Ash'ariy asos solgan, u asosan Iroqda, so'ngra Xurosonda rivojlangan.",
+   "options": [
+    "2, 4",
+    "1, 3",
+    "1, 2",
+    "3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mahmud G'aznaviyning Hindiston va boshqa yurtlardan keltirilgan o'ljalarni ko'p hollarda obodonchilik va qurilishga sarflashi qanday natija berdi?",
+   "options": [
+    "Hindistonning barcha shaharlari G'aznaviylar tomonidan qayta qurildi",
+    "Davlat xazinasi bo'shab, qo'shin tarqalib ketdi",
+    "G'azna poytaxtlikdan mahrum bo'lib, davlat markazi Samarqandga ko'chirildi",
+    "G'aznada ilk davlat madrasasi, jome masjidi va ulkan suv to'g'oni qurilib, shahar Sharqning eng go'zal va obod shaharlaridan biriga aylandi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sulton Alovuddin Muhammad Xorazmshoh Bag'dodga yurish qilganida qo'shini Hulvon viloyatiga yetganda qanday voqea yuz berdi va u nimaga olib keldi?",
+   "options": [
+    "Uch kecha-kunduz qor yog'ib, izg'irin sovuqdan qo'shin talafot ko'rdi; sulton qo'shinni orqaga qaytarib, xalifa nomini xutbadan chiqarishni buyurdi",
+    "Xalifa Xorazmshohga taslim bo'lib, Bag'dod Xorazmshohlar poytaxtiga aylandi",
+    "Mo'g'ullar to'satdan hujum qilib, sulton asirga tushdi",
+    "Xorazmshoh Bag'dodni jangsiz egallab, o'zini xalifa deb e'lon qildi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nosiriddin Rabg'uziyning 72 qismdan iborat «Qisasi Rabg'uziy» («Qisasul anbiyo») asari kimning iltimosiga ko'ra yozilgan?",
+   "options": [
+    "Amir Temurning buyrug'i bilan 1370-yilda",
+    "Chig'atoy ulusi xoni Kebekxonning iltimosiga ko'ra 1318-yilda",
+    "Islom dinini qabul qilgan mo'g'ul beklaridan biri Nosiriddin To'qbug'aning iltimosiga ko'ra 1309-yilda",
+    "Xorazmshoh Alovuddin Muhammadning topshirig'i bilan 1210-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Faylasuf, shoir va kuragi yerga tegmagan pahlavon Pahlavon Mahmud xalq orasida qanday fazilatlari bilan hurmat qozongan?",
+   "options": [
+    "Amir Temur qo'shinida lashkarboshi bo'lib, ko'plab janglarda g'alaba qozongan",
+    "G'oliblikdan tushgan mukofotlarni yetim-yesir va nogironlarga hadya etgan, po'stindo'zlik daromadini kambag'allar bilan baham ko'rgan",
+    "Xivada birinchi madrasani qurdirib, unga barcha boyligini vaqf qilgan",
+    "Mo'g'ul xonlari saroyida bosh vazir bo'lib, soliqlarni bekor qildirgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nuqtalar o'rniga mos so'zlarni qo'yib, tarixiy matnni to'ldiring. Samarqand miniatyura maktabi ......A...... asrning birinchi yarmida tashkil topgan bo'lib, ushbu turkum miniatyuralarida ......B...... san'atiga xos bo'lgan turkiy obrazlarda ......C...... rassomchiligining ta'siri sezilib turadi.\n1) Xitoy;\n2) XIII–XIV;\n3) Eron;\n4) Sharqiy Turkiston;\n5) XIV–XV.",
+   "options": [
+    "A-5, B-3, C-1",
+    "A-5, B-4, C-3",
+    "A-5, B-4, C-1",
+    "A-2, B-4, C-1"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarixiy manbadan olingan parchani o'qing. Bu ma'lumotni kim, qaysi shahar haqida va qachon yozib qoldirgan? «Shaharda har yili Hindiston, Eron, Balx, Rossiya va boshqa ko'plab mamlakatlardan keluvchi savdogarlarning yig'ilishi bo'ladi».",
+   "options": [
+    "Rus elchisi Florio Beneveni; Xiva haqida; XVIII asrda",
+    "Venetsiyalik Marko Polo; Buxoro haqida; XIII asrda",
+    "Ispan elchisi Klavixo; Samarqand haqida; XV asr boshida",
+    "Ingliz diplomati Antoni Jenkinson; Buxoro haqida; XVI asr o'rtalarida"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qo'qon xonligida minglar orasida birinchi bo'lib xon unvonini olgan Erdonaxon hukmronligi qanday natija berdi?",
+   "options": [
+    "Xonlik poytaxti Qo'qondan Toshkentga ko'chirildi",
+    "Jung'orlar Farg'ona vodiysini to'liq bosib olib, xonlikni tugatdi",
+    "Qo'qon xonligi Buxoro amirligi tarkibiga qo'shib olindi",
+    "O'sh, O'zgand bo'ysundirilib, 1758-yilda Xo'jand va O'ratepa egallandi; xonlik Xitoy va Buxoro amirligi bilan tengma-teng kurasha oladigan davlatga aylandi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ashtarxoniylar davrida yaratilgan tarixiy asarlar va ularning mualliflarini moslashtiring.\n1. «Bahr ul-asror»\n2. «Dastur al-muluk»\n3. «Ubaydullanoma»\na) Mahmud ibn Vali\nb) Xoja Samandar Termiziy\nc) Mir Muhammad Amin Buxoriy\nd) Abdurahmon Tole",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-d"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Turor Risqulov boshchiligidagi milliy kommunistlarning «turkiy xalqlar yagona, yagona Turkistonni alohida qismlarga ajratib bo'lmaydi» degan g'oyasiga Markaz qanday munosabat bildirdi?",
+   "options": [
+    "Markaz T. Risqulovni O'zbekiston SSR rahbari etib tayinladi",
+    "Markaz g'oyani qo'llab-quvvatlab, yagona Turkiston respublikasini tuzdi",
+    "Markaz kommunistlari bu fikrni inkor etib, uni «panturkizm», «panislomizm», «burjua millatchiligi» deb baholadi",
+    "Markaz masalani hal qilishni Millatlar Ligasiga topshirdi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1925-yil martda Fayzulla Xo'jayev tashabbusi bilan «Davlat apparatini mahalliylashtirish Markaziy komissiyasi» tuzilishiga nima sabab bo'lgan?",
+   "options": [
+    "Turkiston ASSRni qayta tiklash talabi",
+    "Respublikada rus tilini bilmaydigan amaldorlarni ishdan bo'shatish zarurati",
+    "Paxta yetishtirishni ko'paytirish uchun dehqonlarni kooperativlarga birlashtirish zarurati",
+    "Davlat hokimiyati va xo'jalik boshqaruvi organlarida milliy kadrlar juda oz bo'lib, ish yuritish rus tilida olib borilgani"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | 1925-yil 13–17-fevralda Buxoroda Butunbuxoro (O'zbekiston) Sovetlarining I ta'sis qurultoyi bo'lib o'tdi | «O'zbekiston SSRni tashkil etish to'g'risida Deklaratsiya» qabul qilindi\n2. | Qurultoyda respublika oliy organlari tuzildi | «Qo'shchi» uyushmasi faoli Yo'ldosh Oxunboboyev O'zSSR Markaziy Ijroiya Qo'mitasi raisi etib saylandi\n3. | 1920–1930-yillarda xotin-qizlar yirik sanoat korxonalariga jalb qilindi | Bu ayollarning sog'lig'ini mustahkamlashga xizmat qildi\n4. | Ikkinchi jahon urushining dastlabki vaqtlaridayoq sanoatni harbiy mahsulot ishlab chiqarishga moslash choralari ko'rildi | 1941-yil dekabriga kelib respublikadagi 230 ta korxona mudofaa mahsulotlarini bera boshladi",
+   "options": [
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-noto'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mustaqillik yillaridagi madaniy tadbir va tashabbuslar hamda ularga oid ma'lumotlarni moslashtiring.\n1. «Turon» harbiy teatr studiyasi\n2. «Oltin humo» mukofoti\n3. «O'zbekiston – Vatanim manim» ko'rik-tanlovi\na) 2018-yilda ilk bor tashkil etilgan, jadidlarning Abdulla Avloniy rahbarligidagi teatr truppasi ham shunday nomlangan\nb) kinoijodkorlarni munosib rag'batlantirish uchun ta'sis etilgan\nc) 1996-yildan o'tkazila boshlangan, mustaqillikni tarannum etuvchi yuzlab qo'shiqlar yaratilishiga sabab bo'lgan\nd) yangi iste'dodlarni kashf etishga xizmat qiluvchi «Kamalak yulduzlari» bolalar festivali",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-b, 3-d"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mustaqillik yillarida madaniyat va san'at sohasida amalga oshirilgan ishlarga oid to'g'ri ma'lumotlarni aniqlang.\n1. 1997-yilda O'zbekiston Badiiy akademiyasi tashkil etildi.\n2. 2020-yilda Toshkent davlat konservatoriyasi negizida O'zbekiston davlat xoreografiya akademiyasi tashkil etildi.\n3. 2002-yilda Toshkent davlat konservatoriyasi O'zbekiston davlat konservatoriyasiga aylantirildi.\n4. Toshkent xalqaro kinofestivali 1991-yilda «Ipak yo'li durdonasi» nomi bilan ilk bor o'tkazildi.",
+   "options": [
+    "1, 3",
+    "2, 4",
+    "1, 2",
+    "3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "2019–2021-yillarda ichki ishlar tizimida amalga oshirilgan «Xavfsiz shahar» va «Xavfsiz hudud» loyihalari qanday natija berdi?",
+   "options": [
+    "Harbiy xizmatga chaqiruv bekor qilinib, armiya to'liq shartnoma asosiga o'tkazildi",
+    "Ichki ishlar vazirligi tugatilib, uning vazifalari mahalla fuqarolar yig'inlariga topshirildi",
+    "Shahar va mahallalarda videokuzatuv tizimlari, tezkor javob berish mexanizmlari joriy etilib, fuqarolarning o'zini xavfsiz his qilishiga yordam berdi",
+    "Mamlakatda Milliy xavfsizlik xizmati birinchi marta tashkil etildi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Toshkentda Adiblar xiyobonining barpo etilishi;\n2) Hamza nomidagi o'zbek davlat akademik drama teatriga «Milliy teatr» maqomining berilishi;\n3) Toshkentda «Turkiston» san'at saroyining ish boshlashi;\n4) Farg'ona viloyati teatr-konsert saroyining ochilishi;\n5) «O'zbekiston – Vatanim manim» ko'rik-tanlovining o'tkazila boshlanishi.",
+   "options": [
+    "3, 5, 4, 2, 1",
+    "3, 5, 2, 4, 1",
+    "5, 3, 2, 4, 1",
+    "3, 2, 5, 4, 1"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Yunoniston madaniyati namoyandalari va ularga oid ma'lumotlarni moslashtiring.\n1. Sofokl\n2. Aristofan\n3. Gomer\na) «Shoh Edip» va «Antigona» singari eng mashhur tragediyalarni yozgan dramaturg\nb) inson nuqsonlari ustidan kuluvchi komediyalarning eng mashhur muallifi\nc) «Iliada» va «Odisseya» dostonlari muallifi\nd) hamma narsa ko'zga ko'rinmaydigan mayda zarralar – atomlardan tashkil topgan, degan fikrni bayon etgan faylasuf",
+   "options": [
+    "1-a, 2-b, 3-d",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mil. avv. VIII–VI asrlarda «Buyuk Yunon koloniyalashtirishi» davrida ko'plab yunonlarning o'z vatanini tark etib, begona yurtlarga ko'chishiga asosiy sabab nima edi?",
+   "options": [
+    "Rim respublikasining yunonlarni qullikka sotishi",
+    "Zodagonlardan qarzdor bo'lib qolgan, o'z yer va mulkiga ega bo'lmagan odamlarning begona yurtlarda omadini sinashga majbur bo'lgani",
+    "Yunonistonda dengiz savdosining taqiqlangani",
+    "Fors podsholarining Yunonistonni bosib olib, aholini ko'chirgani"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistondagi mashhur Ajanta buddaviylik ibodatxonasiga oid to'g'ri ma'lumotni aniqlang.",
+   "options": [
+    "U to'qqiz asr davomida qurilgan, qoyalarga o'yib ishlangan 29 ta xonadan iborat bo'lib, devorlari relyeflar, haykallar va naqshlar bilan bezatilgan",
+    "U musulmon me'morlari tomonidan arab yozuvlari bilan bezatilgan masjid",
+    "U Guptalar davrida pishgan g'ishtdan bir yilda qurilgan",
+    "U Dehli sultonligi davrida qurilgan, balandligi 70 metrlik minoraga ega"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta asrlarda Yaponiya shaharlari asosan qayerlarda vujudga kelgan?",
+   "options": [
+    "Budda ibodatxonalari atrofida, aloqa bekatlari va yo'llar ustida, dengiz bo'yida, qal'alar atrofida",
+    "Faqat yirik zamindorlar yerlarida, ularga qarshi kurash natijasida",
+    "Faqat imperator saroyi atrofida, boshqa joylarda shahar qurish taqiqlangan",
+    "Xitoy savdogarlari asos solgan portlarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | Osiyo shaharlari davlat yerlarida vujudga keldi | Ular Yevropa shaharlari singari yirik zamindorlarga qarshi qattiq kurash olib bordi\n2. | Hindistonda qadimgi kasta tuzumi an'analari saqlanib qoldi | Qishloq jamoasida tabaqalanish mulkka emas, shaxsning qaysi kastaga mansubligiga qarab belgilandi\n3. | Xitoyda yog'och tanqis edi | Qurilishda g'isht, sopol va toshdan keng foydalanildi\n4. | Hindlar hisobning o'nlik tizimini yaratdi | Bu tizim hozirgi kunda «arab raqamlari» deb ataladi",
+   "options": [
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Praga universiteti professori Yan Gusning qarashlariga oid to'g'ri ma'lumotlarni aniqlang.\n1. U indulgensiya savdosini qoralab, aholini diniy marosimlar uchun pul to'lashdan qaytardi.\n2. Uning fikricha, Chexiya cherkovi qirolga emas, Rim papasiga bo'ysunishi kerak edi.\n3. U ibodatlarni faqat lotin tilida o'tkazishni talab qildi.\n4. U ibodatlarni chex tilida o'tkazishni taklif qilib, chex tili grammatikasini ishlab chiqdi.",
+   "options": [
+    "1, 3",
+    "2, 4",
+    "1, 4",
+    "2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ikkinchi Bolgariya podshohligi hukmdori Asen II davrida mamlakatda qanday o'zgarishlar yuz berdi?",
+   "options": [
+    "Bolgariya Bolqondagi eng katta mamlakatga aylanib, Frakiya, Makedoniya, Epir va Fessaliyaning bir qismi qo'shib olindi, birinchi marta oltin pul zarb qilindi",
+    "Bolgariya Vizantiya tarkibiga qo'shib olinib, uning viloyatiga aylandi",
+    "Bolgariya Tirnovo, Vidin va Dobruja kabi uchta mustaqil davlatga bo'linib ketdi",
+    "Bolgariya Usmoniy turklarga qaram bo'lib qoldi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yaponiyaning mo'g'ullar bosqiniga qarshi kurashi mamlakat siyosiy tuzumiga qanday ta'sir ko'rsatdi?",
+   "options": [
+    "Urushdagi ishtiroki munosib baholanmaganidan norozi bo'lgan zodagonlar Asikaga xonadoni bilan birlashib, 1333-yilda Kamakura syogunligini ag'dardi",
+    "Imperator syogunlikni bekor qilib, butun hokimiyatni o'z qo'liga oldi",
+    "Samuraylar toifasi tugatilib, muntazam yollanma armiya tuzildi",
+    "Yaponiya Yuan imperiyasiga vassal bo'lib, mo'g'ullarga o'lpon to'lay boshladi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Yan Gusning Praga universiteti rektori bo'lishi;\n2) Asen boshchiligida Vizantiyaga qarshi qo'zg'olon va Ikkinchi Bolgariya podshohligining tashkil topishi;\n3) Ikkinchi Bolgariya podshohligining tugatilishi;\n4) Stefan Dushan hukmronligining boshlanishi.",
+   "options": [
+    "4, 2, 3, 1",
+    "2, 4, 3, 1",
+    "2, 3, 4, 1",
+    "2, 4, 1, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVII asrda xaritada 2 raqami bilan belgilangan hudud uchun Rossiya va Polsha o'rtasida olib borilgan kurash 1667-yilgi sulh bilan qanday yakunlandi?",
+   "options": [
+    "Chap qirg'oq Ukraina Kiyev shahri bilan Rossiya tarkibiga kirdi",
+    "Kiyev Polshaga berilib, Rossiya Boltiq dengiziga chiqdi",
+    "Butun Ukraina Usmoniylar imperiyasiga o'tdi",
+    "Ukraina Shvetsiya qirolligining protektoratiga aylandi"
+   ],
+   "answer": 0,
+   "image": "img/a09017b2cb564.jpg"
+  },
+  {
+   "q": "Rossiyada 1773–1775-yillarda Yemelyan Pugachyov boshchiligidagi dehqonlar urushining kelib chiqishiga nima sabab bo'ldi?",
+   "options": [
+    "Rossiyada krepostnoylik huquqining bekor qilinishi",
+    "Rossiyaning Yetti yillik urushda mag'lubiyatga uchrashi",
+    "Pyotr I ning Sankt-Peterburgni yangi poytaxt deb e'lon qilishi",
+    "XVIII asrning ikkinchi yarmida krepostnoy zulmning kuchayib, krepostnoylik huquqining yangi hududlarga ham joriy qilinishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvalda harflar ostiga yashirilgan to'g'ri javobni toping.\n1. Boburiylar imperiyasi\n2. XVIII asr\n3. Eron\n4. Sardor Abaxay o'zini xon, yangi davlatni «Chin» deb atadi\n5. Pekin minlar tomonidan qaytarib olindi\n6. XVI asr\nDavr | Davlat | Voqea\n1636-yil | Manchjurlar davlati | ____A____\n1605–1627-yillar | ____B____ | Jahongirshoh otasining ko'plab islohotlarini yo'qqa chiqardi\n____C____ | Rossiya | Qozon xonligi zabt etilib, Rossiya tarkibiga qo'shib olindi",
+   "options": [
+    "A-4, B-1, C-6",
+    "A-5, B-1, C-2",
+    "A-5, B-3, C-2",
+    "A-4, B-3, C-6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1929–1933-yillardagi jahon iqtisodiy inqirozi yapon iqtisodiyotiga katta zarar keltirgach, Yaponiya hukumati inqirozdan chiqishning qanday yo'lini tanladi?",
+   "options": [
+    "Iqtisodni militarizatsiyalash va tajovuzkorlik yo'lini tanladi",
+    "Barcha harbiy xarajatlarni qisqartirib, qurolsizlanish siyosatini olib bordi",
+    "AQSH bilan iqtisodiy ittifoq tuzib, «yangi kurs» siyosatini joriy qildi",
+    "Millatlar Ligasidan moliyaviy yordam olib, mustamlakalaridan voz kechdi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mustaqillik yillarida Armanistonning Rossiya bilan munosabatlarini izchil davom ettirishiga asosiy sabab nima edi?",
+   "options": [
+    "Armaniston iqtisodiyotining to'liq Rossiya neft-gaz eksportiga bog'liqligi",
+    "Armanistonning Yevropa Ittifoqiga a'zo bo'lishiga Rossiyaning yordam bergani",
+    "Armanistonning Rossiya Federatsiyasi tarkibiga kirgani",
+    "Tog'li Qorabog' masalasida Rossiyaga tayanishi, chunki Ozarbayjon va Turkiya bilan chegaralari amalda yopiq, Gruziya bilan munosabatlari murakkab bo'lib, Rossiya yagona ittifoqchisi bo'lib qolgan edi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvalda harflar ostiga yashirilgan to'g'ri javobni toping.\n1. Armaniston\n2. XIX asr oxiri\n3. Ozarbayjon\n4. 1920-yillar o'rtasi\n5. Mamlakatga qaytib kelgan M. Saakashvili qamoqqa olindi\n6. Gruziyaning Yevropa Ittifoqiga a'zoligi masalasi to'xtatildi\nDavr | Davlat | Voqea\n2021-yil | Gruziya | ____A____\n1991-yil oktyabr | ____B____ | Levon Ter-Petrosyan birinchi prezident etib saylandi\n____C____ | Yaponiya | Sanoat mahsulotlari ishlab chiqarish darajasi 1919-yilgi darajadan oshib ketdi",
+   "options": [
+    "A-5, B-1, C-4",
+    "A-6, B-1, C-2",
+    "A-6, B-3, C-2",
+    "A-5, B-3, C-4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | M. Qazzofiy hukmronligi davrida neftdan olingan daromad Liviyada yirik ijtimoiy islohotlarni amalga oshirish imkonini berdi | Majburiy maktab ta'limi muddati 6 yildan 9 yilgacha oshirildi, bepul oliy ta'lim joriy etildi\n2. | 2011-yilda Liviyada g'alayonlar boshlanib, NATO kuchlari mamlakatni bombardimon qildi, M. Qazzofiy o'ldirildi | Mamlakatga tinchlik va farovonlik keldi\n3. | Sudan chegarasi mustamlaka davrida sun'iy bo'lingan | Bu ko'plab etno-konfessional mojarolarga sabab bo'lmoqda\n4. | 2011-yilda Misr prezidenti Husni Muborak iste'foga chiqdi | Prezidentlik saylovlarida «Musulmon birodarlar» tashkilotidan nomzod M. Mursiy g'alaba qozondi",
+   "options": [
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-noto'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xronologik ketma-ketlik NOMUVOFIQ berilgan javobni aniqlang.",
+   "options": [
+    "Misrda H. Muborakning iste'foga chiqishi → M. Mursiyning harbiylar tomonidan ag'darilishi → Abdulfattoh as-Sisining uchinchi marta prezident bo'lishi",
+    "Gruziyada Salome Zurabishvilining prezident etib saylanishi → «Gruziya orzusi» partiyasining 2012- yilgi parlament saylovida g'alaba qozonishi → Gruziya va Rossiya o'rtasidagi harbiy to'qnashuv",
+    "Xitoyda «4-may harakati» → Sun Yatsenning Xitoy Respublikasi prezidenti etib saylanishi → Xitoy Sovet respublikasining e'lon qilinishi",
+    "Malayziyada Mahathir bin Muhammad partiyasining saylovda g'alaba qozonishi → Indoneziyada S. B. Yudoyononing prezident etib saylanishi → Filippinda R. Dutertening prezident bo'lishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qituvchi o'quvchilarga internetdan foydalanib loyiha tayyorlashni topshirishdan oldin ularga shaxsiy ma'lumotlarni oshkor qilmaslik, notanish havolalarni ochmaslik va onlayn muloqotda odob qoidalariga rioya qilishni tushuntirdi. Kasb standartining qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik",
+    "O'quv jarayonini rejalashtirish",
+    "O'zlashtirishni baholash va qayta aloqani taqdim etish",
+    "Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'qituvchi «Buyuk geografik kashfiyotlar» mavzusida o'quvchilarga interaktiv xaritada sayohatlar yo'nalishini o'zlari belgilash, so'ngra guruhda muhokama qilib, kashfiyotlar oqibatlari haqida mustaqil xulosa chiqarishni topshirdi. Qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "O'z-o'zini rivojlantirish va kasbiy o'sish",
+    "Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash",
+    "Tarbiyaviy faoliyatni tashkil etish",
+    "Ta'lim samaradorligini ta'minlash"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'qituvchi metodik birlashma yig'ilishida o'zi qo'llagan «Keys» metodi tajribasini hamkasblari bilan o'rtoqlashdi va ular bilan birgalikda tarix fanidan umumiy topshiriqlar bankini tuzdi. Qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "Tarbiyaviy faoliyatni tashkil etish",
+    "Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik",
+    "O'zlashtirishni baholash va qayta aloqani taqdim etish",
+    "O'quv jarayonini rejalashtirish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "«O'z-o'zini rivojlantirish va kasbiy o'sish» mehnat vazifasiga taalluqli harakatlarni aniqlang.\n1. Malaka oshirish kurslarida va vebinarlarda muntazam ishtirok etish.\n2. O'z faoliyatini tahlil qilib, kasbiy rivojlanish ehtiyojlarini aniqlash.\n3. O'quvchilarga xavfsizlik qoidalarining mazmunini tushuntirish.\n4. Yangi ilmiy-metodik adabiyotlarni o'rganib, ularni amaliyotga tatbiq etish.\n5. Ota-onalar majlisini tashkil etib, o'quvchilar o'zlashtirishi haqida ma'lumot berish.",
+   "options": [
+    "1, 3, 5",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 4, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pedagogik vaziyatlar va ularda namoyon bo'lgan mehnat vazifalarini moslashtiring.\n1. O'quvchilar guruh loyihalarini oldindan berilgan mezonlar asosida baholadi, o'qituvchi esa har bir guruhga ishni yaxshilash bo'yicha yozma izoh qoldirdi\n2. Sinf rahbari o'quvchilar bilan «Mehr-oqibat» aksiyasini tashkil qilib, keksalar uyiga tashrif buyurdi\na) O'zlashtirishni baholash va qayta aloqani taqdim etish\nb) Tarbiyaviy faoliyatni tashkil etish\nc) O'quv jarayonini rejalashtirish",
+   "options": [
+    "1-c, 2-b",
+    "1-a, 2-c",
+    "1-b, 2-a",
+    "1-a, 2-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Didaktika kategoriyalari va ular javob beradigan savollarni moslashtiring.\n1. Ta'lim mazmuni\n2. Ta'lim metodi\n3. Ta'lim vositasi\na) Nimani o'qitish kerak?\nb) Qanday o'qitish kerak?\nc) Nima yordamida o'qitish kerak?\nd) Ta'lim jarayoni qanday tashkil etiladi?",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-d"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "A. Xoliqovning «Pedagogik mahorat» darsligiga ko'ra, o'qituvchi og'zaki nutqining asosiy ifodaviy vositasi nima hisoblanadi?",
+   "options": [
+    "Pantomimika",
+    "Mimika",
+    "Ovoz",
+    "Imo-ishora"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'quvchilar «Amir Temur davlati» mavzusida davlatning kuchli va zaif tomonlari, imkoniyatlari va unga tahdid solgan omillarni to'rt katakli jadvalga yozib, tahlil qildilar. Qaysi interfaol metod qo'llanilgan?",
+   "options": [
+    "Sinkveyn",
+    "«Baliq skeleti»",
+    "SWOT-tahlil",
+    "Klaster"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'quvchilar onlayn doskaga «Jadidlar maorifi» mavzusidagi fikrlarini stikerlar ko'rinishida joylashtirib, bir-birining fikrlariga izoh qoldirdilar. O'qituvchi qaysi onlayn platformadan foydalangan?",
+   "options": [
+    "Google Forms",
+    "Padlet",
+    "Kahoot",
+    "Microsoft Excel"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qituvchi nazorat ishidan so'ng har bir o'quvchining natijasini sinfdoshlariniki bilan solishtirib, sinf bo'yicha reyting tuzdi va o'quvchilarning qaysi o'rinda turganini aniqladi. Baholashning qaysi turi qo'llanilgan?",
+   "options": [
+    "Formativ baholash",
+    "Ipsativ baholash",
+    "Nisbiy (normativ) baholash",
+    "Mezonli baholash"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi har bir darsini qat'iy belgilangan shablon va talablar asosida, oldindan tuzilgan rejadan bir qadam ham chetga chiqmay o'tkazadi. A. Xoliqov darsligiga ko'ra, o'qituvchi faoliyatida qaysi pedagogik uslub namoyon bo'lgan?",
+   "options": [
+    "Demokratik uslub",
+    "Liberal uslub",
+    "Reglamentlashgan uslub",
+    "Improvizatsion uslub"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi tarixiy voqeani hikoya qilar ekan, o'z fikr va his-tuyg'ularini nutq, mimika va imo- ishoralar yordamida yorqin va ta'sirchan ifodaladi. Qaysi pedagogik qobiliyat namoyon bo'ldi?",
+   "options": [
+    "Konstruktiv qobiliyat",
+    "Tashkilotchilik qobiliyati",
+    "Gnostik qobiliyat",
+    "Ekspressiv qobiliyat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "U. Mansurovning «Tarix o'qitish metodikasi» qo'llanmasiga ko'ra, barcha o'quv ishlarining yakunlovchi shakli nima hisoblanadi?",
+   "options": [
+    "Mustaqil ish",
+    "Fakultativ mashg'ulot",
+    "Ma'ruza",
+    "Seminar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "2006-yil 18-dekabrda Yevropa parlamenti va Kengashi uzluksiz ta'lim uchun tavsiya qilgan tayanch kompetensiyalar qatoriga kiruvchi kompetensiyani aniqlang.",
+   "options": [
+    "Diniy kompetentlik",
+    "Raqamli kompetentlik",
+    "Sport va jismoniy kompetentlik",
+    "Tarixiy-xronologik kompetentlik"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "U. Mansurov qo'llanmasiga ko'ra, yangi materialni bayon qilish darsi bosqichlarini to'g'ri ketma- ketlikda joylashtiring.\n1) qisqa nazorat-mustahkamlash;\n2) mavzu bayoni (yangi bilimlar berish);\n3) uyga vazifa berish;\n4) o'quvchilarni darsga jalb etish.",
+   "options": [
+    "4, 1, 2, 3",
+    "4, 2, 3, 1",
+    "4, 2, 1, 3",
+    "2, 4, 1, 3 o'qitish metodikasi"
+   ],
+   "answer": 2
+  }
+ ]
+}

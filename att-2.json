@@ -1,0 +1,507 @@
+{
+ "title": "Attestatsiya tarix 2-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Ibtidoiy ovchilik manzaralari tasvirlangan Zarautsoy qoyatosh rasmlari qayerda joylashgan?",
+   "options": [
+    "Toshkent (Ohangaron vodiysi)",
+    "Jizzax (Nurota tog'lari)",
+    "Surxondaryo (Ko'hitang tog'lari)",
+    "Navoiy (Sarmishsoy)"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1972-yilda 36 kg dan ortiq oltin buyumlardan iborat xazina topilgan Kushon davriga oid shahar xarobasi qaysi?",
+   "options": [
+    "Ayritom",
+    "Xolchayon",
+    "Zartepa",
+    "Dalvarzintepa"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Sharq hukmdorlari va ular bilan bog'liq ma'lumotlarni moslashtiring.\n1. Sargon\n2. Ashshurbanipal\n3. Navuxodonosor II\n4. Doro I\na) Akkad davlatiga asos solgan\nb) Ninevadagi mashhur loy kitoblar kutubxonasini to'plagan\nc) Bobilda «osma bog'lar» uning davrida barpo etilgan\nd) davlatni satrapiyalarga bo'lgan, «Shoh yo'li»ni qurdirgan\ne) mil. avv. 539-yilda Bobilni egallagan",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-e",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-b, 2-a, 3-c, 4-d"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Doro I ning Behistun (Bisutun) qoyatosh yozuvi nechta tilda bitilgan?",
+   "options": [
+    "3 ta",
+    "2 ta",
+    "4 ta",
+    "5 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mil. avv. 480-yilda Salamin bo'g'ozidagi dengiz jangida yunon flotining g'alabasini ta'minlagan afinalik sarkarda kim?",
+   "options": [
+    "Leonid",
+    "Femistokl",
+    "Miltiad",
+    "Perikl"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mil. avv. 49-yilda Rubikon daryosidan o'tib, Rimda fuqarolar urushini boshlab yuborgan sarkarda kim?",
+   "options": [
+    "Gney Pompey",
+    "Mark Krass",
+    "Yuliy Sezar",
+    "Oktavian"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi dunyo tarixiga oid voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Marafon jangi;\n2) G'arbiy Rim imperiyasining qulashi;\n3) Olimpiya o'yinlarining boshlanishi;\n4) Aleksandr Makedonskiyning Sharqqa yurishi boshlanishi;\n5) rivoyatga ko'ra Rim shahriga asos solinishi;\n6) Rimda respublika o'rnatilishi.",
+   "options": [
+    "3, 5, 1, 6, 4, 2",
+    "3, 5, 6, 1, 4, 2",
+    "5, 3, 6, 1, 4, 2",
+    "3, 6, 5, 1, 4, 2"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Termiz yaqinidagi Kushon davriga oid buddaviylik ibodatxonasi majmuasini aniqlang.",
+   "options": [
+    "Ko'ykrilganqal'a",
+    "Fayoztepa",
+    "Afrosiyob",
+    "Tuproqqal'a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler–Venn diagrammasiga mos keladigan javobni aniqlang.\na) Afshona qishlog'ida tug'ilgan;\nb) «Tib qonunlari» asarining muallifi;\nc) Hamadonda vafot etgan;\nd) Kat shahrida tug'ilgan;\ne) «Hindiston» asarining muallifi;\nf) Xorazmshoh Ma'mun saroyidagi olimlar majlisida faoliyat ko'rsatgan;\ng) bir-biri bilan ilmiy yozishmalar olib borgan.",
+   "options": [
+    "I – a, b, c; II – d, e, f; III – g",
+    "I – a, c; II – b, d, e; III – f, g",
+    "I – a, b; II – c, d, e; III – f, g",
+    "I – a, b, c; II – d, e; III – f, g"
+   ],
+   "answer": 3,
+   "image": "img/a8c583f11eee1.jpg"
+  },
+  {
+   "q": "Ilk o'rta asrlarda Toshkent vohasi qanday nom bilan atalgan?",
+   "options": [
+    "Ustrushona",
+    "Toxariston",
+    "Choch (Shosh)",
+    "Sug'd"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "747-yilda Marvda Umaviylarga qarshi qo'zg'olon ko'tarib, Abbosiylarning hokimiyatga kelishiga yordam bergan sarkarda kim?",
+   "options": [
+    "Qutayba ibn Muslim",
+    "Tohir ibn Husayn",
+    "Abu Muslim",
+    "Muqanna"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "821-yilda Xurosonda amalda mustaqil sulolaga asos solgan, «Zulyaminayn» laqabli sarkarda kim?",
+   "options": [
+    "Ismoil Somoniy",
+    "Tohir ibn Husayn",
+    "Ya'qub ibn Lays",
+    "Somonxudot"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hindistonga 17 marta yurish qilgan G'aznaviy hukmdor kim?",
+   "options": [
+    "Mas'ud G'aznaviy",
+    "Sabuktegin",
+    "Alptegin",
+    "Mahmud G'aznaviy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mahmud Koshg'ariyning «Devonu lug'otit turk» asariga oid TO'G'RI ma'lumotlarni aniqlang.\n1. 1072–1074-yillarda yozilgan;\n2. Bag'dodda yozilgan;\n3. Samarqandda yozilgan;\n4. asarga dunyo xaritasi ilova qilingan;\n5. asar Qoraxoniylar hukmdoriga bag'ishlangan «Qutadg'u bilig» dostonining davomi hisoblanadi.",
+   "options": [
+    "2, 3, 4",
+    "1, 3, 5",
+    "1, 2, 4",
+    "1, 4, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1221-yilda Urganch mudofaasida halok bo'lgan kubraviya tariqati asoschisi kim?",
+   "options": [
+    "Najmiddin Kubro",
+    "Abduxoliq G'ijduvoniy",
+    "Bahouddin Naqshband",
+    "Ahmad Yassaviy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur 1405-yilda Xitoyga yurish chog'ida qayerda vafot etgan?",
+   "options": [
+    "Kesh",
+    "O'tror",
+    "Toshkent",
+    "Samarqand"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Zahiriddin Muhammad Boburning «Mubayyin» asari qaysi sohaga bag'ishlangan?",
+   "options": [
+    "Aruz vazni nazariyasi",
+    "Tibbiyot",
+    "Harbiy san'at",
+    "Islom huquqi (fiqh) va soliq tizimi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ashtarxoniylar davrida Buxorodagi Labi hovuz ansamblini qurdirgan davlat arbobi kim?",
+   "options": [
+    "Qulbobo Ko'kaldosh",
+    "Abdullaxon II",
+    "Nodir devonbegi",
+    "Ubaydullaxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xivada toshbosma (litografiya) joriy etilgan, o'zi ham «Feruz» taxallusi bilan she'rlar yozgan xon kim?",
+   "options": [
+    "Abulg'ozixon",
+    "Allaqulixon",
+    "Asfandiyorxon",
+    "Muhammad Rahimxon II"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nuqtalar o'rnida tushirib qoldirilgan ma'lumotlarni aniqlang. Xiva xoni 1............... «Shajarai turk» asarini yozgan. Qo'qonda Mulla Niyoz Muhammad Xo'qandiy 2............... asarini yaratgan. Buxorolik mutafakkir Ahmad Donish 3............... asarining muallifi.",
+   "options": [
+    "1 – Abulg'ozixon; 2 – «Tarixi Shohruxiy»; 3 – «Navodir ul-vaqoe»",
+    "1 – Abulg'ozixon; 2 – «Tarixi Shohruxiy»; 3 – «Boburnoma»",
+    "1 – Muhammad Rahimxon II; 2 – «Tarixi Shohruxiy»; 3 – «Navodir ul-vaqoe»",
+    "1 – Abulg'ozixon; 2 – «Navodir ul-vaqoe»; 3 – «Tarixi Shohruxiy»"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1453-yilda Konstantinopolni egallab, Vizantiya imperiyasiga barham bergan usmonli sulton kim?",
+   "options": [
+    "Boyazid I",
+    "Sulaymon I",
+    "Mehmed II",
+    "Murod II"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shimoliy Amerikadagi 13 mustamlaka mustaqilligini Buyuk Britaniya qaysi shartnoma bo'yicha tan olgan?",
+   "options": [
+    "1815-yilgi Vena kongressi yakuniy akti",
+    "1713-yilgi Utrext tinchlik shartnomasi",
+    "1783-yilgi Versal (Parij) tinchlik shartnomasi",
+    "1763-yilgi Parij tinchlik shartnomasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sanoat to'ntarishiga oid hukmlarni tahlil qilib, to'g'ri va noto'g'ri hukmlar uyg'unligini aniqlang.\n1) sanoat to'ntarishi birinchi bo'lib Angliyada boshlangan;\n2) J. Uatt bug' mashinasini takomillashtirgan;\n3) dunyodagi birinchi jamoat temir yo'li Fransiyada qurilgan;\n4) luddit harakati ishtirokchilari mashinalarni sindirgan.",
+   "options": [
+    "1 – to'g'ri, 2 – to'g'ri, 3 – noto'g'ri, 4 – to'g'ri",
+    "1 – noto'g'ri, 2 – to'g'ri, 3 – noto'g'ri, 4 – to'g'ri",
+    "1 – to'g'ri, 2 – noto'g'ri, 3 – noto'g'ri, 4 – to'g'ri",
+    "1 – to'g'ri, 2 – to'g'ri, 3 – to'g'ri, 4 – noto'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1865-yilda Toshkent mudofaasi chog'ida halok bo'lgan qo'qonlik lashkarboshi kim?",
+   "options": [
+    "Xudoyorxon",
+    "Alimqul",
+    "Yoqubbek",
+    "Abdurahmon oftobachi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1898-yilgi Andijon qo'zg'oloniga kim boshchilik qilgan?",
+   "options": [
+    "Nazirxo'ja eshon",
+    "Po'latxon",
+    "Dukchi eshon (Muhammadali xalfa)",
+    "Mulla Abdulqahhor"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "«Kecha va kunduz» romanining muallifi kim?",
+   "options": [
+    "Oybek",
+    "Abdulhamid Cho'lpon",
+    "Abdulla Qodiriy",
+    "Abdurauf Fitrat"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1916-yilda Janubi-G'arbiy frontda rus qo'shinlarining Avstriya-Vengriya mudofaasini yorib o'tishi tarixga qanday nom bilan kirgan?",
+   "options": [
+    "Gallipoli operatsiyasi",
+    "Brusilov yorib o'tishi",
+    "Somma jangi",
+    "Verden «go'sht maydalagichi»"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sovet Sotsialistik Respublikalari Ittifoqi (SSSR) qachon tuzilgan?",
+   "options": [
+    "1922-yil 30-dekabr",
+    "1924-yil 31-yanvar",
+    "1918-yil 10-iyul",
+    "1917-yil 7-noyabr"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sovet davridagi O'zbekistonga oid TO'G'RI ma'lumotlar soni nechta?\n1) O'zbekiston SSR 1924-yilda tuzilgan;\n2) Tojikiston ASSR 1929-yilgacha O'zbekiston SSR tarkibida bo'lgan;\n3) Qoraqalpog'iston ASSR 1936-yilda O'zbekiston SSR tarkibiga kiritilgan;\n4) respublika poytaxti 1930-yilda Toshkentga ko'chirilgan;\n5) O'zbekiston SSR SSSR tarkibiga 1936-yilda qabul qilingan;\n6) O'zbekiston Fanlar akademiyasi 1943-yilda tashkil etilgan.",
+   "options": [
+    "4 ta",
+    "5 ta",
+    "3 ta",
+    "6 ta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ikkinchi jahon urushi yillarida Leningrad qamali necha kun davom etgan?",
+   "options": [
+    "872 kun",
+    "1000 kun",
+    "640 kun",
+    "900 kun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yaponiya taslim bo'lish aktini imzolab, Ikkinchi jahon urushi yakunlangan sana qaysi?",
+   "options": [
+    "1945-yil 8-avgust",
+    "1945-yil 9-may",
+    "1945-yil 2-sentabr",
+    "1945-yil 6-avgust"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XX asr davlat arboblari va ular bilan bog'liq ma'lumotlarni moslashtiring.\n1. Mao Szedun\n2. Xo Shi Min\n3. Kim Ir Sen\n4. Jamol Abdul Nosir\na) 1949-yilda Xitoy Xalq Respublikasini e'lon qilgan\nb) 1945-yilda Vyetnam Demokratik Respublikasini e'lon qilgan\nc) 1948-yilda tuzilgan KXDRga rahbarlik qilgan\nd) 1956-yilda Suvaysh kanalini milliylashtirgan\ne) Indoneziyaning birinchi prezidenti bo'lgan",
+   "options": [
+    "1-c, 2-b, 3-a, 4-d",
+    "1-a, 2-d, 3-c, 4-b",
+    "1-a, 2-b, 3-e, 4-d",
+    "1-a, 2-b, 3-c, 4-d"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ikkinchi jahon urushidan keyingi voqealarni xronologik ketma-ketlikda joylashtiring.\n1) sovet qo'shinlarining Afg'onistonga kiritilishi;\n2) Yu. Gagarinning koinotga parvozi;\n3) Koreya urushining boshlanishi;\n4) Vyetnam urushining tugashi;\n5) birinchi sun'iy yo'ldoshning uchirilishi;\n6) Suvaysh inqirozi.",
+   "options": [
+    "6, 3, 5, 2, 4, 1",
+    "3, 6, 2, 5, 4, 1",
+    "3, 6, 5, 2, 4, 1",
+    "3, 5, 6, 2, 4, 1"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Toshkent shahrining 2200 yillik yubileyi qaysi yili nishonlangan?",
+   "options": [
+    "2011-yil",
+    "2016-yil",
+    "2007-yil",
+    "2009-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shavkat Mirziyoyev birinchi marta umumxalq saylovida O'zbekiston Respublikasi Prezidenti etib qachon saylangan?",
+   "options": [
+    "2016-yil 4-dekabr",
+    "2017-yil 1-yanvar",
+    "2016-yil 8-sentabr",
+    "2021-yil 24-oktyabr"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mehnat vazifalari va ularga tegishli mehnat harakatlarini moslashtiring.\n1. O'quv jarayonini rejalashtirish\n2. Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik\na) Davlat ta'lim standartlari va o'quv dasturlarining maqsadlariga muvofiq o'quv rejalarini ishlab chiqish\nb) O'quvchining individual ta'lim trayektoriyasini loyihalashtirish va to'g'rilash uchun o'qituvchilar va boshqa mutaxassislar bilan o'zaro aloqada bo'lish\nc) Dars rejasi va usullarini moslashtirishda tahlil natijalaridan foydalanish",
+   "options": [
+    "1-a, 2-b",
+    "1-c, 2-b",
+    "1-a, 2-c",
+    "1-b, 2-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "So'rovnoma natijasida o'quvchilarning ko'pchiligi o'lkashunoslikka qiziqishi aniqlandi. O'qituvchi shundan kelib chiqib, ish dasturiga Farg'ona vodiysi tarixiy yodgorliklariga oid qo'shimcha mashg'ulotlar kiritdi.\nO'qituvchi «O'quv jarayonini rejalashtirish» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "Tegishli o'quv, namoyish va tarqatma materiallardan foydalanishni rejalashtirish",
+    "Dars jarayoniga zamonaviy axborot texnologiyalar integratsiyasini rejalashtirish",
+    "Davlat ta'lim standartlari va o'quv dasturlarining maqsadlariga muvofiq o'quv rejalarini ishlab chiqish",
+    "O'quvchilarning ehtiyojlari va qiziqishlaridan kelib chiqib o'quv dasturini moslashtirish (agar kerak bo'lsa)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sinf rahbari o'quvchilarga sinf sardori va «Yoshlar kengashi» a'zolarini saylashga yordam berdi, ularning tadbirlar rejasini tuzishda maslahat berib, tashabbuslarini qo'llab-quvvatladi.\nO'qituvchi «Tarbiyaviy faoliyatni tashkil etish» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "O'quvchilarning o'zini o'zi boshqarish organlari faoliyatini tashkil qilishda yordam berish va qo'llab- quvvatlash",
+    "Tarbiyaviy muammolarni hal qilishda boshqa pedagogik xodimlar va mutaxassislar, jamoat tashkilotlari bilan hamkorlik qilish",
+    "O'quvchilarni sinf(guruh)dagi va maktabdagi odob-axloq qoidalarini yaratish va unga rioya etishga jalb qilish",
+    "O'quvchilarning jamoaviy va loyihaviy ishlarini tashkil etish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muzeyga ekskursiyadan oldin o'qituvchi o'quvchilarga yo'lda va muzeyda o'zini tutish, avtobusdan tushish-chiqish hamda favqulodda holatda harakat qilish qoidalarini tushuntirib, ularning ma'nosini anglashlariga ko'maklashdi. O'qituvchi «Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "Nizoli vaziyatlarni yetarli darajada hal qilish",
+    "O'quvchilar erkin rivojlanishlari va o'zlarini namoyon eta olishlari uchun o'zaro hurmat muhitini yaratish",
+    "O'quvchilarni sinf(guruh)dagi va maktabdagi odob-axloq qoidalarini yaratish va unga rioya etishga jalb qilish",
+    "O'quvchilarga xavfsizlik qoidalarining mazmuni va ularga rioya qilish asoslarini tushunishga yordam berish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "«Ta'lim samaradorligini ta'minlash» mehnat vazifasiga kiruvchi mehnat harakatlarini aniqlang: 1. Dars mavzusini amaliyot bilan (hayotdagi misollar yordamida) bog'lash 2. O'quvchilarning jamoaviy va loyihaviy ishlarini tashkil etish 3. Muntazam malaka oshirish kurslaridan o'tish 4. O'quvchilar erishgan yutuqlarni natijalarini tahlil qilish",
+   "options": [
+    "3, 4",
+    "1, 2",
+    "1, 3",
+    "2, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mehnat vazifalari va ularning zarur ko'nikmalarini moslashtiring.\n1. Ta'lim samaradorligini ta'minlash\n2. O'z-o'zini rivojlantirish va kasbiy o'sish\na) Pedagogik va psixologik bilimlardan foydalanib, pedagogik vaziyat va hodisalarni kuzatib borish, ularni tahlil qilish\nb) O'zingizning kasbiy o'sishi, shu jumladan o'z-o'zini rivojlanish yo'lini aniqlash\nc) Bolalar bilan muloqot qilish, ularning qadr-qimmatini tan olish",
+   "options": [
+    "1-c, 2-b",
+    "1-a, 2-b",
+    "1-a, 2-c",
+    "1-b, 2-a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tadqiqotchi 200 nafar ota-onaga farzandlarining uy vazifasini bajarishi haqida oldindan tuzilgan savollar yozilgan varaqalarni tarqatdi va ularning yozma javoblarini to'plab, umumlashtirdi.\nN. Mavlonova qo'llanmasiga ko'ra tadqiqotning qaysi metodidan foydalanilgan?",
+   "options": [
+    "Pedagogik kuzatish metodi",
+    "Intervyu metodi",
+    "Anketa metodi",
+    "Suhbat metodi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi muhim sanalar va tushunchalarni turli shakllarda bir necha bor takrorlatadi, ularni keyingi mavzularda ham eslatib boradi. Natijada o'quvchilar bilimni uzoq vaqt yodda saqlab, kerakli paytda qo'llay oladi.\nO'qituvchi ta'limning qaysi tamoyiliga amal qilgan?",
+   "options": [
+    "Mustahkamlik tamoyili",
+    "Ko'rgazmalilik tamoyili",
+    "Ilmiylik tamoyili",
+    "Onglilik va faollik tamoyili"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi darsning deyarli butun vaqtini o'quvchilar ilk bor o'rganayotgan «Buyuk geografik kashfiyotlar» mavzusiga bag'ishladi: yangi tushunchalarni kiritdi, sayohatlar yo'nalishini xaritada ko'rsatib tushuntirdi.\nO'qituvchi darsning qaysi turidan foydalangan?",
+   "options": [
+    "Kombinatsiyalashgan dars",
+    "Bilimlarni mustahkamlash va takrorlash darsi",
+    "Yangi materiallar bilan tanishish darsi",
+    "Olingan bilimlarni tekshirish darsi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi vaziyatlarni ta'lim metodlari bilan moslashtiring.\n1. O'quvchilar darslik matnini mustaqil o'qib, asosiy sana va tushunchalarni daftarga konspekt qildilar.\n2. O'quvchilar ikki guruhga bo'linib, «Temuriylar davlati nega parchalandi?» degan masala bo'yicha o'z fikrlarini dalillar bilan himoya qildilar.\na) Darslik (kitob) bilan ishlash\nb) Munozara (bahs)\nc) Hikoya",
+   "options": [
+    "1-b, 2-a",
+    "1-a, 2-b",
+    "1-c, 2-b",
+    "1-a, 2-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sinf rahbari o'quvchilar uchun navbatchilik jadvalini tuzdi va har kuni sinfni tartibga keltirishni muntazam bajartirib bordi. Bir necha oydan so'ng o'quvchilar buni eslatmasdan o'zlari bajaradigan bo'ldi.\nTarbiyaning qaysi metodi qo'llanilgan?",
+   "options": [
+    "Ishontirish",
+    "O'git-nasihat",
+    "Rag'batlantirish",
+    "Odatlantirish (mashq qildirish)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'qituvchi maktab miqyosidagi tarix viktorinasini tayyorladi: ishtirokchi jamoalarni tuzdi, vazifalarni o'quvchilar o'rtasida taqsimladi, hakamlar va boshlovchini belgiladi — tadbir aniq reja asosida o'tdi.\nO'qituvchining qaysi qobiliyati namoyon bo'lgan?",
+   "options": [
+    "Tashkilotchilik qobiliyati",
+    "Perseptiv qobiliyat",
+    "Kommunikativ qobiliyat",
+    "Didaktik qobiliyat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Har bir darsdan so'ng o'qituvchi o'z faoliyatini tahlil qiladi: qaysi usul samarali bo'lgani, nimani o'zgartirish kerakligi va o'quvchilar unga qanday munosabatda bo'lganini o'ylab, xulosa chiqaradi.\nO'qituvchida qaysi sifat namoyon bo'lgan?",
+   "options": [
+    "Pedagogik refleksiya",
+    "Pedagogik takt",
+    "Pedagogik intuitsiya",
+    "Empatiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi o'quv yili davomida har bir o'quvchining eng yaxshi yozma ishlari, loyihalari, sertifikatlari va yutuqlarini alohida jildga to'plab, uning rivojlanishini kuzatib bordi.\nO'qituvchi baholashning qaysi vositasidan foydalangan?",
+   "options": [
+    "Baholash spetsifikatsiyasi",
+    "Test",
+    "Baholash rubrikasi",
+    "Portfolio"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarix bo'yicha tuzilgan test topshiriqlari murakkab hisob-kitobni talab qilib, o'quvchilarning tarixiy bilimini emas, ko'proq matematik ko'nikmasini o'lchab qo'ydi. Testning qaysi sifat ko'rsatkichi buzilgan?",
+   "options": [
+    "Amaliylik",
+    "Obyektivlik",
+    "Ishonchlilik",
+    "Validlik"
+   ],
+   "answer": 3
+  }
+ ]
+}

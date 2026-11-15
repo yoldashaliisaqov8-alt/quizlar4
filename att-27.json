@@ -1,0 +1,507 @@
+{
+ "title": "Attestatsiya tarix 27-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "O'rta Osiyodagi tosh davri yodgorliklari va ularga oid ma'lumotlarni moslashtiring.\n1. Selungur va Ko'lbuloq\n2. Teshiktosh\n3. Obishir va Machay\na) arxeologiya fanida «chopper» deb nomlangan qo'pol tosh qurollar topilgan makonlar\nb) o'rta paleolit davriga oid g'or, 8–9 yashar neandertal bolaning suyak qoldiqlari topilgan\nc) mezolit davriga oid manzilgohlar\nd) so'nggi paleolit davriga oid, zamonaviy qiyofadagi kromanyon odami yashagan Samarqand hududidagi makon",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kanishka davrida ulkan imperiyaga aylangan Kushon davlatining inqirozga yuz tutib, milodiy III asrda parchalanib ketishiga nima sabab bo'ldi?",
+   "options": [
+    "Makedoniyalik Aleksandrning yurishlari",
+    "Arab xalifaligining bosqini",
+    "To'xtovsiz urushlar",
+    "Kuchli zilzila va qurg'oqchilik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xalifa Ma'mun Somonxudotning nabiralarini noib qilib tayinlagan hududlarni moslashtiring.\n1. Nuh\n2. Ahmad\n3. Yahyo\na) Samarqand\nb) Farg'ona\nc) Shosh va Ustrushona\nd) Hirot",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarixchi An-Nasaviy Sulton Muhammad Xorazmshoh farmonlarining ko'p hollarda onasi Turkon xotun tomonidan bekor qilinishini qanday ikki sabab bilan izohlagan?",
+   "options": [
+    "Sultonning Samarqandda emas, Buxoroda yashagani va qipchoq amirlarining isyoni",
+    "Sultonning onasining unga bo'lgan mehrini qadrlashi va mamlakatning barcha amirlari onasining urug'idan ekanligi",
+    "Turkon xotunning xalifa tomonidan noib etib tayinlangani va Gurganchning poytaxt emasligi",
+    "Sultonning yoshligi va mamlakatda vazir lavozimi bo'lmagani"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eftaliylar davlatiga oid to'g'ri ma'lumotlarni aniqlang.\n1. Taxt avloddan avlodga o'tmay, suloladan kim loyiq deb topilsa, o'sha taxtga o'tirgan; nomzodni maxsus kengash aniqlagan.\n2. Davlatning dastlabki poytaxti Samarqand shahri bo'lgan.\n3. Viloyatlarda boshqaruv mahalliy xonadonlar tomonidan olib borilgan, ularning har biri o'z tangalarini zarb etgan.\n4. Sosoniylar shohi Pero'z 484-yilda eftaliylarni yengib, ularni Movarounnahrdan haydab chiqargan.",
+   "options": [
+    "2, 4",
+    "1, 3",
+    "1, 2",
+    "3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temur davriga oid atamalar va ularning mazmunini moslashtiring.\n1. Avorizot\n2. Sari shumor (jizya)\n3. Xolisa\na) davlat xavf ostida qolib, harbiy safarbarlik e'lon qilinganda yig'ilgan favqulodda soliq\nb) harbiy yurishlar davrida mag'lub etilgan aholidan olingan soliq\nc) davlat daromadlari va yerlari bilan shug'ullanuvchi oliy mansabdorlardan iborat hay'at\nd) misdan yasalgan mayda chaqa pul",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Temur tuzuklari»dan olingan parchani o'qing. Parchada Amir Temur raiyatni xonavayron qilish oxir-oqibat nimaga olib kelishini ta'kidlagan? «Amr etdimki, raiyatdan mol-xiroj yig'ishda ularni og'ir ahvolga solib qo'yishdan yoki mamlakatni qashshoqlikka tushirib qo'yishdan saqlanish kerak. Negaki, raiyatni xonavayron qilish (davlat) xazinasining kambag'allashishiga olib keladi...»",
+   "options": [
+    "Raiyat boshqa mamlakatlarga ko'chib ketib, savdo-sotiq to'xtaydi",
+    "Mamlakatda tamg'a solig'ini bekor qilishga to'g'ri keladi",
+    "Amaldorlar soni kamayib, devon ishlari to'xtab qoladi",
+    "Xazinaning kamayishi sipohning tarqalib ketishiga, sipohning tarqoqligi esa saltanatning kuchsizlanishiga olib keladi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mirzo Ulug'bekning 1428-yilda o'tkazgan fulusiy pullar islohoti qanday natija berdi?",
+   "options": [
+    "Zarbxonalar faqat Samarqandda qoldirilib, boshqa shaharlarda pul zarb qilish taqiqlandi",
+    "Mis chaqalar muomaladan butunlay chiqarilib, faqat oltin tangalar ishlatildi",
+    "Tamg'a solig'i bekor qilinib, tashqi savdodan daromad keskin kamaydi",
+    "Bir necha shahar zarbxonalarida bir xil vazndagi salmoqdor fuluslar – «fulusi adliya» zarb etilib, ichki chakana savdo uchun keng yo'l ochildi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Norbo'taxonning 1782–1797-yillarda Pekinga elchilar guruhini yuborishi qanday natija berdi?",
+   "options": [
+    "Sharqiy Turkistonda Qo'qon savdogarlari va tanga-pullarini nazorat qiluvchi rasmiy vakil – xudoydod mansabi joriy etilib, Xitoy Qo'qonga yillik mablag' to'lab borishi belgilandi",
+    "Qo'qon xonligi Xitoyning vassaliga aylanib, unga o'lpon to'lay boshladi",
+    "Xitoy Qo'qon savdogarlarining Sharqiy Turkistonga kirishini butunlay taqiqladi",
+    "Qo'qon va Xitoy jung'orlarga qarshi harbiy ittifoq tuzdi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI–XVII asrlarda Qipchoq dashtidan kirib kelgan urug'larning Xorazmda o'troqlashishi va ularning boshqaruvda ishtirokini ta'minlash zarurati Abulg'ozixonni qanday chora ko'rishga undadi?",
+   "options": [
+    "Boshqaruv tizimini qayta tashkil etib, aholini to'rtta asosiy bo'linmaga (to'pga): uyg'ur-nayman, qiyot- qo'ng'irot, nukus-mang'it, qang'li-qipchoqqa bo'ldi",
+    "Barcha urug' boshliqlarini Oliy Kengashdan chetlatdi",
+    "Ko'chmanchi urug'larni Xorazmdan Mang'ishloqqa ko'chirib yubordi",
+    "Taxtni otadan o'g'ilga meros qilib o'tish tartibini bekor qildi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | Yalangto'sh Bahodir 1611-yilda Imomqulixonni taxtga o'tqazishda faol qatnashdi | Uning mavqeyi ortib, 1626-yildan Samarqandni amalda mustaqil idora eta boshladi\n2. | 1740-yilda Eron qo'shinlari Buxoroga yurish qildi | Abulfayzxon taxtdan ag'darilib, Buxoroda Nodirshoh noibi hukmdor etib tayinlandi\n3. | Shohruxbiy Chodak xo'jalaridan birining qiziga uylandi | Qo'qon xonligi shakllanishida Chodak xo'jalarining nufuzi alohida ahamiyatga ega bo'ldi\n4. | 1739–1740-yillarda Nodirshoh Xorazmga hujum qildi | Xonlikda taxtga qo'g'irchoq xonlarni o'tqazish va ularni tez-tez almashtirish davri boshlandi",
+   "options": [
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1921-yil bahorida joriy etilgan Yangi iqtisodiy siyosat (NEP)ning asosi nimadan iborat edi?",
+   "options": [
+    "Mehnatga yaroqli barcha aholini majburiy mehnatga jalb qilish",
+    "Dehqonlar mahsulotining ortiqchasini davlatga majburan topshirish",
+    "Xalq xo'jaligiga rahbarlik qilishning harbiy-kommunistik usullaridan voz kechish, ishlab chiqaruvchiga, avvalo dehqonlarga bir qadar erkinlik berish",
+    "Barcha korxonalar va banklarni davlat hisobiga o'tkazish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ikkinchi jahon urushi yillaridagi shaxslar va ularning faoliyatini moslashtiring.\n1. Shoahmad Shomahmudov va Bahri Akromova\n2. Toshmuhammad Qori- Niyoziy\n3. Oybek\na) turli millatga mansub 14 nafar bolani o'z tarbiyasiga olgan\nb) 1943-yilda tashkil etilgan O'zbekiston SSR Fanlar akademiyasining ilk prezidenti\nc) 1944-yilda «Navoiy» romani chop etilgan, «Front bo'ylab» nasriy jangnomasini yozgan\nd) «Urush yo'llarida» nomli turkum asarlarni yaratgan rassom",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1977-yil 7-oktyabrda qabul qilingan SSSR Konstitutsiyasi milliy respublikalar uchun qanday ahamiyatga ega bo'ldi?",
+   "options": [
+    "Milliy respublikalar huquqini rasman chekladi va Markazga keng vakolatlar berdi",
+    "Respublikalarda ko'ppartiyaviylik tizimini joriy etdi",
+    "Respublikalarga SSSR tarkibidan chiqish va mustaqil tashqi siyosat yuritish huquqini amalda berdi",
+    "Kommunistik partiyaning yetakchi rolini bekor qildi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mustaqillik yillarida hukumatga rahbarlik qilgan shaxslar va ularning faoliyat davrlarini moslashtiring.\n1. 1990–1992-yillar\n2. 1992–1995-yillar\n3. 1995–2003-yillar\na) Shukrullo Mirsaidov – vitse-prezident\nb) Abdulhoshim Mutalov – Bosh vazir\nc) O'tkir Sultonov – Bosh vazir\nd) Shavkat Mirziyoyev – Bosh vazir",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "2017-yilda sud-huquq tizimida amalga oshirilgan islohotlar natijasida sud qarorlarini ko'rib chiqish tartibida qanday o'zgarish yuz berdi?",
+   "options": [
+    "Sudlar ijro hokimiyatiga bo'ysundirildi",
+    "Sud qarorlari faqat prokuratura tomonidan qayta ko'rib chiqiladigan bo'ldi",
+    "Uch bosqichli tizim o'rniga olti bosqichli tizim joriy etildi",
+    "Olti bosqichli tartib o'rniga xalqaro standartlarga mos uch bosqichli tizim joriy etilib, nazorat instansiyasi butunlay bekor qilindi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mustaqillik yillarida sud tizimidagi islohotlarga oid to'g'ri ma'lumotlarni aniqlang.\n1. Murdani eksgumatsiya qilishga sanksiya berish huquqi sudlardan prokurorlarga o'tkazildi.\n2. Oliy sud va Oliy xo'jalik sudi sud hokimiyatining yagona oliy organi – Oliy sudga birlashtirildi.\n3. Sud-huquq tizimining chuqur islohotlar davri 1991-yildan boshlangan.\n4. Sudyalar oliy kengashi va ma'muriy sudlar tashkil etildi.",
+   "options": [
+    "1, 2",
+    "3, 4",
+    "2, 4",
+    "1, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Bosh vazir lavozimiga nomzodni parlamentda eng ko'p o'rin olgan partiya ko'rsatishi to'g'risidagi o'zgartishning Konstitutsiyaga kiritilishi;\n2) vitse-prezident lavozimining tugatilib, Bosh vazir lavozimining joriy etilishi;\n3) Oliy Majlis Qonunchilik palatasiga «Yangi O'zbekiston. Yangi saylovlar» shiori ostida saylov o'tkazilishi;\n4) ikki palatali parlament tuzilishiga asos bo'lgan konstitutsiyaviy referendum;\n5) Prezidentning hukumat raisi sifatidagi vakolati to'g'risidagi normaning Konstitutsiyadan chiqarilishi.",
+   "options": [
+    "4, 2, 5, 1, 3",
+    "2, 4, 1, 5, 3",
+    "2, 5, 4, 1, 3",
+    "2, 4, 5, 1, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kavkazortida joylashgan Urartu davlatining tashkil topishini nima tezlashtirgan?",
+   "options": [
+    "Misr fir'avnlarining bosqinlari",
+    "Ossuriya hujumlaridan himoyalanish zarurati",
+    "Fors podsholigi bilan savdo aloqalarining kengayishi",
+    "Skif qabilalarining Urartuga qo'shilishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ossuriya podshosi Ashshurbanipal hukmronligi yillarida poytaxt Nineviyada nima jamlangan edi?",
+   "options": [
+    "Papirus o'ramlaridan iborat Aleksandriya kutubxonasining nusxalari",
+    "Sopol taxtachalardan iborat yirik kutubxona",
+    "Dunyo mo'jizalaridan biri – osma bog'lar",
+    "Oltindan yasalgan podsholar haykallari to'plami"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta asrlar Xitoyida imperatorning har bir erkin dehqonni bir xil – 80 mu ekin maydoni bilan taqdirlashi dehqon uchun qanday majburiyatlarni keltirib chiqargan?",
+   "options": [
+    "Dehqon yerni ijaraga berib, shaharda hunarmandchilik bilan shug'ullanishi shart bo'lgan",
+    "Dehqon soliqlardan butunlay ozod qilinib, faqat ibodatxonalarga xizmat qilgan",
+    "Dehqon yerni xohlagancha sotib, faqat harbiy xizmatni o'tagan",
+    "Dehqon yerni sota olmagan, hosilning bir qismini soliq sifatida to'lagan va ommaviy ishlarda – Buyuk kanal qurilishi, devorni ta'mirlashda mehnat qilgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Konfutsiy ta'limotiga ko'ra mansabdor nafaqat bilimli, balki go'zal xulqli, adolatli inson bo'lishi kerakligi Xitoyda qanday tartibni yuzaga keltirdi?",
+   "options": [
+    "Amaldorlik lavozimlari faqat imperator oilasi a'zolariga berildi",
+    "Amaldorlar har bir kishi topshirishi mumkin bo'lgan davlat imtihonlari orqali tanlab olindi",
+    "Amaldorlik lavozimlari sotib olinadigan bo'ldi",
+    "Amaldorlar xalq yig'inida qo'l ko'tarish yo'li bilan saylandi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | VI asr oxirida Turk xoqonligi bosqini xavfi kuchaydi | Xitoydagi mayda podsholiklar birlashdi\n2. | X–XII asrlarda Xitoyda amaldorlarning suiiste'molliklari va yer tanqisligi kuchaydi | Mamlakatda dehqonlar qo'zg'olonlari boshlandi\n3. | Yustinian g'arbga harbiy yurishlar qilib, sharqda Eron bilan urushdi | Xazina to'lib, aholining farovonligi oshdi\n4. | Yustinian bosib olingan o'lkalarda qullikni tiklashga intildi | Uning siyosati mahalliy aholi tomonidan qo'llab-quvvatlanmadi",
+   "options": [
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1413-yilda Choson qirolligida shaxsni tasdiqlovchi hujjat – ismi yozilgan «taxta bo'lagi»ni har bir voyaga yetgan fuqaro olib yurishi shart qilib qo'yilishi qanday natija berdi?",
+   "options": [
+    "Aholining chet elga ko'chib ketishi to'liq to'xtadi",
+    "Soliq va harbiy xizmatdan bo'yin tovlashning oldini oldi",
+    "Fuqarolar saylovlarda qatnashish huquqini oldi",
+    "Yapon qaroqchilarining hujumlariga chek qo'yildi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIV asr o'rtalaridan G'arbiy Yevropada hunarmandchilik gildiyalarining inqirozga yuz tutishiga nima sabab bo'ldi?",
+   "options": [
+    "Shaharlarda hunarmandlar sonining keskin ko'payib ketishi va mahsulot narxining oshishi",
+    "Qirollarning gildiyalarni qonun bilan taqiqlashi",
+    "Salib yurishlari tufayli Sharq bilan savdoning butunlay to'xtashi",
+    "Ishlab chiqarish va savdoning yuqori darajaga ko'tarilishi, gildiya nizomlarining ishlab chiqarishni ko'paytirish va zamonaviy dastgohlarga to'sqinlik qilishi, yirik savdogarlar ta'siriga tushib qolishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Usmoniylar davlatidagi yanicharlar qo'shiniga oid to'g'ri ma'lumotlarni aniqlang.\n1. Yanicharlar qo'shini sulton O'rxon tomonidan 1299-yilda tuzilgan.\n2. Asir olingan Bolqon yarimoroli aholisining 8–16 yoshli xristian bolalaridan tashkil etilgan.\n3. Mirshablik, xavfsizlikni ta'minlash, o't o'chirish va jazolash vazifalarini ham bajargan.\n4. Har bir yanicharga yer-mulk – tumor berilib, ular qishloqlarda dehqonchilik bilan shug'ullangan.",
+   "options": [
+    "2, 3",
+    "3, 4",
+    "1, 2",
+    "1, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Li Son Gening davlat to'ntarishi va Li sulolasiga asos solishi;\n2) Usmonning beylik yerlarini mustaqil davlat deb e'lon qilishi;\n3) Chosonda oddiy aholining shikoyatlarini ko'rib chiqish uchun «maxsus qabulxona» tuzilishi;\n4) Usmonning Vizantiyaga qarashli Melangiyani zabt etishi.",
+   "options": [
+    "4, 1, 2, 3",
+    "4, 2, 1, 3",
+    "2, 4, 1, 3",
+    "4, 2, 3, 1"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1637-yilda xaritada 3 raqami bilan belgilangan davlat va manchjurlar o'rtasida imzolangan shartnoma mazkur davlatga qanday ta'sir ko'rsatdi?",
+   "options": [
+    "Mamlakat Yaponiyaning mustamlakasiga aylanib, uning nazoratiga o'tdi",
+    "Mamlakat portugallarga savdo uchun portlarini ochishga majbur bo'ldi",
+    "Mamlakat Xitoyning Min sulolasi bilan ittifoq tuzib, manchjurlarni yengdi",
+    "Uning qiroli o'zini manchjurlarning vassali deb tan olib, Min sulolasi bilan munosabatlarni to'xtatish va har yili o'lpon to'lash majburiyatini oldi"
+   ],
+   "answer": 3,
+   "image": "img/aa7e2fe36239e.jpg"
+  },
+  {
+   "q": "XVIII asrda Yaponiyada syogun Yosimune qo'riq yerlarni o'zlashtirish va sholi maydonlarini kengaytirishni rag'batlantirib, eng yaxshi sholi dalalari uchun mukofot e'lon qilishi qanday natija berdi?",
+   "options": [
+    "Samuraylar va daymyolarning imtiyozlari kengaydi",
+    "Yaponiya sholini Yevropaga eksport qila boshladi",
+    "Bu siyosat yaponlarni uzoq vaqt oziq-ovqat muammosidan xalos etdi",
+    "Yer savdosi erkinlashtirilib, yirik yer egaligi kuchaydi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvalda harflar ostiga yashirilgan to'g'ri javobni toping.\n1. 1587–1629-yillar\n2. Hindiston\n3. Syogun xristian dinini taqiqlovchi qonun chiqardi\n4. Xitoy\n5. 1628–1657-yillar\n6. Tokugava Ieyasu syogun unvonini qabul qildi\nDavr | Davlat | Voqea\n1614-yil | Yaponiya | ____A____\n1757-yil | ____B____ | Inglizlar Bengaliyani bosib oldi\n____C____ | Safaviylar davlati | Abbos I davrida yirik yer-mulk egalarining mustaqilligi tugatilib, davlat qudratining cho'qqisiga erishdi",
+   "options": [
+    "A-6, B-2, C-5",
+    "A-3, B-4, C-1",
+    "A-6, B-4, C-5",
+    "A-3, B-2, C-1"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1990-yilda Moldovaning Ruminiya bilan integratsiyalashuvi jarayoni qanday oqibatga olib keldi?",
+   "options": [
+    "Janubi-sharqiy mintaqalardagi rusiyzabon aholi orasida ayirmachilik kuchayib, Dnestrbo'yi Moldaviya Respublikasi e'lon qilindi va qonli to'qnashuv Rossiya armiyasi aralashgach to'xtadi",
+    "Moldova Ruminiya tarkibiga to'liq qo'shilib ketdi",
+    "Moldova MDH va Yevropa Ittifoqiga bir vaqtda a'zo bo'ldi",
+    "Moldovada monarxiya tiklandi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vyetnam Kommunistik partiyasi VII syezdining erkin tadbirkorlikka ruxsat berib, dehqonlarga yerga uzoq muddat egalik qilish huquqini bergan islohotlar kursi qanday natija berdi?",
+   "options": [
+    "Barqaror iqtisodiy o'sish ta'minlanib, Vyetnam oziq-ovqat eksporti bo'yicha Osiyoda birinchi, sholi eksporti bo'yicha dunyoda ikkinchi o'ringa chiqdi",
+    "Vyetnam iqtisodi inqirozga uchrab, mamlakat chet el kreditlariga qaram bo'lib qoldi",
+    "Vyetnam sotsialistik yo'ldan voz kechib, monarxiya tikladi",
+    "Chet el kapitalining kirishi butunlay taqiqlandi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvalda harflar ostiga yashirilgan to'g'ri javobni toping.\n1. Harbiy to'ntarish natijasida hokimiyatga general P. Musharraf boshchiligidagi harbiy qo'mondonlik keldi\n2. 2008-yil\n3. Moldova\n4. 2012-yil\n5. Belarus\n6. B. Bhutto bosh vazir lavozimini egalladi\nDavr | Davlat | Voqea\n1999-yil kuzi | Pokiston | ____A____\n2025-yil 26-yanvar | ____B____ | A. Lukashenko yana prezident etib saylandi\n____C____ | Gruziya | Parlament saylovida muxolifatchi «Gruziya orzusi» partiyasi g'olib chiqdi",
+   "options": [
+    "A-6, B-5, C-2",
+    "A-1, B-5, C-4",
+    "A-6, B-3, C-2",
+    "A-1, B-3, C-4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | Moldova 2009-yilgi inqirozni boshdan kechirdi | Moldova Yevropaning eng boy mamlakatiga aylandi\n2. | P. Musharraf AQSH bilan yaqinlashish kursini tanladi | Unga qarshi suiqasdlar uyushtirilib, islomiy guruhlar uni dushman deb e'lon qildi\n3. | 2022-yili Imron Xon Pokiston bosh vaziri lavozimidan ozod qilindi | U noqonuniy daromad orttirganlikda ayblanib, uzoq muddatli qamoq jazosiga hukm qilindi\n4. | 2024-yilgi parlament saylovida «Gruziya orzusi» partiyasi g'olib chiqdi | Gruziyaning Yevropa Ittifoqiga a'zoligi masalasi 2028-yilgacha to'xtatildi",
+   "options": [
+    "1-to'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xronologik ketma-ketlik NOMUVOFIQ berilgan javobni aniqlang.",
+   "options": [
+    "Moldovaning mustaqillikni e'lon qilishi → Asif Ali Zardariyning Pokiston prezidenti etib saylanishi → Navoz Sharifning Pokiston bosh vaziri bo'lishi",
+    "Navoz Sharifning Pokiston bosh vaziri bo'lishi → Asif Ali Zardariyning Pokiston prezidenti etib saylanishi → Mayya Sandunning Moldova prezidenti etib saylanishi",
+    "Asif Ali Zardariyning Pokiston prezidenti etib saylanishi → Igor Dodonning Moldova prezidentlik saylovida g'olib chiqishi → Mayya Sandunning Moldova prezidenti etib saylanishi",
+    "Moldovaning mustaqillikni e'lon qilishi → Igor Dodonning Moldova prezidentlik saylovida g'olib chiqishi → Mayya Sandunning Moldova prezidenti etib saylanishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qituvchi o'quvchilarga baholash varaqasi (rubrika) asosida o'z ishlarini o'zlari baholashni o'rgatdi va natijalar bo'yicha har biriga keyingi qadamlar haqida tavsiya berdi. Kasb standartining qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "O'zlashtirishni baholash va qayta aloqani taqdim etish",
+    "Tarbiyaviy faoliyatni tashkil etish",
+    "Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash",
+    "O'quv jarayonini rejalashtirish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi ota-onalar yig'ilishida farzandlarining o'quv natijalari tahlilini taqdim etib, uyda kitobxonlikni qo'llab-quvvatlash bo'yicha ota-onalarga tavsiyalar berdi. Qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "Ta'lim samaradorligini ta'minlash",
+    "Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik",
+    "O'quv jarayonini rejalashtirish",
+    "O'z-o'zini rivojlantirish va kasbiy o'sish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qituvchi sinf xonasidagi elektr jihozining nosozligini aniqlab, zudlik bilan ma'muriyatga xabar berdi va ta'mirlanguncha o'quvchilarni u yerdan uzoqlashtirdi. Qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "Tarbiyaviy faoliyatni tashkil etish",
+    "Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik",
+    "Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash",
+    "O'zlashtirishni baholash va qayta aloqani taqdim etish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Pedagogik vaziyatlar va ularda namoyon bo'lgan mehnat vazifalarini moslashtiring.\n1. O'qituvchi yangi o'quv yili uchun mavzular, soatlar va dars b) turlarini belgilab, tematik reja tuzdi\n2. O'qituvchi «Yosh tarixchilar» to'garagini tashkil etib, vatanparvarlik ruhidagi tadbirlar o'tkazdi\na) O'quv jarayonini rejalashtirish Tarbiyaviy faoliyatni tashkil etish\nc) O'z-o'zini rivojlantirish va kasbiy o'sish",
+   "options": [
+    "1-a, 2-b",
+    "1-b, 2-a",
+    "1-a, 2-c",
+    "1-c, 2-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi o'z ish tajribasini umumlashtirib, ilmiy-metodik jurnalda maqola chop ettirdi va pedagogik o'qishlarda ma'ruza qildi. Qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "O'z-o'zini rivojlantirish va kasbiy o'sish",
+    "Ta'lim samaradorligini ta'minlash",
+    "Tarbiyaviy faoliyatni tashkil etish",
+    "O'zlashtirishni baholash va qayta aloqani taqdim etish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'quvchilar o'qituvchini chuqur bilimi, adolatliligi, so'zi bilan ishining birligi uchun hurmat qiladilar; uning fikri ular uchun qimmatli va ishonarli. Bu o'qituvchining qaysi fazilati?",
+   "options": [
+    "Pedagogik refleksiya",
+    "Pedagogik obro' (avtoritet)",
+    "Pedagogik texnika",
+    "Pedagogik takt"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qituvchi muhim sana va atamalarni sekinroq, tushuntirish qismini esa o'rtacha tezlikda gapirib, nutq sur'atini mazmunga moslashtirdi. Nutq texnikasining qaysi elementidan foydalanildi?",
+   "options": [
+    "Intonatsiya",
+    "Tembr",
+    "Temp",
+    "Diksiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi mavzuni maqsad, o'quv materiali, topshiriqlar va nazorat savollaridan iborat yaxlit bloklarga ajratdi; o'quvchilar har bir blokni o'z sur'atida mustaqil o'zlashtirdi. Qaysi ta'lim texnologiyasi qo'llanilgan?",
+   "options": [
+    "O'yinli ta'lim texnologiyasi",
+    "Loyihaga asoslangan ta'lim",
+    "Hamkorlikda o'qitish",
+    "Modulli ta'lim"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Formativ (shakllantiruvchi) baholashga xos xususiyatlarni aniqlang.\n1. O'quv jarayonida muntazam o'tkazilib, o'quvchiga qayta aloqa beradi.\n2. Faqat o'quv yili yakunida o'tkaziladi.\n3. O'qituvchiga o'qitish usullarini o'z vaqtida tuzatish imkonini beradi.\n4. Natijalari attestat bahosini belgilash uchun yagona asos hisoblanadi.",
+   "options": [
+    "3, 4",
+    "2, 4",
+    "1, 3",
+    "1, 2"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi onlayn test yaratib, havolasini o'quvchilarga yubordi; javoblar avtomatik yig'ilib, natijalar jadval ko'rinishida chiqarildi. Qaysi xizmatdan foydalanilgan?",
+   "options": [
+    "Microsoft Paint",
+    "Windows Media Player",
+    "Microsoft Word",
+    "Google Forms"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ta'limni tashkil etish shakllari va ularning mazmunini moslashtiring.\n1. Frontal ish\n2. Guruhli ish\n3. Individual ish\na) o'qituvchi butun sinf bilan bir vaqtda ishlaydi\nb) sinf kichik guruhlarga bo'linib, har bir guruh umumiy topshiriqni birgalikda bajaradi\nc) har bir o'quvchi alohida topshiriq ustida mustaqil ishlaydi\nd) ikki o'quvchi birgalikda topshiriq bajaradi",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Imkoniyati cheklangan bolalarning umumta'lim maktabida sog'lom tengdoshlari bilan birga ta'lim olishini ta'minlovchi yondashuv qanday ataladi?",
+   "options": [
+    "Differensial ta'lim",
+    "Modulli ta'lim",
+    "Inklyuziv ta'lim",
+    "Masofaviy ta'lim"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi Somoniylar, Qoraxoniylar va G'aznaviylar davlatlarini poytaxti, hukmdorlari va boshqaruv tizimi kabi jihatlar bo'yicha taqqoslash uchun ustun va satrlardan iborat jadvalni to'ldirtirdi. Qaysi grafik organayzer qo'llanilgan?",
+   "options": [
+    "Konseptual jadval",
+    "«Baliq skeleti»",
+    "Klaster",
+    "Sinkveyn"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi o'quvchilarga «Qo'qon xonligi» mavzusidagi asosiy voqealarni yillari bilan ikki ustunli jadvalga – «sana» va «voqea» ko'rinishida tartib bilan yozishni topshirdi. Bu tarix o'qitishning qaysi usuli?",
+   "options": [
+    "Glossariy tuzish",
+    "Tarixiy portret tuzish",
+    "Xronologik jadval tuzish",
+    "Rolli o'yin"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi Xivadagi Ichan qal'a muzey-qo'riqxonasining virtual sayohat dasturi orqali o'quvchilarni yodgorliklar bilan tanishtirdi va ular har bir obida haqida qisqa qayd yozishdi. Qaysi dars shakli qo'llanilgan?",
+   "options": [
+    "Debat",
+    "Virtual ekskursiya (dars-sayohat)",
+    "Dars-konferensiya",
+    "Dars-sud o'qitish metodikasi"
+   ],
+   "answer": 1
+  }
+ ]
+}

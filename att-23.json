@@ -1,0 +1,507 @@
+{
+ "title": "Attestatsiya tarix 23-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Kushon davlatidagi o'zaro madaniy va savdo aloqalari tufayli O'rta Osiyoning turli viloyatlarida qaysi yozuv keng rivojlandi va uni o'zlashtirish nima uchun oson bo'lgan?",
+   "options": [
+    "Runik yozuv; toshga o'yib yozilgani sababli",
+    "Mixxat yozuvi; belgilari kam bo'lgani sababli",
+    "Aramey yozuvi; alohida harflarga asoslangani sababli",
+    "Iyeroglif yozuvi; har bir belgi so'zni anglatgani sababli"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kushon davlatiga oid to'g'ri ma'lumotlarni aniqlang.\n1. Davlat xo'jaligining asosini sug'orma dehqonchilik, savdo-sotiq va hunarmandchilik tashkil qilgan.\n2. Aholi faqat ko'chmanchi chorvachilik bilan shug'ullangan.\n3. Kushonlar davrida suv tegirmoni va chig'ir turlaridan keng foydalanilgan.\n4. Kushon davlati mil. avv. III asrda parchalanib ketgan.",
+   "options": [
+    "2, 4",
+    "3, 4",
+    "1, 3",
+    "1, 2"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Poytaxti Sirdaryo quyi oqimidagi Yangikent shahri bo'lgan O'g'uzlar davlatiga shimoli-sharqdan qo'zg'algan qipchoqlarning qaqshatqich zarbasi qanday natijaga olib keldi?",
+   "options": [
+    "O'g'uzlar Somoniylar davlatiga qo'shib olindi",
+    "O'g'uzlar bo'linib, bir qismi Shimoliy Kavkaz dashtlariga, ikkinchi qismi Movarounnahrga kirib bordi",
+    "O'g'uzlar qipchoqlarni yengib, Yettisuvni egalladi",
+    "O'g'uzlar islomdan voz kechib, Xitoyga ko'chib ketdi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "IX asrga kelib iqtisodiy ahvolning yaxshilanishi va shaharlar ahamiyatining ortib borishi qurilishda qanday o'zgarishga olib keldi?",
+   "options": [
+    "Loy va xom g'ishtdan qurilgan binolar o'rniga pishiq g'isht ham ishlatila boshlandi",
+    "Binolar faqat yog'ochdan quriladigan bo'ldi",
+    "Masjid va madrasalar qurish taqiqlandi",
+    "Shaharlarda qurilish ishlari butunlay to'xtatildi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIII asrga kelib Ibn Sino ilmiy merosini o'rganish ishlarining jadal tus olishi qanday natija berdi?",
+   "options": [
+    "Ibn Sino asarlari Yevropada taqiqlanib, yo'q qilindi",
+    "Ibn Sino merosi faqat falsafa sohasida o'rganila boshlandi",
+    "«Tib qonunlari» faqat arab tilida saqlanib qoldi",
+    "Maxsus ilmiy yo'nalish – sinoshunoslik vujudga keldi, «Tib qonunlari»ning lotincha tarjimasi to'liq holda 40 marta nashr qilindi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sulton Muhammad Xorazmshohning Bag'dod xalifaligi bilan kurashi, 1218-yilda xalifa nomini xutbadan chiqarib tashlashi qanday oqibatga olib keldi?",
+   "options": [
+    "Xalifa Xorazmshohni «Sulton» deb tan olib, unga yorliq yubordi",
+    "Xalifalikning mo'g'ullar bilan yaqinlashuvi yuz berib, xalifa Chingizxon saroyiga maxfiy ravishda maxsus elchi yubordi",
+    "Xorazmshoh Bag'dodni egallab, xalifalikni tugatdi",
+    "Xorazmshoh va xalifa birlashib, mo'g'ullarga qarshi ittifoq tuzdi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Qazag'on o'ldirilgandan so'ng Kesh hokimi Hoji Barlos tomonidan taxtga chingiziylardan bo'lmish Temurshohning o'tqazilishi va uning ikki yilga yaqin hukmronligi qanday natija berdi?",
+   "options": [
+    "Movarounnahr Oltin O'rda tarkibiga qo'shib olindi",
+    "Chig'atoy ulusi yagona markazlashgan davlatga aylandi",
+    "Temurshoh Mo'g'ulistonni Movarounnahr bilan birlashtirdi",
+    "Chig'atoy ulusi mayda bekliklarga bo'linib ketib, beklar o'zaro ichki kurashlarga tortildi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | Sulton Muhammad 1212-yilda Movarounnahrda qoraxoniylar boshqaruviga chek qo'ydi | U tez orada Samarqandni o'z poytaxti deb e'lon qildi\n2. | 1225-yilda Jaloliddin Manguberdi Tabrizga yaqinlashganda shahar malikasi omonlik so'radi | Malika Bag'dod xalifasi bilan ittifoq tuzib, Tabrizni Jaloliddindan himoya qildi\n3. | 1385-yilda To'xtamishxon Amir Temur davlatiga qarashli Ozarbayjonni egallashga harakat qildi | Amir Temur va To'xtamishxon o'rtasida bir necha bor jang bo'lib o'tdi\n4. | Sulton Husayn mirzo va saroy amaldorlari maishatga berilib ketdi | Xuroson davlati zaiflashib, 1507-yilda Hirotni shayboniylar zabt etdi",
+   "options": [
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-noto'g'ri, 4-to'g'ri"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1497-yilning kuzida 7 oylik qamaldan so'ng Boburning Samarqandni egallashi qanday oqibatga olib keldi?",
+   "options": [
+    "Sovuq va ochlikdan qo'shinning ahvoli tanglashib, ko'p navkarlar uni tashlab ketdi, Andijondagi beklar isyon ko'tarib, Bobur Samarqandni tashlab chiqishga majbur bo'ldi",
+    "Samarqand Bobur davlatining poytaxti bo'lib, u yerda 20 yil hukmronlik qildi",
+    "Bobur Samarqandni Shayboniyxonga ixtiyoriy topshirib, Hindistonga yurish boshladi",
+    "Bobur Movarounnahrning yagona hukmdoriga aylanib, Shayboniyxonni Dashti Qipchoqqa quvib yubordi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvalda harflar ostiga yashirilgan to'g'ri javobni toping.\n1. Qozoqlar Movarounnahrga hujum qilib, Xo'jandgacha keldi\n2. Qo'qon xonligi\n3. XVIII asr\n4. Xiva xonligi\n5. Shayboniylar sulolasi hukmronligi barham topdi\n6. XIX asr boshlari\nDavr | Davlat / xalq | Voqea\n1645-yil | Buxoro xonligi (ashtarxoniylar) | ____A____\n1855-yil | ____B____ | Eronga yurish chog'ida xon jangda halok bo'lib, u boshlagan minora bitmay qoldi\n____C____ | Qoraqalpoqlar | Qozoqlarning siquvi va xonlarning zulmi natijasida Sirdaryo quyi oqimidan Amudaryoning quyi qismlariga ko'chdi",
+   "options": [
+    "A-1, B-2, C-6",
+    "A-1, B-4, C-6",
+    "A-5, B-4, C-3",
+    "A-5, B-2, C-3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda qoraqalpoqlar orasida mulkiy tabaqalanishning kuchayishi, jamoa yer egaligining barham topib, suv havzalarining ham alohida kishilar tomonidan egallanishi qanday oqibatga olib keldi?",
+   "options": [
+    "Yer va suv havzalari jamoa mulkiga qaytarildi",
+    "Qoraqalpoqlar dehqonchilikdan butunlay voz kechdi",
+    "Yersiz va chorva mollarisiz qolgan kambag'allar soni ko'payib, ular ijaraga yer olib ishlashga majbur bo'ldi",
+    "Barcha aholi teng miqdorda yer va chorvaga ega bo'ldi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rossiya imperiyasining harbiy istilochilik yurishlari natijasida bosib olingan hududlarda qanday ma'muriy birlik tuzildi va unga kim boshliq etib tayinlandi?",
+   "options": [
+    "Turkiston viloyati; M. Chernyayev gubernator qilib tayinlandi",
+    "Turkiston general-gubernatorligi; K. Kaufman tayinlandi",
+    "Farg'ona viloyati; M. Skobelev tayinlandi",
+    "Sirdaryo viloyati; V. Perovskiy tayinlandi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "P. Lessarning Rossiya imperiyasining Buxoro amirligidagi birinchi vakili etib tayinlanishi qanday natija berdi?",
+   "options": [
+    "Imperiya hukumati Buxoro amirini o'z ta'sir doirasiga kiritib, undan o'z manfaatlari yo'lida foydalandi",
+    "Buxoro amirligi Afg'oniston bilan ittifoq tuzdi",
+    "Buxoro amiri mustaqil tashqi siyosat yuritish huquqini qo'lga kiritdi",
+    "Buxoro amirligi rasman tugatilib, Turkiston general-gubernatorligiga qo'shildi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ikkinchi jahon urushi yillarida O'zbekiston qishloq xo'jaligiga oid to'g'ri ma'lumotlarni aniqlang.\n1. Urushning dastlabki yillarida paxta maydonlari qisqartirilib, g'alla, sabzavot-poliz ekinlari yetishtirish yo'lga qo'yildi.\n2. Qishloq xo'jaligiga yonilg'i va mineral o'g'itlar yetkazib berish ko'paydi.\n3. Mashinalar va otlarning bir qismi armiyaga jo'natilgani sababli qo'l mehnatiga ehtiyoj oshdi.\n4. Qishloq joylarda 16 yoshdan boshlab mehnat minimumi joriy etildi.",
+   "options": [
+    "3, 4",
+    "2, 4",
+    "1, 3",
+    "1, 2"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ilm-fan sohasidagi voqealar va ularning sanalarini moslashtiring.\n1. 1991-yil\n2. 2017-yil sentyabr\n3. 2018-yil\na) O'zbekiston Fanlar akademiyasi qayta tashkil etildi\nb) Ostonada Islom hamkorlik tashkilotining ilm-fan bo'yicha birinchi sammitida xalqaro matematika olimpiadasini o'tkazish tashabbusi ilgari surildi\nc) Urganchda talabalar o'rtasida Muhammad al-Xorazmiy nomidagi xalqaro matematika olimpiadasi ilk bor o'tkazildi\nd) Xorazm Ma'mun akademiyasi o'z faoliyatini boshladi",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mustaqillik yillarida Fanlar akademiyasi olimlari qishloq xo'jaligi sohasida qanday yutuqqa erishdi?",
+   "options": [
+    "Paxtaning turli iqlim sharoitlariga mos, yuqori hosildor navlari yaratildi",
+    "Paxtachilik butunlay to'xtatilib, faqat g'allachilik rivojlantirildi",
+    "Paxta terish to'liq robotlashtirildi",
+    "Orol dengizi to'liq qayta tiklandi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mustaqil Davlatlar Hamdo'stligi (MDH)ga oid to'g'ri ma'lumotlarni aniqlang.\n1. 1991-yil 21-dekabrda Olmaota shahrida o'n bitta mustaqil davlat rahbarlari MDHni tashkil qildi.\n2. Tashkilotning bosh organi – Ijroiya qo'mitasining qarorgohi Moskva shahrida joylashgan.\n3. 1993-yili Minskda bo'lib o'tgan sammitda tashkilotning nizomi qabul qilindi.\n4. O'zbekiston MDHga 2025-yilda raislik qildi.",
+   "options": [
+    "1, 3",
+    "2, 4",
+    "3, 4",
+    "1, 2"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Voqealarni xronologik ketma-ketlikda joylashtiring.\n1) BMT tomonidan 21-martning Xalqaro Navro'z kuni deb e'lon qilinishi;\n2) YuNESKOning Navro'zni insoniyatning nomoddiy madaniy merosi sifatida e'tirof etishi;\n3) Olmaotada Mustaqil Davlatlar Hamdo'stligining tashkil etilishi;\n4) Xorazm Ma'mun akademiyasining o'z faoliyatini boshlashi.",
+   "options": [
+    "3, 2, 4, 1",
+    "3, 4, 2, 1",
+    "3, 4, 1, 2",
+    "4, 3, 2, 1"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Rimda «12 jadval qonunlari» qabul qilinishiga nima sabab bo'lgan?",
+   "options": [
+    "Karfagen bilan urushda g'alaba qozonilgani munosabati bilan",
+    "Rim imperatori Oktavian Avgustning farmoni",
+    "Og'zaki qonunlarga asoslangan sudlarda patritsiylar adolatsiz qarorlar chiqarib, plebeylar yozma qonunlar yaratishni talab qilgani",
+    "Yunonistondan keltirilgan Solon qonunlarini tarjima qilish zarurati"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi yunon shoiri Gomerning «Iliada» dostoni nima haqida hikoya qiladi?",
+   "options": [
+    "Odisseyning vataniga qaytish yo'lidagi sarguzashtlari haqida",
+    "Aleksandr Makedonskiyning Sharqqa yurishlari haqida",
+    "Troya urushining oxirgi, o'ninchi yili haqida",
+    "Yunon-fors urushlari haqida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abbosiylar xalifaligida musulmon bo'lmaganlarning davlat xizmatiga olinmagani va ko'proq soliq to'lagani qanday natijaga olib keldi?",
+   "options": [
+    "Xalifalikda boshqa dinlar davlat dini deb e'lon qilindi",
+    "Arab tili davlat tili maqomidan mahrum etildi",
+    "Musulmon bo'lmaganlar xalifalikdan butunlay ko'chib ketdi",
+    "Ko'pchilik islomni qabul qilib, arab tilini o'rgandi va aholining asosiy qismi musulmon bo'ldi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1177-yilda Yaponiyaning Xeyyan shahri yong'in natijasida vayron bo'ldi. Shahar qayta tiklangach, qanday o'zgarish yuz berdi?",
+   "options": [
+    "Shahar mo'g'ullarga topshirildi",
+    "Yaponiya poytaxti Edo (Tokio)ga ko'chirildi",
+    "Kioto nomini olib, mamlakat poytaxtiga aylandi",
+    "Shahar budda ibodatxonasiga aylantirildi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | Gupta hukmdorlari yer-mulklar in'om etdi | Amaldorlar va harbiylardan iborat yirik yer egalari toifasi paydo bo'ldi\n2. | Ustalar xalfalarning ustalikka o'tishiga to'sqinlik qila boshladi | 10–12 yillab ustalikka o'ta olmagan xalfalar tabaqasi vujudga keldi\n3. | Hunarmandlarning savdo uchun tayyorlagan buyumlari ko'paydi | Xomashyo va qishloq xo'jalik mahsulotlariga talab kamaydi\n4. | Mo'g'ullardan mag'lub bo'lish sababini Koreya saroyidagilar buddaviylikdan ko'rdi | XIII asrdan so'ng ibodatxonalar borish mushkul bo'lgan joylarda qurila boshlandi",
+   "options": [
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qirol Lyudovik XI ning Burgundiya gersogi Karl Jasurga qarshi kurashi qanday yakunlandi?",
+   "options": [
+    "Qirol va gersog Fransiyani o'zaro teng bo'lib oldi",
+    "Burgundiya Angliya qirolligi tarkibiga qo'shildi",
+    "Lyudovik XI asirga olinib, Burgundiya mustaqil qirollikka aylandi",
+    "Karl Jasur o'ldirilib, uning katta yer-mulklari qirol ixtiyoriga o'tdi, Fransiyadagi o'zaro qarama- qarshiliklarga yakun yasaldi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'rta asrlar Yevropasida Rim papasining farmoni bilan ruhoniylarning sahnaga chiqishi taqiqlanishi qanday natija berdi?",
+   "options": [
+    "Aktyorlikka faqat zodagonlarga ruxsat berildi",
+    "Spektakllar faqat cherkov ichida qo'yiladigan bo'ldi",
+    "Aktyorlik vazifalarini oddiy shahar aholisi bajara boshladi",
+    "Teatr tomoshalari butunlay to'xtab qoldi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlatlar va ularga oid ma'lumotlarni moslashtiring.\n1. Dehli sultonligi\n2. Oq qo'yunlilar davlati\n3. Livoniya ordeni\na) Sayyidlar sulolasi hukmronligining oxiriga kelib sultonlar qo'g'irchoqqa aylanib, faqat nomigagina hukmronlikni saqlab qoldi\nb) XVI asr boshida Safaviylar uning asosiy kuchlarini mag'lub etib, Eronni yagona davlatga birlashtirdi\nc) ritsarlari Novgorodga hujum qilib, Izborsk va Pskovni egalladi\nd) 1370-yilda Daniyaga jiddiy zarba berib, boj to'lovlarini kamaytirishga erishdi",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nuqtalar o'rniga mos so'zlarni qo'yib, tarixiy matnni to'ldiring. Mamlakat hududi kengayib, beylik yirik markazlashgan davlatga aylanishi natijasida beyning hokimiyati kuchayib bordi va mamlakat ......A...... monarxiyaga aylandi. ......B......ning o'g'li ......C...... davridan boshlab hukmdorlar sulton deb ataladigan bo'ldi.\n1) Usmon;\n2) mutlaq;\n3) Murod I;\n4) cheklangan;\n5) O'rxon.",
+   "options": [
+    "A-2, B-1, C-5",
+    "A-2, B-5, C-3",
+    "A-4, B-5, C-3",
+    "A-4, B-1, C-5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XVII asr oxiri – XVIII asr boshida xaritada 2 raqami bilan belgilangan hududdagi Sennar sultonligi bilan 3 raqami bilan belgilangan qo'shni davlat o'rtasidagi urush qanday natijaga olib keldi?",
+   "options": [
+    "Sennar sultonligi Buyuk Britaniyaning mustamlakasiga aylandi",
+    "Ikkala davlat birlashib, yagona Darfur sultonligini tuzdi",
+    "Sennar sultonligi qo'shni davlatni bosib olib, Qizil dengizgacha yetib bordi",
+    "Sennarda sulton hokimiyati to'liq inqirozga yuz tutib, hokimiyat Xamaj vazirlari sulolasiga o'tdi"
+   ],
+   "answer": 3,
+   "image": "img/a7eb9cbc8e5b4.jpg"
+  },
+  {
+   "q": "Angliyada ikki yuz ellik yil ichida yuz bergan «agrar inqilob» qanday oqibatlarga olib keldi?",
+   "options": [
+    "Yirik yer egaligi butunlay tugatildi",
+    "Qishloq xo'jaligida mashinalardan foydalanish taqiqlandi",
+    "Barcha yerlar dehqonlarga teng taqsimlab berildi",
+    "Yerlar yirik mulkdorlar qo'lida to'planib, dehqonlar yo'qoldi, qishloq xo'jaligida yollanma ishchilar asosiy kuchga aylandi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Boburiylar imperiyasining hukmdori Shoh Avrangzeb siyosatiga oid to'g'ri ma'lumotlarni aniqlang.\n1. Musulmon bo'lmaganlardan olinadigan jizya solig'ini qaytadan tikladi.\n2. Hindlar uchun barcha soliqlarni ikki baravar kamaytirdi.\n3. Hind ibodatxonalarini buzib tashlashni buyurdi.\n4. Hindlarga o'z bayramlarini erkin nishonlashga ruxsat berdi.",
+   "options": [
+    "2, 4",
+    "1, 3",
+    "1, 2",
+    "3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yaponiyada zamonaviy infratuzilma, transport va informatsion tizimga ega texnopolislar tashkil qilinishi qanday natija berdi?",
+   "options": [
+    "Yaponiya jahon bozoriga mikroprotsessorlar, shaxsiy kompyuterlar, sanoat robotlari kabi yangi turdagi mahsulotlar bilan chiqdi",
+    "Yaponiyada sanoat ishlab chiqarishi keskin qisqardi",
+    "Yaponiya chet el texnologiyalarini olib kirishni butunlay to'xtatdi",
+    "Yaponiya qishloq xo'jalik mahsulotlari eksporti bo'yicha jahonda birinchi o'ringa chiqdi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1992-yilda Ozarbayjonda hokimiyatga kelgan A. Elchibey boshchiligidagi Xalq frontining mamlakatda tinchlik va totuvlikni ta'minlay olmagani qanday oqibatga olib keldi?",
+   "options": [
+    "Prezident lavozimi tugatilib, monarxiya o'rnatildi",
+    "A. Elchibey umrbod prezident deb e'lon qilindi",
+    "Milliy Majlis A. Elchibeyni lavozimidan mahrum qilib, uning vakolatlarini Milliy Majlis raisi Haydar Aliyevga topshirdi",
+    "Ozarbayjon Rossiya Federatsiyasi tarkibiga kirdi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvalda harflar ostiga yashirilgan to'g'ri javobni toping.\n1. Misr\n2. XX asr oxiri\n3. Harbiylar hokimiyatni egallab, «qora polkovniklar» diktaturasi o'rnatildi\n4. Liviya\n5. XXI asr boshi\n6. Mamlakat NATOdan chiqdi\nDavr | Davlat | Voqea\n1967-yil | Gretsiya | ____A____\n1969-yil | ____B____ | «Yosh ofitserlar» tashkiloti monarxiyani ag'darib, respublika e'lon qildi\n____C____ | Ukraina | Uchinchi tur saylovda V. Yushchenko prezident etib saylandi",
+   "options": [
+    "A-6, B-1, C-2",
+    "A-6, B-4, C-2",
+    "A-3, B-4, C-5",
+    "A-3, B-1, C-5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | R. Erdog'an moliya vazirining makroiqtisodiy siyosatini qo'llab-quvvatladi | 2013-yilda Turkiya XVFdan yangi yirik qarz oldi\n2. | Tojikiston ShHT va KXShTga qo'shilib, Rossiya, Xitoy va Eron bilan investitsion loyihalarni boshladi | Tojikistonda iqtisodiy o'sish boshlandi\n3. | Ikkinchi afyun urushida Xitoy mag'lubiyatga uchradi | «O'z-o'zini kuchaytirish» («szi syan») nomli taraqqiyot yo'li ishlab chiqildi\n4. | S. Tomas suyuq cho'yanni tozalash usulini kashf etdi | 1870–1900-yillarda jahonda po'lat ishlab chiqarish ikki barobar kamaydi",
+   "options": [
+    "1-noto'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-noto'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xronologik ketma-ketlik NOMUVOFIQ berilgan javobni aniqlang.",
+   "options": [
+    "Liviyada monarxiyaning ag'darilishi → Ikkinchi afyun urushi → Ozarbayjonda H. Aliyevning prezident etib saylanishi",
+    "Gretsiyada harbiylarning hokimiyatni egallashi → Liviyada monarxiyaning ag'darilishi → Tojikistonning Yevroosiyo iqtisodiy hamkorligi shartnomasini imzolashi",
+    "Ikkinchi afyun urushi → Gretsiyada harbiylarning hokimiyatni egallashi → Ukrainada uchinchi tur saylov",
+    "Ozarbayjonda H. Aliyevning prezident etib saylanishi → Ukrainada uchinchi tur saylov → I. Raisiyning aviahalokatda halok bo'lishi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi chorak boshida o'quvchilar bilimini diagnostik test orqali aniqlab, uning natijalarini inobatga olgan holda darsning aniq va o'lchanadigan maqsadlarini belgiladi hamda dars rejasini ishlab chiqdi. Kasb standartining qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "O'z-o'zini rivojlantirish va kasbiy o'sish",
+    "Tarbiyaviy faoliyatni tashkil etish",
+    "O'quv jarayonini rejalashtirish",
+    "O'zlashtirishni baholash va qayta aloqani taqdim etish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Darsda o'qituvchi o'quvchilarning o'zlashtirish darajasiga qarab uch xil murakkablikdagi topshiriqlar berdi, har bir o'quvchiga erishimli vazifa belgilab, faol usullardan foydalandi. Qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "Tarbiyaviy faoliyatni tashkil etish",
+    "Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash",
+    "Ta'lim samaradorligini ta'minlash",
+    "Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi nazorat ishini oldindan e'lon qilingan mezonlar asosida baholadi, har bir o'quvchiga qo'yilgan bahoni asoslab berdi va xatolar ustida ishlash yo'llarini ko'rsatdi. Qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "Tarbiyaviy faoliyatni tashkil etish",
+    "O'zlashtirishni baholash va qayta aloqani taqdim etish",
+    "O'quv jarayonini rejalashtirish",
+    "Ta'lim samaradorligini ta'minlash"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pedagogik vaziyatlar va ularda namoyon bo'lgan mehnat vazifalarini moslashtiring.\n1. O'qituvchi o'quvchilar bilan yong'in xavfi tug'ilganda binodan evakuatsiya qilinish mashqini o'tkazdi\n2. Yosh o'qituvchi metodbirlashmada hamkasblarining ochiq darslarida qatnashib, ularni tahlil qilib bordi\na) Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash\nb) O'z-o'zini rivojlantirish va kasbiy o'sish\nc) O'quv jarayonini rejalashtirish",
+   "options": [
+    "1-b, 2-a",
+    "1-c, 2-b",
+    "1-a, 2-c",
+    "1-a, 2-b"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sinf rahbari o'quvchining xulqidagi o'zgarishlarni sezib, maktab psixologi va fan o'qituvchilari bilan birgalikda muammoni o'rganib chiqdi va yagona yondashuv ishlab chiqdi. Qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "Ta'lim samaradorligini ta'minlash",
+    "Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik",
+    "O'z-o'zini rivojlantirish va kasbiy o'sish",
+    "O'quv jarayonini rejalashtirish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qituvchi topshiriq berdi; o'quvchilar sinfda bahslashib, bir-birining fikrini to'ldirib, muzokara qilib topshiriqni bajarishdi. Bu vaziyatda nutqning qaysi shakli namoyon bo'ldi?",
+   "options": [
+    "Polilog",
+    "Triolog",
+    "Monolog",
+    "Dialog"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Boshlang'ich sinf o'qituvchisi attestatsiyada yetarli ball to'play olmadi, biroq «Bu men uchun yaxshi tajriba bo'ldi» deb, kayfiyatini yo'qotmadi va tayyorgarlikni davom ettirdi. O'qituvchining qanday xususiyati namoyon bo'ldi?",
+   "options": [
+    "Introvertlik",
+    "Optimistiklik",
+    "Pessimistiklik",
+    "Konformizm"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan qaysi biri ta'limni tashkil etishning yordamchi shakllariga kirmaydi?",
+   "options": [
+    "O'quv ekskursiyasi",
+    "Fakultativ mashg'ulot",
+    "Sinf-dars",
+    "Fan to'garagi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Murakkab pedagogik vaziyatda o'qituvchi e'tibor berishi kerak bo'lgan jihatlarning to'g'ri ketma- ketligini aniqlang.\n1) pedagogik ta'sir ko'rsatish;\n2) optimal metodlarni tanlash;\n3) murakkab vaziyatdan chiqish variantlarini saralash;\n4) vaziyatni tahlil qilish.",
+   "options": [
+    "3, 4, 1, 2",
+    "4, 3, 2, 1",
+    "3, 4, 2, 1",
+    "4, 2, 3, 1"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qituvchi o'quvchilarni kichik guruhlarga bo'lib, har bir guruhga umumiy topshiriq berdi; o'quvchilar bilimlarni birgalikda o'zlashtirib, bir-birining rivojlanishiga yordam berishdi. Qaysi ta'lim texnologiyasi qo'llanilgan?",
+   "options": [
+    "Modul ta'limi",
+    "Hamkorlikda o'qitish (hamkorlik ta'limi)",
+    "Reproduktiv ta'lim",
+    "Dasturlashtirilgan ta'lim"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Refleksiya turlari va ularning mazmunini moslashtiring.\n1. Intellektual refleksiya\n2. Shaxsiy refleksiya\n3. Kommunikativ refleksiya\n4. Kooperativ refleksiya\na) muammolarni fikrlash asosida ijobiy hal qilishni belgilaydi\nb) nizoli pedagogik ziddiyatlardan janjalsiz chiqishni fikran izlanish asosida ta'minlaydi\nc) muloqot jarayonida sheriklarning bir-birini tushunib munosabat qilishini ta'minlaydi\nd) jamoa a'zolarining birgalikdagi mehnat faoliyatini muvofiqlashtirish bilan bog'liq\ne) o'quvchilarning jismoniy holatini baholashga qaratilgan",
+   "options": [
+    "1-a, 2-b, 3-d, 4-c",
+    "1-a, 2-b, 3-c, 4-e",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-d"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Insonning fuqarolik jamiyatining faol va mas'uliyatli a'zosi bo'lish, uni shakllantirish va rivojlantirishda ishtirok etish qobiliyati qanday kompetensiya deb ataladi?",
+   "options": [
+    "Fuqarolik kompetensiyasi",
+    "Kommunikativ kompetensiya",
+    "Matematik savodxonlik kompetensiyasi",
+    "Axborot bilan ishlash kompetensiyasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi o'quvchilarga Turkiston muxtoriyatining tugatilishiga oid real tarixiy vaziyat bayoni, qo'shimcha manbalar va «Siz shu davr arbobi bo'lganingizda qanday qaror qabul qilardingiz?» degan topshiriqni berdi. Qaysi metod qo'llanilgan?",
+   "options": [
+    "Insert",
+    "Keys-stadi",
+    "Sinkveyn",
+    "Klaster"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mavzu boshida o'quvchilar jadvalning birinchi ustuniga «Bilaman», ikkinchisiga «Bilishni xohlayman» qismini to'ldirdi; dars oxirida esa uchinchi – «Bilib oldim» ustunini to'ldirishdi. Qaysi grafik organayzer qo'llanilgan?",
+   "options": [
+    "BBB (Bilaman – Bilishni xohlayman – Bilib oldim) jadvali",
+    "Klaster",
+    "Venn diagrammasi",
+    "Sinkveyn"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi o'quvchilarga Amir Temur yurishlari yo'nalishlarini, yirik janglar bo'lib o'tgan joylarni yozuvsiz xaritaga belgilab chiqish topshirig'ini berdi. Bu tarix o'qitishning qaysi usuli?",
+   "options": [
+    "Rolli o'yin",
+    "Debat",
+    "Aqliy hujum",
+    "Yozuvsiz (kontur) xarita bilan ishlash o'qitish metodikasi"
+   ],
+   "answer": 3
+  }
+ ]
+}

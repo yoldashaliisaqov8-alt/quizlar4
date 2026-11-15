@@ -1,0 +1,506 @@
+{
+ "title": "Attestatsiya tarix 3-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Quyidagi voqealarni to'g'ri xronologik ketma-ketlikda joylashtiring.\n1) Marafon jangi;\n2) Rimda respublika tuzumining o'rnatilishi;\n3) Sin Shixuandi tomonidan Xitoyning birlashtirilishi;\n4) Kir II ning massagetlar bilan jangda halok bo'lishi;\n5) Gavgamela jangi;\n6) Oktavian flotining Aksiy burni yaqinida g'alaba qozonishi.",
+   "options": [
+    "4, 2, 1, 5, 3, 6",
+    "2, 4, 1, 5, 3, 6",
+    "4, 1, 2, 5, 3, 6",
+    "4, 2, 1, 3, 5, 6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sin Shixuandi hukmronligi davriga oid ma'lumotlarni aniqlang.\n1) mil. av. 221-yilda Xitoy yagona davlatga birlashtirildi;\n2) butun mamlakatda yagona o'lchov birliklari va pul joriy etildi;\n3) Buyuk Xitoy devori qurilishi keng ko'lamda olib borildi;\n4) buddaviylik davlat dini deb e'lon qilindi;\n5) Konfutsiy ta'limotiga oid kitoblar yoqib yuborildi;\n6) Xan sulolasiga asos solindi.",
+   "options": [
+    "1, 3, 4, 5",
+    "1, 2, 4, 6",
+    "2, 3, 5, 6",
+    "1, 2, 3, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Manbalarda «Perikl asri» deb atalgan davr Periklning Afinani necha yil va qaysi yillarda boshqargan davrini qamrab oladi?",
+   "options": [
+    "15 yil, mil. av. 459–444-yillar",
+    "15 yil, mil. av. 444–429-yillar",
+    "20 yil, mil. av. 449–429-yillar",
+    "10 yil, mil. av. 439–429-yillar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi davlatlar va ularga oid ma'lumotlarni moslashtiring.\n1. Qadimgi Xorazm\n2. Qang' davlati\n3. Davan\na) mil. av. IV asrda Ahamoniylardan mustaqil bo'lgan; Qo'yqirilganqal'a ibodatxonasi\nb) poytaxti Qang'diz (Bityan); Sho'rabashot va Uchqo'rg'on shaharlari\nc) poytaxti Ershi; «samoviy otlar» sababli Xan imperiyasi yurishiga uchragan\nd) poytaxti Marokanda bo'lgan\ne) poytaxti Baqtra bo'lgan",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-a, 2-d, 3-c",
+    "1-e, 2-b, 3-c",
+    "1-a, 2-b, 3-d"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Buxorxudotlarga oid TO'G'RI ma'lumotlar soni nechta?\n1) Buxorxudot Kono o'z tasviri va «Buxoro hokimi» yozuvi tushirilgan kumush dirhamlar zarb qildirgan;\n2) 715-yilda Qutayba ibn Muslim o'ldirilgach, buxorxudotlar Buxoroni bir yil mustaqil idora qilgan;\n3) so'nggi buxorxudot Bunyod Muqanna qo'zg'olonini qo'llab-quvvatlagani uchun 782-yilda qatl etilgan;\n4) Xo'tak xotun 673–692-yillarda hukmronlik qilgan;\n5) buxorxudotlar hududiga Samarqand va Kattaqo'rg'on ham kirgan;\n6) buxorxudotlar Tohiriylar sulolasiga asos solgan.",
+   "options": [
+    "beshta",
+    "to'rtta",
+    "ikkita",
+    "uchta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Talas jangiga oid to'g'ri ma'lumotlarni aniqlang.\n1) jang 751-yilda bo'lib o'tgan;\n2) Tan qo'shiniga koreys millatiga mansub Gao Syanchji boshchilik qilgan;\n3) jang paytida qarluqlar arablar tomoniga o'tgan;\n4) jang natijasida Tan imperiyasi Movarounnahrni bosib oldi;\n5) asir olingan xitoylik hunarmandlar Buxoroga keltirilib, qog'oz ishlab chiqarishni yo'lga qo'ygan.",
+   "options": [
+    "2, 4, 5",
+    "1, 2, 3",
+    "1, 2, 5",
+    "1, 3, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi voqealarni to'g'ri xronologik ketma-ketlikda joylashtiring.\n1) Tohir ibn Husaynning Xuroson noibi etib tayinlanishi;\n2) Ma'munning xalifa taxtiga o'tirishi;\n3) Ismoil Somoniyning Balx yaqinida Amr ibn Laysni yengishi;\n4) Tohir ibn Husaynning Ray yaqinida Ali ibn Iso (Moxon) qo'shinini tor-mor etishi;\n5) Ma'munning Xuroson noibi etib tayinlanishi.",
+   "options": [
+    "4, 5, 2, 1, 3",
+    "5, 4, 1, 2, 3",
+    "5, 4, 2, 1, 3",
+    "5, 2, 4, 1, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Somoniylar davlatidagi devonlar va ularning vazifalarini moslashtiring.\n1. Mustavfiy devoni\n2. Barid devoni\n3. Muhtasib devoni\n4. Mushrif devoni\na) davlat moliyasi — daromad va xarajatlar ishlari\nb) pochta aloqasi va mamlakatdagi voqealar haqida axborot yetkazish\nc) bozorlarda tarozi, narx-navo va jamoat axloqi ustidan nazorat\nd) davlat mulki va xazina kirim-chiqimini taftish qilish\ne) rasmiy hujjatlar va diplomatik yozishmalarni tayyorlash",
+   "options": [
+    "1-a, 2-e, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-e",
+    "1-d, 2-b, 3-c, 4-a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraxoniylar davriga oid to'g'ri ma'lumotlarni aniqlang.\n1) 999-yilda Buxoro egallanib, Somoniylar davlatiga barham berildi;\n2) Sotuq Bug'raxon islomni qabul qilgan;\n3) Mahmud Koshg'ariy «Devonu lug'otit turk»ni Mahmud G'aznaviyga bag'ishlagan;\n4) G'arbiy Qoraxoniylar xoqonligining markazi Samarqand bo'lgan;\n5) Yusuf Xos Hojib «Qutadg'u bilig» dostonini 1069-yilda yozib tugatgan;\n6) G'arbiy Qoraxoniylar xoqonligining markazi Buxoro bo'lgan.",
+   "options": [
+    "1, 2, 5, 6",
+    "1, 2, 4, 5",
+    "2, 3, 5, 6",
+    "1, 3, 4, 6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Barcha ma'lumotlarni tahlil qilib, to'g'ri va noto'g'ri hukmlar uyg'unligi berilgan javobni aniqlang. t/r Ma'lumot 1 G'aznaviylar davlati 977–1186-yillarda mavjud bo'lgan. 2 Sulton Mahmud G'aznaviy 1017-yilda Xorazmni bosib olgan. 3 1040-yilgi Dandanaqon jangida Sulton Mas'ud saljuqiylarga yengilgan. 4 Bag'dod xalifasi Mahmud G'aznaviyga «Yamin ud-davla va amin ul-milla» unvonini bergan. 5 G'aznaviylar davlatining poytaxti Buxoro shahri bo'lgan. 6 Sulton Mas'ud Dandanaqon jangida g'alaba qozonib, Xurosonni saqlab qolgan.",
+   "options": [
+    "1-noto'g'ri, 2-to'g'ri; 3-to'g'ri, 4-to'g'ri; 5-to'g'ri, 6-noto'g'ri",
+    "1-to'g'ri, 2-to'g'ri; 3-to'g'ri, 4-to'g'ri; 5-noto'g'ri, 6-noto'g'ri",
+    "1-to'g'ri, 2-noto'g'ri; 3-to'g'ri, 4-to'g'ri; 5-noto'g'ri, 6-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri; 3-noto'g'ri, 4-to'g'ri; 5-noto'g'ri, 6-noto'g'ri"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Saljuqiylar tarixiga oid voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Dandanaqon jangi;\n2) Qatvon jangi;\n3) Malikshoh hukmronligining boshlanishi;\n4) Malazgird (Manzikert) jangi;\n5) Sulton Sanjarning vafoti.",
+   "options": [
+    "4, 1, 3, 2, 5",
+    "1, 3, 4, 2, 5",
+    "1, 4, 3, 5, 2",
+    "1, 4, 3, 2, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Anushteginiylar sulolasi vakillari va ularning faoliyatini moslashtiring.\n1. Anushtegin\n2. Otsiz\n3. Takash\n4. Alovuddin Muhammad\na) saljuqiylar saroyida tashtdor bo'lgan, sulola uning nomi bilan ataladi\nb) Xorazm mustaqilligi uchun Sulton Sanjarga qarshi kurashgan\nc) 1194-yilda To'g'rul III ni yengib, Iroq saljuqiylari hukmronligiga barham bergan\nd) 1210-yilda qoraxitoylarni yengib, 1212-yilda Samarqanddagi qo'zg'olonni bostirgan\ne) Parvon yaqinida mo'g'ul qo'shinini tor-mor etgan",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-c, 3-b, 4-d",
+    "1-a, 2-b, 3-d, 4-e",
+    "1-b, 2-a, 3-c, 4-e"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Arab xalifaligi tarixiga oid TO'G'RI ma'lumotlar soni nechta?\n1) Umaviylar sulolasiga 661-yilda Muoviya asos solgan;\n2) Umaviylar xalifaligining poytaxti Damashq bo'lgan;\n3) Abbosiylar 750-yilda hokimiyatga kelgan;\n4) Bag'dod shahriga 762-yilda xalifa al-Mansur asos solgan;\n5) xalifa Ma'mun davrida «Bayt ul-hikma» faoliyati yuksaldi;\n6) 1258-yilda Bag'dod Chingizxon qo'shini tomonidan egallangan.",
+   "options": [
+    "oltita",
+    "to'rtta",
+    "beshta",
+    "uchta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Salib yurishlari tarixiga oid voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Quddusning birinchi salib yurishi qatnashchilari tomonidan egallanishi;\n2) Hittin jangi;\n3) Konstantinopolning salibchilar tomonidan egallanishi;\n4) Papa Urban II ning Klermon soboridagi chaqirig'i;\n5) Akka qal'asining qulashi;\n6) Ikkinchi salib yurishi.",
+   "options": [
+    "4, 1, 6, 2, 3, 5",
+    "4, 1, 6, 3, 2, 5",
+    "4, 6, 1, 2, 3, 5",
+    "1, 4, 6, 2, 3, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta asrlar Yevropasidagi hujjatlar va ularning mazmunini moslashtiring.\n1. Verden shartnomasi\n2. Vorms konkordati\n3. «Buyuk erkinliklar xartiyasi»\n4. «Oltin bulla»\na) Karolinglar imperiyasi uch qismga bo'lindi\nb) imperator va papa o'rtasida investitura masalasida murosaga kelindi\nc) Angliya qiroli baronlar va ritsarlarga imtiyozlar berishga majbur bo'ldi\nd) imperatorni yetti kurfyurst saylash tartibi belgilandi\ne) Fransiyada General shtatlar ilk bor chaqirildi",
+   "options": [
+    "1-a, 2-e, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-b, 2-a, 3-c, 4-d"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nuqtalar o'rnida tushirib qoldirilgan ma'lumotlarni aniqlang. O'tror shahri mo'g'ullar qamaliga 1. ............... oy davomida bardosh berdi. Shahar hokimi 2. ............... asirga olinib, qatl etildi. Xo'jand himoyasiga esa 3. ............... boshchilik qildi.",
+   "options": [
+    "1 — 5, 2 — Temur Malik, 3 — G'oyirxon",
+    "1 — 5, 2 — G'oyirxon, 3 — Temur Malik",
+    "1 — 9, 2 — Qoraxo'ja, 3 — Temur Malik",
+    "1 — 3, 2 — G'oyirxon, 3 — Jaloliddin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nuqtalar o'rnida tushirib qoldirilgan ma'lumotlarni aniqlang. 1370-yilda Balxdagi qurultoyda Movarounnahr amiri deb e'lon qilingan Temur chingiziy malika\n1. ............... ga uylangani uchun «Ko'ragon» unvonini oldi. U poytaxt qilib 2. ............... ni tanladi, ona yurti Keshda esa 3. ............... saroyini qurdirdi.",
+   "options": [
+    "1 — Saroymulkxonim, 2 — Samarqand, 3 — Oqsaroy",
+    "1 — Cho'lponmulk og'a, 2 — Samarqand, 3 — Oqsaroy",
+    "1 — Tumanog'a, 2 — Samarqand, 3 — Ko'ksaroy",
+    "1 — Saroymulkxonim, 2 — Shahrisabz, 3 — Ko'ksaroy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temurning yurishlari va ular davomida yuz bergan voqealarni moslashtiring.\n1. «Uch yillik» yurish\n2. «Besh yillik» yurish\n3. «Yetti yillik» yurish\na) Tabriz va Tiflis egallandi\nb) Muzaffariylar sulolasiga barham berildi, Terek bo'yida To'xtamish tor-mor etildi\nc) Damashq egallandi, Anqara jangida Boyazid I asir olindi\nd) Dehli egallandi",
+   "options": [
+    "1-a, 2-d, 3-c",
+    "1-a, 2-b, 3-d",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Temuriylar davri madaniyatiga oid NOTO'G'RI ma'lumotlar soni nechta?\n1) Ulug'bek rasadxonasi Samarqanddagi Ko'hak (Cho'ponota) tepaligida qurilgan;\n2) Ali Qushchi Ulug'bek vafotidan keyin Istanbulga borib, faoliyatini davom ettirgan;\n3) Kamoliddin Behzod Hirot miniatyura maktabining yirik vakili bo'lgan;\n4) Alisher Navoiy «Xamsa»ni 1483–1485-yillarda yozgan;\n5) Bibixonim jome masjidi Shohruh Mirzo buyrug'i bilan qurilgan;\n6) Hirotda Gavharshodbegim madrasasi barpo etilgan;\n7) Buxorodagi Ulug'bek madrasasi 1417-yilda qurilgan;\n8) «Zafarnoma» asarini Mirzo Ulug'bek yozgan.",
+   "options": [
+    "ikkita",
+    "to'rtta",
+    "uchta",
+    "bitta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XVI–XVIII asrlardagi voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Shayboniyxonning Saripul jangidan so'ng Samarqandni uzil-kesil egallashi;\n2) G'ijduvon jangi;\n3) Abdullaxon II ning vafoti;\n4) Ashtarxoniylar sulolasining hokimiyatga kelishi;\n5) Shayboniyxonning Marv yaqinida halok bo'lishi;\n6) Nodirshohning Buxoro va Xivaga yurishi.",
+   "options": [
+    "1, 5, 2, 4, 3, 6",
+    "1, 2, 5, 3, 4, 6",
+    "1, 5, 2, 3, 4, 6",
+    "5, 1, 2, 3, 4, 6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Hukmdorlar va ular bilan bog'liq ma'lumotlarni moslashtiring.\n1. Shohmurod\n2. Eltuzar\n3. Olimxon\na) mang'itlardan birinchi bo'lib «amir» unvonini qabul qilgan\nb) qo'ng'irotlardan birinchi bo'lib «xon» unvonini qabul qilgan\nc) minglardan birinchi bo'lib «xon» unvonini olgan, Toshkentni xonlikka qo'shib olgan\nd) mang'itlardan birinchi bo'lib «xon» unvonini olgan\ne) Qo'qon xonligiga asos solgan",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-b, 3-e",
+    "1-d, 2-b, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Reformatsiya va kontrreformatsiya arboblarini ularning faoliyati bilan moslashtiring.\n1. Martin Lyuter\n2. Jan Kalvin\n3. Ignatiy Loyola\n4. Genrix VIII\na) 1517-yilda «95 tezis»ni e'lon qildi\nb) Jenevada cherkov islohotini o'tkazdi, taqdiri azal (predestinatsiya) ta'limotini ilgari surdi\nc) iyezuitlar ordeniga asos soldi\nd) Angliya cherkovini papadan ajratib, uning boshlig'i bo'ldi\ne) Trident soborini chaqirdi",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-e, 4-d",
+    "1-a, 2-c, 3-b, 4-d",
+    "1-b, 2-a, 3-c, 4-d"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nuqtalar o'rnida tushirib qoldirilgan ma'lumotlarni aniqlang. 1492-yilda 1. ............... Ispaniya bayrog'i ostida Bagama orollariga yetib keldi. 1498-yilda 2. ............... Afrikani aylanib o'tib, Hindistonning Kalikut shahriga yetdi. 1519–1522-yillarda 3. ............... ekspeditsiyasi dunyo bo'ylab birinchi sayohatni amalga oshirdi.",
+   "options": [
+    "1 — Xristofor Kolumb, 2 — Bartolomeu Dias, 3 — Magellan",
+    "1 — Xristofor Kolumb, 2 — Vasko da Gama, 3 — Jeyms Kuk",
+    "1 — Amerigo Vespuchchi, 2 — Vasko da Gama, 3 — Magellan",
+    "1 — Xristofor Kolumb, 2 — Vasko da Gama, 3 — Magellan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sanoat to'ntarishi davri ixtirochilari va ularning ixtirolarini moslashtiring.\n1. Jeyms Uatt\n2. Jorj Stefenson\n3. Robert Fulton\n4. Jon Key\na) universal bug' mashinasi\nb) «Raketa» parovozi\nc) «Klermont» paroxodi\nd) «uchar moki»\ne) «Jenni» yigiruv mashinasi",
+   "options": [
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-e",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-c, 3-b, 4-d"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asrdagi voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Rossiyada krepostnoylik huquqining bekor qilinishi;\n2) Vena kongressi;\n3) Yevropadagi «xalqlar bahori» inqiloblari;\n4) Fransiyadagi Iyul inqilobi;\n5) Rimning birlashgan Italiya poytaxtiga aylanishi;\n6) AQSHda fuqarolar urushining tugashi.",
+   "options": [
+    "4, 2, 3, 1, 6, 5",
+    "2, 4, 3, 6, 1, 5",
+    "2, 3, 4, 1, 6, 5",
+    "2, 4, 3, 1, 6, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler–Venn diagrammasiga mos keladigan javobni aniqlang.\na) «Inson va fuqaro huquqlari deklaratsiyasi» qabul qilindi;\nb) Mustaqillik deklaratsiyasi matnini T. Jefferson tayyorladi;\nc) qirol sud hukmi bilan qatl etildi;\nd) 1787-yilda konstitutsiya qabul qilindi;\ne) ma'rifatparvarlik g'oyalari mafkuraviy asos bo'ldi; f) respublika tuzumi o'rnatildi.",
+   "options": [
+    "I – a, c; II – b, d; III – e, f",
+    "I – a, c, f; II – b, d; III – e",
+    "I – a, d; II – b, c; III – e, f",
+    "I – a, c; II – b, d, f; III – e"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Barcha ma'lumotlarni tahlil qilib, to'g'ri va noto'g'ri hukmlar uyg'unligi berilgan javobni aniqlang. t/r Ma'lumot 1 1865-yilda Toshkent general M. G. Chernyayev qo'shini tomonidan egallandi. 2 1867-yilda Turkiston general-gubernatorligi tuzilib, unga K. P. Kaufman boshchilik qildi. 3 1868-yilgi shartnomaga ko'ra Buxoro amirligi Rossiyaga vassal davlatga aylandi. 4 1873-yilgi Gandimiyon shartnomasiga ko'ra Amudaryoning chap sohili Rossiyaga o'tdi. 5 1876-yilda Qo'qon xonligi tugatilib, uning o'rnida Farg'ona viloyati tuzildi. 6 1881-yilda Go'kteppa qal'asi rus qo'shinlari tomonidan egallandi.",
+   "options": [
+    "1-to'g'ri, 2-noto'g'ri; 3-to'g'ri, 4-noto'g'ri; 5-to'g'ri, 6-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri; 3-noto'g'ri, 4-noto'g'ri; 5-to'g'ri, 6-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri; 3-to'g'ri, 4-noto'g'ri; 5-to'g'ri, 6-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri; 3-to'g'ri, 4-to'g'ri; 5-to'g'ri, 6-to'g'ri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadid ma'rifatparvarlari va ularning faoliyatini moslashtiring.\n1. Mahmudxo'ja Behbudiy\n2. Munavvarqori Abdurashidxonov\n3. Abdulla Avloniy\n4. Abdurauf Fitrat\na) «Padarkush» dramasi, «Oyna» jurnali\nb) «Xurshid» gazetasi, «Adibi avval» alifbe kitobi\nc) «Turkiy guliston yoxud axloq» asari, «Turon» teatr truppasi\nd) «Munozara», «Hind sayyohining qissasi» asarlari\ne) «Sadoi Farg'ona» gazetasi",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-c, 3-b, 4-d",
+    "1-a, 2-b, 3-e, 4-d",
+    "1-d, 2-b, 3-c, 4-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Turkiston ASSRning tuzilishi;\n2) Buxoro Xalq Sovet Respublikasining tuzilishi;\n3) Xorazm Xalq Sovet Respublikasining tuzilishi;\n4) O'zbekiston SSRning tashkil topishi;\n5) Tojikistonning alohida ittifoqdosh respublikaga aylanishi;\n6) Qoraqalpog'iston ASSRning O'zbekiston SSR tarkibiga kiritilishi.",
+   "options": [
+    "1, 3, 2, 4, 5, 6",
+    "1, 2, 3, 4, 5, 6",
+    "1, 3, 2, 4, 6, 5",
+    "3, 1, 2, 4, 5, 6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1937–1938-yillardagi qatag'on qurbonlarini aniqlang.\n1) Fayzulla Xo'jayev; 2) Mahmudxo'ja Behbudiy; 3) Abdulla Qodiriy; 4) Hamza Hakimzoda Niyoziy; 5) Akmal Ikromov; 6) Abdulhamid Cho'lpon.",
+   "options": [
+    "1, 3, 4, 6",
+    "2, 3, 4, 6",
+    "1, 3, 5, 6",
+    "1, 2, 4, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ikkinchi jahon urushi voqealarini xronologik ketma-ketlikda joylashtiring.\n1) Kursk jangi;\n2) Germaniyaning Polshaga hujumi;\n3) Ittifoqchilarning Normandiyaga desant tushirishi;\n4) Yaponiyaning Pyorl-Xarborga hujumi;\n5) Germaniyaning SSSRga hujumi;\n6) Stalingrad jangining tugashi.",
+   "options": [
+    "2, 5, 4, 1, 6, 3",
+    "2, 4, 5, 6, 1, 3",
+    "5, 2, 4, 6, 1, 3",
+    "2, 5, 4, 6, 1, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xitoy tarixiga oid voqealarni xronologik ketma-ketlikda joylashtiring.\n1) «Madaniy inqilob»ning boshlanishi;\n2) Xitoy Xalq Respublikasining tashkil topishi;\n3) Gonkongning Xitoyga qaytarilishi;\n4) Sinxay inqilobi;\n5) Den Syaopin boshchiligidagi islohotlarning boshlanishi;\n6) «Katta sakrash» siyosatining boshlanishi.",
+   "options": [
+    "4, 2, 1, 6, 5, 3",
+    "4, 6, 2, 1, 5, 3",
+    "2, 4, 6, 1, 5, 3",
+    "4, 2, 6, 1, 5, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xalqaro tashkilotlar va ular tashkil topgan yillarni moslashtiring.\n1. NATO\n2. Varshava shartnomasi tashkiloti\n3. Mustaqil Davlatlar Hamdo'stligi\n4. Shanxay hamkorlik tashkiloti\na) 1949-yil\nb) 1955-yil\nc) 1991-yil\nd) 2001-yil\ne) 1945-yil",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-e, 2-b, 3-c, 4-d",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston Respublikasining davlat ramzlari va ular qabul qilingan sanalarni moslashtiring.\n1. Davlat bayrog'i\n2. Davlat gerbi\n3. Davlat madhiyasi\na) 1991-yil 18-noyabr\nb) 1992-yil 2-iyul\nc) 1992-yil 10-dekabr\nd) 1992-yil 8-dekabr\ne) 1991-yil 31-avgust",
+   "options": [
+    "1-a, 2-b, 3-d",
+    "1-a, 2-c, 3-b",
+    "1-e, 2-b, 3-c",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "2023-yil 30-aprelda referendum orqali qabul qilingan O'zbekiston Respublikasi Konstitutsiyasiga oid to'g'ri ma'lumotlarni aniqlang.\n1) Prezidentning vakolat muddati 7 yil etib belgilandi;\n2) bir shaxs ketma-ket ikki muddatdan ortiq Prezident bo'lishi mumkin emas;\n3) O'zbekiston ijtimoiy davlat deb e'lon qilindi;\n4) o'lim jazosi taqiqlandi;\n5) Konstitutsiya 128 moddadan iborat;\n6) Senat a'zolari soni 150 nafar etib belgilandi.",
+   "options": [
+    "1, 3, 5, 6",
+    "1, 2, 5, 6",
+    "1, 2, 3, 4",
+    "2, 3, 4, 6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kasb standartiga ko'ra «Ta'lim va tarbiya jarayonini boshqarish» (A) umumlashtirilgan mehnat vazifasiga kiruvchi mehnat vazifalarini aniqlang.\n1) O'quv jarayonini rejalashtirish;\n2) O'z-o'zini rivojlantirish va kasbiy o'sish;\n3) O'zlashtirishni baholash va qayta aloqani taqdim etish;\n4) Tarbiyaviy faoliyatni tashkil etish;\n5) Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik;\n6) Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash;\n7) Ta'lim samaradorligini ta'minlash.",
+   "options": [
+    "2, 3, 4, 5, 7",
+    "1, 2, 3, 4, 6",
+    "1, 3, 4, 6, 7",
+    "1, 3, 5, 6, 7"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kasb standartiga ko'ra o'qituvchi toifalari va ular uchun talab qilinadigan amaliy ish tajribasini moslashtiring.\n1. 2-toifali o'qituvchi\n2. 1-toifali o'qituvchi\n3. Oliy toifali o'qituvchi\na) kamida 3 yillik ish tajribasi\nb) kamida 5 yillik ish tajribasi\nc) kamida 8 yillik ish tajribasi\nd) kamida 10 yillik ish tajribasi\ne) ish tajribasi talab qilinmaydi",
+   "options": [
+    "1-a, 2-b, 3-d",
+    "1-e, 2-a, 3-b",
+    "1-b, 2-c, 3-d",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kasb standartida «O'zlashtirishni baholash va qayta aloqani taqdim etish» mehnat vazifasi qaysi kod va malaka darajasi bilan belgilangan?",
+   "options": [
+    "A/03.5; 5-malaka darajasi",
+    "B/01.6; 6-malaka darajasi",
+    "A/02.6; 6-malaka darajasi",
+    "A/03.6; 6-malaka darajasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'qituvchi o'quv yili boshida ta'limning aniq va o'lchanadigan natijalarini belgilab, ularga erishish uchun yil, chorak va dars bo'yicha vazifalarni rejalarda shakllantirdi. Kasb standartiga ko'ra bu qaysi mehnat vazifasining zarur ko'nikmasi hisoblanadi?",
+   "options": [
+    "A/02.6 — Ta'lim samaradorligini ta'minlash",
+    "A/01.6 — O'quv jarayonini rejalashtirish",
+    "B/01.6 — O'z-o'zini rivojlantirish va kasbiy o'sish",
+    "A/03.6 — O'zlashtirishni baholash va qayta aloqani taqdim etish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan qaysi biri kasb standartida A/02.6 «Ta'lim samaradorligini ta'minlash» mehnat vazifasining mehnat harakatlari qatoriga KIRMAYDI?",
+   "options": [
+    "O'qitishning faol usullaridan foydalanish (frontal ta'lim ustun bo'la olmaydi)",
+    "O'quvchilarga metakognitiv strategiyalarni o'rgatishda turli yondashuvlardan foydalanish",
+    "O'quvchilarning jamoaviy va loyihaviy ishlarini tashkil etish",
+    "Davlat ta'lim standartlari va o'quv dasturlari maqsadlariga muvofiq o'quv rejalarini ishlab chiqish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "B. Bloom taksonomiyasi ilk bor qachon e'lon qilingan va 2001-yilda kimlar tomonidan qayta ko'rib chiqilgan?",
+   "options": [
+    "1948-yil; B. Skinner va B. Bloom",
+    "1956-yil; G. Gardner va J. Piaje",
+    "1965-yil; L. Anderson va D. Krathwohl",
+    "1956-yil; L. Anderson va D. Krathwohl"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Bloom taksonomiyasining yangilangan modeli bo'yicha kognitiv soha darajalarini quyidan yuqoriga qarab joylashtiring.\n1) yaratish; 2) tushunish; 3) tahlil qilish; 4) eslab qolish; 5) baholash; 6) qo'llash.",
+   "options": [
+    "4, 2, 3, 6, 5, 1",
+    "4, 2, 6, 3, 5, 1",
+    "4, 6, 2, 3, 5, 1",
+    "2, 4, 6, 3, 1, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Baholashga oid tushunchalar va ularning ta'riflarini moslashtiring.\n1. Ipsativ baholash\n2. Ishonchlilik\n3. Mazmuniy validlik\n4. Mezonli baholash\na) o'quvchi natijasini uning shu mazmundagi oldingi natijalari bilan solishtirish\nb) baholash vositalarining tasodifiy xatolardan xolilik darajasi, natijalarning barqarorligi\nc) test topshiriqlarining o'lchanishi lozim bo'lgan domen mazmuniga mosligi\nd) oldindan belgilangan talablarni bajarish yoki bajara olmaslikni tekshirish\ne) o'quvchi natijasini boshqa o'quvchilar natijalari bilan taqqoslash",
+   "options": [
+    "1-e, 2-b, 3-c, 4-d",
+    "1-a, 2-c, 3-b, 4-d",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-e"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xalqaro baholash dasturlari va ularning maqsadini moslashtiring.\n1. PIRLS\n2. PISA\n3. TIMSS\n4. TALIS\na) boshlang'ich 4-sinf o'quvchilarining matnni o'qish va tushunish darajasini baholash\nb) 15 yoshli o'quvchilarning o'qish, matematika va tabiiy fanlar bo'yicha savodxonligini baholash\nc) 4 va 8-sinf o'quvchilarining matematika va tabiiy fanlarni o'zlashtirishini baholash\nd) pedagoglarning o'qitish muhiti va ish sharoitlarini o'rganish\ne) AQShning akademik baholash testi",
+   "options": [
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-e",
+    "1-c, 2-b, 3-a, 4-d",
+    "1-a, 2-b, 3-c, 4-d"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'qituvchi dars uchun texnologik xarita tuzdi, mavzuga oid multimedia materiallari va original tarqatmalar tayyorladi, topshiriqlar uchun baholash mezonlarini ishlab chiqdi. O'. Tolipov tasnifiga ko'ra pedagogning qaysi qobiliyati namoyon bo'lgan?",
+   "options": [
+    "konstruktiv qobiliyat",
+    "kommunikativ qobiliyat",
+    "tashkilotchilik qobiliyati",
+    "perseptiv-pedagogik qobiliyat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mantiqiy xulosaga kelish uchun dalillar yetarli bo'lmagan vaziyatda qidiruv yo'nalishlari asosida masala yechimini topishga yo'naltirilgan evristik (unumli ijodiy) jarayon qanday ataladi?",
+   "options": [
+    "pedagogik empatiya",
+    "pedagogik refleksiya",
+    "pedagogik intuitsiya",
+    "pedagogik perseptsiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Pedagoglar va ularning asarlarini moslashtiring.\n1. Ya. A. Komenskiy\n2. J. J. Russo\n3. A. Disterveg\n4. Abdulla Avloniy\na) «Buyuk didaktika»\nb) «Emil yoki tarbiya haqida»\nc) «Nemis o'qituvchilarini tarbiyalash uchun qo'llanma»\nd) «Turkiy guliston yoxud axloq»\ne) «Lingard va Gertruda»",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-e, 4-d",
+    "1-a, 2-e, 3-c, 4-d",
+    "1-b, 2-a, 3-c, 4-d"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarix darsida o'quvchilar bir davrda turli mamlakatlarda sodir bo'lgan voqealarni bitta jadvalda yonma-yon joylashtirib, ularni taqqosladilar. O'quvchilar qanday vositadan foydalandilar?",
+   "options": [
+    "klaster",
+    "sinxronistik jadval",
+    "«T-sxema»",
+    "xronologik jadval"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "«Ta'limda baholash va monitoring asoslari» qo'llanmasiga ko'ra «ko'p baholash» (over-assessment) nimani anglatadi?",
+   "options": [
+    "o'quvchilarga asossiz yuqori baho qo'yilishini",
+    "bitta ishni bir nechta o'qituvchi tomonidan baholanishini",
+    "ta'lim jarayonida haddan tashqari ko'p summativ baholashni amalga oshirishni",
+    "formativ baholashdan har darsda foydalanishni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Maktab rahbariyati ta'lim sifatining mavjud holatini aniqlash va rivojlanish uchun zarur choralarni ko'rish maqsadida o'qituvchilar va o'quvchilar faoliyatini, ta'lim muhitini hamda o'qituvchilarning ota-onalar bilan hamkorlik darajasini o'rgandi. Bu monitoringning qaysi turi?",
+   "options": [
+    "xalqaro baholash",
+    "tashqi monitoring",
+    "ichki monitoring",
+    "milliy baholash tadqiqoti"
+   ],
+   "answer": 2
+  }
+ ]
+}

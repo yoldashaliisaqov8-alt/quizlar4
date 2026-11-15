@@ -1,0 +1,507 @@
+{
+ "title": "Attestatsiya tarix 25-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Mil. avv. VII–VI asrlarda rivojlangan qadimiy shaharlar va ular joylashgan vohalarni moslashtiring.\n1. Ko'ktepa\n2. Ko'zaliqir\n3. Qiziltepa\na) Zarafshon vohasi\nb) Xorazm\nc) Surxondaryo vohasi\nd) Qashqadaryo vohasi",
+   "options": [
+    "1-a, 2-b, 3-d",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Makedoniyalik Aleksandrning lashkarboshilaridan biri Salavk o'z davlati tarkibiga kirgan O'rta Osiyo viloyatlarida qanday boshqaruv tartibini joriy etdi?",
+   "options": [
+    "Viloyatlarni satrapiyalarga ajratib, davlat mudofaasi va qo'shinlarni tashkil etishni sobiq lashkarboshilardan tayinlangan strateglarga topshirdi",
+    "Viloyatlarni Parfiya podsholariga vassal sifatida in'om qildi",
+    "Barcha viloyatlarni bevosita o'zi boshqarib, satraplik tizimini butunlay tugatdi",
+    "Viloyatlarni mahalliy podsholarga topshirib, ulardan faqat har yili o'lpon olish bilan kifoyalandi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "X asrda yirik mansabdorlarga davlat oldidagi xizmati uchun yer va suvdan iborat katta mulklar in'om qilina boshlanishi qanday yer egaligi shaklini vujudga keltirdi?",
+   "options": [
+    "«Jamoa yerlari» – qishloq jamoalari tasarrufidagi yer maydonlari",
+    "«Vaqf» – nasldan naslga o'tadigan, soliqdan butunlay ozod xususiy mulk",
+    "«Iqto» – egasi (iqtodor) in'om qilingan hududdagi aholidan olinadigan soliqlarning ma'lum qismini o'ziga olish huquqiga ega bo'lgan mulk",
+    "«Mulki xos» – oliy martabali din peshvolari va sayyidlar qo'l ostidagi yerlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XI asrning ikkinchi yarmida Saljuqiylar saltanati zaiflasha boshlashiga nima sabab bo'ldi va bu qanday natijaga olib keldi?",
+   "options": [
+    "Vizantiya qo'shinlarining Movarounnahrga bostirib kirishi sabab bo'lib, saltanat poytaxti Kichik Osiyoga ko'chirildi",
+    "Saltanatning haddan tashqari ulkan hududga yoyilganligi sabab bo'lib, Suriya, Iroq, Onado'li (Kunya), Kirmon sultonliklari yuzaga keldi",
+    "Somoniylarning qayta kuchayishi sabab bo'lib, Saljuqiylar Somoniylarga vassal bo'lib qoldi",
+    "Saljuqiylarning islomdan voz kechishi sabab bo'lib, Bag'dod xalifaligi saltanatni bosib oldi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qoraxoniylar davrida Sharqiy Turkistondan Xorazmgacha bo'lgan katta hududning siyosiy jihatdan birlashishi iqtisodiy hayotga qanday ta'sir ko'rsatdi?",
+   "options": [
+    "Savdo-sotiqda mintaqaning sharqiy viloyatlari imkoniyatlari rivojlanib, savdo yo'li Sharqiy Turkistonni to'g'ridan-to'g'ri arab o'lkalari bilan tutashtirdi",
+    "Ipak yo'li butunlay janubga – Hindiston orqali o'tadigan bo'lib, Farg'ona va Zarafshon vodiysi chetda qoldi",
+    "Savdo-sotiq davlat monopoliyasiga aylanib, xususiy savdogarlar faoliyati taqiqlandi",
+    "Savdo karvonlarining harakati to'xtab, mintaqa faqat natural xo'jalikka o'tdi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mo'g'ullar saltanatida joriy qilingan soliq turlari va ularni to'laganlarni moslashtiring.\n1. Tamg'a\n2. Qopchur\n3. Kalon\na) hunarmand va savdogarlar\nb) chorvachilar\nc) dehqonlar\nd) ko'chmanchilar mahsulot tarzida to'lagan – har podadan ikki yashar qo'y, har mingta otdan bir biya",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Amir Temurning Boyazid ustidan g'alaba qozonganidan so'ng Turkiya boshqaruvini Usmoniylar sulolasi ixtiyorida qoldirishi Yevropa uchun qanday natija berdi?",
+   "options": [
+    "Yangi hukmdorlar diniy g'azotni to'xtatib, Nikopolda asir tushgan salib yurishi ishtirokchilari ozod qilindi, Konstantinopolning qamal qilinishi ellik yilga to'xtatildi",
+    "Usmoniylar Konstantinopolni darhol egallab, Vizantiya imperiyasiga barham berdi",
+    "Turkiya Amir Temur davlatining mustamlakasiga aylanib, Yevropaga qarshi yurishlar kuchaydi",
+    "Fransiya va Angliya Amir Temurga qarshi harbiy ittifoq tuzdi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shahrisabzdagi Oqsaroyga oid to'g'ri ma'lumotlarni aniqlang.\n1. Qurilishi 1380-yili boshlanib, 1386-yili nihoyasiga yetgan, bezak ishlari esa 1404-yilga qadar cho'zilgan.\n2. Saroy Amir Temurning onasi Takinaxotun xotirasiga bag'ishlab bunyod etilgan.\n3. Saroy Amir Temurning rafiqasi Saroymulkxonim sharafiga qurilgan.\n4. Kastiliya elchisi Klavixo Oqsaroyni to'liq qurib bitkazilgan holda ko'rgan.",
+   "options": [
+    "2, 3",
+    "1, 4",
+    "1, 2",
+    "3, 4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xiva xonligi tarixchilari va ularning asarlariga oid ma'lumotlarni moslashtiring.\n1. Munis\n2. Ogahiy\n3. Yusufbek Bayoniy\na) «Firdavs ul-iqbol» – 1806-yilda Eltuzarxonning topshirig'i bilan yozilgan, Xorazmning 250 yillik o'tmishi yoritilgan\nb) «Shohidi iqbol» – 1872-yilgacha bo'lgan tarixni aks ettiradi\nc) xonlikning 1872–1911-yillardagi tarixini 1912-yilda Asfandiyorxonning topshirig'i bilan yaratgan\nd) «Eng go'zal tarix» – XVI asrning birinchi yarmidagi Xiva tarixiga bag'ishlangan",
+   "options": [
+    "1-a, 2-b, 3-d",
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarixiy manbadan olingan parchani o'qing. Parcha kimning asaridan olingan va bosqin qanday yakunlangan? «...uning otasi Arab Muhammad sultonning xonlik davrida (1603–1623) ming nafardan iborat Yoyiq kazak otliqlari Xorazmning Urganch qal'asiga qadar yetib kelib, uni talon-toroj qilib, mol-mulklarini yoqib yuborganlar. Qo'lga kiritgan boyliklarini mingta aravaga ortib, mingtacha qiz-juvonlarni ham asir olib ketayotganlarida...»",
+   "options": [
+    "Munis; kazaklar Urganchni egallab, Xorazmni Rossiyaga qo'shib olgan",
+    "Ogahiy; xon kazaklarga katta tovon to'lab, asirlarni qaytarib olgan",
+    "Abulg'oziy Bahodirxon; o'ljani olib qaytayotgan kazaklar xorazmliklar tomonidan qirib tashlangan",
+    "Abulg'oziy Bahodirxon; kazaklar o'ljani Yoyiq bo'yiga olib ketib, Xiva xonligiga o'lpon to'lata boshlagan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | Mang'itlarning bir qismi Shayboniyxon bilan Movarounnahrga, kichikroq qismi Elbars va Bilbars qo'shini tarkibida Xorazmga kirib keldi | Mang'itlar Buxoro va Xorazm davlatlarining tashkil topishida qatnashdi\n2. | Amir Shohmurodning elchilarini imperator Yekaterina II qabul qildi | Imperator Buxoroga harbiy yordam sifatida qo'shin yubordi\n3. | Shohmurod urug'larning isyonlariga barham berish maqsadida Zarafshon vohasidagi egallanmagan yerlarni tekinga tarqatdi | Vohada ko'plab aholi o'troqlasha bordi\n4. | Shohmurod mamlakatdagi siyosiy va ijtimoiy-iqtisodiy holatni barqarorlashtirishga harakat qildi | Nodirshoh tomonidan bosib olingan Marv qaytarib olindi",
+   "options": [
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-noto'g'ri, 4-to'g'ri"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1865-yilda Aleksandr II tasdiqlagan «Turkiston viloyatini idora qilish to'g'risidagi Muvaqqat Nizom» qanday boshqaruv tizimini joriy etdi?",
+   "options": [
+    "Boshqaruv faqat qozilar majlisi va biylar qo'liga o'tkazildi",
+    "Mahalliy aholi saylagan beklar boshqaradigan fuqarolik boshqaruvi joriy etildi",
+    "O'lka Buxoro amiriga vassal sifatida topshirilib, amir noiblari orqali boshqarildi",
+    "«Harbiy-xalq boshqaruvi»: harbiy va fuqarolik ishlari gubernator qo'lida mujassamlashib, bo'lim boshliqlari bir vaqtda harbiy komendant ham hisoblangan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Turkiston general-gubernatorligining boshqaruv tizimiga oid to'g'ri ma'lumotlarni aniqlang.\n1. Viloyatlarni o'z qo'lida fuqarolik va harbiy hokimiyatni birlashtirgan harbiy gubernatorlar boshqargan.\n2. Uyezdlarni mahalliy aholi saylagan beklar boshqargan.\n3. Boshqaruvning quyi bosqichida mingboshi, qishloq oqsoqoli, xalq sudyalari kabi lavozimlarda mahalliy aholi vakillari ish olib borgan.\n4. General-gubernatorlik devoni faqat maslahat beruvchi, vakolatlari cheklangan organ edi.",
+   "options": [
+    "3, 4",
+    "2, 4",
+    "1, 3",
+    "1, 2"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XX asrning 60–80-yillarida O'zbekistonda ittifoqqa bo'ysunuvchi Navoiy, Zarafshon, Uchquduq kabi «yopiq shaharlar»ning barpo etilishi qanday holatni yuzaga keltirdi?",
+   "options": [
+    "Shaharlar qishloq xo'jaligi markazlariga aylanib, paxta maydonlari kengaytirildi",
+    "Shaharlar respublika hukumatiga to'liq bo'ysundirilib, korxonalar daromadi mahalliy byudjetga o'tkazildi",
+    "Bu shaharlarda faqat mahalliy aholi yashashiga ruxsat berildi",
+    "Bu shaharlar mahalliy hokimiyatga bo'ysunmay, ulardagi maxfiy korxonalar faqat Markazga hisob berardi, boshqa mintaqalardan ishchi kuchi jadal olib kelindi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mustaqillik yillarida keng nishonlangan yubileylar va ularning yillarini moslashtiring.\n1. 1993-yil\n2. 1994-yil\n3. 2004-yil\na) Bahouddin Naqshband tavalludining 675 yilligi\nb) Mirzo Ulug'bek tavalludining 600 yilligi\nc) Xoja Ahror Valiy tavalludining 600 yilligi\nd) Muhammadrizo Ogahiy tavalludining 190 yilligi",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mustaqillik yillarida O'zbekiston Qurolli Kuchlarining shakllanishiga oid to'g'ri ma'lumotlarni aniqlang.\n1. Majburiy harbiy xizmat muddati 18 oy, oliy ma'lumotlilar uchun esa 12 oy etib belgilangan.\n2. Konstitutsiyada Prezident mamlakat Qurolli Kuchlarining Oliy Bosh Qo'mondoni sifatida belgilangan.\n3. 1995-yilda qabul qilingan Mudofaa doktrinasi 2003-yilda Harbiy doktrina deb o'zgartirildi.\n4. Yoshlarni harbiy kasbga yo'naltirish maqsadida harbiy litseylar «Temurbeklar maktabi» deb nomlandi.",
+   "options": [
+    "3, 4",
+    "2, 4",
+    "1, 2",
+    "1, 3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kasb-hunar kollejlari bitiruvchilarini ish bilan ta'minlashda yuzaga kelgan muammolar, bitiruvchilar va ota-onalar o'rtasida o'tkazilgan so'rovnomalar natijasida 2017-yilda ta'lim tizimida qanday o'zgarish amalga oshirildi?",
+   "options": [
+    "9+3 shaklidagi majburiy ta'limdan to'liq 11 yillik ta'lim tizimiga o'tildi",
+    "Kasb-hunar kollejlari majburiy ta'limning asosiy bo'g'iniga aylantirildi",
+    "Akademik litseylar tugatilib, ularning o'rniga oliy ta'lim muassasalari ochildi",
+    "Maktab ta'limi 9 yildan 7 yilga qisqartirildi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Voqealarni xronologik ketma-ketlikda joylashtiring.\n1) 9-mayning Xotira va qadrlash kuni deb e'lon qilinishi;\n2) Kadrlar tayyorlash milliy dasturining qabul qilinishi;\n3) Maktabgacha va maktab ta'limi vazirligining tashkil etilishi;\n4) Respublika Ma'naviyat va ma'rifat jamoatchilik markazining tashkil etilishi;\n5) A. Avloniy, M. Behbudiy, Munavvarqori Abdurashidxonovning «Buyuk xizmatlari uchun» ordeni bilan mukofotlanishi.",
+   "options": [
+    "2, 4, 1, 5, 3",
+    "4, 1, 2, 5, 3",
+    "4, 2, 1, 3, 5",
+    "4, 2, 1, 5, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi qonunlardan olingan parchani o'qing. Parchada qaysi qonunlar haqida so'z boradi va ular jamiyatga qanday ta'sir ko'rsatgan? «...Shifokor amalga oshirgan jarrohlik muolajasi natijasida bemor bevaqt vafot etsa, shifokorning qo'llari kesib tashlanadi. Binokor qurgan uy to'satdan qulab, biror kishini bosib qolsa, binokor qatl etiladi. Yong'in mahalida o'g'rilik ustida qo'lga tushgan kimsa o'sha zahoti olovga tashlanadi...»",
+   "options": [
+    "Afinadagi Solon qonunlari; qarz qulligi bekor qilindi",
+    "Bobil podshosi Xammurapi qonunlari; talon-torojlik va o'g'rilik kabi jinoyatlar deyarli sodir etilmay, jamiyat rivojiga katta imkoniyat yaratildi",
+    "Rimning «12 jadval qonunlari»; plebeylar patritsiylar bilan teng huquqqa ega bo'ldi",
+    "Bobil podshosi Xammurapi qonunlari; qonunlar faqat qashshoq kishilarga nisbatan qo'llanilib, boylar jazodan ozod qilindi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nuqtalar o'rniga mos so'zlarni qo'yib, tarixiy matnni to'ldiring. Mil. avv. ......A...... yilda Xitoyni o'z hokimiyati ostida birlashtirgan hukmdor ......B...... nomini oldi. Bu nom «Sinning birinchi hukmdori» degan ma'noni bildiradi. Uning maqbarasidan hukmdorni «qo'riqlash» uchun o'rnatilgan ......C...... ta sopol askar haykali topilgan.\n1) 720 ming;\n2) 246;\n3) 6 ming;\n4) Sin Shixuandi;\n5) Lyu Ban.",
+   "options": [
+    "A-1, B-4, C-3",
+    "A-2, B-4, C-3",
+    "A-2, B-5, C-1",
+    "A-1, B-5, C-2"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kiyev knyazi Yaroslavning «Donishmand» nomiga sazovor bo'lishi nima bilan bog'liq?",
+   "options": [
+    "Bunyodkorlik faoliyati bilan – u Yaroslavl shahriga asos solgan, Kiyevda Avliyo Sofiya ibodatxonasini bunyod ettirgan",
+    "Bijanaklarni (pecheneglarni) uzil-kesil mag'lub etgani bilan",
+    "Provaslav cherkovi udumlariga binoan xristianlikni qabul qilgani bilan",
+    "Qipchoqlarga qarshi urush harakatlarini ular yashaydigan hududlarga ko'chirgani bilan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "668-yilda Silla qirolligining Xitoydagi Tan sulolasi bilan ittifoq tuzib, Koreya yarimorolini o'z hokimiyati ostida birlashtirishi qanday natija berdi?",
+   "options": [
+    "Koreya yarimoroli Pekche va Koguryo qirolliklari o'rtasida qayta bo'lib olindi",
+    "Mo'g'ullar yarimorolni bosib olib, Silla qirolligiga barham berdi",
+    "Yer egaligi munosabatlari uzil-kesil shakllanib, o'zaro urushlarga chek qo'yilishi ishlab chiqarish rivojiga yo'l ochdi, VIII asr o'rtalarida Sillaning «oltin davri» boshlandi",
+    "Koreya Xitoyga boj-yasoq to'lashdan butunlay ozod bo'lib, Tan sulolasi hududlarini bosib oldi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | Normannlar 842-yilda Londonni bosib olib, talab, yondirib yubordi | Ko'plab skandinaviyaliklar shimoli-sharqiy Angliyaga o'rnashib oldi\n2. | Pekche sulolasi hukmdorlari Xitoy bilan yaqin aloqada bo'ldi | Koreyaga xitoy yozuvi – iyerogliflar hamda buddizm kirib keldi\n3. | Koguryo qirolligida zodagonlar toifasining mavqeyi yuqori edi | Qirollar nufuzi keskin oshib, ular zodagonlarni boshqaruvdan chetlatdi\n4. | XIII asr boshlarida Koryo qirolligi o'zaro kurashlardan zaiflashib qoldi | Mo'g'ullar 1231-yilda Koryo qirolligini bosib oldi",
+   "options": [
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransiya qiroli Filipp IV ning papaga qarshi kurashda toifa vakillarining qo'llab-quvvatlashiga erishish uchun 1302-yilda General shtatlarni chaqirishi qanday natija berdi?",
+   "options": [
+    "General shtatlar qonun qabul qilish huquqiga ega oliy qonun chiqaruvchi organga aylandi",
+    "Qirol hokimiyati cheklanib, Fransiya respublika deb e'lon qilindi",
+    "Uchinchi toifa vakillari ruhoniylar va dvoryanlarga nisbatan ikki baravar ko'p ovoz olish huquqiga ega bo'ldi",
+    "Shu vaqtdan qirollar har safar yangi soliqlar joriy qilish zarurati tug'ilganda General shtatlarni chaqira boshladi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1358-yilda boshlangan Jakeriya qo'zg'oloni ishtirokchilarining o'z bayroqlariga qirol gerbi – oq nilufar tasvirini tushirishi nima bilan bog'liq edi?",
+   "options": [
+    "Ular qirolni dehqonlarning azob-uqubatlaridan bexabar, oddiy xalqqa xayrixoh deb ishonar edilar",
+    "Qo'zg'olonga qirolning o'zi rahbarlik qilgan edi",
+    "Oq nilufar Gilyom Kal oilasining gerbi edi",
+    "Qo'zg'olonchilar qirolni taxtdan ag'darib, uning gerbini o'zlashtirmoqchi edilar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIII–XV asrlardagi davlatlar va ularga oid ma'lumotlarni moslashtiring.\n1. Vengriya\n2. Polsha\n3. Serbiya\na) qirol Andrash II davrida «Oltin bulla» qabul qilinib, ishpanlarning vakolatlari cheklandi\nb) XV asrda umumtoifa vakillarining yig'ini – ikki palatali seym tashkil etildi\nc) Stefan Dushan davrida aholi tabaqalarining huquq va burchlarini belgilagan maxsus qonunlar to'plami qabul qilindi\nd) XIV asrda Yevropaning eng boy mamlakatlaridan biriga aylanib, poytaxti yirik savdo markaziga aylandi",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Atsteklarning Tenochtitlan shahriga asos solishi;\n2) Vengriyada Arpadlar sulolasining barham topishi;\n3) Botuxon boshliq mo'g'ullarning Vengriyani ishg'ol etishi;\n4) Ikkinchi Bolgariya podshohligining tugatilishi.",
+   "options": [
+    "3, 2, 4, 1",
+    "3, 2, 1, 4",
+    "2, 3, 1, 4",
+    "3, 1, 2, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiya bilan xaritada 2 raqami bilan belgilangan davlat o'rtasidagi Shimoliy urush (1700–1721) Rossiya uchun qanday natija bilan yakunlandi?",
+   "options": [
+    "Rossiya mag'lub bo'lib, Boltiq bo'yidagi barcha yerlaridan ayrildi",
+    "Rossiya Kavkaz va Dunay knyazliklarini qo'shib olib, Bolqonda ustunlikka erishdi",
+    "Nishtadt tinchlik shartnomasiga binoan Rossiya Boltiq dengiziga chiqish huquqiga ega bo'lib, Yevropaning qudratli davlatlaridan biriga aylandi",
+    "Rossiya mag'lub bo'lib, Qora dengizdagi flotidan ayrildi"
+   ],
+   "answer": 2,
+   "image": "img/aa289b2c9bdb8.jpg"
+  },
+  {
+   "q": "1853–1856-yillardagi Qrim urushidagi mag'lubiyat Rossiya uchun qanday ahamiyat kasb etdi?",
+   "options": [
+    "Rossiya Boltiq dengiziga chiqish huquqini qo'lga kiritdi",
+    "Rossiya Turkiyani yarimmustamlakaga aylantirdi",
+    "Rossiyada mutlaq monarxiya o'rniga respublika tuzumi o'rnatildi",
+    "U krepostnoylik huquqi bekor qilinmasa, kapitalizm tez rivojlana olmasligini ko'rsatdi va inqilobiy harakatning o'sishiga turtki bo'ldi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvalda harflar ostiga yashirilgan to'g'ri javobni toping.\n1. Avstriya imperiyasi\n2. XVII asr\n3. Usmonlilar imperiyasi\n4. Sankt-Peterburgga asos solindi\n5. 1846-yil\n6. Moskva Rossiyaning poytaxti deb e'lon qilindi\nDavr | Davlat | Voqea\n1703-yil | Rossiya | ____A____\n1856-yil | ____B____ | Parij tinchlik shartnomasiga ko'ra chet elliklarga yer va boshqa ko'chmas mulklar sotib olishga ruxsat berildi\n____C____ | AQSH | Tinch okeani qirg'oqlaridagi Origonaning katta qismi egallandi",
+   "options": [
+    "A-6, B-1, C-2",
+    "A-6, B-3, C-2",
+    "A-4, B-3, C-5",
+    "A-4, B-1, C-5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "AQSHning Kubadagi yangi hukumatga dushmanlarcha munosabatidan so'ng F. Kastro hukumatining SSSR bilan kelishuv orqali mamlakat mudofaa qudratini mustahkamlashi qanday oqibatga olib keldi?",
+   "options": [
+    "Kuba Varshava Shartnomasi tashkilotining asoschilaridan biriga aylandi",
+    "1962-yilgi «Karib inqirozi»ga olib kelib, dunyo yadro urushi xavfi ostida qoldi",
+    "SSSR va AQSH Kubani birgalikda boshqarish to'g'risida shartnoma tuzdi",
+    "AQSH Kubani bosib olib, F. Kastro hukumatini ag'dardi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fransiya tashqi ishlar vaziri Robert Shumanning Germaniya va Fransiyaning iqtisodiy imkoniyatlarini birlashtirish tashabbusi qanday natija berdi?",
+   "options": [
+    "1949-yili Shimoliy Atlantika Shartnomasi tashkiloti (NATO) tuzildi",
+    "1951-yili GFR, Fransiya, Italiya, Belgiya, Niderlandlar va Lyuksemburg ishtirokida Yevropa ko'mir va po'lat birlashmasi tuzildi",
+    "Germaniya va Fransiya yagona davlatga birlashdi",
+    "1992-yili Maastrixt shartnomasi imzolanib, Yevropa Ittifoqi tashkil topdi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvalda harflar ostiga yashirilgan to'g'ri javobni toping.\n1. 1985-yil\n2. Sun Yatsen Gomindan («Milliy partiya»)ga asos soldi\n3. Germaniya\n4. 1987-yil\n5. Yaponiya\n6. Xitoy Xalq Respublikasi tashkil topdi\nDavr | Davlat | Voqea\n1912-yil | Xitoy | ____A____\n1945-yil 2-sentyabr | ____B____ | So'zsiz taslim bo'lish to'g'risidagi paktni imzoladi\n____C____ | SSSR | KPSS MK yanvar plenumida M. Gorbachyov ijtimoiy hayotni demokratlashtirish vazifasini qo'yib, oshkoralik kursini e'lon qildi",
+   "options": [
+    "A-2, B-3, C-4",
+    "A-6, B-5, C-1",
+    "A-2, B-5, C-4",
+    "A-6, B-3, C-1"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | Hindistonda Narasimha Rao hukumati bozor islohotlarining yangi bosqichini boshladi | Hindiston 1992-yildan g'alla import qilishga majbur bo'ldi\n2. | Armanistonda S. Sargsyan 2018-yilda konstitutsion islohotlar o'tkazdi | Prezident vakolatlari bosh vazirga o'tdi\n3. | 1987-yili Birinchi Falastin intifadasi boshlandi | FOQT bilan Isroil o'rtasida muzokaralar boshlanib, Oslo shahrida kelishuv imzolandi\n4. | Qirg'izistonda 2010-yilda «Atirgullar inqilobi» deb atalgan ommaviy harakat bo'lib o'tdi | K. Bakiyev hokimiyati ag'darilib, R. Otunbayeva boshchiligida muvaqqat hukumat tuzildi",
+   "options": [
+    "1-noto'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-to'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Xronologik ketma-ketlik NOMUVOFIQ berilgan javobni aniqlang.",
+   "options": [
+    "Qirg'izistonda «Lolalar inqilobi» → Kambodjaning ASEANga teng huquqli a'zo bo'lishi → Yaponiyada «Abenomika» islohotlarining boshlanishi",
+    "Yagona Germaniya davlatining tashkil topishi → Qirg'izistonda «Lolalar inqilobi» → Shotlandiyada mustaqillik bo'yicha referendum",
+    "Ruminiyada kommunistik rejimning qulashi → yagona Germaniya davlatining tashkil topishi → Qirg'izistonda «Lolalar inqilobi»",
+    "Kambodjaning ASEANga teng huquqli a'zo bo'lishi → Yaponiyada «Abenomika» islohotlarining boshlanishi → Shotlandiyada mustaqillik bo'yicha referendum"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sinf rahbari bir necha o'quvchining o'zlashtirishi pasayganini aniqlab, ularning ota-onalari bilan alohida uchrashuv o'tkazdi va uyda kun tartibi hamda dars tayyorlash nazoratini birgalikda yo'lga qo'yishga kelishib oldi. Kasb standartining qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik",
+    "O'quv jarayonini rejalashtirish",
+    "Tarbiyaviy faoliyatni tashkil etish",
+    "O'z-o'zini rivojlantirish va kasbiy o'sish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi chorak yakunidagi test natijalarini tahlil qilib, xatolar ko'p uchragan mavzular bo'yicha qo'shimcha mashg'ulot belgiladi va har bir o'quvchiga natijasi haqida izoh yozib berdi. Qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "Tarbiyaviy faoliyatni tashkil etish",
+    "Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik",
+    "O'zlashtirishni baholash va qayta aloqani taqdim etish",
+    "Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi xalqaro onlayn platformada tarix o'qitish metodikasi bo'yicha kursni tamomlab, sertifikat oldi va o'rganganlarini o'z darslarida qo'llay boshladi. Qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "O'zlashtirishni baholash va qayta aloqani taqdim etish",
+    "O'z-o'zini rivojlantirish va kasbiy o'sish",
+    "Ta'lim samaradorligini ta'minlash",
+    "O'quv jarayonini rejalashtirish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pedagogik vaziyatlar va ularda namoyon bo'lgan mehnat vazifalarini moslashtiring.\n1. O'qituvchi ekskursiya oldidan o'quvchilarga yo'lda va muzeyda xavfsizlik qoidalarini tushuntirib, ularni yo'riqnoma bilan tanishtirdi\n2. O'qituvchi yangi bo'lim boshlanishidan oldin mavzularga ajratilgan soatlar, dars maqsadlari va kutilayotgan natijalarni belgilab chiqdi\na) Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash\nb) O'quv jarayonini rejalashtirish\nc) Tarbiyaviy faoliyatni tashkil etish",
+   "options": [
+    "1-a, 2-b",
+    "1-b, 2-a",
+    "1-a, 2-c",
+    "1-c, 2-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sinf rahbari o'quvchilar bilan «Mahallamdagi faxriylar» loyihasini tashkil etib, mehnat faxriylarini ziyorat qilish va ularning xotiralarini yozib olishni uyushtirdi. Qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "O'z-o'zini rivojlantirish va kasbiy o'sish",
+    "Ta'lim samaradorligini ta'minlash",
+    "O'quv jarayonini rejalashtirish",
+    "Tarbiyaviy faoliyatni tashkil etish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sinf rahbari sinflar o'rtasida «Eng ozoda va obod sinf» tanlovini e'lon qildi. O'quvchilar bir oy davomida bellashib, natijalar yakunida g'olib sinf aniqlandi. Qaysi tarbiya metodi qo'llanildi?",
+   "options": [
+    "Ishontirish metodi",
+    "Shaxsiy namuna metodi",
+    "Musobaqa metodi",
+    "Odatlantirish (mashq qildirish) metodi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi sinfga kirishi bilan o'quvchilar tinchlanadi. U ovozini ko'tarmasdan, qat'iyati va irodasi bilan o'quvchilarga bevosita ta'sir o'tkazadi va ularning hurmatini qozongan. O'qituvchining qaysi pedagogik qobiliyati namoyon bo'ldi?",
+   "options": [
+    "Didaktik qobiliyat",
+    "Kommunikativ qobiliyat",
+    "Perseptiv qobiliyat",
+    "Avtoritar qobiliyat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'qituvchi kirish testi natijalariga ko'ra sinfni uch guruhga ajratib, har bir guruhga o'zlashtirish darajasiga mos, murakkabligi turlicha bo'lgan topshiriqlar berdi. Qaysi ta'lim texnologiyasi qo'llanilgan?",
+   "options": [
+    "Loyihaga asoslangan ta'lim",
+    "Differensial (tabaqalashtirilgan) ta'lim",
+    "Hamkorlikda o'qitish",
+    "Muammoli ta'lim"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Summativ (xulosalovchi) baholashga xos xususiyatlarni aniqlang.\n1. O'quv bo'limi, chorak yoki yil yakunida o'tkaziladi.\n2. O'quv jarayonida o'quvchiga doimiy qayta aloqa berish uchun qo'llaniladi.\n3. Natijalari ball yoki baho bilan rasman qayd etiladi.\n4. O'quvchi natijasi faqat uning avvalgi natijasi bilan solishtiriladi.",
+   "options": [
+    "3, 4",
+    "2, 4",
+    "1, 2",
+    "1, 3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Maktabda o'quvchilarning baholari, davomati va uy vazifalari elektron jurnalga kiritila boshlandi, ota-onalar esa bu ma'lumotlarni onlayn kuzatib borish imkoniga ega bo'ldi. Qaysi raqamli platformadan foydalanilmoqda?",
+   "options": [
+    "emaktab.uz elektron ta'lim platformasi",
+    "Microsoft Excel dasturi",
+    "Microsoft PowerPoint dasturi",
+    "Google Earth dasturi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarbiya turlari va ularning mazmunini moslashtiring.\n1. Estetik tarbiya\n2. Ekologik tarbiya\n3. Iqtisodiy tarbiya\na) go'zallikni his etish, idrok etish va yaratishga o'rgatish\nb) tabiatga ongli va ehtiyotkor munosabatni shakllantirish\nc) tejamkorlik, tadbirkorlik, mehnat va mulkka to'g'ri munosabatni shakllantirish\nd) sog'liqni mustahkamlash, jismoniy sifatlarni rivojlantirish",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'qituvchi an'anaviy usullardan farqli, o'zi ishlab chiqqan yangi o'yin-topshiriqlarni darsga olib kirdi va nostandart vaziyatlarda original yechim topa oldi. O'qituvchining qanday xususiyati namoyon bo'ldi?",
+   "options": [
+    "Pedagogik takt",
+    "Pedagogik refleksiya",
+    "Pedagogik texnika",
+    "Pedagogik kreativlik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'qituvchi o'quvchilarga «Amir Temurning markazlashgan davlat tuzishi Movarounnahr taraqqiyotiga qanday ta'sir ko'rsatdi?» savoliga to'rt bosqichda javob yozishni topshirdi: fikrini bayon qiladi, sababini ko'rsatadi, misol keltiradi va umumlashtiradi. Qaysi texnologiyadan foydalanilgan?",
+   "options": [
+    "FSMU (Fikr – Sabab – Misol – Umumlashtirish)",
+    "Sinkveyn",
+    "Insert",
+    "Klaster"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi doskaga baliq shaklini chizib, uning «boshi»ga «Jadidchilik harakati nega o'z maqsadiga to'liq erisha olmadi?» muammosini yozdi; «suyaklar»ning yuqori qismiga sabablarni, pastki qismiga esa ularni tasdiqlovchi faktlarni yozishni topshirdi. Qaysi grafik organayzer qo'llanilgan?",
+   "options": [
+    "«Baliq skeleti» (Fishbone)",
+    "Venn diagrammasi",
+    "Klaster",
+    "T-jadval"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi «Xonliklar davri madaniyati» mavzusini uch qismga bo'lib, har bir guruh a'zosiga bitta qismni berdi. Bir xil qismni olgan o'quvchilar «ekspertlar guruhi»da o'rganib, so'ng o'z guruhlariga qaytib, boshqalarga o'rgatishdi. Qaysi interfaol metod qo'llanilgan?",
+   "options": [
+    "«Rolli o'yin» metodi",
+    "«Debat» metodi",
+    "«Zigzag» («Arra») metodi",
+    "«Aqliy hujum» metodi o'qitish metodikasi"
+   ],
+   "answer": 2
+  }
+ ]
+}

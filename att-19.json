@@ -1,0 +1,507 @@
+{
+ "title": "Attestatsiya tarix 19-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Qadimgi Qang' davlatida mil. avv. II asrda qurilgan, quyosh ramzi sifatida doira shaklida bunyod etilgan olov ibodatxonasi qayerda joylashgan?",
+   "options": [
+    "Shoshtepada",
+    "Kampirtepada",
+    "Qanqada",
+    "Oqchaxonqal'ada"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Misr kohinlari Nil toshqini vaqtini bilishgani singari, bu qal'a ibodatxonasidagi xorazmlik kohin- astronomlar osmon jismlari harakatini kuzatib, Amudaryo suv sathining ko'tarilishi vaqtini belgilab berishgan». Gap mil. avv. III asrda qurilgan qaysi istehkom haqida bormoqda?",
+   "options": [
+    "Qo'yqirilganqal'a",
+    "Qizilqal'a",
+    "Oybo'yirqal'a",
+    "Tuproqqal'a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Milodiy 305-yilda xorazmshoh Afrig' qarorgohini qaysi shaharga ko'chirgan va shaharning yonidagi qaysi qasr ichida o'ziga yangi saroy qurdirgan?",
+   "options": [
+    "Gurganjga; Alfir qasri",
+    "Kat shahriga; Oqchaxon qal'asi",
+    "Kat shahriga; Alfir qasri",
+    "Tuproqqal'aga; Qizilqal'a"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarixchi Otamalik Juvayniy yozadi: «O'zaro sulh shartnomasiga ko'ra, xorazmshoh Sulton Sanjarga tobelik bildirib, uning oyog'i ostidagi yerni o'pib, ta'zim etishi shart edi. Lekin xorazmshoh bu urfni bajarmadi: Sulton Sanjar huzuriga kelib, otidan tushmagan holda salom berdi va uchrashuv joyini birinchi bo'lib tark etdi». Gap qaysi xorazmshoh haqida bormoqda?",
+   "options": [
+    "Takash",
+    "El Arslon",
+    "Qutbiddin Muhammad",
+    "Otsiz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Saljuqiy hukmdorlar va ularga oid ma'lumotlarni moslashtiring.\n1. To'g'rulbek\n2. Alp Arslon\n3. Malikshoh\n4. Sanjar\na) Bag'dod xalifasidan «Malik al-Mashriq» («Sharq hukmdori») va «Rukn ad-din» nomlarini olgan\nb) Kichik Osiyoda Vizantiya podshosi Roman IV Diogenni yenggan\nc) davrida Samarqand, Buxoro, Farg'ona saljuqiylar qo'l ostida birlashgan\nd) qoraxitoylarning sharqdan bostirib kirishi natijasida kuchi qirqilgan\ne) 1040-yilda Dandanaqonda mag'lubiyatga uchragan g'aznaviylar hukmdori",
+   "options": [
+    "1-a, 2-e, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-b, 2-a, 3-c, 4-d"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chingizxon buyrug'iga ko'ra buzib tashlangan suv inshootlari va ularga oid ma'lumotlarni moslashtiring.\n1. Sultonband\n2. Bandi amir\n3. Qo'rg'oshin nova\na) Marv shahrini suv bilan ta'minlagan inshoot\nb) Balxob daryosidagi to'g'on\nc) Samarqand shahrini suv bilan ta'minlaydigan yagona to'g'on\nd) Zarafshonning Oqdaryo va Qoradaryoga ayrilish yeridagi suvtaqsimlagich",
+   "options": [
+    "1-a, 2-b, 3-d",
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mirzo Ulug'bekning shogirdi bo'lgan, o'z davrining «Ptolemeyi» nomini olgan olim (Alouddin ibn Muhammad) kim?",
+   "options": [
+    "G'iyosiddin Jamshid Koshiy",
+    "Muhammad Hafoviy",
+    "Qozizoda Rumiy",
+    "Ali Qushchi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Alisher Navoiyning tarixiy asarlari va ularga oid ma'lumotlarni moslashtiring.\n1. «Tarixi muluki Ajam»\n2. «Tarixi anbiyo va hukamo»\n3. «Vaqfiya»\na) 1488-yilda yozilgan; Kayumarsdan Yazdi Shahriyorgacha bo'lgan Eron shohlari tarixi bayon etilgan\nb) payg'ambarlar hamda Suqrot, Aflotun, Arastu kabi donishmand hakimlar haqidagi hikoyalar\nc) 1481-yilda yozilgan; vaqf yerlari, mulklari va ulardan foydalanish tartibi haqidagi asar\nd) Sharafiddin Ali Yazdiy qalamiga mansub Amir Temur tarixi",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-d"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Pyotr I topshirig'i bilan 1714–1717-yillarda uyushtirilgan, A. Bekovich-Cherkasskiy boshchiligidagi 6000 askardan iborat yurishni ochiq maydonda emas, dushman kuchlarini mayda bo'laklarga ajratib yo'q qilish rejasi bilan bartaraf etgan Xiva xoni kim?",
+   "options": [
+    "Abulg'ozixon",
+    "Anushaxon",
+    "Arab Muhammadxon",
+    "Sherg'ozixon"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qoraqalpoqlar tarixiga oid voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Mamanbiy boshchiligidagi elchilarning Peterburgga yuborilishi;\n2) Sirdaryo bo'yi qoraqalpoqlarining Eshmuhammad (Eshimxon) boshchiligidagi davlatga birlashishi;\n3) Oydo'stbiy boshchiligidagi qo'zg'olon;\n4) jung'orlar hujumi natijasida qoraqalpoqlarning uch guruhga bo'linib ketishi;\n5) qoraqalpoqlarning to'la Xiva xonligiga bo'ysundirilishi.",
+   "options": [
+    "2, 4, 1, 5, 3",
+    "2, 1, 4, 5, 3",
+    "2, 4, 1, 3, 5",
+    "4, 2, 1, 5, 3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qo'qonda hammomda go'lax (o't yoquvchi) bo'lib ishlagani uchun shunday taxallus bilan ijod qilgan, Yapaloqqush bilan Boyo'g'lining quda-anda bo'lishi sarguzashtlari tasvirlangan «Zarbulmasal» asarining muallifi kim?",
+   "options": [
+    "Nodira",
+    "Fazliy Namangoniy",
+    "Maxmur",
+    "Gulxaniy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1917-yil 5-aprelda Asfandiyorxon Yosh xivaliklar taqdim etgan manifestni imzolaganidan so'ng Xorazmda qanday boshqaruv shakli belgilandi?",
+   "options": [
+    "Xalq Sovet Respublikasi",
+    "Parlamentli respublika",
+    "Konstitutsiyaviy monarxiya",
+    "Mutlaq monarxiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qoraqalpoqlarning «Qirq qiz» dostonida qirq kanizagi bilan dushmanga qarshi kurashib, qoraqalpoqlarni asirlikdan ozod qilgan, Sarkub hukmdori Olloyorning qizi bo'lgan qahramon kim?",
+   "options": [
+    "Zuhrabonu",
+    "Barchinoy",
+    "Tomaris",
+    "Guloyim"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi hukmlarning to'g'ri yoki noto'g'riligini aniqlang.\nI. 1984-yil 23-iyunda O'zbekiston Kompartiyasi MK XVI plenumi qarorlari bilan «paxta ishi» deb atalgan siyosiy qatag'onlar boshlangan;\nII. 1985–1990-yillarda «paxta ishi» degan uydirma bo'yicha jami 40 000 kishi tergov qilingan;\nIII. Sh. Rashidov 1985-yil 31-oktyabrda yurak xurujidan vafot etgan;\nIV. Afg'onistondagi urushda 1 515 nafar o'zbekistonlik halok bo'lgan.",
+   "options": [
+    "I – to'g'ri; II – noto'g'ri; III – noto'g'ri; IV – to'g'ri",
+    "I – to'g'ri; II – to'g'ri; III – noto'g'ri; IV – to'g'ri",
+    "I – to'g'ri; II – to'g'ri; III – to'g'ri; IV – noto'g'ri",
+    "I – noto'g'ri; II – to'g'ri; III – to'g'ri; IV – to'g'ri"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mustaqil O'zbekistonda 1993-yildan boshlab 14-yanvar qanday kun sifatida nishonlanib kelinmoqda?",
+   "options": [
+    "Davlat bayrog'i qabul qilingan kun",
+    "Konstitutsiya kuni",
+    "Vatan himoyachilari kuni",
+    "Xotira va qadrlash kuni"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mustaqillik yillarida keng nishonlangan yubileylar va ularga mos sanalarni moslashtiring.\n1. Najmiddin Kubro (1995-yil)\n2. Ahmad Farg'oniy (1998-yil)\n3. Muhammad ibn Ismoil Buxoriy (1998-yil)\n4. Xoja Ahror Valiy (2004-yil)\na) 850 yilligi\nb) 1200 yilligi\nc) 1225 yilligi\nd) 600 yilligi\ne) 660 yilligi",
+   "options": [
+    "1-a, 2-c, 3-b, 4-d",
+    "1-a, 2-b, 3-c, 4-e",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-b, 2-a, 3-c, 4-d"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "2019-yil 20-fevraldagi qarorga ko'ra tashkil etilgan Prezident maktablari dastlab qaysi shaharlarda ochilgan?",
+   "options": [
+    "Toshkent, Farg'ona, Qarshi, Termiz",
+    "Toshkent, Navoiy, Urganch, Jizzax",
+    "Toshkent, Samarqand, Buxoro, Andijon",
+    "Toshkent, Namangan, Xiva, Nukus"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mustaqillik davri voqealarini xronologik ketma-ketlikda joylashtiring.\n1) «O'zbekiston Respublikasining davlat gerbi to'g'risida»gi qonunning qabul qilinishi;\n2) O'zbekiston Respublikasining yangilangan Konstitutsiyasi qabul qilinishi;\n3) «O'zbekiston Respublikasining davlat bayrog'i to'g'risida»gi qonunning qabul qilinishi;\n4) Lina Cheryazovaning qishki Olimpiada o'yinlarida oltin medalni qo'lga kiritishi;\n5) «O'zbekiston Respublikasining davlat madhiyasi to'g'risida»gi qonunning qabul qilinishi;\n6) Yoshlar ittifoqining tashkil etilishi.",
+   "options": [
+    "3, 1, 5, 4, 6, 2",
+    "1, 3, 5, 4, 6, 2",
+    "3, 5, 1, 4, 6, 2",
+    "3, 1, 5, 6, 4, 2"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Richag (dastak) qonunini ishlab chiqqan, «Menga tayanch nuqtasini topib bering, Yerni o'z o'qidan chiqarib yuboraman!» degan iborasi mashhur bo'lib ketgan yunon olimi kim?",
+   "options": [
+    "Aristotel",
+    "Arximed",
+    "Gerodot",
+    "Pifagor"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler–Venn diagrammasiga mos keladigan javobni aniqlang.\na) jamiyat brahmanlar, kshatriylar, vayshiylar va shudralar tabaqalariga bo'lingan;\nb) «qo'shinlarning to'rt turi» deb atalgan o'yin — shaxmat ixtiro qilingan;\nc) magnitlangan temirdan yasalgan kompas va seysmograf ixtiro qilingan;\nd) miloddan avvalgi I asrda qog'oz ixtiro qilingan;\ne) ilk sivilizatsiyalar katta daryolar bo'ylarida vujudga kelgan; f) aholi sholi yetishtirgan.",
+   "options": [
+    "I – a, b; II – c, e; III – d, f",
+    "I – a, b; II – c, d; III – e, f",
+    "I – c, d; II – a, b; III – e, f",
+    "I – a, f; II – c, d; III – b, e"
+   ],
+   "answer": 1,
+   "image": "img/a51ce11a81a54.jpg"
+  },
+  {
+   "q": "«Jahon tarixi» (7-sinf) darsligiga ko'ra Yevropadagi dastlabki universitetlar qaysilar hisoblanadi?",
+   "options": [
+    "Italiyadagi Boloniya va Fransiyadagi Parij universitetlari",
+    "Fransiyadagi Tuluza va Italiyadagi Neapol universitetlari",
+    "Angliyadagi Oksford va Kembrij universitetlari",
+    "Ispaniyadagi Sevilya va Valensiya universitetlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Musulmon Sharqidagi ilm dargohlari va ular haqidagi ma'lumotlarni moslashtiring.\n1. «Zaytuna»\n2. «Bayt ul-hikma»\n3. «Qaroviyun»\n4. «Al-Azhar»\na) VIII asrda Tunisda tashkil etilgan\nb) IX asrda Bag'dodda tashkil etilgan «Donishmandlik uyi»\nc) Fes (Marokash) shahridagi ilm dargohi\nd) X asrda Qohirada tashkil etilgan\ne) Angliyada tashkil etilgan Oksford universiteti",
+   "options": [
+    "1-a, 2-b, 3-e, 4-d",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-b, 2-a, 3-c, 4-d"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Voqealarni xronologik ketma-ketlikda joylashtiring.\n1) saljuqiy turklarning Bag'dodni egallashi;\n2) uchinchi salib yurishining boshlanishi;\n3) Mansikert jangi;\n4) Saksoniya gersogi Genrixning Sharqiy Frank davlati hukmdori etib saylanishi;\n5) ikkinchi salib yurishining boshlanishi.",
+   "options": [
+    "4, 3, 1, 5, 2",
+    "4, 1, 3, 5, 2",
+    "1, 4, 3, 5, 2",
+    "4, 1, 3, 2, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1389-yilda Kosovo maydonidagi hal qiluvchi jangda serb askari Milosh Obilich tomonidan o'ldirilgan turk sultoni kim?",
+   "options": [
+    "Mehmed II",
+    "Boyazid I",
+    "Murod I",
+    "Orxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1312–1337-yillarda hukmronlik qilgan Mansa Muso davrida Afrikaning yigirma to'rtta o'lka va viloyati ustidan nazorat o'rnatib, qudratining eng yuqori cho'qqisiga chiqqan davlatni aniqlang.",
+   "options": [
+    "Efiopiya",
+    "Songay",
+    "Mali",
+    "Gana"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tushunchalar va ularga oid ma'lumotlarni moslashtiring.\n1. Kortes\n2. Ilk birja\n3. Medichilar\n4. Kusko\na) Kastiliyada vujudga kelgan, Yevropadagi toifa vakillarining ilk yig'ini\nb) Bryuggeda (hozirgi Belgiyada) Van der Burse oilasi nomi bilan bog'liq paydo bo'lgan\nc) XV asrda bank faoliyatiga ixtisoslashgan italiyalik savdogar oila\nd) Inklar davlatining markazi — Quyosh shahri\ne) Usmoniy turklar 1362-yilda egallab, poytaxtga aylantirgan shahar",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-a, 2-b, 3-c, 4-e",
+    "1-b, 2-a, 3-c, 4-d"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rekonkista davrida tuzilgan Portugaliya grafligi asosida 1139-yilda Portugaliyaning mustaqilligini e'lon qilgan va uning birinchi qiroli bo'lgan shaxs kim?",
+   "options": [
+    "Afonso II",
+    "Sancho I",
+    "Vimara Peresh",
+    "Afonso Enrikesh"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1860-yili o'z harbiy kuchlari bilan Sitsiliya oroliga tushib, Palermoni egallagan, so'ng Neapol qirolligini tugatgan Italiya xalq qahramoni kim?",
+   "options": [
+    "Juzeppe Madzini",
+    "Viktor Emmanuil II",
+    "Juzeppe Garibaldi",
+    "Kamillo Kavur"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "AQShda 1861–1865-yillardagi fuqarolar urushida Shimolning nechta shtatiga qarshi Janubning nechta shtati kurash olib borgan?",
+   "options": [
+    "20 ta shtatiga qarshi 13 ta shtati",
+    "24 ta shtatiga qarshi 11 ta shtati",
+    "11 ta shtatiga qarshi 24 ta shtati",
+    "13 ta shtatiga qarshi 7 ta shtati"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarixiy shaxslar va ularga oid ma'lumotlarni moslashtiring.\n1. Otto fon Bismark\n2. Abbos I\n3. Uilyam Shekspir\n4. Viktor Emmanuil II\na) 1866-yildan so'ng «Shimoliy Germaniya ittifoqi»ni tuzish haqidagi shartnoma imzolanishiga erishgan\nb) davrida (1587–1629) Safaviylar davlati o'z qudratining cho'qqisiga erishgan\nc) asarlari Londondagi «Globus» teatrida sahnalashtirilgan\nd) 1861-yilda yagona Italiya qirolligi e'lon qilingach, taxtga o'tirgan\ne) 1815-yil martida Elba orolidan Fransiyaning janubiga yetib kelgan",
+   "options": [
+    "1-a, 2-b, 3-c, 4-e",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-a, 2-b, 3-c, 4-d"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Germaniya tarixida Veymar respublikasi davrini boshlab bergan konstitutsiya Veymar shahrida Ta'sis majlisi tomonidan qachon qabul qilingan?",
+   "options": [
+    "1923-yil noyabrda",
+    "1918-yil noyabrda",
+    "1933-yil yanvarda",
+    "1919-yil 31-iyulda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mustafo Kamol (Otaturk) davrida Turkiya qaysi yili Millatlar Ligasiga a'zo bo'lgan?",
+   "options": [
+    "1923-yilda",
+    "1932-yilda",
+    "1941-yilda",
+    "1928-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "JARda aparteid rejimining ag'darilishi bilan Afrikada mustamlakachilik to'liq yakunlandi. 1994- yilgi saylovlardan so'ng JAR tarixidagi birinchi qora tanli yo'lboshchi sifatida mamlakat prezidenti bo'lgan shaxs kim?",
+   "options": [
+    "Nelson Mandela",
+    "Kvame Nkruma",
+    "Patris Lumumba",
+    "Jomo Keniata"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "2009-yilda tashkil topgan BRIKS (BRICS) nomi qaysi davlatlar nomlarining bosh harflaridan olingan?",
+   "options": [
+    "Braziliya, Rossiya, Hindiston, Xitoy, JAR",
+    "Belgiya, Ruminiya, Indoneziya, Koreya, Saudiya Arabistoni",
+    "Braziliya, Rossiya, Indoneziya, Qozog'iston, Singapur",
+    "Bolgariya, Rossiya, Hindiston, Kanada, Shvetsiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Voqealarni xronologik ketma-ketlikda joylashtiring.\n1) Gitlerning Germaniya fyureri (dohiysi) bo'lib olishi;\n2) Myunxendagi «Pivo isyoni»;\n3) Shanxay hamkorlik tashkilotining tashkil topishi;\n4) Germaniyada umumiy harbiy majburiyat to'g'risidagi qonunning kuchga kirishi;\n5) Eronning BRIKSga a'zo bo'lishi.",
+   "options": [
+    "2, 1, 3, 4, 5",
+    "2, 1, 4, 3, 5",
+    "1, 2, 4, 3, 5",
+    "2, 4, 1, 3, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sinf o'quvchilari o'z tumani tarixiga katta qiziqish bildirgani sababli tarix o'qituvchisi «Ona yurt tarixi» mavzulariga ajratilgan soatlar doirasida tuman tarixiga oid qo'shimcha manbalar va mashg'ulotlarni kiritib, o'quv dasturini ushbu sinfga moslashtirdi. O'qituvchi «O'quv jarayonini rejalashtirish» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "Davlat ta'lim standartlari va o'quv dasturlarining maqsadlariga muvofiq o'quv rejalarini ishlab chiqish",
+    "O'quvchilarning ehtiyojlari va qiziqishlaridan kelib chiqib o'quv dasturini moslashtirish (agar kerak bo'lsa)",
+    "Dars jarayoniga zamonaviy axborot texnologiyalar integratsiyasini rejalashtirish",
+    "Tegishli o'quv, namoyish va tarqatma materiallardan foydalanishni rejalashtirish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qituvchi har darsda «kuzatuv daftari» yuritib, qaysi o'quvchi xarita bilan ishlashda, qaysi biri sanalarni eslab qolishda qiynalayotganini muntazam yozib bordi. O'qituvchi «O'zlashtirishni baholash va qayta aloqani taqdim etish» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "Dars rejasi va usullarini moslashtirishda tahlil natijalaridan foydalanish",
+    "O'quvchilar erishgan yutuqlarni natijalarini tahlil qilish",
+    "O'quvchilar ta'lim jarayonida to'qnashgan qiyinchiliklarini kuzatish va qayd etish",
+    "Ta'lim natijalarini baholash uchun turli usul va vositalardan foydalanish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi dars rejasida har bir bosqich — tashkiliy qism, uy vazifasini so'rash, yangi mavzu bayoni, mustahkamlash va uyga vazifa berish uchun aniq daqiqalarni belgilab, rejadagi barcha ishlarni qo'ng'iroq chalinishi bilan yakunladi. O'qituvchi «Ta'lim samaradorligini ta'minlash» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "Dars mavzusiga mos keladigan namoyish va tarqatma materiallardan foydalanish",
+    "Dars mavzusini amaliyot bilan (hayotdagi misollar yordamida) bog'lash",
+    "Dars maqsadlari asosida o'quvchilar uchun erishimli vazifalarni belgilash",
+    "Darsda vaqtdan oqilona foydalanish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mehnat vazifalari va ularga tegishli mehnat harakatlarini moslashtiring.\n1. Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik\n2. O'z-o'zini rivojlantirish va kasbiy o'sish\na) O'quvchining individual ta'lim trayektoriyasini loyihalashtirish va to'g'rilash uchun o'qituvchilar va boshqa mutaxassislar bilan o'zaro aloqada bo'lish\nb) O'zaro darslarda qatnashish, ularni tahlil qilish, undan o'zining kasbiy faoliyatida foydalanish\nc) Nizoli vaziyatlarni yetarli darajada hal qilish",
+   "options": [
+    "1-a, 2-b",
+    "1-b, 2-a",
+    "1-a, 2-c",
+    "1-c, 2-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Muzeyga sayohat oldidan sinf rahbari o'quvchilarga yo'lda, avtobusda va muzey zallarida amal qilinadigan xavfsizlik qoidalarini tushuntirib, ularga nima uchun rioya qilish zarurligini hayotiy misollar bilan izohladi. O'qituvchi «Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "Nizoli vaziyatlarni yetarli darajada hal qilish",
+    "O'quvchilar erkin rivojlanishlari va o'zlarini namoyon eta olishlari uchun o'zaro hurmat muhitini yaratish",
+    "O'quvchilarga xavfsizlik qoidalarining mazmuni va ularga rioya qilish asoslarini tushunishga yordam berish",
+    "O'quvchilarga o'zlarining asoslangan va mas'uliyatli qarorlarini qabul qilishlariga yordam berish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarix o'qituvchisi istalgan davrga oid savolga darhol sana, nom va qiziqarli tafsilotlar bilan javob beradi, eng so'nggi texnologiyalarni mukammal biladi. Biroq o'quvchining yuzaki javobidan qanoatlanmasa, zerikayotgani yuz ifodasida darhol namoyon bo'ladi. M. Talen tipologiyasiga ko'ra o'qituvchi qaysi model asosida faoliyat yuritadi?",
+   "options": [
+    "«Ustoz»",
+    "«Sokrat»",
+    "«Menejer»",
+    "«Gid»"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sinf rahbari sinf jamoasining tarbiyaviy faoliyatiga aralashmaydi, o'quvchilar duch kelgan muammolarga yordam bermay, yuzaki qaraydi, tashabbus ko'rsatmasdan eski qolipdagi metodlar bilan ishlaydi. A. Xoliqov darsligiga ko'ra sinf jamoasini boshqarishning qaysi uslubi namoyon bo'lgan?",
+   "options": [
+    "Reglamentlashgan uslub",
+    "Avtoritar uslub",
+    "Liberal uslub",
+    "Demokratik uslub"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ochiq dars paytida o'quvchilardan biri internetda o'qigan noto'g'ri ma'lumotni keltirib, sinfda kutilmagan bahs boshlandi. Dars rejasida bo'lmagan bu vaziyatda o'qituvchi shu zahoti qaror qabul qilib, bahsni tarixiy manbalar bilan ishlashga burib yubordi. A. Xoliqov darsligiga ko'ra pedagogik faoliyatning qaysi uslubi namoyon bo'lgan?",
+   "options": [
+    "Liberal uslub",
+    "Improvizatsion uslub",
+    "Reglamentlashgan uslub",
+    "Avtoritar uslub"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qituvchi yangi mavzuni doimo oldingi mavzu bilan bog'lab boshlaydi, mavzularni mantiqiy ketma- ketlikdan chetga chiqmagan holda o'tadi, bob yakunida esa o'rganilganlarni yaxlit sxemaga keltirib, muntazam takrorlatib boradi. O'qituvchi ta'limning qaysi tamoyiliga amal qilgan?",
+   "options": [
+    "Onglilik va faollik tamoyili",
+    "Ilmiylik tamoyili",
+    "Ko'rgazmalilik tamoyili",
+    "Tizimlilik va muntazamlik tamoyili"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "V.A. Kan-Kalik tasnifidagi pedagogik muloqot uslublarini aniqlang: 1. masofali muloqot uslubi 2. do'stona-samimiy munosabatga asoslangan uslub 3. liberal uslub 4. reglamentlashgan uslub",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "2, 4",
+    "3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi o'quvchilarga «Mahallamiz tarixi» mavzusida bir oylik topshiriq berdi: o'quvchilar keksalardan intervyu olishdi, eski fotosuratlar to'plashdi va natijada buklet hamda taqdimot tayyorlab, uni mahalla tadbirida himoya qilishdi. Qaysi ta'lim texnologiyasi qo'llanilgan?",
+   "options": [
+    "Muammoli ta'lim",
+    "Loyihaga asoslangan ta'lim",
+    "Differensial ta'lim",
+    "O'yinli texnologiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarix o'qituvchisi navbatdagi nazorat ishi uchun test savollarini sun'iy intellekt yordamida tayyorladi. Raqamli savodxonlik talablari nuqtayi nazaridan o'qituvchining keyingi to'g'ri harakatini aniqlang.",
+   "options": [
+    "Savollardagi sana va faktlarni darslik hamda ishonchli manbalar bilan solishtirib tekshirgach, foydalanish",
+    "Savollarni ijtimoiy tarmoqqa joylab, xatolarni o'quvchilar topishini kutish",
+    "Sun'iy intellekt tayyorlagan savollarni hech o'zgartirmasdan o'quvchilarga tarqatish",
+    "Sun'iy intellektdan foydalanishni noto'g'ri deb, tayyor savollarni o'chirib tashlash"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi darsni «Amir Temur nega Samarqandni poytaxt qilib tanladi?» degan savol bilan boshladi va tayyor javobni aytmasdan, bir-biriga bog'liq yo'naltiruvchi savollar orqali o'quvchilarni bosqichma-bosqich mustaqil xulosaga olib keldi. U. Mansurov darsligiga ko'ra o'qituvchi qaysi metoddan foydalangan?",
+   "options": [
+    "Evristik suhbat («izlanish suhbati»)",
+    "Ma'ruza",
+    "Hikoya (monolog)",
+    "Namoyish (demonstratsiya) metodi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi sinfni 4–5 kishilik kichik guruhlarga bo'lib, har bir a'zoga mavzuning bir qismiga oid tarqatma matn berdi. Matnni mustaqil o'rgangan o'quvchilar raqamlari bo'yicha yangi guruhlarga o'tib, o'rganganlarini bir-birlariga «o'qituvchi» rolida tushuntirishdi; dars davomida barcha o'quvchilar baholandi. U. Mansurov darsligida tavsiflangan qaysi pedagogik texnologiya qo'llanilgan?",
+   "options": [
+    "«Aqliy hujum»",
+    "«Bumerang»",
+    "«Klaster»",
+    "«Sinkveyn»"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "U. Mansurov darsligidagi tasnif asosida darsdagi faoliyat va ko'rsatmali metod turlarini moslashtiring.\n1. Tarixiy xarita, chizma, jadval va diagrammalarga o'quvchilar diqqatini tortish\n2. Kinoapparat, AKT va videotasvirlar yordamida tarixiy voqealarni namoyish qilish\na) illyustratsiya metodi\nb) namoyish (demonstratsiya) metodi\nc) tabiiy ko'rsatmali qurollar (predmet, mulyaj, maket)",
+   "options": [
+    "1-c, 2-b",
+    "1-b, 2-a",
+    "1-a, 2-b",
+    "1-a, 2-c o'qitish metodikasi"
+   ],
+   "answer": 2
+  }
+ ]
+}

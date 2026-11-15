@@ -1,0 +1,507 @@
+{
+ "title": "Attestatsiya tarix 15-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Mesopotamiya rivoyatlarining eng sevimli qahramoni Gilgamish qaysi shahar podshosi bo'lgan?",
+   "options": [
+    "Lagash",
+    "Uruk",
+    "Bobil",
+    "Ur"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mil. avv. 2600-yil atrofida qurilgan, har biri ikki tonnadan og'irroq 2,5 million dona tosh bo'lagidan tashkil topgan fir'avn Xufu (Xeops) piramidasining balandligi qancha bo'lgan?",
+   "options": [
+    "174 metr",
+    "137 metr",
+    "147 metr",
+    "120 metr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mil. avv. VII–VI asrlarga oid qadimgi shaharlarni ular joylashgan hududlar bilan moslashtiring.\n1. Ko'ktepa\n2. Yerqo'rg'on\n3. Ko'zaliqir\n4. Qiziltepa\na) Zarafshon vohasi\nb) Qashqadaryo vohasi\nc) Xorazm\nd) Surxondaryo vohasi\ne) Farg'ona vodiysi",
+   "options": [
+    "1-a, 2-b, 3-c, 4-e",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-c, 3-b, 4-d"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nuqtalar o'rniga mos ma'lumotlarni aniqlang. Yunon-fors urushlarida birinchi jang mil. avv. 1. ............ -yili Attika yarimorolining Marafon tekisligida bo'lib o'tdi. G'alaba xabarini Afinaga yetkazgan jangchi 2. ............ kilometr yo'lni chopib o'tdi. Mil. avv. 480-yilda Yunonistonga qarshi Doro I ning o'g'li 3. ............ yurish boshladi.",
+   "options": [
+    "1 — 490, 2 — 40, 3 — Kir II",
+    "1 — 490, 2 — 42, 3 — Kambiz",
+    "1 — 480, 2 — 42, 3 — Kserks",
+    "1 — 490, 2 — 42, 3 — Kserks"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Termiz yaqinida, Amudaryoning o'ng qirg'og'ida joylashgan, Makedoniyalik Aleksandrning Sug'diyonaga yurishlari davrida Oks (Amudaryo)dan o'tish joyida qurilgan, ichida savdo karvonlari uchun g'alla ombori bo'lgan qal'ani aniqlang.",
+   "options": [
+    "Uzundara",
+    "Kampirtepa",
+    "Dalvarzintepa",
+    "Qiziltepa"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yunon-Baqtriya podsholigi qaysi hukmdor davrida eng katta sarhadlarga ega bo'lib, Hindistonning bir qismi bu davlatga qo'shib olingan?",
+   "options": [
+    "Yevtidemning o'g'li Demetriy",
+    "Yevtidem",
+    "Diodot I",
+    "Mitridat I"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mil. avv. 74-yilda Kapuya shahridagi gladiatorlar maktabidan boshlangan Spartak qo'zg'olonini mil. avv. 71-yilda mag'lub etgan Rim sarkardasini aniqlang.",
+   "options": [
+    "Mark Krass",
+    "Mark Antoniy",
+    "Gney Pompey",
+    "Yuliy Sezar | 1"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Turk xoqonligi davrida mahalliy hukmdorlarning unvonlarini hududlar bilan moslashtiring.\n1. Ustrushona\n2. Choch\n3. Kesh\n4. Toxariston\na) afshin\nb) tudun\nc) ixrid\nd) malikshoh\ne) xudot",
+   "options": [
+    "1-a, 2-e, 3-c, 4-d",
+    "1-c, 2-b, 3-a, 4-d",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nuqtalar o'rniga mos ma'lumotlarni aniqlang. 751-yil iyul oyida arablarning 1. ............ qo'mondonligi ostidagi qo'shini Tan davlati sarkardasi 2. ............ boshchiligidagi qo'shin bilan Talas daryosi bo'yida to'qnashdi. Jang 3. ............ kun davom etdi.",
+   "options": [
+    "1 — Ziyod ibn Solih, 2 — Gao Syanchji, 3 — 7",
+    "1 — Qutayba ibn Muslim, 2 — Gao Syanchji, 3 — 5",
+    "1 — Abu Muslim, 2 — Li Siye, 3 — 5",
+    "1 — Ziyod ibn Solih, 2 — Gao Syanchji, 3 — 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "756-yili papaning dunyoviy davlati (hozirgi Vatikan) vujudga kelishiga sabab bo'lgan, langobardlarni markaziy Italiyani papaga berishga majbur etgan frank qirolini aniqlang.",
+   "options": [
+    "Lyudovik Taqvodor",
+    "Pipin Pakana",
+    "Karl Martell",
+    "Buyuk Karl"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Normannlar hujumini qaytargan, Angliyada birinchi marta «daniyaliklar puli» deb atalgan doimiy soliqni joriy qilgan qirolni aniqlang.",
+   "options": [
+    "Buyuk Alfred",
+    "Eduard Iqrorchi",
+    "Genrix II",
+    "Vilgelm Bosqinchi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yusuf Xos Hojib «Qutadg'u bilig» asarini Qoshg'arda tugallab, kimga taqdim etgan va qanday lavozimga sazovor bo'lgan?",
+   "options": [
+    "Arslonxon Muhammadga — qozikalon",
+    "Tavg'achxonga — Xos Hojib",
+    "Sotuq Bug'roxonga — Xos Hojib",
+    "Tavg'achxonga — vazir"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1265-yilda baronlar, ruhoniylar, har bir graflikdan ikkitadan ritsar hamda har bir shahardan ikkitadan vakil ishtirok etadigan majlisni chaqirgan shaxsni aniqlang.",
+   "options": [
+    "Simon de Monfor",
+    "Ioann Yersiz",
+    "Eduard I",
+    "Uot Tayler"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Papalarning Avinyon tutqunligi»ga oid hukmlarning to'g'ri yoki noto'g'riligini aniqlang. 1) Fransiya qiroli fransiyalik arxiyepiskopning Kliment V nomi bilan papa etib saylanishiga erishgan; 2) papalarning yana Rimga qaytishi uchun qariyb 70 yil kerak bo'lgan; 3) bu davr 1303–1377-yillarni o'z ichiga oladi.",
+   "options": [
+    "1 – to'g'ri, 2 – to'g'ri, 3 – to'g'ri",
+    "1 – noto'g'ri, 2 – to'g'ri, 3 – noto'g'ri",
+    "1 – to'g'ri, 2 – noto'g'ri, 3 – noto'g'ri",
+    "1 – to'g'ri, 2 – to'g'ri, 3 – noto'g'ri | 2"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler–Venn diagrammasiga mos keladigan javobni aniqlang.\na) Fransiyaning Bove viloyatida boshlangan;\nb) qo'zg'olonchilar bayrog'iga qirol gerbi – oq nilufar tasviri tushirilgan;\nc) rahbari qishloq hunarmandi – tunukasoz bo'lgan;\nd) qamoqdan ozod qilingan Jon Boll rahbarlardan biriga aylangan;\ne) Yuz yillik urush yillarida sodir bo'lgan.",
+   "options": [
+    "I – a, b; II – c, d; III – e",
+    "I – a, b; II – d, e; III – c",
+    "I – b; II – c, d; III – a, e",
+    "I – a, c; II – b, d; III – e"
+   ],
+   "answer": 0,
+   "image": "img/a3ef22574e58c.jpg"
+  },
+  {
+   "q": "1380-yili Don daryosi bo'yidagi Kulikovo maydonida Moskva knyazligi kimga qarshi g'alaba qozondi va bu g'alaba sharafiga knyaz qanday nom oldi?",
+   "options": [
+    "Oltin O'rda tumanboshisi Mamayga — Aleksandr Nevskiy",
+    "Botuxonga — Ivan Kalita",
+    "Oltin O'rda tumanboshisi Mamayga — Dmitriy Donskoy",
+    "To'xtamishxonga — Dmitriy Donskoy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amir Temur vafotidan so'ng 1405-yil 18-martda o'zboshimchalik bilan Samarqandni egallab, o'zini Movarounnahrning oliy hukmdori deb e'lon qilgan temuriy shahzodani aniqlang.",
+   "options": [
+    "Pirmuhammad",
+    "Mironshohning o'g'li Xalil Sulton",
+    "Shohrux Mirzo",
+    "Sulton Husayn Mirzo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1447-yilda Shohrux vafotidan so'ng taxtni egallab, Ulug'bekning katta o'g'li Abdullatif qo'shinini tor-mor qilgan va uni asirga olgan temuriyni aniqlang.",
+   "options": [
+    "Abulqosim Bobur",
+    "Boysung'urning o'g'li Alouddavla",
+    "Abu Said Mirzo",
+    "Sulton Muhammad"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yangi davr olimlari va ularga oid ma'lumotlarni moslashtiring.\n1. Nikolay Kopernik\n2. Jordano Bruno\n3. Galileo Galiley\n4. Isaak Nyuton\na) 30 yil osmon jismlarini kuzatib, Yer Quyosh atrofida va o'z o'qi atrofida aylanadi, degan xulosaga kelgan\nb) olamning cheksizligi va abadiyligi haqidagi nazariyani yaratib, gulxanda yoqishga hukm qilingan\nc) yevropalik olimlar orasida birinchi bo'lib osmon jismlarini teleskop yordamida kuzatgan\nd) butun olam tortishish qonunini ishlab chiqqan, ko'zguli teleskopni kashf qilgan\ne) falsafaning rivojlanishiga katta hissa qo'shgan ingliz olimi",
+   "options": [
+    "1-a, 2-b, 3-e, 4-d",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-d, 3-c, 4-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1603-yili kimning vafoti bilan Angliyada Tyudorlar sulolasi yakun topdi?",
+   "options": [
+    "Genrix VIII",
+    "Mariya Styuart",
+    "Yelizaveta I",
+    "Yakov I | 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Taxminan 1657–1664-yillarda bunyod etilgan, Xivadagi shu turdagi me'moriy yodgorliklar ichida eng qadimiysi bo'lgan va ixtisoslashgan kasalxona vazifasini ham o'tagan inshootni aniqlang.",
+   "options": [
+    "Jome masjidi",
+    "Anushaxon hammomi",
+    "Pahlavon Mahmud maqbarasi",
+    "Arab Muhammadxon madrasasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qo'qon xonligini eng uzoq muddat boshqargan, davri nisbatan siyosiy barqarorligi bilan ajralib turgan va Xo'jandda minglar hokimiyatini o'rnatgan hukmdorni aniqlang.",
+   "options": [
+    "Erdonabiy",
+    "Olimxon",
+    "Abdurahimbiy",
+    "Norbo'tabiy (Norbo'taxon)"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1804-yilda Napoleon nashr etgan, mulk huquqini, xususiy tadbirkorlik erkinligini va oilaviy huquq normalarini ta'minlagan hujjatni aniqlang.",
+   "options": [
+    "«Inson va fuqaro huquqlari deklaratsiyasi»",
+    "«Fuqarolik kodeksi»",
+    "«Huquqlar to'g'risida bill»",
+    "«Buyuk erkinliklar xartiyasi»"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1914-yil 28-iyunda Avstriya-Vengriya taxtining vorisi shahzoda Frans Ferdinand Sarayevo shahrida kim tomonidan otib o'ldirildi?",
+   "options": [
+    "«Narodna odbrana» a'zosi Nedelko Chabrinovich",
+    "serb ofitseri Dragutin Dimitriyevich",
+    "italyan anarxisti Luiji Lukeni",
+    "«Mlada Bosna» a'zosi Gavrilo Prinsip"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nuqtalar o'rniga mos ma'lumotlarni aniqlang. Sovet hukumatining topshirig'i bilan bolshevik 1. ............ O'rta Osiyoning favqulodda komissari qilib Toshkentga jo'natildi. 1918-yil 2. ............ «RSFSRning Turkiston Sovet Respublikasi haqidagi Nizom» qabul qilindi. Moskva yana bir idora — 3. ............ ni tuzdi, Turkiston ASSRdagi barcha muhim masalalar uning roziligi bilangina hal etila boshladi.",
+   "options": [
+    "1 — M. Frunze, 2 — 30-aprelda, 3 — Turkiston komissiyasi",
+    "1 — P. Kobozev, 2 — 30-aprelda, 3 — Turkiston komissiyasi",
+    "1 — P. Kobozev, 2 — 30-aprelda, 3 — Turkiston Xalq Komissarlari Soveti",
+    "1 — P. Kobozev, 2 — 1-mayda, 3 — Turkiston komissiyasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1918–1920-yillarda amalga oshirilgan «harbiy kommunizm» siyosatiga xos bo'lgan belgini aniqlang.",
+   "options": [
+    "dehqonlar mahsulotining ortiqchasini davlatga topshirgan (oziq-ovqat razvyorstkasi)",
+    "bozor erkinlashtirilib, xususiy savdoga ruxsat berilgan",
+    "pul muomalasi mustahkamlanib, oltin chervon joriy qilingan",
+    "oziq-ovqat razvyorstkasi o'rniga oziq-ovqat solig'i joriy etilgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston qishloq xo'jaligini kollektivlashtirish rasman qaysi yili tugallandi?",
+   "options": [
+    "1930-yil",
+    "1929-yil",
+    "1937-yil",
+    "1932-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1973-yilgi davlat to'ntarishi natijasida Chilida hokimiyatga kelgan harbiy xunta boshlig'ini aniqlang.",
+   "options": [
+    "Fidel Kastro",
+    "Avgusto Pinochet",
+    "Patrisio Eylvin",
+    "Salvador Alyende | 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1980-yillarda G'arb mamlakatlarida o'ng va konservativ kuchlarning g'alabasini ko'rsatgan voqealarni aniqlang. 1) 1980-yili AQSHda Ronald Reyganning hokimiyatga kelishi; 2) 1984-yili R. Reyganning qayta saylanishi; 3) Buyuk Britaniyada M. Tetcher boshchiligidagi konservativ partiyaning qatorasiga uch marta g'alaba qozonishi; 4) Fransiyada referendumdan so'ng Sharl de Gollning iste'foga chiqishi; 5) Chilida Salvador Alyendening prezident etib saylanishi.",
+   "options": [
+    "1, 3, 4",
+    "1, 2, 3",
+    "2, 3, 5",
+    "1, 2, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1989-yili dekabrda Ruminiyaning qaysi shahrida aholining tinch namoyishi bo'lib o'tdi?",
+   "options": [
+    "Timishoara",
+    "Buxarest",
+    "Gdansk",
+    "Leyptsig"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nuqtalar o'rniga mos ma'lumotlarni aniqlang. 1993-yil noyabrda Qozog'istonda milliy valyuta — 1. ............ muomalaga kiritildi. 1994-yilda parlament mamlakat poytaxtini 2. ............ shahriga ko'chirish to'g'risida qaror qildi. U 3. ............ -yildan «Ostona» deb ataldi.",
+   "options": [
+    "1 — tenge, 2 — Olmaota, 3 — 1998",
+    "1 — tenge, 2 — Oqmola, 3 — 1997",
+    "1 — tenge, 2 — Oqmola, 3 — 1998",
+    "1 — som, 2 — Oqmola, 3 — 1998"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mustaqil O'zbekistondagi voqealarni sanalari bilan moslashtiring.\n1. Navro'z umumxalq bayrami deb e'lon qilindi\n2. 9-may — Xotira va qadrlash kuni deb e'lon qilindi\n3. Toshkentda Temuriylar tarixi davlat muzeyi ochildi\n4. Toshkentda «G'alaba bog'i» majmuasi ochildi\na) 1990-yil 3-may\nb) 1999-yil 2-mart\nc) 1996-yil 18-oktyabr\nd) 2020-yil 9-may\ne) 1992-yil 27-mart",
+   "options": [
+    "1-a, 2-c, 3-b, 4-d",
+    "1-a, 2-b, 3-c, 4-d",
+    "1-e, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Voqealarni xronologik ketma-ketlikda joylashtiring. 1) haftaning juma kuni «Mehr va saxovat kuni» deb belgilandi; 2) Asaka shahrida «UzDaewoo» avtomobil zavodi ish boshladi; 3) O'zbekiston ilk bor xalqaro yevroobligatsiyalarini London birjasida joylashtirdi; 4) Davlat test markazi tashkil etildi; 5) tezyurar «Afrosiyob» poyezdi qatnay boshladi; 6) Imom Moturidiy xalqaro ilmiy-tadqiqot markazi tashkil etildi.",
+   "options": [
+    "4, 2, 5, 6, 3, 1",
+    "4, 5, 2, 3, 1, 6",
+    "4, 2, 5, 3, 6, 1",
+    "2, 4, 5, 3, 6, 1"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'zbekiston Turkiy davlatlar tashkiloti (TDT)ga qachon va qaysi shaharda bo'lib o'tgan sammitda to'la huquqli a'zo bo'ldi?",
+   "options": [
+    "2019-yil 15-oktyabr, Boku",
+    "2019-yil 15-oktyabr, Ostona",
+    "2021-yil 12-noyabr, Istanbul",
+    "2018-yil 3-sentabr, Cho'lpon-ota | 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zbekiston milliy futbol terma jamoasi tarixda ilk bor qaysi yili Jahon chempionatiga yo'llanmani qo'lga kiritdi?",
+   "options": [
+    "2021-yil",
+    "2023-yil",
+    "2024-yil",
+    "2025-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mehnat vazifalari va ularga tegishli mehnat harakatlarini moslashtiring.\n1. O'quv jarayonini rejalashtirish\n2. Tarbiyaviy faoliyatni tashkil etish\na) Tegishli o'quv, namoyish va tarqatma materiallardan foydalanishni rejalashtirish\nb) O'quvchilarning o'zini o'zi boshqarish organlari faoliyatini tashkil qilishda yordam berish va qo'llab-quvvatlash\nc) Nizoli vaziyatlarni yetarli darajada hal qilish",
+   "options": [
+    "1-a, 2-b",
+    "1-c, 2-b",
+    "1-b, 2-a",
+    "1-a, 2-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Temuriylar davri me'morchiligi» mavzusida o'qituvchi sinfni to'rt guruhga bo'lib, har biriga bitta yodgorlik bo'yicha taqdimot tayyorlashni topshirdi. Guruh a'zolari vazifalarni o'zaro taqsimladi, so'ng natijani sinf oldida himoya qildi. O'qituvchi «Ta'lim samaradorligini ta'minlash» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "Darsda vaqtdan oqilona foydalanish",
+    "Dars maqsadlari asosida o'quvchilar uchun erishimli vazifalarni belgilash",
+    "O'quvchilarning jamoaviy va loyihaviy ishlarini tashkil etish",
+    "Dars mavzusiga mos keladigan namoyish va tarqatma materiallardan foydalanish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bob yakunida o'qituvchi o'quvchilar bilimini bir xil usul bilan emas, balki test, og'zaki so'rov, konturli xarita bilan ishlash va kichik loyiha himoyasi orqali tekshirdi. O'qituvchi «O'zlashtirishni baholash va qayta aloqani taqdim etish» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "O'quvchilar erishgan yutuqlarni natijalarini tahlil qilish",
+    "Dars rejasi va usullarini moslashtirishda tahlil natijalaridan foydalanish",
+    "O'quvchilar ta'lim jarayonida to'qnashgan qiyinchiliklarini kuzatish va qayd etish",
+    "Ta'lim natijalarini baholash uchun turli usul va vositalardan foydalanish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sinf rahbari o'quvchilar bilan Shahrisabzdagi Oqsaroy xarobalariga sayohat uyushtirdi, yo'lda o'lka tarixiga oid ma'lumotlar to'plashni topshirdi, qaytgach «Yurtim faxri» mavzusida tadbir o'tkazdi. O'qituvchi «Tarbiyaviy faoliyatni tashkil etish» mehnat vazifasining qaysi zarur ko'nikmasini namoyon etgan?",
+   "options": [
+    "Sayohatlar, ekskursiyalar va ekspeditsiyalarni tashkil etish, shuningdek, o'lkashunoslik faoliyati va vatanparvarlik ruhida tarbiyalash usullarini qo'llay bilish",
+    "O'quvchilarni tenglik, adolat va hurmat tamoyillari asosida boshqalar bilan munosabatlarni o'rnatishga undash",
+    "Bolalarning madaniy tafovutlari, jinsi, yoshi va individual xususiyatlarini inobatga olgan holda ta'lim faoliyatini tashkil qilish",
+    "Bolalar jamoasida ishbilarmonlik, do'stona muhitni qo'llab-quvvatlash | 6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'qituvchi darsning birinchi kunidanoq har qanday fikr hurmat bilan tinglanishini, xato javob uchun hech kim ustidan kulinmasligini qoida qilib qo'ydi. Natijada tortinchoq o'quvchilar ham erkin fikr bildira boshladi. O'qituvchi «Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash» mehnat vazifasining qaysi mehnat harakatini bajargan?",
+   "options": [
+    "Nizoli vaziyatlarni yetarli darajada hal qilish",
+    "O'quvchilarga o'zlarining asoslangan va mas'uliyatli qarorlarini qabul qilishlariga yordam berish",
+    "O'quvchilarga xavfsizlik qoidalarining mazmuni va ularga rioya qilish asoslarini tushunishga yordam berish",
+    "O'quvchilar erkin rivojlanishlari va o'zlarini namoyon eta olishlari uchun o'zaro hurmat muhitini yaratish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarix o'qituvchisi belgilangan muddatda tarix fani o'qituvchilari uchun tashkil etilgan malaka oshirish kursida o'qib, uni muvaffaqiyatli tamomladi va sertifikat oldi. Bu vaziyatda o'qituvchi qaysi mehnat harakatini bajargan?",
+   "options": [
+    "Muntazam malaka oshirish kurslaridan o'tish",
+    "Tarbiyaviy muammolarni hal qilishda boshqa pedagogik xodimlar va mutaxassislar, jamoat tashkilotlari bilan hamkorlik qilish",
+    "O'zaro darslarda qatnashish, ularni tahlil qilish, undan o'zining kasbiy faoliyatida foydalanish",
+    "O'quvchining individual ta'lim trayektoriyasini loyihalashtirish va to'g'rilash uchun o'qituvchilar va boshqa mutaxassislar bilan o'zaro aloqada bo'lish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Tarbiyaviy faoliyatni tashkil etish» mehnat vazifasiga kiruvchi mehnat harakatlarini aniqlang: 1. O'quvchilarning o'zini o'zi boshqarish organlari faoliyatini tashkil qilishda yordam berish va qo'llabquvvatlash 2. Tarbiyaviy muammolarni hal qilishda boshqa pedagogik xodimlar va mutaxassislar, jamoat tashkilotlari bilan hamkorlik qilish 3. Darsda vaqtdan oqilona foydalanish 4. O'quvchilar erishgan yutuqlarni natijalarini tahlil qilish",
+   "options": [
+    "1, 3",
+    "2, 4",
+    "3, 4",
+    "1, 2"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mehnat vazifalari va ularning zarur ko'nikmalarini moslashtiring.\n1. O'quv jarayonini rejalashtirish\n2. Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik\na) Zamonaviy axborot texnologiyalarini fanga singdirish\nb) Turli xil muhitda har xil emotsional holatlardagi odamlar bilan aloqa qila bilish\nc) O'quvchilarga o'zlarining asoslangan va mas'uliyatli qarorlarini qabul qilishlariga yordam berish",
+   "options": [
+    "1-c, 2-b",
+    "1-a, 2-c",
+    "1-a, 2-b",
+    "1-b, 2-a"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "«Qo'qon xonligi» bobi tugagach, o'qituvchi navbatdagi darsda yangi mavzu o'tmadi: darsning butun vaqti yozma nazorat ishi va og'zaki so'rovga ajratildi. O'qituvchi darsning qaysi turidan foydalangan?",
+   "options": [
+    "Kombinatsiyalashgan (aralash) dars",
+    "Yangi materiallar bilan tanishish darsi",
+    "Olingan bilimlarni tekshirish darsi",
+    "Bilimlarni mustahkamlash va takrorlash darsi | 7"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi vaziyatlarni tarbiya metodlari bilan moslashtiring.\n1. O'qituvchi tarixiy shaxslar hayotidan dalillar keltirib, o'quvchilarni ilmga intilish naqadar muhimligiga ishontirdi.\n2. Darsni bir necha bor buzgan o'quvchiga o'qituvchi sinf oldida tanbeh berdi.\na) Ishontirish\nb) Jazolash\nc) Rag'batlantirish",
+   "options": [
+    "1-c, 2-b",
+    "1-a, 2-b",
+    "1-a, 2-c",
+    "1-b, 2-a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sinf rahbari tarbiyaviy tadbirning mavzusi va o'tkazilish shaklini o'quvchilar bilan birgalikda muhokama qildi, ko'pchilikning taklifini qabul qilib, mas'uliyatni ular o'rtasida taqsimladi. O'qituvchi pedagogik muloqotning qaysi uslubini qo'llagan?",
+   "options": [
+    "Rasmiy uslub",
+    "Liberal uslub",
+    "Demokratik uslub",
+    "Avtoritar uslub"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi murakkab «feodal tarqoqlik» tushunchasini oddiy hayotiy misollar va sxema yordamida o'quvchilarga tushunarli qilib yetkazdi; o'quvchilar mavzuni oson o'zlashtirdi. O'qituvchining qaysi qobiliyati namoyon bo'lgan?",
+   "options": [
+    "Akademik qobiliyat",
+    "Konstruktiv qobiliyat",
+    "Didaktik qobiliyat",
+    "Perseptiv qobiliyat"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'qituvchi Jaloliddin Manguberdi jasorati haqida so'zlar ekan, uning yuz ifodasi — hayajon, g'urur va iztirob — hikoya mazmuniga mos ravishda o'zgarib bordi. Pedagogik texnikaning qaysi unsuri namoyon bo'lgan?",
+   "options": [
+    "Pantomimika",
+    "Pedagogik takt",
+    "Diksiya",
+    "Mimika"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'qituvchi «a'lo» baho olish uchun xaritada 10 ta shaharni to'g'ri ko'rsatish kerakligini oldindan e'lon qildi. O'quvchilarning natijasi sinfdoshlariniki bilan solishtirilmay, faqat shu talab asosida baholandi. Baholashning qaysi turi qo'llanilgan?",
+   "options": [
+    "Prognostik baholash",
+    "Ipsativ baholash",
+    "Nisbiy baholash",
+    "Mezonli baholash"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tuzilgan testni tayyorlash, o'tkazish va tekshirish ko'p vaqt va mablag' talab qilmadi: u sinfda 20 daqiqada o'tkazildi, natijalar esa tez va oson hisoblandi. Testning qaysi sifat ko'rsatkichi ta'minlangan?",
+   "options": [
+    "Amaliylik",
+    "Obyektivlik",
+    "Validlik",
+    "Ishonchlilik | 8"
+   ],
+   "answer": 0
+  }
+ ]
+}

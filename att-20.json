@@ -1,0 +1,507 @@
+{
+ "title": "Attestatsiya tarix 20-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Kushon podshosi Vima Kadfiz davrida o'tkazilgan pul islohoti qanday natija berdi?",
+   "options": [
+    "Oltin va kumush tangalar muomaladan chiqarilib, faqat mis chaqalar qoldirildi",
+    "Tanga zarb qilish huquqi satraplarga berilib, pul birligi parchalanib ketdi",
+    "Hukmdor nomi bitilgan tangalar zarb qilinib, tangalarning qiymati oshdi",
+    "Kushon tangalari o'rniga Rim dinorlari muomalaga kiritildi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarixchi Poliyen yozadi: «Qo'shinlar Shiroq bilan yetti kunlik yo'lga tushdi, suvsiz sahroga kirib bordi. Mingboshi Ranosbat qulovuzdan so'radi: “Buyuk shohimizni aldab, ko'p sonli qo'shinni bu suvsiz sahroga boshlab kelishga seni nima majbur qildi?”». Parchada tasvirlangan voqea qanday yakunlangan?",
+   "options": [
+    "Aldanganini sezgan forslar cho'ponni o'ldirdi, Doro I ning saklar ustiga yurishi muvaffaqiyatsiz tugadi",
+    "Doro I saklar yurtini bosib olib, uni alohida satrapiyaga aylantirdi",
+    "Fors qo'shini massagetlar tomonidan qurshab olinib, shoh Kir II halok bo'ldi",
+    "Saklar mag'lubiyatga uchrab, Doro I ga har yili o'lpon to'lashga rozi bo'ldi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xalifa Mu'tazidning safforiylar hukmdori Amr ibn Laysga Xuroson bilan birga Movarounnahr ustidan ham hukm yuritish huquqini bergani qanday natijaga olib keldi?",
+   "options": [
+    "Ismoil Somoniy Bag'dodga yurish qilib, xalifani taxtdan ag'dardi",
+    "Safforiylar Buxoroni egallab, somoniylar hokimiyati butunlay tugatildi",
+    "Urush Ismoilning g'alabasi bilan tugab, butun Xuroson somoniylar qo'l ostiga o'tdi, xalifa Ismoilga hukmdorlik yorlig'ini yuborishga majbur bo'ldi",
+    "Movarounnahr yana xalifalikning bevosita boshqaruviga qaytarildi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | Arab qo'mondoni Qutayba ibn Muslim o'lkani uzil-kesil bosib oldi | Turon hududi ikki qismga – Movarounnahr va Arodi at-turkka bo'lindi\n2. | Xalifa Abu Muslimni saroyga chaqirtirib, qatl ettirdi | Xuroson va Movarounnahrda abbosiylarga qarshi xalq harakatlari avj olib ketdi\n3. | 873-yilda safforiylar Xuroson poytaxti Nishopurni egalladi | Tohiriylar hukmronligi tugatilib, hokimiyat somoniylar qo'liga o'tdi\n4. | Mahalliy aholi vakillari islom dinini qabul qildi | Ular dastlabki yillarda xiroj va jiz'ya soliqlaridan ozod etildi",
+   "options": [
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-noto'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xorazmshoh Alovuddin Muhammadning qoraxitoylarni Movarounnahrdan haydab chiqarishi qanday oqibatga olib keldi?",
+   "options": [
+    "Uning obro'-e'tibori nihoyatda oshib, Ozarbayjon, Eron, Xurosondan Hindistongacha bo'lgan yerlar xorazmshohlar tasarrufiga olindi",
+    "Xorazm Saljuqiylar sultonligi tarkibiga qayta qo'shib olindi",
+    "Xorazmshohlar Bag'dod xalifaligiga tobe bo'lishga rozilik bildirdi",
+    "Xorazmshoh qoraxitoylarga har yili o'lpon to'lashga majbur bo'ldi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1238-yilda Buxoroda ko'tarilgan Mahmud Torobiy qo'zg'olonidan keyin Chig'atoy qanday chora ko'rdi?",
+   "options": [
+    "Buxoro hokimligini Mahmud Torobiyga topshirib, u bilan sulh tuzdi",
+    "Mas'udbekni qatl ettirib, uning pul islohotini bekor qildi",
+    "Qo'zg'olonni bostirishda sustkashlik qilgan deb, Mahmud Yalavochni Movarounnahr noibligidan chetlashtirdi",
+    "Movarounnahr aholisini barcha harbiy yig'imlardan butunlay ozod qildi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kebekxon chig'atoy xonlari orasida birinchi bo'lib o'z qarorgohini Qashqadaryo vohasiga ko'chirdi. Bu qarorning natijalaridan biri qaysi?",
+   "options": [
+    "Mo'g'ullar o'troq aholidan butunlay ajralib, ko'chmanchi turmushga qaytdi",
+    "U qurdirgan saroy atrofida Nasaf bilan birlashib ketgan shahar «Qarshi» nomi bilan tanildi",
+    "Chig'atoy ulusining poytaxti Olmaliqdan Buxoroga ko'chirildi",
+    "Qashqadaryo vohasi Elxoniylar davlatiga in'om etildi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mirzo Ulug'bek faoliyatiga oid ma'lumotlarni moslashtiring.\n1. 1425-yilgi Mo'g'ulistonga yurish\n2. 1447–1448-yillardagi taxt uchun kurash\na) Issiqko'l yaqinida g'alaba qozonilib, o'ljalar orasidagi nefrit toshidan Amir Temur maqbarasi uchun qabrtosh yasattirildi;\nb) g'alaba nishoni tarzida Jizzax yaqinidagi Ilono'tti darasida qoyatoshga «zafarnoma» yozdirildi;\nc) Alouddavla Ulug'bekning o'g'li Abdullatif qo'shinini tor-mor qilib, uni asirga oldi;\nd) Tarnob yaqinidagi jangda Alouddavla qo'shini tor-mor keltirilib, Hirot qaytarib olindi;\ne) Ulug'bek Alouddavla bilan sulh tuzib, Hirot va Xurosonni o'z qo'l ostiga oldi.",
+   "options": [
+    "1-b, e; 2-a, c",
+    "1-a, c; 2-b, d",
+    "1-a, b; 2-d, e",
+    "1-a, b; 2-c, d"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abdullaxon II davrida taxt vorisligi tartibida qanday o'zgarish yuz berdi?",
+   "options": [
+    "Xonni oq kigizga solib ko'tarish marosimi butunlay bekor qilindi",
+    "Valiahd – «qolg'a» lavozimi tugatilib, uning o'rniga devonbegi tayinlanadigan bo'ldi",
+    "Oliy hukmdorlikning otadan o'g'ilga o'tish an'anasi shakllana boshladi, valiahdga boshqarish uchun Balx viloyati beriladigan bo'ldi",
+    "Taxt shayboniylar orasidagi yoshi eng katta shaxsga o'tishi qat'iy qonun sifatida mustahkamlandi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvalda harflar ostiga yashirilgan to'g'ri javobni toping.\n1. Mahalliy zodagonlar Samarqand hokimi Imomquli sultonni oliy taxtga o'tqazdi\n2. XVII asr\n3. Qo'qon xonligi\n4. XVIII asr\n5. Xiva xonligi\n6. Farg'ona vodiysi mustaqil bo'lib, yangi xonlik tashkil topdi\nDavr | Davlat | Voqea\n1611-yil | Buxoro xonligi | ____A____\n____B____ | Buxoro amirligi | Pul islohoti o'tkazilib, eski tangalar muomaladan chiqarildi\nXVII asrning ikkinchi yarmi | ____C____ | Anushaxon Kaspiy dengizi bilan xonlik o'rtasidagi savdo yo'lini qayta ochdi",
+   "options": [
+    "A-6, B-2, C-3",
+    "A-1, B-4, C-5",
+    "A-1, B-2, C-5",
+    "A-6, B-4, C-3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1827-yilda Xiva xonligida Oydo'stbiy boshchiligida ko'tarilgan qo'zg'olonga nima sabab bo'lgan?",
+   "options": [
+    "Olloqulixon davrida unga berilgan imtiyozlarning bekor qilinishi va soliqlarning oshirilishi",
+    "Quyi qoraqalpoqlarning Rossiya fuqaroligiga qabul qilinishi",
+    "Muhammad Rahimxon I ning uni biylar biyi lavozimiga tayinlashi",
+    "Jung'orlarning qoraqalpoq yerlariga bostirib kirishi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1873-yildan so'ng Xiva xonligining ichki iqtisodiy siyosatida qanday o'zgarish yuz berdi?",
+   "options": [
+    "Xonlik dehqonlari barcha soliq va majburiyatlardan ozod qilindi",
+    "Hosildor yerlarning katta qismi Rossiya tasarrufiga o'tgani sababli xonlik yangi soliqlar joriy etib, mavjudlarini oshira boshladi",
+    "Xonlikda g'alla yetishtirish taqiqlanib, faqat paxta ekiladigan bo'ldi",
+    "Uy hunarmandchiligi butunlay barham topib, uning o'rnini fabrikalar egalladi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadidchilik harakati namoyandalari va ularning faoliyatini moslashtiring.\n1. Mahmudxo'ja Behbudiy\n2. Abdulla Avloniy\n3. Munavvarqori Abdurashidxonov\na) «Padarkush» pyesasini yozgan, «Teatr – bu ibratxonadir» degan fikrni aytgan\nb) 1907-yilda «Shuhrat» gazetasiga asos solgan, «Turon» teatr truppasini tashkil etgan\nc) maktablar uchun «Adibi avval», «Adibi soniy», «Yer yuzi» darsliklarini yaratgan\nd) yoshlarni chet ellarga o'qishga yuborish uchun o'z hisobidan katta miqdorda mablag' ajratgan andijonlik sarmoyador",
+   "options": [
+    "1-a, 2-b, 3-d",
+    "1-a, 2-c, 3-b",
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XX asrning 60–80-yillarida O'zbekistonda yuz bergan jarayonlarga oid to'g'ri ma'lumotlarni aniqlang.\n1. Mirzacho'l, Surxon-Sherobod va Qarshi cho'llari o'zlashtirilib, ekin maydonlari kengaytirildi.\n2. Sug'oriladigan maydonlar kengayishi natijasida Orol dengiziga quyiladigan suv miqdori ortdi.\n3. Paxta maydonlarining kengayib borishi O'zbekiston ekologiyasining buzilishiga sabab bo'ldi.\n4. 1970-yillarda aholining turmush darajasi dunyoning ilg'or mamlakatlarinikidan yuqori bo'ldi.",
+   "options": [
+    "1, 2",
+    "1, 3",
+    "3, 4",
+    "2, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Harakatlar strategiyasi doirasida yillarga berilgan nomlarni moslashtiring.\n1. 2017-yil\n2. 2018-yil\n3. 2019-yil\n4. 2020-yil\na) «Xalq bilan muloqot va inson manfaatlari yili»\nb) «Faol tadbirkorlik, innovatsion g'oyalar va texnologiyalarni qo'llab- quvvatlash yili»\nc) «Faol investitsiyalar va ijtimoiy rivojlanish yili»\nd) «Ilm-ma'rifat va raqamli iqtisodiyotni rivojlantirish yili»\ne) «Yoshlarni qo'llab-quvvatlash va aholi salomatligini mustahkamlash yili»",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-a, 2-b, 3-c, 4-e"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqarolik jamiyatini shakllantirishning ikkinchi bosqichi (2001–2010-yillar)ga oid ma'lumotlarni aniqlang.\n1. Ikki palatali parlament tizimi joriy qilindi.\n2. NNTlar uchun e-ngo.uz portali ishga tushirildi.\n3. Siyosiy partiyalarni moliyalashtirishning milliy tizimi shakllandi.\n4. Konstitutsiyaga ilk bor fuqarolik jamiyati institutlariga bag'ishlangan maxsus bob kiritildi.",
+   "options": [
+    "2, 4",
+    "1, 3",
+    "2, 3",
+    "1, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1992-yilda tashkil topgan «Vatan taraqqiyoti» partiyasi 2000-yilda qaysi partiyaga qo'shildi va buning sababi nima edi?",
+   "options": [
+    "Xalq demokratik partiyasiga; parlamentda yagona fraksiya tuzish maqsadida",
+    "«Milliy tiklanish» demokratik partiyasiga; ikkala partiyaning g'oyalari o'xshash bo'lgani sababli",
+    "«Fidokorlar» milliy demokratik partiyasiga; o'z oldiga qo'ygan maqsadlarini amalga oshira olmagani sababli",
+    "«Adolat» sotsial-demokratik partiyasiga; ijtimoiy adolat g'oyasini kuchaytirish maqsadida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Voqealarni xronologik ketma-ketlikda joylashtiring.\n1) «O'zbekiston – 2030» strategiyasining qabul qilinishi;\n2) Xalq demokratik partiyasining tuzilishi;\n3) Harakatlar strategiyasining e'lon qilinishi;\n4) «Adolat» sotsial-demokratik partiyasining vujudga kelishi;\n5) «Fuqarolik jamiyatini rivojlantirishga qo'shgan hissasi uchun» ko'krak nishonining ta'sis etilishi.",
+   "options": [
+    "2, 4, 5, 3, 1",
+    "2, 4, 3, 5, 1",
+    "2, 3, 4, 5, 1",
+    "4, 2, 3, 5, 1"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mil. avv. XVIII asrdan keyin Hind daryosi vodiysidagi Xarappa kabi shaharlarning zavolga yuz tutishiga nima sabab bo'lgan?",
+   "options": [
+    "Fors shohi Doro I tomonidan bosib olinib, aholining Eronga haydalishi",
+    "Buddizmning tarqalishi va aholining monastirlarga ko'chib ketishi",
+    "Aleksandr Makedonskiy qo'shinlarining bosqini",
+    "Tez-tez ro'y beruvchi toshqinlar, o'rmon va changalzorlarning kengayishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nuqtalar o'rniga mos so'zlarni qo'yib, tarixiy matnni to'ldiring. Mil. avv. ......A...... yilda forslar yana bir bor Afinani bosib olishga urinib ko'rdi. Biroq ......B...... shahri yaqinida fors qo'shinlari tor-mor etildi. Yunon-fors urushlari yunonlarning to'liq g'alabasi bilan mil. avv. ......C...... yildagi sulh natijasida yakunlandi.\n1) 479;\n2) Marafon;\n3) Plateya;\n4) 449;\n5) 490.",
+   "options": [
+    "A-5, B-2, C-4",
+    "A-1, B-3, C-4",
+    "A-5, B-3, C-1",
+    "A-1, B-2, C-5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "843-yilda tuzilgan Verden shartnomasi qanday natijaga olib keldi?",
+   "options": [
+    "Franklar qiroli Xlodvig xristianlikni qabul qildi",
+    "Imperiya uchga bo'linib, ularning asosida Fransiya, Germaniya va Italiya davlatlari tashkil topdi",
+    "Buyuk Karl Rimda imperator sifatida toj kiydi",
+    "Karolinglar imperiyasi yagona davlat sifatida qayta birlashtirildi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "G'arbiy Yevropada o'tkazilgan benefitsiy islohoti davrlar o'tib qanday oqibatga olib keldi?",
+   "options": [
+    "Benefitsiy merosga o'tadigan feodga aylanib, feodallar toifasi shakllandi va o'rta asr ritsarligi asoslari yaratildi",
+    "Dehqonlar yerga egalik huquqini olib, feodallarga qaramlikdan butunlay qutuldi",
+    "Barcha yerlar qirol ixtiyoriga qaytarilib, vassallik munosabatlari tugatildi",
+    "Harbiy xizmat evaziga yer berish tartibi butunlay bekor qilindi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvalda harflar ostiga yashirilgan to'g'ri javobni toping.\n1. Imperiya uchta podsholikka parchalanib ketdi\n2. XII asr\n3. Ko'niya sultonligi\n4. XIII asr\n5. Dehli sultonligi\n6. Konfutsiylik ta'limoti man etildi\nDavr | Davlat | Voqea\nIII asr | Xitoy (Xan imperiyasi) | ____A____\nXIV asr boshlari | ____B____ | Mo'g'ullar hujumidan zaiflashgan davlat bir nechta beyliklarga bo'linib ketdi\n____C____ | Xitoy (Sun sulolasi) | Mamlakat mo'g'ullar hukmdori Xubilay tomonidan butunlay bosib olindi",
+   "options": [
+    "A-6, B-3, C-2",
+    "A-6, B-5, C-2",
+    "A-1, B-3, C-4",
+    "A-1, B-5, C-4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1415-yilda Yan Gusning gulxanda yoqib yuborilishi qanday oqibatlarga olib keldi?",
+   "options": [
+    "Chexiya Polsha qirolligi tarkibiga qo'shib olindi",
+    "Rim papasi indulgensiya savdosini butunlay taqiqladi",
+    "Chexiyada ommaviy norozilik boshlanib, 1419-yilda Chexiya Germaniya imperiyasidan ajralib, mustaqil davlatga aylandi",
+    "Chexiya qiroli Pshemisl II nemis imperatori etib saylandi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shtaufenlar sulolasi hukmronligining barham topishi Germaniya uchun qanday natija berdi?",
+   "options": [
+    "Gabsburglar sulolasi imperator saylanish huquqidan butunlay mahrum etildi",
+    "Imperatorlik hokimiyati tamomila orqaga ketib, 1254–1273-yillar davomida umuman imperator saylanmadi",
+    "Mamlakat kuchli markazlashgan yagona davlatga aylandi",
+    "Rim papasi Germaniya taxtini ham egallab, imperator unvonini oldi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Hukmdorlar va ularga oid ma'lumotlarni moslashtiring.\n1. Ivan III\n2. Mengli Garay\n3. Yongle\n4. Sayfiddin Qutuz\na) Novgorod mustaqilligini tugatib, veche qo'ng'irog'ini Moskvaga olib ketdi\nb) 1502-yilda Oltin O'rda qo'shinini uzil-kesil mag'lubiyatga uchratdi\nc) davrida Xitoy sivilizatsiyasi to'plami hisoblangan ensiklopediya yozildi\nd) 1260-yilda mo'g'ullar bosqinini to'xtatdi\ne) 1453-yilda Konstantinopolni egalladi",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-e",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | 1281-yilda Xubilay Yaponiyaga ikkinchi marta qo'shin tushirdi | Kuchli tayfun mo'g'ul flotini halokatga uchratib, Xubilay Yaponiyani bosib olishdan voz kechdi\n2. | Misrda mamluklar kuchli zodagonlar qatlamini shakllantirdi | 1250-yilda ular Fotimiylar sulolasini ag'darib, Mamluklar davlatiga asos soldi\n3. | Usmonlilar beyligi kuchayib bordi | O'rxon davrida ilk bor vazir lavozimi ta'sis etildi\n4. | Imperator Cheng Xua 200 ming askarni devor qurilishiga safarbar etdi | Buyuk Xitoy devori hozirgi holatiga keltirildi",
+   "options": [
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-to'g'ri",
+    "1-noto'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-to'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-to'g'ri"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1648-yilda tuzilgan Vestfal sulhi xaritada 3 raqami bilan belgilangan mamlakat uchun qanday natijalarga olib keldi?",
+   "options": [
+    "Imperator Yevropa monarxlari orasida alohida, oliy maqomga ega bo'ldi",
+    "Ispaniya hukmronligidan ozod bo'lib, mustaqil respublikaga aylandi",
+    "Mamlakat hududlari Prussiya va Rossiya o'rtasida bo'lib olindi",
+    "Mamlakatning tarqoqlik holati uzoq davrga mustahkamlanib, u yagona davlat sifatida barham topdi"
+   ],
+   "answer": 3,
+   "image": "img/acddf17b43659.jpg"
+  },
+  {
+   "q": "1815-yildagi Vaterloo jangi qanday natija bilan yakunlandi?",
+   "options": [
+    "Napoleon Elba orolidan qaytib, Parijda yana taxtga o'tirdi",
+    "Napoleon ikkinchi bor taxtdan voz kechib, Muqaddas Yelena oroliga surgun qilindi, Fransiyada burbonlar hokimiyati tiklandi",
+    "Buyuk Britaniya va Prussiya Fransiyani o'zaro bo'lib oldi",
+    "Fransiya hududi Reyn daryosigacha kengaytirildi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarixiy voqealar va ularning natijalarini moslashtiring.\n1. Sinxay inqilobi (1911–1912)\n2. Forsdagi 1905–1911-yillar inqilobi\n3. Vena kongressi (1814–1815)\na) manchjurlar sulolasi taxtdan ag'darilib, mamlakat respublika deb e'lon qilindi\nb) majlis tuzilib, konstitutsiya qabul qilindi, biroq mamlakat Rossiya va Angliyaning ta'sir hududlariga bo'lib olindi\nc) Fransiya hududi 1789-yilgi chegarasigacha qisqartirildi\nd) sulton hokimiyati tugatilib, poytaxt Anqaraga ko'chirildi",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-d",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Millatlar Ligasi Ustaviga «mandat» tushunchasi kiritilishiga nima sabab bo'lgan?",
+   "options": [
+    "Dengizdagi qurollarni cheklash bo'yicha kelishuvlar ijrosini nazorat qilish",
+    "Mag'lub Germaniya va Turkiya mustamlakalarining g'olib davlatlar tomonidan bo'lib olinishini qonuniylashtirish zarurati",
+    "Germaniyaning Millatlar Ligasiga a'zo bo'lishini ta'minlash",
+    "Barcha mustamlakalarga zudlik bilan mustaqillik berish talabi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1938-yilda Myunxen kelishuvining imzolanishi Buyuk Britaniyaning ichki siyosiy hayotiga qanday ta'sir ko'rsatdi?",
+   "options": [
+    "Konservatorlar hokimiyatdan chetlatilib, hukumatni leyboristlar tuzdi",
+    "Mamlakat jahon iqtisodiy inqiroziga birinchilardan bo'lib tortildi",
+    "N. Chemberlen 1940-yilda muddatidan oldin yana bosh vazir etib saylandi",
+    "N. Chemberlen 1940-yilda iste'foga chiqishga majbur bo'lib, hukumatni U. Cherchill boshqardi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yaponiyada 2012-yildan boshlangan «Abenomika» islohotlarining natijalarini aniqlang.\n1. Ishsizlik darajasi pasaydi.\n2. Davlat qarzi keskin kamayib, YIMning yarmidan ham pastga tushdi.\n3. Eksport ko'paydi.\n4. Iqtisodiy o'sish sur'ati keskin yuqorilab, jahonda birinchi o'ringa chiqdi.",
+   "options": [
+    "1, 3",
+    "2, 4",
+    "3, 4",
+    "1, 2"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Berilgan tarixiy voqealarni tahlil qilib, natijasi «to'g'ri» yoki «noto'g'ri» ekanligini aniqlang.\n№ | Voqea | Natija\n1. | Qirg'izistonda 2005-yilgi «Lolalar inqilobi» | Hokimiyatga Asqar Akayev keldi\n2. | Armanistonda S. Sargsyan 2018-yilda konstitutsion islohotlar o'tkazdi | Prezident vakolatlari bosh vazirga o'tdi\n3. | 2023-yilda Tog'li Qorabog'da urush boshlandi | Ozarbayjon xalqaro tan olingan barcha hududlari ustidan o'z nazoratini o'rnatdi\n4. | 1991-yilda Armaniston va Ozarbayjon o'rtasida Tog'li Qorabog' uchun urush boshlandi | 2003-yilda o't ochishni to'xtatish to'g'risidagi kelishuvga erishildi",
+   "options": [
+    "1-to'g'ri, 2-to'g'ri, 3-noto'g'ri, 4-noto'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-noto'g'ri",
+    "1-noto'g'ri, 2-to'g'ri, 3-to'g'ri, 4-to'g'ri",
+    "1-noto'g'ri, 2-noto'g'ri, 3-to'g'ri, 4-noto'g'ri"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xronologik ketma-ketlik NOMUVOFIQ berilgan javobni aniqlang.",
+   "options": [
+    "Rim shartnomasi → Yevropa valyuta tizimining yaratilishi → Maastrixt shartnomasining imzolanishi",
+    "Tariflar va savdo bo'yicha bosh kelishuv (TSBK)ning imzolanishi → Rim shartnomasi → Yevropa valyuta tizimining yaratilishi",
+    "Yevropa ko'mir va po'lat birlashmasi to'g'risidagi Parij shartnomasi → YIH va Yevratomni tashkil etish to'g'risidagi Rim shartnomasi → Shengen shartnomasi",
+    "Shengen shartnomasining imzolanishi → Yevropa valyuta tizimining yaratilishi → Maastrixt shartnomasining imzolanishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarix o'qituvchisi «Buyuk ipak yo'li» mavzusini rejalashtirayotib, o'quvchilarning geografiya fanidan olgan xarita ko'nikmalariga tayanishni ko'zda tutdi va dars rejasiga fanlararo topshiriqlar kiritdi. O'qituvchi kasb standartining qaysi mehnat vazifasiga oid ko'nikmani namoyon etdi?",
+   "options": [
+    "O'zlashtirishni baholash va qayta aloqani taqdim etish",
+    "Tarbiyaviy faoliyatni tashkil etish",
+    "O'quv jarayonini rejalashtirish",
+    "Ta'lim samaradorligini ta'minlash"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarix o'qituvchisi o'lkashunoslik muzeyiga ekskursiyadan oldin o'quvchilarga yo'lda harakatlanish qoidalari, favqulodda vaziyatda qanday harakat qilish va birinchi yordam ko'rsatish haqida tushuntirdi. O'qituvchi qaysi mehnat vazifasini bajardi?",
+   "options": [
+    "Tarbiyaviy faoliyatni tashkil etish",
+    "O'z-o'zini rivojlantirish va kasbiy o'sish",
+    "O'quv jarayonini rejalashtirish",
+    "Xavfsiz rivojlantiruvchi ta'lim muhitini yaratish va ta'minlash"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'qituvchi esse yozdirishdan oldin o'quvchilarga baholash mezonlari (dalil keltirish, manbaga tayanish, xulosa chiqarish)ni tarqatdi; ishlarni tekshirgach, har bir o'quvchiga mezonlar bo'yicha yozma izoh qaytardi. O'qituvchi qaysi mehnat vazifasini amalga oshirdi?",
+   "options": [
+    "O'zlashtirishni baholash va qayta aloqani taqdim etish",
+    "O'quv jarayonini rejalashtirish",
+    "Ta'lim samaradorligini ta'minlash",
+    "Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Pedagogik vaziyatlar va ularda namoyon bo'lgan mehnat vazifalarini moslashtiring.\n1. O'qituvchi darsdan so'ng janjallashib qolgan ikki o'quvchi bilan suhbatlashib, ularni murosaga keltirdi\n2. Yangi tayinlangan sinf rahbari o'quvchilarning ota- onalari bilan alohida uchrashib, ularni ta'lim jarayoniga jalb etdi\na) Tarbiyaviy faoliyatni tashkil etish\nb) Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik\nc) O'quv jarayonini rejalashtirish",
+   "options": [
+    "1-a, 2-c",
+    "1-b, 2-a",
+    "1-a, 2-b",
+    "1-c, 2-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yosh tarix o'qituvchisi tajribali hamkasblarining ochiq darslarini muntazam kuzatib, tahlil qilib bordi hamda onlayn kursda «Tarixiy manbalar bilan ishlash» modulini tamomladi. Bunda qaysi mehnat vazifasi namoyon bo'ldi?",
+   "options": [
+    "Ta'lim samaradorligini ta'minlash",
+    "Hamkasblar va ta'lim oluvchilarning ota-onalari bilan hamkorlik",
+    "O'quv jarayonini rejalashtirish",
+    "O'z-o'zini rivojlantirish va kasbiy o'sish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'qituvchi darsda o'quvchilar shovqin ko'tarib, topshiriqni bajarmayotganini ko'rsa-da, bunga e'tibor bermadi; dars borishini butunlay o'quvchilar ixtiyoriga qo'yib berdi. Pedagogik muloqotning qaysi uslubi namoyon bo'ldi?",
+   "options": [
+    "Liberal",
+    "Demokratik",
+    "Liberal-demokratik",
+    "Avtoritar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yangi kelgan o'qituvchining bilimdonligi, hozirjavobligi va farosatini his qilgan o'quvchilar unga ishonch bildira boshladi; o'qituvchi ham qisqa vaqtda har bir o'quvchining fe'l-atvorini anglab oldi. Pedagogik muloqotning qaysi turi haqida so'z bormoqda?",
+   "options": [
+    "Kommunikativ muloqot",
+    "Avtoritar muloqot",
+    "Interaktiv muloqot",
+    "Perseptiv muloqot"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "B. Blum taksonomiyasi bo'yicha ta'lim maqsadlari darajalarini quyidan yuqoriga qarab to'g'ri tartibda joylashtiring.\n1) tahlil;\n2) bilish;\n3) baholash;\n4) qo'llash;\n5) tushunish;\n6) sintez.",
+   "options": [
+    "5, 2, 4, 6, 1, 3",
+    "2, 5, 1, 4, 3, 6",
+    "2, 5, 4, 1, 6, 3",
+    "2, 4, 5, 1, 6, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dars quyidagi tuzilishga ega: 1) tashkiliy qism; 2) yangi mavzuni bayon qilish; 3) o'rganilgan materialni mustahkamlash; 4) uy vazifasini berish. Bu qaysi dars turining tuzilishi?",
+   "options": [
+    "O'rganilganlarni takrorlash va mustahkamlash darsi",
+    "Bilim, ko'nikma va malakalarni nazorat qilish darsi",
+    "Aralash dars",
+    "Yangi bilimlarni bayon qilish darsi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "O'qituvchi Orol dengizining qurish jarayonini aks ettiruvchi suratlarni ko'rsatib, uning sabablarini tushuntirdi; so'ng o'quvchilar bilan muammoning oldini olish yo'llarini muhokama qilib, eng yaxshi takliflarni doskaga yozdi. Ushbu darsda qaysi ta'lim turidan foydalanilgan?",
+   "options": [
+    "Muammoli ta'lim",
+    "Reproduktiv ta'lim",
+    "Modul ta'limi",
+    "Dasturlashtirilgan ta'lim"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xalqaro baholash dasturlari va ularning maqsadini moslashtiring.\n1. PIRLS\n2. TIMSS\n3. PISA\n4. TALIS\na) boshlang'ich 4-sinf o'quvchilarining matnni o'qish va tushunish darajasini baholaydi\nb) 4- va 8-sinf o'quvchilarining matematika va tabiiy fanlardan savodxonligini baholaydi\nc) 15 yoshli o'quvchilarning bilimini real hayotiy muammolarni hal qilishda qo'llay olishini baholaydi\nd) o'qituvchilarning ish sharoitlari hamda o'qitish va ta'lim olish muhitini o'rganadi\ne) boshlang'ich sinf o'quvchilarining matematik savodxonligini baholaydi",
+   "options": [
+    "1-a, 2-b, 3-c, 4-e",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-b, 3-c, 4-d"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sinf rahbari darslarni muntazam buzayotgan o'quvchining xatti-harakatiga ota-onasi va sinf jamoasi ishtirokidagi yig'ilishda baho berdi. O'quvchi qilmishidan hijolat bo'lib, xulqini o'zgartirishga va'da berdi. Sinf rahbari tarbiyaning qaysi usulidan foydalandi?",
+   "options": [
+    "Uyaltirish",
+    "Tanbeh berish",
+    "Talab",
+    "Rag'batlantirish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarix o'qituvchisi Qoraxoniylar va G'aznaviylar davlatlarining umumiy va farqli jihatlarini aniqlash uchun o'quvchilarga ikki kesishgan doira chizdirib, ularni to'ldirishni topshirdi. O'qituvchi qaysi grafik organayzerdan foydalandi?",
+   "options": [
+    "«Baliq skeleti» (Fishbone)",
+    "Venn diagrammasi",
+    "Sinkveyn",
+    "Klaster"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'qituvchi o'quvchilarga Behistun yozuvidan parcha berib, uni kim, qachon va qanday maqsadda yozdirganini aniqlash, matndagi faktlarni muallif munosabatidan ajratish topshirig'ini berdi. Darsda qaysi metod qo'llanilgan?",
+   "options": [
+    "Rolli o'yin",
+    "Aqliy hujum",
+    "Tarixiy manba (hujjat) bilan ishlash",
+    "Sinkveyn"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "«Vena kongressi» mavzusida o'quvchilar Buyuk Britaniya, Rossiya, Avstriya, Prussiya va Fransiya delegatlari rolini olib, o'z davlati manfaatlarini himoya qilgan holda muzokara o'tkazdilar. O'qituvchi qaysi interfaol metoddan foydalandi?",
+   "options": [
+    "Keys-stadi",
+    "Insert",
+    "Klaster",
+    "Rolli o'yin o'qitish metodikasi"
+   ],
+   "answer": 3
+  }
+ ]
+}
