@@ -316,6 +316,10 @@ async function onCallback(env, cq) {
   }
   await tg(env, "answerCallbackQuery", { callback_query_id: cq.id });
   if (!chat) return;
+  if (d.startsWith("a:")) {
+    if (chat.type === "private" && String(cq.from.id) === OWNER(env)) return adminAction(env, cq, d.slice(2));
+    return;
+  }
   if (chat.type === "private") await touchUser(env, cq.from);
   const mid = cq.message.message_id;
   const user = chat.type === "private" ? cq.from : null;
@@ -684,6 +688,32 @@ async function reportTick(env) {
   await dailyReport(env, OWNER(env));
 }
 
+
+// ---------- Admin panel (tugmalar) ----------
+const ADMIN_KB = { inline_keyboard: [
+  [{ text: "👥 A'zolar", callback_data: "a:azolar" }, { text: "🕒 Faollar", callback_data: "a:faollar" }],
+  [{ text: "🏆 Reyting", callback_data: "a:reyting" }, { text: "📊 Excel", callback_data: "a:excel" }],
+  [{ text: "📢 Hammaga xabar", callback_data: "a:xabar" }, { text: "📈 Hisobot", callback_data: "a:hisobot" }],
+  [{ text: "🔒 Parol", callback_data: "a:parol" }, { text: "📣 Obuna", callback_data: "a:obuna" }],
+  [{ text: "📚 Testlar menyusi", callback_data: "a:menyu" }],
+] };
+async function adminPanel(env, chat) {
+  return send(env, chat, "🛠 <b>Admin panel</b>\n\nKerakli bo'limni tanlang 👇", { reply_markup: ADMIN_KB });
+}
+async function adminAction(env, cq, act) {
+  const chat = cq.message.chat.id;
+  const fake = { from: cq.from, chat: { id: chat, type: "private" } };
+  if (act === "azolar") return azolarCmd(env, chat);
+  if (act === "faollar") return faollarCmd(env, chat);
+  if (act === "reyting") return reytingCmd(env, chat);
+  if (act === "excel") return excelCmd(env, chat);
+  if (act === "xabar") return xabarCmd(env, chat);
+  if (act === "hisobot") return dailyReport(env, chat);
+  if (act === "parol") return parolCmd(env, fake, "/parol");
+  if (act === "obuna") return obunaCmd(env, fake, "/obuna");
+  if (act === "menyu") return showMain(env, chat, null, cq.from);
+}
+
 // ---------- Adminmi? ----------
 async function isAdmin(env, msg) {
   if (msg.chat.type === "private") return true;
@@ -709,7 +739,7 @@ async function onMessage(env, msg) {
     if (t0 === "/excel") return excelCmd(env, msg.chat.id);
     if (t0 === "/xabar") return xabarCmd(env, msg.chat.id);
     if (t0 === "/hisobot") return dailyReport(env, msg.chat.id);
-    if (t0 === "/admin") return send(env, msg.chat.id, "🛠 <b>Admin panel</b>\n\n/azolar — a'zolar soni\n/faollar — oxirgi faol a'zolar\n/reyting — TOP-20\n/excel — a'zolar jadvali\n/xabar — hammaga xabar\n/hisobot — bugungi hisobot (har kuni 21:00 da o'zi keladi)\n/parol — parol sozlamalari\n/obuna — majburiy obuna");
+    if (t0 === "/admin" || t0 === "/panel") return adminPanel(env, msg.chat.id);
   }
   const fch = msg.forward_from_chat || (msg.forward_origin && msg.forward_origin.chat);
   if (msg.chat.type === "private" && fch && msg.from && String(msg.from.id) === OWNER(env)) {
@@ -884,6 +914,20 @@ export default {
           { command: "natija", description: "Joriy natijalar" },
           { command: "avto", description: "Avtomatik viktorina: /avto 20 6-1..6-44" },
           { command: "help", description: "Yordam" },
+        ],
+      });
+      await tg(env, "setMyCommands", {
+        scope: { type: "chat", chat_id: Number(OWNER(env)) },
+        commands: [
+          { command: "admin", description: "🛠 Admin panel" },
+          { command: "menyu", description: "📚 Testlar menyusi" },
+          { command: "azolar", description: "👥 A'zolar soni" },
+          { command: "hisobot", description: "📈 Bugungi hisobot" },
+          { command: "xabar", description: "📢 Hammaga xabar" },
+          { command: "excel", description: "📊 A'zolar jadvali" },
+          { command: "reyting", description: "🏆 TOP-20" },
+          { command: "parol", description: "🔒 Parol" },
+          { command: "obuna", description: "📣 Majburiy obuna" },
         ],
       });
       return new Response(w.ok ? "✅ Bot ulandi! Endi Telegramga qayting." : "❌ Xato: " + JSON.stringify(w),
