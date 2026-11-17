@@ -235,7 +235,7 @@ async function showGroup(env, chat_id, message_id, gid, user) {
   const kb = [];
   for (const sec of g.secs.map((id) => cat.sections.find((x) => x.id === id)).filter(Boolean))
     kb.push([await btn(env, chat_id, `${sec.icon} ${sec.title} (${sec.tests.length})`, `s:${sec.id}:0`, `s_${sec.id}`)]);
-  kb.push([{ text: "⬅️ Bosh menyu", callback_data: "m" }]);
+  kb.push([await btn(env, chat_id, "⬅️ Bosh menyu", "m", "menu")]);
   const body = { chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb },
     text: `${g.icon} <b>${esc(g.title)}</b>\n\nBo'limni tanlang 👇` };
   if (message_id) return tg(env, "editMessageText", { ...body, message_id });
@@ -257,13 +257,13 @@ async function showSection(env, chat_id, message_id, id, page, user) {
   }
   if (pages > 1) {
     const nav = [];
-    if (page > 0) nav.push({ text: "◀️ Oldingi", callback_data: `s:${id}:${page - 1}` });
-    nav.push({ text: `${page + 1}/${pages}`, callback_data: `s:${id}:${page}` });
-    if (page < pages - 1) nav.push({ text: "Keyingi ▶️", callback_data: `s:${id}:${page + 1}` });
+    if (page > 0) nav.push(await btn(env, chat_id, "◀️ Oldingi", `s:${id}:${page - 1}`, `s_${id}_${page - 1}`));
+    nav.push(await btn(env, chat_id, `${page + 1}/${pages}`, `s:${id}:${page}`, `s_${id}_${page}`));
+    if (page < pages - 1) nav.push(await btn(env, chat_id, "Keyingi ▶️", `s:${id}:${page + 1}`, `s_${id}_${page + 1}`));
     kb.push(nav);
   }
   const grp = (cat.groups || []).find((x) => x.secs.includes(id));
-  kb.push([{ text: "⬅️ Orqaga", callback_data: grp ? `g:${grp.id}` : "m" }]);
+  kb.push([await btn(env, chat_id, "⬅️ Orqaga", grp ? `g:${grp.id}` : "m", grp ? `g_${grp.id}` : "menu")]);
   const body = {
     chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb },
     text: `${sec.icon} <b>${esc(sec.title)}</b>\n${sec.tests.length} ta test · mavzuni tanlang 👇`,
@@ -624,7 +624,7 @@ async function onMessage(env, msg) {
 
   if (cmd === "/start" && msg.chat.type === "private") {
     if (arg && arg.startsWith("g_")) return showGroup(env, chat_id, null, arg.slice(2), msg.from);
-    if (arg && arg.startsWith("s_")) return showSection(env, chat_id, null, arg.slice(2), 0, msg.from);
+    if (arg && arg.startsWith("s_")) { const [id, pg] = arg.slice(2).split("_"); return showSection(env, chat_id, null, id, +pg || 0, msg.from); }
     if (arg && arg !== "menu" && /^[\w-]+$/.test(arg)) return startPrivate(env, chat_id, arg, msg.from);
     return showMain(env, chat_id, null, msg.from);
   }
