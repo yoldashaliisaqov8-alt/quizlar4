@@ -1,0 +1,336 @@
+{
+ "title": "Attestatsiya 1 (13-noyabr imtihoni)",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Zardushtiylikda Anahita qanday ma’buda hisoblangan?",
+   "options": [
+    "Quyosh va yorug‘lik ma’budi",
+    "Hosildorlik va suv ma’budasi",
+    "Yovuzlik va o‘lim ma’budi",
+    "Oliy xudo"
+   ],
+   "answer": 1,
+   "explanation": "Zardushtiylik xudolari: Ahuramazda – oliy xudo, Mitra – Quyosh va yorug‘lik ma’budi, Anahita – hosildorlik (va suv) ma’budasi, Ahriman – yovuzlik va o‘lim ma’budi."
+  },
+  {
+   "q": "To‘qimachilik (tolalardan ip yigirib, mato to‘qish) qaysi davrda paydo bo‘lgan?",
+   "options": [
+    "So‘nggi paleolit davrida",
+    "Mezolit (o‘rta tosh) davrida",
+    "Neolit (yangi tosh) davrida",
+    "Bronza davrida"
+   ],
+   "answer": 2,
+   "explanation": "Neolit davrining asosiy yangiliklari – kulolchilik (sopol idishlar), urchuq yordamida yigirish va to‘qimachilik, toshni silliqlash va parmalash."
+  },
+  {
+   "q": "Kushonlar davrida binokorlik va me’morchilikka oid to‘g‘ri ma’lumotlarni aniqlang.\n1. Dalvarzintepa va Eski Termiz singari shaharlar xom g‘ishtdan qurilgan mustahkam mudofaa devorlari bilan o‘ralgan\n2. Mudofaa devorlari ortida hukmdor qarorgohi joylashgan\n3. Shaharlar hunarmandlar mahallalari va turarjoy mavzelariga ajratilgan\n4. Shaharlar pishgan g‘ishtdan qurilishi haqida farmon chiqarilgan\n5. Shaharlarda saroy va ibodatxonalar barpo etilgan",
+   "options": [
+    "1, 2, 3, 5",
+    "1, 3, 4",
+    "2, 4, 5",
+    "1, 2, 4, 5"
+   ],
+   "answer": 0,
+   "explanation": "Kushon podsholigi milodiy I–III asrlarda mavjud bo‘lgan; hukmdorlari Kudzula Kadfiz, Vima Kadfiz, Kanishka (yuksalish cho‘qqisi, poytaxtni Baqtradan Peshovarga ko‘chirgan)."
+  },
+  {
+   "q": "Buyuk ipak yo‘li haqidagi to‘g‘ri ma’lumotni aniqlang.",
+   "options": [
+    "Mil. avv. II asrda shakllanib, Xitoyni O‘rta Osiyo orqali Eron, Hindiston va O‘rta yer dengizi mamlakatlari bilan bog‘lagan",
+    "XIII asrda mo‘g‘ullar imperiyasi davrida Qoraqurumni Oltin O‘rda bilan bog‘lash uchun yaratilgan",
+    "Mil. avv. VI asrda Ahamoniylar Sardni Suza bilan bog‘lash uchun qurdirgan «Shoh yo‘li» shu nom bilan atalgan",
+    "Milodiy VIII asrda arablar Movarounnahrni bosib olgach, Bag‘dodni Samarqand bilan bog‘lash uchun ochilgan"
+   ],
+   "answer": 0,
+   "explanation": "Yo‘lning ochilishi xitoylik elchi Chjan Szyan safari bilan bog‘lanadi; O‘rta Osiyo shaharlari (Samarqand, Buxoro, Marv, Farg‘ona) savdo va madaniyat markazlariga aylangan;"
+  },
+  {
+   "q": "Turk xoqonligining eftaliylarga qarshi kurashiga oid to‘g‘ri ma’lumotni aniqlang.",
+   "options": [
+    "Turk xoqonligi eftaliylar bilan ittifoq tuzib, sosoniylarga qarshi kurashdi",
+    "Turk xoqonligi sosoniylar hukmdori Xusrav I Anushervon bilan eftaliylarga qarshi harbiy ittifoq tuzdi; eftaliylar davlati 563–567-yillarda parchalandi",
+    "Eftaliylar sosoniy shoh Pero‘zni 563-yilda asir oldi",
+    "Eftaliylar davlati arablar tomonidan tugatildi"
+   ],
+   "answer": 1,
+   "explanation": "Turklarning g‘arbga yurishlariga Istami («Yabg‘u xoqon») boshchilik qilgan. Keyinchalik ittifoqchilar o‘rtasida ham urush boshlangan."
+  },
+  {
+   "q": "Somoniylar sulolasining shajarasi manbalarda kimga borib taqaladi?",
+   "options": [
+    "Sosoniy shoh Xurmazd IV ning harbiy qo‘mondoni Bahrom Chubinga",
+    "Afrig‘ga",
+    "Ashina xonadoniga",
+    "Abu Muslimga"
+   ],
+   "answer": 0,
+   "explanation": "Bahrom Chubin avval Armaniston va Ozarbayjon, keyin Ray va Xuroson noibi bo‘lgan; ayrim ma’lumotlarga ko‘ra kelib chiqishi sosoniylar xizmatidagi o‘g‘uz turklaridan;"
+  },
+  {
+   "q": "Muqanna va Rofe ibn Lays qo‘zg‘olonlariga oid ma’lumotlarni moslashtiring: 1.\nMuqanna qo‘zg‘oloni; 2. Rofe ibn Lays qo‘zg‘oloni.\na) «Oq kiyimlilar» harakati; markazi Kesh vohasidagi Som qal’asi; 783-yilda qal’a olingach rahbar o‘z joniga qasd qildi\nb) 806-yilda Samarqanddan boshlanib, Shosh, Farg‘ona, Buxoro, Naxshab, Xorazmga tarqaldi\nc) Xuroson noibi Ma’mun Somonxudot nabiralari yordamida rahbarni taslim bo‘lishga majbur qildi\nd) Rahbari marvlik kudungar, yuziga parda tutgani uchun «Niqobdor» deb atalgan",
+   "options": [
+    "1-a, d; 2-b, c",
+    "1-a, b; 2-c, d",
+    "1-b, c; 2-a, d",
+    "1-a, c; 2-b, d"
+   ],
+   "answer": 0,
+   "explanation": "Muqanna: Marvlik hunarmand (kudungar), yuziga ko‘k parda tutgani uchun «Muqanna» – «Niqobdor»; mazdakiylik g‘oyalari (mulkiy tenglik); qo‘zg‘olon Sug‘d, Iloq, Shoshga yoyildi;"
+  },
+  {
+   "q": "Nuqtalar o‘rnini to‘ldiring: «Ray hukmdori ..A..ning hali voyaga yetmaganligi tufayli Rayni o‘g‘li nomidan Sayida Xotun idora qilardi. Mahmud G‘aznaviy xutbaga o‘z nomini qo‘shib o‘qitishni va Sulton Mahmud nomi bilan ..B.. chiqarishni talab qildi. Sulton Mahmud Rayga qo‘shin tortib, ..C.. shaharni o‘z hukmronligiga o‘tkazdi.»",
+   "options": [
+    "A-Faxriddin Davlo, B-oltin tanga, C-Sayida Xotun vafotidan keyin",
+    "A-Najmiddin Davlo, B-mis tanga, C-1029-yil",
+    "A-Zahiriddin Davlo, B-farmon, C-29 yildan keyin",
+    "A-Majdiddin Davlo, B-tanga pul, C-1029-yil"
+   ],
+   "answer": 3,
+   "explanation": "Valiahd Majdiddin Davlo yosh bo‘lgani uchun Rayni onasi Sayida Xotun boshqarardi. Malika: «G‘alaba qilsam – Mahmudni men yengdim deb jar solaman;"
+  },
+  {
+   "q": "Bag‘dod xalifasi Mahmud G‘aznaviyni qanday unvon bilan ulug‘lagan?",
+   "options": [
+    "«Malik al-Mashriq»",
+    "«Nosir ud-din va-d-dunyo»",
+    "«Yamin ud-davla va amin ul-milla»",
+    "«Sayfuddavla»"
+   ],
+   "answer": 2,
+   "explanation": "Xalifa bu unvon bilan birga Xuroson hokimligiga yorliq, bayroq va nog‘ora yuborgan; Mahmud ham Abbosiylar xalifasini rasman tan olgan."
+  },
+  {
+   "q": "Olimlarni ularga oid ma’lumotlar bilan moslashtiring: 1. Abu Nasr Forobiy; 2.\nAhmad Farg‘oniy.\na) Forob (O‘tror)da tug‘ilgan, «Al-muallim as-soniy» («Ikkinchi muallim»), «Sharq Arastusi» unvonlariga sazovor bo‘lgan\nb) Quva qishlog‘ida tug‘ilgan; 861-yil Qohira yaqinidagi Ravzo orolida «nilometr» yasagan\nc) 160 dan ortiq asar yaratgan, musiqani tarbiya omili deb bilgan\nd) Yevropada «Alfraganus» nomi bilan tanilgan; oydagi kraterlardan biri uning nomi bilan atalgan",
+   "options": [
+    "1-a, c; 2-b, d",
+    "1-a, b; 2-c, d",
+    "1-b, d; 2-a, c",
+    "1-a, d; 2-b, c"
+   ],
+   "answer": 0,
+   "explanation": "Farg‘oniy (797–865) – astronom, Quvada tug‘ilgan, «Astronomiya asoslari haqidagi kitob» (Yevropada «Alfraganus»), 861-yilda Nilda «nilometr»."
+  },
+  {
+   "q": "G‘aznaviylar (I) va Qoraxoniylar (II) ga xos hamda ikkalasi uchun umumiy (III) belgilarni aniqlang.\n1. Poytaxti G‘azna, 1017-yilda Xorazmni bo‘ysundirgan\n2. Siyosiy markazlari Bolasog‘un va Qoshg‘ar\n3. Turkiy sulola, islom davlati\n4. 1040-yilda Dandanaqonda saljuqiylardan yengilgan\n5. Yusuf Xos Hojibning «Qutadg‘u bilig» asari shu davlatda yozilgan\n6. Somoniylar hududlari ular o‘rtasida bo‘lingan",
+   "options": [
+    "I – 1, 4; II – 2, 5; III – 3, 6",
+    "I – 1, 5; II – 2, 4; III – 3, 6",
+    "I – 1, 4, 6; II – 2, 5; III – 3",
+    "I – 4; II – 2, 5; III – 1, 3, 6"
+   ],
+   "answer": 0,
+   "explanation": "G‘aznaviylar – Sabuktegin va Mahmud G‘aznaviy, poytaxt G‘azna, 1017-yilda Xorazmni bo‘ysundirgan, 1040-yilda Dandanaqonda saljuqiylardan yengilgan."
+  },
+  {
+   "q": "O‘zlashtiruvchi xo‘jalik turlarini aniqlang.",
+   "options": [
+    "Dehqonchilik, baliqchilik",
+    "Termachilik, dehqonchilik",
+    "Ovchilik, termachilik",
+    "Chorvachilik, ovchilik"
+   ],
+   "answer": 2,
+   "explanation": "Eng qadimiy mashg‘ulotlar – termachilik va ovchilik o‘zlashtiruvchi xo‘jalik deyiladi."
+  },
+  {
+   "q": "Mezolit davriga oid manzilgohlarni ular joylashgan hududlar bilan moslashtiring:\n1. Obishir; 2. Qo‘shilish; 3. Machay.\na) Toshkent vohasi\nb) Farg‘ona vodiysi\nc) Surxondaryo viloyati\nd) Qashqadaryo viloyati",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-b, 2-c, 3-a",
+    "1-c, 2-a, 3-d"
+   ],
+   "answer": 0,
+   "explanation": "Mezolitda iqlim mo‘tadillashib, yirik hayvonlar qirilib ketgan, jamoalar maydalashgan; o‘q-yoy kashf etilgan. Sherobod tumanidagi qoyatosh rasmlari (Zarautsoy) ham shu davr bilan bog‘lanadi."
+  },
+  {
+   "q": "Xorazmshohlar Takash (I) va Alovuddin Muhammad (II) ga xos hamda ikkalasi uchun umumiy (III) belgilarni aniqlang.\n1. Ukasi Sultonshoh Mahmud bilan taxt uchun kurashgan\n2. Movarounnahrdan qoraxitoylarni haydab chiqargan\n3. Xorazmshohlar (anushteginiylar) sulolasi vakili\n4. 1194-yilda Eronni qo‘shib olgan, G‘arbiy Eronning bir qismi va Kirmonni bo‘ysundirgan\n5. Vazir lavozimini bekor qilib, olti vakildan iborat kengash joriy etgan\n6. Davlat hududini Eron hisobiga kengaytirgan",
+   "options": [
+    "I – 1, 4; II – 2, 5; III – 3, 6",
+    "I – 1, 2; II – 4, 5; III – 3, 6",
+    "I – 4, 5; II – 1, 2; III – 3, 6",
+    "I – 1, 4, 6; II – 2, 5; III – 3"
+   ],
+   "answer": 0,
+   "explanation": "Takash (1172–1200) – El Arslonning o‘g‘li, ukasi Sultonshoh Mahmud bilan kurashgan, G‘arbiy Eron va Kirmonni bo‘ysundirgan, Bag‘dodga yurish chog‘ida vafot etgan."
+  },
+  {
+   "q": "Guyukxon ulug‘ xon bo‘lgach (1246) Chig‘atoy ulusida qanday voqea yuz berdi?",
+   "options": [
+    "Olg‘uxon mustaqillikni e’lon qildi",
+    "Qora-Hulagu taxtdan ag‘darilib, o‘rniga Yasu Munke o‘tqazildi",
+    "Kebekxon qarorgohini Qarshiga ko‘chirdi",
+    "Mas’udbek pul islohoti o‘tkazdi"
+   ],
+   "answer": 1,
+   "explanation": "Guyuk – O‘qtoyning o‘g‘li, 1246-yilgi qurultoyda ulug‘ xon bo‘ldi va Chig‘atoy ulusidagi taxt egasini almashtirdi. Mengu xon davrida Qora-Hulagu yana taxtga qaytarilgan."
+  },
+  {
+   "q": "To‘g‘ri moslashtirilgan javobni toping: 1. Tus; 2. Seyiston; 3. Mayoforiqin.\na) Jaloliddin ushbu hudud yaqinida kurdlar qo‘liga asir tushib, o‘ldiriladi va shu yerda dafn etiladi\nb) Kaspiy dengizining janubi-sharqidagi viloyat va shahar bo‘lib, Temur Malik o‘z qo‘shini bilan aynan shu yerga kelib Jaloliddinga qo‘shiladi\nc) Alisher Navoiyning tashabbusi bilan bu hududda Turuqband suv ombori quriladi\nd) Sulton Jaloliddin Tabrizni egallagach, Ozarbayjon malikasini yaqinlari, kanizaklari, mol-mulki bilan mazkur hududga ko‘chirtiradi\ne) Malik Qutbiddinning taklifiga binoan, ikki do‘st uning dushmanlariga qarshi kurashda yordam berish maqsadida ushbu hududga yo‘l oladi",
+   "options": [
+    "1-d, 2-c, 3-a",
+    "1-c, 2-d, 3-b",
+    "1-c, 2-e, 3-a",
+    "1-b, 2-e, 3-c"
+   ],
+   "answer": 2,
+   "explanation": "Tus yaqinida Navoiy tashabbusi bilan Turuqband suv ombori qurilgan; Seyistonga Amir Temur va Amir Husayn Malik Qutbiddin taklifi bilan borgan; Mayoforiqin yaqinida Jaloliddin halok bo‘lgan (1231)."
+  },
+  {
+   "q": "Chig‘atoy ulusi xonlarini ularga oid ma’lumotlar bilan moslashtiring: 1.\nKebekxon; 2. Alouddin Tarmashirin.\na) Qarorgohini Qashqadaryo vohasiga ko‘chirib, ma’muriy va pul islohoti o‘tkazdi; tangalari xalq orasida «kepaki» nomini oldi\nb) Islomni ulusning rasmiy diniga aylantirdi\nc) Ulus mustaqilligini e’lon qildi\nd) «Yasoq qo‘riqchisi» deb atalgan",
+   "options": [
+    "1-a, 2-b",
+    "1-b, 2-a",
+    "1-a, 2-c",
+    "1-c, 2-d"
+   ],
+   "answer": 0,
+   "explanation": "Tarmashirin – Muborakshoh – Amir Qazag‘on solishtirmasi uchun: Muborakshoh – Chig‘atoy ulusi xoni deb Ohangaronda e’lon qilingan, Baroqxon Xo‘jandda uni yengib taxtga o‘tirgan;"
+  },
+  {
+   "q": "Elxoniylar (Hulokuiylar) hukmdori G‘ozonxon (1295–1304) davriga oid ma’lumotni aniqlang.",
+   "options": [
+    "Davlat Muzaffariylar va Jaloyiriylarga bo‘linib ketdi",
+    "Qurultoyda islom davlat dini deb e’lon qilindi; vaziri – qomusiy olim Rashiduddin; 2,15 grammli kumush dirham va 12,9 grammli oltin dinor zarb qilindi",
+    "Sarbadorlar qo‘zg‘oloni bostirildi",
+    "Huloku 70 ming qo‘shin bilan Eronni bosib oldi"
+   ],
+   "answer": 1,
+   "explanation": "«Oid bo‘lmagan» variantga odatda boshqa elxonning voqeasi qo‘yiladi: masalan, Abu Said vafotidan keyin davlatning parchalanishi, sarbadorlar qo‘zg‘oloni (XIV asr 30-yillari), Muzaffariylar va Jaloy…"
+  },
+  {
+   "q": "Shayboniy Ubaydullaxonga tegishli ma’lumotlarni aniqlang.\n1. 1533-yilda davlat poytaxtini Samarqanddan Buxoroga ko‘chirdi\n2. Ikki marta Hirotni eronliklardan tortib oldi\n3. 1708-yilda pul islohotini o‘tkazdi\n4. «Ubaydiy» taxallusi bilan she’rlar yozdi\n5. Javshan qalmiq boshchiligidagi suiqasdda o‘ldirildi",
+   "options": [
+    "1, 2, 4",
+    "1, 3, 5",
+    "2, 3, 4",
+    "3, 4, 5"
+   ],
+   "answer": 0,
+   "explanation": "Umumiy: ikkalasi ham shayboniylar, Buxoro hukmdorlari, ilm-madaniyat homiylari; Mir Arab madrasasi go‘rxonasida Ubaydullaxon sag‘anasi bor."
+  },
+  {
+   "q": "Buxoro amiri Shohmurod davriga oid to‘g‘ri ma’lumotlarni aniqlang.\n1. Buxoro aholisiga turli soliqlardan ozod etuvchi tarxon yorlig‘i berildi\n2. Zarafshon vohasida egallanmagan yerlar tekinga tarqatildi, aholi o‘troqlashdi\n3. Aholisi kamayib, qishloq darajasiga tushgan Samarqand qayta qurildi; tarhini amirning o‘zi chizgan\n4. Nodirshoh bosib olgan Marv qaytarib olindi\n5. Beklarbegi unvoni joriy qilindi",
+   "options": [
+    "1, 2, 3, 4",
+    "1, 3, 5",
+    "2, 4, 5",
+    "1, 2, 5"
+   ],
+   "answer": 0,
+   "explanation": "Darveshona hayot kechirgan, kundalik xarajati bir tangadan oshmagan, o‘z sharafiga dabdabali tadbirlarga yo‘l qo‘ymagan; ilohiyotga oid risolalar yozgan."
+  },
+  {
+   "q": "Hukmdorlarni ularga oid ma’lumotlar bilan moslashtiring: 1. Subhonqulixon; 2.\nMuhammad Shayboniyxon; 3. Umarxon.\na) 1682-yilda Buxoro Registonida sakkiz burchakli kasalxona qurdirgan, Usmonli sulton elchisini qabul qilgan\nb) 1509-yilda Sig‘noq, Yassi, Savron shaharlarini egallab, Yassaviy maqbarasini ta’mirlashni buyurgan\nc) Bosh vazir lavozimini qushbegidan mingboshiga o‘zgartirgan, «Amiriy» taxallusi bilan she’rlar yozgan\nd) 1533-yilda poytaxtni Samarqanddan Buxoroga ko‘chirgan",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-d",
+    "1-a, 2-b, 3-c",
+    "1-d, 2-b, 3-c"
+   ],
+   "answer": 2,
+   "explanation": "Moslashtirishda «ortiqcha» band odatda boshqa hukmdorning ishi bo‘ladi (masalan, Abdullaxon II pul islohoti yoki Ubaydullaxon 1708-yilgi islohoti)."
+  },
+  {
+   "q": "1509-yilgi yurishda Shayboniyxon qaysi shaharlarni qo‘lga kiritdi?",
+   "options": [
+    "Sig‘noq, Yassi va Savron",
+    "Toshkent, Shohruxiya va Turkiston",
+    "O‘tror, Taroz va Isfijob",
+    "Hirot, Marv va Balx"
+   ],
+   "answer": 0,
+   "explanation": "1509-yilda Shayboniyxon qozoq sultonlari Jonish Sulton, Burunduqxon va Qosim Sultonga qattiq zarba berib, shu shaharlarni oldi hamda Turkistondagi Xo‘ja Ahmad Yassaviy maqbarasini ta’mirlashga buyr…"
+  },
+  {
+   "q": "Ashtarxoniy Ubaydullaxonning 1708-yilgi pul islohoti qanday natijaga olib keldi?",
+   "options": [
+    "Savdo jonlanib, kumush zaxirasi ko‘paydi",
+    "Savdogarlar va aholining keskin noroziligi – xalq qo‘zg‘oloni; u shafqatsizlarcha bostirildi",
+    "Oltin tanga muomaladan chiqarildi",
+    "Buxoro Rossiya rublini qabul qildi"
+   ],
+   "answer": 1,
+   "explanation": "Islohotda tarkibida atigi 9 % kumush bo‘lgan yangi tanga tarkibining 35 % i kumush bo‘lgan eski tangaga teng deb e’lon qilindi (kumush 4 marta kamaydi)."
+  },
+  {
+   "q": "Ashtarxoniy Ubaydullaxonga (1702–1711) qarshi suiqasd kim boshchiligida uyushtirilgan?",
+   "options": [
+    "Javshan qalmiq",
+    "Muhammad Hakimbiy",
+    "Rahimbiy otaliq",
+    "Abulfayzxon"
+   ],
+   "answer": 0,
+   "explanation": "Abdurahmon Tolening «Tarixi Abulfayzxon» asariga ko‘ra, xon Balxga yo‘l olib Piri Mirza chorbog‘ida turganida qotillar uni xanjar bilan o‘ldirgan;"
+  },
+  {
+   "q": "Abulg‘ozixon Xiva xonligining boshqaruv tizimida qanday o‘zgarish qildi?",
+   "options": [
+    "Lavozimlar sonini 360 tadan 100 taga qisqartirdi",
+    "Aholini to‘rtta asosiy bo‘linma (to‘p)ga bo‘ldi: uyg‘ur-nayman, qiyot-qo‘ng‘irot, nukus- mang‘it, qang‘li-qipchoq",
+    "Beklarbegi unvonini joriy qildi",
+    "Bosh vazir lavozimini mingboshiga o‘zgartirdi"
+   ],
+   "answer": 1,
+   "explanation": "Abulg‘ozi Bahodirxon – Xiva xoni, davlat arbobi va tarixchi; «Shajarayi turk» asari muallifi. Urug‘larning o‘troqlashishi ularning davlat boshqaruvidagi ishtirokini tartibga solishni talab qilgan."
+  },
+  {
+   "q": "Qo‘qon xonlarini ularga oid ma’lumotlar bilan moslashtiring: 1. Umarxon; 2.\nOlimxon; 3. Madalixon.\na) Bosh vazir lavozimini qushbegidan mingboshiga o‘zgartirdi; 1819-yil Yangiariqni 120 chaqirimga uzaytirdi; «Amiriy» taxallusi\nb) Qattiq harbiy intizom o‘rnatdi, tarxon yerlarini qayta tekshirtirdi, Toshkent bekligini qo‘shib oldi\nc) Qorategin, Ko‘lob, Darvozni qo‘shib oldi; 1831-yilgi Pekin bilan kelishuvga ko‘ra Qoshg‘ardagi savdo Qo‘qon nazoratiga o‘tdi\nd) Minglardan birinchi bo‘lib xon unvonini oldi",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-d, 2-b, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 0,
+   "explanation": "Mingboshi lavozimiga lashkarboshilik vakolati ham yuklatilgan – davlat siyosatida harbiy masala ustuvor bo‘lgani uchun."
+  },
+  {
+   "q": "Sheralixon taxtga ko‘tarilgach, oliy mansablar tegmay qolgan qipchoqlar qanday yo‘l tutdi va natijasi nima bo‘ldi?",
+   "options": [
+    "Buxoro amiriga qochib ketdi",
+    "Andijon va Shahrixonga borib qo‘shin yig‘di; muzokaraga Yusuf mingboshi va Sarimsoqbek yuborildi; ularning talabi bilan Muhammadyusuf mingboshilikdan chetlashtirildi",
+    "Sheralixonni darhol o‘ldirib, Murodni taxtga ko‘tardi",
+    "Rossiyadan yordam so‘radi"
+   ],
+   "answer": 1,
+   "explanation": "Keyin Sheralixonning soliq siyosatiga qarshi qo‘zg‘olonlar ko‘tarildi; 1845-yilda O‘shdagi qo‘zg‘olonni bostirishga qipchoq Musulmonqul yuborildi, shu paytda Murod Sheralixonni o‘ldirdi;"
+  },
+  {
+   "q": "«Qiz Mengesh bilan aytishuv» (1878) asari muallifi kim?",
+   "options": [
+    "Berdaq",
+    "Ajiniyoz",
+    "Kunxo‘ja",
+    "Jiyen Jirov"
+   ],
+   "answer": 1,
+   "explanation": "Asar 1878-yilda yozilgan. Ajiniyozning «Bo‘zatov» dostoni qoraqalpoqlarning boshqa yurtlarga ko‘chishga majbur etilganini tasvirlaydi. 2024-yilda Ajiniyoz tavalludining 200 yilligi nishonlandi."
+  },
+  {
+   "q": "Qoraqalpoq shoirlarini asarlari bilan moslashtiring: 1. Kunxo‘ja; 2. Ajiniyoz; 3.\nBerdaq.\na) «O‘roqchilar», «Cho‘ponlar», «El bilan»\nb) «Bo‘zatov», «Qiz Mengesh bilan aytishuv»\nc) «Avlodlar», «Omongeldi», «Ernazarbiy», «Oydo‘stbiy»\nd) «Shajarayi turk»",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-d"
+   ],
+   "answer": 0,
+   "explanation": "Kunxo‘ja Ibrohim (1799–1880) – xalqning og‘ir ahvoli; Ajiniyoz – Xivadagi Sherg‘ozixon madrasasida o‘qigan;"
+  },
+  {
+   "q": "Ikkinchi jahon urushi qatnashchisi: «Moskva uchun janglarda hamshira, minomyotchi va pulemyotchi sifatida qatnashgan, snayperlikni o‘rganib, 129 fashistni yo‘q qilgan, Leningrad yo‘nalishidagi jangda og‘ir yaralangan o‘zbek qizi». Bu kim?",
+   "options": [
+    "Sobira Yunusova",
+    "Zebo G‘aniyeva",
+    "Halima Nosirova",
+    "Zulfiya Isroilova"
+   ],
+   "answer": 1,
+   "explanation": "Darslikda: Moskva uchun janglarda hamshira, minomyotchi, pulemyotchi bo‘lgan, snayperlikni o‘rganib Leningrad yo‘nalishida og‘ir yaralangan; bungacha 129 nafar fashistni yo‘q qilgan."
+  }
+ ]
+}

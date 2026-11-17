@@ -245,6 +245,11 @@ Avtomatik: /avto 20 6-1..6-44  ·  Holat: /avto  ·  To'xtatish: /avto stop
 /quiz 9-jahon-30  —  30-mavzu. G'arb: Eron va Afg'oniston (71 ta)
 /quiz 9-jahon-31  —  31-mavzu. Afrika: qul savdosi (73 ta)
 
+=== Attestatsiya · 13-noyabr imtihoni (izohli, har savolga 45 soniya) ===
+/quiz att13-1  —  Attestatsiya 1 — 1–30-savollar (30 ta)
+/quiz att13-2  —  Attestatsiya 2 — 31–60-savollar (30 ta)
+/quiz att13-3  —  Attestatsiya 3 — 61–77-savollar (17 ta)
+
 === Attestatsiya · Tarix + Metodika (izohli, har savolga 45 soniya) ===
 /quiz attm-1  —  Attestatsiya 1 — 1–30-savollar (30 ta)
 /quiz attm-2  —  Attestatsiya 2 — 31–60-savollar (30 ta)
