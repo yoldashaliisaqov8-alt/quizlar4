@@ -6,3 +6,5 @@ Cloudflare Workers Builds orqali avtomatik joylashadi:
 - Build watch paths: `bot/*`
 
 Maxfiy qiymatlar (BOT_TOKEN, WEBHOOK_SECRET) Cloudflare paneli → Settings → Variables and Secrets da saqlanadi, bu yerda yo'q.
+
+Avtomatik joylash ulandi: 2026-11-17.
