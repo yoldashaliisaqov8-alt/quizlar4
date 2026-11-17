@@ -100,6 +100,7 @@ async function finish(env, s) {
   ).bind(s.chat_id, s.session_id).all();
   if (s.chat_id > 0) {
     const r = results[0] || { correct: 0 };
+    await addResult(env, s.chat_id, r.correct, s.total);
     const pct = Math.round((r.correct / s.total) * 100);
     const baho = pct >= 86 ? "🏆 A'lo!" : pct >= 71 ? "👍 Yaxshi!" : pct >= 56 ? "🙂 Qoniqarli" : "📖 Mavzuni yana takrorlang";
     return send(env, s.chat_id,
@@ -289,6 +290,7 @@ async function onCallback(env, cq) {
   const chat = cq.message && cq.message.chat;
   await tg(env, "answerCallbackQuery", { callback_query_id: cq.id });
   if (!chat) return;
+  if (chat.type === "private") await touchUser(env, cq.from);
   const mid = cq.message.message_id;
   const user = chat.type === "private" ? cq.from : null;
   if (d === "m") return showMain(env, chat.id, mid, user);
@@ -449,6 +451,124 @@ async function obunaCmd(env, msg, text) {
   return send(env, msg.chat.id, "✅ Saqlandi.\n\n" + info());
 }
 
+
+// ---------- A'zolar va admin panel ----------
+const TZ = 5 * 3600000; // Toshkent
+const fmtT = (ts) => ts ? new Date(ts + TZ).toISOString().slice(0, 16).replace("T", " ") : "—";
+const dayStart = () => { const n = Date.now() + TZ; return n - (n % 86400000) - TZ; };
+async function ensureUsers(env) {
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS users (user_id INTEGER PRIMARY KEY, name TEXT, username TEXT, first_seen INTEGER, last_seen INTEGER, tests INTEGER DEFAULT 0, correct INTEGER DEFAULT 0, total INTEGER DEFAULT 0, blocked INTEGER DEFAULT 0)").run();
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS bc (id INTEGER PRIMARY KEY, batches INTEGER, done INTEGER DEFAULT 0, sent INTEGER DEFAULT 0, blocked INTEGER DEFAULT 0, failed INTEGER DEFAULT 0, started INTEGER)").run();
+  // Bir martalik: avval botdan foydalanganlarni ro'yxatga qo'shish
+  await ensureLock(env);
+  const bf = await env.DB.prepare("SELECT v FROM settings WHERE k='users_bf'").first();
+  if (!bf) {
+    await env.DB.prepare(`INSERT OR IGNORE INTO users (user_id, name, username, first_seen, last_seen)
+      SELECT user_id, MAX(name), '', MIN(CAST(session_id AS INTEGER)), MAX(CAST(session_id AS INTEGER)) FROM scores WHERE chat_id>0 GROUP BY user_id`).run();
+    await env.DB.prepare(`INSERT OR IGNORE INTO users (user_id, name, username, first_seen, last_seen) SELECT user_id, name, '', at, at FROM access`).run();
+    await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('users_bf', '1')").run();
+  }
+}
+let USERS_OK = false;
+async function touchUser(env, u) {
+  if (!u || u.is_bot) return;
+  if (!USERS_OK) { await ensureUsers(env); USERS_OK = true; }
+  const name = ((u.first_name || "") + (u.last_name ? " " + u.last_name : "")).trim();
+  const now = Date.now();
+  await env.DB.prepare(
+    `INSERT INTO users (user_id, name, username, first_seen, last_seen, blocked) VALUES (?,?,?,?,?,0)
+     ON CONFLICT(user_id) DO UPDATE SET name=excluded.name, username=excluded.username, last_seen=excluded.last_seen, blocked=0`
+  ).bind(u.id, name, u.username || "", now, now).run();
+}
+async function addResult(env, uid, correct, total) {
+  await ensureUsers(env);
+  await env.DB.prepare("UPDATE users SET tests=tests+1, correct=correct+?, total=total+? WHERE user_id=?").bind(correct, total, uid).run();
+}
+const isOwner = (env, msg) => msg.from && String(msg.from.id) === OWNER(env);
+
+async function azolarCmd(env, chat) {
+  await ensureUsers(env);
+  const d0 = dayStart(), w7 = Date.now() - 7 * 86400000;
+  const q = (sql, ...a) => env.DB.prepare(sql).bind(...a).first();
+  const all = await q("SELECT COUNT(*) n FROM users");
+  const newD = await q("SELECT COUNT(*) n FROM users WHERE first_seen>=?", d0);
+  const new7 = await q("SELECT COUNT(*) n FROM users WHERE first_seen>=?", w7);
+  const actD = await q("SELECT COUNT(*) n FROM users WHERE last_seen>=?", d0);
+  const act7 = await q("SELECT COUNT(*) n FROM users WHERE last_seen>=?", w7);
+  const blk = await q("SELECT COUNT(*) n FROM users WHERE blocked=1");
+  const tst = await q("SELECT COALESCE(SUM(tests),0) n FROM users");
+  return send(env, chat,
+    `👥 <b>Bot a'zolari</b>\n\nJami: <b>${all.n}</b>\n🆕 Bugun qo'shilgan: <b>${newD.n}</b>\n🆕 Oxirgi 7 kunda: <b>${new7.n}</b>\n\n` +
+    `🔥 Bugun faol: <b>${actD.n}</b>\n🔥 7 kunda faol: <b>${act7.n}</b>\n⛔ Botni bloklagan: <b>${blk.n}</b>\n\n📝 Jami ishlangan testlar: <b>${tst.n}</b>`);
+}
+async function faollarCmd(env, chat) {
+  await ensureUsers(env);
+  const { results } = await env.DB.prepare("SELECT * FROM users ORDER BY last_seen DESC LIMIT 30").all();
+  if (!results.length) return send(env, chat, "Hali a'zolar yo'q.");
+  const t = results.map((u, i) => `${i + 1}. ${esc(u.name || "—")}${u.username ? " @" + esc(u.username) : ""} — ${fmtT(u.last_seen)} · ${u.tests} test${u.blocked ? " ⛔" : ""}`).join("\n");
+  return send(env, chat, `🕒 <b>Oxirgi faol 30 a'zo</b>\n\n${t}\n\nTo'liq ro'yxat: /excel`);
+}
+async function reytingCmd(env, chat) {
+  await ensureUsers(env);
+  const { results } = await env.DB.prepare("SELECT * FROM users WHERE total>0 ORDER BY correct DESC, total ASC LIMIT 20").all();
+  if (!results.length) return send(env, chat, "Hali natijalar yo'q.");
+  const md = ["🥇", "🥈", "🥉"];
+  const t = results.map((u, i) => `${md[i] || i + 1 + "."} ${esc(u.name || "—")}${u.username ? " @" + esc(u.username) : ""} — <b>${u.correct}</b> to'g'ri (${u.tests} test, ${Math.round((u.correct / u.total) * 100)}%)`).join("\n");
+  return send(env, chat, `🏆 <b>TOP-20 o'quvchi</b>\n\n${t}`);
+}
+async function excelCmd(env, chat) {
+  await ensureUsers(env);
+  const { results } = await env.DB.prepare("SELECT * FROM users ORDER BY first_seen").all();
+  const cell = (v) => `"${String(v ?? "").replace(/"/g, '""')}"`;
+  const rows = [["№", "Ism", "Username", "Telegram ID", "Birinchi kirgan", "Oxirgi faollik", "Testlar soni", "To'g'ri javoblar", "Jami savollar", "O'rtacha natija %", "Holat"]];
+  results.forEach((u, i) => rows.push([i + 1, u.name, u.username ? "@" + u.username : "", u.user_id, fmtT(u.first_seen), fmtT(u.last_seen), u.tests, u.correct, u.total, u.total ? Math.round((u.correct / u.total) * 100) : "", u.blocked ? "bloklagan" : "faol"]));
+  const csv = "﻿" + rows.map((r) => r.map(cell).join(";")).join("\r\n");
+  const fd = new FormData();
+  fd.append("chat_id", String(chat));
+  fd.append("caption", `📊 Bot a'zolari: ${results.length} nafar (${fmtT(Date.now())})`);
+  fd.append("document", new Blob([csv], { type: "text/csv" }), `azolar-${fmtT(Date.now()).slice(0, 10)}.csv`);
+  const r = await fetch(API(env, "sendDocument"), { method: "POST", body: fd });
+  if (!r.ok) console.log("excel xato", await r.text());
+}
+
+// /xabar: keyingi xabar hammaga
+async function xabarCmd(env, chat) {
+  await ensureLock(env);
+  await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('bc_wait', '1')").run();
+  return send(env, chat, "📢 <b>Hammaga yuboriladigan xabarni yuboring</b> (matn, rasm, video, fayl yoki kanaldan forward).\n\nBekor qilish: /bekor");
+}
+async function startBroadcast(env, msg) {
+  await ensureUsers(env);
+  await env.DB.prepare("DELETE FROM settings WHERE k='bc_wait'").run();
+  const { results } = await env.DB.prepare("SELECT user_id FROM users WHERE blocked=0").all();
+  const ids = results.map((r) => r.user_id).filter((id) => String(id) !== OWNER(env));
+  if (!ids.length) return send(env, msg.chat.id, "A'zolar hali yo'q.");
+  const per = 15, batches = Math.ceil(ids.length / per), id = Date.now();
+  await env.DB.prepare("INSERT INTO bc (id, batches, started) VALUES (?,?,?)").bind(id, batches, id).run();
+  await send(env, msg.chat.id, `⏳ Xabar <b>${ids.length}</b> nafar a'zoga yuborilmoqda (taxminan ${Math.max(1, Math.ceil(batches * 6 / 60))} daqiqa). Tugagach hisobot keladi.`);
+  for (let i = 0; i < batches; i++) {
+    const body = { t: "bc", bc: id, from: msg.chat.id, mid: msg.message_id, ids: ids.slice(i * per, i * per + per) };
+    if (env.TIMER) await env.TIMER.send(body, { delaySeconds: Math.min(i * 6, 43200) });
+    else await runBroadcastBatch(env, body);
+  }
+}
+async function runBroadcastBatch(env, b) {
+  let sent = 0, blocked = 0, failed = 0;
+  for (const uid of b.ids) {
+    const r = await tg(env, "copyMessage", { chat_id: uid, from_chat_id: b.from, message_id: b.mid });
+    if (r.ok) sent++;
+    else if (r.error_code === 403) { blocked++; await env.DB.prepare("UPDATE users SET blocked=1 WHERE user_id=?").bind(uid).run(); }
+    else failed++;
+    await new Promise((x) => setTimeout(x, 40));
+  }
+  await env.DB.prepare("UPDATE bc SET done=done+1, sent=sent+?, blocked=blocked+?, failed=failed+? WHERE id=?").bind(sent, blocked, failed, b.bc).run();
+  const r = await env.DB.prepare("SELECT * FROM bc WHERE id=?").bind(b.bc).first();
+  if (r && r.done === r.batches) {
+    await send(env, b.from,
+      `✅ <b>Xabar yuborildi!</b>\n\n📬 Yetib bordi: <b>${r.sent}</b>\n⛔ Botni bloklagan: <b>${r.blocked}</b>\n⚠️ Boshqa xato: <b>${r.failed}</b>\n⏱ ${Math.max(1, Math.round((Date.now() - r.started) / 1000))} soniya`);
+  }
+}
+
 // ---------- Adminmi? ----------
 async function isAdmin(env, msg) {
   if (msg.chat.type === "private") return true;
@@ -459,6 +579,22 @@ async function isAdmin(env, msg) {
 // ---------- Buyruqlar ----------
 async function onMessage(env, msg) {
   const text = msg.text || "";
+  if (msg.chat.type === "private" && msg.from) await touchUser(env, msg.from);
+  if (msg.chat.type === "private" && isOwner(env, msg)) {
+    const t0 = (msg.text || "").trim().split(/\s+/)[0].split("@")[0].toLowerCase();
+    if (t0 === "/bekor") { await ensureLock(env); await env.DB.prepare("DELETE FROM settings WHERE k='bc_wait'").run(); return send(env, msg.chat.id, "❌ Bekor qilindi."); }
+    if (!t0.startsWith("/")) {
+      await ensureLock(env);
+      const w = await env.DB.prepare("SELECT v FROM settings WHERE k='bc_wait'").first();
+      if (w) return startBroadcast(env, msg);
+    }
+    if (t0 === "/azolar") return azolarCmd(env, msg.chat.id);
+    if (t0 === "/faollar") return faollarCmd(env, msg.chat.id);
+    if (t0 === "/reyting") return reytingCmd(env, msg.chat.id);
+    if (t0 === "/excel") return excelCmd(env, msg.chat.id);
+    if (t0 === "/xabar") return xabarCmd(env, msg.chat.id);
+    if (t0 === "/admin") return send(env, msg.chat.id, "🛠 <b>Admin panel</b>\n\n/azolar — a'zolar soni\n/faollar — oxirgi faol a'zolar\n/reyting — TOP-20\n/excel — a'zolar jadvali\n/xabar — hammaga xabar\n/parol — parol sozlamalari\n/obuna — majburiy obuna");
+  }
   const fch = msg.forward_from_chat || (msg.forward_origin && msg.forward_origin.chat);
   if (msg.chat.type === "private" && fch && msg.from && String(msg.from.id) === OWNER(env)) {
     const r = await tg(env, "getChatMember", { chat_id: fch.id, user_id: (await tg(env, "getMe", {})).result.id });
@@ -665,7 +801,8 @@ export default {
     for (const m of batch.messages) {
       try {
         const b = m.body;
-        await advance(env, b.chat_id, b.session_id, b.idx);
+        if (b.t === "bc") await runBroadcastBatch(env, b);
+        else await advance(env, b.chat_id, b.session_id, b.idx);
       } catch (e) { console.log("Taymer xato:", e.stack || e); }
       m.ack();
     }
