@@ -392,7 +392,7 @@ async function parolCmd(env, msg, text) {
 
 // ---------- Majburiy obuna ----------
 const HUQUQ_CH = { id: "@huquqmezoni", name: "Huquq mezoni", link: "https://t.me/+JHqVNFFPSwE1Mjdi" };
-const SUBS_DEFAULT = { on: true, tarix: ["@yoldashaliisakov", HUQUQ_CH], huquq: ["@yoldashaliisakov", HUQUQ_CH] };
+const SUBS_DEFAULT = { on: true, tarix: ["@yoldashaliisakov"], huquq: ["@yoldashaliisakov"] };
 // Kanal: "@nom" yoki {id: "@nom" | "-100…", name, link}
 const chObj = (c) => typeof c === "string" ? { id: c, name: c, link: `https://t.me/${c.replace(/^@/, "")}` } : c;
 function parseChannels(tokens) {
@@ -405,7 +405,7 @@ function parseChannels(tokens) {
 }
 async function getSubs(env) {
   await ensureLock(env);
-  const r = await env.DB.prepare("SELECT v FROM settings WHERE k='subs'").first();
+  const r = await env.DB.prepare("SELECT v FROM settings WHERE k='subs_v2'").first();
   return r ? JSON.parse(r.v) : SUBS_DEFAULT;
 }
 // Huquq bo'limlari (hd, h8..h11) → huquq kanali, qolganlari → tarix kanali
@@ -436,7 +436,7 @@ async function obunaCmd(env, msg, text) {
   if (String(msg.from.id) !== OWNER(env)) return;
   const parts = text.trim().split(/\s+/).slice(1);
   const S = await getSubs(env);
-  const save = () => env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('subs', ?)").bind(JSON.stringify(S)).run();
+  const save = () => env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('subs_v2', ?)").bind(JSON.stringify(S)).run();
   const info = () => `📢 <b>Majburiy obuna: ${S.on ? "YOQIQ ✅" : "O'CHIQ"}</b>\nTarix testlari: ${esc((S.tarix || []).map((c) => chObj(c).name + " (" + chObj(c).id + ")").join(", ") || "—")}\nHuquq testlari: ${esc((S.huquq || []).map((c) => chObj(c).name + " (" + chObj(c).id + ")").join(", ") || "—")}\n\n<code>/obuna off</code> · <code>/obuna on</code>\n<code>/obuna tarix @kanal1 @kanal2</code>\n<code>/obuna huquq @kanal https://t.me/+taklif</code>\n\nYopiq kanal ID sini bilish uchun: kanaldan biror postni botga <b>forward</b> qiling.\n⚠️ Bot har bir kanalda admin bo'lishi shart.`;
   if (!parts.length) return send(env, msg.chat.id, info());
   const k = parts[0].toLowerCase();
