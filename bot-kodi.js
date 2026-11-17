@@ -374,7 +374,7 @@ async function parolCmd(env, msg, text) {
 
 
 // ---------- Majburiy obuna ----------
-const SUBS_DEFAULT = { on: true, tarix: ["@yoldashaliisakov"], huquq: ["@huquqmezoni"] };
+const SUBS_DEFAULT = { on: true, tarix: ["@yoldashaliisakov", "@huquqmezoni"], huquq: ["@yoldashaliisakov", "@huquqmezoni"] };
 async function getSubs(env) {
   await ensureLock(env);
   const r = await env.DB.prepare("SELECT v FROM settings WHERE k='subs'").first();
