@@ -122,7 +122,11 @@ async function finish(env, s) {
     t += `${medals[i] || i + 1 + "."} ${esc(r.name)} — <b>${r.correct}</b> ta to'g'ri\n`;
   });
   t += "\n🏆 G'oliblarni tabriklaymiz!";
-  await send(env, s.chat_id, t);
+  const nx = await nextTest(env, s.quiz_id).catch(() => null);
+  const kb = [];
+  if (nx) kb.push([{ text: `▶️ Keyingi: ${nx.t}`.slice(0, 60), callback_data: `q:${nx.n}` }]);
+  kb.push([{ text: "📚 Boshqa mavzu tanlash", callback_data: "m" }]);
+  await send(env, s.chat_id, t, { reply_markup: { inline_keyboard: kb } });
 }
 
 
@@ -300,6 +304,12 @@ async function startPrivate(env, chat_id, name, user) {
 async function onCallback(env, cq) {
   const d = cq.data || "";
   const chat = cq.message && cq.message.chat;
+  if (chat && chat.type !== "private") {
+    const r = await tg(env, "getChatMember", { chat_id: chat.id, user_id: cq.from.id });
+    if (!(r.ok && ["creator", "administrator"].includes(r.result.status)))
+      return tg(env, "answerCallbackQuery", { callback_query_id: cq.id, show_alert: true,
+        text: "Bu tugmalar faqat guruh adminlari uchun. Testni o'zingiz ishlash uchun guruhdagi 📚 katalogdan foydalaning." });
+  }
   await tg(env, "answerCallbackQuery", { callback_query_id: cq.id });
   if (!chat) return;
   if (chat.type === "private") await touchUser(env, cq.from);
@@ -312,6 +322,23 @@ async function onCallback(env, cq) {
     const name = d.slice(2);
     if (/^[\w-]+$/.test(name)) return startPrivate(env, chat.id, name, cq.from);
   }
+  if (d.startsWith("q:") && chat.type !== "private") {
+    const name = d.slice(2);
+    if (!/^[\w-]+$/.test(name)) return;
+    await tg(env, "deleteMessage", { chat_id: chat.id, message_id: mid });
+    const err = await startQuiz(env, chat.id, name);
+    if (err) await send(env, chat.id, err);
+  }
+}
+
+// Guruh: keyingi mavzu
+async function nextTest(env, name) {
+  const cat = await catalog(env);
+  for (const sec of cat.sections) {
+    const i = sec.tests.findIndex((t) => t.n === name);
+    if (i >= 0) return sec.tests[i + 1] || null;
+  }
+  return null;
 }
 
 
@@ -651,6 +678,7 @@ async function onMessage(env, msg) {
 
   if (cmd === "/quiz") {
     if (!(await isAdmin(env, msg))) return send(env, chat_id, "⛔ Viktorinani faqat admin boshlay oladi.");
+    if (!arg && msg.chat.type !== "private") return showMain(env, chat_id, null, null);
     if (!arg || !/^[\w-]+$/.test(arg)) return send(env, chat_id, "Test nomini yozing: /quiz tarix1");
     if (msg.chat.type === "private") return startPrivate(env, chat_id, arg, msg.from);
     const err = await startQuiz(env, chat_id, arg);
@@ -686,6 +714,11 @@ async function onMessage(env, msg) {
     ).bind(chat_id, mins, JSON.stringify(list), Date.now()).run();
     return send(env, chat_id,
       `✅ <b>Avtomatik viktorina yoqildi!</b>\n\nHar <b>${mins} daqiqada</b> yangi test boshlanadi.\nRo'yxatda: ${list.length} ta test (${esc(list[0])} → ${esc(list[list.length - 1])})\nBirinchisi 1 daqiqa ichida boshlanadi.\n\nHolat: /avto · O'chirish: /avto stop`);
+  }
+
+  if ((cmd === "/boshla" || cmd === "/mavzu") && msg.chat.type !== "private") {
+    if (!(await isAdmin(env, msg))) return;
+    return showMain(env, chat_id, null, null);
   }
 
   if (cmd === "/stop") {
@@ -759,6 +792,7 @@ export default {
       await tg(env, "setMyCommands", {
         commands: [
           { command: "menyu", description: "📚 Testlar katalogi (mavzular bo'yicha)" },
+          { command: "boshla", description: "Guruhda mavzu tanlab viktorina boshlash" },
           { command: "quiz", description: "Viktorinani boshlash: /quiz nomi" },
           { command: "stop", description: "To'xtatish va natija" },
           { command: "natija", description: "Joriy natijalar" },
