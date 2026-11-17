@@ -1,0 +1,336 @@
+{
+ "title": "Attestatsiya 3 (Tarix + Metodika)",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Amir Shohmurodning Buxoro taxtini egallashi mamlakat uchun qanday ahamiyat kasb etdi?\n1. Uning davrida Buxoroda Mir Arab madrasasi bunyod etilib, yoshlarning ta’lim olishlariga keng yo‘l ochib beradi.\n2. Urug‘larning isyon chiqarishlariga barham berish maqsadida Zarafshon vohasida egallanmagan ko‘plab yerlarni tekinga beradi.\n3. Qo‘shinni qayta tuzib, amirlashkar lavozimini joriy qiladi.\n4. Aholisi kamayib, qishloq darajasiga tushib qolgan Samarqand qayta quriladi.",
+   "options": [
+    "2, 3",
+    "2, 4",
+    "1, 4",
+    "1, 3"
+   ],
+   "answer": 1,
+   "explanation": "Shohmurod Zarafshon vohasidagi bo‘sh yerlarni tekinga bo‘lib berib, urug‘lar isyonining oldini olgan va Samarqandni qayta qurdirgan. Mir Arab madrasasi XVI asrda (shayboniylar davrida) qurilgan."
+  },
+  {
+   "q": "1917-yilda Qo‘qon shahrida bo‘lib o‘tgan Butunturkiston o‘lka musulmonlarining favqulodda IV qurultoyi o‘lka siyosatida qanday o‘zgarishga olib keldi?",
+   "options": [
+    "Turkiston Muxtoriyati tashkil topdi",
+    "Polvonniyoz Yusupov raisligida Xalq Komissarlari Soveti tuzildi",
+    "Barcha vaqf mulklari maorif nozirligi ixtiyoriga berildi",
+    "XXSRning muvaqqat konstitutsiyasi qabul qilindi"
+   ],
+   "answer": 0,
+   "explanation": "1917-yil 27-noyabrda IV qurultoyda Turkiston Muxtoriyati e’lon qilingan; u 1918-yil fevralda bolsheviklar tomonidan qonga botirilgan."
+  },
+  {
+   "q": "Xronologik ketma-ketlik nomuvofiq berilgan javobni aniqlang.",
+   "options": [
+    "Navuxodonosorning Yangi Bobil podshosi bo‘lishi – Kir II tomonidan Midiya egallanishi – Makedoniyalik Aleksandrning sharqqa yurish boshlashi",
+    "Isroil podsholigining vujudga kelishi – Urartu davlatining gullab-yashnashi – Ossuriyaning zavolga yuz tutishi",
+    "Rim imperiyasining kuch-qudrati zaiflasha boshlashi – Vizantiy shahri Rim imperiyasining poytaxti deb e’lon qilinishi – gotlarning Rimga hujumi",
+    "Buyuk Xitoy devorining dastlabki qismlari qurila boshlanishi – Shan davlatining tashkil topishi – «ko‘p podsholiklar davri»"
+   ],
+   "answer": 3,
+   "explanation": "Shan (In) davlati mil. avv. II ming yillikda tashkil topgan – Buyuk Xitoy devori qurilishidan ancha oldin. Shuning uchun bu zanjirda tartib buzilgan."
+  },
+  {
+   "q": "Ma’lumotlar xronologik to‘g‘ri joylashgan javobni aniqlang.\n1. Maydanak rasadxonasida Quyosh tizimidagi yangi kichik sayyora (asteroid) aniqlandi.\n2. UNESCO tomonidan “Bag‘rikenglik tamoyillari deklaratsiyasi” qabul qilindi.\n3. Respublika baynalmilal madaniyat markazi tashkil etildi.\n4. “El-yurt umidi” jamg‘armasi tashkil etildi.",
+   "options": [
+    "3, 2, 4, 1",
+    "4, 3, 2, 1",
+    "2, 1, 4, 3",
+    "3, 2, 1, 4"
+   ],
+   "answer": 3,
+   "explanation": "1992 – Baynalmilal madaniyat markazi; 1995 – YUNESKOning bag‘rikenglik tamoyillari deklaratsiyasi; 2007 – Maydanakda yangi kichik sayyora; 2018 – «Ma’rifat va diniy bag‘rikenglik» rezolyutsiyasi."
+  },
+  {
+   "q": "«Mustaqillik yillarida O‘zbekistonning tashqi aloqalari va xalqaro hamkorligi» mavzusidagi tok-shouda berilgan ma’lumotlarning to‘g‘ri yoki noto‘g‘riligini aniqlang.\n1. O‘zbekistonda Janubiy Koreyaning «VolksWagen», «Siemens», «Knauf» kabi yetakchi kompaniyalari faoliyat olib bormoqda\n2. 2018-yil Qozog‘istonda «O‘zbekiston yili», 2019-yil O‘zbekistonda «Qozog‘iston yili» deb e’lon qilindi\n3. O‘zbekiston va Turkiya o‘rtasidagi munosabatlar natijasida Samarqandda «SamKochAvto» qo‘shma korxonasi ishga tushirildi\n4. O‘zbekiston 1993-yilda UNESCO a’zoligiga qabul qilindi\n5. 2021-yili Urganch shahrida «O‘zbek-turkman do‘stlik uyi» ochildi",
+   "options": [
+    "2, 3, 4 – to‘g‘ri; 1, 5 – noto‘g‘ri",
+    "1, 2, 5 – to‘g‘ri; 3, 4 – noto‘g‘ri",
+    "1, 3, 4 – to‘g‘ri; 2, 5 – noto‘g‘ri",
+    "3, 4, 5 – to‘g‘ri; 1, 2 – noto‘g‘ri"
+   ],
+   "answer": 0,
+   "explanation": "1-band xato: «VolksWagen», «Siemens», «Knauf» – Germaniya kompaniyalari. 2 (2018 – Qozog‘istonda «O‘zbekiston yili», 2019 – O‘zbekistonda «Qozog‘iston yili»), 3 (Turkiya bilan «SamKochAvto») va 4 (…"
+  },
+  {
+   "q": "2018-yilda Armanistonda yuz bergan “Baxmal inqilobi”dan keyin mamlakat siyosiy hayotida qanday o‘zgarish yuz berdi?",
+   "options": [
+    "Armaniston Kollektiv xavfsizlik shartnomasi tashkilotidan chiqdi.",
+    "Gruziya ushbu davlatning mintaqadagi yagona ittifoqchisiga aylandi.",
+    "Hokimiyatga muxolifat yetakchisi Nikol Pashinyan keldi.",
+    "Armaniston Mustaqil Davlatlar Hamdo‘stligidagi a’zoligini tugatdi."
+   ],
+   "answer": 2,
+   "explanation": "«Baxmal inqilob» natijasida Serj Sargsyan iste’foga chiqib, 2018-yil mayda Nikol Pashinyan bosh vazir bo‘lgan."
+  },
+  {
+   "q": "Qirol Taejong (van Txejon) davrida saroy tashqarisiga «katta no‘g‘ora» qanday maqsadda o‘rnatilgan?",
+   "options": [
+    "Koreyani Xitoy vassalligidan ozod qilishga qaratilgan xalq murojaatlarini hukmdorga yetkazish uchun",
+    "Aholini ro‘yxatga olish tizimini joriy etish va bu jarayon ustidan nazoratni kuchaytirish uchun",
+    "«Poyloqchilik manzillari» ustidan nazoratni kuchaytirish va tartibni ta’minlash uchun",
+    "Amaldorlarning suiiste’mollari yoki nojo‘ya xatti-harakatlari haqida xabar berish imkonini yaratish uchun"
+   ],
+   "answer": 3,
+   "explanation": "Taejong (XV asr boshi, Li sulolasi) saroy oldiga no‘g‘ora o‘rnatib, oddiy aholiga amaldorlar ustidan to‘g‘ridan-to‘g‘ri shikoyat qilish imkonini bergan;"
+  },
+  {
+   "q": "Afinadagi «Xalq majlisi» faoliyatiga oid to‘g‘ri ma’lumotni toping.",
+   "options": [
+    "Yangi qonunlarni tasdiqlagan, eski qonunlarni bekor qilgan, armiyaga mablag‘ ajratish kabi muhim masalalar bo‘yicha qarorlar qabul qilgan",
+    "Diniy marosimlarni tashkil qilar, bayramlar taqvimini belgilab berar hamda ibodatxonalar faoliyatini boshqargan",
+    "Mansabdor shaxslarni saylab, davlat amaldorlarining faoliyatini nazorat qilgan hamda plebeylar shikoyatlarini ko‘rib chiqqan",
+    "Harbiy qo‘shinlarni boshqargan, davlat xazinasini nazorat qilgan hamda ilotlarni sud qilgan"
+   ],
+   "answer": 0,
+   "explanation": "Xalq majlisi – Afina demokratiyasining oliy organi. Chalg‘ituvchilarda boshqa davlatlarga xos atamalar bor: plebeylar – Rim, ilotlar – Sparta."
+  },
+  {
+   "q": "Mang‘itlar lashkarini Qo‘qon hududidan haydashda ishtirok etgan qipchoqlarga oliy mansablar tegmay qoldi. Muhammadyusuf ham qipchoqlarga qarshi xatti- harakatlarni boshladi. Bunday vaziyatda qipchoqlar qanday yo‘l tutdilar?",
+   "options": [
+    "Sulton Mahmudning Qo‘qon taxtini egallashiga yordam berdilar",
+    "Andijon va Shahrixonga borib qo‘shin yig‘dilar",
+    "Sarimsoqbek huzuriga muzokara uchun o‘z elchisini yubordilar",
+    "Rossiyadan yordam so‘rab, To‘raqul qushbegi boshchiligida elchi yubordilar"
+   ],
+   "answer": 1,
+   "explanation": "Oliy mansab olmagan qipchoqlar Andijon va Shahrixonda qo‘shin to‘plagan; muzokaradan so‘ng ularning talabi bilan Muhammadyusuf mingboshilikdan chetlatilgan."
+  },
+  {
+   "q": "Quyida berilgan tarixiy voqealar to‘g‘ri xronologik ketma-ketlikda joylashtirilgan javob variantini aniqlang.\n1. Manjurlar sardori Abaxay o‘z davlatiga Chin («Sin») deb nom berdi\n2. Kanada Buyuk Britaniya tarkibida dominion maqomiga ega bo‘ldi\n3. Maku shahri yaqinidagi Chaldiron tekisligida usmoniylar va safaviylar o‘rtasida jang bo‘lib o‘tdi\n4. Sennar sultonligi tashkil topdi",
+   "options": [
+    "4, 3, 1, 2",
+    "2, 4, 1, 3",
+    "3, 1, 2, 4",
+    "1, 3, 2, 4"
+   ],
+   "answer": 0,
+   "explanation": "Sennar sultonligi – 1504; Chaldiron jangi – 1514; Abaxay davlatiga Sin (Chin) nomini bergan – 1636; Kanada dominion maqomini olgan – 1867."
+  },
+  {
+   "q": "Kasb standartining «O‘zlashtirishni baholash va qayta aloqani taqdim etish» mehnat vazifasiga tegishli harakatlarni aniqlang.\n1. O‘quvchilar yutuqlarini xolisona baholash uchun aniq mezonlarni ishlab chiqish\n2. Dars rejasi va usullarini moslashtirishda tahlil natijalaridan foydalanish\n3. O‘quvchilarning individual ta’lim ehtiyojlaridan kelib chiqib, o‘z vaqtida differensial yordam berish\n4. O‘quvchilar ta’lim jarayonida to‘qnashgan qiyinchiliklarni kuzatish va qayd etish\n5. O‘quvchilar jamoasida sog‘lom ijtimoiy-psixologik muhitni qo‘llab-quvvatlash",
+   "options": [
+    "2, 4, 5",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 3, 5"
+   ],
+   "answer": 1,
+   "explanation": "A/03.6 ga baholash mezonlarini ishlab chiqish, tahlil natijalaridan dars rejasini moslashtirishda foydalanish va qiyinchiliklarni kuzatib qayd etish kiradi."
+  },
+  {
+   "q": "O‘qituvchi har bir sinfda o‘quvchilarning individual imkoniyatlari va maxsus ehtiyojlarini hisobga olib, tushunarli va aniq ishchi ko‘rsatmalar beradi, o‘quvchilar faoliyatini tartibga soladi va har birining jarayonga jalb etilishini ta’minlaydi. Bu qaysi mehnat vazifasi doirasiga kiradi?",
+   "options": [
+    "Ta’lim samaradorligini ta’minlash va ta’lim dasturlarini amalga oshirish",
+    "O‘quvchilarning o‘zlashtirishini baholash va qayta aloqani taqdim etish",
+    "Xavfsiz rivojlantiruvchi ta’lim muhitini yaratish va ta’minlash",
+    "O‘quv jarayonini rejalashtirish va ta’lim faoliyatini tashkil etish"
+   ],
+   "answer": 0,
+   "explanation": "Dars jarayonida ko‘rsatma berish, faoliyatni boshqarish va har bir o‘quvchini jalb etish – darsni o‘tkazish bosqichidagi harakatlar, ya’ni A/02.6."
+  },
+  {
+   "q": "O‘qituvchi o‘quvchilarga turli manbalardagi ma’lumotlarni taqqoslash topshirig‘ini berib, xulosani dalilsiz qabul qilayotganlardan ma’lumotning kelib chiqishi va ishonchliligi haqida fikr yuritishni so‘radi, xulosalarni dalil bilan himoya qilishga yo‘naltirdi. Qaysi «Zarur ko‘nikma» namoyon bo‘ldi?",
+   "options": [
+    "Ta’lim samaradorligini ta’minlashda axborot-kommunikatsiya texnologiyalaridan foydalanish",
+    "O‘quvchilarga individual ta’lim ehtiyojlaridan kelib chiqib, o‘z vaqtida differensial yordam berish",
+    "O‘quvchilar erkin rivojlanishlari va o‘zlarini namoyon eta olishlari uchun o‘zaro hurmat muhitini yaratish",
+    "O‘quvchilarda fuqarolik kompetensiyalari va media savodxonligi ko‘nikmalarini shakllantirish"
+   ],
+   "answer": 3,
+   "explanation": "Signal so‘zlar: «manbalarni taqqoslash», «ma’lumotning kelib chiqishi va ishonchliligi», «dalil bilan himoya qilish» – bu media savodxonligi va tanqidiy fikrlashni shakllantirishdir."
+  },
+  {
+   "q": "O‘qituvchi «O‘rta asr shaharlari» darsida topshiriq tartibini tushunmayotgan va guruh ishida kam qatnashayotgan (jumladan, maxsus ehtiyojli) o‘quvchilarga mos tushunarli ko‘rsatmalar berdi, topshiriqlarni imkoniyatlariga moslashtirdi va barchani faol qatnashishga yo‘naltirdi. Bu qaysi mehnat vazifasiga tegishli?",
+   "options": [
+    "O‘zlashtirishni baholash va qayta aloqani taqdim etish",
+    "Xavfsiz rivojlantiruvchi ta’lim muhitini yaratish va ta’minlash",
+    "O‘quv jarayonini samarali va tizimli rejalashtirish",
+    "Ta’lim samaradorligini ta’minlash va dasturlarni amalga oshirish"
+   ],
+   "answer": 3,
+   "explanation": "Dars davomida ko‘rsatmalarni moslashtirish, differensial yondashuv va faol ishtirokni ta’minlash – A/02.6. Chalg‘ituvchi – A/05.6: u xavfsiz va inklyuziv muhitning o‘zini yaratish haqida."
+  },
+  {
+   "q": "Kasb standartining «O‘zlashtirishni baholash va qayta aloqani taqdim etish» mehnat vazifasiga tegishli harakatlarni aniqlang.\n1. O‘quvchilarning mavzuni egallash darajasini muntazam aniqlab borish\n2. Dars vaqtini oqilona boshqarish va o‘quvchilar ishini tashkil etish\n3. Fanlararo kompetensiyalarni fanga singdirish va fanlararo bog‘lanishni ta’minlash\n4. O‘quvchilarning ta’lim jarayonidagi qiyinchiliklarini kuzatish va qayd etish\n5. Ayrim o‘quvchilarning ta’lim olishdagi qiyinchiliklari bo‘yicha mutaxassislar bilan maslahatlashish",
+   "options": [
+    "2, 3, 4, 5",
+    "1, 4, 5",
+    "1, 2, 3, 4",
+    "2, 3, 5"
+   ],
+   "answer": 1,
+   "explanation": "A/03.6: egallash darajasini muntazam aniqlash, qiyinchiliklarni kuzatib qayd etish va ular bo‘yicha mutaxassislar bilan maslahatlashish."
+  },
+  {
+   "q": "Ta’lim mazmunini ilmiy bilimlar va zamonaviy ilmiy taraqqiyot bilan uyg‘unlashtirishga xizmat qiluvchi jihatlarni aniqlang.\n1. Bilimlarni ilmiy tadqiqotlar orqali olingan ishonchli ma’lumotlarga asoslanib berish\n2. Bilim berish sur’atini o‘quvchilarning yoshiga moslashtirish\n3. Berilayotgan bilimlarning zamonaviy ilmiy-taraqqiyot darajasiga mosligini ta’minlash\n4. Ko‘rgazmadan to‘g‘ri tasavvur hosil qilish vositasi sifatida foydalanish\n5. O‘quv fanining ichki mantiqini ochib berishga intilish\n6. O‘quvchilarning olgan bilimlarini hayotiy vaziyatlarda sinab ko‘rishini tashkil etish",
+   "options": [
+    "2, 4, 5",
+    "1, 4, 6",
+    "1, 3, 5",
+    "2, 3, 6"
+   ],
+   "answer": 2,
+   "explanation": "Bu – ilmiylik tamoyili: ishonchli ilmiy ma’lumotga tayanish, zamonaviy fan darajasiga moslik, fanning ichki mantiqini ochish."
+  },
+  {
+   "q": "Didaktikaning tushunarlilik tamoyiliga xos talablarni aniqlang.\n1. Bilimni o‘quvchining yoshiga mos holda berish\n2. O‘quv materialini mantiqiy tugallangan bo‘laklarga ajratish\n3. Bilim berishda o‘quvchining tayyorgarlik darajasini hisobga olish\n4. O‘qitishda izlanuvchanlik hissiyotini rivojlantirish\n5. Bilim berish sur’atini o‘quvchilarning imkoniyatlariga moslashtirish\n6. Maktabning ishlab chiqarish bilan bog‘liqligini amalda ko‘rsatish",
+   "options": [
+    "1, 4, 6",
+    "1, 3, 5",
+    "2, 3, 6",
+    "2, 4, 5"
+   ],
+   "answer": 1,
+   "explanation": "Tushunarlilik – bilimni o‘quvchining yoshiga, tayyorgarlik darajasiga va imkoniyatlariga (sur’atiga) moslab berish."
+  },
+  {
+   "q": "Darsga qo‘yiladigan talablarni ularga mos pedagogik faoliyatlar bilan moslashtiring (bitta tavsif ortiqcha): 1. Didaktik talablar; 2. Psixologik talablar; 3.\nGigiyenik talablar.\na) O‘qituvchi dars davomida o‘quvchilarda halollik va mas’uliyatlilik fazilatlarini shakllantirishga e’tibor qaratadi\nb) O‘qituvchi o‘quvchilarning yosh xususiyatlarini hisobga olib, ularga individual yondashadi\nc) O‘qituvchi xonani o‘z vaqtida shamollatib, toliqishni kamaytiruvchi jismoniy daqiqalarni tashkil etadi\nd) O‘qituvchi dars maqsadi va o‘quvchilarning tayyorgarligiga mos metodlarni tanlaydi",
+   "options": [
+    "1–d, 2–b, 3–c",
+    "1–d, 2–c, 3–b",
+    "1–b, 2–d, 3–a",
+    "1–a, 2–c, 3–d"
+   ],
+   "answer": 0,
+   "explanation": "Didaktik – maqsad va tayyorgarlikka mos metod tanlash; psixologik – yosh xususiyatlarini hisobga olib individual yondashish; gigiyenik – xonani shamollatish, jismoniy daqiqalar."
+  },
+  {
+   "q": "Darsga qo‘yiladigan talablar va ularga mos pedagogik faoliyatlarni birlashtiring:\n1. Tashkiliy talablar; 2. Psixologik talablar; 3. Gigiyenik talablar.\na) O‘qituvchi dars davomida o‘quvchilarning faolligi va mas’uliyatlilik hislatlarini shakllantirishga e’tibor qaratadi\nb) O‘quvchilar o‘zlashtirishining yosh xususiyatlarini hisobga olib, ularga individual yondashadi\nc) O‘qituvchi muammo va vazifalarni aniqlashda o‘quvchilarning rivojlanish darajasidagi o‘ziga xos jihatlarini tahlil etadi\nd) O‘qituvchi dars maqsadi va o‘quvchilarning tayyorgarligiga mos metodlarni tanlaydi",
+   "options": [
+    "1-d, 2-c, 3-b",
+    "1-b, 2-d, 3-a",
+    "1-d, 2-b, 3-c",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 0,
+   "explanation": "⚠ Bu savol bandlari to‘liq eslanmagan bo‘lishi mumkin: oldingi savolda «yosh xususiyatlarini hisobga olib individual yondashish» psixologik talab sifatida berilgan, bu yerda esa manba kaliti uni gi…"
+  },
+  {
+   "q": "O‘qituvchi tanlovga qatnashadigan o‘quvchilarni aniqlash uchun ularning bir xil topshiriq bo‘yicha natijalarini ko‘rib chiqib, eng yuqori natija ko‘rsatganlarni tanlab oldi. Natijalarni baholashning qaysi yondashuvi qo‘llangan?",
+   "options": [
+    "Ipsativ baholash",
+    "An’anaviy baholash",
+    "Nisbiy baholash",
+    "Diagnostik baholash"
+   ],
+   "answer": 2,
+   "explanation": "O‘quvchilar natijalari bir-biri bilan solishtirilib, reyting bo‘yicha tanlangan – bu nisbiy (normativ) baholash."
+  },
+  {
+   "q": "O‘quvchilar Rossiya imperiyasining O‘rta Osiyoni bosib olishiga oid janglar ketma-ketligini to‘g‘ri aytib berishdi, biroq xonliklar mag‘lubiyatining sabablarini izohlashda qiynalishdi. Qiyinchilikni bartaraf etish uchun eng maqbul yondashuvni aniqlang.",
+   "options": [
+    "Tarixiy manbalarni taqqoslash orqali mag‘lubiyatning siyosiy, iqtisodiy va harbiy sabablarini tahlil qildirish",
+    "Voqealarni xronologik tartibda joylashtirish orqali bosqinchilik jarayonining izchilligini mustahkamlash",
+    "Tarixiy xaritalarni taqqoslash orqali bosib olingan hududlar va yurishlar yo‘nalishini aniqlatish",
+    "Tarixiy shaxslar faoliyatini taqqoslash orqali ularning yurishlardagi ishtirokini aniqlatish"
+   ],
+   "answer": 0,
+   "explanation": "Muammo xronologiyada emas, sabab-oqibatni tushunishda – shuning uchun aynan sabablarni manbalar asosida tahlil qilishga yo‘naltirilgan topshiriq kerak."
+  },
+  {
+   "q": "Tarix o‘qituvchisi «Industrial sivilizatsiyaning qaror topishi» darsida XIX asr oxiridagi texnik ixtirolarni tushuntirdi. O‘quvchilar ixtirolarni sanab berdi, ammo ularning sanoat rivojiga ta’sirini izohlashda qiynaldi. Eng samarali metodik yondashuvni aniqlang.",
+   "options": [
+    "Ixtirolar sanalarini xronologik ketma-ketlikda joylashtirishni mashq qildirish",
+    "Ixtirochilar ismlarini ular yaratgan qurilmalar bilan moslashtirishni mashq qildirish",
+    "Texnik ixtirolarning ishlab chiqarish jarayonlariga ta’sirini dalillar asosida tahlil qildirish",
+    "Ixtirolar yaratilgan mamlakatlarni tarixiy xaritadan topishni mashq qildirish"
+   ],
+   "answer": 2,
+   "explanation": "Oldingi savol bilan bir xil mantiq: bilish darajasi yetarli, qiyinchilik ta’sirni tushuntirishda – demak, tahlilga (sabab-oqibat) yo‘naltirilgan topshiriq kerak."
+  },
+  {
+   "q": "Pedagogikaning nazariy vazifa darajalari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+   "options": [
+    "Ta’lim berish, tarbiyalash, rivojlantirish",
+    "Rejalashtirish, tashkil etish, nazorat qilish",
+    "Tavsiflash, diagnostik, prognostik",
+    "Kuzatish, suhbat, tajriba o‘tkazish"
+   ],
+   "answer": 2,
+   "explanation": "Pedagogikaning nazariy vazifasi uch darajada amalga oshadi: tavsiflash (ilg‘or tajribani o‘rganish), diagnostik (pedagogik hodisalar holati va sabablarini aniqlash) va prognostik (rivojlanishni old…"
+  },
+  {
+   "q": "Pedagogika fanining vazifalari uning predmetiga ko‘ra qanday asosiy turlarga ajratiladi?",
+   "options": [
+    "Tashkiliy va boshqaruv vazifalari",
+    "Tarbiyaviy va psixologik vazifalar",
+    "Nazariy va texnologik vazifalar",
+    "Ilmiy va uslubiy vazifalar"
+   ],
+   "answer": 2,
+   "explanation": "Pedagogika vazifalari ikki guruhga bo‘linadi: nazariy (tavsiflash, diagnostik, prognostik) va texnologik (loyihalash, o‘zgartiruvchi, refleksiv)."
+  },
+  {
+   "q": "O‘quvchilar Fransiya–Prussiya urushining oqibatlarini kuchli va kuchsiz tomonlari, imkoniyatlar va tahdidlar nuqtayi nazaridan tahlil qilib, natijani to‘rt qismli jadvalda aks ettirdilar. O‘qituvchi qaysi metoddan foydalangan?",
+   "options": [
+    "«Toj» metodi",
+    "SWOT-tahlil metodi",
+    "«Rezyume» metodi",
+    "«Munosabat» metodi"
+   ],
+   "answer": 1,
+   "explanation": "SWOT: S – kuchli tomonlar, W – kuchsiz tomonlar, O – imkoniyatlar, T – tahdidlar; to‘rt katakli jadval – metodning asosiy belgisi."
+  },
+  {
+   "q": "O‘qituvchi maktab hududini obodonlashtirish loyihasida o‘quvchilarga xarajatlarni hisoblash, chiqindilarni saralash va daraxtlarni parvarishlash ishlarini topshirdi. Ekologik tarbiya ustuvorligini qaysi mulohaza eng asosli ifodalaydi?",
+   "options": [
+    "O‘quvchilarning topshirilgan ishlarni puxta bajarishi va amaliy mehnat ko‘nikmalarini rivojlantirishi",
+    "O‘quvchilarning inson va tabiat o‘rtasidagi bog‘liqlikni anglashi hamda uni asrash ko‘nikmalarini rivojlantirishi",
+    "O‘quvchilarning mablag‘larni tejashi va xarajatlarni oqilona rejalashtirish ko‘nikmalarini rivojlantirishi",
+    "O‘quvchilarning jamoa oldidagi mas’uliyatini anglashi va o‘zaro hurmat ko‘nikmalarini rivojlantirishi"
+   ],
+   "answer": 1,
+   "explanation": "Bir faoliyatda bir necha tarbiya turi bor: A – mehnat, C – iqtisodiy, D – axloqiy tarbiya. Ekologik tarbiyaning mohiyati – tabiatga ongli munosabat va uni asrash."
+  },
+  {
+   "q": "O‘qituvchi o‘quvchilarga tarixiy vaziyat bo‘yicha bir nechta muqobil yechimni taqdim etdi; o‘quvchilar har birining ishtirokchilar manfaatiga ta’siri va oqibatlarini tahlil qilib, dalil asosida eng maqbulini tanladi va tanlovini asosladi. Qaysi «Zarur ko‘nikma» namoyon bo‘ldi?",
+   "options": [
+    "O‘quvchilarning ehtiyojlari va qobiliyatlari bilan bog‘liq holda baholash usullarini shaxsga yo‘naltirish",
+    "O‘quvchining emotsional-qadriyatli sohasini rivojlantiradigan vaziyatlar va hodisalarni loyihalashtirish",
+    "O‘quvchining madaniy tafovutlari, jinsi va individual xususiyatlarini inobatga olgan holda qaror qabul qilish",
+    "O‘quvchilarga o‘zlarining asoslangan va mas’uliyatli qarorlarini qabul qilishlariga yordam berish"
+   ],
+   "answer": 3,
+   "explanation": "Signal so‘zlar: «muqobil yechimlar», «oqibatlarini tahlil», «dalil asosida tanlash va asoslash» – qaror qabul qilish ko‘nikmasi. C variantda qarorni o‘qituvchi qabul qiladi, bu yerda esa o‘quvchilar."
+  },
+  {
+   "q": "O‘qituvchi «Mustaqillik davri tarixi» mavzusida o‘quvchilarga turli manbalar asosida xulosa chiqarishni topshirdi; o‘quvchilar bir maqsadga birlashib, guruhlarda muhokama qilishdi, o‘qituvchi ularni hamkorlikka va mustaqil fikrlashga yo‘naltirdi.\nQaysi «Zarur ko‘nikma» namoyon bo‘ldi?",
+   "options": [
+    "Ta’lim samaradorligini o‘rganishda axborot-kommunikatsiya texnologiyalaridan foydalanish",
+    "O‘quvchilarga individual ta’lim ehtiyojlaridan kelib chiqib, o‘z vaqtida differensial yordam berish",
+    "O‘quvchilarda fuqarolik kompetensiyasi va media savodxonligi ko‘nikmalarini shakllantirish",
+    "O‘quvchilarning rivojlanishlari va o‘zlarini namoyon eta olishlari uchun o‘zaro hurmat muhitini yaratish"
+   ],
+   "answer": 3,
+   "explanation": "Bu yerda urg‘u manbalarning ishonchliligida emas (u holda C bo‘lardi), balki guruhdagi hamkorlik, erkin muhokama va o‘z fikrini namoyon etishda – o‘zaro hurmat muhiti."
+  },
+  {
+   "q": "O‘qituvchining «Tarbiyaviy faoliyatni tashkil etish» mehnat vazifasini bajarishi uchun talab qilinadigan «Zarur bilimlar» keltirilgan javobni ko‘rsating.",
+   "options": [
+    "O‘qitiladigan fan doirasida ta’lim standartlari va o‘quv-me’yoriy hujjatlar, uning tarixi, zamonaviy holati, rivojlanish istiqbollari va fandagi o‘rni",
+    "Ta’lim (pedagogik) jarayonining tuzilishi, nazariyasi, qonuniyatlari, tarbiya tamoyillari va faoliyat yuritish, ta’limning shaxs va jamiyat hayotidagi o‘rni va ahamiyati",
+    "Ta’lim muassasalarida mehnat gigiyenasi va texnika xavfsizligi qoidalari, bola huquqlari to‘g‘risidagi xalqaro konvensiya asoslari, ijtimoiy muloqot tamoyillari",
+    "O‘z-o‘zini baholash jarayoni, kuchli va kuchsiz tomonlarni aniqlash, individual rivojlanish rejasining xususiyatlari"
+   ],
+   "answer": 1,
+   "explanation": "Tarbiya tamoyillari va pedagogik jarayon qonuniyatlari – A/04.6 ning zarur bilimlari. A – fan bo‘yicha (A/01.6–A/02.6), C – xavfsiz muhit (A/05.6), D – o‘z-o‘zini rivojlantirish (B/01.6)."
+  },
+  {
+   "q": "O‘qituvchi o‘quvchilarning darslardagi past samaradorligiga e’tibor qaratib, ota- onalar va boshqa fan o‘qituvchilari bilan fikr almashdi; natijada o‘quvchilarning maqsad va qiziqishlarini hisobga olib, o‘quv dasturi mazmunini moslashtirish choralarini belgiladi. Qaysi mehnat vazifasi namoyon bo‘ldi?",
+   "options": [
+    "Tarbiyaviy faoliyatni tashkil etish va amalga oshirish",
+    "Hamkasblar va ta’lim oluvchilarning ota-onalari bilan hamkorlik",
+    "O‘quv jarayonini samarali va tizimli rejalashtirish",
+    "Xavfsiz rivojlantiruvchi ta’lim muhitini yaratish va ta’minlash"
+   ],
+   "answer": 2,
+   "explanation": "Ota-onalar bilan suhbat bu yerda vosita; vaziyatning natijasi – o‘quv dasturi mazmunini o‘quvchilar ehtiyojiga moslashtirish, ya’ni rejalashtirish (A/01.6)."
+  }
+ ]
+}

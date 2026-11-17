@@ -1,0 +1,83 @@
+{
+ "title": "Attestatsiya 4 (Tarix + Metodika)",
+ "time": 45,
+ "questions": [
+  {
+   "q": "O‘qituvchi metodik tadbirda hamkasblarining darsdagi yutuqlarini tahlil qildi, so‘ng ijobiy jihatlarini o‘z mashg‘ulotlarida qo‘llab, natijalarni tahlil etdi. Bu qaysi mehnat vazifasiga tegishli?",
+   "options": [
+    "O‘quv jarayonini tizimli rejalashtirish",
+    "Ta’lim samaradorligini o‘rganish",
+    "O‘z-o‘zini rivojlantirish va kasbiy o‘sish",
+    "O‘zlashtirishni baholash va qayta aloqa"
+   ],
+   "answer": 2,
+   "explanation": "Hamkasblar tajribasini o‘rganish, ilg‘or usullarni o‘z amaliyotiga tatbiq etish va o‘z natijasini tahlil qilish – B/01.6."
+  },
+  {
+   "q": "O‘qituvchi «Slavyanlar – eng qadimgi xalqlardan biri» mavzusini mustahkamlashda o‘quvchilarga savollar berib, javoblarni raqamli kartochkalarga yozishni va tezkorlik bilan javob berishni so‘radi. Qaysi metod qo‘llangan?",
+   "options": [
+    "«Teshik xat» o‘yin metodi",
+    "«Pichoqcha» metodi",
+    "«Xronokarta» metodi",
+    "«Muvofiqlashtiring» metodi"
+   ],
+   "answer": 1,
+   "explanation": "⚠ Manba bu metodni tezkor savol-javob (blits-so‘rov) usuli deb izohlagan; biz bu nomni biriktirilgan metodik qo‘llanmalarda tasdiqlay olmadik."
+  },
+  {
+   "q": "O‘qituvchi o‘quvchilarga fuqarolik tashkilotlarining huquqiy asoslari va inson huquqlari guruhlarining siyosiy jarayonlardagi ishtirokini o‘rganish, jamoatchilikning qaror qabul qilishdagi o‘rni haqida xulosa chiqarish vazifasini berdi. Bu tarbiyaning qaysi yo‘nalishiga asoslangan?",
+   "options": [
+    "Aqliy tarbiya",
+    "G‘oyaviy-siyosiy tarbiya",
+    "Huquqiy tarbiya, chunki fuqarolarning qonunlarda belgilangan huquq va majburiyatlariga oid bilimlari rivojlantirilmoqda",
+    "Axloqiy tarbiya"
+   ],
+   "answer": 2,
+   "explanation": "Signal so‘zlar: «huquqiy asoslar», «inson huquqlari», «qonunlar» – huquqiy tarbiya. (Asl testda har bir variantdan keyin izoh berilgan; bu yerda qisqartirildi.)"
+  },
+  {
+   "q": "O‘qituvchi yangi mavzuni tushuntirishda darslik bilan cheklanmay, diagrammalar, kompyuterda namoyish etilgan tasvirlar va ko‘rgazmali materiallardan foydalandi. Didaktikaning qaysi kategoriyasi namoyon bo‘ladi?",
+   "options": [
+    "Ta’lim shakllari",
+    "Ta’lim metodlari",
+    "Ta’lim vositalari",
+    "Ta’lim natijasi"
+   ],
+   "answer": 2,
+   "explanation": "Diagramma, kompyuter tasvirlari, ko‘rgazmali materiallar – bilim beriladigan «narsa»lar, ya’ni ta’lim vositalari."
+  },
+  {
+   "q": "Tarix o‘qituvchisi 1905–1907-yillardagi rus inqilobidan oldingi va keyingi siyosiy erkinliklar va mehnat sharoitlari aks etgan jadvalni berdi; o‘quvchilar ikki davrni taqqoslab, inqilob natijasidagi o‘zgarishlar haqida xulosa chiqardi. Qaysi ko‘nikma rivojlantirilmoqda?",
+   "options": [
+    "Tarixiy shaxslar faoliyatini tavsiflash va ularning tarixdagi o‘rnini belgilash",
+    "Voqealar sodir bo‘lgan hududlarni aniqlash va geografik o‘rnini izohlash",
+    "Voqealar sanalarini aniqlash va xronologik tartibga keltirish",
+    "Tarixiy jarayonlarni qiyosiy tahlil qilish va dalillar asosida xulosa chiqarish"
+   ],
+   "answer": 3,
+   "explanation": "«Oldingi va keyingi holatni taqqoslash» + «xulosa chiqarish» – qiyosiy tahlil ko‘nikmasi."
+  },
+  {
+   "q": "Pedagog o‘quvchilarga bir masala yuzasidan ikki xil fikrni taqdim etdi;\no‘quvchilar ularning o‘xshash va farqli jihatlarini aniqlab, dalillarni tekshirdilar va o‘z xulosalarini asosladilar. Qaysi didaktik tamoyil ustuvor qo‘llangan?",
+   "options": [
+    "Mustahkamlik tamoyili",
+    "Ko‘rgazmalilik tamoyili",
+    "Tushunarlilik tamoyili",
+    "Onglilik va faollik tamoyili"
+   ],
+   "answer": 3,
+   "explanation": "O‘quvchi bilimni tayyor holda qabul qilmay, dalillarni o‘zi tekshirib, mustaqil xulosa chiqaradi – onglilik va faollik tamoyili."
+  },
+  {
+   "q": "Pedagog yangi o‘quv yiliga tayyorgarlikda davlat ta’lim standartlari va o‘quv dasturiga asoslanib, o‘quvchilar o‘zlashtirishi lozim bo‘lgan bilimlar, tushunchalar, g‘oyalar hamda dunyoqarash va axloqiy fazilatlarga xizmat qiluvchi materiallarni belgiladi. U qaysi didaktik kategoriyani aniqlagan?",
+   "options": [
+    "Ta’lim vositalari",
+    "Ta’lim mazmuni",
+    "Bilim olish",
+    "Ta’lim metodlari"
+   ],
+   "answer": 1,
+   "explanation": "Nimani o‘qitish (bilim, ko‘nikma, g‘oya, qadriyatlar tizimi) – ta’lim mazmuni; u DTS va o‘quv dasturida belgilanadi."
+  }
+ ]
+}
