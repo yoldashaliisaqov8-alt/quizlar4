@@ -108,12 +108,24 @@ async function finish(env, s) {
     await addResult(env, s.chat_id, r.correct, s.total);
     const pct = Math.round((r.correct / s.total) * 100);
     const baho = pct >= 86 ? "🏆 A'lo!" : pct >= 71 ? "👍 Yaxshi!" : pct >= 56 ? "🙂 Qoniqarli" : "📖 Mavzuni yana takrorlang";
-    return send(env, s.chat_id,
-      `🏁 <b>«${esc(s.title)}» yakunlandi!</b>\n\n✅ To'g'ri javoblar: <b>${r.correct} / ${s.total}</b>\n📊 Natija: <b>${pct}%</b> — ${baho}`,
-      { reply_markup: { inline_keyboard: [
-        [{ text: "🔁 Qayta ishlash", callback_data: `q:${s.quiz_id}` }],
-        [{ text: "📚 Boshqa test tanlash", callback_data: "m" }],
-      ] } });
+    try { await saveResult(env, s, r.correct); } catch (e) { console.log("natija saqlash", e); }
+    const mc = await mistakeCount(env, s.chat_id).catch(() => 0);
+    const kb = [];
+    for (const row of [
+      [`🔁 Qayta ishlash`, s.quiz_id === "xatolar" ? "x" : `q:${s.quiz_id}`, s.quiz_id === "xatolar" ? "xato" : s.quiz_id],
+      ...(mc && s.quiz_id !== "xatolar" ? [[`🧩 Xatolar ustida ishlash (${mc})`, "x", "xato"]] : []),
+      [`📈 Natijalarim`, "r", "natija"],
+      [`📚 Boshqa test tanlash`, "m", "menu"],
+    ]) kb.push([await btn(env, s.chat_id, row[0], row[1], row[2])]);
+    await send(env, s.chat_id,
+      `🏁 <b>«${esc(s.title)}» yakunlandi!</b>\n\n✅ To'g'ri javoblar: <b>${r.correct} / ${s.total}</b>\n📊 Natija: <b>${pct}%</b> — ${baho}` +
+      (s.quiz_id === "xatolar" ? `\n\n🧩 Qolgan xato savollar: <b>${mc}</b>` : ""),
+      { reply_markup: { inline_keyboard: kb } });
+    if (pct >= 70 && s.quiz_id !== "xatolar" && s.total >= 10) {
+      const user = await env.DB.prepare("SELECT name, username FROM users WHERE user_id=?").bind(s.chat_id).first().catch(() => null);
+      await sendCertificate(env, s, user ? { first_name: user.name, username: user.username } : null, r.correct, pct).catch((e) => console.log("sertifikat", e));
+    }
+    return;
   }
   const medals = ["🥇", "🥈", "🥉"];
   let t = `🏁 <b>«${esc(s.title)}» viktorinasi yakunlandi!</b>\n\n`;
@@ -132,31 +144,37 @@ async function finish(env, s) {
 
 
 // ---------- Testni boshlash ----------
+const QCACHE = new Map();
+async function fetchQuiz(env, name) {
+  const c = QCACHE.get(name);
+  if (c && Date.now() - c.t < 600000) return c.d;
+  const r = await fetch(new URL(name + ".json", env.QUIZ_BASE_URL).href + "?v=" + Math.floor(Date.now() / 600000));
+  if (!r.ok) throw new Error("topilmadi");
+  const d = await r.json();
+  QCACHE.set(name, { d, t: Date.now() });
+  return d;
+}
 async function startQuiz(env, chat_id, arg) {
   const cur = await env.DB.prepare("SELECT running FROM sessions WHERE chat_id=?").bind(chat_id).first();
   if (cur && cur.running) return "⏳ Viktorina davom etyapti. Avval /stop bosing.";
   let data;
-  try {
-    const r = await fetch(new URL(arg + ".json", env.QUIZ_BASE_URL).href + "?v=" + Date.now());
-    if (!r.ok) throw new Error("topilmadi");
-    data = await r.json();
-  } catch (e) {
-    return `❌ «${esc(arg)}» testi topilmadi yoki fayl xato.`;
-  }
+  try { data = await fetchQuiz(env, arg); } catch (e) { return `❌ «${esc(arg)}» testi topilmadi yoki fayl xato.`; }
   const qs = (data.questions || []).filter((q) => q.q && Array.isArray(q.options) && q.options.length >= 2);
   if (!qs.length) return "❌ Testda savol yo'q.";
   const time = Math.max(5, Math.min(600, parseInt(data.time) || 30));
-  const title = data.title || arg;
+  await startWithQuestions(env, chat_id, arg, data.title || arg, qs, time);
+  return null;
+}
+async function startWithQuestions(env, chat_id, quiz_id, title, qs, time) {
   const session_id = String(Date.now());
   await env.DB.prepare(
     "INSERT OR REPLACE INTO sessions (chat_id, session_id, quiz_id, title, idx, total, time, running, last_sent, questions) VALUES (?,?,?,?,0,?,?,1,?,?)"
-  ).bind(chat_id, session_id, arg, title, qs.length, time, Date.now(), JSON.stringify(qs)).run();
+  ).bind(chat_id, session_id, quiz_id, title, qs.length, time, Date.now(), JSON.stringify(qs)).run();
   await send(env, chat_id,
     `📝 <b>${esc(title)}</b>\n\n❓ ${qs.length} ta savol\n⏱ Har bir savolga ${time} soniya\n\nOmad! Birinchi savol hozir chiqadi 👇`);
   const s = await env.DB.prepare("SELECT * FROM sessions WHERE chat_id=?").bind(chat_id).first();
   await new Promise((r) => setTimeout(r, 2000));
   await sendQuestion(env, s, 0);
-  return null;
 }
 
 // ---------- Avtomatik viktorina ----------
@@ -230,6 +248,7 @@ async function showMain(env, chat_id, message_id, user) {
   const cnt = (g) => g.secs.reduce((a, id) => a + ((cat.sections.find((x) => x.id === id) || { tests: [] }).tests.length), 0);
   const kb = [];
   for (const g of cat.groups || []) kb.push([await btn(env, chat_id, `${g.icon} ${g.title} (${cnt(g)})`, `g:${g.id}`, `g_${g.id}`)]);
+  if (chat_id > 0) kb.push([await btn(env, chat_id, "📈 Natijalarim", "r", "natija"), await btn(env, chat_id, "🧩 Xatolarim", "x", "xato")]);
   const body = { chat_id, text: MAIN_TEXT, parse_mode: "HTML", reply_markup: { inline_keyboard: kb } };
   if (message_id) return tg(env, "editMessageText", { ...body, message_id });
   return tg(env, "sendMessage", body);
@@ -324,6 +343,8 @@ async function onCallback(env, cq) {
   const mid = cq.message.message_id;
   const user = chat.type === "private" ? cq.from : null;
   if (d === "m") return showMain(env, chat.id, mid, user);
+  if (d === "r" && chat.type === "private") return myResults(env, chat.id, cq.from);
+  if (d === "x" && chat.type === "private") return startMistakes(env, chat.id, cq.from);
   if (d.startsWith("g:")) return showGroup(env, chat.id, mid, d.slice(2), user);
   if (d.startsWith("s:")) { const [, id, pg] = d.split(":"); return showSection(env, chat.id, mid, id, +pg || 0, user); }
   if (d.startsWith("q:") && chat.type === "private") {
@@ -694,6 +715,7 @@ const ADMIN_KB = { inline_keyboard: [
   [{ text: "👥 A'zolar", callback_data: "a:azolar" }, { text: "🕒 Faollar", callback_data: "a:faollar" }],
   [{ text: "🏆 Reyting", callback_data: "a:reyting" }, { text: "📊 Excel", callback_data: "a:excel" }],
   [{ text: "📢 Hammaga xabar", callback_data: "a:xabar" }, { text: "📈 Hisobot", callback_data: "a:hisobot" }],
+  [{ text: "🏆 Haftalik reyting", callback_data: "a:haftalik" }],
   [{ text: "🔒 Parol", callback_data: "a:parol" }, { text: "📣 Obuna", callback_data: "a:obuna" }],
   [{ text: "📚 Testlar menyusi", callback_data: "a:menyu" }],
 ] };
@@ -709,9 +731,178 @@ async function adminAction(env, cq, act) {
   if (act === "excel") return excelCmd(env, chat);
   if (act === "xabar") return xabarCmd(env, chat);
   if (act === "hisobot") return dailyReport(env, chat);
+  if (act === "haftalik") return send(env, chat, (await weeklyText(env, null)) + "\n\n<i>Guruhlarga hoziroq yuborish: /haftalik yubor</i>");
   if (act === "parol") return parolCmd(env, fake, "/parol");
   if (act === "obuna") return obunaCmd(env, fake, "/obuna");
   if (act === "menyu") return showMain(env, chat, null, cq.from);
+}
+
+
+// ---------- O'quvchi: natijalar, xatolar, sertifikat, haftalik reyting ----------
+let LRN_OK = false;
+async function ensureLearn(env) {
+  if (LRN_OK) return;
+  LRN_OK = true;
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS results (id INTEGER PRIMARY KEY AUTOINCREMENT, user_id INTEGER, quiz_id TEXT, title TEXT, correct INTEGER, total INTEGER, at INTEGER)").run();
+  await env.DB.prepare("CREATE INDEX IF NOT EXISTS results_user ON results(user_id, at)").run();
+  await env.DB.prepare("CREATE INDEX IF NOT EXISTS results_at ON results(at)").run();
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS mistakes (user_id INTEGER, quiz_id TEXT, idx INTEGER, at INTEGER, PRIMARY KEY (user_id, quiz_id, idx))").run();
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS groups (chat_id INTEGER PRIMARY KEY, title TEXT, last_seen INTEGER)").run();
+}
+async function trackMistake(env, p, uid, ok) {
+  if (!(p.chat_id > 0 && p.chat_id === uid)) return;
+  await ensureLearn(env);
+  const s = await env.DB.prepare("SELECT session_id, quiz_id, questions FROM sessions WHERE chat_id=?").bind(p.chat_id).first();
+  if (!s || s.session_id !== p.session_id) return;
+  const q = (JSON.parse(s.questions) || [])[p.idx];
+  if (!q) return;
+  const [qid, qi] = q.src || [s.quiz_id, p.idx];
+  if (ok) await env.DB.prepare("DELETE FROM mistakes WHERE user_id=? AND quiz_id=? AND idx=?").bind(uid, qid, qi).run();
+  else await env.DB.prepare("INSERT OR REPLACE INTO mistakes (user_id, quiz_id, idx, at) VALUES (?,?,?,?)").bind(uid, qid, qi, Date.now()).run();
+}
+async function mistakeCount(env, uid) {
+  await ensureLearn(env);
+  const r = await env.DB.prepare("SELECT COUNT(*) n FROM mistakes WHERE user_id=?").bind(uid).first();
+  return r ? r.n : 0;
+}
+async function startMistakes(env, chat_id, user) {
+  if (user && !(await gate(env, user, chat_id, "*", "x"))) return;
+  await ensureLearn(env);
+  const { results } = await env.DB.prepare("SELECT quiz_id, idx FROM mistakes WHERE user_id=? ORDER BY at DESC LIMIT 80").bind(chat_id).all();
+  if (!results.length) return send(env, chat_id, "🎉 <b>Xatolaringiz yo'q!</b>\n\nTest ishlaganingizda xato qilgan savollaringiz shu yerga yig'iladi.", { reply_markup: { inline_keyboard: [[{ text: "📚 Testlar menyusi", callback_data: "m" }]] } });
+  const quizzes = [...new Set(results.map((r) => r.quiz_id))].slice(0, 8);
+  const qs = [];
+  for (const qid of quizzes) {
+    let d; try { d = await fetchQuiz(env, qid); } catch (e) { continue; }
+    for (const r of results.filter((x) => x.quiz_id === qid)) {
+      const q = (d.questions || [])[r.idx];
+      if (q) qs.push({ ...q, src: [qid, r.idx] });
+    }
+  }
+  if (!qs.length) return send(env, chat_id, "Xato savollar topilmadi.");
+  for (let i = qs.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [qs[i], qs[j]] = [qs[j], qs[i]]; }
+  await env.DB.prepare("UPDATE sessions SET running=0 WHERE chat_id=? AND running=1").bind(chat_id).run();
+  await startWithQuestions(env, chat_id, "xatolar", "🔁 Xatolar ustida ishlash", qs.slice(0, 30), 45);
+}
+async function saveResult(env, s, correct) {
+  await ensureLearn(env);
+  await env.DB.prepare("INSERT INTO results (user_id, quiz_id, title, correct, total, at) VALUES (?,?,?,?,?,?)")
+    .bind(s.chat_id, s.quiz_id, s.title, correct, s.total, Date.now()).run();
+}
+async function myResults(env, chat_id, user) {
+  await ensureLearn(env);
+  const { results } = await env.DB.prepare("SELECT quiz_id, title, correct, total, at FROM results WHERE user_id=? ORDER BY at DESC LIMIT 15").bind(chat_id).all();
+  const agg = await env.DB.prepare("SELECT COUNT(*) n, SUM(correct) c, SUM(total) t FROM results WHERE user_id=?").bind(chat_id).first();
+  const mc = await mistakeCount(env, chat_id);
+  const kb = [];
+  if (mc) kb.push([await btn(env, chat_id, `🔁 Xatolar ustida ishlash (${mc})`, "x", "xato")]);
+  kb.push([await btn(env, chat_id, "📚 Testlar menyusi", "m", "menu")]);
+  if (!results.length) return send(env, chat_id, "📈 <b>Natijalarim</b>\n\nHali test ishlamadingiz. Menyudan mavzuni tanlang 👇", { reply_markup: { inline_keyboard: kb } });
+  const avg = agg.t ? Math.round((agg.c / agg.t) * 100) : 0;
+  const ic = (p) => (p >= 86 ? "🏆" : p >= 70 ? "✅" : p >= 56 ? "🙂" : "📖");
+  const lines = results.map((r) => { const p = Math.round((r.correct / r.total) * 100); return `${ic(p)} <b>${p}%</b> — ${esc(r.title)} · ${r.correct}/${r.total} · ${fmtT(r.at).slice(5, 10).split("-").reverse().join(".")}`; });
+  return send(env, chat_id,
+    `📈 <b>Natijalarim</b>\n\n📝 Ishlangan testlar: <b>${agg.n}</b>\n🎯 O'rtacha natija: <b>${avg}%</b>\n🔁 Xato savollar: <b>${mc}</b>\n\n<b>Oxirgi natijalar:</b>\n${lines.join("\n")}`,
+    { reply_markup: { inline_keyboard: kb } });
+}
+
+// Sertifikat (SVG → wsrv.nl orqali PNG)
+const BOT_URL = (env) => env.BOT_URL || "https://quizbot.yoldashaliisaqov8.workers.dev";
+const b64u = (str) => btoa(unescape(encodeURIComponent(str))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+const unb64u = (b) => decodeURIComponent(escape(atob(b.replace(/-/g, "+").replace(/_/g, "/"))));
+async function sign(env, data) {
+  const h = await crypto.subtle.digest("SHA-256", new TextEncoder().encode((env.WEBHOOK_SECRET || "") + "|" + data));
+  return [...new Uint8Array(h)].slice(0, 8).map((b) => b.toString(16).padStart(2, "0")).join("");
+}
+const xml = (t) => String(t ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+function certSvg(c) {
+  const name = String(c.n || "").slice(0, 40);
+  const fs = name.length > 26 ? 64 : name.length > 18 ? 78 : 92;
+  const title = String(c.t || "").slice(0, 70);
+  const tfs = title.length > 50 ? 30 : 36;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1130" viewBox="0 0 1600 1130">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1730"/><stop offset="1" stop-color="#16305e"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b8892f"/><stop offset=".5" stop-color="#f3d58a"/><stop offset="1" stop-color="#b8892f"/></linearGradient>
+</defs>
+<rect width="1600" height="1130" fill="url(#bg)"/>
+<rect x="40" y="40" width="1520" height="1050" rx="28" fill="none" stroke="url(#gold)" stroke-width="6"/>
+<rect x="62" y="62" width="1476" height="1006" rx="20" fill="none" stroke="#d6aa4c" stroke-opacity=".45" stroke-width="2"/>
+<text x="800" y="170" text-anchor="middle" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="40" font-weight="bold" letter-spacing="10" fill="#d6aa4c">ISAKOV SCHOOL</text>
+<text x="800" y="290" text-anchor="middle" font-family="DejaVu Serif, Liberation Serif, serif" font-size="104" font-weight="bold" fill="#ffffff">SERTIFIKAT</text>
+<rect x="640" y="320" width="320" height="4" fill="url(#gold)"/>
+<text x="800" y="400" text-anchor="middle" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="32" fill="#c9d3e6">Ushbu sertifikat bilan taqdirlanadi</text>
+<text x="800" y="${500 + (92 - fs) / 3}" text-anchor="middle" font-family="DejaVu Serif, Liberation Serif, serif" font-size="${fs}" font-weight="bold" fill="url(#gold)">${xml(name)}</text>
+<text x="800" y="600" text-anchor="middle" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="30" fill="#c9d3e6">quyidagi testni muvaffaqiyatli topshirgani uchun:</text>
+<text x="800" y="660" text-anchor="middle" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="${tfs}" font-weight="bold" fill="#ffffff">«${xml(title)}»</text>
+<circle cx="800" cy="820" r="92" fill="#0b1730" stroke="url(#gold)" stroke-width="6"/>
+<text x="800" y="840" text-anchor="middle" font-family="DejaVu Serif, Liberation Serif, serif" font-size="66" font-weight="bold" fill="#f3d58a">${xml(c.p)}%</text>
+<text x="800" y="880" text-anchor="middle" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="24" fill="#c9d3e6">${xml(c.c)} / ${xml(c.q)}</text>
+<text x="270" y="980" text-anchor="middle" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="26" fill="#c9d3e6">Sana</text>
+<text x="270" y="1020" text-anchor="middle" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="30" font-weight="bold" fill="#ffffff">${xml(c.d)}</text>
+<text x="1330" y="980" text-anchor="middle" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="26" fill="#c9d3e6">Ustoz</text>
+<text x="1330" y="1020" text-anchor="middle" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="28" font-weight="bold" fill="#ffffff">Yo‘ldashali Isaqov</text>
+<text x="800" y="1040" text-anchor="middle" font-family="DejaVu Sans, Liberation Sans, sans-serif" font-size="24" fill="#d6aa4c">№ ${xml(c.id)} · t.me/yoldashaliisakov</text>
+</svg>`;
+}
+async function sendCertificate(env, s, user, correct, pct) {
+  const name = user ? ((user.first_name || "") + (user.last_name ? " " + user.last_name : "")).trim() || user.username || "O'quvchi" : "O'quvchi";
+  const c = { n: name, t: s.title, p: pct, c: correct, q: s.total, d: dayKey().split("-").reverse().join("."), id: "IS-" + dayKey().replace(/-/g, "").slice(2) + "-" + String(s.chat_id).slice(-4) + Math.floor(Math.random() * 90 + 10) };
+  const d = b64u(JSON.stringify(c));
+  const svgUrl = `${BOT_URL(env)}/sert.svg?d=${d}&s=${await sign(env, d)}`;
+  const png = `https://wsrv.nl/?url=${encodeURIComponent(svgUrl)}&output=png&w=1600`;
+  const u = await botUser(env);
+  const r = await tg(env, "sendPhoto", {
+    chat_id: s.chat_id, photo: png, protect_content: false, parse_mode: "HTML",
+    caption: `🎖 <b>Tabriklaymiz, ${esc(name)}!</b>\n\nSiz «${esc(s.title)}» testini <b>${pct}%</b> natija bilan topshirdingiz.\n\nSertifikatni do'stlaringizga ulashing! 👇`,
+    reply_markup: { inline_keyboard: [[{ text: "📚 Isakov school — bepul testlar", url: `https://t.me/${u}` }]] },
+  });
+  if (!r.ok) await send(env, s.chat_id, `🎖 Sertifikatingiz: ${svgUrl}`, { protect_content: false });
+}
+
+// Guruhlarni eslab qolish va haftalik reyting
+async function touchGroup(env, chat) {
+  await ensureLearn(env);
+  await env.DB.prepare("INSERT INTO groups (chat_id, title, last_seen) VALUES (?,?,?) ON CONFLICT(chat_id) DO UPDATE SET title=excluded.title, last_seen=excluded.last_seen")
+    .bind(chat.id, chat.title || "", Date.now()).run();
+}
+async function weeklyText(env, gid) {
+  await ensureLearn(env);
+  const since = Date.now() - 7 * 86400000;
+  const md = ["🥇", "🥈", "🥉"];
+  let t = `🏆 <b>HAFTA G'OLIBLARI</b>\n<i>${fmtT(since).slice(0, 10).split("-").reverse().join(".")} – ${dayKey().split("-").reverse().join(".")}</i>\n`;
+  if (gid) {
+    const { results } = await env.DB.prepare(
+      "SELECT user_id, MAX(name) name, SUM(correct) c, SUM(answered) a FROM scores WHERE chat_id=? AND session_id>=? GROUP BY user_id ORDER BY c DESC, a ASC LIMIT 10"
+    ).bind(gid, String(since)).all();
+    t += `\n🎯 <b>Guruh viktorinalari:</b>\n` + (results.length ? results.map((r, i) => `${md[i] || i + 1 + "."} ${esc(r.name || "—")} — <b>${r.c}</b> ta to'g'ri`).join("\n") : "Bu hafta guruhda viktorina bo'lmadi.") + "\n";
+  }
+  const { results: pr } = await env.DB.prepare(
+    "SELECT r.user_id, MAX(u.name) name, SUM(r.correct) c, COUNT(*) n FROM results r LEFT JOIN users u ON u.user_id=r.user_id WHERE r.at>=? GROUP BY r.user_id ORDER BY c DESC LIMIT 5"
+  ).bind(since).all();
+  if (pr.length) t += `\n🤖 <b>Botda eng ko'p ishlaganlar:</b>\n` + pr.map((r, i) => `${md[i] || i + 1 + "."} ${esc(r.name || "—")} — <b>${r.c}</b> ta to'g'ri (${r.n} test)`).join("\n") + "\n";
+  t += `\n👏 G'oliblarni tabriklaymiz! Keyingi haftada siz ham ro'yxatda bo'ling 💪`;
+  return t;
+}
+async function weeklyPost(env) {
+  await ensureLearn(env);
+  const u = await botUser(env);
+  const { results } = await env.DB.prepare("SELECT chat_id FROM groups WHERE last_seen>=?").bind(Date.now() - 30 * 86400000).all();
+  for (const g of results) {
+    await send(env, g.chat_id, await weeklyText(env, g.chat_id), { protect_content: false,
+      reply_markup: { inline_keyboard: [[{ text: "📚 Testlarni ishlash", url: `https://t.me/${u}?start=menu` }]] } });
+  }
+  return results.length;
+}
+async function weeklyTick(env) {
+  const now = new Date();
+  if (new Date(Date.now() + TZ).getUTCDay() !== 0 || now.getUTCHours() !== 15) return; // yakshanba 20:00
+  await ensureLock(env);
+  const r = await env.DB.prepare("SELECT v FROM settings WHERE k='weekly_day'").first();
+  if (r && r.v === dayKey()) return;
+  await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('weekly_day', ?)").bind(dayKey()).run();
+  const n = await weeklyPost(env);
+  await send(env, OWNER(env), `🏆 Haftalik reyting ${n} ta guruhga yuborildi.`);
 }
 
 // ---------- Adminmi? ----------
@@ -725,6 +916,7 @@ async function isAdmin(env, msg) {
 async function onMessage(env, msg) {
   const text = msg.text || "";
   if (msg.chat.type === "private" && msg.from) await touchUser(env, msg.from);
+  if ((msg.chat.type === "group" || msg.chat.type === "supergroup") && text.startsWith("/")) await touchGroup(env, msg.chat).catch(() => {});
   if (msg.chat.type === "private" && isOwner(env, msg)) {
     const t0 = (msg.text || "").trim().split(/\s+/)[0].split("@")[0].toLowerCase();
     if (t0 === "/bekor") { await ensureLock(env); await env.DB.prepare("DELETE FROM settings WHERE k='bc_wait'").run(); return send(env, msg.chat.id, "❌ Bekor qilindi."); }
@@ -739,6 +931,10 @@ async function onMessage(env, msg) {
     if (t0 === "/excel") return excelCmd(env, msg.chat.id);
     if (t0 === "/xabar") return xabarCmd(env, msg.chat.id);
     if (t0 === "/hisobot") return dailyReport(env, msg.chat.id);
+    if (t0 === "/haftalik") {
+      if ((msg.text || "").includes("yubor")) { const n = await weeklyPost(env); return send(env, msg.chat.id, `✅ Haftalik reyting ${n} ta guruhga yuborildi.`); }
+      return send(env, msg.chat.id, (await weeklyText(env, null)) + "\n\n<i>Guruhlarga hoziroq yuborish: /haftalik yubor (har yakshanba 20:00 da o'zi yuboriladi)</i>");
+    }
     if (t0 === "/admin" || t0 === "/panel") return adminPanel(env, msg.chat.id);
   }
   const fch = msg.forward_from_chat || (msg.forward_origin && msg.forward_origin.chat);
@@ -757,6 +953,8 @@ async function onMessage(env, msg) {
   const chat_id = msg.chat.id;
 
   if (cmd === "/start" && msg.chat.type === "private") {
+    if (arg === "natija") return myResults(env, chat_id, msg.from);
+    if (arg === "xato") return startMistakes(env, chat_id, msg.from);
     if (arg && arg.startsWith("g_")) return showGroup(env, chat_id, null, arg.slice(2), msg.from);
     if (arg && arg.startsWith("s_")) { const [id, pg] = arg.slice(2).split("_"); return showSection(env, chat_id, null, id, +pg || 0, msg.from); }
     if (arg && arg !== "menu" && /^[\w-]+$/.test(arg)) return startPrivate(env, chat_id, arg, msg.from);
@@ -828,6 +1026,9 @@ async function onMessage(env, msg) {
     return showMain(env, chat_id, null, null);
   }
 
+  if ((cmd === "/natijalarim" || cmd === "/natija") && msg.chat.type === "private") return myResults(env, chat_id, msg.from);
+  if ((cmd === "/xatolarim" || cmd === "/xatolar") && msg.chat.type === "private") return startMistakes(env, chat_id, msg.from);
+
   if (cmd === "/stop") {
     if (!(await isAdmin(env, msg))) return;
     const s = await env.DB.prepare("SELECT * FROM sessions WHERE chat_id=? AND running=1").bind(chat_id).first();
@@ -858,6 +1059,7 @@ async function onPollAnswer(env, pa) {
     `INSERT INTO scores (chat_id, session_id, user_id, name, correct, answered) VALUES (?,?,?,?,?,1)
      ON CONFLICT(chat_id, session_id, user_id) DO UPDATE SET correct=correct+excluded.correct, answered=answered+1, name=excluded.name`
   ).bind(p.chat_id, p.session_id, u.id, name, ok).run();
+  try { await trackMistake(env, p, u.id, ok); } catch (e) { console.log("xato yozish", e); }
 
   // Shaxsiy chatda (o'quvchi botni o'zi ochganda): javob berdi — 1 soniyadan keyin keyingi savol
   if (p.chat_id > 0 && p.chat_id === u.id) {
@@ -908,6 +1110,8 @@ export default {
       await tg(env, "setMyCommands", {
         commands: [
           { command: "menyu", description: "📚 Testlar katalogi (mavzular bo'yicha)" },
+          { command: "natijalarim", description: "📈 Mening natijalarim" },
+          { command: "xatolarim", description: "🧩 Xatolar ustida ishlash" },
           { command: "boshla", description: "Guruhda mavzu tanlab viktorina boshlash" },
           { command: "quiz", description: "Viktorinani boshlash: /quiz nomi" },
           { command: "stop", description: "To'xtatish va natija" },
@@ -923,6 +1127,7 @@ export default {
           { command: "menyu", description: "📚 Testlar menyusi" },
           { command: "azolar", description: "👥 A'zolar soni" },
           { command: "hisobot", description: "📈 Bugungi hisobot" },
+          { command: "haftalik", description: "🏆 Haftalik reyting" },
           { command: "xabar", description: "📢 Hammaga xabar" },
           { command: "excel", description: "📊 A'zolar jadvali" },
           { command: "reyting", description: "🏆 TOP-20" },
@@ -951,6 +1156,12 @@ export default {
         out.push("XATO: " + (e.stack || e));
       }
       return new Response(out.join("\n\n"), { headers: { "content-type": "text/plain; charset=utf-8" } });
+    }
+
+    if (url.pathname === "/sert.svg") {
+      const d = url.searchParams.get("d") || "", sg = url.searchParams.get("s") || "";
+      if (!d || sg !== (await sign(env, d))) return new Response("Sertifikat haqiqiy emas", { status: 403 });
+      return new Response(certSvg(JSON.parse(unb64u(d))), { headers: { "content-type": "image/svg+xml; charset=utf-8", "cache-control": "public, max-age=31536000" } });
     }
 
     if (url.pathname === "/webhook" && req.method === "POST") {
@@ -993,5 +1204,6 @@ export default {
     ctx.waitUntil(watchdog(env).catch((e) => alertOwner(env, "har daqiqalik tekshiruv", e)));
     ctx.waitUntil(autoTick(env).catch((e) => alertOwner(env, "avtomatik viktorina", e)));
     ctx.waitUntil(reportTick(env).catch((e) => alertOwner(env, "kunlik hisobot", e)));
+    ctx.waitUntil(weeklyTick(env).catch((e) => alertOwner(env, "haftalik reyting", e)));
   },
 };
