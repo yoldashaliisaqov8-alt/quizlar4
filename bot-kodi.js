@@ -159,7 +159,10 @@ async function startQuiz(env, chat_id, arg) {
 }
 
 // ---------- Avtomatik viktorina ----------
+let AUTO_OK = false;
 async function ensureAuto(env) {
+  if (AUTO_OK) return;
+  AUTO_OK = true;
   await env.DB.prepare(
     "CREATE TABLE IF NOT EXISTS auto (chat_id INTEGER PRIMARY KEY, interval_min INTEGER, list TEXT, pos INTEGER, next_at INTEGER)"
   ).run();
@@ -183,7 +186,7 @@ function expandList(parts) {
 async function autoTick(env) {
   await ensureAuto(env);
   const now = Date.now();
-  const { results } = await env.DB.prepare("SELECT * FROM auto WHERE next_at<=?").bind(now).all();
+  const { results } = await env.DB.prepare("SELECT chat_id, interval_min, list, pos, next_at FROM auto WHERE next_at<=?").bind(now).all();
   for (const a of results) {
     const busy = await env.DB.prepare("SELECT running FROM sessions WHERE chat_id=?").bind(a.chat_id).first();
     if (busy && busy.running) continue; // oldingi test tugashini kutamiz
@@ -344,15 +347,21 @@ async function nextTest(env, name) {
 
 // ---------- Parol bilan himoya ----------
 const OWNER = (env) => String(env.ADMIN_ID || "6806557484");
+let LOCK_OK = false;
 async function ensureLock(env) {
+  if (LOCK_OK) return;
+  LOCK_OK = true;
   await env.DB.prepare("CREATE TABLE IF NOT EXISTS settings (k TEXT PRIMARY KEY, v TEXT)").run();
   await env.DB.prepare("CREATE TABLE IF NOT EXISTS access (user_id INTEGER PRIMARY KEY, ver INTEGER, name TEXT, at INTEGER)").run();
   await env.DB.prepare("CREATE TABLE IF NOT EXISTS pending (user_id INTEGER PRIMARY KEY, target TEXT, tries INTEGER, until INTEGER)").run();
 }
+let LOCK_C = null, LOCK_T = 0;
 async function getLock(env) {
+  if (Date.now() - LOCK_T < 60000) return LOCK_C;
   await ensureLock(env);
   const r = await env.DB.prepare("SELECT v FROM settings WHERE k='lock'").first();
-  return r ? JSON.parse(r.v) : null; // {pw, ver, secs:[]}
+  LOCK_C = r ? JSON.parse(r.v) : null; LOCK_T = Date.now();
+  return LOCK_C; // {pw, ver, secs:[]}
 }
 async function sectionOf(env, name) {
   const cat = await catalog(env);
@@ -415,11 +424,11 @@ async function parolCmd(env, msg, text) {
       : "🔓 Parol o'chiq — testlar hamma uchun ochiq.\n\nYoqish: <code>/parol soz</code>\nFaqat ayrim bo'limlar: <code>/parol soz att attru hd</code>\n\nBo'lim kodlari: t6 t7u t7j t8u t8j t9u t9j att attru hd h8 h9 h10 h11");
   }
   if (parts[0].toLowerCase() === "off") {
-    L.pw = ""; await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('lock', ?)").bind(JSON.stringify(L)).run();
+    L.pw = ""; await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('lock', ?)").bind(JSON.stringify(L)).run(); LOCK_T = 0;
     return send(env, msg.chat.id, "🔓 Parol o'chirildi. Testlar hamma uchun ochiq.");
   }
   L = { pw: parts[0], ver: (L.ver || 0) + 1, secs: parts.slice(1) };
-  await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('lock', ?)").bind(JSON.stringify(L)).run();
+  await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('lock', ?)").bind(JSON.stringify(L)).run(); LOCK_T = 0;
   return send(env, msg.chat.id,
     `🔒 <b>Parol o'rnatildi:</b> <code>${esc(L.pw)}</code>\nYopiq: ${L.secs.length ? esc(L.secs.join(", ")) : "barcha testlar"}\n\nO'quvchilar endi shu parolni kiritib kiradi. Parolni almashtirsangiz, hamma yangisini qayta kiritadi.`);
 }
@@ -495,7 +504,10 @@ async function obunaCmd(env, msg, text) {
 const TZ = 5 * 3600000; // Toshkent
 const fmtT = (ts) => ts ? new Date(ts + TZ).toISOString().slice(0, 16).replace("T", " ") : "—";
 const dayStart = () => { const n = Date.now() + TZ; return n - (n % 86400000) - TZ; };
+let ENSU_OK = false;
 async function ensureUsers(env) {
+  if (ENSU_OK) return;
+  ENSU_OK = true;
   await env.DB.prepare("CREATE TABLE IF NOT EXISTS users (user_id INTEGER PRIMARY KEY, name TEXT, username TEXT, first_seen INTEGER, last_seen INTEGER, tests INTEGER DEFAULT 0, correct INTEGER DEFAULT 0, total INTEGER DEFAULT 0, blocked INTEGER DEFAULT 0)").run();
   await env.DB.prepare("CREATE TABLE IF NOT EXISTS bc (id INTEGER PRIMARY KEY, batches INTEGER, done INTEGER DEFAULT 0, sent INTEGER DEFAULT 0, blocked INTEGER DEFAULT 0, failed INTEGER DEFAULT 0, started INTEGER)").run();
   // Bir martalik: avval botdan foydalanganlarni ro'yxatga qo'shish
@@ -767,14 +779,23 @@ async function onPoll(env, poll) {
 }
 
 // ---------- Zaxira: har daqiqa tekshiradi, hech narsa qotib qolmaydi ----------
+let IDX_OK = false;
+async function ensureIndexes(env) {
+  if (IDX_OK) return;
+  await env.DB.prepare("CREATE INDEX IF NOT EXISTS sessions_running ON sessions(running)").run();
+  await env.DB.prepare("CREATE INDEX IF NOT EXISTS polls_sid ON polls(session_id)").run();
+  IDX_OK = true;
+}
 async function watchdog(env) {
+  await ensureIndexes(env);
   const now = Date.now();
-  const { results } = await env.DB.prepare("SELECT * FROM sessions WHERE running=1").all();
+  const { results } = await env.DB.prepare("SELECT chat_id, session_id, idx, time, last_sent FROM sessions WHERE running=1").all();
   for (const s of results) {
     if (now - s.last_sent > (s.time + 25) * 1000) await advance(env, s.chat_id, s.session_id, s.idx);
   }
-  // 3 kundan eski so'rovnomalarni tozalash
-  await env.DB.prepare("DELETE FROM polls WHERE CAST(session_id AS INTEGER) < ?").bind(now - 3 * 864e5).run();
+  // 3 kundan eski so'rovnomalarni tozalash — soatiga bir marta
+  if (new Date().getUTCMinutes() === 7)
+    await env.DB.prepare("DELETE FROM polls WHERE session_id < ?").bind(String(now - 3 * 864e5)).run();
 }
 
 export default {
