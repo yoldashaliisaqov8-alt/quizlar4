@@ -206,7 +206,8 @@ async function botUser(env) {
 }
 const MAIN_TEXT = "📚 <b>ISAKOV SCHOOL — testlar</b>\n\nBo'limni tanlang, so'ng mavzuni bosing — test shu yerda boshlanadi 👇";
 
-async function showMain(env, chat_id, message_id) {
+async function showMain(env, chat_id, message_id, user) {
+  if (user && !(await gate(env, user, chat_id, "*", "m"))) return;
   const cat = await catalog(env);
   const kb = [];
   cat.sections.forEach((sec, i) => {
@@ -218,7 +219,8 @@ async function showMain(env, chat_id, message_id) {
   return tg(env, "sendMessage", body);
 }
 
-async function showSection(env, chat_id, message_id, id, page) {
+async function showSection(env, chat_id, message_id, id, page, user) {
+  if (user && !(await gate(env, user, chat_id, id, `s:${id}:${page}`))) return;
   const cat = await catalog(env);
   const sec = cat.sections.find((x) => x.id === id);
   if (!sec) return showMain(env, chat_id, message_id);
@@ -265,7 +267,8 @@ async function postGroupMenu(env, chat_id) {
 }
 
 // Shaxsiy chatda oldingi testni jimgina yopib, yangisini boshlash
-async function startPrivate(env, chat_id, name) {
+async function startPrivate(env, chat_id, name, user) {
+  if (user && !(await gate(env, user, chat_id, (await sectionOf(env, name)) || "*", `q:${name}`))) return;
   await env.DB.prepare("UPDATE sessions SET running=0 WHERE chat_id=? AND running=1").bind(chat_id).run();
   const err = await startQuiz(env, chat_id, name);
   if (err) await send(env, chat_id, err);
@@ -277,12 +280,95 @@ async function onCallback(env, cq) {
   await tg(env, "answerCallbackQuery", { callback_query_id: cq.id });
   if (!chat) return;
   const mid = cq.message.message_id;
-  if (d === "m") return showMain(env, chat.id, mid);
-  if (d.startsWith("s:")) { const [, id, pg] = d.split(":"); return showSection(env, chat.id, mid, id, +pg || 0); }
+  const user = chat.type === "private" ? cq.from : null;
+  if (d === "m") return showMain(env, chat.id, mid, user);
+  if (d.startsWith("s:")) { const [, id, pg] = d.split(":"); return showSection(env, chat.id, mid, id, +pg || 0, user); }
   if (d.startsWith("q:") && chat.type === "private") {
     const name = d.slice(2);
-    if (/^[\w-]+$/.test(name)) return startPrivate(env, chat.id, name);
+    if (/^[\w-]+$/.test(name)) return startPrivate(env, chat.id, name, cq.from);
   }
+}
+
+
+// ---------- Parol bilan himoya ----------
+const OWNER = (env) => String(env.ADMIN_ID || "6806557484");
+async function ensureLock(env) {
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS settings (k TEXT PRIMARY KEY, v TEXT)").run();
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS access (user_id INTEGER PRIMARY KEY, ver INTEGER, name TEXT, at INTEGER)").run();
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS pending (user_id INTEGER PRIMARY KEY, target TEXT, tries INTEGER, until INTEGER)").run();
+}
+async function getLock(env) {
+  await ensureLock(env);
+  const r = await env.DB.prepare("SELECT v FROM settings WHERE k='lock'").first();
+  return r ? JSON.parse(r.v) : null; // {pw, ver, secs:[]}
+}
+async function sectionOf(env, name) {
+  const cat = await catalog(env);
+  const sec = cat.sections.find((x) => x.tests.some((t) => t.n === name));
+  return sec ? sec.id : null;
+}
+// true qaytarsa — davom etish mumkin; false — parol so'raldi
+async function gate(env, user, chat_id, secId, target) {
+  if (String(user.id) === OWNER(env)) return true;
+  const L = await getLock(env);
+  if (!L || !L.pw) return true;
+  if (L.secs && L.secs.length && secId !== "*" && !L.secs.includes(secId)) return true;
+  if (secId === "*" && L.secs && L.secs.length) return true; // faqat ayrim bo'limlar yopiq — menyu ochiq
+  const a = await env.DB.prepare("SELECT ver FROM access WHERE user_id=?").bind(user.id).first();
+  if (a && a.ver === L.ver) return true;
+  await env.DB.prepare(
+    "INSERT INTO pending (user_id, target, tries, until) VALUES (?,?,0,0) ON CONFLICT(user_id) DO UPDATE SET target=excluded.target"
+  ).bind(user.id, target).run();
+  await send(env, chat_id, "🔒 <b>Bu bo'lim parol bilan himoyalangan.</b>\n\nParolni shu yerga yozib yuboring 👇\n\n<i>Parolni olish uchun: @ustoztarix1</i>");
+  return false;
+}
+async function tryPassword(env, msg) {
+  const L = await getLock(env);
+  const pd = await env.DB.prepare("SELECT * FROM pending WHERE user_id=?").bind(msg.from.id).first();
+  if (!L || !L.pw || !pd) return false;
+  const now = Date.now();
+  if (pd.until > now) {
+    await send(env, msg.chat.id, `⏳ Juda ko'p noto'g'ri urinish. ${Math.ceil((pd.until - now) / 60000)} daqiqadan keyin qayta urinib ko'ring.`);
+    return true;
+  }
+  if (msg.text.trim().toLowerCase() === String(L.pw).toLowerCase()) {
+    const u = msg.from;
+    const name = ((u.first_name || "") + (u.last_name ? " " + u.last_name : "")).trim() || u.username || "";
+    await env.DB.prepare(
+      "INSERT INTO access (user_id, ver, name, at) VALUES (?,?,?,?) ON CONFLICT(user_id) DO UPDATE SET ver=excluded.ver, name=excluded.name, at=excluded.at"
+    ).bind(u.id, L.ver, name, now).run();
+    await env.DB.prepare("DELETE FROM pending WHERE user_id=?").bind(u.id).run();
+    await send(env, msg.chat.id, "✅ <b>Parol to'g'ri!</b> Xush kelibsiz 🎉");
+    const t = pd.target || "m";
+    if (t.startsWith("q:")) { await startPrivate(env, msg.chat.id, t.slice(2), u); return true; }
+    if (t.startsWith("s:")) { const [, id, pg] = t.split(":"); await showSection(env, msg.chat.id, null, id, +pg || 0, u); return true; }
+    await showMain(env, msg.chat.id, null, u);
+    return true;
+  }
+  const tries = pd.tries + 1;
+  const until = tries >= 5 ? now + 10 * 60000 : 0;
+  await env.DB.prepare("UPDATE pending SET tries=?, until=? WHERE user_id=?").bind(until ? 0 : tries, until, msg.from.id).run();
+  await send(env, msg.chat.id, until ? "⛔ 5 marta noto'g'ri. 10 daqiqadan keyin qayta urinib ko'ring." : `❌ Parol noto'g'ri (${tries}/5). Qayta yozing.`);
+  return true;
+}
+async function parolCmd(env, msg, text) {
+  if (String(msg.from.id) !== OWNER(env)) return;
+  const parts = text.trim().split(/\s+/).slice(1);
+  let L = (await getLock(env)) || { pw: "", ver: 0, secs: [] };
+  if (!parts.length) {
+    const c = await env.DB.prepare("SELECT COUNT(*) AS n FROM access WHERE ver=?").bind(L.ver).first();
+    return send(env, msg.chat.id, L.pw
+      ? `🔒 <b>Parol yoqiq</b>\nParol: <code>${esc(L.pw)}</code>\nYopiq bo'limlar: ${L.secs.length ? esc(L.secs.join(", ")) : "hammasi"}\nKirgan o'quvchilar: ${c ? c.n : 0} nafar\n\nO'zgartirish: <code>/parol yangi_soz</code>\nFaqat ayrim bo'limlar: <code>/parol soz att hd</code>\nO'chirish: <code>/parol off</code>`
+      : "🔓 Parol o'chiq — testlar hamma uchun ochiq.\n\nYoqish: <code>/parol soz</code>\nFaqat ayrim bo'limlar: <code>/parol soz att attru hd</code>\n\nBo'lim kodlari: t6 t7u t7j t8u t8j t9u t9j att attru hd h8 h9 h10 h11");
+  }
+  if (parts[0].toLowerCase() === "off") {
+    L.pw = ""; await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('lock', ?)").bind(JSON.stringify(L)).run();
+    return send(env, msg.chat.id, "🔓 Parol o'chirildi. Testlar hamma uchun ochiq.");
+  }
+  L = { pw: parts[0], ver: (L.ver || 0) + 1, secs: parts.slice(1) };
+  await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('lock', ?)").bind(JSON.stringify(L)).run();
+  return send(env, msg.chat.id,
+    `🔒 <b>Parol o'rnatildi:</b> <code>${esc(L.pw)}</code>\nYopiq: ${L.secs.length ? esc(L.secs.join(", ")) : "barcha testlar"}\n\nO'quvchilar endi shu parolni kiritib kiradi. Parolni almashtirsangiz, hamma yangisini qayta kiritadi.`);
 }
 
 // ---------- Adminmi? ----------
@@ -295,19 +381,24 @@ async function isAdmin(env, msg) {
 // ---------- Buyruqlar ----------
 async function onMessage(env, msg) {
   const text = msg.text || "";
-  if (!text.startsWith("/")) return;
+  if (!text.startsWith("/")) {
+    if (msg.chat.type === "private" && text && msg.from) await tryPassword(env, msg);
+    return;
+  }
   const [cmdRaw, arg] = text.trim().split(/\s+/, 2);
   const cmd = cmdRaw.split("@")[0].toLowerCase();
   const chat_id = msg.chat.id;
 
   if (cmd === "/start" && msg.chat.type === "private") {
-    if (arg && arg.startsWith("s_")) return showSection(env, chat_id, null, arg.slice(2), 0);
-    if (arg && arg !== "menu" && /^[\w-]+$/.test(arg)) return startPrivate(env, chat_id, arg);
-    return showMain(env, chat_id, null);
+    if (arg && arg.startsWith("s_")) return showSection(env, chat_id, null, arg.slice(2), 0, msg.from);
+    if (arg && arg !== "menu" && /^[\w-]+$/.test(arg)) return startPrivate(env, chat_id, arg, msg.from);
+    return showMain(env, chat_id, null, msg.from);
   }
 
+  if (cmd === "/parol" && msg.chat.type === "private") return parolCmd(env, msg, text);
+
   if (cmd === "/menyu" || cmd === "/menu" || cmd === "/testlar") {
-    if (msg.chat.type === "private") return showMain(env, chat_id, null);
+    if (msg.chat.type === "private") return showMain(env, chat_id, null, msg.from);
     if (!(await isAdmin(env, msg))) return;
     return postGroupMenu(env, chat_id);
   }
@@ -326,7 +417,7 @@ async function onMessage(env, msg) {
   if (cmd === "/quiz") {
     if (!(await isAdmin(env, msg))) return send(env, chat_id, "⛔ Viktorinani faqat admin boshlay oladi.");
     if (!arg || !/^[\w-]+$/.test(arg)) return send(env, chat_id, "Test nomini yozing: /quiz tarix1");
-    if (msg.chat.type === "private") return startPrivate(env, chat_id, arg);
+    if (msg.chat.type === "private") return startPrivate(env, chat_id, arg, msg.from);
     const err = await startQuiz(env, chat_id, arg);
     if (err) return send(env, chat_id, err);
     return;
