@@ -99,6 +99,7 @@ async function advance(env, chat_id, session_id, fromIdx, pause = 2000) {
 async function finish(env, s) {
   await env.DB.prepare("UPDATE sessions SET running=0 WHERE chat_id=? AND session_id=?")
     .bind(s.chat_id, s.session_id).run();
+  try { await bump(env, (await sectionOf(env, s.quiz_id)) || "boshqa"); await bump(env, s.chat_id > 0 ? "_shaxsiy" : "_guruh"); } catch (_) {}
   const { results } = await env.DB.prepare(
     "SELECT name, correct, answered FROM scores WHERE chat_id=? AND session_id=? ORDER BY correct DESC, answered ASC LIMIT 40"
   ).bind(s.chat_id, s.session_id).all();
@@ -620,6 +621,69 @@ async function runBroadcastBatch(env, b) {
   }
 }
 
+
+// ---------- Kunlik hisobot va ogohlantirish ----------
+const dayKey = (ts = Date.now()) => new Date(ts + TZ).toISOString().slice(0, 10);
+let STATS_OK = false;
+async function ensureStats(env) {
+  if (STATS_OK) return;
+  STATS_OK = true;
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS stats (day TEXT, sec TEXT, n INTEGER, PRIMARY KEY (day, sec))").run();
+}
+async function bump(env, sec, by = 1) {
+  try {
+    await ensureStats(env);
+    await env.DB.prepare("INSERT INTO stats (day, sec, n) VALUES (?,?,?) ON CONFLICT(day, sec) DO UPDATE SET n=n+excluded.n")
+      .bind(dayKey(), sec, by).run();
+  } catch (e) { console.log("stats xato", e); }
+}
+let ALERT_AT = 0;
+async function alertOwner(env, where, e) {
+  const msg = String((e && (e.message || e)) || "").slice(0, 300);
+  console.log("XATO [" + where + "]", e && (e.stack || e));
+  if (Date.now() - ALERT_AT < 30 * 60000) return; // 30 daqiqada ko'pi bilan 1 marta
+  ALERT_AT = Date.now();
+  const d1 = /D1|limit|chegara/i.test(msg);
+  await tg(env, "sendMessage", {
+    chat_id: OWNER(env), parse_mode: "HTML",
+    text: `⚠️ <b>Botda nosozlik!</b>\n\n📍 Joyi: ${esc(where)}\n🧾 Xato: <code>${esc(msg)}</code>` +
+      (d1 ? "\n\n💡 Bu Cloudflare bazasi (D1) bilan bog'liq. Kunlik limit tugagan bo'lsa, bot Toshkent vaqti bilan 05:00 da o'zi tiklanadi." : "") +
+      `\n\n🔍 Tekshirish: https://quizbot.yoldashaliisaqov8.workers.dev/tekshir?secret=…`,
+  }).catch(() => {});
+  try { await bump(env, "_xato"); } catch (_) {}
+}
+async function dailyReport(env, chat) {
+  await ensureUsers(env); await ensureStats(env);
+  const d0 = dayStart(), day = dayKey();
+  const q = (sql, ...a) => env.DB.prepare(sql).bind(...a).first();
+  const all = await q("SELECT COUNT(*) n FROM users");
+  const nw = await q("SELECT COUNT(*) n FROM users WHERE first_seen>=?", d0);
+  const act = await q("SELECT COUNT(*) n FROM users WHERE last_seen>=?", d0);
+  const { results } = await env.DB.prepare("SELECT sec, n FROM stats WHERE day=? ORDER BY n DESC").bind(day).all();
+  const get = (k) => (results.find((r) => r.sec === k) || { n: 0 }).n;
+  const secs = results.filter((r) => !r.sec.startsWith("_"));
+  const tests = secs.reduce((a, r) => a + r.n, 0);
+  const cat = await catalog(env).catch(() => ({ sections: [] }));
+  const nm = (id) => { const x = cat.sections.find((y) => y.id === id); return x ? `${x.icon} ${x.title}` : id; };
+  let t = `📊 <b>Kunlik hisobot · ${day.split("-").reverse().join(".")}</b>\n\n` +
+    `🆕 Yangi a'zolar: <b>+${nw.n}</b> (jami ${all.n})\n🔥 Bugun faol: <b>${act.n}</b>\n` +
+    `📝 Ishlangan testlar: <b>${tests}</b> (shaxsiy: ${get("_shaxsiy")}, guruhda: ${get("_guruh")})\n`;
+  if (secs.length) t += `\n🏆 <b>Eng faol bo'limlar:</b>\n` + secs.slice(0, 5).map((r, i) => `${i + 1}. ${esc(nm(r.sec))} — ${r.n} ta`).join("\n") + "\n";
+  const err = get("_xato");
+  t += `\n${err ? `⚠️ Bugun nosozliklar: <b>${err}</b>` : "✅ Bugun nosozlik bo'lmadi"}`;
+  return send(env, chat, t);
+}
+async function reportTick(env) {
+  const d = new Date();
+  if (d.getUTCHours() !== 16) return; // Toshkent 21:00
+  await ensureLock(env);
+  const day = dayKey();
+  const r = await env.DB.prepare("SELECT v FROM settings WHERE k='report_day'").first();
+  if (r && r.v === day) return;
+  await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('report_day', ?)").bind(day).run();
+  await dailyReport(env, OWNER(env));
+}
+
 // ---------- Adminmi? ----------
 async function isAdmin(env, msg) {
   if (msg.chat.type === "private") return true;
@@ -644,7 +708,8 @@ async function onMessage(env, msg) {
     if (t0 === "/reyting") return reytingCmd(env, msg.chat.id);
     if (t0 === "/excel") return excelCmd(env, msg.chat.id);
     if (t0 === "/xabar") return xabarCmd(env, msg.chat.id);
-    if (t0 === "/admin") return send(env, msg.chat.id, "🛠 <b>Admin panel</b>\n\n/azolar — a'zolar soni\n/faollar — oxirgi faol a'zolar\n/reyting — TOP-20\n/excel — a'zolar jadvali\n/xabar — hammaga xabar\n/parol — parol sozlamalari\n/obuna — majburiy obuna");
+    if (t0 === "/hisobot") return dailyReport(env, msg.chat.id);
+    if (t0 === "/admin") return send(env, msg.chat.id, "🛠 <b>Admin panel</b>\n\n/azolar — a'zolar soni\n/faollar — oxirgi faol a'zolar\n/reyting — TOP-20\n/excel — a'zolar jadvali\n/xabar — hammaga xabar\n/hisobot — bugungi hisobot (har kuni 21:00 da o'zi keladi)\n/parol — parol sozlamalari\n/obuna — majburiy obuna");
   }
   const fch = msg.forward_from_chat || (msg.forward_origin && msg.forward_origin.chat);
   if (msg.chat.type === "private" && fch && msg.from && String(msg.from.id) === OWNER(env)) {
@@ -854,7 +919,12 @@ export default {
           else if (upd.poll_answer) await onPollAnswer(env, upd.poll_answer);
           else if (upd.poll) await onPoll(env, upd.poll);
           else if (upd.callback_query) await onCallback(env, upd.callback_query);
-        } catch (e) { console.log("Xato:", e.stack || e); }
+        } catch (e) {
+          await alertOwner(env, "xabarni qayta ishlash", e);
+          const c = (upd.message && upd.message.chat) || (upd.callback_query && upd.callback_query.message && upd.callback_query.message.chat);
+          if (c && c.type === "private" && String(c.id) !== OWNER(env))
+            await tg(env, "sendMessage", { chat_id: c.id, text: "⏳ Bot vaqtincha texnik ishlar sababli javob bera olmayapti. Birozdan keyin qayta urinib ko'ring 🙏" }).catch(() => {});
+        }
       })();
       ctx.waitUntil(job);
       return new Response("ok");
@@ -870,13 +940,14 @@ export default {
         const b = m.body;
         if (b.t === "bc") await runBroadcastBatch(env, b);
         else await advance(env, b.chat_id, b.session_id, b.idx);
-      } catch (e) { console.log("Taymer xato:", e.stack || e); }
+      } catch (e) { await alertOwner(env, "taymer / xabar tarqatish", e); }
       m.ack();
     }
   },
 
   async scheduled(event, env, ctx) {
-    ctx.waitUntil(watchdog(env).catch((e) => console.log(e)));
-    ctx.waitUntil(autoTick(env).catch((e) => console.log("Avto xato:", e.stack || e)));
+    ctx.waitUntil(watchdog(env).catch((e) => alertOwner(env, "har daqiqalik tekshiruv", e)));
+    ctx.waitUntil(autoTick(env).catch((e) => alertOwner(env, "avtomatik viktorina", e)));
+    ctx.waitUntil(reportTick(env).catch((e) => alertOwner(env, "kunlik hisobot", e)));
   },
 };
