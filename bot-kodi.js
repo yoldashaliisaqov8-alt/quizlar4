@@ -1,7 +1,11 @@
 // ===== Isakov school viktorina boti — Cloudflare Worker + D1 + Queue + avto =====
 const API = (env, m) => `https://api.telegram.org/bot${env.BOT_TOKEN}/${m}`;
 
+// Forward/saqlashdan himoya: faqat egasining (admin) shaxsiy chatida himoyasiz
+const PROTECT = new Set(["sendMessage", "sendPhoto", "sendPoll", "sendDocument", "sendVideo", "copyMessage"]);
 async function tg(env, method, body, retry = true) {
+  if (PROTECT.has(method) && body && body.chat_id != null && body.protect_content === undefined && String(body.chat_id) !== OWNER(env))
+    body = { ...body, protect_content: true };
   const r = await fetch(API(env, method), {
     method: "POST",
     headers: { "content-type": "application/json" },
@@ -268,7 +272,7 @@ async function postGroupMenu(env, chat_id) {
   const kb = (cat.groups || []).map((g) => [{ text: `${g.icon} ${g.title} (${cnt(g)})`, url: `https://t.me/${u}?start=g_${g.id}` }]);
   const total = cat.sections.reduce((a, x) => a + x.tests.length, 0);
   const r = await tg(env, "sendMessage", {
-    chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb },
+    chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb }, protect_content: false,
     text: `📚 <b>ISAKOV SCHOOL — TESTLAR KATALOGI</b>\n\n🗂 Jami: <b>${total} ta test</b>, mavzular bo'yicha\n\n` +
       `👇 Bo'limni bosing → bot ochiladi → mavzuni tanlang → test boshlanadi.\n` +
       `Javob bergach, keyingi savol 1 soniyada chiqadi. Oxirida natijangiz ko'rsatiladi.`,
