@@ -209,13 +209,19 @@ async function botUser(env) {
   BOTU = r.result && r.result.username;
   return BOTU;
 }
+// Egasi uchun tugmalar havola (deep link) bo'ladi — forward qilinganda ham ishlaydi
+async function btn(env, chat_id, text, cb, start) {
+  if (String(chat_id) === OWNER(env)) return { text, url: `https://t.me/${await botUser(env)}?start=${start}` };
+  return { text, callback_data: cb };
+}
 const MAIN_TEXT = "📚 <b>ISAKOV SCHOOL — testlar</b>\n\nBo'limni tanlang, so'ng mavzuni bosing — test shu yerda boshlanadi 👇";
 
 async function showMain(env, chat_id, message_id, user) {
   if (user && !(await gate(env, user, chat_id, "*", "m"))) return;
   const cat = await catalog(env);
   const cnt = (g) => g.secs.reduce((a, id) => a + ((cat.sections.find((x) => x.id === id) || { tests: [] }).tests.length), 0);
-  const kb = (cat.groups || []).map((g) => [{ text: `${g.icon} ${g.title} (${cnt(g)})`, callback_data: `g:${g.id}` }]);
+  const kb = [];
+  for (const g of cat.groups || []) kb.push([await btn(env, chat_id, `${g.icon} ${g.title} (${cnt(g)})`, `g:${g.id}`, `g_${g.id}`)]);
   const body = { chat_id, text: MAIN_TEXT, parse_mode: "HTML", reply_markup: { inline_keyboard: kb } };
   if (message_id) return tg(env, "editMessageText", { ...body, message_id });
   return tg(env, "sendMessage", body);
@@ -226,8 +232,9 @@ async function showGroup(env, chat_id, message_id, gid, user) {
   const cat = await catalog(env);
   const g = (cat.groups || []).find((x) => x.id === gid);
   if (!g) return showMain(env, chat_id, message_id, user);
-  const kb = g.secs.map((id) => cat.sections.find((x) => x.id === id)).filter(Boolean)
-    .map((sec) => [{ text: `${sec.icon} ${sec.title} (${sec.tests.length})`, callback_data: `s:${sec.id}:0` }]);
+  const kb = [];
+  for (const sec of g.secs.map((id) => cat.sections.find((x) => x.id === id)).filter(Boolean))
+    kb.push([await btn(env, chat_id, `${sec.icon} ${sec.title} (${sec.tests.length})`, `s:${sec.id}:0`, `s_${sec.id}`)]);
   kb.push([{ text: "⬅️ Bosh menyu", callback_data: "m" }]);
   const body = { chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb },
     text: `${g.icon} <b>${esc(g.title)}</b>\n\nBo'limni tanlang 👇` };
@@ -242,11 +249,12 @@ async function showSection(env, chat_id, message_id, id, page, user) {
   if (!sec) return showMain(env, chat_id, message_id);
   const per = 15, pages = Math.max(1, Math.ceil(sec.tests.length / per));
   page = Math.min(Math.max(0, page), pages - 1);
-  const kb = sec.tests.slice(page * per, page * per + per).map((t) => {
+  const kb = [];
+  for (const t of sec.tests.slice(page * per, page * per + per)) {
     let label = `${t.t} (${t.c})`;
     if (label.length > 60) label = t.t.slice(0, 52) + "… (" + t.c + ")";
-    return [{ text: label, callback_data: `q:${t.n}` }];
-  });
+    kb.push([await btn(env, chat_id, label, `q:${t.n}`, t.n)]);
+  }
   if (pages > 1) {
     const nav = [];
     if (page > 0) nav.push({ text: "◀️ Oldingi", callback_data: `s:${id}:${page - 1}` });
