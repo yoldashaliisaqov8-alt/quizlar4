@@ -209,12 +209,23 @@ const MAIN_TEXT = "📚 <b>ISAKOV SCHOOL — testlar</b>\n\nBo'limni tanlang, so
 async function showMain(env, chat_id, message_id, user) {
   if (user && !(await gate(env, user, chat_id, "*", "m"))) return;
   const cat = await catalog(env);
-  const kb = [];
-  cat.sections.forEach((sec, i) => {
-    const b = { text: `${sec.icon} ${sec.title}`, callback_data: `s:${sec.id}:0` };
-    if (i % 2 === 0) kb.push([b]); else kb[kb.length - 1].push(b);
-  });
+  const cnt = (g) => g.secs.reduce((a, id) => a + ((cat.sections.find((x) => x.id === id) || { tests: [] }).tests.length), 0);
+  const kb = (cat.groups || []).map((g) => [{ text: `${g.icon} ${g.title} (${cnt(g)})`, callback_data: `g:${g.id}` }]);
   const body = { chat_id, text: MAIN_TEXT, parse_mode: "HTML", reply_markup: { inline_keyboard: kb } };
+  if (message_id) return tg(env, "editMessageText", { ...body, message_id });
+  return tg(env, "sendMessage", body);
+}
+
+async function showGroup(env, chat_id, message_id, gid, user) {
+  if (user && !(await gate(env, user, chat_id, "*", `g:${gid}`))) return;
+  const cat = await catalog(env);
+  const g = (cat.groups || []).find((x) => x.id === gid);
+  if (!g) return showMain(env, chat_id, message_id, user);
+  const kb = g.secs.map((id) => cat.sections.find((x) => x.id === id)).filter(Boolean)
+    .map((sec) => [{ text: `${sec.icon} ${sec.title} (${sec.tests.length})`, callback_data: `s:${sec.id}:0` }]);
+  kb.push([{ text: "⬅️ Bosh menyu", callback_data: "m" }]);
+  const body = { chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb },
+    text: `${g.icon} <b>${esc(g.title)}</b>\n\nBo'limni tanlang 👇` };
   if (message_id) return tg(env, "editMessageText", { ...body, message_id });
   return tg(env, "sendMessage", body);
 }
@@ -238,7 +249,8 @@ async function showSection(env, chat_id, message_id, id, page, user) {
     if (page < pages - 1) nav.push({ text: "Keyingi ▶️", callback_data: `s:${id}:${page + 1}` });
     kb.push(nav);
   }
-  kb.push([{ text: "⬅️ Bo'limlar", callback_data: "m" }]);
+  const grp = (cat.groups || []).find((x) => x.secs.includes(id));
+  kb.push([{ text: "⬅️ Orqaga", callback_data: grp ? `g:${grp.id}` : "m" }]);
   const body = {
     chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb },
     text: `${sec.icon} <b>${esc(sec.title)}</b>\n${sec.tests.length} ta test · mavzuni tanlang 👇`,
@@ -251,11 +263,8 @@ async function showSection(env, chat_id, message_id, id, page, user) {
 async function postGroupMenu(env, chat_id) {
   const cat = await catalog(env);
   const u = await botUser(env);
-  const kb = [];
-  cat.sections.forEach((sec, i) => {
-    const b = { text: `${sec.icon} ${sec.title}`, url: `https://t.me/${u}?start=s_${sec.id}` };
-    if (i % 2 === 0) kb.push([b]); else kb[kb.length - 1].push(b);
-  });
+  const cnt = (g) => g.secs.reduce((a, id) => a + ((cat.sections.find((x) => x.id === id) || { tests: [] }).tests.length), 0);
+  const kb = (cat.groups || []).map((g) => [{ text: `${g.icon} ${g.title} (${cnt(g)})`, url: `https://t.me/${u}?start=g_${g.id}` }]);
   const total = cat.sections.reduce((a, x) => a + x.tests.length, 0);
   const r = await tg(env, "sendMessage", {
     chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb },
@@ -283,6 +292,7 @@ async function onCallback(env, cq) {
   const mid = cq.message.message_id;
   const user = chat.type === "private" ? cq.from : null;
   if (d === "m") return showMain(env, chat.id, mid, user);
+  if (d.startsWith("g:")) return showGroup(env, chat.id, mid, d.slice(2), user);
   if (d.startsWith("s:")) { const [, id, pg] = d.split(":"); return showSection(env, chat.id, mid, id, +pg || 0, user); }
   if (d.startsWith("q:") && chat.type === "private") {
     const name = d.slice(2);
@@ -343,6 +353,7 @@ async function tryPassword(env, msg) {
     const t = pd.target || "m";
     if (t.startsWith("q:")) { await startPrivate(env, msg.chat.id, t.slice(2), u); return true; }
     if (t.startsWith("s:")) { const [, id, pg] = t.split(":"); await showSection(env, msg.chat.id, null, id, +pg || 0, u); return true; }
+    if (t.startsWith("g:")) { await showGroup(env, msg.chat.id, null, t.slice(2), u); return true; }
     await showMain(env, msg.chat.id, null, u);
     return true;
   }
@@ -464,6 +475,7 @@ async function onMessage(env, msg) {
   const chat_id = msg.chat.id;
 
   if (cmd === "/start" && msg.chat.type === "private") {
+    if (arg && arg.startsWith("g_")) return showGroup(env, chat_id, null, arg.slice(2), msg.from);
     if (arg && arg.startsWith("s_")) return showSection(env, chat_id, null, arg.slice(2), 0, msg.from);
     if (arg && arg !== "menu" && /^[\w-]+$/.test(arg)) return startPrivate(env, chat_id, arg, msg.from);
     return showMain(env, chat_id, null, msg.from);
