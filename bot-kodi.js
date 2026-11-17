@@ -269,6 +269,7 @@ async function postGroupMenu(env, chat_id) {
 // Shaxsiy chatda oldingi testni jimgina yopib, yangisini boshlash
 async function startPrivate(env, chat_id, name, user) {
   if (user && !(await gate(env, user, chat_id, (await sectionOf(env, name)) || "*", `q:${name}`))) return;
+  if (user && !(await needSubs(env, user, chat_id, name))) return;
   await env.DB.prepare("UPDATE sessions SET running=0 WHERE chat_id=? AND running=1").bind(chat_id).run();
   const err = await startQuiz(env, chat_id, name);
   if (err) await send(env, chat_id, err);
@@ -371,6 +372,52 @@ async function parolCmd(env, msg, text) {
     `🔒 <b>Parol o'rnatildi:</b> <code>${esc(L.pw)}</code>\nYopiq: ${L.secs.length ? esc(L.secs.join(", ")) : "barcha testlar"}\n\nO'quvchilar endi shu parolni kiritib kiradi. Parolni almashtirsangiz, hamma yangisini qayta kiritadi.`);
 }
 
+
+// ---------- Majburiy obuna ----------
+const SUBS_DEFAULT = { on: true, tarix: ["@yoldashaliisakov"], huquq: ["@huquqmezoni"] };
+async function getSubs(env) {
+  await ensureLock(env);
+  const r = await env.DB.prepare("SELECT v FROM settings WHERE k='subs'").first();
+  return r ? JSON.parse(r.v) : SUBS_DEFAULT;
+}
+// Huquq bo'limlari (hd, h8..h11) → huquq kanali, qolganlari → tarix kanali
+async function needSubs(env, user, chat_id, name) {
+  if (String(user.id) === OWNER(env)) return true;
+  const S = await getSubs(env);
+  if (!S.on) return true;
+  const sec = (await sectionOf(env, name)) || "";
+  const list = /^h(d|\d+)$/.test(sec) ? S.huquq : S.tarix;
+  const missing = [];
+  for (const ch of list || []) {
+    const r = await tg(env, "getChatMember", { chat_id: ch, user_id: user.id });
+    if (!r.ok) { console.log("Obuna tekshirib bo'lmadi (bot kanalda admin emasmi?)", ch, JSON.stringify(r)); continue; }
+    const st = r.result.status;
+    const ok = ["creator", "administrator", "member"].includes(st) || (st === "restricted" && r.result.is_member);
+    if (!ok) missing.push(ch);
+  }
+  if (!missing.length) return true;
+  const kb = missing.map((ch) => [{ text: `📢 ${ch} ga obuna bo'lish`, url: `https://t.me/${ch.replace(/^@/, "")}` }]);
+  kb.push([{ text: "✅ Obuna bo'ldim — testni boshlash", callback_data: `q:${name}` }]);
+  await send(env, chat_id,
+    `📢 <b>Testni boshlash uchun kanalimizga obuna bo'ling!</b>\n\nKanalda yangi testlar, foydali materiallar va e'lonlar chiqib boradi.\n\nObuna bo'lgach, pastdagi <b>"✅ Obuna bo'ldim"</b> tugmasini bosing 👇`,
+    { reply_markup: { inline_keyboard: kb } });
+  return false;
+}
+async function obunaCmd(env, msg, text) {
+  if (String(msg.from.id) !== OWNER(env)) return;
+  const parts = text.trim().split(/\s+/).slice(1);
+  const S = await getSubs(env);
+  const save = () => env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('subs', ?)").bind(JSON.stringify(S)).run();
+  const info = () => `📢 <b>Majburiy obuna: ${S.on ? "YOQIQ ✅" : "O'CHIQ"}</b>\nTarix testlari: ${esc((S.tarix || []).join(", ") || "—")}\nHuquq testlari: ${esc((S.huquq || []).join(", ") || "—")}\n\n<code>/obuna off</code> · <code>/obuna on</code>\n<code>/obuna tarix @kanal1 @kanal2</code>\n<code>/obuna huquq @kanal</code>\n\n⚠️ Bot har bir kanalda admin bo'lishi shart.`;
+  if (!parts.length) return send(env, msg.chat.id, info());
+  const k = parts[0].toLowerCase();
+  if (k === "off" || k === "on") S.on = k === "on";
+  else if (k === "tarix" || k === "huquq") S[k] = parts.slice(1).filter((x) => /^@\w{4,}$/.test(x));
+  else return send(env, msg.chat.id, info());
+  await save();
+  return send(env, msg.chat.id, "✅ Saqlandi.\n\n" + info());
+}
+
 // ---------- Adminmi? ----------
 async function isAdmin(env, msg) {
   if (msg.chat.type === "private") return true;
@@ -396,6 +443,7 @@ async function onMessage(env, msg) {
   }
 
   if (cmd === "/parol" && msg.chat.type === "private") return parolCmd(env, msg, text);
+  if (cmd === "/obuna" && msg.chat.type === "private") return obunaCmd(env, msg, text);
 
   if (cmd === "/menyu" || cmd === "/menu" || cmd === "/testlar") {
     if (msg.chat.type === "private") return showMain(env, chat_id, null, msg.from);
