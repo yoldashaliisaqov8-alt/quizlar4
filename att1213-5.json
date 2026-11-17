@@ -1,0 +1,337 @@
+{
+ "title": "Attestatsiya 5 (12–13-noyabr, kuzgi)",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Ikkinchi jahon urushida qamoqdan jarima batalyoniga yuborilib, keyinchalik Sovet Ittifoqi Qahramoni unvoniga sazovor bo‘lgan o‘zbekistonlik kim?",
+   "options": [
+    "Qo‘chqor Turdiyev",
+    "Sobir Rahimov",
+    "Mamadali Topivoldiyev",
+    "Inoyat Navro‘zboyev"
+   ],
+   "answer": 3,
+   "explanation": "Qatag‘on qilinganlarning farzandlari va qamoqdagilar o‘z arizalariga ko‘ra jarima batalyonlariga yuborilgan; Inoyat Navro‘zboyev shunday jangchilardan biri bo‘lgan."
+  },
+  {
+   "q": "Ikkinchi jahon urushi qatnashchilarini jasoratlari bilan moslashtiring: 1. Sobir Rahimov; 2. Samig‘ Abdullayev; 3. Tojiali Boboyev; 4. Botir Boboyev.\na) 395-o‘qchi diviziya komandiri, Kavkaz uchun janglar; 1943-yil 19-mart general-mayor\nb) Kavkazda 3 mingga yaqin minani zararsizlantirdi\nc) 1945-yil 23-aprel Berlindagi Silez vokzaliga birinchi bo‘lib bayroq o‘rnatdi\nd) Oder daryosini birinchilardan bo‘lib kechib o‘tdi",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d",
+    "1-a, 2-b, 3-d, 4-c",
+    "1-b, 2-a, 3-c, 4-d",
+    "1-a, 2-d, 3-c, 4-b"
+   ],
+   "answer": 0,
+   "explanation": "Sobir Rahimov – 395-o‘qchi diviziya komandiri, 1943-yilda general-mayor; Samig‘ Abdullayev – Kavkazda 3 mingga yaqin minani zararsizlantirgan;"
+  },
+  {
+   "q": "Gollandiyadagi Amersfort konslageri bilan bog‘liq qaysi xotira O‘zbekistonda abadiylashtirilgan?",
+   "options": [
+    "101 nafar o‘zbek asirining matonati – «mard o‘g‘lonlar» xotirasi",
+    "Birinchi o‘zbek Qahramoni Q. Turdiyevning jasorati",
+    "Toshkentga evakuatsiya qilingan bolalar",
+    "Sobir Rahimov diviziyasi"
+   ],
+   "answer": 0,
+   "explanation": "Amersfortda og‘ir azoblarga qaramay Vataniga sodiq qolib, 1942-yilda otib tashlangan 101 nafar o‘zbek asiri xotirasiga Toshkentdagi «G‘alaba bog‘i»da yodgorlik o‘rnatilgan."
+  },
+  {
+   "q": "XXSR hududini milliy chegaralanishga tortishga qarshi bo‘lib, 1924-yil iyulda vazifasidan olib tashlangan Xorazm Kompartiyasi Markaziy Komiteti mas’ul kotibi kim?",
+   "options": [
+    "Polvonniyoz Yusupov",
+    "Qalandar Odinayev",
+    "Turor Risqulov",
+    "Fayzulla Xo‘jayev"
+   ],
+   "answer": 1,
+   "explanation": "Chalg‘ituvchilar: T. Risqulov – «Turk respublikasi» g‘oyasi muallifi; F. Xo‘jayev – BXSR, keyin O‘zSSR XKS raisi; P. Yusupov – XXSR rahbari bo‘lgan."
+  },
+  {
+   "q": "Ikkinchi jahon urushi qatnashchilarini moslashtiring: 1. Qo‘chqor Turdiyev; 2.\nSobir Rahimov; 3. Shodi Shoimov.\na) 1941-yil 15-oktyabr Trudolyubovka (Xarkov viloyati) jangi; o‘zbeklardan birinchi Sovet Ittifoqi Qahramoni\nb) 395-o‘qchi diviziya komandiri, Kavkaz uchun janglar; 1943-yil 19-mart general-mayor\nc) 1944-yil yozida Belorusiyani ozod qilishda jasorat ko‘rsatgan; Qahramon unvoni vafotidan keyin berilgan\nd) Berlindagi Silez vokzaliga bayroq o‘rnatgan",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-d",
+    "1-d, 2-b, 3-c"
+   ],
+   "answer": 0,
+   "explanation": "Qo‘chqor Turdiyev – 1941-yil Trudolyubovka jangi, o‘zbeklardan birinchi Sovet Ittifoqi Qahramoni (1942); Sobir Rahimov – 395-o‘qchi diviziya komandiri;"
+  },
+  {
+   "q": "«Qahramonlik simfoniyasi»ni 1942-yilda yaratib, davlat mukofotiga sazovor bo‘lgan bastakor kim?",
+   "options": [
+    "To‘xtasin Jalilov",
+    "Muxtor Ashrafiy",
+    "Yunus Rajabiy",
+    "Mutal Burhonov"
+   ],
+   "answer": 1,
+   "explanation": "Simfoniya fashizmga qarshi kurashga bag‘ishlangan. Mutal Burhonov – O‘zbekiston Davlat madhiyasi musiqasi muallifi."
+  },
+  {
+   "q": "Quyidagi ma’lumotlar qaysi davrga tegishli? – 1958-yilgi referendumda fransuzlar yangi konstitutsiyani ma’qulladi; – De Goll kuchli iqtisodiyot va mustaqil tashqi siyosatga ega davlat qurishga kirishdi; – 1962-yili Jazoirga mustaqillik berildi.",
+   "options": [
+    "Beshinchi respublika",
+    "To‘rtinchi respublika",
+    "Uchinchi respublika",
+    "Ikkinchi respublika"
+   ],
+   "answer": 0,
+   "explanation": "1958-yilgi konstitutsiya bilan Fransiyada Beshinchi respublika o‘rnatilgan, uning birinchi prezidenti – Sharl de Goll."
+  },
+  {
+   "q": "Nuqtalar o‘rniga mos so‘zlarni qo‘ying: «1960-yillarda musulmon dunyosida Saudiya podshohi ..A.. obro‘si ortib, ..B.. bilan munosabatlar yaxshilana boshladi.\nRabotdagi arab mamlakatlari rahbarlari kengashida uning taklifi bilan ..C.. tashkiloti tuzildi.»\n1. Arab mamlakatlari ligasi\n2. Feysalning\n3. Eron\n4. Islom konferensiyasi\n5. Abdulloh I ibn Husaynning\n6. Isroil",
+   "options": [
+    "A-2, B-3, C-1",
+    "A-5, B-3, C-4",
+    "A-2, B-3, C-4",
+    "A-5, B-6, C-4"
+   ],
+   "answer": 2,
+   "explanation": "Podshoh Feysal Eron bilan munosabatlarni yaxshilagan, Makkada Eron shohini qabul qilgan; 1969-yilgi Rabot kengashida uning taklifi bilan Islom konferensiyasi tashkiloti tuzilgan."
+  },
+  {
+   "q": "«Gitanjali» turkum she’rlari muallifi, 1913-yili adabiyot bo‘yicha Nobel mukofotiga sazovor bo‘lgan shaxs?",
+   "options": [
+    "Javoharlal Neru",
+    "Robin Sharma",
+    "Robindranat Tagor",
+    "Kushvant Singx"
+   ],
+   "answer": 2,
+   "explanation": "R. Tagor – Osiyodan birinchi Nobel mukofoti sovrindori (1913)."
+  },
+  {
+   "q": "Duayt Eyzenxauer haqida to‘g‘ri ma’lumotni aniqlang.",
+   "options": [
+    "Demokratlar partiyasidan saylangan, «Yangi kurs» muallifi",
+    "Urush yillari AQShning Yevropadagi qo‘shinlari qo‘mondoni, 1952-yilgi saylovda g‘olib respublikachi; ichki siyosatda demokratlar siyosatini biroz o‘zgarishlar bilan davom ettirgan realist siyosatchi",
+    "1963-yil Dallasda o‘ldirilgan prezident",
+    "Uotergeyt mojarosi tufayli iste’foga chiqqan"
+   ],
+   "answer": 1,
+   "explanation": "D. Eyzenxauer 1953–1961-yillarda prezident bo‘lgan, uning davrida Koreya urushi to‘xtatilgan. «Yangi kurs» – F. Ruzvelt, Dallas – J. Kennedi, Uotergeyt – R. Nikson."
+  },
+  {
+   "q": "Jadvalda harflar o‘rnidagi to‘g‘ri javobni aniqlang.\n(Jadval rasmda 👆)",
+   "options": [
+    "A-1, B-2, C-3",
+    "A-6, B-2, C-5",
+    "A-1, B-4, C-3",
+    "A-1, B-2, C-5"
+   ],
+   "answer": 0,
+   "explanation": "1951-yil Parij shartnomasi – Yevropa ko‘mir va po‘lat birlashmasi; 1957-yil Rim shartnomasi – YIH va Yevratom;",
+   "image": "img/att1213-131.jpg"
+  },
+  {
+   "q": "Saudiya Arabistonida XX–XXI asrlarda sodir bo‘lgan voqealarni aniqlang.\n1. Amerikaning «Aramco» kompaniyasi bilan neft qazib olish bo‘yicha kelishuv\n2. 1990-yillarda mamlakat tarixidagi birinchi konstitutsiya qabul qilindi\n3. Podshoh Abdulloh davrida (2005–2015) mahalliy kengashlarga saylovlar o‘tkazilib, JSTga a’zo bo‘lindi\n4. 1958-yil harbiy to‘ntarish natijasida podshoh Feysal o‘ldirildi",
+   "options": [
+    "1, 2, 3",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 3, 4"
+   ],
+   "answer": 0,
+   "explanation": "4-band xato: 1958-yilgi harbiy to‘ntarishda Iroq qiroli Feysal II o‘ldirilgan. Saudiya podshohi Feysal 1975-yilda suiqasd natijasida halok bo‘lgan."
+  },
+  {
+   "q": "1973-yil taxtdan ag‘darilgan, ilmli, modernizatsiya muhimligini his etgan, ammo keskin islohotlar o‘tkazmagan hukmdorni aniqlang.",
+   "options": [
+    "Muhammad Zohirshoh",
+    "Muhammad Rizo Pahlaviy",
+    "Rizoxon",
+    "Jamol Abdul Nosir"
+   ],
+   "answer": 0,
+   "explanation": "Afg‘oniston podshohi Zohirshoh ag‘darilgach, Muhammad Dovudxon prezident bo‘lgan; 1978 – Savr inqilobi, 1979-yil dekabr – sovet qo‘shinlari kiritilgan. M."
+  },
+  {
+   "q": "1876-yil dekabrda qabul qilingan «Midhat konstitutsiyasi»ning mazmuni va taqdirini aniqlang.",
+   "options": [
+    "Turkiya konstitutsion monarxiya deb e’lon qilindi, ikki palatali parlament ko‘zda tutildi; 1878-yilda Abdulhamid II parlamentni tarqatib, konstitutsiyani bekor qildi",
+    "Turkiya respublika deb e’lon qilindi",
+    "Sulton hokimiyati cheklanmagan holda saqlandi",
+    "«Yosh turklar» inqilobi natijasida qabul qilindi"
+   ],
+   "answer": 0,
+   "explanation": "Konstitutsiyaga ko‘ra imperiyaning barcha fuqarolari usmonlilar deb atalib, qonun oldida teng hisoblangan; 1877–1878-yillardagi rus-turk urushidan foydalanib Abdulhamid II uni bekor qilgan."
+  },
+  {
+   "q": "XIX asr o‘rtalarida Buyuk Britaniya haqidagi to‘g‘ri ma’lumotni aniqlang.",
+   "options": [
+    "«Jahon ustaxonasi» nomini oldi, dunyoning moliyaviy markazi va liberal jamiyat namunasiga aylandi",
+    "Ems depeshasi tufayli urush boshladi",
+    "Mustamlakalariga siyosiy mustaqillik berdi",
+    "Absolyut monarxiya tiklandi"
+   ],
+   "answer": 0,
+   "explanation": "Ems depeshasi – 1870-yilgi Prussiya–Fransiya urushi bahonasi; mustamlakalarning mustaqillikka erishishi – XX asr ikkinchi yarmi."
+  },
+  {
+   "q": "1884–1885-yillardagi Berlin konferensiyasi kimlarning tashabbusi bilan chaqirilgan?",
+   "options": [
+    "Angliya va Rossiya",
+    "Germaniya va Fransiya",
+    "AQSh va Ispaniya",
+    "Italiya va Belgiya"
+   ],
+   "answer": 1,
+   "explanation": "Afrika taqdiriga bag‘ishlangan bu yig‘ilishda 12 Yevropa davlati, AQSh va Turkiya qatnashgan; Afrikani bo‘lib olish qoidalari belgilangan."
+  },
+  {
+   "q": "«Pax Britannica» («Britaniya dunyosi») atamasi qaysi davrni anglatadi?",
+   "options": [
+    "Angliya burjua inqilobidan Shonli inqilobgacha (1640–1688)",
+    "1815-yilgi Vaterloo jangidan Birinchi jahon urushigacha Buyuk Britaniyaning dengizda va xalqaro munosabatlarda hukmronlik davri",
+    "Yuz yillik urush davri",
+    "Ikkinchi jahon urushidan keyingi davr"
+   ],
+   "answer": 1,
+   "explanation": "Birinchi jahon urushi arafasida Angliya «birinchi sanoat mamlakati» maqomini yo‘qotgan va Pax Britannica davri yakunlangan."
+  },
+  {
+   "q": "1910–1917-yillardagi Meksika inqilobiga oid to‘g‘ri ma’lumotni aniqlang.",
+   "options": [
+    "1911-yil diktator Dias ag‘darilib, Madero saylandi; 1913-yil general Uerta hokimiyatni egallab, Maderoni otdirdi; AQSh 1916-yilda qo‘shin kiritdi",
+    "Meksika Texasdan ajraldi",
+    "Meksika NAFTAga kirdi",
+    "Fidel Kastro hokimiyatga keldi"
+   ],
+   "answer": 0,
+   "explanation": "AQSh qo‘shinlari 1917-yil fevralda olib chiqilgan. Chalg‘ituvchilar boshqa davrlarga oid: Texas – 1836, NAFTA – 1994, Kastro – Kuba (1959)."
+  },
+  {
+   "q": "1963-yilda GFRda hokimiyatga kim keldi?",
+   "options": [
+    "Villi Brandt",
+    "Lyudvig Erhard",
+    "Gelmut Kol",
+    "Konrad Adenauer"
+   ],
+   "answer": 1,
+   "explanation": "L. Erhard – XDI raisi, K. Adenauer iste’fosidan keyin kansler, «nemis iqtisodiy mo‘jizasining otasi». Kanslerlar: Adenauer (1949–1963), Erhard (1963), Brandt (1969), Shmidt (1974), Kol (1982)."
+  },
+  {
+   "q": "Margaret Tetcher haqida to‘g‘ri ma’lumotni aniqlang.",
+   "options": [
+    "Leyboristlar yetakchisi, 1997-yilda bosh vazir",
+    "Buyuk Britaniyaning birinchi ayol bosh vaziri (1979-yildan); konservatorlar uning boshchiligida qatorasiga uch marta g‘alaba qozongan",
+    "Shotlandiyaga avtonomiya bergan",
+    "Brexit referendumini o‘tkazgan"
+   ],
+   "answer": 1,
+   "explanation": "«Tetcherizm»da asosiy maqsad – ishsizlikka emas, inflyatsiyaga qarshi kurash; 1990- yilda J. Meyjor bosh vazir bo‘lgan. 1997-yil va avtonomiya – E. Bler, Brexit referendumi – D. Kemeron (2016)."
+  },
+  {
+   "q": "1969-yilda Liviyada qanday voqea sodir bo‘ldi?",
+   "options": [
+    "Liviya podshohligi tuzildi",
+    "29 yoshli Muammar Qazzofiy boshchiligidagi «Yosh ofitserlar» monarxiyani ag‘darib, Liviya Arab Respublikasini e’lon qildi",
+    "Italiya mustamlakasi tugadi",
+    "Fuqarolar urushi boshlandi"
+   ],
+   "answer": 1,
+   "explanation": "Liviya podshohligi 1951-yilda mustaqil bo‘lgan; 1977-yilda Jamahiriya e’lon qilingan; 2011-yilda Qazzofiy rejimi qulagan."
+  },
+  {
+   "q": "Den Syaopin davrida Xitoyda o‘tkazilgan islohotlarga xos jihatni aniqlang.",
+   "options": [
+    "«Madaniy inqilob» boshlandi",
+    "Pragmatik islohotlar: chet el kapitalini jalb qilish uchun janubda 4 ta erkin iqtisodiy zona tuzildi",
+    "«Katta sakrash» siyosati",
+    "Kommunistik partiya tarqatildi"
+   ],
+   "answer": 1,
+   "explanation": "«To‘rtta modernizatsiya»: qishloq xo‘jaligi, sanoat, fan-texnika va harbiy soha. «Katta sakrash» va «Madaniy inqilob» – Mao Szedun davri."
+  },
+  {
+   "q": "Buyuk Britaniyada Margaret Tetcher hukumati (1979–1990) davriga oid ma’lumotlarni aniqlang.\n1. Buyuk Britaniya tarixida birinchi marta hukumatni ayol kishi boshqardi\n2. Asosiy maqsad – ishsizlikka emas, inflyatsiyaga qarshi kurash\n3. Kurs asosi – 1970-yillar o‘rtasida qabul qilingan «To‘g‘ri yondashuv» dasturi\n4. 1982-yilda Folklend (Malvin) orollari uchun Argentina bilan urushda g‘alaba qozonildi\n5. Shotlandiya va Uelsga avtonomiya berildi\n6. Leyboristlar partiyasi hukumati edi",
+   "options": [
+    "1, 2, 3, 4",
+    "2, 4, 5, 6",
+    "1, 3, 5, 6",
+    "1, 2, 5, 6"
+   ],
+   "answer": 0,
+   "explanation": "Konservatorlar 1979-yil saylovda g‘alaba qozongan; «tetcherizm» – neokonservatizmning britaniyacha varianti; 1982-yil Folklend urushi g‘alabasi. 5 va 6-bandlar – leyborist T."
+  },
+  {
+   "q": "Quyidagi voqealarni xronologik ketma-ketlikda joylashtiring.\n1. Tuman va shaharlarda bandlikka ko‘maklashish markazlari tashkil qilindi\n2. Ijtimoiy himoya milliy agentligi tashkil topdi\n3. Harakatlar strategiyasi e’lon qilindi\n4. Muhammad al-Xorazmiy nomidagi xalqaro matematika olimpiadasi o‘tkazila boshlandi",
+   "options": [
+    "1, 3, 4, 2",
+    "1, 4, 3, 2",
+    "2, 3, 4, 1",
+    "2, 4, 3, 1"
+   ],
+   "answer": 0,
+   "explanation": "Tuman va shaharlarda bandlikka ko‘maklashish markazlari – 2007; Harakatlar strategiyasi – 2017-yil 7-fevral; al-Xorazmiy nomidagi xalqaro matematika olimpiadasi – 2018 (Urganch);"
+  },
+  {
+   "q": "Quyidagilardan qaysilari Islom Karimov davriga oid?\n1. «Fuqarolik jamiyatini rivojlantirishga qo‘shgan hissasi uchun» ko‘krak nishoni ta’sis etildi\n2. Soka universitetida Alisher Navoiy haykali o‘rnatildi\n3. Toshkent islom universiteti tashkil etildi\n4. Al-Xorazmiy nomidagi ixtisoslashtirilgan maktabga asos solindi",
+   "options": [
+    "1, 2",
+    "1, 4",
+    "2, 4",
+    "2, 3"
+   ],
+   "answer": 3,
+   "explanation": "Soka universitetida (Yaponiya) Navoiy haykali – 2004; Toshkent islom universiteti – 1999. Ko‘krak nishoni (2018) va Mirzo Ulug‘bek, al-Xorazmiy ixtisoslashtirilgan maktablari – Sh. Mirziyoyev davri."
+  },
+  {
+   "q": "2025-yili «Islom dunyosining ma’naviy merosi va madaniy ifodalari: xattotlik, musiqa, she’riyat va hamjihatlik» mavzusidagi xalqaro forum qaysi shaharda o‘tkazildi?",
+   "options": [
+    "Buxoro",
+    "Toshkent",
+    "Namangan",
+    "Samarqand"
+   ],
+   "answer": 3,
+   "explanation": "Forumda Samarqandga «Islom madaniyati poytaxti» maqomi berilganini anglatuvchi ramziy bayroq va statuetka topshirilgan."
+  },
+  {
+   "q": "Mustaqillik yillaridagi yoshlar siyosati haqidagi fikrlarning to‘g‘ri yoki noto‘g‘riligini aniqlang.\n1. 2017-yil Prezident BMTning 72-sessiyasida dunyo yoshlari haqida alohida to‘xtaldi\n2. 1991-yil «Kamolot» harakati tashkil etildi\n3. 2017-yil barcha viloyatlarda Prezident maktablari tashkil etildi\n4. 2025-yil O‘zbekiston BMTning «Yoshlar – 2030» strategiyasini amalga oshirayotgan 10 davlat qatoriga kiritildi\n5. «Yosh kitobxon» tanlovida 10 yoshdan 30 yoshgacha bo‘lgan bolalar va yoshlar ishtirok etishi mumkin",
+   "options": [
+    "To‘g‘ri – 1, 4, 5; noto‘g‘ri – 2, 3",
+    "To‘g‘ri – 1, 4; noto‘g‘ri – 2, 3, 5",
+    "To‘g‘ri – 1, 5; noto‘g‘ri – 2, 3, 4",
+    "To‘g‘ri – 2, 3, 4; noto‘g‘ri – 1, 5"
+   ],
+   "answer": 0,
+   "explanation": "2-band xato: 1991-yilda Yoshlar ittifoqi tuzilgan, «Kamolot» jamg‘armasi – 1996, «Kamolot» harakati – 2001."
+  },
+  {
+   "q": "2017-yil BMT Bosh Assambleyasining 72-sessiyasida Sh. Mirziyoyev ilgari surgan tashabbuslarni aniqlang.\n1. «Ma’rifat va diniy bag‘rikenglik» rezolyutsiyasini qabul qilish\n2. BMTning Yoshlar huquqlari to‘g‘risidagi xalqaro konvensiyasini ishlab chiqish\n3. Markaziy Osiyo davlatlari rahbarlarining muntazam maslahat uchrashuvlarini o‘tkazish\n4. Markaziy Osiyoni yadro qurolidan xoli hudud deb e’lon qilish",
+   "options": [
+    "1, 2, 3",
+    "1, 2, 4",
+    "2, 3, 4",
+    "1, 3, 4"
+   ],
+   "answer": 0,
+   "explanation": "4-band xato: Markaziy Osiyoni yadro qurolidan xoli hudud deb e’lon qilish tashabbusini I. Karimov 1993-yilda BMT BA 48-sessiyasida ilgari surgan. Maslahat uchrashuvlari 2018-yilda Ostonada boshlangan."
+  },
+  {
+   "q": "O‘zbekistonda 2022-yilda kam ta’minlangan oilalarni aniqlash va ularga manzilli yordam ko‘rsatish maqsadida qanday tizim ishga tushirildi?",
+   "options": [
+    "«Temir daftar»",
+    "«Ijtimoiy himoya yagona reestri» axborot tizimi",
+    "«Inson» ijtimoiy xizmatlar markazi",
+    "«Yoshlar daftari»"
+   ],
+   "answer": 1,
+   "explanation": "Keyingi qadamlar: 2023-yil – Prezident huzurida Ijtimoiy himoya milliy agentligi va «Inson» ijtimoiy xizmatlar markazlari tuzilgan."
+  },
+  {
+   "q": "Mustaqillik yillarida ta’lim va ijtimoiy sohadagi voqealarni xronologik ketma- ketlikda joylashtiring.\n1. Urganchda al-Xorazmiy nomidagi xalqaro matematika olimpiadasi ilk bor o‘tkazildi\n2. Prezident huzurida Ijtimoiy himoya milliy agentligi tashkil etildi\n3. 9+3 shaklidagi majburiy ta’limdan 11 yillik ta’limga o‘tildi\n4. Prezident maktablarini tashkil etish bo‘yicha qaror qabul qilindi",
+   "options": [
+    "3, 4, 1, 2",
+    "3, 1, 2, 4",
+    "3, 1, 4, 2",
+    "1, 3, 4, 2"
+   ],
+   "answer": 2,
+   "explanation": "2017 – 11 yillik ta’limga qaytilgan; 2018 – Urganchda al-Xorazmiy olimpiadasi; 2019-yil 20-fevral – Prezident maktablari haqida qaror (dastlab Toshkent, Namangan, Xiva, Nukusda);"
+  }
+ ]
+}

@@ -1,0 +1,336 @@
+{
+ "title": "Attestatsiya 1 (12–13-noyabr, kuzgi)",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Jarqo‘ton manzilgohi joylashgan hududni aniqlang.",
+   "options": [
+    "Buxoro",
+    "Qashqadaryo",
+    "Samarqand",
+    "Surxondaryo"
+   ],
+   "answer": 3,
+   "explanation": "Jarqo‘ton – Surxondaryo vohasidagi bronza davrining shahar tipidagi yodgorligi; u yerdan olovga sig‘inish ibodatxonasi qoldiqlari topilgan."
+  },
+  {
+   "q": "Qadimgi Misrda Tutmos II va Tutmos III davrida …",
+   "options": [
+    "Liviya va Nubiya bosib olindi",
+    "Old Osiyo mamlakatlari bo‘ysundirildi",
+    "Misrdagi shahar-davlatlar Fiva atrofida birlashdi",
+    "Yangi podsholik barham topdi"
+   ],
+   "answer": 1,
+   "explanation": "Tutmos II davrida Falastin, Finikiya va Suriyani istilo qilish boshlangan, Tutmos III yurishlarni davom ettirib, Old Osiyoda Misr hukmronligini o‘rnatgan."
+  },
+  {
+   "q": "Quyidagilardan eng oldin sodir bo‘lgan voqeani aniqlang.",
+   "options": [
+    "Baqtriyada buddaviylik tarqaldi",
+    "Saklar va massagetlar forslardan mustaqillikka erishdi",
+    "Qo‘yqirilganqal’a bunyod etildi",
+    "Buyuk ipak yo‘li vujudga keldi"
+   ],
+   "answer": 1,
+   "explanation": "Tartib: mil. avv. IV asr – xorazmiylar, saklar va massagetlar Ahamoniylardan mustaqil bo‘ldi; mil. avv. IV–III asrlar – Qo‘yqirilganqal’a; mil. avv. II asr – Buyuk ipak yo‘li;"
+  },
+  {
+   "q": "Mantiqiy ketma-ketlik buzilgan javobni aniqlang.",
+   "options": [
+    "Krass halok bo‘ldi – Pompey uchun Sezar yagona xavfli raqibga aylandi – Sezar cheklanmagan hokimiyatga ega bo‘ldi",
+    "Rimga asos solindi – Olimpiya o‘yinlari o‘tkazila boshlandi – Rim respublikasi tashkil etildi",
+    "Xalq tribuni lavozimi ta’sis etildi – qashshoqlar manfaati himoya qilindi – tribun «veto» so‘zini aytishi mumkin edi",
+    "Spartak qo‘zg‘oloni boshlandi – Mark Krass qo‘shini yuborildi – qo‘zg‘olon bostirildi"
+   ],
+   "answer": 1,
+   "explanation": "Olimpiya o‘yinlari mil. avv. 776-yilda, Rimga asos solinishi esa mil. avv. 753-yilda – ya’ni Olimpiya o‘yinlari Rimdan oldin boshlangan, shuning uchun bu zanjirda tartib buzilgan."
+  },
+  {
+   "q": "Mezolit davriga oid manzilgohlarni ular joylashgan hududlar bilan moslashtiring:\n1. Obishir; 2. Qo‘shilish; 3. Machay.\na) Toshkent vohasi\nb) Farg‘ona vodiysi\nc) Surxondaryo viloyati\nd) Qashqadaryo viloyati",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-b, 2-c, 3-a",
+    "1-c, 2-a, 3-d"
+   ],
+   "answer": 0,
+   "explanation": "Darslikdagi mezolit manzilgohlari: Obishir – Farg‘ona vodiysi, Qo‘shilish – Toshkent vohasi, Machay – Surxondaryo viloyati. Qashqadaryo bandi ortiqcha."
+  },
+  {
+   "q": "Midiya va Bobil ittifoqi natijasida qanday voqea sodir bo‘ldi?",
+   "options": [
+    "Ahamoniylar davlati vujudga keldi",
+    "Ossuriya qo‘shinlari tor-mor etilib, Ossuriya davlati barham topdi",
+    "Bobilni forslar bosib oldi",
+    "Misr Old Osiyo ustidan hukmronlik o‘rnatdi"
+   ],
+   "answer": 1,
+   "explanation": "Midiya podshosi Kiaksar davrida kuchaygan Midiya Bobil bilan ittifoq tuzib, Ossuriyaga qarshi kurashgan; Ossuriya poytaxti Nineviya qulab, davlat barham topgan (mil. avv. VII asr oxiri)."
+  },
+  {
+   "q": "O‘zlashtiruvchi xo‘jalik turlarini aniqlang.",
+   "options": [
+    "Dehqonchilik, baliqchilik",
+    "Termachilik, dehqonchilik",
+    "Ovchilik, termachilik",
+    "Chorvachilik, ovchilik"
+   ],
+   "answer": 2,
+   "explanation": "O‘zlashtiruvchi xo‘jalik – tabiatdagi tayyor mahsulotni o‘zlashtirish: termachilik, ovchilik, baliqchilik."
+  },
+  {
+   "q": "Neolit davrida kashf etilgan va kundalik hayotda muhim o‘rin tutgan hunarmandchilik turlarini aniqlang.",
+   "options": [
+    "Kulolchilik, to‘quvchilik",
+    "Temirchilik, zargarlik",
+    "Misgarlik, shishasozlik",
+    "Qurolsozlik, kemasozlik"
+   ],
+   "answer": 0,
+   "explanation": "Neolitda odamlar loydan sopol idish yasashni (kulolchilik) va tolalardan ip yigirib, to‘qishni o‘rgangan; toshni silliqlash va parmalash ham shu davr yutug‘i."
+  },
+  {
+   "q": "Makedoniyalik Aleksandrning O‘rta Osiyoda qal’a-shaharlar (Aleksandriyalar) qurdirishdan maqsadi nima edi?",
+   "options": [
+    "Yunon tilini majburan joriy etish",
+    "O‘rta Osiyo hududlarini bir-biri bilan bog‘lab, yagona harbiy-strategik tizimga aylantirish",
+    "Buyuk ipak yo‘lini ochish",
+    "Mahalliy hukmdorlarga in’om qilish"
+   ],
+   "answer": 1,
+   "explanation": "Bosib olingan yerlarni nazoratda ushlab turish uchun qal’a-shaharlar qurilgan: Sirdaryo bo‘yidagi Aleksandriya Esxata (Chekka Aleksandriya), Oksdagi Aleksandriya, Marg‘iyona Aleksandriyasi."
+  },
+  {
+   "q": "Zardushtiylikda Anahita qanday ma’buda hisoblangan?",
+   "options": [
+    "Quyosh va yorug‘lik ma’budi",
+    "Hosildorlik va suv ma’budasi",
+    "Yovuzlik va o‘lim ma’budi",
+    "Oliy xudo"
+   ],
+   "answer": 1,
+   "explanation": "Zardushtiylik xudolari: Ahuramazda – oliy xudo, Mitra – Quyosh va yorug‘lik ma’budi, Anahita – hosildorlik va suv ma’budasi, Ahriman – yovuzlik va o‘lim ma’budi."
+  },
+  {
+   "q": "Mil. avv. IV–III asrlarda Xorazm shaharsozlik markaziga aylandi. Qaysi qatorda faqat qadimgi Xorazm shaharlari berilgan?",
+   "options": [
+    "Afrosiyob, Yerqo‘rg‘on, Bozorqal’a, Tuproqqal’a",
+    "Xiva, Jonbosqal’a, Bozorqal’a, Tuproqqal’a",
+    "Kampirtepa, Dalvarzintepa, Xiva, Jonbosqal’a",
+    "Jarqo‘ton, Sopollitepa, Jonbosqal’a, Xiva"
+   ],
+   "answer": 1,
+   "explanation": "Chalg‘ituvchilardagi yodgorliklar boshqa vohalarga tegishli: Kampirtepa, Dalvarzintepa, Jarqo‘ton, Sopollitepa – Surxondaryo; Afrosiyob – Samarqand; Yerqo‘rg‘on – Qashqadaryo."
+  },
+  {
+   "q": "Kushonlar davrida binokorlik va me’morchilikka oid to‘g‘ri ma’lumotlarni aniqlang.\n1. Dalvarzintepa va Eski Termiz singari shaharlar xom g‘ishtdan qurilgan mustahkam mudofaa devorlari bilan o‘ralgan\n2. Mudofaa devorlari ortida hukmdor qarorgohi joylashgan\n3. Shaharlar hunarmandlar mahallalari va turarjoy mavzelariga ajratilgan\n4. Shaharlar pishgan g‘ishtdan qurilishi haqida farmon chiqarilgan\n5. Shaharlarda saroy va ibodatxonalar barpo etilgan",
+   "options": [
+    "1, 2, 3, 5",
+    "1, 3, 4",
+    "2, 4, 5",
+    "1, 2, 4, 5"
+   ],
+   "answer": 0,
+   "explanation": "4-band noto‘g‘ri: shaharlarni pishgan g‘ishtdan qurish haqidagi farmon Bobil podshosi Navuxodonosor II ga tegishli."
+  },
+  {
+   "q": "Rofe ibn Lays Harsama A’yan bilan sulh tuzib, ular o‘rtasida quda-andachilik vujudga kelishi Xuroson siyosiy hayotida qanday o‘zgarishga olib keldi?",
+   "options": [
+    "Abu Ja’far Davonaqiy taxtdan ag‘darildi",
+    "Xurosonda umaviylar hukmronligi boshlandi",
+    "Turk lashkarlari yordamiga chek qo‘yildi",
+    "Rofening butun Xurosonni egallab olish xavfiga barham berildi"
+   ],
+   "answer": 3,
+   "explanation": "Sulh va qudachilik Rofe ibn Laysning butun Xurosonni qo‘lga olish xavfini bartaraf etdi. Umaviylar bu davrda allaqachon ag‘darilgan (750-y.), Davonaqiy esa abbosiy xalifa bo‘lgan."
+  },
+  {
+   "q": "Nuqtalar o‘rnini to‘ldiring: «Ray hukmdori ..A..ning hali voyaga yetmaganligi tufayli Rayni o‘g‘li nomidan Sayida Xotun idora qilardi. Mahmud G‘aznaviy xutbaga o‘z nomini qo‘shib o‘qitishni va Sulton Mahmud nomi bilan ..B.. chiqarishni talab qildi. Sulton Mahmud Rayga qo‘shin tortib, ..C.. shaharni o‘z hukmronligiga o‘tkazdi.»",
+   "options": [
+    "A-Faxriddin Davlo, B-oltin tanga, C-Sayida Xotun vafotidan keyin",
+    "A-Najmiddin Davlo, B-mis tanga, C-1029-yil",
+    "A-Zahiriddin Davlo, B-farmon, C-29 yildan keyin",
+    "A-Majdiddin Davlo, B-tanga pul, C-1029-yil"
+   ],
+   "answer": 3,
+   "explanation": "Ray voyaga yetmagan Majdiddin Davlo nomidan uning onasi Sayida Xotun tomonidan boshqarilgan; Faxriddin Davlo – Sayida Xotunning eri. Mahmud xutba va tanga talab qilgan, Sayida Xotun rad etgan;"
+  },
+  {
+   "q": "To‘g‘ri moslashtirilgan javobni aniqlang: A. Eftaliylar davlati; B. Turk xoqonligi; C.\nUmumiy.\n1. Saljuqiylar tomonidan tugatilgan\n2. Ashina xonadoni vakillari tomonidan boshqarilgan\n3. Ilk o‘rta asrlarda yurtimiz hududida hukmronlik qilgan\n4. Sosoniylar shohi Pero‘z unga qarshi kurash olib borgan\n5. Dastlabki poytaxti Buxoro yaqinidagi Poykent va Varaxsha bo‘lgan\n6. El hokimi «yabg‘u» (jabg‘u) deb atalgan",
+   "options": [
+    "A-3, 4; B-2, 6; C-1",
+    "A-2, 5; B-4, 6; C-3",
+    "A-4, 5; B-2, 6; C-1",
+    "A-4, 5; B-2, 6; C-3"
+   ],
+   "answer": 3,
+   "explanation": "Eftaliylar: sosoniy shoh Pero‘z ularga qarshi kurashgan, dastlabki poytaxti Poykent va Varaxsha. Turk xoqonligi: Ashina xonadoni boshqargan, el hokimi «yabg‘u» deb atalgan."
+  },
+  {
+   "q": "Turk xoqonligi davrida Sug‘d boshqaruviga oid matnni to‘ldiring: «Sug‘d hududlariga hozirgi ..1.. bo‘lgan yerlar kirgan. Buxoro esa ..2.. mustaqil mulklar ittifoqidan iborat bo‘lgan. Sug‘dning mahalliy hokimlari ayrim vaqtlarda ..3.. mustaqil hukmdorlari bilan birlashar edilar.»",
+   "options": [
+    "1-Samarqanddan Buxorogacha; 2-VI asrdan; 3-Farg‘ona va Choch",
+    "1-Panjikentdan Karmanagacha; 2-VI asrdan; 3-Farg‘ona va Xorazm",
+    "1-Panjikentdan Karmanagacha; 2-VII asrdan boshlab; 3-Choch va Xorazm",
+    "1-Kesh va Naxshabdan Karmanagacha; 2-VIII asrdan; 3-Choch va Farg‘ona"
+   ],
+   "answer": 2,
+   "explanation": "Farg‘ona Sug‘d ittifoqiga kirmagan, alohida mulk bo‘lgan – shuning uchun «Farg‘ona» qatnashgan variantlar xato."
+  },
+  {
+   "q": "Nuqtalar o‘rnini to‘ldiring: «G‘aznaviylar davrida hojiblikning ulug‘ hojib, saroy hojibi, navbatchi hojib, hojib-jomador shakllari bo‘lgan. Mahmud G‘aznaviydan so‘ng bevosita hokimiyat ishlarini qo‘lga olgan ulug‘ hojib ..A.. bo‘lgan. Rasmiy marosimlarda ulug‘ hojib ..B.. turgan, janglarda unga ..C.. boshchilik qilish yuklatilgan.»",
+   "options": [
+    "A-Ali Qarib; B-hukmdorga eng yaqin joyda; C-qo‘shinning eng salmoqli va mas’uliyatli qismiga",
+    "A-Alptegin; B-vazir yonida; C-qo‘shin ortiga",
+    "A-Ali Qarib; B-saroy darvozasida; C-xos soqchilarga",
+    "A-Abu Ali Simjur; B-hukmdorga eng yaqin joyda; C-qo‘shin markaziga"
+   ],
+   "answer": 0,
+   "explanation": "Mahmud vafotidan keyin hokimiyat ishlarini ulug‘ hojib Ali Qarib qo‘lga olgan. Alptegin – G‘aznaviylar davlatining asoschisi, Abu Ali Simjur – somoniylarga qarshi chiqqan Xuroson sipohsolori."
+  },
+  {
+   "q": "Mahmud G‘aznaviy qanday xizmati uchun «Sayfuddavla» («Davlat qilichi») unvonini olgan?",
+   "options": [
+    "Hindistonga 17 marta yurish qilgani uchun",
+    "Somoniylarning qoraxoniylarga tayangan dushmanlari – Abu Ali Simjur va Foyiq qo‘shinlarini mag‘lub etgani uchun",
+    "Rayni egallagani uchun",
+    "Dandanaqon jangidagi g‘alabasi uchun"
+   ],
+   "answer": 1,
+   "explanation": "Somoniy amir Nuh II Abu Ali Simjur va Foyiqni yenggani uchun Sabuqteginni «Nosir ud- din va-d-dunyo», Mahmudni esa «Sayfuddavla» unvoni bilan taqdirlab, unga Xuroson sipohsolorligini bergan."
+  },
+  {
+   "q": "Olimlarni ularga oid ma’lumotlar bilan moslashtiring: 1. Abu Nasr Forobiy; 2.\nAhmad Farg‘oniy.\na) Forob (O‘tror)da tug‘ilgan, «Al-muallim as-soniy» («Ikkinchi muallim»), «Sharq Arastusi» unvonlariga sazovor bo‘lgan\nb) Quva qishlog‘ida tug‘ilgan; 861-yil Qohira yaqinidagi Ravzo orolida «nilometr» yasagan\nc) 160 dan ortiq asar yaratgan, musiqani tarbiya omili deb bilgan\nd) Yevropada «Alfraganus» nomi bilan tanilgan; oydagi kraterlardan biri uning nomi bilan atalgan",
+   "options": [
+    "1-a, c; 2-b, d",
+    "1-a, b; 2-c, d",
+    "1-b, d; 2-a, c",
+    "1-a, d; 2-b, c"
+   ],
+   "answer": 0,
+   "explanation": "Forobiy (873–950) – Forobda (O‘tror) tug‘ilgan, «Ikkinchi muallim», «Sharq Arastusi», 160 dan ortiq asar muallifi, musiqa nazariyotchisi."
+  },
+  {
+   "q": "Saljuqiylar hukmdorlarini ularga oid ma’lumotlar bilan moslashtiring: 1. Saljuq;\n2. To‘g‘rulbek; 3. Malikshoh.\na) X asrda bir qancha qabilalar sardori, katta harbiy kuch boshlig‘i darajasiga erishgan\nb) Bag‘dod xalifasi unga «Malik al-Mashriq» («Sharq hukmdori») va «Rukn ad-din» nomini bergan\nc) Uning zamonida Samarqand, Buxoro, Farg‘ona saljuqiylar qo‘l ostida birlashib, saltanat Sharqiy Turkistondan O‘rta dengizgacha cho‘zilgan\nd) 1071-yil Kichik Osiyoda Vizantiya imperatori Roman IV Diogenni yenggan",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-a, 2-d, 3-c",
+    "1-b, 2-a, 3-d",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 0,
+   "explanation": "Saljuq – X asrda qabilalar sardori; To‘g‘rulbek – xalifa unga «Malik al-Mashriq» va «Rukn ad-din» nomini bergan;"
+  },
+  {
+   "q": "O‘rta asr shaharlarining tashqi savdo-hunarmandchilik qismi qanday atalgan?",
+   "options": [
+    "Rabod",
+    "Ark",
+    "Shahriston",
+    "Ko‘handiz"
+   ],
+   "answer": 0,
+   "explanation": "O‘rta asr shahri uch qismdan iborat bo‘lgan: ko‘handiz (ark, qal’a), shahriston (ichki shahar) va rabod (tashqi savdo-hunarmandchilik qismi)."
+  },
+  {
+   "q": "Muqanna va Rofe ibn Lays qo‘zg‘olonlariga oid ma’lumotlarni moslashtiring: 1.\nMuqanna qo‘zg‘oloni; 2. Rofe ibn Lays qo‘zg‘oloni.\na) «Oq kiyimlilar» harakati; markazi Kesh vohasidagi Som qal’asi; 783-yilda qal’a olingach rahbar o‘z joniga qasd qildi\nb) 806-yilda Samarqanddan boshlanib, Shosh, Farg‘ona, Buxoro, Naxshab, Xorazmga tarqaldi\nc) Xuroson noibi Ma’mun Somonxudot nabiralari yordamida rahbarni taslim bo‘lishga majbur qildi\nd) Rahbari marvlik kudungar, yuziga parda tutgani uchun «Niqobdor» deb atalgan",
+   "options": [
+    "1-a, d; 2-b, c",
+    "1-a, b; 2-c, d",
+    "1-b, c; 2-a, d",
+    "1-a, c; 2-b, d"
+   ],
+   "answer": 0,
+   "explanation": "Muqanna (Hoshim ibn Hakim) – marvlik kudungar, «Niqobdor»; «Oq kiyimlilar» harakati, markazi Kesh vohasidagi Som qal’asi, 783-yilda qal’a olingach o‘zini o‘ldirgan."
+  },
+  {
+   "q": "Ray hukmdori Sayida Xotun va Mahmud G‘aznaviy munosabatlariga oid to‘g‘ri ma’lumotlarni aniqlang.\n1. Ray hududini voyaga yetmagan Majdiddin Davlo nomidan Sayida Xotun idora qilgan\n2. Mahmud G‘aznaviy xutbada o‘z nomini o‘qitishni va o‘z nomi bilan tanga zarb etishni talab qilgan\n3. Sayida Xotun talablarni qabul qilib, G‘aznaviylarga tobe bo‘lgan\n4. Mahmud G‘aznaviy Rayni 1017-yilda Xorazm bilan bir vaqtda bosib olgan\n5. Sayida Xotunning eri Faxriddin Davlo bo‘lgan",
+   "options": [
+    "1, 2, 5",
+    "1, 3, 5",
+    "1, 3, 4",
+    "2, 4, 5"
+   ],
+   "answer": 0,
+   "explanation": "3-band xato: Sayida Xotun Mahmud talabini rad etgan («Sulton meni yengsa, unga shuhrat keltirmaydi…» degan mazmunda javob qaytargan). 4-band xato: 1017-yilda Xorazm olingan, Ray esa 1029-yilda."
+  },
+  {
+   "q": "G‘aznaviylar (I) va Saljuqiylar (II) ga xos hamda ikkalasi uchun umumiy (III) belgilarni aniqlang.\n1. Sulola asoschisi Sabuqtegin barsxon turkiy qabilasidan bo‘lgan\n2. Bag‘dod xalifasi hukmdorga «Malik al-Mashriq» nomini bergan\n3. 1040-yilgi Dandanaqon jangi ishtirokchisi\n4. 1017-yilda Hazorasp yonidagi jangda Xorazm qo‘shinini mag‘lub etgan\n5. Hukmdori Alp Arslon Roman IV Diogenni yenggan\n6. Bag‘dod xalifasini tan olib, undan faxriy unvon olgan\n7. Bosh vaziri Nizomulmulk «Siyosatnoma» asarini yozgan",
+   "options": [
+    "I – 4; II – 1, 2, 5, 7; III – 3, 6",
+    "I – 1, 4; II – 2, 5; III – 3, 6, 7",
+    "I – 1, 4; II – 2, 5, 7; III – 3, 6",
+    "I – 1, 4, 6; II – 2, 5, 7; III – 3"
+   ],
+   "answer": 2,
+   "explanation": "G‘aznaviylar: asoschisi Sabuqtegin (barsxon turklaridan), 1017-yil Hazorasp yonida Xorazm qo‘shinini yengan."
+  },
+  {
+   "q": "Turk xoqonligining eftaliylarga qarshi kurashiga oid to‘g‘ri ma’lumotni aniqlang.",
+   "options": [
+    "Turk xoqonligi eftaliylar bilan ittifoq tuzib, sosoniylarga qarshi kurashdi",
+    "Turk xoqonligi sosoniylar hukmdori Xusrav I Anushervon bilan eftaliylarga qarshi harbiy ittifoq tuzdi; eftaliylar davlati 563–567-yillarda parchalandi",
+    "Eftaliylar sosoniy shoh Pero‘zni 563-yilda asir oldi",
+    "Eftaliylar davlati arablar tomonidan tugatildi"
+   ],
+   "answer": 1,
+   "explanation": "Eftaliylar shimoldan turklar, janubdan sosoniylar zarbasiga uchragan; Amudaryodan janubdagi yerlar Eronga, shimoldagi yerlar Turk xoqonligiga o‘tgan."
+  },
+  {
+   "q": "Somoniylar sulolasining shajarasi manbalarda kimga borib taqaladi?",
+   "options": [
+    "Sosoniy shoh Xurmazd IV ning harbiy qo‘mondoni Bahrom Chubinga",
+    "Afrig‘ga",
+    "Ashina xonadoniga",
+    "Abu Muslimga"
+   ],
+   "answer": 0,
+   "explanation": "Manbalarda Somoniylar nasabi VI asr oxirida Xurmazd IV ga qarshi qo‘zg‘olon ko‘targan sarkarda Bahrom Chubinga bog‘lanadi. Afrig‘ – Xorazm sulolasi asoschisi, Ashina – turk xoqonlari xonadoni."
+  },
+  {
+   "q": "Xorazmshohlar Takash (I) va Alovuddin Muhammad (II) ga xos hamda ikkalasi uchun umumiy (III) belgilarni aniqlang.\n1. Ukasi Sultonshoh Mahmud bilan taxt uchun kurashgan\n2. Movarounnahrdan qoraxitoylarni haydab chiqargan\n3. Xorazmshohlar (anushteginiylar) sulolasi vakili\n4. 1194-yilda Eronni qo‘shib olgan, G‘arbiy Eronning bir qismi va Kirmonni bo‘ysundirgan\n5. Vazir lavozimini bekor qilib, olti vakildan iborat kengash joriy etgan\n6. Davlat hududini Eron hisobiga kengaytirgan",
+   "options": [
+    "I – 1, 4; II – 2, 5; III – 3, 6",
+    "I – 1, 2; II – 4, 5; III – 3, 6",
+    "I – 4, 5; II – 1, 2; III – 3, 6",
+    "I – 1, 4, 6; II – 2, 5; III – 3"
+   ],
+   "answer": 0,
+   "explanation": "Takash: ukasi Sultonshoh bilan taxt uchun kurashgan, 1194-yilda Eronni qo‘shib olgan."
+  },
+  {
+   "q": "G‘aznaviylar (I) va Qoraxoniylar (II) ga xos hamda ikkalasi uchun umumiy (III) belgilarni aniqlang.\n1. Poytaxti G‘azna, 1017-yilda Xorazmni bo‘ysundirgan\n2. Siyosiy markazlari Bolasog‘un va Qoshg‘ar\n3. Turkiy sulola, islom davlati\n4. 1040-yilda Dandanaqonda saljuqiylardan yengilgan\n5. Yusuf Xos Hojibning «Qutadg‘u bilig» asari shu davlatda yozilgan\n6. Somoniylar hududlari ular o‘rtasida bo‘lingan",
+   "options": [
+    "I – 1, 4; II – 2, 5; III – 3, 6",
+    "I – 1, 5; II – 2, 4; III – 3, 6",
+    "I – 1, 4, 6; II – 2, 5; III – 3",
+    "I – 4; II – 2, 5; III – 1, 3, 6"
+   ],
+   "answer": 0,
+   "explanation": "G‘aznaviylar: poytaxti G‘azna, 1017-yilda Xorazmni bo‘ysundirgan, 1040-yilda Dandanaqonda saljuqiylardan yengilgan."
+  },
+  {
+   "q": "O‘rta asr hukmdorlarini ularga oid ma’lumotlar bilan moslashtiring: 1. Buyuk Alfred; 2. Genrix II (Angliya); 3. Vilgelm I.\na) Baronlarga harbiy xizmat o‘rniga «qalqon puli» to‘lashga ruxsat berildi\nb) «Daniyaliklar puli» solig‘i joriy etildi\nc) «Erkinlikning buyuk xartiyasi»ni imzoladi\nd) Gastings jangida g‘alaba qozondi",
+   "options": [
+    "1-a, 2-b, 3-d",
+    "1-b, 2-a, 3-d",
+    "1-d, 2-b, 3-a",
+    "1-b, 2-c, 3-d"
+   ],
+   "answer": 1,
+   "explanation": "Alfred – birinchi doimiy soliq «daniyaliklar puli»; Genrix II – baronlarga harbiy xizmat o‘rniga «qalqon puli» to‘lashga ruxsat bergan; Vilgelm I – 1066-yil Gastings jangida g‘alaba qozongan."
+  },
+  {
+   "q": "Franklar qiroli Xlodvig davrida sodir bo‘lgan voqeani aniqlang.",
+   "options": [
+    "Puatye jangida arablarni mag‘lub etdi",
+    "Oilada erkak qolmasa, mulk marhumning qiziga o‘tishi haqida qonun qabul qilindi",
+    "Suasson yaqinida Rim qo‘shinlari mag‘lub etildi",
+    "Otliq qo‘shin tuzdi"
+   ],
+   "answer": 2,
+   "explanation": "486-yilda Xlodvig Suasson yaqinida Rim noibi qo‘shinini yengib, Franklar davlatini kengaytirgan. Puatye jangi (732) va otliq qo‘shin tuzish – majordom Karl Martellga tegishli."
+  }
+ ]
+}
