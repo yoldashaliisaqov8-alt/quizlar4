@@ -1,0 +1,20 @@
+{
+  // Isakov school viktorina boti — Cloudflare avtomatik joylashtirish sozlamasi
+  "name": "quizbot",
+  "main": "src/index.js",
+  "compatibility_date": "2025-06-01",
+  "workers_dev": true,
+  "keep_vars": true,
+  "vars": {
+    "QUIZ_BASE_URL": "https://yoldashaliisaqov8-alt.github.io/quizlar4/"
+  },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "quizdb", "database_id": "5629a061-f187-44f0-a004-a5ee22445e7e" }
+  ],
+  "queues": {
+    "producers": [{ "binding": "TIMER", "queue": "quiz-timer" }],
+    "consumers": [{ "queue": "quiz-timer", "max_batch_size": 1, "max_batch_timeout": 1 }]
+  },
+  "triggers": { "crons": ["* * * * *"] },
+  "observability": { "enabled": true }
+}
