@@ -374,7 +374,18 @@ async function parolCmd(env, msg, text) {
 
 
 // ---------- Majburiy obuna ----------
-const SUBS_DEFAULT = { on: true, tarix: ["@yoldashaliisakov", "@huquqmezoni"], huquq: ["@yoldashaliisakov", "@huquqmezoni"] };
+const HUQUQ_CH = { id: "@huquqmezoni", name: "Huquq mezoni", link: "https://t.me/+JHqVNFFPSwE1Mjdi" };
+const SUBS_DEFAULT = { on: true, tarix: ["@yoldashaliisakov", HUQUQ_CH], huquq: ["@yoldashaliisakov", HUQUQ_CH] };
+// Kanal: "@nom" yoki {id: "@nom" | "-100…", name, link}
+const chObj = (c) => typeof c === "string" ? { id: c, name: c, link: `https://t.me/${c.replace(/^@/, "")}` } : c;
+function parseChannels(tokens) {
+  const out = [];
+  for (const t of tokens) {
+    if (/^@\w{4,}$/.test(t) || /^-100\d{5,}$/.test(t)) out.push({ id: t, name: t.startsWith("@") ? t : "Kanal", link: t.startsWith("@") ? `https://t.me/${t.slice(1)}` : "" });
+    else if (/^https:\/\/t\.me\//.test(t) && out.length) out[out.length - 1].link = t;
+  }
+  return out.filter((c) => c.link);
+}
 async function getSubs(env) {
   await ensureLock(env);
   const r = await env.DB.prepare("SELECT v FROM settings WHERE k='subs'").first();
@@ -388,15 +399,16 @@ async function needSubs(env, user, chat_id, name) {
   const sec = (await sectionOf(env, name)) || "";
   const list = /^h(d|\d+)$/.test(sec) ? S.huquq : S.tarix;
   const missing = [];
-  for (const ch of list || []) {
-    const r = await tg(env, "getChatMember", { chat_id: ch, user_id: user.id });
-    if (!r.ok) { console.log("Obuna tekshirib bo'lmadi (bot kanalda admin emasmi?)", ch, JSON.stringify(r)); continue; }
+  for (const c of list || []) {
+    const ch = chObj(c);
+    const r = await tg(env, "getChatMember", { chat_id: ch.id, user_id: user.id });
+    if (!r.ok) { console.log("Obuna tekshirib bo'lmadi (bot kanalda admin emasmi?)", ch.id, JSON.stringify(r)); continue; }
     const st = r.result.status;
     const ok = ["creator", "administrator", "member"].includes(st) || (st === "restricted" && r.result.is_member);
     if (!ok) missing.push(ch);
   }
   if (!missing.length) return true;
-  const kb = missing.map((ch) => [{ text: `📢 ${ch} ga obuna bo'lish`, url: `https://t.me/${ch.replace(/^@/, "")}` }]);
+  const kb = missing.map((ch) => [{ text: `📢 ${ch.name} — obuna bo'lish`, url: ch.link }]);
   kb.push([{ text: "✅ Obuna bo'ldim — testni boshlash", callback_data: `q:${name}` }]);
   await send(env, chat_id,
     `📢 <b>Testni boshlash uchun kanalimizga obuna bo'ling!</b>\n\nKanalda yangi testlar, foydali materiallar va e'lonlar chiqib boradi.\n\nObuna bo'lgach, pastdagi <b>"✅ Obuna bo'ldim"</b> tugmasini bosing 👇`,
@@ -408,11 +420,19 @@ async function obunaCmd(env, msg, text) {
   const parts = text.trim().split(/\s+/).slice(1);
   const S = await getSubs(env);
   const save = () => env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('subs', ?)").bind(JSON.stringify(S)).run();
-  const info = () => `📢 <b>Majburiy obuna: ${S.on ? "YOQIQ ✅" : "O'CHIQ"}</b>\nTarix testlari: ${esc((S.tarix || []).join(", ") || "—")}\nHuquq testlari: ${esc((S.huquq || []).join(", ") || "—")}\n\n<code>/obuna off</code> · <code>/obuna on</code>\n<code>/obuna tarix @kanal1 @kanal2</code>\n<code>/obuna huquq @kanal</code>\n\n⚠️ Bot har bir kanalda admin bo'lishi shart.`;
+  const info = () => `📢 <b>Majburiy obuna: ${S.on ? "YOQIQ ✅" : "O'CHIQ"}</b>\nTarix testlari: ${esc((S.tarix || []).map((c) => chObj(c).name + " (" + chObj(c).id + ")").join(", ") || "—")}\nHuquq testlari: ${esc((S.huquq || []).map((c) => chObj(c).name + " (" + chObj(c).id + ")").join(", ") || "—")}\n\n<code>/obuna off</code> · <code>/obuna on</code>\n<code>/obuna tarix @kanal1 @kanal2</code>\n<code>/obuna huquq @kanal https://t.me/+taklif</code>\n\nYopiq kanal ID sini bilish uchun: kanaldan biror postni botga <b>forward</b> qiling.\n⚠️ Bot har bir kanalda admin bo'lishi shart.`;
   if (!parts.length) return send(env, msg.chat.id, info());
   const k = parts[0].toLowerCase();
   if (k === "off" || k === "on") S.on = k === "on";
-  else if (k === "tarix" || k === "huquq") S[k] = parts.slice(1).filter((x) => /^@\w{4,}$/.test(x));
+  else if (k === "tarix" || k === "huquq" || k === "hammasi") {
+    const chs = parseChannels(parts.slice(1));
+    if (!chs.length) return send(env, msg.chat.id, "❌ Kanal topilmadi. Namuna: <code>/obuna huquq @kanal https://t.me/+taklif</code>");
+    for (const c of chs) {
+      const g = await tg(env, "getChat", { chat_id: c.id });
+      if (g.ok && g.result.title) c.name = g.result.title;
+    }
+    if (k === "hammasi") { S.tarix = chs; S.huquq = chs; } else S[k] = chs;
+  }
   else return send(env, msg.chat.id, info());
   await save();
   return send(env, msg.chat.id, "✅ Saqlandi.\n\n" + info());
@@ -428,6 +448,13 @@ async function isAdmin(env, msg) {
 // ---------- Buyruqlar ----------
 async function onMessage(env, msg) {
   const text = msg.text || "";
+  const fch = msg.forward_from_chat || (msg.forward_origin && msg.forward_origin.chat);
+  if (msg.chat.type === "private" && fch && msg.from && String(msg.from.id) === OWNER(env)) {
+    const r = await tg(env, "getChatMember", { chat_id: fch.id, user_id: (await tg(env, "getMe", {})).result.id });
+    const adm = r.ok && ["administrator", "creator"].includes(r.result.status);
+    return send(env, msg.chat.id,
+      `📢 <b>${esc(fch.title || "")}</b>\nID: <code>${fch.id}</code>${fch.username ? "\nUsername: @" + fch.username : ""}\nBot bu kanalda admin: ${adm ? "HA ✅" : "YO'Q ❌ — avval admin qiling"}\n\nObunaga qo'shish uchun (taklif havolasini o'zingiznikiga almashtiring):\n<code>/obuna hammasi @yoldashaliisakov ${fch.id} https://t.me/+taklif</code>`);
+  }
   if (!text.startsWith("/")) {
     if (msg.chat.type === "private" && text && msg.from) await tryPassword(env, msg);
     return;
