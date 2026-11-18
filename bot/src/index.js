@@ -114,6 +114,7 @@ async function finish(env, s) {
     for (const row of [
       [`🔁 Qayta ishlash`, s.quiz_id === "xatolar" ? "x" : `q:${s.quiz_id}`, s.quiz_id === "xatolar" ? "xato" : s.quiz_id],
       ...(mc && s.quiz_id !== "xatolar" ? [[`🧩 Xatolar ustida ishlash (${mc})`, "x", "xato"]] : []),
+      ...(s.quiz_id !== "xatolar" ? [[`📄 PDF yuklab olish`, `p:${s.quiz_id}`, `p_${s.quiz_id}`]] : []),
       [`📈 Natijalarim`, "r", "natija"],
       [`📚 Boshqa test tanlash`, "m", "menu"],
     ]) kb.push([await btn(env, s.chat_id, row[0], row[1], row[2])]);
@@ -269,34 +270,54 @@ async function showGroup(env, chat_id, message_id, gid, user) {
   return tg(env, "sendMessage", body);
 }
 
-async function showSection(env, chat_id, message_id, id, page, user) {
-  if (user && !(await gate(env, user, chat_id, id, `s:${id}:${page}`))) return;
+async function showSection(env, chat_id, message_id, id, page, user, pdf = false) {
+  if (user && !(await gate(env, user, chat_id, id, `${pdf ? "sp" : "s"}:${id}:${page}`))) return;
   const cat = await catalog(env);
   const sec = cat.sections.find((x) => x.id === id);
   if (!sec) return showMain(env, chat_id, message_id);
   const per = 15, pages = Math.max(1, Math.ceil(sec.tests.length / per));
   page = Math.min(Math.max(0, page), pages - 1);
+  const P = pdf ? "sp" : "s"; // callback prefiksi
   const kb = [];
   for (const t of sec.tests.slice(page * per, page * per + per)) {
-    let label = `${t.t} (${t.c})`;
-    if (label.length > 60) label = t.t.slice(0, 52) + "… (" + t.c + ")";
-    kb.push([await btn(env, chat_id, label, `q:${t.n}`, t.n)]);
+    let label = `${pdf ? "📄 " : ""}${t.t} (${t.c})`;
+    if (label.length > 60) label = (pdf ? "📄 " : "") + t.t.slice(0, 50) + "… (" + t.c + ")";
+    kb.push([await btn(env, chat_id, label, pdf ? `p:${t.n}` : `q:${t.n}`, pdf ? `p_${t.n}` : t.n)]);
   }
   if (pages > 1) {
     const nav = [];
-    if (page > 0) nav.push(await btn(env, chat_id, "◀️ Oldingi", `s:${id}:${page - 1}`, `s_${id}_${page - 1}`));
-    nav.push(await btn(env, chat_id, `${page + 1}/${pages}`, `s:${id}:${page}`, `s_${id}_${page}`));
-    if (page < pages - 1) nav.push(await btn(env, chat_id, "Keyingi ▶️", `s:${id}:${page + 1}`, `s_${id}_${page + 1}`));
+    if (page > 0) nav.push(await btn(env, chat_id, "◀️ Oldingi", `${P}:${id}:${page - 1}`, `${P}_${id}_${page - 1}`));
+    nav.push(await btn(env, chat_id, `${page + 1}/${pages}`, `${P}:${id}:${page}`, `${P}_${id}_${page}`));
+    if (page < pages - 1) nav.push(await btn(env, chat_id, "Keyingi ▶️", `${P}:${id}:${page + 1}`, `${P}_${id}_${page + 1}`));
     kb.push(nav);
   }
+  if (chat_id > 0) kb.push([pdf
+    ? await btn(env, chat_id, "📝 Test ishlash rejimi", `s:${id}:${page}`, `s_${id}_${page}`)
+    : await btn(env, chat_id, "📄 PDF yuklab olish", `sp:${id}:${page}`, `sp_${id}_${page}`)]);
   const grp = (cat.groups || []).find((x) => x.secs.includes(id));
   kb.push([await btn(env, chat_id, "⬅️ Orqaga", grp ? `g:${grp.id}` : "m", grp ? `g_${grp.id}` : "menu")]);
   const body = {
     chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb },
-    text: `${sec.icon} <b>${esc(sec.title)}</b>\n${sec.tests.length} ta test · mavzuni tanlang 👇`,
+    text: `${sec.icon} <b>${esc(sec.title)}</b>\n${sec.tests.length} ta test · ` + (pdf ? "📄 PDF olish uchun mavzuni tanlang 👇\n<i>(PDF oxirida javoblar va izohlar bor)</i>" : "mavzuni tanlang 👇"),
   };
   if (message_id) return tg(env, "editMessageText", { ...body, message_id });
   return tg(env, "sendMessage", body);
+}
+
+async function sendPdf(env, chat_id, name, user) {
+  const sec = (await sectionOf(env, name)) || "*";
+  if (user && !(await gate(env, user, chat_id, sec, `p:${name}`))) return;
+  if (user && !(await needSubs(env, user, chat_id, name))) return;
+  const cat = await catalog(env);
+  const t = cat.sections.flatMap((x) => x.tests).find((x) => x.n === name);
+  const u = await botUser(env);
+  const r = await tg(env, "sendDocument", {
+    chat_id, document: new URL(`pdf/${name}.pdf`, env.QUIZ_BASE_URL).href, parse_mode: "HTML",
+    caption: `📄 <b>${esc(t ? t.t : name)}</b>${t ? ` · ${t.c} ta savol` : ""}\nJavoblar va izohlar — fayl oxirida.\n\n🤖 Test ishlash: @${u}`,
+    reply_markup: { inline_keyboard: [[await btn(env, chat_id, "📝 Shu testni ishlash", `q:${name}`, name)]] },
+  });
+  if (!r.ok) await send(env, chat_id, "❌ Bu test uchun PDF hali tayyor emas.");
+  else await bump(env, "_pdf");
 }
 
 // Guruh uchun katalog: tugma bosilsa, bot shaxsiy chatda ochiladi va mavzular chiqadi
@@ -347,6 +368,8 @@ async function onCallback(env, cq) {
   if (d === "x" && chat.type === "private") return startMistakes(env, chat.id, cq.from);
   if (d.startsWith("g:")) return showGroup(env, chat.id, mid, d.slice(2), user);
   if (d.startsWith("s:")) { const [, id, pg] = d.split(":"); return showSection(env, chat.id, mid, id, +pg || 0, user); }
+  if (d.startsWith("sp:")) { const [, id, pg] = d.split(":"); return showSection(env, chat.id, mid, id, +pg || 0, user, true); }
+  if (d.startsWith("p:") && chat.type === "private") { const name = d.slice(2); if (/^[\w-]+$/.test(name)) return sendPdf(env, chat.id, name, cq.from); }
   if (d.startsWith("q:") && chat.type === "private") {
     const name = d.slice(2);
     if (/^[\w-]+$/.test(name)) return startPrivate(env, chat.id, name, cq.from);
@@ -694,6 +717,7 @@ async function dailyReport(env, chat) {
     `🆕 Yangi a'zolar: <b>+${nw.n}</b> (jami ${all.n})\n🔥 Bugun faol: <b>${act.n}</b>\n` +
     `📝 Ishlangan testlar: <b>${tests}</b> (shaxsiy: ${get("_shaxsiy")}, guruhda: ${get("_guruh")})\n`;
   if (secs.length) t += `\n🏆 <b>Eng faol bo'limlar:</b>\n` + secs.slice(0, 5).map((r, i) => `${i + 1}. ${esc(nm(r.sec))} — ${r.n} ta`).join("\n") + "\n";
+  if (get("_pdf")) t += `📄 Yuklab olingan PDF: <b>${get("_pdf")}</b>\n`;
   const err = get("_xato");
   t += `\n${err ? `⚠️ Bugun nosozliklar: <b>${err}</b>` : "✅ Bugun nosozlik bo'lmadi"}`;
   return send(env, chat, t);
@@ -1058,6 +1082,8 @@ async function onMessage(env, msg) {
     if (arg === "natija") return myResults(env, chat_id, msg.from);
     if (arg === "xato") return startMistakes(env, chat_id, msg.from);
     if (arg && arg.startsWith("g_")) return showGroup(env, chat_id, null, arg.slice(2), msg.from);
+    if (arg && arg.startsWith("sp_")) { const [id, pg] = arg.slice(3).split("_"); return showSection(env, chat_id, null, id, +pg || 0, msg.from, true); }
+    if (arg && arg.startsWith("p_")) return sendPdf(env, chat_id, arg.slice(2), msg.from);
     if (arg && arg.startsWith("s_")) { const [id, pg] = arg.slice(2).split("_"); return showSection(env, chat_id, null, id, +pg || 0, msg.from); }
     if (arg && arg !== "menu" && /^[\w-]+$/.test(arg)) return startPrivate(env, chat_id, arg, msg.from);
     return showMain(env, chat_id, null, msg.from);
