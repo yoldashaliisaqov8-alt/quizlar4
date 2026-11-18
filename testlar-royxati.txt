@@ -505,6 +505,23 @@ Avtomatik: /avto 20 6-1..6-44  ·  Holat: /avto  ·  To'xtatish: /avto stop
 /quiz huquq-11-22  —  30–31-dars. Ekologik-huquqiy javobgarlik (10 ta)
 /quiz huquq-11-23  —  32–33-dars. Biologik xilma-xillikni muhofaza qilish (15 ta)
 
+=== Tarix atamalari — test (har savolga 45 soniya) ===
+/quiz atama-1  —  6-sinf atamalar (2-to'plam) (30 ta)
+/quiz atama-2  —  7-sinf O'zbekiston tarixi atamalari (49 ta)
+/quiz atama-3  —  7-sinf Jahon tarixi atamalari (50 ta)
+/quiz atama-4  —  8-sinf O'zbekiston tarixi atamalari (30 ta)
+/quiz atama-5  —  8-sinf Jahon tarixi atamalari (50 ta)
+/quiz atama-6  —  9-sinf O'zbekiston tarixi atamalari (49 ta)
+/quiz atama-7  —  9-sinf O'zbekiston tarixi atamalari (2-to'plam) (47 ta)
+/quiz atama-8  —  9-sinf Jahon tarixi atamalari (50 ta)
+/quiz atama-9  —  10-sinf O'zbekiston tarixi atamalari (47 ta)
+/quiz atama-10  —  10-sinf Jahon tarixi atamalar (11 ta)
+/quiz atama-11  —  10-sinf Jahon tarixi atamalari (darslik) (50 ta)
+/quiz atama-12  —  11-sinf O'zbekiston tarixi atamalari (lug'at) (50 ta)
+/quiz atama-13  —  11-sinf O'zbekiston tarixi qo'llanma atamalari (25 ta)
+/quiz atama-14  —  11-sinf atamalar (11 ta)
+/quiz atama-15  —  11-sinf Jahon tarixi atamalari (darslik) (50 ta)
+
 === Boshqa ===
 /quiz tarix1  —  Turkiston general-gubernatorligi (namuna, 3 ta)
 /quiz 6-sinf-1-mavzu  —  6-sinf 1-mavzu (eski nom, 6-1 bilan bir xil)

@@ -264,6 +264,7 @@ async function showGroup(env, chat_id, message_id, gid, user) {
   const cat = await catalog(env);
   const g = (cat.groups || []).find((x) => x.id === gid);
   if (!g) return showMain(env, chat_id, message_id, user);
+  if (g.secs.length === 1) return showSection(env, chat_id, message_id, g.secs[0], 0, user);
   const kb = [];
   for (const sec of g.secs.map((id) => cat.sections.find((x) => x.id === id)).filter(Boolean))
     kb.push([await btn(env, chat_id, `${sec.icon} ${sec.title} (${sec.tests.length})`, `s:${sec.id}:0`, `s_${sec.id}`)]);
@@ -299,7 +300,8 @@ async function showSection(env, chat_id, message_id, id, page, user, pdf = false
     ? await btn(env, chat_id, "📝 Test ishlash rejimi", `s:${id}:${page}`, `s_${id}_${page}`)
     : await btn(env, chat_id, "📄 PDF yuklab olish", `sp:${id}:${page}`, `sp_${id}_${page}`)]);
   const grp = (cat.groups || []).find((x) => x.secs.includes(id));
-  kb.push([await btn(env, chat_id, "⬅️ Orqaga", grp ? `g:${grp.id}` : "m", grp ? `g_${grp.id}` : "menu")]);
+  const back = grp && grp.secs.length > 1;
+  kb.push([await btn(env, chat_id, "⬅️ Orqaga", back ? `g:${grp.id}` : "m", back ? `g_${grp.id}` : "menu")]);
   const body = {
     chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb },
     text: `${sec.icon} <b>${esc(sec.title)}</b>\n${sec.tests.length} ta test · ` + (pdf ? "📄 PDF olish uchun mavzuni tanlang 👇\n<i>(PDF oxirida javoblar va izohlar bor)</i>" : "mavzuni tanlang 👇"),
