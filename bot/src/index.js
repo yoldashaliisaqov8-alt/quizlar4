@@ -715,7 +715,7 @@ const ADMIN_KB = { inline_keyboard: [
   [{ text: "👥 A'zolar", callback_data: "a:azolar" }, { text: "🕒 Faollar", callback_data: "a:faollar" }],
   [{ text: "🏆 Reyting", callback_data: "a:reyting" }, { text: "📊 Excel", callback_data: "a:excel" }],
   [{ text: "📢 Hammaga xabar", callback_data: "a:xabar" }, { text: "📈 Hisobot", callback_data: "a:hisobot" }],
-  [{ text: "🏆 Haftalik reyting", callback_data: "a:haftalik" }],
+  [{ text: "🏆 Haftalik reyting", callback_data: "a:haftalik" }, { text: "☀️ Kun savoli", callback_data: "a:kun" }],
   [{ text: "🔒 Parol", callback_data: "a:parol" }, { text: "📣 Obuna", callback_data: "a:obuna" }],
   [{ text: "📚 Testlar menyusi", callback_data: "a:menyu" }],
 ] };
@@ -731,6 +731,7 @@ async function adminAction(env, cq, act) {
   if (act === "excel") return excelCmd(env, chat);
   if (act === "xabar") return xabarCmd(env, chat);
   if (act === "hisobot") return dailyReport(env, chat);
+  if (act === "kun") return kunCmd(env, fake, "/kunsavoli");
   if (act === "haftalik") return send(env, chat, (await weeklyText(env, null)) + "\n\n<i>Guruhlarga hoziroq yuborish: /haftalik yubor</i>");
   if (act === "parol") return parolCmd(env, fake, "/parol");
   if (act === "obuna") return obunaCmd(env, fake, "/obuna");
@@ -905,6 +906,102 @@ async function weeklyTick(env) {
   await send(env, OWNER(env), `🏆 Haftalik reyting ${n} ta guruhga yuborildi.`);
 }
 
+
+// ---------- Kun savoli ----------
+const DQ_DEFAULT = { on: true, time: "09:00", secs: [], extra: [] };
+let DQ_C = null, DQ_T = 0;
+async function getDQ(env) {
+  if (DQ_C && Date.now() - DQ_T < 300000) return DQ_C;
+  await ensureLock(env);
+  const r = await env.DB.prepare("SELECT v FROM settings WHERE k='dq'").first();
+  DQ_C = r ? { ...DQ_DEFAULT, ...JSON.parse(r.v) } : DQ_DEFAULT; DQ_T = Date.now();
+  return DQ_C;
+}
+async function saveDQ(env, c) {
+  await ensureLock(env);
+  await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('dq', ?)").bind(JSON.stringify(c)).run();
+  DQ_C = c; DQ_T = Date.now();
+}
+async function pickDaily(env, secs) {
+  const cat = await catalog(env);
+  const def = (cat.groups || []).filter((g) => g.id !== "huquq").flatMap((g) => g.secs).filter((id) => id !== "attru");
+  const ids = secs && secs.length ? secs : def;
+  const pool = cat.sections.filter((x) => ids.includes(x.id)).flatMap((x) => x.tests.map((t) => ({ sec: x, t })));
+  for (let k = 0; k < 6 && pool.length; k++) {
+    const it = pool[Math.floor(Math.random() * pool.length)];
+    let d; try { d = await fetchQuiz(env, it.t.n); } catch (e) { continue; }
+    const ok = (d.questions || []).filter((q) => q.q && q.q.length <= 280 && q.options && q.options.length >= 2 && q.options.length <= 10 && q.options.every((o) => String(o).length <= 100));
+    if (ok.length) return { q: ok[Math.floor(Math.random() * ok.length)], sec: it.sec, test: d.title || it.t.t };
+  }
+  return null;
+}
+async function sendDaily(env, chat_id, pick, isChannel) {
+  const u = await botUser(env);
+  const day = dayKey().split("-").reverse().join(".");
+  const q = pick.q;
+  const head = `☀️ <b>KUN SAVOLI</b> · ${day}\n${pick.sec.icon} ${esc(pick.sec.title)}\n\nJavobingizni belgilang 👇`;
+  if (q.image) await tg(env, "sendPhoto", { chat_id, photo: new URL(q.image, env.QUIZ_BASE_URL).href, caption: head, parse_mode: "HTML", protect_content: false });
+  else await send(env, chat_id, head, { protect_content: false });
+  const body = {
+    chat_id, question: "☀️ " + q.q.slice(0, 290), options: q.options.map((t) => ({ text: String(t).slice(0, 100) })),
+    type: "quiz", is_anonymous: !!isChannel, correct_option_id: q.answer, protect_content: false,
+    reply_markup: { inline_keyboard: [[{ text: "📚 Ko'proq testlar — Isakov school", url: `https://t.me/${u}?start=menu` }]] },
+  };
+  if (q.explanation) body.explanation = String(q.explanation).slice(0, 200);
+  const r = await tg(env, "sendPoll", body);
+  // Guruhda javoblar haftalik reytingga qo'shiladi
+  if (r.ok && !isChannel)
+    await env.DB.prepare("INSERT OR REPLACE INTO polls (poll_id, chat_id, session_id, idx, correct) VALUES (?,?,?,?,?)")
+      .bind(r.result.poll.id, chat_id, String(Date.now()), 0, q.answer).run();
+  return r.ok;
+}
+async function dailyTargets(env, c) {
+  await ensureLearn(env);
+  const { results } = await env.DB.prepare("SELECT chat_id FROM groups WHERE last_seen>=?").bind(Date.now() - 30 * 86400000).all();
+  return [...results.map((g) => ({ id: g.chat_id, ch: false })), ...(c.extra || []).map((x) => ({ id: x, ch: true }))];
+}
+async function dailyPostAll(env) {
+  const c = await getDQ(env);
+  const pick = await pickDaily(env, c.secs);
+  if (!pick) return 0;
+  let n = 0;
+  for (const t of await dailyTargets(env, c)) if (await sendDaily(env, t.id, pick, t.ch)) n++;
+  return n;
+}
+async function dailyQTick(env) {
+  const c = await getDQ(env);
+  if (!c.on) return;
+  const hm = new Date(Date.now() + TZ).toISOString().slice(11, 16);
+  if (hm < c.time) return;
+  if (hm > c.time && hm.slice(0, 2) !== c.time.slice(0, 2)) return; // faqat shu soat ichida
+  await ensureLock(env);
+  const r = await env.DB.prepare("SELECT v FROM settings WHERE k='dq_day'").first();
+  if (r && r.v === dayKey()) return;
+  await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('dq_day', ?)").bind(dayKey()).run();
+  await dailyPostAll(env);
+}
+async function kunCmd(env, msg, text) {
+  const chat = msg.chat.id;
+  const parts = text.trim().split(/\s+/).slice(1);
+  const c = { ...(await getDQ(env)) };
+  const info = async () => {
+    const tg_ = await dailyTargets(env, c);
+    return `☀️ <b>Kun savoli: ${c.on ? "YOQIQ ✅" : "O'CHIQ"}</b>\n🕘 Vaqti: <b>${c.time}</b> (Toshkent)\n📚 Bo'limlar: ${c.secs.length ? esc(c.secs.join(", ")) : "Tarix + Attestatsiya (hammasi)"}\n📍 Qayerga: ${tg_.filter((x) => !x.ch).length} ta guruh${c.extra.length ? " + " + esc(c.extra.join(", ")) : ""}\n\n` +
+      `<code>/kunsavoli 09:00</code> — vaqtni o'zgartirish\n<code>/kunsavoli off</code> · <code>/kunsavoli on</code>\n<code>/kunsavoli bolim att1213 t6</code> — faqat shu bo'limlardan (<code>/kunsavoli bolim hammasi</code>)\n<code>/kunsavoli kanal @kanal</code> — kanalga ham (<code>/kunsavoli kanal off</code>)\n<code>/kunsavoli sinov</code> — o'zingizga namuna\n<code>/kunsavoli hozir</code> — hammaga hoziroq yuborish`;
+  };
+  if (!parts.length) return send(env, chat, await info());
+  const k = parts[0].toLowerCase();
+  if (k === "sinov") { const pk = await pickDaily(env, c.secs); return pk ? sendDaily(env, chat, pk, false) : send(env, chat, "Savol topilmadi."); }
+  if (k === "hozir") { const n = await dailyPostAll(env); return send(env, chat, `✅ Kun savoli ${n} ta joyga yuborildi.`); }
+  if (k === "on" || k === "off") c.on = k === "on";
+  else if (/^\d{1,2}:\d{2}$/.test(k)) { const [h, m] = k.split(":"); if (+h > 23 || +m > 59) return send(env, chat, "Vaqt noto'g'ri. Namuna: /kunsavoli 09:00"); c.time = h.padStart(2, "0") + ":" + m; }
+  else if (k === "bolim" || k === "bo'lim") c.secs = parts[1] && parts[1] !== "hammasi" ? parts.slice(1) : [];
+  else if (k === "kanal") c.extra = parts[1] && parts[1] !== "off" ? parts.slice(1).filter((x) => /^(@\w{4,}|-100\d+)$/.test(x)) : [];
+  else return send(env, chat, await info());
+  await saveDQ(env, c);
+  return send(env, chat, "✅ Saqlandi.\n\n" + (await info()));
+}
+
 // ---------- Adminmi? ----------
 async function isAdmin(env, msg) {
   if (msg.chat.type === "private") return true;
@@ -931,6 +1028,7 @@ async function onMessage(env, msg) {
     if (t0 === "/excel") return excelCmd(env, msg.chat.id);
     if (t0 === "/xabar") return xabarCmd(env, msg.chat.id);
     if (t0 === "/hisobot") return dailyReport(env, msg.chat.id);
+    if (t0 === "/kunsavoli") return kunCmd(env, msg, msg.text || "");
     if (t0 === "/haftalik") {
       if ((msg.text || "").includes("yubor")) { const n = await weeklyPost(env); return send(env, msg.chat.id, `✅ Haftalik reyting ${n} ta guruhga yuborildi.`); }
       return send(env, msg.chat.id, (await weeklyText(env, null)) + "\n\n<i>Guruhlarga hoziroq yuborish: /haftalik yubor (har yakshanba 20:00 da o'zi yuboriladi)</i>");
@@ -1128,6 +1226,7 @@ export default {
           { command: "azolar", description: "👥 A'zolar soni" },
           { command: "hisobot", description: "📈 Bugungi hisobot" },
           { command: "haftalik", description: "🏆 Haftalik reyting" },
+          { command: "kunsavoli", description: "☀️ Kun savoli sozlamalari" },
           { command: "xabar", description: "📢 Hammaga xabar" },
           { command: "excel", description: "📊 A'zolar jadvali" },
           { command: "reyting", description: "🏆 TOP-20" },
@@ -1205,5 +1304,6 @@ export default {
     ctx.waitUntil(autoTick(env).catch((e) => alertOwner(env, "avtomatik viktorina", e)));
     ctx.waitUntil(reportTick(env).catch((e) => alertOwner(env, "kunlik hisobot", e)));
     ctx.waitUntil(weeklyTick(env).catch((e) => alertOwner(env, "haftalik reyting", e)));
+    ctx.waitUntil(dailyQTick(env).catch((e) => alertOwner(env, "kun savoli", e)));
   },
 };
