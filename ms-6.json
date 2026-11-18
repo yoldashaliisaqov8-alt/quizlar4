@@ -1,0 +1,496 @@
+{
+ "title": "Xalifalar bog'liq test",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Xalifa al-Mu'tazid Ismoil Somoniyga qaysi unvonni bergan?",
+   "options": [
+    "Amir",
+    "Sulton al-A'zam",
+    "Nosir ad-dinulloh",
+    "Malik al-mashriq"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ismoil Somoniyga berilgan «Mavla amir al-mo'minin» unvoni qanday ma'noni anglatadi?",
+   "options": [
+    "Davlat yulduzi",
+    "Mo'minlar amirining yaqini",
+    "Dinning tayanchi",
+    "Sharq hukmdori"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nuh I ibn Nasrga «al-Malik al-Muayyad» unvonini qaysi xalifa bergan?",
+   "options": [
+    "Al-Qodir",
+    "At-To'i'",
+    "Al-Muttaqiy",
+    "Al-Muqtadiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "«Al-Malik al-Muayyad» unvonining ma'nosi qaysi?",
+   "options": [
+    "Alloh qo'llagan podshoh",
+    "Davlat yordamchisi",
+    "G'olib podshoh",
+    "Shohlar shohi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mansur I ibn Nuhga «al-Malik al-Muvaffaq» unvonini kim bergan?",
+   "options": [
+    "Al-Mustaziy",
+    "Al-Mutiy",
+    "Al-Qo'im",
+    "An-Nosir"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "«Al-Malik al-Muvaffaq» qanday ma'noni bildiradi?",
+   "options": [
+    "Dinni aziz qiluvchi",
+    "Samoviy madad berilgan hukmdor",
+    "Muvaffaqiyat qozongan podshoh",
+    "Mo'minlar amirining do'sti"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abdulmalik II ibn Nuhga «al-Muayyid min as-sama» unvonini qaysi xalifa bergan?",
+   "options": [
+    "Al-Qodir",
+    "Al-Mustansir",
+    "Al-Muqtafi",
+    "Al-Mustazhir"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Al-Muayyid min as-sama» unvonining ma'nosi nima?",
+   "options": [
+    "Davlat tayanchi",
+    "Samoviy madad berilgan hukmdor",
+    "Davlatning o'ng qo'li",
+    "Buyuk xoqon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nuh II ibn Mansurga «Nosir ad-davla» unvonini kim bergan?",
+   "options": [
+    "Al-Muttaqiy",
+    "Al-Mutiy",
+    "At-To'i'",
+    "Al-Mu'tazid"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "«Nosir ad-davla» unvoni qanday tarjima qilingan?",
+   "options": [
+    "Davlat yordamchisi",
+    "Davlat va din himoyachisi",
+    "Dinning tayanchi",
+    "Allohning yerdagi soyasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sabukteginga «Nosiriddin ad-davla» unvonini kim bergan?",
+   "options": [
+    "Mahmud G'aznaviy",
+    "Nuh II ibn Mansur",
+    "Al-Qodir",
+    "Al-Qo'im"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "«Nosiriddin ad-davla» unvonining ma'nosi qaysi?",
+   "options": [
+    "Davlat yulduzi",
+    "Davlat va din himoyachisi",
+    "G'olib podshoh",
+    "Haqiqat isboti"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mahmud G'aznaviyga «Yamin ud-davla va amin ul-milla» unvonini qaysi xalifa bergan?",
+   "options": [
+    "Al-Qodir",
+    "Al-Muttaqiy",
+    "Al-Mustaziy",
+    "An-Nosir"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Yamin ud-davla va amin ul-milla» qanday ma'noni anglatadi?",
+   "options": [
+    "Mo'minlar amirining yaqini",
+    "Davlatning o'ng qo'li va millat ishonchi",
+    "Davlat tayanchi",
+    "Dinni aziz qiluvchi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mahmud G'aznaviyga yana qaysi unvon berilgan?",
+   "options": [
+    "Valiy amir al-mo'minin",
+    "Shohinshoh",
+    "Rukn ad-din",
+    "Husam amir al-mo'minin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mas'ud G'aznaviyga «Shihob ad-davla» va «Nosir ad-dinulloh» unvonlarini kim bergan?",
+   "options": [
+    "Al-Qo'im",
+    "Al-Qodir",
+    "Al-Mustansir",
+    "Al-Muqtafi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Shihob ad-davla» unvonining ma'nosi nima?",
+   "options": [
+    "Davlat yulduzi",
+    "Sharq hukmdori",
+    "Eng buyuk sulton",
+    "Mo'minlar amirining qilichi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Salohiddin Ayyubiyga «al-Malik an-Nosir» unvonini qaysi xalifa bergan?",
+   "options": [
+    "Al-Mustaziy",
+    "Al-Mustansir",
+    "Al-Mustazhir",
+    "Al-Muqtadiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Al-Malik an-Nosir» unvoni qanday ma'noni bildiradi?",
+   "options": [
+    "G'olib podshoh",
+    "Alloh qo'llagan podshoh",
+    "Shohlar shohi",
+    "Davlat yordamchisi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Salohiddin Ayyubiy o'zini qanday atash huquqini olgan?",
+   "options": [
+    "Sulton al-A'zam",
+    "Xodimul Haramayn",
+    "Malik al-mashriq",
+    "Nosir ad-dinulloh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Shamsuddin Eltutmishga 1229-yilda «Sulton» unvonini kim bergan?",
+   "options": [
+    "Al-Qodir",
+    "Al-Mustansir",
+    "Al-Mustaziy",
+    "Al-Musta'sim"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Eltutmish qaysi sulola davrida hukmdor bo'lgan?",
+   "options": [
+    "G'aznaviylar",
+    "Ayyubiylar",
+    "Dehli sultonligi — G'ulomlar sulolasi",
+    "Somoniylar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "To'g'rulbekka «Malik al-mashriq» va «Rukn ad-din» unvonlarini kim bergan?",
+   "options": [
+    "Al-Qo'im",
+    "Al-Muqtadiy",
+    "Al-Mustazhir",
+    "Al-Muqtafi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Malik al-mashriq» qanday ma'noni anglatadi?",
+   "options": [
+    "Din suyanchig'i",
+    "Sharq hukmdori",
+    "Davlat tayanchi",
+    "Eng buyuk sulton"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alp Arslonga «Adud ad-davla» va «al-Burhon» unvonlari nima sababdan berilgan?",
+   "options": [
+    "Hindistonga yurishi uchun",
+    "Vizantiya ustidan qozonilgan g'alaba uchun",
+    "Bag'dodda hukmronlik qilgani uchun",
+    "Mo'g'ullarga qarshi kurashgani uchun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "«Adud ad-davla» unvonining ma'nosi nima?",
+   "options": [
+    "Davlat tayanchi",
+    "Dinning tayanchi",
+    "Davlat yulduzi",
+    "G'olib podshoh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Malikshohga «Jalol ad-davla va ad-din» hamda «Sulton al-A'zam» unvonlarini kim bergan?",
+   "options": [
+    "Al-Qo'im",
+    "Al-Muqtadiy",
+    "Al-Mustazhir",
+    "Al-Mustanjid"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "«Sulton al-A'zam» qanday ma'noni anglatadi?",
+   "options": [
+    "Buyuk xoqon",
+    "Eng buyuk sulton",
+    "Shohlar shohi",
+    "Sharq hukmdori"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Barqiyoruqqa taxt uchun kurashlardagi g'alabasidan so'ng unvonlarni qaysi xalifa bergan?",
+   "options": [
+    "Al-Mustazhir",
+    "Al-Mustansir",
+    "Al-Muqtafi",
+    "An-Nosir"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Barqiyoruqqa berilgan unvonlardan biri qaysi?",
+   "options": [
+    "Yamin amir al-mo'minin",
+    "Zillulloh fil-ard",
+    "Xodimul Haramayn",
+    "Bahouddin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qutbiddin Muhammadga «Xorazmshoh» unvonini rasman qayta tiklab kim topshirgan?",
+   "options": [
+    "Xalifa al-Mustazhir",
+    "Saljuqiy sultoni Barqiyoruq",
+    "Xalifa an-Nosir",
+    "Takash"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qutbiddin Muhammadga «Xorazmshoh» unvoni qaysi yilda topshirilgan?",
+   "options": [
+    "1097-yilda",
+    "1198-yilda",
+    "1229-yilda",
+    "1258-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Otsizga «Husam amir al-mo'minin» va «Bahouddin» unvonlarini kim bergan?",
+   "options": [
+    "Al-Muqtafi",
+    "Al-Mustanjid",
+    "Al-Mustaziy",
+    "Al-Qodir"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Husam amir al-mo'minin» unvoni qanday ma'noni anglatadi?",
+   "options": [
+    "Mo'minlar amirining qilichi",
+    "Mo'minlar amirining do'sti",
+    "Mo'minlar amirining yaqini",
+    "Mo'minlar amirining o'ng qo'li"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "El Aslonga «Muizz ad-din» va «Nosir amir al-mo'minin» unvonlarini kim bergan?",
+   "options": [
+    "Al-Mustanjid",
+    "Al-Mustazhir",
+    "Al-Mustansir",
+    "Al-Muttaqiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Muizz ad-din» qanday ma'noni bildiradi?",
+   "options": [
+    "Dinni aziz qiluvchi",
+    "Davlat yordamchisi",
+    "Haqiqat isboti",
+    "Alloh dinining yordamchisi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Takashga 1198-yilda kim sharaf libosi va manshur jo'natgan?",
+   "options": [
+    "Al-Mustaziy",
+    "An-Nosir",
+    "Al-Musta'sim",
+    "Al-Qo'im"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Alovuddin Muhammadga dastlab qaysi unvonlar berilgan?",
+   "options": [
+    "Sulton va Zillulloh fil-ard",
+    "Malik al-mashriq va Rukn ad-din",
+    "Shihob ad-davla va Nosir ad-dinulloh",
+    "Xoqon al-A'zam va Shohinshoh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alovuddin Muhammad bilan xalifa munosabatlari nima sababdan uzilgan?",
+   "options": [
+    "Savdo mojarosi tufayli",
+    "Siyosiy ixtilof tufayli",
+    "Vizantiya bilan urush tufayli",
+    "Taxtdan voz kechgani uchun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jaloliddin Manguberdiga unvonlarni qaysi xalifa bergan?",
+   "options": [
+    "Al-Mustansir",
+    "Al-Musta'sim",
+    "Al-Muqtafi",
+    "Al-Mutiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddin Manguberdiga unvonlar qaysi xizmatlari uchun berilgan?",
+   "options": [
+    "Vizantiya ustidan g'alabasi uchun",
+    "Mo'g'ullarga qarshi kurashdagi xizmatlari uchun",
+    "Hindistonda sultonlikni tuzgani uchun",
+    "Bag'dodga ko'chib borgani uchun"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jaloliddin Manguberdiga berilgan unvonlardan biri qaysi?",
+   "options": [
+    "Xoqon al-A'zam",
+    "Yamin ud-davla",
+    "Jalol ad-davla",
+    "Nosiriddin ad-davla"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "«Shohinshoh» unvonining ma'nosi nima?",
+   "options": [
+    "Shohlar shohi",
+    "Buyuk xoqon",
+    "Ulug' sulton",
+    "Davlatning o'ng qo'li"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abbosiylar xalifaligi qaysi yillarda mavjud bo'lgan?",
+   "options": [
+    "661–750",
+    "750–1258",
+    "632–661",
+    "1180–1225"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Abbosiylar xalifaligining markazi dastlab qaysi shahar bo'lgan?",
+   "options": [
+    "Damashq",
+    "Qohira",
+    "Bag'dod",
+    "Samarqand"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1258-yilda Bag'dodga bostirib kirib, uni vayron qilgan mo'g'ul xoni kim edi?",
+   "options": [
+    "Chingizxon",
+    "Huloku",
+    "Botuxon",
+    "Amir Temur"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Abbosiylar vakillari Bag'dod qulagach qayerga o'tib, ramziy hukmronlikni davom ettirgan?",
+   "options": [
+    "Damashqqa",
+    "Qohiraga",
+    "Dehliga",
+    "Buxoroga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Umaviylar xalifaligining markazi qaysi shahar bo'lgan?",
+   "options": [
+    "Bag'dod",
+    "Qohira",
+    "Damashq",
+    "Makka"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abbosiylar xalifaligi Misrda ramziy tarzda qaysi yilgacha davom etgan?",
+   "options": [
+    "1258-yilgacha",
+    "1400-yilgacha",
+    "1517-yilgacha",
+    "1600-yilgacha"
+   ],
+   "answer": 2
+  }
+ ]
+}

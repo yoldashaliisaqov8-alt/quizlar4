@@ -1,0 +1,553 @@
+{
+ "title": "Afrika davlatlari va poytaxtlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Jazoirning poytaxti qaysi shahar?",
+   "options": [
+    "Banjul",
+    "Moroni",
+    "Maseru",
+    "Jazoir"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Angolaning poytaxti qaysi shahar?",
+   "options": [
+    "Uagadugu",
+    "Abuja",
+    "Luanda",
+    "Bisau"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Beninning poytaxti qaysi shahar?",
+   "options": [
+    "Monroviya",
+    "Gitega",
+    "Porto-Novo",
+    "Tripoli"
+   ],
+   "answer": 2,
+   "explanation": "Rasmiy poytaxt — Porto-Novo; hukumat joylashgan eng yirik shahar — Kotonu."
+  },
+  {
+   "q": "Botsvananing poytaxti qaysi shahar?",
+   "options": [
+    "Uagadugu",
+    "Xarare",
+    "Niamey",
+    "Gaborone"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Burkina-Fasoning poytaxti qaysi shahar?",
+   "options": [
+    "Niamey",
+    "Abuja",
+    "Maseru",
+    "Uagadugu"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Burundining poytaxti qaysi shahar?",
+   "options": [
+    "Vindxuk",
+    "Njamena",
+    "Gitega",
+    "Addis-Abeba"
+   ],
+   "answer": 2,
+   "explanation": "2019-yildan siyosiy poytaxt — Gitega; eng yirik shahar — Bujumbura."
+  },
+  {
+   "q": "Kamerunning poytaxti qaysi shahar?",
+   "options": [
+    "Vindxuk",
+    "Librevil",
+    "Yaunde",
+    "Niamey"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kabo-Verdening poytaxti qaysi shahar?",
+   "options": [
+    "Bisau",
+    "Vindxuk",
+    "Yaunde",
+    "Praya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Markaziy Afrika Respublikasining poytaxti qaysi shahar?",
+   "options": [
+    "Banguy",
+    "Jibuti",
+    "San-Tome",
+    "Nuakshot"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Chadning poytaxti qaysi shahar?",
+   "options": [
+    "Abuja",
+    "Bisau",
+    "Njamena",
+    "Lilongve"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Komor orollarining poytaxti qaysi shahar?",
+   "options": [
+    "Malabo",
+    "Pretoriya",
+    "Tunis",
+    "Moroni"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kongo Respublikasining poytaxti qaysi shahar?",
+   "options": [
+    "Nuakshot",
+    "Brazzavil",
+    "Rabat",
+    "Akkra"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kongo Demokratik Respublikasining poytaxti qaysi shahar?",
+   "options": [
+    "Port-Lui",
+    "Kinshasa",
+    "Monroviya",
+    "Praya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kot-d'Ivuarning poytaxti qaysi shahar?",
+   "options": [
+    "Porto-Novo",
+    "Nuakshot",
+    "Monroviya",
+    "Yamusukro"
+   ],
+   "answer": 3,
+   "explanation": "Rasmiy poytaxt — Yamusukro; eng yirik shahar — Abidjan."
+  },
+  {
+   "q": "Jibutining poytaxti qaysi shahar?",
+   "options": [
+    "Jibuti",
+    "Akkra",
+    "Pretoriya",
+    "Konakri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misrning poytaxti qaysi shahar?",
+   "options": [
+    "Uagadugu",
+    "Qohira",
+    "Gitega",
+    "Mbabane"
+   ],
+   "answer": 1,
+   "explanation": "Qohira — Afrikaning eng yirik shaharlaridan biri, Nil daryosi bo'yida joylashgan."
+  },
+  {
+   "q": "Ekvatorial Gvineyaning poytaxti qaysi shahar?",
+   "options": [
+    "Malabo",
+    "Gaborone",
+    "Pretoriya",
+    "Xartum"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Eritreyaning poytaxti qaysi shahar?",
+   "options": [
+    "Nayrobi",
+    "Addis-Abeba",
+    "Asmara",
+    "Juba"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Esvatinining poytaxti qaysi shahar?",
+   "options": [
+    "Moroni",
+    "San-Tome",
+    "Konakri",
+    "Mbabane"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Efiopiyaning poytaxti qaysi shahar?",
+   "options": [
+    "Mbabane",
+    "Addis-Abeba",
+    "Tunis",
+    "Yamusukro"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Gabonning poytaxti qaysi shahar?",
+   "options": [
+    "Librevil",
+    "Nuakshot",
+    "Gitega",
+    "Maseru"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gambiyaning poytaxti qaysi shahar?",
+   "options": [
+    "Banjul",
+    "Vindxuk",
+    "Asmara",
+    "Banguy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gananing poytaxti qaysi shahar?",
+   "options": [
+    "Juba",
+    "Monroviya",
+    "Akkra",
+    "Konakri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Gvineyaning poytaxti qaysi shahar?",
+   "options": [
+    "Njamena",
+    "Konakri",
+    "Brazzavil",
+    "Gitega"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Gvineya-Bisauning poytaxti qaysi shahar?",
+   "options": [
+    "Bisau",
+    "Nuakshot",
+    "Abuja",
+    "Jazoir"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Keniyaning poytaxti qaysi shahar?",
+   "options": [
+    "Nayrobi",
+    "Jazoir",
+    "Monroviya",
+    "Njamena"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lesotoning poytaxti qaysi shahar?",
+   "options": [
+    "Port-Lui",
+    "Pretoriya",
+    "Banguy",
+    "Maseru"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Liberiyaning poytaxti qaysi shahar?",
+   "options": [
+    "Nayrobi",
+    "Yaunde",
+    "Monroviya",
+    "Bamako"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Liviyaning poytaxti qaysi shahar?",
+   "options": [
+    "Yamusukro",
+    "Antananarivu",
+    "Tripoli",
+    "Uagadugu"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Madagaskarning poytaxti qaysi shahar?",
+   "options": [
+    "Kigali",
+    "Yaunde",
+    "Gaborone",
+    "Antananarivu"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Malavining poytaxti qaysi shahar?",
+   "options": [
+    "Maputu",
+    "Yaunde",
+    "Konakri",
+    "Lilongve"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Malining poytaxti qaysi shahar?",
+   "options": [
+    "Bamako",
+    "Njamena",
+    "San-Tome",
+    "Bisau"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mavritaniyaning poytaxti qaysi shahar?",
+   "options": [
+    "Nuakshot",
+    "Praya",
+    "Lilongve",
+    "Bamako"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mavrikiyning poytaxti qaysi shahar?",
+   "options": [
+    "Njamena",
+    "Addis-Abeba",
+    "Gitega",
+    "Port-Lui"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Marokashning poytaxti qaysi shahar?",
+   "options": [
+    "Lilongve",
+    "Rabat",
+    "Malabo",
+    "Dodoma"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mozambikning poytaxti qaysi shahar?",
+   "options": [
+    "Konakri",
+    "Maputu",
+    "Port-Lui",
+    "Yamusukro"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Namibiyaning poytaxti qaysi shahar?",
+   "options": [
+    "Addis-Abeba",
+    "Lome",
+    "Port-Lui",
+    "Vindxuk"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Nigerning poytaxti qaysi shahar?",
+   "options": [
+    "Moroni",
+    "Port-Lui",
+    "Niamey",
+    "Konakri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nigeriyaning poytaxti qaysi shahar?",
+   "options": [
+    "Jibuti",
+    "San-Tome",
+    "Abuja",
+    "Dakar"
+   ],
+   "answer": 2,
+   "explanation": "1991-yilda poytaxt Lagosdan Abujaga ko'chirilgan."
+  },
+  {
+   "q": "Ruandaning poytaxti qaysi shahar?",
+   "options": [
+    "Kigali",
+    "Jibuti",
+    "Lusaka",
+    "Dodoma"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "San-Tome va Prinsipining poytaxti qaysi shahar?",
+   "options": [
+    "Luanda",
+    "Xartum",
+    "Akkra",
+    "San-Tome"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Senegalning poytaxti qaysi shahar?",
+   "options": [
+    "Dakar",
+    "Pretoriya",
+    "Malabo",
+    "Kinshasa"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Seyshel orollarining poytaxti qaysi shahar?",
+   "options": [
+    "Gitega",
+    "Konakri",
+    "Jibuti",
+    "Viktoriya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Syerra-Leonening poytaxti qaysi shahar?",
+   "options": [
+    "Kinshasa",
+    "Fritaun",
+    "Banjul",
+    "Yamusukro"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Somalining poytaxti qaysi shahar?",
+   "options": [
+    "Lilongve",
+    "Akkra",
+    "Dakar",
+    "Mogadisho"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Janubiy Afrika Respublikasining poytaxti qaysi shahar?",
+   "options": [
+    "Kampala",
+    "Pretoriya",
+    "Juba",
+    "Bisau"
+   ],
+   "answer": 1,
+   "explanation": "JARda uchta poytaxt bor: ma'muriy — Pretoriya, qonun chiqaruvchi — Keyptaun, sud — Blumfontein."
+  },
+  {
+   "q": "Janubiy Sudanning poytaxti qaysi shahar?",
+   "options": [
+    "San-Tome",
+    "Monroviya",
+    "Juba",
+    "Kampala"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sudanning poytaxti qaysi shahar?",
+   "options": [
+    "Antananarivu",
+    "Dodoma",
+    "Nayrobi",
+    "Xartum"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tanzaniyaning poytaxti qaysi shahar?",
+   "options": [
+    "Dodoma",
+    "Luanda",
+    "Banguy",
+    "Moroni"
+   ],
+   "answer": 0,
+   "explanation": "Rasmiy poytaxt — Dodoma; eng yirik shahar — Dar-es-Salom."
+  },
+  {
+   "q": "Togoning poytaxti qaysi shahar?",
+   "options": [
+    "Lome",
+    "Lusaka",
+    "Dakar",
+    "Njamena"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tunisning poytaxti qaysi shahar?",
+   "options": [
+    "Njamena",
+    "Maputu",
+    "Banguy",
+    "Tunis"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ugandaning poytaxti qaysi shahar?",
+   "options": [
+    "Port-Lui",
+    "Xartum",
+    "Kampala",
+    "Banguy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Zambiyaning poytaxti qaysi shahar?",
+   "options": [
+    "Luanda",
+    "Lusaka",
+    "Yamusukro",
+    "Malabo"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Zimbabvening poytaxti qaysi shahar?",
+   "options": [
+    "Xarare",
+    "Dodoma",
+    "Librevil",
+    "Niamey"
+   ],
+   "answer": 0
+  }
+ ]
+}

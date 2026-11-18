@@ -1,0 +1,171 @@
+{
+ "title": "Qo'qon xonligi mansablari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Qo'qon xonligida bosh vazir va qo'shin bosh qo'mondoni vazifasini bajargan amaldorni aniqlang.",
+   "options": [
+    "Devonbegi",
+    "Qo'shbegi",
+    "Mingboshi",
+    "Yovar"
+   ],
+   "answer": 2,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "Qo'qon xonligida devonxona va xazina hisob-kitobini yuritgan amaldorlar berilgan qatorni toping.",
+   "options": [
+    "devonbegi va mirza",
+    "qo'rboshi va topchiboshi",
+    "yovar va ponsadboshi",
+    "valiy va qal'abon"
+   ],
+   "answer": 0,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "Qo'qon xonligida mehtar qanday vazifani bajargan?",
+   "options": [
+    "bosh vazir bo'lgan",
+    "devonbegining o'rinbosari sifatida moliya ishlariga mas'ul bo'lgan",
+    "qal'a boshlig'i bo'lgan",
+    "xon dasturxoniga taom tortgan"
+   ],
+   "answer": 1,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Qo'shin qismlari va ularning joylashuvini moslang.\n1) Ilg'or 2) Maymana 3) Maysara\na) o'ng qanot b) oldingi qism c) chap qanot",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-c, 2-a, 3-b",
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 3,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "O'z tug'iga ega bo'lgan harbiy bo'linma boshlig'i qanday atalgan?",
+   "options": [
+    "To'qsoba",
+    "Ponsadboshi",
+    "Qo'rboshi",
+    "Mirza"
+   ],
+   "answer": 0,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "To'pchilar bo'linmasi boshlig'ini aniqlang.",
+   "options": [
+    "Dasturxonchi",
+    "Yovar",
+    "Mehtar",
+    "Topchiboshi"
+   ],
+   "answer": 3,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "Qo'qon xonligida beklik hokimlari va qal'a boshliqlari egallagan mansablar qatorini toping.",
+   "options": [
+    "mingboshi, devonbegi, mirza",
+    "qo'shbegi, valiy, qal'abon",
+    "yovar, ponsadboshi, to'qsoba",
+    "ilg'or, maymana, maysara"
+   ],
+   "answer": 1,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "TO'G'RI ma'lumotlarni aniqlang.\n1) Dasturxonchi xon dasturxoniga taom tortuvchi ishonchli mansabdor bo'lgan.\n2) Mingboshi faqat fuqarolik ishlari bilan shug'ullangan.\n3) Yovar maxsus bo'linma qo'mondoni bo'lgan.\n4) Mehtar devonbegidan yuqori mavqeda turgan.",
+   "options": [
+    "2, 4",
+    "1, 2",
+    "1, 3",
+    "3, 4"
+   ],
+   "answer": 2,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "NOTO'G'RI ma'lumotni toping.",
+   "options": [
+    "Xos soqchilari jangda askarlarni ruhlantirgan.",
+    "Mirza devonxona va xazina hisob-kitobini yuritishda qatnashgan.",
+    "Ponsadboshi harbiy qism qo'mondoni bo'lgan.",
+    "Maysara qo'shinning oldingi qismi bo'lgan."
+   ],
+   "answer": 3,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Mansablarni guruhlang.\nI – boshqaruv va moliya; II – harbiy soha\na) devonbegi b) to'qsoba c) mehtar d) topchiboshi e) mirza",
+   "options": [
+    "I – a, c, e; II – b, d",
+    "I – a, b; II – c, d, e",
+    "I – c, d; II – a, b, e",
+    "I – a, e; II – b, c, d"
+   ],
+   "answer": 0,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Vaziyat: Jang oldidan qo'shin saflandi. O'ng qanotga joylashtirilgan qism qanday atalgan?",
+   "options": [
+    "Ilg'or",
+    "Maysara",
+    "Maymana",
+    "Xos soqchilari"
+   ],
+   "answer": 2,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Vaziyat: Xon dasturxoniga taom tortish faqat eng ishonchli shaxsga topshirilgan. Bu mansabni aniqlang.",
+   "options": [
+    "Mirza",
+    "Dasturxonchi",
+    "Qo'rboshi",
+    "Valiy"
+   ],
+   "answer": 1,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Fikrlarni baholang.\nI. Mingboshi qo'lida ham fuqarolik, ham harbiy boshqaruv jamlangan.\nII. Qo'shin oldingi, o'ng va chap qismlarga bo'lingan.\nIII. Dasturxonchi qo'shin bosh qo'mondoni bo'lgan.\nIV. Topchiboshi to'pchilar bo'linmasiga boshchilik qilgan.",
+   "options": [
+    "I, II, IV to'g'ri; III noto'g'ri",
+    "faqat III to'g'ri",
+    "I va III to'g'ri; II va IV noto'g'ri",
+    "II va III to'g'ri; I va IV noto'g'ri"
+   ],
+   "answer": 0,
+   "explanation": "Manba: qiyin"
+  },
+  {
+   "q": "Mingboshi lavozimida bosh vazirlik va bosh qo'mondonlikning birlashgani nimadan dalolat beradi?",
+   "options": [
+    "Xonlikda muntazam qo'shin bo'lmaganidan",
+    "Fuqarolik va harbiy hokimiyat bir shaxs qo'lida jamlanib, mingboshining mavqei juda kuchli bo'lganidan",
+    "Davlatni diniy ulamolar boshqarganidan",
+    "Moliya ishlari faqat harbiylarga topshirilganidan"
+   ],
+   "answer": 1,
+   "explanation": "Manba: qiyin"
+  },
+  {
+   "q": "Qaysi juftlikda ikkala mansab ham harbiy sohaga taalluqli?",
+   "options": [
+    "devonbegi – mirza",
+    "dasturxonchi – mehtar",
+    "yovar – to'qsoba",
+    "mehtar – mirza"
+   ],
+   "answer": 2,
+   "explanation": "Manba: qiyin"
+  }
+ ]
+}

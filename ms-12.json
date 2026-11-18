@@ -1,0 +1,306 @@
+{
+ "title": "7-sinf O'zbekiston tarixi — asarli test",
+ "time": 30,
+ "questions": [
+  {
+   "q": "\"Tahqiqi viloyati Buxoro\" (Buxoro tarixi) asari muallifi kim?",
+   "options": [
+    "Ishtarxiy",
+    "Johiz",
+    "Beruniy",
+    "Narshaxiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buyuk shoir Firdavsiy qalamiga mansub mashhur asarni aniqlang.",
+   "options": [
+    "\"Shohnoma\"",
+    "Boburnoma",
+    "Qobusnoma",
+    "Siyosatnoma"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Turkiy xalqlar mafkurasi\" asari muallifi kim?",
+   "options": [
+    "Johiz",
+    "Ishtarxiy",
+    "Usmon Turon",
+    "Narshaxiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Davlatni boshqarish san'ati haqida yozilgan \"Siyosatnoma\" asari muallifi kim?",
+   "options": [
+    "Kaykovuz",
+    "Johiz",
+    "Nizomulmulk",
+    "G'azzoliy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mahmud Qoshg'ariy tomonidan yozilgan \"Devonu lug'otit-turk\" asarining ahamiyati nimada?",
+   "options": [
+    "Buxoro vohasining tarixi haqida",
+    "Islom dini qonun-qoidalari haqida",
+    "Turkiy tillar va qabilalar haqida ensiklopedik asar",
+    "Davlatni boshqarish usullari haqida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"O'rta asr tarixiy shaxslari hayotining ayrim noma'lum sahifalari\" kitobi muallifi kim?",
+   "options": [
+    "Azamat Ziyo",
+    "Johiz",
+    "Akbar Zamonov",
+    "Y. F. Buryakov"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"O'zbek xalqining kelib chiqish tarixi\" asari muallifi kim?",
+   "options": [
+    "Akbar Zamonov",
+    "Ahmadali Asqarov",
+    "Azamat Ziyo",
+    "Usmon Turon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Ilk o'rta asrlardagi Choch tarixidan\" asari muallifini ko'rsating.",
+   "options": [
+    "Ahmadali Asqarov",
+    "Tolstoy",
+    "A. Zamonov",
+    "Y. F. Buryakov"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Manoqib al-atrok\" asari kimning qalamiga mansub?",
+   "options": [
+    "G'azzoliy",
+    "Istarxiy",
+    "Usmon Turon",
+    "Johiz"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Qutadg'u bilig\" (Saodatga yo'llovchi bilim) asari muallifi kim?",
+   "options": [
+    "Mahmud Qoshg'ariy",
+    "Nizomulmulk",
+    "Yusuf Xos Hojib",
+    "Kaykovuz"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Kitob al-tafhim\" asari kimning qalamiga mansub?",
+   "options": [
+    "Abu Rayhon Beruniy",
+    "Farobiy",
+    "Ibn Sino",
+    "Al Xorazmiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Aristotelning \"Metafizika\" asariga maxsus sharh yozgan olim kim?",
+   "options": [
+    "Abu Nasr Forobiy",
+    "Beruniy",
+    "Imom Buxoriy",
+    "Ptolemey"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Urush va tinch turmush haqidagi \"Kitob fitoyii val xurub\" asari muallifi kim?",
+   "options": [
+    "Aristotel",
+    "Ptolemey",
+    "Abu Rayhon Beruniy",
+    "Abu Nasr Forobiy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Beruniyning \"Mineralogiya\" asari qaysi sohadagi tadqiqotlarni o'z ichiga oladi?",
+   "options": [
+    "Qimmatbaho toshlar va minerallar",
+    "Yerning o'lchami",
+    "Tarix",
+    "Yulduzlar harakati"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Abu Rayhon Beruniyning dorishunoslikka oid asari qaysi?",
+   "options": [
+    "Saydana",
+    "\"Kitob al-tafhim\"",
+    "Mineralogiya",
+    "Geodeziya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Risolatun fi taqsim al-mavjudot\" asari muallifi kim?",
+   "options": [
+    "Aristotel",
+    "Ibn Sino",
+    "Abu Nasr Forobiy",
+    "Johiz"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"Al-qonun fit-tib\" asari muallifi kim?",
+   "options": [
+    "Farg'oniy",
+    "Beruniy",
+    "Farobiy",
+    "Ibn Sino"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Sofistika\" asari muallifi kim?",
+   "options": [
+    "Ptolemey",
+    "Diogen",
+    "Arximed",
+    "Aristotel"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "\"Qadimgi xalqlardan qolgan yodgorliklar\" asari muallifini ko'rsating.",
+   "options": [
+    "Xorazmiy",
+    "Beruniy",
+    "Ibn Sino",
+    "Farobiy"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Al Mufassal asar muallifi kim?",
+   "options": [
+    "Ishtarxiy",
+    "Narshaxiy",
+    "Zamaxshariy",
+    "Johiz"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Ihyou ulumid-din\" asari muallifi kim?",
+   "options": [
+    "G'azzoliy",
+    "Farobiy",
+    "Farg'oniy",
+    "Beruniy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yan Geveliy tomonidan yozilgan asarni aniqlang.",
+   "options": [
+    "Yulduzlar jadvali",
+    "Selenografiya",
+    "Geosiyosat",
+    "Geodeziya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Islom huquqshunosligida (fiqh) \"Hidoya\" asari bilan mashhur bo'lgan olim kim?",
+   "options": [
+    "Imom Buxororiy",
+    "Zamaxshariy",
+    "Burhoniddin Marg'inoniy",
+    "G'azzoliy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Farzand tarbiyasi va odob-axloqqa oid \"Qobusnoma\" asari muallifi kim?",
+   "options": [
+    "Narshaxiy",
+    "Beruniy",
+    "Kaykovus",
+    "Johiz"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "\"Kitob masolik va-l-mamolik\" asari muallifini aniqlang.",
+   "options": [
+    "Istaxriy",
+    "Johiz",
+    "G'azzoliy",
+    "Narshaxiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Hindiston\" va \"Mineralogiya\" asarlari qaysi allomaga tegishli?",
+   "options": [
+    "Abu Rayhon Beruniy",
+    "Aristotel",
+    "Johiz",
+    "Ptolemey"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Jome at-tavorix\" (Tarixlar to'plami) asari muallifini toping.",
+   "options": [
+    "Johiz",
+    "Ishtarxiy",
+    "Narshaxiy",
+    "Rashiduddin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Al-jabr (algebra) faniga asos solgan va \"Zij\" asari muallifi kim?",
+   "options": [
+    "Abu Ja'far Muhammad ibn Muso al-Xorazmiy",
+    "Beruniy",
+    "Farg'oniy",
+    "Ibn Sino"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Samoviy harakatlar va umumiy ilmi nujum\" asari muallifi kim?",
+   "options": [
+    "Ahmad al-Farg'oniy",
+    "Farobiy",
+    "Umar qozi",
+    "Beruniy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Islom olamida \"Muhaddislar sultoni\" deb ulug'langan va \"Al-Jome' as-sahih\" asari muallifi kim?",
+   "options": [
+    "Hakim Termiziy",
+    "Burhoniddin Marg'inoniy",
+    "Imom Termiziy",
+    "Imom Buxoriy"
+   ],
+   "answer": 3
+  }
+ ]
+}

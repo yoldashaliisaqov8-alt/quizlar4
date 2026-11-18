@@ -1,0 +1,358 @@
+{
+ "title": "10-sinf O'zbekiston tarixi — 12–16-mavzular",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Quyidagi qaysi hudud me'morchilik maktabining e'tiborli tomoni shundaki, peshtoqlar, shiplar, burjlar o'ta nozik did va nafosat timsoli arabiy yozuvlar bilan bezatilardi?",
+   "options": [
+    "Qo'qon",
+    "Buxoro",
+    "Xorazm",
+    "Samarqand"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan Buxoro amirligida 1917-yil islohotlar e'lon qilingandan keyingi jarayonlarga oid to'g'ri bo'lmagan ma'lumotlarni aniqlang.\n1) 1917-yil 8-aprelda jadidlar Karki va Buxoroda namoyishlar o'tkazishdi, Buxoroda namoyishga to'plangan 150 kishiga Fayzulla Xo'jayev va Usmon Xo'ja rahnamolik qilishgan;\n2) Shiorlarda «Yashasin Amir!» qatorida «Hurriyat, Adolat, Musavvat!» kabi boshqa mazmundagi da'vatlar ham bor edi;\n3) Namoyishga chiqqanlar Arkkacha yetib kelishganida amir sarbozlari ularni to'xtatishga buyruq oldi. 200 ta piyoda va 300 ta otliq sarbozdan iborat amir qo'shini namoyishga chiqqanlarni tarqatib, hibsga ola boshladi;\n4) Bundan tashqari Ark ostonasini islohotlarga qarshi chiqqan 5 minga yaqin ancha uyushgan mullalar guruhi egallab oldi;\n5) 70 dan ziyod namoyishchi hibsga olindi, ko'plariga tan jarohati yetkazildi.",
+   "options": [
+    "1, 3, 5",
+    "1, 4, 5",
+    "1, 3, 4",
+    "1, 2, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorazm maqom va musiqa maktabi qaysi Xiva xoni davrida yanada rivojlandi?",
+   "options": [
+    "Muhammad Rahimxon I",
+    "Asfandiyorxon",
+    "Muhammad Rahimxon II",
+    "Olloqulixon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Muvaqqat hukumat ishlab chiqqan yangi qonunda quyidagilarning qaysi birlari belgilangan edi.\n1) Rusiyaning har bir fuqarosi din masalasida hurdir;\n2) To'qqiz yoshga yetmagan bolalar ota-onasining dinida, ota-onalari ikki e'tiqodda bo'lsa, otasining dinida deb hisoblanur;\n3) Ota-onasi ma'lum bo'lmagan bolalar vasiylarining dinida deb hisoblanur;\n4) O'n yetti yoshga yetgan har bir kishiga bir dindan ikkinchi dinga ko'chishi uchun biror ruxsat lozim emas;\n5) To'qqiz yoshga yetmagan bola ota-onasi ko'chgan dinga ko'chgan hisoblanur",
+   "options": [
+    "1, 2, 4",
+    "1, 2, 4, 5",
+    "1, 4, 5",
+    "1, 2, 3, 4, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi atamalar va ularning mazmuni to'g'ri muvofiqlashtirilgan javobni aniqlang. I. Muxtoriyat; II. Qozi sudlari; III. To'ra; IV. Volost\na) uyezd tarkibiga kirgan bir necha qishloq yoki ovullardan iborat hududiy bo'linma\nb) shariat qoidalari asosida ish ko'radigan sud\nc) biror tashkilot, jamoa tomonidan vakolatli qilib saylab yoki tayinlab yuborilgan vakil\nd) biron-bir hududning davlat hokimiyatini mustaqil amalga oshirish huquqi\ne) qabila urf-odatlariga tayanib ish ko'radigan sud\nf) yuqori tabaqaga mansub kishi. Xiva xonligida xon qarindoshlari va yaqinlariga beriladigan",
+   "options": [
+    "I-d, II-e, III-f, IV-a",
+    "I-d, II-f, III-b, IV-a",
+    "I-c, II-e, III-d, IV-f",
+    "I-d, II-b, III-f, IV-a"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi atamalar va ularning mazmuni to'g'ri muvofiqlashtirilgan javobni aniqlang. I. Protektorat; II. Politsiya; III. Tuzem; IV. Uchastka pristavi\na) gazeta, jurnal va kitoblar majmuyi\nb) dinga qattiq berilgan, uning aqidalariga ko'r-ko'rona amal qiluvchi\nc) jamoat xavfsizligini saqlovchi tashkilot\nd) yerli xalq, mahalliy aholining mustamlakachilar tomonidan atalishi\ne) aholi yashash joyi nazoratchisi\nf) mustamlaka mamlakat qaramligining bir shakli. Bunday mamlakat ichki siyosatida birmuncha mustaqil bo'ladi",
+   "options": [
+    "I-e, II-a, III-f, IV-d",
+    "I-f, II-e, III-d, IV-f",
+    "I-f, II-c, III-d, IV-e",
+    "I-d, II-e, III-f, IV-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarixiy shaxsni aniqlang. 1878-yil Toshkent shahrida hunarmandlar oilasida tug'ildi. U maktab va madrasada ta'lim olib, o'z zamonining ma'rifatli va chuqur bilimga ega insonlaridan biriga aylandi. O'lkada ta'lim, matbuot, teatr sohalarining rivojlanishiga katta hissa qo'shib, 1907-yil «Shuhrat» gazetasiga asos soldi. O'zi tashkil qilgan yangi usul maktabi uchun «Birinchi muallim», «Ikkinchi muallim», «Turkiy guliston yoxud axloq» kabi darsliklarni yaratdi.",
+   "options": [
+    "Abdulla Avloniy",
+    "Munavvarqori",
+    "Behbudiy",
+    "Ismoil G'aspirali"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarixiy shaxsni aniqlang. Turkiston o'lkasida jadidchilik harakatining yirik namoyandalaridan biri. U jadid maktablari ochilishining tashabbuskori va amaliyotchisi, milliy gazeta va jurnallar asoschisi, muharriri hamda jadid teatri targ'ibotchisi bo'lgan. Maktablar uchun «Adibi avval», «Adibi soniy», «Yer yuzi» kabi darsliklarni yaratdi.",
+   "options": [
+    "Abdulla Avloniy",
+    "Munavvarqori",
+    "Behbudiy",
+    "Ismoil G'aspirali"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarixiy shaxsni aniqlang. O'rta Osiyo jadidchilik harakatining asoschisi va yo'lboshchisi bo'lgan. Turkistonda ma'rifatparvarlik harakatining rivojlanishiga katta hissa qo'shgan shaxs hisoblanadi. Uning tashabbusi bilan uning otasi sharafiga kutubxona tashkil qilingan.",
+   "options": [
+    "Abdulla Avloniy",
+    "Munavvarqori",
+    "Behbudiy",
+    "Ismoil G'aspirali"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarixiy shaxsni aniqlang. Turkiston jadidchilik harakatining namoyandalari jaholat, bilimsizlik, madaniyatsizlikni qoralaganlar. Turkiston taraqqiyparvar sarmoyadorlari yoshlarni chet ellarga yuborib, zarur kasblarni egallab, xalqqa foydali xizmat qiladigan yoshlarni va ular uchun qayg'urgan jadidlarni qo'llab-quvvatladilar. Andijonlik …. o'z hisobidan ana shu ishga katta miqdorda mablag' ajratgan.",
+   "options": [
+    "Hamidxo'ja Meqriy",
+    "Mirkomil Mirmo'minboyev",
+    "Ahmadjon Abdusaidov",
+    "Abduvohid Burhonov"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asr oxiri – XX asr boshlarida Turkiston o'lkasida faoliyat olib borgan tadqiqotchilarni ularga oid ma'lumotlar bilan to'g'ri muvofiqlashtiring.\n1) P.P.Semyonov;\n2) A.P.Fedchenko;\n3) N.A.Seversev.\na) Pomir tog' tizimini o'rganib chiqdi;\nb) Zarafshon vodiysi bilan Qizilqumni tekshirib chiqdi;\nc) Tyanshan tog' tizimini o'rganib chiqdi;\nd) Farg'ona vodiysi va Oloyni tekshirib chiqdi;\ne) U sayohati davomida botanikaga va minerallarga oid namunalar to'pladi;\nf) muzlik, vulqonlar haqida qiziqarli ma'lumotlar to'pladi.",
+   "options": [
+    "1-c,d; 2-b,f; 3-a,e",
+    "1-c,e; 2-b,d; 3-a,f",
+    "1-c,f; 2-b,d; 3-a,e",
+    "1-c,f; 2-a,b; 3-d,e"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi tarix haqida bildirilgan fikrlarni mualliflari bilan to'g'ri muvofiqlashtirilgan javobni aniqlang.\n1) “Tarix millatlarning o'tmishini, taraqqiyotini hamda tanazzulining sabablarini o'rganaturg'on ilmdir”;\n2) “Hozirgi dunyoda yashash, ziyoli, komil va odil” bo'lish uchun o'z vatani tarixini bilishi zarur;\na) Abdurauf Fitrat\nb) Fayzulla Xo'jayev\nc) Mahmudxo'ja Behbudiy\nd) Abdulla Avloniy",
+   "options": [
+    "1-a, 2-b",
+    "1-a, 2-c",
+    "1-c, 2-c",
+    "1-b, 2-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XX asr boshlarida barpo etilgan Sitorai Mohi Xosa saroyining maxsus Oqsaroy zaliga pardoz berish ishini kim boshchiligida bir guruh usta ganchkorlar amalga oshirganlar?",
+   "options": [
+    "Odina Muhammad Murod",
+    "Usta Shirin Murodov",
+    "Ibrohim Hofizov",
+    "Mo'minjon Solihov"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi shaharda yosh buxoroliklar tomonidan Muvaqqat inqilobiy qo'mita tuzilib, ular Rossiya hukumatidan yordam so'rab iltimosnoma bilan murojaat qilgan edilar?",
+   "options": [
+    "Buxoro",
+    "Toshkent",
+    "Samarqand",
+    "Chorjo'y"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XX asr boshlarida Buxoro ijtimoiy hayotida bir-biriga qarama-qarshi ikki kuch paydo bo'ldi. Quyidagilardan mana shu ikki kuch to'g'ri ko'rsatilgan javobni aniqlang.\n1) Buxoroning siyosiy hayotini demokratik asosda qayta qurish, uning iqtisodini rivojlantirish, ilg'or mamlakatlar qatoriga ko'tarilishi uchun astoydil kurashuvchi Yosh buxoroliklar;\n2) bir qator islohotlar talab qiluvchi bolsheviklar va maksimalistlar;\n3) amir hokimiyatini saqlab qolish tarafdori bo'lgan eserlar va mahalliy partiyalar;\n4) diniy mutaassiblar, har qanday yangilik va islohotlarning dushmani bo'lgan toifa vakillari edi.",
+   "options": [
+    "2, 3",
+    "2, 4",
+    "1, 3",
+    "1, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buxoro amirligida 1917-yil bahorida bosh qozi amir qabulxonasida mamlakatda islohotlar o'tkazish haqida va'da berdi. Quyida shu islohotlar haqida ma'lumotlar keltirilgan. Shu ma'lumotlarda ajratib ko'rsatilgan nechta jumla noo'rin qo'llanilgan.\n1) Farmonda odil sudlov, xiroj, zakot va boshqa soliqlarni undirishning barqaror asoslarini yaratish haqida so'z borardi;\n2) Sanoat va savdoni rivojlantirishga ham e'tibor qaratilgandi;\n3) Davlat tomonidan qat'iy belgilab qo'yilgan maosh bekor qilindi;\n4) Farmonda bosmaxona ochish, mahbuslarni zindonlardan ozod qilish haqida ham va'dalar berildi.",
+   "options": [
+    "1 ta",
+    "2 ta",
+    "3 ta",
+    "4 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagilardan XIX asrning oxirgi choragida bo'lgan voqeani aniqlang.",
+   "options": [
+    "Yosh buxoroliklar siyosiy harakat sifatida faoliyat ko'rsata boshladilar",
+    "Buxoro Xalq Sovet Respublikasi va Fayzulla Xo'jayev boshchiligidagi birinchi hukumat Xalq Nozirlar Kengashi tuzilganligi e'lon qilindi",
+    "Yosh buxoroliklarning so'l qismi Fayzulla Xo'jayev rahbarligida «Inqilobchi yosh buxoroliklarning Turkistondagi markaziy byurosi»ni tuzishdi",
+    "Amir Olimxonning otasi uni Peterburgga o'qishga jo'natdi. Bu yerda u 3 yil davomida harbiy ishlar va davlat boshqarish asoslarini o'rgandi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarixiy voqea va uning natijasi o'zaro mos berilgan qatorlarni aniqlang. № 1 2 3 Voqea 1910-yilda Xiva xonligi taxtini Asfandiyorxon egallaydi O'zbekistonda XX asr boshlaridan zamonaviy futbol qoidalari asosida o'yinlar o'tkazilgan XIX asrning 90-yillari – XX asr Natija Xiva xonligida birinchi marta Vazirlar Kengashi saylandi 1912-yilda O'zbekistonning birinchi futbol klubi, ya'ni “Paxtakor” jamoasi tashkil topgan 1908-yilda Volter Samarqandda boshlarida O'rta Osiyoning tabiiy boyliklarini o'zlashtirish hamda maqbaralarini o'rganish boshlandi XX asr boshlarida o'zbek adabiyotida yangi janrlar paydo bo'la boshladi 1917-yil Rossiya imperatori “Oqpodsho” Nikolay II taxtdan ag'darildi 4 5 6 Abdulla Avloniy tomonidan 1907yilda “Shuhrat” gazetasiga asos solinadi 7 1868-yil mustamlakachi hukumat tomonidan o'lkada rus ta'lim maktablarini tashkil etish loyihasini ishlab chiqilishi borasida ko'rsatma berildi bo'lib, Ulug'bek observatoriyasini o'rganib chiqadi 1910-yilda Abdulla Qodiriy o'zining ilk nasriy asarini yozadi Turkiston general-gubernatorligida Turkiston Komiteti tuzilib, uyezd, volost, shahar va qishloqlar uning tarkibiga o'tkazildi “Shuhrat” gazetasiga asos solingan kun O'zbekistonda “Ommaviy axborot vositalari xodimlari kuni” deb belgilandi 1886-yil Toshkent shahrida Rossiya Xalq maorifi vazirligiga tegishli 9 ta, 1889-yilga kelib esa 14 ta ta'lim muassasalari faoliyat yuritgan",
+   "options": [
+    "1, 4, 6, 7",
+    "1, 4, 5, 7",
+    "1, 2, 4, 5, 7",
+    "1, 2, 3, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvalda berilgan ma'lumotlarni o'zaro muvofiqlashtiring. 1 Delegat a 2 Jadid b 3 Federatsiya d Lotincha – ittifoq bo'lib mustahkamlash – davlatning o'z siyosiy mustaqilligini muayyan doirada cheklash yo'li bilan yagona ittifoqqa birlashuvi Arabcha – “yangi” degan ma'noni bildiradi Lotincha – yuborgan – biror tashkilot, jamoa tomonidan vakolatli qilib saylab yoki tayinlab yuborilgan vakil",
+   "options": [
+    "1-b; 2-d; 3-a",
+    "1-d; 2-b; 3-a",
+    "1-a; 2-b; 3-d",
+    "1-b; 2-a; 3-d"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni aniqlang.\na) Chorjo'yda Muvaqqat inqilobiy qo'mita tuzildi;\nb) Monarxdan Majlis va Nozirlar kengashi bilan cheklangan konstitutsiyaviy monarxiya tashkil etishni talab qilishdi;\nc) 1917-yildan boshlab siyosiy tashkilot sifatida faoliyat boshlashdi;\nd) 1910-yildan boshlab o'z faoliyatini boshlashdi;\ne) 1914-yilda tashkil topgan;\nf) Mavjud tuzumni o'zgartirish talabi bilan chiqishdi (inqilob);",
+   "options": [
+    "I-b, II-d, III-f",
+    "I-a, II-c, III-e",
+    "I-b, II-c, III-f",
+    "I-a, II-d, III-e"
+   ],
+   "answer": 0,
+   "image": "img/msb6a29e895aed.jpg"
+  },
+  {
+   "q": "Quyidagi grafikda qaysi raqam ostidagi tarixiy kashfiyot va uning muallifi bir-biriga muvofiq keladi?",
+   "options": [
+    "1, 3",
+    "3, 5",
+    "2, 4",
+    "4, 6"
+   ],
+   "answer": 0,
+   "image": "img/msad31f873f327.jpg"
+  },
+  {
+   "q": "O'zbekistonda zamonaviy futbol qoidalari asosidagi o'yinlar dastlab qaysi shaharda o'tkazilgan?",
+   "options": [
+    "Qo'qon",
+    "Namangan",
+    "Jizzax",
+    "Qarshi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi voqealarni sodir bo'lgan vaqtiga qarab mos ravishda joylashtiring.\n1) Turkistonda o'quv bo'limini tashkil etish bo'yicha maxsus komissiya Toshkent shahrida ish boshladi;\n2) Toshkent shahrida Rossiya ma'orif vazirligiga tegishli 14 ta ta'lim muassasasi faoliyat yuritgan;\n3) Toshkentda Turkiston xalq kutubxonasi tashkil etildi\na) 1870-yil;\nb) 1876-yil;\nc) 1889-yil",
+   "options": [
+    "1-a; 2-c; 3-b",
+    "1-a; 2-c; 3-c",
+    "1-a; 2-c; 3-a",
+    "1-c; 2-a; 3-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilar orasidan XIX asrning ikkinchi yarimida yuz bergan voqealarni aniqlang.\n1) Turkiston o'lkasi tasviriy san'ati an'anaviy devoriy naqshlarida ilgari ishlatilmagan manzaralar – suzib borayotgan kema, temiryo'llar va hayvonlar tasvirlana boshlandi;\n2) Turkiston o'lkasining bir nechta shaharlarida an'anaviy teatr uyushmalari vujudga keldi;\n3) Farg'ona vodiysi milliy me'morchiligiga Yevropa me'moriy uslubidagi binolarni qurish an'analari kirib keldi;\n4) Turkistonda ma'rifatparvarlik harakati vujudga keldi;\n5) Xiva xonligida taraqqiyparvarlik harakati shakllandi;",
+   "options": [
+    "1, 2, 5",
+    "2, 3, 5",
+    "1, 3, 5",
+    "2, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Abdulla Qodiriy o'zining ilk nasriy asarini yozgan (a) va Turkistondagi dastlabki milliy sahna asari yozilgan (b) yilni aniqlang.",
+   "options": [
+    "a-1911-yil; b-1910-yil",
+    "a-1909-yil; b-1908-yil",
+    "a-1910-yil; b-1911-yil",
+    "a-1910-yil; b-1913-yil"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida berilganlardan qaysilari Abdulla Avloniy faoliyati bilan bog'liq emas?\n1) “Sho'roi Islomiya” tashkiloti faoliyatida muhim rol o'ynagan;\n2) Toshkent shahrida «Turon» nomidagi teatr truppasini tashkil etgan;\n3) Turkiston o'lka Musulmonlar byurosi faoliyatida ishtirok etgan;\n4) Turkiston o'lkasida ta'lim, matbuot, teatr sohalarining rivojlanishiga katta hissa qo'shgan;\n5) Turkiston o'lka musulmonlar kengashiga kotib bo'lgan;\n6) Turkiston Kommunistik partiyasi Markaziy Komiteti tarkibiga kiritilgan;",
+   "options": [
+    "1, 3, 5",
+    "1, 5, 6",
+    "2, 4, 6",
+    "3, 4, 6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi asarda qadimgi davrdan to XX asr boshlarigacha Turkistonda bo'lgan voqealar yilnomasi bayon etilgan?",
+   "options": [
+    "“Turkiston qayg'usi”",
+    "“Tarixi nafoe”",
+    "“Tarixi Turkiston”",
+    "“al-Komil fit-tarix”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O'rta Osiyo Olimlar jamiyati qachon tashkil etilgan?",
+   "options": [
+    "1867-yilda",
+    "1873-yilda",
+    "1871-yilda",
+    "1876-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asr oxiri – XX asr boshlarida Turkiston aholisiga asosan qanday tibbiyot sohasi vakillari xizmat ko'rsata boshlagan?\n1) jarrohlar;\n2) zulukchilar;\n3) kardiologlar;\n4) rishtachilar;\n5) siniqchilar;\n6) nevropatologlar",
+   "options": [
+    "1, 3, 4, 5",
+    "2, 4, 5",
+    "1, 2, 3, 4, 5, 6",
+    "1, 4, 5, 6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilganlardan qaysilari Abdulla Avloniy faoliyati bilan bog'liq?\n1) “Sho'roi Islomiya” tashkiloti faoliyatida muhim rol o'ynagan;\n2) Toshkent shahrida «Turon» nomidagi teatr truppasini tashkil etgan;\n3) Turkiston o'lka Musulmonlar byurosi faoliyatida ishtirok etgan;\n4) Turkiston o'lkasida ta'lim, matbuot, teatr sohalarining rivojlanishiga katta hissa qo'shgan;\n5) Turkiston o'lka musulmonlar kengashiga kotib bo'lgan;\n6) Turkiston Kommunistik partiyasi Markaziy Komiteti tarkibiga kiritilgan;",
+   "options": [
+    "2, 3, 4",
+    "1, 5, 6",
+    "2, 4, 6",
+    "3, 4, 6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Musiqa asboblarini turlari bilan muvofiqlashtiring. 1. qo'buz 2. do'mbira 3. chang 4. surnay 5. doira a. torli-kamonchali b. torli-noxunli c. torli-zarbli d. puflama nayli e. zarbli-membranali",
+   "options": [
+    "1-a, 2-b, 3-c, 4-d, 5-e",
+    "1-b, 2-c, 3-a, 4-d, 5-e",
+    "1-e, 2-a, 3-b, 4-d, 5-c",
+    "1-a, 2-c, 3-e, 4-d, 5-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'rta Osiyoni butunlay zabt etib, uni bolsheviklar qo'l ostida bo'lgan yangi davlat tarkibiga qo'shib olishga harakat qilgan mustamlakachilarning kurash vositasiga aylantirilgan tashkilot qaysi?",
+   "options": [
+    "Turkiston xalq komissarlari soveti",
+    "Musulmon markaziy sho'rosi",
+    "Turkiston Markaziy ijroiya komiteti",
+    "Inqilobchi yosh buxoroliklarning Turkistondagi markaziy byurosi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Berilgan voqealardan qaysi biri eng avval sodir bo'lgan?\nVariantlar: A) Ulug'bek rasadxonasi binosi qoldiqlari va rasadxonaga tegishli asbob-uskunalarning bir qismi topildi.; B) “Fuqaho jamiyati”.; C) Butunxorazm xalq vakillari birinchi qurultoyi.; D) Asfandiyorxon Junaydxonni turkman qabilalarining sardori etib tayinlagan.; E) “Turk adami markaziyat firqasi”.; F) Butunbuxoro xalq vakillari birinchi qurultoyi.",
+   "options": [
+    "“Fuqaho jamiyati”.",
+    "Ulug'bek rasadxonasi binosi qoldiqlari va rasadxonaga tegishli asbob-uskunalarning bir qismi topildi.",
+    "Butunbuxoro xalq vakillari birinchi qurultoyi.",
+    "Asfandiyorxon Junaydxonni turkman qabilalarining sardori etib tayinlagan."
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi jamiyat to'rt qozi va ular yonidagi muhrdor, a'lam va muftiylardan iborat bo'lgan?\nVariantlar: A) Ulug'bek rasadxonasi binosi qoldiqlari va rasadxonaga tegishli asbob-uskunalarning bir qismi topildi.; B) “Fuqaho jamiyati”.; C) Butunxorazm xalq vakillari birinchi qurultoyi.; D) Asfandiyorxon Junaydxonni turkman qabilalarining sardori etib tayinlagan.; E) “Turk adami markaziyat firqasi”.; F) Butunbuxoro xalq vakillari birinchi qurultoyi.",
+   "options": [
+    "“Turk adami markaziyat firqasi”.",
+    "Asfandiyorxon Junaydxonni turkman qabilalarining sardori etib tayinlagan.",
+    "“Fuqaho jamiyati”.",
+    "Ulug'bek rasadxonasi binosi qoldiqlari va rasadxonaga tegishli asbob-uskunalarning bir qismi topildi."
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi qurultoyda 15 kishidan iborat hukumat – Xalq Nozirlar Kengashi tuzilgan?\nVariantlar: A) Ulug'bek rasadxonasi binosi qoldiqlari va rasadxonaga tegishli asbob-uskunalarning bir qismi topildi.; B) “Fuqaho jamiyati”.; C) Butunxorazm xalq vakillari birinchi qurultoyi.; D) Asfandiyorxon Junaydxonni turkman qabilalarining sardori etib tayinlagan.; E) “Turk adami markaziyat firqasi”.; F) Butunbuxoro xalq vakillari birinchi qurultoyi.",
+   "options": [
+    "Butunxorazm xalq vakillari birinchi qurultoyi.",
+    "“Turk adami markaziyat firqasi”.",
+    "Butunbuxoro xalq vakillari birinchi qurultoyi.",
+    "“Fuqaho jamiyati”."
+   ],
+   "answer": 0
+  }
+ ]
+}

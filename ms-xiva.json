@@ -1,0 +1,171 @@
+{
+ "title": "Xiva xonligi mansablari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Xiva xonligida o'troq aholi vakili bo'lgan va bosh vazir vazifasini bajargan amaldorni aniqlang.",
+   "options": [
+    "Qo'shbegi",
+    "Mehtar",
+    "Inoq",
+    "Mahram"
+   ],
+   "answer": 1,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "Xiva xonligida soliq, moliya hamda qo'shin holati uchun mas'ul bo'lgan amaldorni aniqlang.",
+   "options": [
+    "Yasovulboshi",
+    "Shig'ovul",
+    "Qo'shbegi",
+    "Rais"
+   ],
+   "answer": 2,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "Qozilar va ularning vakolatlarini moslang.\n1) Qozi kalon 2) Qozi xoss 3) Qozi askar\na) xon xonadoni a'zolari orasidagi masalalarni ko'rgan\nb) islom qonunlari buzilishi bilan bog'liq harbiy ishlarni ko'rgan\nc) oliy sud vazifasini bajargan",
+   "options": [
+    "1-c, 2-a, 3-b",
+    "1-a, 2-c, 3-b",
+    "1-c, 2-b, 3-a",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 0,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Xiva xonligida qabila va urug' boshliqlari egallagan mansablar berilgan qatorni toping.",
+   "options": [
+    "mehtar, qo'shbegi, mahram",
+    "a'lam, muftiy, rais",
+    "inoq, biy, vakil",
+    "naqib, shig'ovul, yasovulboshi"
+   ],
+   "answer": 2,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "Xiva xonligida qaysi xalqlarning qabila-urug' boshliqlari inoq, biy va vakil sifatida boshqaruvda qatnashgan?",
+   "options": [
+    "qirg'iz, tojik, qozoq",
+    "turkman, arab, fors",
+    "qoraqalpoq, qirg'iz, uyg'ur",
+    "qozoq, qoraqalpoq, turkman"
+   ],
+   "answer": 3,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "TO'G'RI ma'lumotlarni aniqlang.\n1) A'lam va muftiy islom huquqi bo'yicha fatvo bergan.\n2) Shig'ovul xonning maxfiy maslahatchisi bo'lgan.\n3) Naqiblar ta'lim sohasiga mas'ul bo'lgan.\n4) Xon navkarlari 20 ming askardan iborat bo'lgan.",
+   "options": [
+    "1, 3",
+    "2, 4",
+    "1, 2",
+    "3, 4"
+   ],
+   "answer": 0,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "NOTO'G'RI ma'lumotni toping.",
+   "options": [
+    "Yasovulboshi xavfsizlik xizmati va qo'riqlash ishlariga rahbarlik qilgan.",
+    "Qozi o'rda sud shikoyatlarini o'rgangan.",
+    "Rais shariat qonunlariga rioya etilishini kuzatgan.",
+    "Mahram elchilarni qabul qilgan va ularni ta'minlagan."
+   ],
+   "answer": 3,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Xiva xonligida xonning ham maxfiy maslahatchisi, ham elchisi vazifasini bajargan amaldorni aniqlang.",
+   "options": [
+    "Shig'ovul",
+    "Mahram",
+    "Mehtar",
+    "Naqib"
+   ],
+   "answer": 1,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "Mansablarni faoliyat sohasiga ko'ra guruhlang.\nI – diniy-huquqiy soha; II – harbiy va xavfsizlik sohasi\na) a'lam b) yasovulboshi c) rais d) xon navkarlari e) muftiy",
+   "options": [
+    "I – a, b; II – c, d, e",
+    "I – c, e; II – a, b, d",
+    "I – a, e; II – b, c, d",
+    "I – a, c, e; II – b, d"
+   ],
+   "answer": 3,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Fikrlarni baholang.\nI. Xiva xonligida sud ishlari bir necha turdagi qozilar o'rtasida taqsimlangan.\nII. Elchilarni qabul qilish va ta'minlash yasovulboshi zimmasida bo'lgan.\nIII. Payg'ambar avlodlari jamoasi vakillari naqiblar deb atalgan.\nIV. Xiva xonligida muntazam qo'shin bo'lmagan.",
+   "options": [
+    "I va III to'g'ri; II va IV noto'g'ri",
+    "I va II to'g'ri; III va IV noto'g'ri",
+    "faqat IV to'g'ri",
+    "II va III to'g'ri; I va IV noto'g'ri"
+   ],
+   "answer": 0,
+   "explanation": "Manba: qiyin"
+  },
+  {
+   "q": "Vaziyat: Xiva xoni saroyiga qo'shni davlatdan elchilar keldi. Ularni kutib olish, joylashtirish va ta'minlash qaysi amaldor zimmasida bo'lgan?",
+   "options": [
+    "Mahram",
+    "Qo'shbegi",
+    "Shig'ovul",
+    "Mehtar"
+   ],
+   "answer": 2,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Vaziyat: Xon oilasi a'zolari o'rtasida mulk yuzasidan nizo chiqdi. Bu ishni qaysi qozi ko'rib chiqqan?",
+   "options": [
+    "Qozi askar",
+    "Qozi xoss",
+    "Qozi o'rda",
+    "Rais"
+   ],
+   "answer": 1,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Vaziyat: Xon navkarlaridan biri islom qonunlarini buzgani aniqlandi. Bu ish qaysi qozining vakolatiga kirgan?",
+   "options": [
+    "Qozi kalon",
+    "Qozi xoss",
+    "A'lam",
+    "Qozi askar"
+   ],
+   "answer": 3,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Mehtar o'troq aholi vakili bo'lgani, inoq, biy va vakillar esa qabila-urug' boshliqlari bo'lgani Xiva xonligi boshqaruvining qaysi xususiyatini ko'rsatadi?",
+   "options": [
+    "Xonlikda barcha mansablar saylab qo'yilgan.",
+    "Davlat boshqaruvida o'troq aholi va qabila-urug'lar manfaatlari muvozanatiga intilingan.",
+    "Qabila boshliqlari davlat boshqaruvidan to'liq chetlatilgan.",
+    "Hokimiyatni faqat diniy ulamolar boshqargan."
+   ],
+   "answer": 1,
+   "explanation": "Manba: qiyin"
+  },
+  {
+   "q": "Qaysi juftlikda ikkala mansab ham sud-huquq va shariat sohasiga taalluqli?",
+   "options": [
+    "qozi o'rda – shig'ovul",
+    "yasovulboshi – qozi askar",
+    "qozi kalon – muftiy",
+    "mahram – rais"
+   ],
+   "answer": 2,
+   "explanation": "Manba: qiyin"
+  }
+ ]
+}

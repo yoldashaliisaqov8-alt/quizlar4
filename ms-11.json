@@ -1,0 +1,316 @@
+{
+ "title": "Milliy sertifikat — 3-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Hunarmandchilikning shakllanishi qaysi tarixiy jarayon ortida yuz bergan?",
+   "options": [
+    "O'troq turmish tarzi va mehnat qurollarining yanada takomillashuvi",
+    "Dehqonchilik va Chorvachilikning rivojlanishi",
+    "Mol ayirboshlash munosabatlarining jonlanishi",
+    "Buyuk muzlik davrining poyoniga yetishi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xunnlar hujumlarining kuchayishi Xitoy uchun muhim ahamiyatga ega bo'lgan jihatini aniqlang.",
+   "options": [
+    "Buyuk Xitoy devorining qurilishi",
+    "Xan imperiyasining zaiflashuvi",
+    "Xitoy harbiy salohiyatining kuchaytirilishi",
+    "Lyu Ban boshchiligida dehqonlar qo'zg'olonining avj olishi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIV asr ikkinchi yarmi XV asr boshlarida Angliya qiroli Genrix IV qaysi sulola vakili ekanligini aniqlang.",
+   "options": [
+    "Tyudorlar",
+    "Lankasterlar",
+    "Yorklar",
+    "Normandlar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi tarixiy voqealar (ma'lumotlar) to'g'ri xronologik ketma-ketlikda ko'rsatilgan javobni toping.\n1) Millatlararo korporatsiyalar soni 100 taga yetdi\n2) Xendrik Vitboy boshlagan nama qabilalari qo'zg'oloni butunlay bostirildi\n3) Berlin Kongressi bo'lib o'tdi\n4) Albaniya mustaqillikka erishdi\n5) Xitoy-yapon urushi boshlandi\n6) To'rtlar ittifoqi tashkil topdi",
+   "options": [
+    "5, 3, 2, 1, 4, 6",
+    "6, 3, 2, 4, 5, 1",
+    "3, 5, 2, 1, 4, 6",
+    "5, 4, 6, 1, 3, 2"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping. I Detsentralizatsiya II - Potensial III - Restrukturizatsiya IV - Prozelitizm; a - davlat yoki boshqa biron-bir muassasa tomonidan boshqa davlat, muassasa, alohida shaxsga ko'rsatiladigan moliyaviy yoki moddiy yordam b - qaysidir soha, jabhada mavjud barcha imkoniyatlar-vositalar yig'indisi c - Qarorlar qabul qilish bo'yicha vakolat va majburiyatlarni markazdan boshqa tashkilotga o'tkazish d - Qarz yoki kreditni to'lash shartlarini qayta ko'rib chiqish e - Bir diniy konfessiyadagi dindorlarni boshqasiga kiritishga qaratilgan xatti-harakatlar f - ijtimoiy-iqtisodiy taraqqiyotning tarkibiy qismi bo'lib, ijtimoiy institutlardagi rivojlanish va o'zgarishlarda namoyon bo'ladi",
+   "options": [
+    "I-d, II-b, III-c, IV-f",
+    "I-c, II-b, III-a, IV-f",
+    "I-d, II-f, III-f, IV-c",
+    "I-c, II-b, III-d, IV-e"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyida berilgan atamalar va ularning izohi to'g'ri moslashtirilgan javobni toping. I Pozitsiya II - Modernizatsiya III - Subsidiya IV - Globallashuv; a - qarz yoki kreditni to'lash shartlarini qayta ko'rib chiqish va o'zgartirish b - holat, ma'lum voqea yoki hodisaga nisbatan munosabat c - jahon mamlakatlarining iqtisodiy, siyosiy, madaniy va diniy jihatdan birlashishi yoki yaqinlashish jarayoni d - davlat yoki boshqa biron-bir muassasa tomonidan boshqa davlat, muassasa, alohida shaxsga ko'rsatiladigan moliyaviy yoki moddiy yordam e - qaysidir soha, jabhada mavjud barcha imkoniyatlar, vositalar yig'indisi; keng ma'noda «zaxira» vositalari f - ijtimoiy tizimni jadal rivojlantirish maqsadida uni to'liq yoki qisman yangilash, an'anaviy jamiyatdan yangilangan jamiyatga o'tish",
+   "options": [
+    "I-f, II-a, III-b, IV-d",
+    "I-c, II-a, III-e, IV-d",
+    "I-f, II-d, III-b, IV-c",
+    "I-f, II-a, III-e, IV-d"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarixiy shaxsni aniqlang. XX asrning birinchi choragida Farg'ona vodiysida sovet hokimiyatiga qarshi harakat rahbarlaridan biri edi. Uning qo'l ostida 20 ming qo'shin bo'lib, 1920-yil 3-may Farg'onada u boshchiligida Turkuston-turk mustaqil jumhuriyati tashkil topdi. U 1895-yil Farg'ona viloyatida tavallud topgan o'zbek qo'rboshilaridan biri edi.",
+   "options": [
+    "Islom Palvon",
+    "Kichik Ergash",
+    "Madaminbek",
+    "Shermuhammadbek"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarixiy shaxsni aniqlang. U Sotsialist partiya vakili bo'lib, undan avval Fransiya iqtisodiyoti juda murakkab ahvolda edi. Ammo u davrida inflatsiyani to'xtatishning iloji bo'lmadi, ishsizlik ham oshib bordi. Tashqi siyosatda uning hukumati Germaniya bilan yaqinlashish va G'arbiy Yevropa mamlakatlarini birlashtirishni asosiy vazifa deb bildi.",
+   "options": [
+    "Sharil De Gol",
+    "Jorj Pompidu",
+    "Fransua Mitteran",
+    "Jak Shirak"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarixiy davlatni aniqlang. Ushbu davlatda asosini Chigil, Yog'mo, O'g'uz, Qarluq qabilalari tashkil etgan bo'lib. Uning hududi Sharqiy Turkiston, Yettisuv, Elisuv vodiysidan iborat bo'lib, qadimdan qo'ychilik bilan shug'ullanib kelgan. Ushbu davlat X asr o'rtalarida tashkil topgan.",
+   "options": [
+    "Qarluq davlati",
+    "Xoqoniya davlati",
+    "Qarluq-Qoraxoniy davlati",
+    "O'g'uz davlati"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlar qaysi tarixiy davlat haqida ekanligini aniqlang. Ushbu davlat XIX asr ikkinchi yarmida birlashdi. Davlat boshqaruvining konstitutsion monarxiya yo'lini tanladi. Ichki bozorning sust taraqqiy etganligi hukmron doiralarni bosqinchilikka, mustamlaka imperiyasini tuzishga chorladi.",
+   "options": [
+    "Germaniya",
+    "Rossiya",
+    "Italiya",
+    "Buyuk Britaniya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ma'lumki, Buxoro xoni Abulfayzxon vaqtni ko'ngilxushlik ishlarga sarflab, davlat ishlarini deyarli nazorat qilmay qo'ydi. Markaziy hokimiyatning zaiflashuvi siyosiy tarqoqlikni yanada kuchaytirdi. Amalda bir qancha hududlar mustaqil bo'lib oldi. Quyida keltirilganlardan amalda mustaqil bo'lib olgan hududlarni aniqlang.\n1) Qarshi\n2) Miyonqol\n3) Farg'ona\n4) Urgut\n5) Samarqand\n6) Toshkent\n7) Shahrisabz\n8) Balx\n9) Ko'lob\n10) Badaxshon",
+   "options": [
+    "2, 3, 4, 7, 10",
+    "1, 3, 5, 8, 10",
+    "3, 5, 6, 7, 10",
+    "2, 4, 6, 7, 8, 9"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlardan qaysi biri XI asr O'rta Osiyo davlatlari tarixi uchun xos?",
+   "options": [
+    "Somoniylar davlatida yer egaligining Iqto shakli vujudga keldi",
+    "Qoraxoniylar davlatida Iqto yer egaligi keng tarqaldi",
+    "Dehqon degan so'z o'zining asl ma'nosini yo'qotdi",
+    "Buxoroda faqihlar madrasasi qurildi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1923-yil yozi va kuzida tashqi kuchlar taziqi bilan Fayzulla Xo'jayevning yaqin safdoshlaridan BXSR hukumati tarkibidan chiqarilgan shaxslarni aniqlang.\n1) Rustam Islomov\n2) Otaulla Xo'jayev\n3) Abdulla Rahimboyev\n4) Fitrat\n5) Sulton Qori\n6) Sattor Xo'jayev\n7) Qori Yo'ldosh Po'latov\n8) Muinjon Aminov",
+   "options": [
+    "2,4,6,7,8",
+    "1,3,4,5,7",
+    "1,2,4,5,8",
+    "2,3,4,6,7"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1992-yil 8-dekabrgacha vaqtinchalik konstitutsiya vazifasini bajargan hujjatni aniqlang.",
+   "options": [
+    "O'zbekiston Respublikasining Davlat mustaqilligi to'g'risidagi Oliy Kengash Bayonoti",
+    "O'zbekiston SSR Konstitutsiyasiga o'zgartirish va qo'shimchalar kiritish to'g'risidagi qonun",
+    "O'zbekiston Respublikasining Davlat mustaqilligi asoslari to'g'risidagi qonun",
+    "O'zbekiston SSRning Mustaqillik Deklaratsiyasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mustaqil O'zbekiston tarixi bilan bog'liq to'g'ri berilgan ma'lumotlarni aniqlang.\n1) O'zbekistonning bozor munosabatlariga o'tish yo'liga doir Islom Karimov tomonidan ishlab chiqilgan besh tamoyilning to'rtinchi bandi: Kuchli ijtimoiy siyosat yuritish, aholining muhtoj tabaqalarini ijtimoiy himoyalashning ustuvorligi\n2) O'zbekistonda bozor iqtisodiyotiga asoslangan jamiyatning huquqiy-iqtisodiy negizlari O'zbekiston Respublikasi Konstitutsiyasida o'z ifodasini topdi. Islohotlarning birinchi bosqichida Oliy Kengash tomonidan iqtisodiyotga oid 120 dan ortiq qonunlar qabul qilindi\n3) O'zbekiston Oliy Kengashi 1991-yil 18-noyabrda «Mulkni davlat tasarrufidan chiqarish va xususiylashtirish to'g'risida»gi qonun qabul qildi\n4) O'zbekiston muomalaga yangi milliy valyuta kiritish ishiga jiddiy kirishdi. 1992-yildayoq muomalaga chiqarishga mo'ljallangan so'm-kupon nusxalari tayyorlanadi\n5) «O'zbekiston havo yo'llari» milliy aviakompaniyasi 1993-yil tashkil etildi\n6) 1996-yildan Toshkent-Andijon-O'sh magistralining 100 km dan ortiq tog'li uchastkalarida qurilish ishlari boshlandi\n7) O'zbekistonning yagona temir yo'l tarmog'ini vujudga keltirish bo'yicha 1994-2001-yillarda uzunligi 747 kilometrga yaqin Navoiy-Uchquduq-Nukus temir yo'li qurib bitkazildi",
+   "options": [
+    "2, 3, 5, 7",
+    "2, 3, 5, 6",
+    "1, 3, 4, 6",
+    "2, 4, 6, 7"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi tarixiy voqealar (ma'lumotlar) to'g'ri xronologik ketma-ketlikda ko'rsatilgan javobni toping.\n1) Navro'z Ahmad va Abdulazizxon qo'shinlari Buxoro shahrini egalladi\n2) Kulikova maydonida Oltin o'rda tumanboshisi Mamay mag'lubiyatga uchradi\n3) Angliyada jon solig'i uch barobar oshirildi\n4) Muhammad Shayboniyxon Balx shahrini egalladi\n5) Muhammad Shayboniyxon Hirot shahrini egalladi\n6) Buxoro shahrida Mir Arab madrasasi qurilishi yakunlandi",
+   "options": [
+    "2, 3, 5, 4, 6, 1",
+    "3, 2, 4, 5, 6, 1",
+    "3, 2, 5, 4, 1, 6",
+    "2, 3, 4, 5, 1, 6"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarixiy voqea va uning natijasi o'zaro mos berilgan qatorlarni aniqlang. 1 RossiyaYaponiya urushi — Yaponiya Port-Arturni ijaraga olish huquqiga ega bo'ldi 2 San-Stefano shartnomasi — Kars, Ardagan, Batumi hududlari Rossiya ixtiyoriga berildi 3 Frankfurt sulhi — Germaniya qo'shinlari Fransiya hududidan chiqib ketdi 4 Birinchi bolqon urushi — Albaniyaning mustaqillikka erishishi 5 Simonoseki shartnomasi — Koreya Yaponiyaning ta'sir doirasiga kiritildi 6 Berlin kongressi — Kipr oroli Buyuk Britaniyaga berildi 7 Ems depeshasi — Fransiya-Prussiya urushining boshlanishi",
+   "options": [
+    "1, 2, 3, 5",
+    "2, 3, 4, 6",
+    "2, 3, 5, 7",
+    "1, 4, 6, 7"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvalda harflar bilan belgilangan kataklarga mos ma'lumotlarni qo'yib to'g'ri javobni toping. (Yettisuv o'lkasida Qarluqlar davlati tashkil topishi — Angliyada Qizil va oq gullar urushi — X asr — Anushteginiylar sulolasidan Takash hukmronligining boshlanishi — Angliyaning Respublika deb e'lon qilinishi — XIX asr)",
+   "options": [
+    "a-2, b-1, c-15, d-16, e-5, f-19, g-4, h-3, i-12, j-6, k-6, l-11",
+    "a-4, b-8, c-9, d-16, e-1, f-17, g-2, h-5, i-12, j-6, k-10, l-3",
+    "a-4, b-18, c-7, d-6, e-13, f-5, g-2, h-8, i-15, j-16, k-14, l-11",
+    "a-2, b-5, c-9, d-16, e-1, f-18, g-4, h-8, i-12, j-6, k-14, l-3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "III-V asrlarda mavjud bo'lgan Koreya yarimoroli o'rta asr davlatlariga oid ma'lumotlarni Eyler-Venn diagrammasi asosida guruhlang (I - Koguryo, II - Pekche, III ikkalasiga xos):\na) IV asr boshlarida Koguryo xitoyliklarni o'z hududidan batamom surib chiqaradi\nb) Koreya yarimorolida joylashgan uch qirollikdan biri\nc) ko'chmanchi kidanlar zarbasidan so'ng davlat parchalanib ketadi\nd) qirollik IV asrda markazlashgan davlatga aylanadi\ne) davlatning tashkil topgan davri haqida tarixchi olimlar yagona fikrga kela olishmagan\nf) III-IV asrlarda davlat sifatida vujudga keladi\ng) Bu davlat orqali Koreya yarimoroliga xitoy yozuvi va iyerogliflari hamda buddizm kirib keladi\nh) Ushbu davlat poytaxti Sonak shahri (hozirgi Shimoliy Koreyadagi Keson) bo'lgan\ni) Bu davrda dehqonchilik, metall quyish va unga ishlov berish, to'qimachilik, hunarmandchilik, savdosotiq rivojlangan",
+   "options": [
+    "I-a, c, d; II-g, f, h; III-b",
+    "I-e, g, i; II-c, f, h; III-a",
+    "I-a, e, i; II-d, f, g; III-b",
+    "I-c, f, g; II-b, i, h; III-d"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "G'arbiy Yevropada XIII-XV asrlarda Boltiq dengizi orqali London, Bryugge, Lyubek, Novgorod shaharlarini o'zaro bog'lash uchun xizmat qilgan savdo yo'lining nomini aniqlang.",
+   "options": [
+    "Shimoliy yo'l",
+    "Shvabiya",
+    "Ganza",
+    "Levant"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XX asrning boshlarida Fransiyada mo'tadil siyosiy barqarorlik ta'minlandi. Bunga quyidagi omillar sabab bo'lgan?\n1) Respublikachilarning Monarxiya tarafdorlari ustidan g'alabasi\n2) XIX asr 90-yillarining o'rtalaridan boshlangan iqtisodiy yuksalish\n3) Tashqi siyosatdagi muvaffaqiyatlar\n4) Fransiya, xususan temir rudasi qazib chiqarishda AQSH va Germaniyani ortda qoldirdi\n5) Dreyfus ishining matbuot yuzini ko'rishi",
+   "options": [
+    "1, 2",
+    "3, 4",
+    "2, 4",
+    "3, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyida berilgan davlatlardan qaysilari XX asr oxiri XXI asr boshlarida aholisining 1 milliondan atrofida qismi qochqin bo'lgan?\n1) Suriya\n2) Liberiya\n3) Ruanda\n4) Iroq\n5) Falastin\n6) Burundi",
+   "options": [
+    "1, 5",
+    "3, 6",
+    "4, 5",
+    "2, 6"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Buxoro xonligida sotib olingan yerning 2/3 qismini davlat ixtiyorida qoldirilishi shart bo'lgan yer egaligi qanday atalgan?",
+   "options": [
+    "mulk",
+    "mulki xolis",
+    "mulki xos",
+    "Vaqf"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qo'qon xonligida mavjud bo'lgan \"Tutun haqqi\" qanday soliq bo'lgan?",
+   "options": [
+    "Beklarning xonga beradigan 9 buyumdan iborat in'omlar yig'indisi",
+    "Bahor kelganda yangi o'tloqlarga ko'chishdan oldin har bir xonadondan bir bosh qo'y hisobida olinadigan soliq",
+    "Ko'chmanchi chorvadorlardan qishda olinadigan soliq",
+    "Xon farmonlarini e'lon qilganligi uchun olinadigan soliq"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ikkinchi jahon urushi yillarida qand lavlagini qayta ishlovchi zavodlar qurilgan hududlarni aniqlang.\n1) Samarqand\n2) Qo'qon\n3) Kattaqo'rg'on\n4) Krasnogvardeysk\n5) Yangiyo'l\n6) Zirabuloq\n7) Andijon",
+   "options": [
+    "2, 4, 5, 6",
+    "2, 3, 4, 5",
+    "1, 5, 6, 7",
+    "1, 3, 4, 7"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "O'zaro muvofiqlik saqlangan javobni toping. I. Qadimgi Misr II. Qadimgi Mesopotamiya III. Qadimgi Eron IV. Qadimgi Rim;\na) Mars\nb) Sina\nc) Tot\nd) Anaxita;\n1) Tabobat xudosi\n2) Hosildorlik va suv ilohasi\n3) Urush xudosi\n4) Oy xudosi",
+   "options": [
+    "I-d-1; II-a-3,4; III-b-4; IV-c-2",
+    "I-c-1,4; II-b-4; III-d-2; IV-a-3",
+    "I-a-4; II-d-2; III-c-1; IV-b-3,4",
+    "I-c-1,2; II-d-2; III-b-4; IV-a-3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "VIII asrda Zaytuna madrasasi qaysi davlatda joylashgan?",
+   "options": [
+    "Iroq",
+    "Marokash",
+    "Tunis",
+    "Misr"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Dashti Qipchoq va Movarounnahrning XV asr o'rtalari XVI asr boshlarigacha bo'lgan davri voqealarini o'z ichiga oladi. Shuningdek, shayboniylar va Eron safaviylari o'rtasidagi munosabatlar haqida muhim ma'lumotlar beradi. Asar nomi va uning muallifini aniqlang.",
+   "options": [
+    "\"Fathnomayi sultoniy\", Mir Olim Buxoriy",
+    "\"Shayboniynoma\", Kamoliddin Binoiy",
+    "\"Abdullanoma\", Hofiz Tanish al-Buxoriy",
+    "\"Shayboniynoma\", Muhammad Solih"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Mualliflar va ularning asarlari to'g'ri moslashtirilgan javobni toping. 1. Ahmad alFarg'oniy 2. Forobiy 3. al-Xorazmiy;\na) «Kitob at-tarix»\nb) «Yulduzlar jadvali»\nc) «Yetti iqlimni hisoblash haqida»\nd) «Etika»\ne) «Kitob al-tafhim»\nf) «As-siyosat al-madaniya» («Shaharni boshqarish»)",
+   "options": [
+    "1-b, 2-d, 3-f",
+    "1-a, 2-d, 3-f",
+    "1-b, 2-e, 3-c",
+    "1-c, 2-f, 3-a"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chizmada nomi keltirilgan shaxslar va ularga tegishli ma'lumotlar to'g'ri moslashtirilgan javobni toping. 1. Kibalchich 2. Markoni 3. Tomson;\na) Elektr bilan payvandlash\nb) Raqamli hisoblash mashinasi\nc) Elektromagnit to'lqinlari tarqalish faktini isbotlash\nd) Raketaplan kashf etdi\ne) Simsiz telegraf kashf etdi\nf) Metall kesish jarayonini ilmiy jihatdan tekshirish",
+   "options": [
+    "1-c, 2-d, 3-f",
+    "1-d, 2-e, 3-a",
+    "1-b, 2-e, 3-c",
+    "1-a, 2-f, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "\"O'z Taqdiriga erishish — mana insonning haqiqiy burchi\", deb yozadi muallif o'z asarida qahramoni tilidan. Ushbu asar nomini belgilang.",
+   "options": [
+    "Faust",
+    "Alkimyogar",
+    "Gulleverning sayohatlari",
+    "Berlin devoriga chizgilar"
+   ],
+   "answer": 1
+  }
+ ]
+}

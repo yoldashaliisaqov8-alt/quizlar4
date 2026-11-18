@@ -1,0 +1,457 @@
+{
+ "title": "6-sinf Qadimgi dunyo tarixi — 1–5-mavzu",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Quyidagilardan Qadimgi Misr tarixiga oid bo'lganlarini belgilang.\n1) Nomarx;\n2) Yangi podsholik;\n3) “Osmon ostidagi podsholik”;\n4) qo'shinning to'rt turi;\n5) kasta;\n6) “Qora tuproq”.",
+   "options": [
+    "1, 3, 5",
+    "1, 2, 6",
+    "2, 3, 6",
+    "2, 4, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan qay biri qadimgi misrliklar diniy e'tiqodi bilan bog'liq?\n1) Ptax;\n2) Ganesha;\n3) Anubis;\n4) Indra;\n5) Ishtar;\n6) Osiris.",
+   "options": [
+    "1, 2, 5",
+    "3, 4, 6",
+    "1, 3, 6",
+    "4, 5, 6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi hukmdorlar faoliyati bilan bog'liq bo'lgan ma'lumotlar to'g'ri ko'rsatilgan javobni aniqlang.\n1) Tutmos II;\n2) Tutanxamon;\n3) Kleopatra;\n4) Yaxmos.\na) Misrning Ptolameylar sulolasiga mansub so'nggi malikasi;\nb) uning davrida Old Osiyoda misrliklar hukmronligi o'rnatiladi;\nc) giksoslarni tor-mor etib, bosqinchilarni Misrdan haydab chiqaradi va Yangi podsholikka asos soladi;\nd) maqbarasi talab ketilmagan yagona Misr fir'avni;\ne) uning davrida Falastin, Finikiya va Suriyani istilo qilish boshlandi.",
+   "options": [
+    "1-e; 2-d; 3-a; 4-c",
+    "1-b; 2-d; 3-e; 4-c",
+    "1-e; 2-b; 3-a; 4-d",
+    "1-a; 2-d; 3-b; 4-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qadimgi misrliklar e'tiqodicha qanday holatda ma'budlar odamlarga madad bermay qo'yadi deb hisoblashgan?",
+   "options": [
+    "Nil toshqinidan so'ng, urug'lik yerga qadalmasa",
+    "ma'budlar sharafiga Apisni qurbonlik keltirishsa",
+    "jang vaqtida dushmandan yengilishgan holatda",
+    "maxsus marosimlar ado etilmasa"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, Eyler–Venn diagrammasiga mos keladigan to'g'ri javobni aniqlang. (Misr podsholiklari: I – O'rta podsholik, II – Yangi podsholik, III – ikkalasiga xos)\na) Falastin hamda Nubiya hududlari istilo qilingan;\nb) giksoslar hujumidan so'ng qayta birlashgan;\nc) mil. avv. 525-yilda forslar tomonidan egallandi;\nd) giksoslar hujumi tufayli “nom”larga tarqalib ketdi;\ne) g'arbiy chegarasi hisoblangan Sinay yarimoroli bosib olingan;\nf) qo'shni Liviyaga hujum qilib, chorva mollari va boshqa boyliklarni egallab oladi.",
+   "options": [
+    "I-a,b; II-d,e; III-f",
+    "I-d; II-b; III-a",
+    "I-e; II-b; III-d",
+    "I-c; II-f; III-e"
+   ],
+   "answer": 1,
+   "image": "img/ms8188c52cf670.jpg"
+  },
+  {
+   "q": "Quyidagilardan Qadimgi Misr davlati tarixiga oid to'g'ri ma'lumotlarni aniqlang.\n1) Nil daryosining quyi qismi 3 km dan 22 kilometrgacha kenglikdagi qora tuproqli serhosil dalalardan iborat;\n2) misrliklar sholi va javdar, poliz ekinlarini ekishgan;\n3) mil. avv. 4-mingyillik boshlarida odamlar Nil daryosi qirg'oqlaridagi yerlarni o'zlashtirishga bel bog'lagan;\n4) misrliklar kanopdan gazlama to'qishgan;\n5) temirchilar temirni eritib, undan mehnat qurollari quyardi.",
+   "options": [
+    "2, 4, 5",
+    "1, 4, 5",
+    "2, 3, 4",
+    "1, 3, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilarni tahlil qilib, nuqtalar o'rniga mantiqan mos keluvchi javobni toping.\n1) Ptax – Memfis;\n2) Amon – Fiva;\n3) Ra – Quyosh;\n4) Xapi – …;\n5) Osiris – …;",
+   "options": [
+    "go'zallik; yerosti",
+    "Nil ma'budi; hosildorlik",
+    "Nil ma'budi; yerosti",
+    "haqiqat; marhumlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Misrda O'rta podsholik davrida egallangan hududlarni aniqlang.\n1) Arabiston yarimoroli;\n2) Liviya;\n3) Nubiya;\n4) Shimoliy Nubiya;\n5) Sinay yarimoroli;\n6) Falastin;\n7) Janubiy Falastin;\n8) Suriya.",
+   "options": [
+    "1, 2, 3, 5",
+    "4, 7",
+    "3, 4, 7",
+    "2, 4, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida keltirilgan atamalarni ularning izohlari bilan to'g'ri moslashtiring.\n1) Delta;\n2) Skarabey;\n3) Tumor;\n4) Drotik\na) misrliklarning fikricha, doimo yonida olib yurilsa, yovuz ins-jinslar va baxtsizliklardan saqlaydigan mayda buyum;\nb) kalta nayzalar;\nc) Nilning O'rtayer dengiziga quyiladigan joyi, uchburchak shaklni hosil qiladi;\nd) misrliklar Quyosh yordamchilari deb bilgan qo'ng'izlar",
+   "options": [
+    "1-c; 2-d; 3-a; 4-b",
+    "1-a; 2-b; 3-c; 4-d",
+    "1-c; 2-b; 3-a; 4-d",
+    "1-d; 2-c; 3-b; 4-a"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi bandlar mazmuniga oid yakuniy hukmni aniqlang. I. Yangi podsholik davriga kelib misrliklar piramidalar qurmay qo'yishadi; II. Qadimgi va So'nggi podsholiklar davrida misrliklar ulkan piramidalar qurganlar; III. Qadimgi podsholik davrida misrliklar Sinay yarimorolini bosib olganlar.",
+   "options": [
+    "I-to'g'ri, II-noto'g'ri, III-to'g'ri",
+    "I-noto'g'ri, II-to'g'ri, III-to'g'ri",
+    "I-noto'g'ri, II-noto'g'ri, III-to'g'ri",
+    "I-to'g'ri, II-to'g'ri, III-noto'g'ri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyida keltirilgan ma'lumotlar (voqealar) … ma'budiga aloqador. – U olamni yaratayotganida har bir narsaning nomini odamga o'rgatgan – U shunchalik qudratliki, uni asl qiyofasida ko'rishning iloji yo'q – Uning yer yuzidagi qiyofasi Apisdir.",
+   "options": [
+    "Amon",
+    "Ptax",
+    "Osiris",
+    "Ra"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ma'lumki, Menes Yuqori va Quyi Misrni birlashtiradi. Bu voqeadan ko'p o'tmay Misr yana nomlarga parchalanib ketadi. Buning sababi nimada edi?",
+   "options": [
+    "Giksoslar hujumi",
+    "Nomlar hukmdorlarining o'z mol-mulkini ko'paytirib olib mustaqil bo'lishi",
+    "Quyi Misrning Yuqori Misrdan ajralib chiqishi",
+    "Forslarning hujumi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Misr davlati qaysi davrda Sinay yarimorolini bosib olgan?",
+   "options": [
+    "Yangi podsholik davrida",
+    "O'rta podsholik davrida",
+    "Qadimgi podsholik davrida",
+    "Ilk podsholik davrida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Misrliklar qaysi hudud hunarmandlari tomonidan yasalgan nodir buyumlar va qimmatbaho toshlarni Misrga olib kelganlar?",
+   "options": [
+    "Suriya va Nubiya",
+    "Sinay yarimoroli va Falastin",
+    "Nubiya va Liviya",
+    "Falastin va Suriya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi berilgan Misr xudolarini vazifasi bilan to'g'ri moslashtiring.\n1) Ptax;\n2) Osiris;\n3) Xapi;\n4) Amon-Ra.\na) olamni yaratayotganida har bir narsaning nomini odamga o'rgatgan;\nb) ibodatxonasi Geliopolda (Baolbek) bo'lgan;\nc) marhumlar va mumiyolanganlar saltanati ma'budi hisoblangan;\nd) Nil ma'budi, hayotning birlamchi manbayi hisoblangan;\ne) yerosti saltanati ma'budi hisoblanib, yovuz ishlari uchun odamlarni sud qilgan.",
+   "options": [
+    "1-a, 2-d, 3-c, 4-b",
+    "1-a, 2-e, 3-d, 4-b",
+    "1-b, 2-e, 3-c, 4-b",
+    "1-c, 2-e, 3-d, 4-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan qaysilari to'g'ri berilgan? I. Misr aholisi uchun din kundalik turmushning ajralmas bir bo'lagi hisoblangan; II. Kohinlar – ibodatxona ruhoniylari ma'budlarni dindorlar in'om tariqasida keltirgan narsalar bilan boqishadi deb hisoblashgan; III. Misrliklar ma'budlarning bir qancha joni mavjud: ulardan biri hayvon tanasida, boshqasi esa haykalida yashaydi deb o'ylagan.",
+   "options": [
+    "I, III",
+    "I, II",
+    "II, III",
+    "I, II, III"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilardan boshqalariga nisbatan ENG AVVAL (a) va ENG KEYIN (b) sodir bo'lganlarini aniqlang.\n1) Misrga giksoslar bostirib kirdi;\n2) Misr So'nggi podsholikka birlashdi;\n3) temirdan dastlab xett xalqi foydalana boshladi;\n4) odamlar sun'iy tarzda olov hosil qilishni o'rganib olishdi;\n5) misrliklar ehromlar qurmay qo'yishdi;\n6) Misrda forslarga qaramlik davri boshlandi.",
+   "options": [
+    "a-4; b-6",
+    "a-1; b-2",
+    "a-3; b-5",
+    "a-4; b-2"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Misrlik fir'avnlar qaysi podsholiklar davrida o'zlarining janubiy chegara davlatiga hujumlar amalga oshirishgan?\n1) Ilk podsholik;\n2) Qadimgi podsholik;\n3) O'rta podsholik;\n4) Yangi podsholik;\n5) So'nggi podsholik.",
+   "options": [
+    "1, 2, 5",
+    "2, 3, 4",
+    "1, 3, 5",
+    "2, 4, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi fikrlardan qaysi biri xato ekanligini aniqlang.",
+   "options": [
+    "eng mashhur piramidalar Memfis shahri yaqinida uch fir'avn – Xufu, Xafra va Menkauralar uchun bunyod etilgan",
+    "Misr iyerogliflari yozilgan bitiktosh topilgan Rozett shaharchasi Qohira shahridan uncha uzoqda joylashmagan",
+    "Ziroatchilar qachon urug'likni yerga qadash, qay mahalda hosilni yig'ishtirib olishni bilishi zarur edi, bu muddatlarni misrliklar Nil toshqiniga qarab aniqlaganlar",
+    "Misrliklar nafaqat oddiy arifmetik hisoblashni, qolaversa kasrlar, maxrajlar va murakkab hisob-kitoblarni ham bilishgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi misrliklarda qaysi omil ziroatchilar omoch va hayvonlar kuchidan foydalana boshlashiga sabab bo'ladi?",
+   "options": [
+    "mehnat qurollari takomillashuvi",
+    "Nil daryosini o'zlashtira boshlaganligi",
+    "mamlakat hayotida sardorlarning muhim rol o'ynay boshlashi",
+    "Nil daryosi bo'yidagi sermashaqqat turmush tarziga moslashuvi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi keltirilganlardan qaysilarida voqea-davr mos ravishda berilgan?\n1) Misr yana yagona davlatga birlashib, mamlakat iqtisodiy va madaniy jihatdan yuksaldi – mil. avv. VI asrda\n2) Kir II ning o'g'li Kambiz II Misrni bosib oldi – mil. avv. 525-yilda\n3) taniqli fransuz olimi Jak-Fransua Shampolyon Misr yozuvini o'qigan – 1877-yilda\n4) ko'chmanchi giksos qabilalari Misrga hujum qilgan – mil. avv. XVIII asr oxirida",
+   "options": [
+    "1, 2",
+    "1, 4",
+    "2, 4",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Berilgan voqealardan qaysi biri boshqalarga nisbatan oldinroq yuz bergan?",
+   "options": [
+    "Xufu (Xeops) piramidasi qurilgan",
+    "Forslardan ulkan lashkar tuzgan shahanshoh Kir II ning o'g'li Kambiz II Misrni bosib oldi",
+    "Giksos qabilalari Misrga hujum qildi",
+    "Quyi Misr va Yuqori Misr davlatlari o'rtasida urush boshlangan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagilardan qadimgi Misr yozuvi haqida keltirilgan ma'lumotlardan NOMUVOFIQ berilgan javobni aniqlang.\n1) yozuvdan duolar va marosimlarni yozib borishda foydalanilgan, shuning uchun ham u “muqaddas kalom” yoki “muqaddas bitiklar” deb nomlangan;\n2) qadimgi yunonlar ularni “iyerogliflar” deyishgan;\n3) misrliklar alifbosi 720 iyeroglifdan iborat bo'lgan;\n4) iyerogliflarni qamish qalam bilan papirusga, ya'ni papirus poyasidan ishlangan qog'ozga yozishgan;\n5) turli rangdagi mineral bo'yoqlar siyoh vazifasini o'tagan;\n6) ta'lim olayotganda maqbaralarning devorlariga va ma'budlar haykallariga yozishgan.",
+   "options": [
+    "1, 3, 5",
+    "2, 4, 6",
+    "1, 3, 6",
+    "1, 2, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi Misr fir'avni davrida Old Osiyoda misrliklar hukmronligi o'rnatilgan?",
+   "options": [
+    "Tutmos II",
+    "Tutmos III",
+    "Yaxmos",
+    "Menes"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Misr tomonidan egallangan hududlarning davrini aniqlang.\n1) Qadimgi podsholik davri;\n2) O'rta podsholik davri;\n3) Yangi podsholik davri.\na) Janubiy Falastin va Shimoliy Nubiyaning bosib olinishi;\nb) Nubiya va Liviyaning bosib olinishi;\nc) Falastin, Finikiya va Suriyani istilo qilishning boshlanishi.",
+   "options": [
+    "1-b, 2-c, 3-a",
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ma'lumki, yunonlar yil davomiyligini olimpiya o'yinlariga qarab belgilashgan edi. Qadimgi misrliklar esa yil davomiyligini … belgilashgan. Nuqtalar o'rnini to'ldiring.",
+   "options": [
+    "Nil toshqiniga qarab",
+    "Dengiz to'lqinlariga qarab",
+    "Yulduzlarga qarab",
+    "Shamol yo'nalishiga qarab"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan qaysi biri qadimgi tarixda qadimgi Misr bilan chegaradosh hisoblanmaydi?",
+   "options": [
+    "Liviya",
+    "Nubiya",
+    "Falastin",
+    "Eron"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yangi podsholik davriga oid tog'larga o'yib ishlangan tosh maqbaralarning eng mashhuri bo'lgan, maqbara ichidagi tasavvurga sig'maydigan boyliklar bizga qadar yetib kelgan. Sof temirdan yasalgan zeb-ziynat buyumlari topilgan maqbarani aniqlang.",
+   "options": [
+    "Ramzes II",
+    "Tutanxamon",
+    "Nefertiti",
+    "Tutmos III"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi Misr xudolari va ularning ta'rifi to'g'ri ko'rsatilgan javobni belgilang.\n1) Anubis;\n2) Xatxor;\n3) Amon-Ra;\n4) Apis.\na) hosildorlik xudosi;\nb) quyosh xudosi;\nc) marhumlar va mumiyolanganlar xudosi;\nd) musiqa, go'zallik va sevgi xudosi.",
+   "options": [
+    "1-b, 2-d, 3-c, 4-a",
+    "1-c, 2-d, 3-b, 4-a",
+    "1-c, 2-a, 3-b, 4-d",
+    "1-c, 2-b, 3-d, 4-a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlarni o'qing. I. Hosil yig'im-terimi boshlangan paytda misrliklar boshoqlarni bronza o'roqlar bilan o'rib olishgan; II. Qadimgi Misr hunarmandlarining 50 dan ziyod kasb-korlari bo'lgan; III. Misrliklar urug'likni yerga singdirish uchun va hosilni yanchish uchun hayvonlarni ular ustidan haydab o'tishgan; IV. xirmonjoydan chiqqan don sopol xumlarda saqlangan, bu tadbir donni son-sanoqsiz kemiruvchi zararkunandalardan himoyalardi; V. Nil daryosi Afrika janubi-sharqida sivilizatsiya vujudga kelishi uchun zamin yaratgan. Ushbu ma'lumotlarning yakuniy xulosasi (to'g'ri/noto'g'ri) keltirilgan javobni aniqlang.",
+   "options": [
+    "I-noto'g'ri; II-to'g'ri; III-noto'g'ri; IV-noto'g'ri; V-to'g'ri",
+    "I-noto'g'ri; II-noto'g'ri; III-to'g'ri; IV-to'g'ri; V-noto'g'ri",
+    "I-to'g'ri; II-noto'g'ri; III-to'g'ri; IV-to'g'ri; V-to'g'ri",
+    "I-to'g'ri; II-noto'g'ri; III-noto'g'ri; IV-to'g'ri; V-to'g'ri"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Misrda qaysi sohaning dunyoga kelishi va rivojlanishi misrliklar kundalik hayotiga bog'liq bo'lgan?",
+   "options": [
+    "amaliy bilimlar",
+    "dehqonchilik",
+    "nazariy bilimlar",
+    "chorvachilik"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi hukmdorlar va ularga tegishli ma'lumotlarni to'g'ri tartibda belgilang.\n1) Tutmos II;\n2) Yaxmos;\n3) Menes.\na) Finikiyani istilo etgan hukmdor;\nb) o'z xalqini dehqonchilikka o'rgatgan;\nc) mil. avv. 3-ming yillikda Yuqori va Quyi Misr o'rtasidagi jangda g'alaba qozondi;\nd) uning davrida Old Osiyoda misrliklar hukmronligi o'rnatilgan;\ne) giksoslarni tor-mor etib, bosqinchilarni Misrdan haydab chiqardi.",
+   "options": [
+    "1-d; 2-b; 3-c",
+    "1-b; 2-c; 3-a",
+    "1-c; 2-d; 3-b",
+    "1-a; 2-e; 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Misr tarixiga oid to'g'ri ma'lumotlar berilgan javobni aniqlang.\n1) Quyi Misrdagi Memfis shahri orqali o'tadigan yo'l Sinay yarimoroliga olib borgan;\n2) Misr shaharlarida tabiblarga ta'lim beruvchi maxsus maktablar bo'lgan;\n3) Qadimgi Misr podsholigining poytaxti Memfisning bosh xudosi Amon bo'lgan;\n4) Misrliklarda fir'avnlar Quyosh xudosining o'g'illaridir, hukmdorlar hamma ishni o'zining samoviy otasi amri bilan amalga oshiradi, degan qarash mavjud bo'lgan;\n5) Piramidalar qurilishi uchun toshlar Liviya tog'idan olib kelingan;\n6) O'rta podsholik davriga kelib ehromlar o'rniga fir'avnlarni tog'larga o'yilgan tosh maqbaralarga dafn etadigan bo'lishdi.",
+   "options": [
+    "1, 3, 5",
+    "2, 4, 6",
+    "3, 5, 6",
+    "1, 2, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyida keltirilganlar orasidan Misrda Yangi podsholik davrida bosib OLINMAGAN hududni aniqlang.\n1) Falastin;\n2) Old Osiyo;\n3) Nubiya;\n4) Liviya;\n5) Sinay yarimoroli;\n6) Suriya.",
+   "options": [
+    "4, 5",
+    "1, 3",
+    "2, 3",
+    "1, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Berilgan voqealardan qaysi biri boshqalariga nisbatan oldinroq sodir bo'lgan?",
+   "options": [
+    "misrliklar So'nggi podsholikka birlashdilar",
+    "Ahamoniylar tomonidan Misr bosib olindi",
+    "Liviya yerlari misrliklar tomonidan talandi",
+    "Quyi Misr giksos qabilalariga qaram bo'ldi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Iyeroglif” atamasining ma'nosi qaysi javobda to'g'ri berilgan?",
+   "options": [
+    "“ikki daryo oralig'i”",
+    "“muqaddas bitiklar”",
+    "“qat'iy belgilangan qonun-qoidalar”",
+    "“xudolar darvozasi”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Misrda O'rta podsholikning ko'plab mayda “nom”larga bo'linib ketishi qaysi tarixiy jarayon ortida yuz bergan?",
+   "options": [
+    "Misr fir'avnlarining bir necha yil mahalliy qabilalar bilan urushi",
+    "ko'chmanchi giksos qabilalarining Misrga hujumi",
+    "ko'p yillar mobaynida “nom”lar hukmdorlarining o'z mol-mulkini ko'paytirib olishi",
+    "bo'ysundirilgan xalqlarning o'z erk va ozodliklari uchun kurashlari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Misrda Yangi podsholik davri fir'avnlari hujumlarini qaysi mamlakatlarga qaratganlar?",
+   "options": [
+    "Nubiya va Liviya",
+    "Nubiya va Old Osiyo",
+    "Sinay yarimoroli va Liviya",
+    "Old Osiyo va Liviya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fors shohi Kambiz II ning Misrga yurishi (mil. avv. 525-yil) qanday oqibatga olib kelgan?",
+   "options": [
+    "Pelusium jangida Kambiz II mag'lubiyatga uchrab, Misrni tark etishga majbur bo'ldi",
+    "Kambiz II So'nggi podsholik fir'avni Amasis II ga mahalliy qabilalarga qarshi kurashida yordam berdi",
+    "So'nggi podsholik fir'avni Psamtik III asir olindi, Misr esa Ahamoniylar tarkibiga qo'shildi",
+    "Sois sulolasi hokimiyat tepasiga keldi, Misr yagona davlatga birlashdi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan Qadimgi Misr tarixi bilan bog'liq bo'lgan ma'lumotlar mos ravishda berilgan javobni aniqlang.\n1) Oddiy misrliklarning uylari;\n2) Zodagonlarning uylari;\n3) Fir'avnlarning saroylari va ibodatxonalar.\na) Toshdan barpo etilgan;\nb) Loy suvalgan papirus poyalaridan qurilgan;\nc) Oftobda quritilgan xom g'ishtdan qurilgan;\nd) Pishgan g'ishtdan barpo etilgan.",
+   "options": [
+    "1-c, 2-d, 3-a",
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-d",
+    "1-b, 2-c, 3-a"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qadimgi Misrda qanday kishilar yuksak saviyadagi ma'lumotli va savodxon kishilar sanalganlar, ular katta imtiyozlarga ega bo'lib, izzat-hurmatda bo'lganlar?",
+   "options": [
+    "o'qishni va yozishni biladiganlar",
+    "chiroyli so'zlashni o'zlashtirgan",
+    "husnixat san'atini egallagan",
+    "tibbiyot ilmidan habardor bo'lganlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi misrliklar o'z yozuvlarini qanday nomlashgan?",
+   "options": [
+    "«mixxat»",
+    "«ma'budlar kalomi»",
+    "«iyerogliflar»",
+    "«qat'iy belgilangan qonunlar»"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qadimgi Misr tarixi bilan bog'liq qaysi ma'lumotlar NOTO'G'RI? I. Misr g'arbda Nubiya (Shimoliy Sudan) bilan chegaradosh bo'lgan. II. Misrlik kemasozlar qamishdan qayiqlar, yog'ochdan esa kemalar qurishgan. III. Nubiya va Liviya mamlakatlari mis va temir rudasiga hamda boshqa foydali qazilmalarga boy bo'lgan. IV. Odamlar mil. avv. 4-mingyillik oxirida Nil vodiysidagi sermashaqqat turmush sharoitiga moslasha boshladi. V. Giksoslar zulmidan xalos bo'lish taraddudiga tushib qolgan “nom”lar hukmdorlari Memfis shahri atrofiga birlashadi. VI. Nubiya, Falastin, Liviya, Suriya kabi mamlakatlar qadimgi misrliklarga qo'shni bo'lgan.",
+   "options": [
+    "I, IV, V",
+    "II, III, VI",
+    "I, III, V",
+    "II, IV, VI"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi misrliklar rivoyatiga ko'ra kim Misrning ilk podsholaridan biri bo'lib, o'z xalqini dehqonchilikka o'rgatgan?",
+   "options": [
+    "Yaxmos",
+    "Xufu",
+    "Osiris",
+    "Menes"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qadimgi misrliklar o'z yurtlariga qanday nom berishgan?",
+   "options": [
+    "“Olovli yer”",
+    "“Qora tuproq”",
+    "“Daryo sohili”",
+    "“Qizil tuproq”"
+   ],
+   "answer": 1
+  }
+ ]
+}

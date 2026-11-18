@@ -1,0 +1,506 @@
+{
+ "title": "8-sinf O'zbekiston tarixi — asarli test",
+ "time": 30,
+ "questions": [
+  {
+   "q": "\"Tabaqoti Nosiriy\" asari muallifi kim?",
+   "options": [
+    "Abu Usmon Minhojiddin ibn Sirojiddin",
+    "Abdurazzoq Samarqandiy",
+    "Ahmad Fasih Xavofiy",
+    "Hofiz Abro'y"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Shajarayi turk\" asari muallifi kim?",
+   "options": [
+    "Abulg'oziy Bahodirxon",
+    "Rashiduddin Fazlulloh",
+    "Muiniddin Natanziy",
+    "Mirxond"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Mujmali Fasihiy\" asari muallifi kim?",
+   "options": [
+    "Ahmad Fasih Xavofiy",
+    "Abdurazzoq Samarqandiy",
+    "Abu Usmon Minhojiddin",
+    "Hofiz Abro'y"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Matta'i sa'dayn\" asari muallifi kim?",
+   "options": [
+    "Abdurazzoq Samarqandiy",
+    "Ahmad Fasih Xavofiy",
+    "Juvayniy",
+    "Tabariy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Temur tuzuklari\" asari muallifi kim?",
+   "options": [
+    "Amir Temur",
+    "Mirzo Ulug'bek",
+    "Sharafuddin Ali Yazdiy",
+    "Nizomiddin Shomiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur buyrug'i bilan yozilgan tosh yodgorlik qanday ataladi?",
+   "options": [
+    "Ulug'tog' bitiktoshi",
+    "Behistun tosh yozuvi",
+    "G'azna bitiktoshi",
+    "Samarqand tosh yozuvi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur qaysi Fransiya qiroliga maktub yo'llagan?",
+   "options": [
+    "Karl VI",
+    "Karl V",
+    "Lui XIV",
+    "Filippga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Amir Temur qaysi sultonga xat yo'llagan?",
+   "options": [
+    "Yildirim Boyazid",
+    "Sulton Murod",
+    "Sulton Ahmad",
+    "Sulton Husayn"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiyning \"Xamsa\"dan tashqari yana qaysi asari mashhur?",
+   "options": [
+    "\"Majolis un-nafois\"",
+    "\"Masnaviyi ma'naviy\"",
+    "\"Jome at-tavorix\"",
+    "\"Shohnoma\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiyning qaysi asari she'rlar to'plami hisoblanadi?",
+   "options": [
+    "\"Badoye ul-bidoya\"",
+    "\"Tarixi Tabariy\"",
+    "\"Shohnoma\"",
+    "\"Zafarnoma\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Navoiyning \"Mahbub ul-qulub\" asari qaysi janrda yozilgan?",
+   "options": [
+    "Nasriy asar (axloqiy-falsafiy)",
+    "Tarixiy asar",
+    "Ilmiy asar",
+    "Sayohatnoma"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiyning \"Vaqfiya\" asari nima haqida?",
+   "options": [
+    "Vaqf mulklari haqida",
+    "She'rlar haqida",
+    "Tarix haqida",
+    "Sayyohlar haqida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Xamsa\", \"Xizrxon va Duvalra\" asarlari muallifi kim?",
+   "options": [
+    "Amir Xusrav Dehlaviy",
+    "Alisher Navoiy",
+    "Jaloliddin Rumiy",
+    "Sa'diy Sheroziy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"G'oliblik kaliti\" asari muallifi kim?",
+   "options": [
+    "Amir Xusrav Dehlaviy",
+    "Alisher Navoiy",
+    "Firdavsiy",
+    "Pahlavon Mahdum"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Falakning to'qqiz gumbazi\" asari muallifi kim?",
+   "options": [
+    "Amir Xusrav Dehlaviy",
+    "Jaloliddin Rumiy",
+    "Sa'diy Sheroziy",
+    "Mirxond"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Shohnoma\" asari muallifi kim?",
+   "options": [
+    "Firdavsiy",
+    "Sa'diy Sheroziy",
+    "Jaloliddin Rumiy",
+    "Amir Xusrav Dehlaviy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Tarixlar sarasi\" asari muallifi kim?",
+   "options": [
+    "Hofiz Abro'y",
+    "Juvayniy",
+    "Tabariy",
+    "Rashiduddin Fazlulloh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Sayohatnoma\" asari muallifi kim?",
+   "options": [
+    "Ibn Battuta",
+    "Rui Gonsales de Klavixo",
+    "Ioann Grinlo",
+    "Perondino"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Amir Temur tarixi\" asari muallifi kim?",
+   "options": [
+    "Ibn Arabshoh",
+    "Ibn Battuta",
+    "Juvayniy",
+    "G'iyosiddin Ali"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Temur va uning saroyiga oid xotiralar\" asari muallifi kim?",
+   "options": [
+    "Ioann Grinlo",
+    "Perondino",
+    "Pero Meksika",
+    "Jerar Volter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Tarixi jahongusho\" asari muallifi kim?",
+   "options": [
+    "Juvayniy",
+    "Tabariy",
+    "Rashiduddin Fazlulloh",
+    "Hofiz Abro'y"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Asrlar yodgorligi\" asari mualliflari kim?",
+   "options": [
+    "Jerar Volter va Marsel Brion",
+    "Ibn Arabshoh va Ibn Battuta",
+    "Perondino va Pero Meksika",
+    "Ioann Grinlo va Xristofor Morlo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Masnaviyi ma'naviy\" asari muallifi kim?",
+   "options": [
+    "Jaloliddin Rumiy",
+    "Sa'diy Sheroziy",
+    "Pahlavon Mahdum",
+    "Firdavsiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mirzo Ulug'bekning tarixiy asari qanday ataladi?",
+   "options": [
+    "\"To'rt ulus tarixi\" (\"Tarixi arba' ulus\")",
+    "\"Tarixi jahongusho\"",
+    "\"Jome at-tavorix\"",
+    "\"Zafarnoma\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mirzo Ulug'bekning astronomik asari qanday ataladi?",
+   "options": [
+    "\"Ziji jadidi Ko'ragoniy\"",
+    "\"Bir daraja sinusini aniqlash haqida risola\"",
+    "\"Astronomiya darakchisi\"",
+    "\"Risolayi Ulug'bek\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Muntaxab ut-tavorixi Muiniy\" asari muallifi kim?",
+   "options": [
+    "Muiniddin Natanziy",
+    "Mirxond",
+    "Juvayniy",
+    "Tabariy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Men-kim, Sohibqiron-Jahongir Temur\" asari muallifi kim?",
+   "options": [
+    "Marsel Brion",
+    "Jerar Volter",
+    "Pero Meksika",
+    "Perondino"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Soflik bog'i\" asari muallifi kim?",
+   "options": [
+    "Mirxond",
+    "Hofiz Abro'y",
+    "Muiniddin Natanziy",
+    "Rashiduddin Fazlulloh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Qisasi Rabg'uziy\" asari muallifi kim?",
+   "options": [
+    "Nosiriddin Rabg'uziy",
+    "Muiniddin Natanziy",
+    "Mirxond",
+    "Tabariy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Amir Temur – Turon sultoni\" asari muallifi kim?",
+   "options": [
+    "O.Bo'riyev",
+    "Marsel Brion",
+    "Pero Meksika",
+    "Perondino"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Skifiyalik Tamerlanning ulug'vorligi\" asari muallifi kim?",
+   "options": [
+    "Perondino",
+    "Pero Meksika",
+    "Ioann Grinlo",
+    "Jerar Volter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Buyuk Temur tarixi\" asari muallifi kim?",
+   "options": [
+    "Pero Meksika",
+    "Perondino",
+    "Marsel Brion",
+    "Xristofor Morlo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Haqiqatlar xazinasi\" masnaviysi muallifi kim?",
+   "options": [
+    "Pahlavon Mahdum",
+    "Jaloliddin Rumiy",
+    "Sa'diy Sheroziy",
+    "Amir Xusrav Dehlaviy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Jome at-tavorix\" asari muallifi kim?",
+   "options": [
+    "Rashiduddin Fazlulloh",
+    "Juvayniy",
+    "Hofiz Abro'y",
+    "Tabariy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Amir Temur saroyiga sayohat kundaliklari\" asari muallifi kim?",
+   "options": [
+    "Rui Gonsales de Klavixo",
+    "Ioann Grinlo",
+    "Perondino",
+    "Jerar Volter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Guliston\" va \"Bo'ston\" asarlari muallifi kim?",
+   "options": [
+    "Sa'diy Sheroziy",
+    "Jaloliddin Rumiy",
+    "Pahlavon Mahdum",
+    "Firdavsiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Tarixi Tabariy\" asari muallifi kim?",
+   "options": [
+    "Tabariy",
+    "Rashiduddin Fazlulloh",
+    "Juvayniy",
+    "Hofiz Abro'y"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Buyuk Temur\" sahna asari muallifi kim?",
+   "options": [
+    "Xristofor Morlo",
+    "Pero Meksika",
+    "Perondino",
+    "Jerar Volter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Astronomiya darakchisi\" asari muallifi kim?",
+   "options": [
+    "Yan Geveliy",
+    "Mirzo Ulug'bek",
+    "Hofiz Abro'y",
+    "Muiniddin Natanziy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Badoye' ul-vaqoe\" asari muallifi kim?",
+   "options": [
+    "Zayniddin Vosifiy",
+    "Alisher Navoiy",
+    "Pahlavon Mahdum",
+    "Sulton Husayn Mirzo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Temurning Hindistonga yurishi\" asari muallifi kim?",
+   "options": [
+    "G'iyosiddin Ali",
+    "Ibn Arabshoh",
+    "Sharafuddin Ali Yazdiy",
+    "Nizomiddin Shomiy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Zafarnoma\" asari mualliflari kim?",
+   "options": [
+    "Sharafuddin Ali Yazdiy va Nizomiddin Shomiy",
+    "G'iyosiddin Ali va Ibn Arabshoh",
+    "Hofiz Abro'y va Juvayniy",
+    "Rashiduddin va Tabariy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Siyrat as-sulton Jaloliddin Mangburni\" asari muallifi kim?",
+   "options": [
+    "Shihobiddin Nasaviy",
+    "Ibn Arabshoh",
+    "Juvayniy",
+    "Rashiduddin Fazlulloh"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sulton Husayn Mirzo Navoiyga bag'ishlab qaysi asarni yozgan?",
+   "options": [
+    "\"Risola\"",
+    "\"Xamsa\"",
+    "\"Vaqfiya\"",
+    "\"Badoye ul-bidoya\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Alisher Navoiyning \"Tarixi muluki Ajam\" qaysi mavzuda yozilgan?",
+   "options": [
+    "Ajam (Eron) hukmdorlari tarixi",
+    "O'zbek hukmdorlari tarixi",
+    "Mo'g'ul hukmdorlari tarixi",
+    "Arab hukmdorlari tarixi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Hiloliya qasidasi\" muallifi kim?",
+   "options": [
+    "Alisher Navoiy",
+    "Amir Xusrav Dehlaviy",
+    "Pahlavon Mahdum",
+    "Sa'diy Sheroziy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mirzo Ulug'bekning matematika bo'yicha asari qanday ataladi?",
+   "options": [
+    "\"Bir daraja sinusini aniqlash haqida risola\"",
+    "\"Ziji jadidi Ko'ragoniy\"",
+    "\"Astronomiya darakchisi\"",
+    "\"Risolayi Ulug'bek\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Guldursun afsonasi\" kim tomonidan yozib olingan?",
+   "options": [
+    "S.P.Tolstov",
+    "O.Bo'riyev",
+    "Marsel Brion",
+    "Jerar Volter"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rui Gonsales de Klavixoning asari qanday nomlar bilan ham ataladi? (to'g'ri javobni toping)",
+   "options": [
+    "\"Samarqandga sayohat kundaligi\"",
+    "\"Temur va uning saroyiga oid xotiralar\"",
+    "\"Asrlar yodgorligi\"",
+    "\"Buyuk Temur tarixi\""
+   ],
+   "answer": 0
+  },
+  {
+   "q": "\"Tarixi anbiyo va hukamo\" asari muallifi kim?",
+   "options": [
+    "Alisher Navoiy",
+    "Rashiduddin Fazlulloh",
+    "Tabariy",
+    "Juvayniy"
+   ],
+   "answer": 0
+  }
+ ]
+}

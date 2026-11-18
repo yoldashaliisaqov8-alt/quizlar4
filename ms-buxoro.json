@@ -1,0 +1,226 @@
+{
+ "title": "Buxoro xonligi va amirligi mansablari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Amir (xon)dan keyingi eng nufuzli shaxs — bosh vazirni aniqlang.",
+   "options": [
+    "Devonbegi",
+    "Qo'shbegi",
+    "Otaliq",
+    "Ko'kaldosh"
+   ],
+   "answer": 1,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "Davlatning moliya va xo'jalik ishlarini boshqargan amaldorni toping.",
+   "options": [
+    "Devonbegi",
+    "Mushrif",
+    "Miroxur",
+    "Sadr"
+   ],
+   "answer": 0,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "Sug'orish va suv taqsimoti bilan bog'liq ishlarga mas'ul amaldor?",
+   "options": [
+    "Qutvol",
+    "Dodxoh",
+    "Otaliq",
+    "Mehtar"
+   ],
+   "answer": 2,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "Davlat xavfsizlik xizmatiga rahbarlik qilgan amaldorni aniqlang.",
+   "options": [
+    "Eshikog'aboshi",
+    "Qorovulbegi",
+    "Kichik inoq",
+    "Ko'kaldosh"
+   ],
+   "answer": 3,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "Mansablar va vazifalarni moslang.\n1) Parvonachi 2) Dodxoh 3) Muhtasib\na) bozorda narx-navo va tarozilarning to'g'riligini nazorat qilgan\nb) xon farmonlari va rasmiy hujjatlarni ijrochilarga yetkazgan\nc) arizalarni qabul qilgan va adolat mezonlarini nazorat qilgan",
+   "options": [
+    "1-b, 2-c, 3-a",
+    "1-c, 2-b, 3-a",
+    "1-a, 2-c, 3-b",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 0,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Fatvo chiqargan va fatvo asosida hukm chiqargan amaldorlar to'g'ri ketma-ketlikda berilgan qatorni toping.",
+   "options": [
+    "qozi – muftiy",
+    "muftiy – qozi",
+    "sadr – shayxulislom",
+    "naqib – qozi askar"
+   ],
+   "answer": 1,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Vaqf mulklarini boshqargan amaldorni aniqlang.",
+   "options": [
+    "Mushrif",
+    "Kitobdor",
+    "Sadr",
+    "Shayxulislom"
+   ],
+   "answer": 2,
+   "explanation": "Manba: oson"
+  },
+  {
+   "q": "Kichik inoqning vazifasini aniqlang.",
+   "options": [
+    "davlat xizmatchilari faoliyatini tashkil etgan",
+    "elchilar hujjatlarini qabul qilgan va amir muhri uchun javob bergan",
+    "shahar va yo'llarni qo'riqlagan",
+    "amir otxonasiga boshchilik qilgan"
+   ],
+   "answer": 1,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Harbiy harakatlarda shtab boshlig'i vazifasini bajargan amaldor?",
+   "options": [
+    "To'qsoba",
+    "Naqib",
+    "Qozi askar",
+    "Miroxur"
+   ],
+   "answer": 1,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "TO'G'RI ma'lumotlarni aniqlang.\n1) Miroxur amir otxonasining boshlig'i bo'lgan.\n2) Kitobdor soliq tushumlarini ro'yxatga olgan.\n3) Qorovulbegi shahar va yo'llar posboni bo'lgan.\n4) Shig'ovul amir kutubxonasini boshqargan.",
+   "options": [
+    "1, 3",
+    "2, 4",
+    "1, 4",
+    "2, 3"
+   ],
+   "answer": 0,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "NOTO'G'RI ma'lumotni toping.",
+   "options": [
+    "Eshikog'aboshi dargoh xavfsizligi va o'rnatilgan tartib uchun javob bergan.",
+    "Mushrif sovg'alar va soliq tushumlarini ro'yxatga olgan.",
+    "Saroy qutvoli qurilish va qal'a devorlari ishlarini boshqargan.",
+    "Xon yasovuli bozordagi tarozilarning to'g'riligini nazorat qilgan."
+   ],
+   "answer": 3,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Muftiy askarning vazifasini aniqlang.",
+   "options": [
+    "harbiy jinoyat va shikoyatlarni ko'rib chiqqan",
+    "vaqf mulklarini boshqargan",
+    "davlat bayrog'i uchun mas'ul bo'lgan",
+    "harbiylar ustidan chiqarilgan hukmning shariatga mosligini tekshirgan"
+   ],
+   "answer": 3,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Mansablarni guruhlang.\nI – moliya-xo'jalik; II – diniy-huquqiy soha\na) devonbegi b) shayxulislom c) mehtar d) qozikalon e) mushrif f) muftiy",
+   "options": [
+    "I – a, c, e; II – b, d, f",
+    "I – a, b, c; II – d, e, f",
+    "I – c, e; II – a, b, d, f",
+    "I – a, e; II – b, c, d, f"
+   ],
+   "answer": 0,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Vaziyat: Buxoroga chet el elchilari keldi. Ularning qabul qilinishini tashkil etgan va elchilar olib kelgan hujjatlarni qabul qilgan amaldorlar to'g'ri ketma-ketlikda berilgan qatorni toping.",
+   "options": [
+    "mushrif – bosh inoq",
+    "parvonachi – kitobdor",
+    "shig'ovul – kichik inoq",
+    "dodxoh – shig'ovul"
+   ],
+   "answer": 2,
+   "explanation": "Manba: qiyin"
+  },
+  {
+   "q": "Vaziyat: Bozorda savdogar noto'g'ri tarozi bilan savdo qilayotgani aniqlandi. Bu holatni nazorat qilish qaysi amaldor vakolatiga kirgan?",
+   "options": [
+    "Qozi askar",
+    "Mehtar",
+    "Muhtasib (rais)",
+    "Qorovulbegi"
+   ],
+   "answer": 2,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Vaziyat: Askar ustidan harbiy jinoyat bo'yicha shikoyat tushdi. Ishni qaysi amaldor ko'rib chiqqan?",
+   "options": [
+    "Qozikalon",
+    "Muftiy askar",
+    "Sadr",
+    "Qozi askar"
+   ],
+   "answer": 3,
+   "explanation": "Manba: o'rta"
+  },
+  {
+   "q": "Fikrlarni baholang.\nI. Amir (xon) davlatning oliy hukmdori va ma'naviy rahnamosi hisoblangan.\nII. Bosh inoq davlat xizmatchilari faoliyatini tashkil etgan.\nIII. To'qsoba amir otxonasining boshlig'i bo'lgan.\nIV. Dasturxonchi amir huzuridagi ziyofatlar uchun mas'ul bo'lgan.",
+   "options": [
+    "faqat III to'g'ri",
+    "I va III to'g'ri; II va IV noto'g'ri",
+    "II va III noto'g'ri; I va IV to'g'ri",
+    "I, II, IV to'g'ri; III noto'g'ri"
+   ],
+   "answer": 3,
+   "explanation": "Manba: qiyin"
+  },
+  {
+   "q": "Taqqoslash. «Mehtar» mansabining xonliklardagi vazifasini moslang.\n1) Xiva 2) Qo'qon 3) Buxoro\na) soliq va tushumlarning sarflanishini nazorat qilgan\nb) bosh vazir, o'troq aholi vakili\nc) moliya ishlariga mas'ul devonbegi o'rinbosari",
+   "options": [
+    "1-b, 2-c, 3-a",
+    "1-a, 2-b, 3-c",
+    "1-c, 2-a, 3-b",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 0,
+   "explanation": "Manba: qiyin"
+  },
+  {
+   "q": "Taqqoslash. «Naqib» mansabi Xiva va Buxoroda qanday farq qilgan?",
+   "options": [
+    "Ikkalasida ham harbiy shtab boshlig'i bo'lgan.",
+    "Xivada payg'ambar avlodlari vakili va ta'lim mas'uli, Buxoroda harbiy shtab boshlig'i bo'lgan.",
+    "Xivada shtab boshlig'i, Buxoroda vaqf mulklari boshqaruvchisi bo'lgan.",
+    "Ikkalasida ham ta'lim sohasiga mas'ul bo'lgan."
+   ],
+   "answer": 1,
+   "explanation": "Manba: qiyin"
+  },
+  {
+   "q": "Taqqoslash. Uch xonlikda bosh vazir lavozimi nomlari to'g'ri berilgan qatorni toping.",
+   "options": [
+    "Xiva – qo'shbegi; Qo'qon – mehtar; Buxoro – mingboshi",
+    "Xiva – mingboshi; Qo'qon – qo'shbegi; Buxoro – mehtar",
+    "Xiva – mehtar; Qo'qon – mingboshi; Buxoro – qo'shbegi",
+    "Xiva – mehtar; Qo'qon – devonbegi; Buxoro – otaliq"
+   ],
+   "answer": 2,
+   "explanation": "Manba: qiyin"
+  }
+ ]
+}

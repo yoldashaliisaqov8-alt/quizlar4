@@ -3,6 +3,42 @@ Guruhda yozing: /quiz <nomi>
 Avtomatik: /avto 20 6-1..6-44  ·  Holat: /avto  ·  To'xtatish: /avto stop
 
 
+=== Milliy sertifikat (Tarix) · variantlar ===
+/quiz ms-14-11  —  Milliy sertifikat 14.11.2026 (35 ta)
+/quiz ms-15-11  —  Milliy sertifikat 15.11.2026 (35 ta)
+/quiz ms-qiyin  —  Milliy sertifikat (o'ta qiyin variant) (35 ta)
+/quiz ms-9  —  Milliy sertifikat — 1-variant (29 ta)
+/quiz ms-10  —  Milliy sertifikat — 2-variant (6 ta)
+/quiz ms-11  —  Milliy sertifikat — 3-variant (31 ta)
+/quiz ms-14  —  DXX akademiyasiga saralash — tarix testlari (20 ta)
+/quiz ms-25  —  Milliy sertifikat — namuna to'plam (6 ta)
+
+=== Milliy sertifikat (Tarix) · mavzuli va moslashtirish testlari ===
+/quiz ms-1  —  II jahon urushida o'zbekistonliklar — shaxs va ma'lumotni moslashtirish (20 ta)
+/quiz ms-2  —  Turkiston va O'zbekiston rahbarlari — shaxs va ma'lumotni moslashtirish (40 ta)
+/quiz ms-3  —  Soliqlar — soliq va ma'lumotni moslashtirish (20 ta)
+/quiz ms-4  —  Ixtirolar — moslashtirish testi (70 ta)
+/quiz ms-5  —  Qadimgi dunyo janglari — moslashtirish testi (40 ta)
+/quiz ms-6  —  Xalifalar bog'liq test (49 ta)
+/quiz ms-7  —  Obidalar (me'morchilik) bog'liq test (49 ta)
+/quiz ms-8  —  Afrika davlatlari va poytaxtlari (54 ta)
+/quiz ms-12  —  7-sinf O'zbekiston tarixi — asarli test (30 ta)
+/quiz ms-13  —  8-sinf O'zbekiston tarixi — asarli test (50 ta)
+/quiz ms-15  —  10-sinf O'zbekiston tarixi — 1–8-mavzu (30 ta)
+/quiz ms-16  —  6-sinf Qadimgi dunyo tarixi — 1–5-mavzu (45 ta)
+/quiz ms-17  —  10-sinf O'zbekiston tarixi — 1–32-mavzu (32 ta)
+/quiz ms-18  —  10-sinf O'zbekiston tarixi — 27–32-mavzu (32 ta)
+/quiz ms-19  —  8-sinf O'zbekiston va jahon tarixi (35 ta)
+/quiz ms-20  —  10-sinf O'zbekiston tarixi — 17–21-mavzular (35 ta)
+/quiz ms-21  —  10-sinf O'zbekiston tarixi — 12–16-mavzular (35 ta)
+/quiz ms-22  —  10-sinf O'zbekiston tarixi — 7–11-mavzular (35 ta)
+/quiz ms-23  —  10-sinf O'zbekiston tarixi — 1–6-mavzular (35 ta)
+/quiz ms-24  —  Birinchi savolga javob testlari (56 ta)
+/quiz ms-afrika  —  Afrika davlatlari (XIX–XX asrlar) — mavzuli test (20 ta)
+/quiz ms-buxoro  —  Buxoro xonligi va amirligi mansablari (20 ta)
+/quiz ms-xiva  —  Xiva xonligi mansablari (15 ta)
+/quiz ms-qoqon  —  Qo'qon xonligi mansablari (15 ta)
+
 === 6-sinf ===
 /quiz 6-0  —  Kirish. Qadimgi dunyo tarixini o'rganish (10 ta)
 /quiz 6-1  —  1-mavzu. Qadimgi tarix ildizlari (30 ta)

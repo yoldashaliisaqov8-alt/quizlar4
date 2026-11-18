@@ -46,6 +46,7 @@ function html(name, d, sec) {
   let n = 0;
   for (const s of cat.sections) for (const t of s.tests) {
     if (only && t.n !== only) continue;
+    if (!only && !process.env.FORCE && fs.existsSync(`${R}/pdf/${t.n}.pdf`)) continue;
     const d = JSON.parse(fs.readFileSync(`${R}/${t.n}.json`, 'utf8'));
     const f = path.join(require('os').tmpdir(), 'isakov-h.html');
     fs.writeFileSync(f, html(t.n, d, `${s.icon} ${s.title}`).replace('@BOTNAME', process.env.BOTNAME || 'Isakov school Quiz'));

@@ -1,0 +1,496 @@
+{
+ "title": "Obidalar (me'morchilik) bog'liq test",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Roman me'morchiligi uslubida qurilgan yodgorliklar qaysi shaharda joylashgan?",
+   "options": [
+    "Puatye",
+    "Milan",
+    "Granada",
+    "Konstantinopol"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fransiyada Roman uslubidagi yodgorliklar qatoriga qaysi shahar kiritilgan?",
+   "options": [
+    "Bryussel",
+    "Puatye",
+    "Oksford",
+    "Ravenna"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Klyuni qaysi me'morchilik uslubidagi yodgorliklar ro'yxatida berilgan?",
+   "options": [
+    "Gotika",
+    "Vizantiya",
+    "Roman",
+    "Arab"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Arl qaysi davlatdagi Roman uslubidagi yodgorliklar qatorida keltirilgan?",
+   "options": [
+    "Fransiya",
+    "Germaniya",
+    "Angliya",
+    "Italiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tuluza qaysi me'morchilik uslubiga oid ro'yxatda keltirilgan?",
+   "options": [
+    "Gotika",
+    "Roman",
+    "Arab",
+    "Vizantiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Maynts qaysi davlatning Roman uslubidagi yodgorliklar ro'yxatida berilgan?",
+   "options": [
+    "Fransiya",
+    "Angliya",
+    "Germaniya",
+    "Belgiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Vorms qaysi me'morchilik uslubidagi yodgorliklar qatoriga kiradi?",
+   "options": [
+    "Roman",
+    "Gotika",
+    "Vizantiya",
+    "Arab"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Axen qaysi davlatdagi Roman uslubidagi yodgorliklar qatorida keltirilgan?",
+   "options": [
+    "Germaniya",
+    "Italiya",
+    "Fransiya",
+    "Belgiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Oksford va Vinchester qaysi davlatning Roman uslubidagi yodgorliklari sifatida berilgan?",
+   "options": [
+    "Fransiya",
+    "Angliya",
+    "Germaniya",
+    "Italiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Notr-Dam qaysi me'morchilik uslubida qurilgan yodgorliklar ro'yxatiga kiritilgan?",
+   "options": [
+    "Roman",
+    "Arab",
+    "Gotika",
+    "Vizantiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ruan qaysi uslubdagi yodgorliklar qatorida keltirilgan?",
+   "options": [
+    "Gotika",
+    "Roman",
+    "Vizantiya",
+    "Arab"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Reyms qaysi davlatning Gotika uslubidagi yodgorliklari ro'yxatida berilgan?",
+   "options": [
+    "Italiya",
+    "Belgiya",
+    "Fransiya",
+    "Angliya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Shartr qaysi me'morchilik uslubiga oid ro'yxatda keltirilgan?",
+   "options": [
+    "Arab",
+    "Gotika",
+    "Roman",
+    "Vizantiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ambuazdagi Qirollik qal'asi qaysi uslubdagi yodgorliklar qatorida berilgan?",
+   "options": [
+    "Gotika",
+    "Roman",
+    "Arab",
+    "Vizantiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vestminister qaysi davlatning Gotika uslubidagi yodgorliklaridan biri?",
+   "options": [
+    "Angliya",
+    "Fransiya",
+    "Italiya",
+    "Germaniya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Linkoln qaysi me'morchilik uslubidagi yodgorliklar qatorida keltirilgan?",
+   "options": [
+    "Roman",
+    "Gotika",
+    "Arab",
+    "Vizantiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Milan qaysi davlatning Gotika uslubidagi yodgorligi sifatida ko'rsatilgan?",
+   "options": [
+    "Belgiya",
+    "Fransiya",
+    "Italiya",
+    "Angliya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bryusseldagi Shahar meriyasi qaysi uslubda qurilgan inshootlar ro'yxatida berilgan?",
+   "options": [
+    "Gotika",
+    "Roman",
+    "Vizantiya",
+    "Arab"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Avliyo Mark va Dojlar saroyi qaysi shaharda joylashgan?",
+   "options": [
+    "Ravenna",
+    "Venetsiya",
+    "Granada",
+    "Buxoro"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Avliyo Mark va Dojlar saroyi qaysi me'morchilik uslubiga kiritilgan?",
+   "options": [
+    "Roman",
+    "Gotika",
+    "Vizantiya",
+    "Arab"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "San-Vitale qaysi shaharda joylashgan?",
+   "options": [
+    "Ravenna",
+    "Venetsiya",
+    "Sevilya",
+    "Kardova"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "San-Vitale qaysi me'morchilik uslubidagi inshootlar qatorida keltirilgan?",
+   "options": [
+    "Arab",
+    "Vizantiya",
+    "Roman",
+    "Gotika"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ayo Sofiya qaysi shaharda joylashgan?",
+   "options": [
+    "Buxoro",
+    "Milan",
+    "Konstantinopol",
+    "Oksford"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ayo Sofiya qaysi me'morchilik uslubiga oid ro'yxatda berilgan?",
+   "options": [
+    "Vizantiya",
+    "Gotika",
+    "Roman",
+    "Arab"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Al-Qasar qasri qaysi shaharda joylashgan?",
+   "options": [
+    "Granada",
+    "Sevilya",
+    "Kardova",
+    "Ravenna"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Al-Qasar qasri qaysi me'morchilik uslubida qurilgan inshoot sifatida keltirilgan?",
+   "options": [
+    "Roman",
+    "Gotika",
+    "Arab",
+    "Vizantiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Al-Hamro saroyi qaysi shaharda joylashgan?",
+   "options": [
+    "Granada",
+    "Sevilya",
+    "Buxoro",
+    "Konstantinopol"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Al-Hamro saroyi qaysi uslubdagi inshootlar qatorida berilgan?",
+   "options": [
+    "Gotika",
+    "Arab",
+    "Roman",
+    "Vizantiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kardova jome' masjidi qaysi shaharda joylashgan?",
+   "options": [
+    "Kardova",
+    "Sevilya",
+    "Granada",
+    "Buxoro"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kardova jome' masjidi qaysi me'morchilik uslubiga kiritilgan?",
+   "options": [
+    "Gotika",
+    "Roman",
+    "Arab",
+    "Vizantiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ismoil Somoniy maqbarasi qaysi shaharda joylashgan?",
+   "options": [
+    "Samarqand",
+    "Buxoro",
+    "Kardova",
+    "Granada"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ismoil Somoniy maqbarasi qaysi uslubdagi inshootlar ro'yxatida berilgan?",
+   "options": [
+    "Vizantiya",
+    "Gotika",
+    "Arab",
+    "Roman"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi shaharlardan qaysi biri Roman uslubidagi Fransiya yodgorliklari qatorida keltirilgan?",
+   "options": [
+    "Maynts",
+    "Puatye",
+    "Vestminister",
+    "Milan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi juftliklardan qaysi biri Germaniyaning Roman uslubidagi shaharlaridir?",
+   "options": [
+    "Maynts va Vorms",
+    "Ruan va Reyms",
+    "Oksford va Vinchester",
+    "Venetsiya va Ravenna"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi juftliklardan qaysi biri Angliyaning Roman uslubidagi shaharlari?",
+   "options": [
+    "Puatye va Klyuni",
+    "Oksford va Vinchester",
+    "Milan va Bryussel",
+    "Sevilya va Granada"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi qaysi yodgorlik Fransiyaning Gotika uslubidagi ro'yxatida berilgan?",
+   "options": [
+    "San-Vitale",
+    "Al-Hamro saroyi",
+    "Notr-Dam",
+    "Ismoil Somoniy maqbarasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi juftlik Fransiyaning Gotika uslubidagi yodgorliklari sifatida keltirilgan?",
+   "options": [
+    "Notr-Dam va Ruan",
+    "Milan va Bryussel",
+    "Maynts va Axen",
+    "Sevilya va Kardova"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi davlat Gotika uslubidagi yodgorliklar ro'yxatida Vestminister va Linkoln bilan bog'langan?",
+   "options": [
+    "Italiya",
+    "Angliya",
+    "Belgiya",
+    "Fransiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi shaharda Vizantiya uslubidagi San-Vitale inshooti joylashgan?",
+   "options": [
+    "Kardova",
+    "Ravenna",
+    "Puatye",
+    "Granada"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Vizantiya uslubidagi inshootlar ro'yxatida Konstantinopol bilan qaysi yodgorlik bog'langan?",
+   "options": [
+    "Ayo Sofiya",
+    "San-Vitale",
+    "Dojlar saroyi",
+    "Al-Qasar qasri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qaysi shahar Arab me'morchiligi uslubidagi inshootlar ro'yxatida keltirilgan?",
+   "options": [
+    "Oksford",
+    "Kardova",
+    "Maynts",
+    "Ravenna"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sevilya, Granada va Kardova qaysi me'morchilik uslubidagi inshootlar bilan bog'langan?",
+   "options": [
+    "Roman",
+    "Gotika",
+    "Arab",
+    "Vizantiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Buxorodagi Ismoil Somoniy maqbarasi berilgan ro'yxatda qaysi guruh ostida keltirilgan?",
+   "options": [
+    "Arab me'morchiligi uslubi",
+    "Roman uslubi",
+    "Gotika uslubi",
+    "Vizantiya uslubi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Puatye, Klyuni, Arl va Tuluza qaysi davlat bilan bog'langan?",
+   "options": [
+    "Germaniya",
+    "Fransiya",
+    "Angliya",
+    "Italiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Maynts, Vorms va Axen qaysi davlat bilan bog'langan?",
+   "options": [
+    "Belgiya",
+    "Fransiya",
+    "Germaniya",
+    "Angliya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Notr-Dam, Ruan, Reyms va Shartr qaysi davlatning Gotika yodgorliklari sifatida sanalgan?",
+   "options": [
+    "Fransiya",
+    "Italiya",
+    "Angliya",
+    "Belgiya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Venetsiya va Ravenna qaysi uslubdagi inshootlar ro'yxatida keltirilgan?",
+   "options": [
+    "Roman",
+    "Vizantiya",
+    "Gotika",
+    "Arab"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Granada va Sevilya qaysi uslubdagi me'moriy inshootlar bilan bog'langan?",
+   "options": [
+    "Vizantiya",
+    "Roman",
+    "Arab",
+    "Gotika"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Berilgan ro'yxatda Bryusseldagi qaysi bino Gotika uslubida qurilgan deb ko'rsatilgan?",
+   "options": [
+    "Shahar meriyasi",
+    "Ayo Sofiya",
+    "Dojlar saroyi",
+    "Kardova jome' masjidi"
+   ],
+   "answer": 0
+  }
+ ]
+}

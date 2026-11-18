@@ -1,0 +1,364 @@
+{
+ "title": "8-sinf O'zbekiston va jahon tarixi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "“XV asr taqdirini hal qilgan inson” deb ta'rif berilgan shaxsni aniqlang.",
+   "options": [
+    "Ulug'bek",
+    "Amir Temur",
+    "Husayn Boyqaro",
+    "Jaloliddin Manguberdi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorazmshoh saltanati va mo'g'ullar o'rtasida urush boshlanishi qaysi tarixiy jarayon ortidan yuz bergan?",
+   "options": [
+    "Chingizxon yuborgan katta savdo karvoni O'tror noibi Inolchiq tomonidan qirib tashlandi",
+    "Xorazmshoh merkit qabilasini bo'ysundirmoqchi bo'lgan Jo'chixonga qarshi kurash boshladi",
+    "Chingizxon Xorazmshohga yozgan maktubida, uni o'zining ardoqli o'g'illari qatorida ko'rishini aytgan",
+    "Sulton Muhammad tomonidan Chingizxon yuborgan Ibn Kafroj Bug'ro qatl etildi va u bilan birga kelgan sheriklari sharmandali holda Mo'g'ulistonga qaytarib yuborildi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kimning hukmronlik davrida Chig'atoy ulusining g'arbiy qismi to'la o'troqlashib, islom ulusning rasmiy diniga aylantiriladi?",
+   "options": [
+    "Muborakshoh",
+    "Tarmashirin",
+    "Kebekxon",
+    "Qora Hulagu"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi tarixiy voqealar (ma'lumotlar) to'g'ri xronologik ketma-ketlikda ko'rsatilgan javobni toping.\n1) Sulton Jaloliddinga Marog'a shahri jangsiz taslim bo'ldi; 1225-yil may\n2) Chingizxon bosib olingan hududlarni vorislariga ulus qilib bo'lib berdi; 1225-yil avgust\n3) G'azna yaqinidagi Parvon dashtida sodir bo'lgan jangda Jaloliddin Manguberdi mo'g'ullarda ustun keldi; 1221-yil yoz\n4) Hindistondagi Shatra viloyati hokimi Jaloliddinga hujum qildi; 1221-yil kuz\n5) Najmiddin Kubro tig' ko'targan mo'g'ul sarboziga tashlangancha halok bo'ldi; 1221-yil boshi",
+   "options": [
+    "5, 3, 4, 1, 2",
+    "3, 2, 5, 1, 4",
+    "3, 5, 1, 2, 4",
+    "5, 3, 1, 4, 2"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jaloliddin Manguberdi o'tkazgan janglar haqidagi ma'lumotlarni to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "I–d, II–f, III–c, IV–b",
+    "I–d, II–f, III–b, IV–c",
+    "I-c, II-e, III-d, IV-b",
+    "I-c, II-f, III-d, IV-b"
+   ],
+   "answer": 0,
+   "image": "img/ms59055b650b8b.jpg"
+  },
+  {
+   "q": "Afina davlat idoralari va ularning faoliyatiga bog'liq ma'lumotlar to'g'ri moslashtirilgan javobni toping.",
+   "options": [
+    "I-b, II-e, III-c, IV-d",
+    "I-e, II-d, III-c, IV-b",
+    "I-e, II-c, III-d, IV-a",
+    "I-b, II-e, III-c, IV-a"
+   ],
+   "answer": 2,
+   "image": "img/ms9c82d3332a7b.jpg"
+  },
+  {
+   "q": "Tarixiy shaxsni toping. U XII–XIII asrlar chegarasida yashagan. Uning tug'ilgan joyi hozirgi Turkmaniston hududidagi qadimiy bir shahar bilan bog'liq. U oddiy olim emas, balki bir hukmdorning eng yaqin odamlaridan biri – kotibi edi. Uning hayoti mo'g'ullar istilosi davriga to'g'ri kelgan, u ko'plab voqealarning bevosita guvohi bo'lgan.",
+   "options": [
+    "Ibn al-Asir",
+    "Alouddin Juvayniy",
+    "Nasaviy",
+    "Rashiduddin Fazlulloh"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarixiy shaxsni toping. U XIII asrda yashagan va mo'g'ullar bilan chambarchas bog'liq tarixiy shaxsdir. Uning nomi o'sha davrdagi mashhur hukmdorlar va lashkarboshilar faoliyati bilan bir qatorda tilga olinadi. Bu shaxsning hayoti Movarounnahr, Xorazm va qo'shni hududlar tarixiga bevosita ta'sir ko'rsatgan. Guyukxon “ulug' xon” deb e'lon qilingach, uni Chig'atoy ulusining taxtiga chiqardi.",
+   "options": [
+    "Qora-Hulagu",
+    "Yasu Munke",
+    "Olg'uxon",
+    "Muborakshoh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarixiy davlatni toping. Bu shahar O'rta asrlarning eng muhim markazlaridan biri bo'lgan. U Yaqin Sharq va Kichik Osiyoning o'rtasida joylashganligi bois ko'plab siyosiy voqealar markazida turgan. O'rta asrlarda bu shahar ilm, adabiyot va san'at markazlaridan biri sifatida tanilgan. Uning sultoni Alouddin Kaykubod muxolif kuchlarni Jaloliddin Manguberdiga qarshi birlashtirishga muvaffaq bo'ldi.",
+   "options": [
+    "Ko'niya",
+    "Iroq",
+    "Shom",
+    "Ozarbayjon"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarixiy hududni toping. Bu shahar Eron hududida joylashgan qadimiy markazlardan biridir. U qadim zamonlardan savdo yo'llari chorrahasi bo'lib, Buyuk ipak yo'li orqali ham mashhur bo'lgan. Ushbu joy o'z davrida siyosiy markaz bo'lishi bilan birga, hunarmandchiligi va ipakchilik mahsulotlari bilan ham mashhur edi. Sulton Jaloliddinga xiyonat qilgan ukasi shu hudud hokimi tomonidan qatl etilgan.",
+   "options": [
+    "Isfahon",
+    "Tabriz",
+    "Kirmon",
+    "Ko'niya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mo'g'ullarga qarshi Urganch qamalini o'z qo'liga olgan shaxsni aniqlang.",
+   "options": [
+    "Jaloliddin Manguberdi",
+    "O'zloqshoh",
+    "Qutlug'xon",
+    "Xumortegin"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Qibla tomonini topish ma'rifati” asari muallifi to'g'ri keltirilgan javobni toping.",
+   "options": [
+    "Muhammad Husayni Buxoriy",
+    "Muhammad Sharif Buxoriy",
+    "Hofiz Tanish al-Buxoriy",
+    "Muhammad Amin Buxoriy"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Temuriylar davrida qurilgan qaysi bino qoshida 15000 jilddan iborat kitob saqlanadigan boy kutubxona bo'lgan?",
+   "options": [
+    "Samarqandda Ulug'bek madrasasi",
+    "Feruzshoh madrasasi",
+    "Xusraviya madrasasi",
+    "Ulug'bek rasadxonasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Dehli sultonligida “Sulton Shoh Olamning kuchi Dehlidan Palamgacha” degan ibora qaysi sulola davrida paydo bo'lgan?",
+   "options": [
+    "G'ulomlar",
+    "Sayyidlar",
+    "Tug'luqlar",
+    "Lo'diylar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xorazmshohlar saltanatida qo'shin tuzilishi va texnikalarga doir ma'lumotlarni to'g'ri moslashtiring.\n1) Dabbobat;\n2) Jamoluqot;\n3) Xofiya;\n4) Salolim;\n5) Mataris;\na) Odimlovchi minora;\nb) Devorteshar mashina;\nc) Qamal mashinasi;\nd) Narvon;\ne) Raqibni tormor etishni yakunlash zaxira rolini bajaruvchi maxsus qism",
+   "options": [
+    "1 – c, 2 – b, 3 – e, 4 – a, 5 – d",
+    "1 – c, 2 – b, 3 – e, 4 – d, 5 – a",
+    "1 – a, 2 – b, 3 – d, 4 – c, 5 – a",
+    "1 – a, 2 – b, 3 – e, 4 – c, 5 – d"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buyuk Ipak yo'li 12 ming kilometrgacha uzunlikda bo'lgan. U Sariq dengiz sohilidan boshlanib, Sharqiy Turkiston, O'rta Osiyo, Eron, Mesopotamiya orqali O'rtayer dengizi sohillarigacha borgan. Buyuk Ipak yo'lidagi shaharni aniqlang:",
+   "options": [
+    "Bulg'or",
+    "Xanson",
+    "Mashhad",
+    "Taxta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xaritada yulduzcha bilan belgilangan davlat tarixiga oid ma'lumotni toping.",
+   "options": [
+    "Jaloliddin Manguberdi Hindistonda ittifoqchilar topish mushkulligini bilgach, ukasi yoniga bordi",
+    "Sulton Jaloliddin vafot etgach, Temur Malik so'fiylar kiyimida shu hududga yo'l oldi",
+    "Jaloliddin Manguberdi 1231-yilda vafot etdi",
+    "Chingizxon tomonidan Tuluga ulus sifatida bo'lib berilgan"
+   ],
+   "answer": 1,
+   "image": "img/ms98804531819d.jpg"
+  },
+  {
+   "q": "Tarixiy voqea yoki jarayon va uning natijasi o'zaro mos berilgan qatorlarni toping.",
+   "options": [
+    "1, 2, 5",
+    "1, 4, 5",
+    "2, 3, 5",
+    "2, 4, 5"
+   ],
+   "answer": 2,
+   "image": "img/msbd859fb29dfb.jpg"
+  },
+  {
+   "q": "Jadvalda harflar bilan belgilangan kataklarga chig'atoy xonlari (noiblari), hukmronlik yillari va ularga tegishli ma'lumotlardan moslarini qo'yib to'g'ri javobni toping.\nMa'lumotlar:\n1) 1263-1264;\n2) Ma'sudbek;\n3) Chig'atoyxon vafotidan so'ng ulus taxtiga o'tirgan;\n4) 1242-1246;\n5) Kebekxon;\n6) Chig'atoy ulusining sharqiy qismida vabo tarqaldi;\n7) 1318-1326;\n8) Unga Sulton al-A'zam (eng oliyjanob sulton) degan unvon berilgan;\n9) Olg'uxon;\n10) 12641271;\n11) Mahmud Yalavoch;\n12) Taxtga chiqqan vaqtida mamlakatni boshqarib turgan Eragana xotunga uylanadi;\n13) 1309-1318;\n14) Tarmashirin;\n15) Buxoroda o'z nomi bilan ataladigan madrasa ochadi;\n16) 1271-1282;\n17) Xubilayxonning yuborgan qo'shinini Sharqiy Turkistondan quvib chiqaradi;",
+   "options": [
+    "a – 10, b – 5, c – 7, d – 17, e – 15, f – 2",
+    "a – 10, b – 17, c – 7, d – 5, e – 2, f – 15",
+    "a – 10, b – 15, c – 7, d – 5, e – 17, f – 2",
+    "a – 10, b – 7, c – 17, d – 5, e – 2, f – 15"
+   ],
+   "answer": 1,
+   "image": "img/ms85e482757b9b.jpg"
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlarni tahlil qilib Eyler-Venn diagrammasiga mos keladigan javoblarni aniqlang.\na) Xorazmshoh shahar mudofaasi uchun 40 ming g'ur jangchisini tog'asi Tog'ayxon boshchiligida yubordi;\nb) Hujumda mo'g'ullarning Aloq no'yon va Suketu Cherbi boshchiligidagi qo'shini qatnashdi;\nc) Qamal paytida mo'g'ullar shahar darvozasi yonida chorvalarni haydab mudofaachilar o'lja orqasidan quvib, shahardan uzoqlashganlarida, mo'g'ullar ularni qirib tashlashdi;\nd) Shahar qo'shini 110 ming kishidan iborat edi;\ne) Mo'g'ullar xiyla ishlatib, shaharga omonlik va'da qildi, shahar taslim bo'lgach, qang'li qo'shin qirib tashlandi;\nf) Mo'g'ullar hali Movarounnahrning hech bir shahrida bunchalik qurbon bermagan edilar.",
+   "options": [
+    "I – a, e; II – b, d; III – f",
+    "I – a, e; II – c, f; III – d",
+    "I – b, d; II – a, e; III – c",
+    "I – c, f; II – a, e; III – d"
+   ],
+   "answer": 1,
+   "image": "img/ms079689073e8f.jpg"
+  },
+  {
+   "q": "Samarqandda Markaziy Osiyo tadqiqotlari xalqaro instituti tashkil etilgan vaqtda O'zbekistonga tashrif buyurgan YuNESKO Bosh direktorini aniqlang.",
+   "options": [
+    "Federiko Mayor",
+    "Antoniu Guterresh",
+    "Pan Gi Mun",
+    "Kofi Annan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ulug' xoqon O'qtoy Hirot shahrini qayta qurdirishga farmon berganida, unga qattiq qarshilik ko'rsatgan shaxs kim?",
+   "options": [
+    "Olg'uxon",
+    "Jo'chi",
+    "Chig'atoy",
+    "Qora-Hulagu"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nima sabab Movarounnahr noibligidan chetlashtirilgan Mahmud Yalavoch Pekinga noib qilib tayinlandi?",
+   "options": [
+    "U moliyaviy bilim va tajribaga ega bo'lib, yuqori daromad olish imkoniyatini ta'minlashi mumkin edi",
+    "O'qtoyning “Yaso”ga itoat qilishi natijasida",
+    "Yalavoch katta harbiy tajribaga ega edi",
+    "Chunki Mahmud Yalavoch Pekin aholisi orasida obro'-e'tiborga ega edi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi ma'lumotlardan qaysi biri XIII asr birinchi choragi uchun xos emas?",
+   "options": [
+    "Movarounnahr qoraxitoylar zulmidan ozod bo'ldi",
+    "Shihobiddin an-Nasaviy Jaloliddin xizmatiga kirdi",
+    "Jaloliddin Manguberdi bilan birga Sind daryosidan kechib o'tgan ot o'ldi",
+    "Chingizxon katta o'g'liga Selenga daryosidan Irtishgacha bo'lgan yerlar mulk qilib berdi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sulton Jaloliddin Manguberdi haqida to'g'ri ma'lumotlarni toping.\n1) 1224-yilda Jaloliddin o'z qo'shini bilan dastlab Kirmon, keyin Sheroz va Isfahonga borib, mahalliy hukmdorlar bilan kelishib, biroz mustahkam kuchga ega bo'ldi;\n2) Shatra hukmdorining qo'shini mag'lub qilingandan so'ng, Jaloliddin qo'shiniga olti ming jangchi hamda ming nafar otliq kelib qo'shildi.\n3) Ibn Vosil uni “Yo'lbars (Chingizxon nazarda tutilgan) changalidan omon chiqqan arslon chiyabo'ri qo'lida jon berdi” deya ta'riflagan;\n4) Jaloliddin Manguberdining Tabrizni qamal qilishi yetti kun davom etgan;\n5) Marog'a shahri jangsiz taslim bo'lgandan so'ng G'azna va Tabriz tobeligini izhor qildi;",
+   "options": [
+    "1, 4, 5",
+    "1, 2, 5",
+    "3, 5, 6",
+    "3, 4, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Asarlar va ularning mualliflarini to'g'ri moslashtiring.",
+   "options": [
+    "1-c, 2-a, 3-e",
+    "1-c, 2-f, 3-e",
+    "1-c, 2-e, 3-d",
+    "1-c, 2-e, 3-b"
+   ],
+   "answer": 1,
+   "image": "img/msbc901b41ac59.jpg"
+  },
+  {
+   "q": "Hukmronlik davrida Chig'atoy ulusining sharqiy qismida vabo tarqalgan (1338–39) shaxs kimning avlodidan edi?",
+   "options": [
+    "Chig'atoyxon",
+    "Jo'chi",
+    "O'qtoy",
+    "Tulu"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi mo'g'ullar davriga oid soliqlarni to'g'ri joylashtiring.\n1) Kalon;\n2) Targ'u;\n3) Qopchur;\n4) Shulen;\na) Chorvadorlardan olinadigan soliq;\nb) Yer maydonidan olinadigan soliq;\nc) Hunarmand va savdogarlardan yig'iladigan soliq;\nd) Oziq-ovqat tarzida beriladigan soliq",
+   "options": [
+    "1-b, 2-c, 3-a, 4-d",
+    "1-d, 2-a, 3-c, 4-b",
+    "1-c, 2-d, 3-b, 4-a",
+    "1-a, 2-b, 3-d, 4-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyida berilgan ma'lumotlarni to'g'ri moslashtiring.",
+   "options": [
+    "1-d, 2-e, 3-a, 4-b",
+    "1-c, 2-f, 3-d, 4-b",
+    "1-d, 2-a, 3-e, 4-b",
+    "1-c, 2-d, 3-a, 4-f"
+   ],
+   "answer": 0,
+   "image": "img/ms7a9be582a4e2.jpg"
+  },
+  {
+   "q": "Qaysi shaxsning vafotidan so'ng Chig'atoy xonadoni a'zolarining Movarounnahrdagi hukmronligi amalda tugaydi?",
+   "options": [
+    "Qazag'on",
+    "Qozonxon",
+    "Ali Sulton",
+    "Donishmandchaxon"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1512-yili Jonibek Sulton tomonidan suyurg'ol sifatida berilgan hududlar XATO ko'rsatilgan javobni toping.",
+   "options": [
+    "Samarqand – Ko'chkunchixon",
+    "Toshkent – Suyunchxo'jaxon",
+    "Farg'ona – Ubaydulla Sulton",
+    "Miyonqol – Iskandarxon"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sulton Muhammad qaysi shahar mudofaasi uchun “Lashkari berun” deb atalgan 50 ming askar yuborgan?",
+   "options": [
+    "Samarqand",
+    "Xo'jand",
+    "Buxoro",
+    "O'tror"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Berilgan voqealardan qaysi biri eng avval sodir bo'lgan?\nVariantlar: A) Utrext sulhi imzolandi; B) Utrext uniyasi imzolandi; C) Buxarest tinchlik shartnomasi imzolandi; D) Turkmanchoy shartnomasi imzolandi; E) Trua shartnomasi imzolandi; F) Karlovits tinchlik sulhi imzolandi.",
+   "options": [
+    "Utrext sulhi imzolandi",
+    "Utrext uniyasi imzolandi",
+    "Trua shartnomasi imzolandi",
+    "Karlovits tinchlik sulhi imzolandi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qaysi shartnoma natijasida Moldaviyaning sharqiy qismi Rossiyaga qo'shib olindi?\nVariantlar: A) Utrext sulhi imzolandi; B) Utrext uniyasi imzolandi; C) Buxarest tinchlik shartnomasi imzolandi; D) Turkmanchoy shartnomasi imzolandi; E) Trua shartnomasi imzolandi; F) Karlovits tinchlik sulhi imzolandi.",
+   "options": [
+    "Buxarest tinchlik shartnomasi imzolandi",
+    "Turkmanchoy shartnomasi imzolandi",
+    "Trua shartnomasi imzolandi",
+    "Karlovits tinchlik sulhi imzolandi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shimoliy Niderlandda “Gollandiya Respublikasi”ning tuzilishi qaysi kelishuvda rasmiylashtirilgan?\nVariantlar: A) Utrext sulhi imzolandi; B) Utrext uniyasi imzolandi; C) Buxarest tinchlik shartnomasi imzolandi; D) Turkmanchoy shartnomasi imzolandi; E) Trua shartnomasi imzolandi; F) Karlovits tinchlik sulhi imzolandi.",
+   "options": [
+    "Utrext sulhi imzolandi",
+    "Utrext uniyasi imzolandi",
+    "Buxarest tinchlik shartnomasi imzolandi",
+    "Karlovits tinchlik sulhi imzolandi"
+   ],
+   "answer": 1
+  }
+ ]
+}

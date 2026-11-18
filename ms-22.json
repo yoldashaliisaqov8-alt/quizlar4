@@ -1,0 +1,358 @@
+{
+ "title": "10-sinf O'zbekiston tarixi — 7–11-mavzular",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Turkiston o'lkasida 1916-yilgi ko'tarilgan qo'zg'olonlarning sababi qaysi qatorda to'g'ri berilgan?",
+   "options": [
+    "front ortidagi ishlarni amalga oshirishi uchun mardikorlikka safarbarlik",
+    "soliq siyosatidagi beboshlik va adolatsizliklar",
+    "aholining mingboshilar saylovlaridagi noroziliklari",
+    "o'lkaga ruslarning ko'plab ko'chirib keltirilishi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asr o'rtalarida Xiva xonligida mavjud bo'lgan maktablar va masjidlar sonini ularga aloqador bo'lgan shaharlar bilan to'g'ri muvofiqlashtiring.\n1) Shovot\n2) Shohobod\n3) Gurlan\na) 2 ta maktab va 2 ta masjid\nb) 6 ta masjid va 2 ta maktab\nc) 4 ta masjid va 1 ta madrasa\nd) 15 ta masjid va 2 ta madrasa",
+   "options": [
+    "1 – c, 2 – a, 3 – d",
+    "1 – c, 2 – a, 3 – b",
+    "1 – c, 2 – d, 3 – b",
+    "1 – d, 2 – a, 3 – b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qachondan yangi usul maktablarini ochish uchun maxsus ruxsatnoma olinishi belgilanadi?",
+   "options": [
+    "1907-yil",
+    "1909-yil",
+    "1906-yil",
+    "1915-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagilardan Shamsiddin domla (a), Salohiddin domla (b) qachon va qayerda jadid maktabini ochganligi bo'yicha to'g'ri muvofiqlashtiring.\n1) Andijon, 1899-yil\n2) Qo'qon, 1898-yil\n3) Toshkent, 1899-yil\n4) Buxoro, 1893-yil",
+   "options": [
+    "a-1, b-2",
+    "a-2, b-1",
+    "a-1, b-4",
+    "a-2, b-3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi atamalar va ularning mazmuni to'g'ri muvofiqlashtirilgan javobni aniqlang. I. Avtonomiya; II. Biy sudlari; III. Deklaratsiya; IV. Duma\na) Rossiya imperiyasining qonun chiqaruvchi hokimiyati\nb) ayrim fanlarga ixtisoslashtirilgan va ular bo'yicha chuqur ta'lim beradigan o'quv muassasasi\nc) biror tashkilot, jamoa tomonidan vakolatli qilib saylab yoki tayinlab yuborilgan vakil\nd) biror-bir hududning qonun bilan chegaralangan davlat hokimiyatini mustaqil amalga oshirish huquqi\ne) qabila urf-odatlariga tayanib ish ko'radigan sud\nf) hukumatning, biror tashkilotning muhim bir hujjatni, qonunni, voqeani ko'pchilik e'tiboriga yetkazuvchi bayonoti",
+   "options": [
+    "I-a, II-e, III-f, IV-c",
+    "I-d, II-f, III-b, IV-a",
+    "I-c, II-e, III-d, IV-f",
+    "I-d, II-e, III-f, IV-a"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Quyidagi atamalar va ularning mazmuni to'g'ri muvofiqlashtirilgan javobni aniqlang. I. Kasanachilik; II. Gimnaziya; III. Jadid; IV. Maorif\na) gazeta, jurnal va kitoblar majmuyi\nb) dinga qattiq berilgan, uning aqidalariga ko'r-ko'rona amal qiluvchi\nc) ayrim fanlarga ixtisoslashtirilgan va ular bo'yicha chuqur ta'lim beradigan o'quv muassasasi\nd) Arabcha «yangi» degan ma'noni bildiradi\ne) insonlarning bilimi va tafakkurini oshirishga qaratilgan ta'lim-tarbiya\nf) uyda yollanib ishlanadigan hunarmandchilik",
+   "options": [
+    "I-e, II-a, III-f, IV-d",
+    "I-f, II-e, III-d, IV-f",
+    "I-f, II-c, III-d, IV-e",
+    "I-d, II-e, III-f, IV-b"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarixiy shaxsni aniqlang. Butun turkiy xalqlar o'rtasida yoyilgan jadidchilik harakatining asoschisi hisoblanadi. U diniy va dunyoviy bilimlarni chuqur egallab, jahon taraqqiyoti bilan yaqindan tanishgan, bir nechta xorijiy tillarni, turli xalqlarning madaniyatini o'rgangan edi. Jadidchilik g'oyalarining keng yoyilishida «Tarjimon» gazetasi muhim o'rin tutdi.",
+   "options": [
+    "Abdulla Avloniy",
+    "Munavvarqori",
+    "Behbudiy",
+    "Ismoil G'aspirali"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarixiy shaxsni aniqlang. O'rta Osiyoda maktablar sonining ko'pligini ko'rgan bu shaxs musulmon aholisining ommaviy savodxonligini xalq ta'limi bo'yicha Rossiya hukumatiga namuna sifatida ko'rsatgan.",
+   "options": [
+    "Kuropatkin",
+    "A. Middendorf",
+    "G. Palen",
+    "Rozenbax"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarixiy davlatni aniqlang. XIX asr oxiri – XX asr boshlarida ham xalq hunarmandchiligi rivojlanishdan to'xtamadi. Gilamlariga nafaqat ichki bozorda, balki tashqi bozorda ham talab katta bo'lib, davlat savdogarlari ularni ko'p miqdorda xorijga sotar edilar. Ichki va tashqi bozorlarda ip-gazlama matolari, ko'nchilik, zardo'zlik, kumush va oltin kandakorlik buyumlari, bo'yoq va sovun mahsulotlari, ustalarning oltin va kumushdan yasagan buyumlari Sharq va G'arbda xaridorgir bo'lgan.",
+   "options": [
+    "Xiva xonligi",
+    "Turkiston",
+    "Turkiya",
+    "Buxoro amirligi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarixiy davlatni aniqlang. Jadidchilik harakati boshqa o'lkaga nisbatan og'ir ijtimoiy-siyosiy sharoitda yuzaga keldi. Uning tarkibi, asosan, mayda do'kondorlar, o'qituvchilar, hunarmandlar, savdogarlardan iborat edi. Bu hudud jadidchiligi ayrim mutaassib mullalar, yangilik va islohotlarni xush ko'rmaydiganlar oqimi qarshiligiga uchradi. 1910-yildan boshlab jadidchilik harakati siyosiy tashkilot sifatida shakllana boshladi.",
+   "options": [
+    "Buxoro amirligi",
+    "Turkiston",
+    "Xiva xonligi",
+    "Qirim"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi qo'zg'olonlarni ularga aloqador bo'lgan ma'lumotlar bilan to'g'ri muvofiqlashtiring.\n1) “Ernazarbiy” qo'zg'oloni;\n2) “Bobo Go'klan” qo'zg'oloni;\n3) “Qo'ng'irot” markazga aylangan qo'zg'olon.\na) Rossiya imperiyasi xuddi mana shu qabiladagi qo'zg'olon va xatti-harakatlarni nafaqat pulmablag'lar bilan, balki harbiy yordam yuborish bilan ham qo'llab-quvvatlashga uringan;\nb) Xivadan yasovulboshi Muhammadniyoz bu qo'zg'olonni tor-mor etish uchun yuboriladi;\nc) Xiva xoni qo'zg'olonchilarni shafqatsiz jazolash va tor-mor keltirishni turkman jangovar kuchlari boshlig'i Otamurodxonga topshiradi;\nd) Nukus volosti va Qo'ng'irotda bo'lib o'tadi;\ne) Biybozor va Nukus volostida mustamlakachilarga qarshi bo'lib o'tadi.",
+   "options": [
+    "1-a,b; 2-d; 3-c",
+    "1-a,b; 2-e; 3-c",
+    "1-a; 2-b,e; 3-c",
+    "1-a,e; 2-c; 3-b"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi qatorda qo'zg'olon bo'lgan yil va uning rahbari to'g'ri muvofiqlashtirilmagan.",
+   "options": [
+    "Bobo Go'klan – 1881–1891-yillar",
+    "Otamurodxon – 1858–1859-yillar",
+    "Ernazarbiy – 1855-yil",
+    "Oydo'stbiy – 1827-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xiva xonligida vujudga kelgan jadidchilikning qaysi oqimi o'lkada yangi usul maktablarini tashkil qilish orqali xalq ommasining siyosiy faolligiga erishmoqchi edi?",
+   "options": [
+    "Bobooxun Salimov boshchiligidagi so'l oqim",
+    "Islomxo'ja boshchiligidagi o'ng oqim",
+    "Polvonniyoz Yusupov boshchiligidagi o'ta o'ng oqim",
+    "Nazir Sholikorov boshchiligidagi mo'tadil oqim"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi hududlarni mardikorlikka qarshi ko'tarilgan g'alayon vaqti bo'yicha to'g'ri xronologik tartibda joylashtiring.\n1) Xo'jand shahrida\n2) Samarqandning Urgut qishlog'ida\n3) Namanganning Labbaytog'a dahasida",
+   "options": [
+    "1, 3, 2",
+    "2, 3, 1",
+    "1, 2, 3",
+    "2, 1, 3"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi qoraqalpoq ijodkorlarini ularga oid ma'lumotlar bilan to'g'ri muvofiqlashtiring.\n1) Ajiniyoz\n2) Berdaq\n3) Kunxo'ja Ibrohim.\na) U o'z ijodiyotini ovullarning oddiy ahliga, ularning kundalik mehnati va turmushiga bag'ishladi;\nb) U qo'ng'irot urug'iga mansub bo'lib, Orolbo'yida tug'ilgan;\nc) Mo'ynoqdagi eski maktabda, so'ngra Xivadagi Sherg'ozixon madrasasida o'qigan;\nd) Ovul maktabida, so'ngra Qoraqum eshon madrasasida o'qigan;\ne) Qoraqalpoq ziyolilari orasida birinchilardan bo'lib oxund (o'qimishli, ilmli kishi; xalq dostonlarining mahoratli kuychisi) darajasiga erishgan.",
+   "options": [
+    "1-d,e; 2-b,c; 3-a",
+    "1-c,e; 2-b,d; 3-a",
+    "1-d,b; 2-c,e; 3-a",
+    "1-b,e; 2-c,d; 3-a"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "O'rta Osiyodagi milliy taraqqiyparvarlik harakati hududiy xususiyatlariga ko'ra Turkiston, Buxoro va Xiva jadidlariga bo'linadi. Quyida berilgan ma'lumotlarni ularga xos javoblar bilan muvofiqlashtiring.\n1) Turkiston jadidchiligi;\n2) Buxoro jadidchiligi;\n3) Xiva jadidchiligi.\na) Jadidchilik ikkita oqimdan iborat bo'lgan;\nb) 1910-yildan boshlab jadidchilik harakati siyosiy tashkilot sifatida shakllana boshladi;\nc) Taraqqiyparvar kuchlar xalqning deyarli barcha tabaqalari – hunarmand, dehqon, savdogar, mulkdor, ulamolar orasida mavjud edi;\nd) Bu hudud ziyolilarining harakati boshqa hududdagi harakatga nisbatan og'ir ijtimoiy-siyosiy sharoitda yuzaga keldi;\ne) Bu hudud jadidchiligi ayrim mutaassib mullalar, yangilik va islohotlarni xush ko'rmaydiganlar oqimi qarshiligiga uchradi.",
+   "options": [
+    "1-c; 2-b,d,e; 3-a",
+    "1-c,d; 2-b,e; 3-a",
+    "1-c,e; 2-a,b; 3-d",
+    "1-c; 2-a,b; 3-d,e"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xiva xonligida jadidchilikning o'ng oqimi bosh vazir Islomxo'ja (I) boshchiligida xonlikdagi qaysi tabaqa vakillarini birlashtirganligi va o'z oldiga nimani maqsad qilib qo'yganligi va so'l oqim Bobooxun Salimov (II) boshchiligida qaysi tabaqalarni birlashtirganligi, maqsadini to'g'ri muvofiqlashtiring.\n1) mamlakatda xon hokimiyatini saqlab qolgan holda islohotlar o'tkazilishini;\n2) yangi usul maktablarini tashkil qilish orqali xalq ommasining siyosiy faolligiga erishish;\na) savdo-sanoat korxonalari egalari;\nb) yirik boylar;\nc) sarmoyadorlar;\nd) hunarmandlar.",
+   "options": [
+    "I-1, b, c; II-2, a, d",
+    "I-2, a, b; II-1, c, d",
+    "I-1, a, b; II-2, c, d",
+    "I-2, a, c; II-1, b, d"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Tarixiy voqea va uning natijasi o'zaro mos berilgan qatorlarni aniqlang. № 1 2 Voqea 1916-yil Nikolay II tomonidan “front ortidagi xizmatlar uchun 19 yoshdan 43 yoshgacha bo'lgan erkaklar safarbarligi” e'lon qilindi XIX asr oxirlarida O'rta Osiyo davlatlarida bozor munosabatlarining rivojlanishi tovar-pul munosabatlarining o'sishiga olib keldi Natija 1916-yil 7-iyul kuni Dahbedda aholi norozilik bildirib namoyish o'tkazdi Qishloq xo'jaligiga talab kuchayib, qishloqlar shaharlarga nisbatan rivojlanib, yangi qishloqlar vujudga keldi, eskilari rivojlandi 3 1873-yil Rossiya va Xiva davlatlari o'rtasida shartnoma imzolandi 4 1888-yil Buxoro amirligi hududidan dastlabki temiryo'l o'tkazildi 1885-yil Buxoro amirligi Baljuvon bekligida dehqonlar mo'l-ko'l hosil olishdi XIX asr oxirlarida Rossiya imperiyasi tomonidan Amudaryo bo'limida yashovchi qoraqalpoqlarga nisbatan jabr-zulm kuchayadi XIX asr oxirlarida Turkistonda jadidchilik harakati yuzaga keldi 5 6 7 Xo'jand, Jizzax, O'ratepa, Panjikent, Samarqand va Kattaqo'rg'on hududlari Rossiya imperiyasi ixtiyoriga o'tkazildi Buxoro shahri temiryo'l orqali Toshkent, Orenburg va Moskva shaharlari bilan bog'landi Vose boshchiligida Baljuvon bekligida qo'zg'olon ko'tarildi Qoraqalpoqlar birlashib Ernazarbiy va Oydo'stbiy boshchiligida qo'zg'olon ko'tarishadi XX asr boshlarida Turkistonda ko'plab jadid maktablari, gazeta va jurnallar ommaviy nashr etila boshlandi",
+   "options": [
+    "1, 4, 6, 7",
+    "1, 4, 5, 7",
+    "1, 2, 4, 5, 7",
+    "1, 2, 3, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvalda berilgan ma'lumotlarni o'zaro muvofiqlashtiring. 1 Buxoro amirligi a 2 Xiva xonligi b 3 Qoraqalpoqlar d Og'zaki ijodi chuqur mazmunga ega ekanligi va xalqchilligi bilan ajralib turgan. Xalq ma'naviy madaniyatining yuksak darajasi ajdodlardan avlodlarga yetkaziladigan xalq dostonlarida, termalarida, shuningdek, musiqali o'lanlarida saqlanib qolgan 350 ga yaqin an'anaviy (boshlang'ich) maktablar faoliyat ko'rsatgan. Maktabxonalarda o'qishga qabul qilish yoshi 5 yoshdan 12 yoshgacha bo'lgan davrni tashkil etgan. Ta'lim jarayoni esa 7 – 10 yilgacha davom etgan. XIX asr oxiri – XX asr boshlarida uy hunarmandchiligi hanuz saqlanib kelayotgan edi. Unda ip yigirish va to'quvchilik, oyoq kiyimlar, gilamlar, kigizlar va boshqalar tayyorlangan",
+   "options": [
+    "1-b; 2-d; 3-a",
+    "1-d; 2-b; 3-a",
+    "1-a; 2-b; 3-d",
+    "1-b; 2-a; 3-d"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi ma'lumotlarni tahlil qilib, Eyler-Venn diagrammasiga mos keladigan javobni aniqlang.\na) “Qiz Mengesh bilan aytishuv” dostonini umrini oxirlarida yozib qoldirgan;\nb) Orolbo'yida tug'ilgan. Ovul maktabida, so'ngra Qoraqum eshon madrasasida o'qigan. 20 yoshida she'rlar yoza boshlagan;\nc) “O'roqchilar”, “Cho'ponlar” kabi she'rlarida xalq dardini kuylagan;\nd) Mo'ynoqdagi maktabda, so'ngra Xivadagi Sherg'ozixon madrasasida o'qigan. Qoraqalpoqlar orasida birinchilardan bo'lib oxund darajasiga erishgan;\ne) XX asr boshlarida demokratik adabiyot an'analari davomchisi;\nf) XIX asr oxiri – XX asr boshlari qoraqalpoq adabiyoti vakili;",
+   "options": [
+    "I-b, II-d, III-f",
+    "I-a, II-c, III-e",
+    "I-b, II-c, III-f",
+    "I-a, II-d, III-e"
+   ],
+   "answer": 0,
+   "image": "img/ms5fa99c7ed92b.jpg"
+  },
+  {
+   "q": "Quyidagi grafikda qaysi raqam ostidagi tarixiy asar va uning muallifi bir-biriga muvofiq keladi?",
+   "options": [
+    "1, 2",
+    "3, 5",
+    "2, 4",
+    "4, 6"
+   ],
+   "answer": 0,
+   "image": "img/msd95a28c795a4.jpg"
+  },
+  {
+   "q": "Buxoro amirligi maktablarida ta'lim beruvchi domla (otinoyi)larning asosiy ish haqi qanday nom bilan atalgan?",
+   "options": [
+    "“supurgi puli”",
+    "“payshanbalik”",
+    "“bo'yra puli”",
+    "“to'lovlar”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Quyidagi madrasalarning joylashgan shahriga qarab mos ravishda joylashtiring.\n1) Qutlug' Inoq;\n2) Qoraqum Eshon;\n3) Olloqulixon\na) Xiva;\nb) Mang'it;\nc) Xazorasp",
+   "options": [
+    "1-c; 2-b; 3-a",
+    "1-a; 2-c; 3-b",
+    "1-b; 2-a; 3-c",
+    "1-c; 2-a; 3-b"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rossiya imperiyasining O'rta Osiyoga istilochilik harakatlarining birinchi va ikkinchi bosqichlarining boshlanishi qaysi rus imperatorlari davrida amalga oshirilganligini aniqlang.\n1) Nikolay I;\n2) Nikolay II;\n3) Aleksandr III;\n4) Aleksandr II.",
+   "options": [
+    "1, 2",
+    "1, 4",
+    "2, 3",
+    "2, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning ikkinchi yarmida qanday maqsadda beklarbegi lavozimi tayin etilgan? 1. qoraqalpoq urug'larini boshqarish 2. islom dini asoslarini qoraqalpoq xalqi orasida mustahkamlash 3. harbiy xizmatni o'tash majburiyatlariga doir ishlarni tartibga solish 4. soliqlarni undirish 5. qoraqalpoqlarning iste'dodli yoshlarini Xiva madrasalariga jo'natib turish",
+   "options": [
+    "1, 3, 4",
+    "2, 3, 5",
+    "1, 2, 3",
+    "1, 4, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ziyolilar xalq orasida ilg'or g'oyalarni tarqatishda nimani asosiy vosita deb bildilar?",
+   "options": [
+    "maorif tizimini",
+    "matbuotni",
+    "teatrni",
+    "milliy davlat qurishni"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Quyidagi voqealar to'g'ri xronologik tartibda berilgan javobni aniqlang.\n1) Buxoroda birinchi rus-tuzem maktabi ochildi;\n2) Turkiston jadidlari siyosiy ko'rinishdagi harakatga aylanishdi;\n3) Berdaq vafot etdi;\n4) Yangi usul maktablari ochilishi uchun ruxsatnoma joriy qilindi;\n5) Buxoroda jadidlar siyosiy harakat sifatida faoliyat ko'rsata boshladi",
+   "options": [
+    "5, 1, 2, 3, 4",
+    "1, 2, 3, 4, 5",
+    "1, 4, 5, 3, 2",
+    "1, 5, 4, 3, 2"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yozuvchi Kibriyo Qahharova qalamiga mansub asar berilgan javobni aniqlang.",
+   "options": [
+    "“Chorak asr hamnafas”",
+    "“Ufq”",
+    "“Shum bola”",
+    "“Turkiston qayg'usi”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XIX asr oxiri – XX asr boshlarida qoraqalpoqlarda bir qancha madrasalar bo'lib, ularning eng kattalari qaysilar edi?",
+   "options": [
+    "Qoraqum eshon va Qalila oxun",
+    "Egambergan oxun va Oyimbet eshon",
+    "Qoraqum eshon va Tosh madrasalari",
+    "Eshonqal'a va Tosh madrasalari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan qaysi biri XIX asr oxirlarida Buxoro amirligining yirik savdo va hunarmandchilik markazlaridan biri hisoblanadi?\n1) Buxoro;\n2) Denov;\n3) Samarqand;\n4) Chorjoy;\n5) Gurlan",
+   "options": [
+    "1, 2, 3, 4",
+    "1, 3, 5",
+    "2, 4, 5",
+    "1, 2, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1916-yilda Jizzax qo'zg'oloni podsho hukumati tomonidan ayovsiz bostirilgach, nima sababdan mahalliy aholi o'z uylaridan cho'lga haydab yuborildi?\n1) qo'zg'olonda ishtirok etganligi sababli;\n2) podsho hukumatiga qarshi qo'zg'olon ko'targan boshqa shahar aholisiga o'rnak bo'lishi uchun;\n3) ular qo'zg'olonchilarga xayrixoh bo'lganligi uchun;\n4) cho'l hududini o'zlashtirib uni unumli yerga aylantirish uchun;\n5) qo'zg'olon rahbarlarini, ishtirokchilarini tutishda podsho hukumatiga yordam bermaganligi uchun.",
+   "options": [
+    "2, 3, 4",
+    "1, 3, 4",
+    "1, 3, 5",
+    "2, 4, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagilardan qoraqalpoqlarda yuqori darajada rivojlangan xalq amaliy san'atining namunalarini toping. 1. kulolchilik 2. o'ymakor eshiklar 3. gilam to'qish 4. zargarlik 5. kashtachilik 6. uy-ro'zg'or buyumlari yasash",
+   "options": [
+    "2, 3, 5, 6",
+    "1, 2, 5, 6",
+    "1, 3, 4, 6",
+    "2, 3, 4, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Berilgan voqealardan qaysi biri 1888-yilda sodir bo'lgan?\nVariantlar: A) Kalif viloyatida dehqonlar qo'zg'aloni boshlandi.; B) Qoraqalpoqlarning Xiva xonligi tobeligiga o'tishi.; C) Buxoro amirligi orqali dastlabki temiryo'l o'tkazildi.; D) Andijondagi Dukchi Eshon qo'zg'aloni.; E) Rossiya bilan savdo-sotiqning rivojlanishi.; F) 1916-yilgi qo'zg'alonlar.",
+   "options": [
+    "Kalif viloyatida dehqonlar qo'zg'aloni boshlandi.",
+    "Buxoro amirligi orqali dastlabki temiryo'l o'tkazildi.",
+    "Andijondagi Dukchi Eshon qo'zg'aloni.",
+    "Qoraqalpoqlarning Xiva xonligi tobeligiga o'tishi."
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qaysi voqea natijasida Xiva xonligida paxta yetishtirishga ixtisoslashuv jadal kechgan?\nVariantlar: A) Kalif viloyatida dehqonlar qo'zg'aloni boshlandi.; B) Qoraqalpoqlarning Xiva xonligi tobeligiga o'tishi.; C) Buxoro amirligi orqali dastlabki temiryo'l o'tkazildi.; D) Andijondagi Dukchi Eshon qo'zg'aloni.; E) Rossiya bilan savdo-sotiqning rivojlanishi.; F) 1916-yilgi qo'zg'alonlar.",
+   "options": [
+    "Qoraqalpoqlarning Xiva xonligi tobeligiga o'tishi.",
+    "Andijondagi Dukchi Eshon qo'zg'aloni.",
+    "Rossiya bilan savdo-sotiqning rivojlanishi.",
+    "Kalif viloyatida dehqonlar qo'zg'aloni boshlandi."
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi qo'zg'alon Turkiston xalqlarining o'z huquqlarini poymol qilishlaridan qattiq norozi bo'lganligini ko'rsatgan?\nVariantlar: A) Kalif viloyatida dehqonlar qo'zg'aloni boshlandi.; B) Qoraqalpoqlarning Xiva xonligi tobeligiga o'tishi.; C) Buxoro amirligi orqali dastlabki temiryo'l o'tkazildi.; D) Andijondagi Dukchi Eshon qo'zg'aloni.; E) Rossiya bilan savdo-sotiqning rivojlanishi.; F) 1916-yilgi qo'zg'alonlar.",
+   "options": [
+    "1916-yilgi qo'zg'alonlar.",
+    "Kalif viloyatida dehqonlar qo'zg'aloni boshlandi.",
+    "Andijondagi Dukchi Eshon qo'zg'aloni.",
+    "Qoraqalpoqlarning Xiva xonligi tobeligiga o'tishi."
+   ],
+   "answer": 0
+  }
+ ]
+}

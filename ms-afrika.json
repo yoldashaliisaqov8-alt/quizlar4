@@ -1,0 +1,226 @@
+{
+ "title": "Afrika davlatlari (XIX–XX asrlar) — mavzuli test",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Hozirgi Afrika davlatlari va ularning mustamlakachilik davridagi nomlarini moslashtiring.\n1) Gana\n2) Zimbabve\n3) Zambiya\n4) Benin\n5) Mali\na) Dagomeya\nb) Shimoliy Rodeziya\nc) Oltin qirg'oq\nd) Fransiya Sudani\ne) Janubiy Rodeziya",
+   "options": [
+    "1-c, 2-d, 3-b, 4-a, 5-e",
+    "1-c, 2-a, 3-b, 4-e, 5-d",
+    "1-c, 2-e, 3-b, 4-d, 5-a",
+    "1-c, 2-e, 3-b, 4-a, 5-d"
+   ],
+   "answer": 3,
+   "explanation": "Manba: E2, 518-bet: «Janubiy Rodeziya (Zimbabve), Shimoliy Rodeziya (Zambiya)… Dagomeya (Benin)… Fransiya Sudani (Mali)»; J10, 170-bet: Oltin Qirg'oq o'zini Gana davlati deb atagan. Diqqat: shu turdag"
+  },
+  {
+   "q": "XX asr boshlarida Buyuk Britaniya mustamlakasi bo'lgan hududlarni belgilang.\n1) Nigeriya\n2) Keniya\n3) Madagaskar\n4) Uganda\n5) Efiopiya\n6) Gambiya",
+   "options": [
+    "1, 4, 5, 6",
+    "1, 4, 6",
+    "1, 2, 4, 5, 6",
+    "1, 2, 4, 6"
+   ],
+   "answer": 3,
+   "explanation": "Manba: E2, 518-bet. Diqqat: Madagaskar — Fransiya mustamlakasi; Efiopiya — mustaqil davlat."
+  },
+  {
+   "q": "Fransiyaning Afrikadagi mustamlakalari bo'lgan hududlarni belgilang.\n1) Senegal\n2) Mavritaniya\n3) Angola\n4) Chad\n5) Uganda\n6) Fransiya Gvineyasi",
+   "options": [
+    "1, 2, 6",
+    "1, 2, 3, 4, 6",
+    "1, 2, 4, 6",
+    "1, 3, 4, 6"
+   ],
+   "answer": 2,
+   "explanation": "Manba: E2, 518-bet. Diqqat: Angola — Portugaliya, Uganda — Buyuk Britaniya mustamlakasi."
+  },
+  {
+   "q": "Hozirgi qaysi davlatlar hududi Germaniya mustamlakasi bo'lgan?",
+   "options": [
+    "Kamerun, Togo, Namibiya",
+    "Angola, Mozambik, Gvineya",
+    "Eritreya, Somali, Liviya",
+    "Kongo, Ruanda, Zambiya"
+   ],
+   "answer": 0,
+   "explanation": "Manba: E2, 518-bet: Germaniya — hozirgi Tanzaniya, Ruanda, Burundi, Kamerun, Togo, Namibiya. Diqqat: D variantdagi Ruanda Germaniyaniki bo'lgan, ammo Kongo — Belgiya, Zambiya — Britaniya mustamlakasi."
+  },
+  {
+   "q": "Portugallar Afrikaning g'arbiy qirg'oqlarini to'rtta zonaga ajratib, ularni asosiy tovar nomi bilan atagan. Quyidagilardan qaysi biri bu zonalarga KIRMAYDI?",
+   "options": [
+    "Qalampir qirg'oq",
+    "Fil suyagi qirg'og'i",
+    "Tuz qirg'og'i",
+    "Oltin qirg'oq"
+   ],
+   "answer": 2,
+   "explanation": "To'rtinchi zona — «Qul qirg'oq» (Volta va Niger daryolari oralig'i). Manba: J9, 111-bet."
+  },
+  {
+   "q": "Afrika mustamlakalarga bo'lib olingandan keyin o'z mustaqilligini saqlab qolgan davlatlarni toping.",
+   "options": [
+    "Misr va Marokash",
+    "Efiopiya va Liberiya",
+    "Liberiya va Sudan",
+    "Efiopiya va Tunis"
+   ],
+   "answer": 1,
+   "explanation": "Manba: J9, 178-bet: «Afrikada ikki davlat – Liberiya va Efiopiyagina o'z mustaqilligini saqlab qolgan»; E2, 519-bet."
+  },
+  {
+   "q": "Efiopiya qaysi yili o'zini bosib olish uchun yuborilgan Italiya qo'shinlarini tor-mor qilib, mustaqilligini saqlab qolgan?",
+   "options": [
+    "1885-yil",
+    "1896-yil",
+    "1911-yil",
+    "1935-yil"
+   ],
+   "answer": 1,
+   "explanation": "Manba: E2, 519-bet. Diqqat: 1935-yil — Italiyaning Efiopiyaga ikkinchi hujumi."
+  },
+  {
+   "q": "1935–1936-yillarda fashistik Italiya mustamlakasiga aylantirilgan hududlarni toping.",
+   "options": [
+    "Liviya, Tunis va Misr",
+    "Efiopiya, Eritreya va Somalining bir qismi",
+    "Sudan, Keniya va Uganda",
+    "Jazoir, Marokash va Liviya"
+   ],
+   "answer": 1,
+   "explanation": "Manba: J10, 64-bet."
+  },
+  {
+   "q": "Ingliz-bur urushi haqidagi to'g'ri ma'lumotlarni belgilang.\n1) 1899–1902-yillarda bo'lib o'tgan\n2) Burlar gollandiyalik mustamlakachilarning avlodlari bo'lgan\n3) Burlar Transvaal va Oranj respublikalarini tuzgan\n4) Urush burlarning g'alabasi bilan tugagan\n5) 1902-yili Angliya ikki respublikani o'ziga bo'ysundirgan",
+   "options": [
+    "1, 2, 5",
+    "1, 3, 4, 5",
+    "1, 2, 3, 5",
+    "1, 3, 5"
+   ],
+   "answer": 2,
+   "explanation": "Manba: J10, 13–14-betlar."
+  },
+  {
+   "q": "Quyidagi voqealardan qaysi biri ENG AVVAL sodir bo'lgan?",
+   "options": [
+    "Ingliz-bur urushining boshlanishi",
+    "Liberiya ozod davlatining tuzilishi",
+    "Misr hukmdori Ismoilning Suvaysh kanali aksiyalarini Angliyaga sotishi",
+    "Efiopiyaning Italiya qo'shinlarini tor-mor etishi"
+   ],
+   "answer": 1,
+   "explanation": "Liberiya — 1847; Suvaysh aksiyalari — 1875; Efiopiya — 1896; ingliz-bur urushi — 1899. Manba: J9, 178- va 118-betlar; E2, 519-bet; J10, 13-bet."
+  },
+  {
+   "q": "1820–1822-yillarda Sudanni egallagan Misr hukmdorini toping.",
+   "options": [
+    "Ismoil I",
+    "Said posho",
+    "Muhammad Ali",
+    "Ibrohim posho"
+   ],
+   "answer": 2,
+   "explanation": "Manba: J9, 175-bet."
+  },
+  {
+   "q": "Suvaysh kanali haqidagi to'g'ri juftlikni toping.",
+   "options": [
+    "Qazish 1859-yilda boshlangan; 1875-yili Misr kanal aksiyalarining 45% ini Angliyaga sotgan",
+    "Qazish 1869-yilda boshlangan; 1882-yili aksiyalar Fransiyaga sotilgan",
+    "Qazish 1854-yilda boshlangan; 1875-yili aksiyalarning 100% i Angliyaga o'tgan",
+    "Qazish 1859-yilda boshlangan; 1888-yili Misr aksiyalarni Germaniyaga sotgan"
+   ],
+   "answer": 0,
+   "explanation": "Manba: J9, 175-bet va 118-bet."
+  },
+  {
+   "q": "Jahon urushlari oralig'ida Shimoliy Afrikadagi milliy-ozodlik harakatlari va ularning rahbarlarini moslashtiring.\n1) Jazoir\n2) Tunis\n3) Marokash\na) Habib Burg'iba\nb) Abdul Karim\nc) Farhod Abbos",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-c, 3-b",
+    "1-c, 2-b, 3-a",
+    "1-c, 2-a, 3-b"
+   ],
+   "answer": 3,
+   "explanation": "Manba: J10, 74-bet."
+  },
+  {
+   "q": "Buyuk Britaniya Misr ustidan protektoratini bekor qilgan vaqt va 1923-yilgi konstitutsiyaga ko'ra Misrning boshqaruv shaklini toping.",
+   "options": [
+    "1914-yil dekabr; respublika",
+    "1922-yil fevral; monarxiya",
+    "1936-yil avgust; monarxiya",
+    "1922-yil fevral; respublika"
+   ],
+   "answer": 1,
+   "explanation": "Manba: J10, 74-bet."
+  },
+  {
+   "q": "Marokash bilan bog'liq voqealar va sanalarni moslashtiring.\n1) Marokashni Fransiyaning ta'sir zonasi deb tan olgan ingliz-fransuz kelishuvi\n2) Alxesiras konferensiyasi\n3) Marokashni Fransiya protektoratiga aylantirgan Fes shartnomasi\na) 1912-yil\nb) 1904-yil 8-may\nc) 1906-yil",
+   "options": [
+    "1-a, 2-c, 3-b",
+    "1-c, 2-b, 3-a",
+    "1-b, 2-c, 3-a",
+    "1-b, 2-a, 3-c"
+   ],
+   "answer": 2,
+   "explanation": "Manba: E2, 510-bet (Ergashev, 2-qism). Fes shartnomasini sulton Abd al-Hafiz imzolagan."
+  },
+  {
+   "q": "Mag'rib davlatlari qatoriga kiradigan mamlakatlarni belgilang.\n1) Jazoir\n2) Misr\n3) Tunis\n4) Sudan\n5) Marokash\n6) Mavritaniya",
+   "options": [
+    "1, 2, 5, 6",
+    "1, 3, 4, 5",
+    "3, 5, 6",
+    "1, 3, 5, 6"
+   ],
+   "answer": 3,
+   "explanation": "Manba: J10, 168-bet: Mag'rib davlatlari — Jazoir, Tunis, Marokash va Mavritaniya."
+  },
+  {
+   "q": "Birinchi jahon urushidan keyin mag'lub davlatlar mustamlakalarining g'oliblar tomonidan bo'lib olinishini qonuniylashtirish uchun Millatlar Ligasi Ustaviga qanday tushuncha kiritilgan?",
+   "options": [
+    "Protektorat",
+    "Kontributsiya",
+    "Mandat",
+    "Dominion"
+   ],
+   "answer": 2,
+   "explanation": "Manba: J10, 57-bet."
+  },
+  {
+   "q": "Buyuk Britaniyaning «oq koloniyalari» qatoriga kirgan hududlarni belgilang.\n1) Kanada\n2) Hindiston\n3) Avstraliya\n4) Yangi Zelandiya\n5) Nigeriya",
+   "options": [
+    "3, 4",
+    "1, 2, 3, 4",
+    "2, 3, 4",
+    "1, 3, 4"
+   ],
+   "answer": 3,
+   "explanation": "Manba: J9, 119-bet. Diqqat: darslik ta'rifiga ko'ra «oq koloniyalar» Afrikada ham bo'lgan (Kap mustamlakasi — keyinchalik Janubiy Afrika Ittifoqi dominioni)."
+  },
+  {
+   "q": "«Afrika yili» deb tarixga kirgan yil va shu yili paydo bo'lgan yangi Afrika davlatlari sonini toping.",
+   "options": [
+    "1957-yil; 9 ta",
+    "1960-yil; 17 ta",
+    "1962-yil; 21 ta",
+    "1960-yil; 27 ta"
+   ],
+   "answer": 1,
+   "explanation": "Manba: J10, 170-bet va 139-bet. Xaritadagi «Afrika yili (1960)» qatlamida shu 17 davlatni ko'rishingiz mumkin."
+  },
+  {
+   "q": "Quyidagilardan qaysilari Fransiya mustamlakasi bo'lib, «Afrika yili»da mustaqillikka erishgan?\n1) Niger\n2) Liviya\n3) Madagaskar\n4) Chad\n5) Janubiy Afrika Respublikasi\n6) Mavritaniya",
+   "options": [
+    "1, 3, 4, 6",
+    "1, 2, 4, 6",
+    "1, 3, 5, 6",
+    "1, 2, 3, 4"
+   ],
+   "answer": 0,
+   "explanation": "Liviya — Italiya mustamlakasi bo'lgan (1951-yilda mustaqil), JAR — Britaniya dominioni. Manba: E2, 518-bet; J10, 170-bet."
+  }
+ ]
+}

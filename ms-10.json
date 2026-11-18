@@ -1,0 +1,66 @@
+{
+ "title": "Milliy sertifikat — 2-variant",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Qadimda dastlabki diniy e'tiqodlar qaysi tarixiy jarayon ortida yuz bergan?",
+   "options": [
+    "Ibtidoiy ziroatchilik va chorvachilikning vujudga kelishi",
+    "Odamning o'zini qurshab turgan tevarak olamni tushinishiga intilishi",
+    "Qadimgi tasviriy san'atning rivojlanishi",
+    "Teshiktosh g'oridan topilgan Neandertal bolaning dafn qilinishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "732-yil bo'lib o'tgan Puate janggi Yevropa uchun qanday muhim ahamiyat kasb etgan?",
+   "options": [
+    "Arablarning Yevropaga yurishlariga chek qoydi",
+    "Yevropada feodal tarqoqlik davri boshlandi",
+    "Arablarning G'arbga tomon yurishlarini tezlashtirdi",
+    "Yevropada yangi qudratli davlatlar vujudga kela boshladi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XII asr ikkinchi yarimi va XIII asr boshlarida Germaniyada hukmronlik qilyotgan sulolani aniqlang.",
+   "options": [
+    "Lyuksemburglar",
+    "Gabsburglar",
+    "Shtaufenlar",
+    "Saksoniyaliklar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Quyidagi tarixiy voqealar (ma'lumotlar) to'g'ri xronologik ketma-ketlikda ko'rsatilgan javobni toping:\n1) Yaponiya Millatlar Ligasi tashkilotidan chiqdi\n2) Mussolini irqiy qonunlar chiqardi\n3) Primo De Rivera istefoga chiqdi\n4) Yaponiyada kasaba uyushmalari to'g'risidagi qonun qabul qilindi\n5) Germaniya, Yaponiya va Italiya o'rtasida \"Uchlar pakti\" imzolandi\n6) AQSH prezidenti Jon Kennedi o'ldirildi",
+   "options": [
+    "3, 1, 2, 5, 4, 6",
+    "1, 2, 3, 5, 4, 6",
+    "1, 3, 1, 5, 4, 6",
+    "3, 1, 2, 4, 5, 6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tarixiy shaxsni aniqlang. XVIII asrda yashagan buyuk tarixiy shaxs edi. Uning asarlari odamlarga o'ta jiddiy tuyulardi, cherkov esa Xudodan qo'rqish ohanglarining yetarli emasligi uchun uning musiqalarini yoqtirmasdi. Uning \"Matto bayon etgan buyuk musibat\" asarida havoriy ya'ni Iso Masihning shogirdi Matto hikoya qilgan Iso uqubatlarini ifodalaydi.",
+   "options": [
+    "Antuan Vatto",
+    "Sebastyan Bax",
+    "Fransua Bushe",
+    "Volfgang Gyote"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Tarixiy shaxsni aniqlang. XVII asrda yashagan buyuk hukmdor edi. U ham harbiy, ham diplomatik usullar yordamida barcha musulmon beklari va hind rojalarini o'ziga bo'ysindiradi. U mamlakatni boshqarishda musulmonlar bilan birga hindlarni ham jalb qilib, musulmon bo'lmaganlardan olinadigan jon solig'ini bekor qildi, hindlarning ziyoratgohlaridan olinadigan soliqni ham man etdi.",
+   "options": [
+    "Shoh Jahon",
+    "Humoyun",
+    "Zahriddin Bobur",
+    "Akbarshoh"
+   ],
+   "answer": 3
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "title": "Milliy sertifikat — namuna to'plam",
+ "time": 45,
+ "questions": [
+  {
+   "q": "Amir Temur qaysi yilda tug'ilgan?",
+   "options": [
+    "1336-yil",
+    "1347-yil",
+    "1370-yil",
+    "1405-yil"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mirzo Ulug'bek tuzgan yulduzlar jadvali qanday nomlanadi?",
+   "options": [
+    "Qonuni Mas'udiy",
+    "Ziji jadidi Ko'ragoniy",
+    "Osor ul-boqiya",
+    "Al-jabr val-muqobala"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Zahiriddin Muhammad Bobur Hindistonda qaysi davlatga asos solgan?",
+   "options": [
+    "G'aznaviylar davlati",
+    "Shayboniylar davlati",
+    "Boburiylar davlati",
+    "Ashtarxoniylar davlati"
+   ],
+   "answer": 2,
+   "explanation": "Davlat 1526-yilda tashkil topgan."
+  },
+  {
+   "q": "Turkiston general-gubernatorligi qaysi yilda tashkil etilgan?",
+   "options": [
+    "1865-yil",
+    "1867-yil",
+    "1876-yil",
+    "1881-yil"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oliy Kengash O'zbekiston davlat mustaqilligi to'g'risidagi bayonotni qaysi sanada qabul qilgan?",
+   "options": [
+    "1990-yil 20-iyun",
+    "1991-yil 31-avgust",
+    "1991-yil 8-dekabr",
+    "1992-yil 8-dekabr"
+   ],
+   "answer": 1,
+   "explanation": "Mustaqillik bayrami esa 1-sentabrda nishonlanadi."
+  },
+  {
+   "q": "O'zbekiston Respublikasi Konstitutsiyasi qaysi yilda qabul qilingan?",
+   "options": [
+    "1991-yil",
+    "1992-yil",
+    "1993-yil",
+    "1995-yil"
+   ],
+   "answer": 1,
+   "explanation": "Qabul qilingan sana — 8-dekabr, bu sana Konstitutsiya kuni sifatida nishonlanadi."
+  }
+ ]
+}
