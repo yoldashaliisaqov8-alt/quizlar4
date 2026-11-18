@@ -141,6 +141,7 @@ async function finish(env, s) {
   if (nx) kb.push([{ text: `▶️ Keyingi: ${nx.t}`.slice(0, 60), callback_data: `q:${nx.n}` }]);
   kb.push([{ text: "📚 Boshqa mavzu tanlash", callback_data: "m" }]);
   await send(env, s.chat_id, t, { reply_markup: { inline_keyboard: kb } });
+  await teacherReport(env, s).catch((e) => console.log("jadval", e));
 }
 
 
@@ -155,7 +156,7 @@ async function fetchQuiz(env, name) {
   QCACHE.set(name, { d, t: Date.now() });
   return d;
 }
-async function startQuiz(env, chat_id, arg) {
+async function startQuiz(env, chat_id, arg, starter = null) {
   const cur = await env.DB.prepare("SELECT running FROM sessions WHERE chat_id=?").bind(chat_id).first();
   if (cur && cur.running) return "⏳ Viktorina davom etyapti. Avval /stop bosing.";
   let data;
@@ -163,7 +164,8 @@ async function startQuiz(env, chat_id, arg) {
   const qs = (data.questions || []).filter((q) => q.q && Array.isArray(q.options) && q.options.length >= 2);
   if (!qs.length) return "❌ Testda savol yo'q.";
   const time = Math.max(5, Math.min(600, parseInt(data.time) || 30));
-  await startWithQuestions(env, chat_id, arg, data.title || arg, qs, time);
+  const sid = await startWithQuestions(env, chat_id, arg, data.title || arg, qs, time);
+  if (chat_id < 0) await recordRun(env, chat_id, sid, starter, data.title || arg, qs.length).catch((e) => console.log("run", e));
   return null;
 }
 async function startWithQuestions(env, chat_id, quiz_id, title, qs, time) {
@@ -176,6 +178,7 @@ async function startWithQuestions(env, chat_id, quiz_id, title, qs, time) {
   const s = await env.DB.prepare("SELECT * FROM sessions WHERE chat_id=?").bind(chat_id).first();
   await new Promise((r) => setTimeout(r, 2000));
   await sendQuestion(env, s, 0);
+  return session_id;
 }
 
 // ---------- Avtomatik viktorina ----------
@@ -250,6 +253,7 @@ async function showMain(env, chat_id, message_id, user) {
   const kb = [];
   for (const g of cat.groups || []) kb.push([await btn(env, chat_id, `${g.icon} ${g.title} (${cnt(g)})`, `g:${g.id}`, `g_${g.id}`)]);
   if (chat_id > 0) kb.push([await btn(env, chat_id, "📈 Natijalarim", "r", "natija"), await btn(env, chat_id, "🧩 Xatolarim", "x", "xato")]);
+  if (chat_id > 0) kb.push([await btn(env, chat_id, "👩‍🏫 O'qituvchilar uchun", "tch", "oqituvchi")]);
   const body = { chat_id, text: MAIN_TEXT, parse_mode: "HTML", reply_markup: { inline_keyboard: kb } };
   if (message_id) return tg(env, "editMessageText", { ...body, message_id });
   return tg(env, "sendMessage", body);
@@ -365,6 +369,7 @@ async function onCallback(env, cq) {
   const user = chat.type === "private" ? cq.from : null;
   if (d === "m") return showMain(env, chat.id, mid, user);
   if (d === "r" && chat.type === "private") return myResults(env, chat.id, cq.from);
+  if (d === "tch" && chat.type === "private") return teacherGuide(env, chat.id);
   if (d === "x" && chat.type === "private") return startMistakes(env, chat.id, cq.from);
   if (d.startsWith("g:")) return showGroup(env, chat.id, mid, d.slice(2), user);
   if (d.startsWith("s:")) { const [, id, pg] = d.split(":"); return showSection(env, chat.id, mid, id, +pg || 0, user); }
@@ -378,7 +383,7 @@ async function onCallback(env, cq) {
     const name = d.slice(2);
     if (!/^[\w-]+$/.test(name)) return;
     await tg(env, "deleteMessage", { chat_id: chat.id, message_id: mid });
-    const err = await startQuiz(env, chat.id, name);
+    const err = await startQuiz(env, chat.id, name, cq.from.id);
     if (err) await send(env, chat.id, err);
   }
 }
@@ -1030,6 +1035,97 @@ async function kunCmd(env, msg, text) {
   return send(env, chat, "✅ Saqlandi.\n\n" + (await info()));
 }
 
+
+// ---------- O'qituvchilar rejimi: guruh natijalari jadvali ----------
+let TCH_OK = false;
+async function ensureTeach(env) {
+  if (TCH_OK) return;
+  TCH_OK = true;
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS runs (chat_id INTEGER, session_id TEXT, starter INTEGER, title TEXT, total INTEGER, started INTEGER, PRIMARY KEY (chat_id, session_id))").run();
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS answers (chat_id INTEGER, session_id TEXT, user_id INTEGER, idx INTEGER, ok INTEGER, PRIMARY KEY (chat_id, session_id, user_id, idx))").run();
+}
+async function recordRun(env, chat_id, sid, starter, title, total) {
+  await ensureTeach(env);
+  await env.DB.prepare("INSERT OR REPLACE INTO runs (chat_id, session_id, starter, title, total, started) VALUES (?,?,?,?,?,?)")
+    .bind(chat_id, sid, starter, title, total, Date.now()).run();
+}
+async function recordAnswer(env, p, uid, ok) {
+  if (p.chat_id >= 0) return;
+  await ensureTeach(env);
+  await env.DB.prepare("INSERT OR IGNORE INTO answers (chat_id, session_id, user_id, idx, ok) VALUES (?,?,?,?,?)").bind(p.chat_id, p.session_id, uid, p.idx, ok).run();
+}
+const baho5 = (p) => (p >= 86 ? 5 : p >= 71 ? 4 : p >= 56 ? 3 : 2);
+async function buildRunCsv(env, chat_id, sid) {
+  await ensureTeach(env);
+  const run = await env.DB.prepare("SELECT * FROM runs WHERE chat_id=? AND session_id=?").bind(chat_id, sid).first();
+  if (!run) return null;
+  const g = await env.DB.prepare("SELECT title FROM groups WHERE chat_id=?").bind(chat_id).first().catch(() => null);
+  const { results: sc } = await env.DB.prepare("SELECT user_id, name, correct, answered FROM scores WHERE chat_id=? AND session_id=? ORDER BY correct DESC, answered ASC").bind(chat_id, sid).all();
+  const { results: an } = await env.DB.prepare("SELECT user_id, idx, ok FROM answers WHERE chat_id=? AND session_id=?").bind(chat_id, sid).all();
+  const m = new Map();
+  for (const a of an) { if (!m.has(a.user_id)) m.set(a.user_id, {}); m.get(a.user_id)[a.idx] = a.ok; }
+  const cell = (v) => `"${String(v ?? "").replace(/"/g, '""')}"`;
+  const head = ["№", "O'quvchi", "To'g'ri", "Javob bergan", "Jami savol", "Foiz %", "Baho"];
+  for (let i = 1; i <= run.total; i++) head.push(`${i}-savol`);
+  const rows = [
+    [`Test: ${run.title}`], [`Guruh: ${(g && g.title) || chat_id}`], [`Sana: ${fmtT(run.started)}`], [`Qatnashchilar: ${sc.length} nafar`], [], head,
+  ];
+  sc.forEach((r, i) => {
+    const pct = Math.round((r.correct / run.total) * 100);
+    const row = [i + 1, r.name, r.correct, r.answered, run.total, pct, baho5(pct)];
+    const a = m.get(r.user_id) || {};
+    for (let k = 0; k < run.total; k++) row.push(a[k] === 1 ? "+" : a[k] === 0 ? "-" : "");
+    rows.push(row);
+  });
+  if (sc.length) {
+    const st = ["", "Savol bo'yicha to'g'ri %", "", "", "", "", ""];
+    for (let k = 0; k < run.total; k++) {
+      const v = an.filter((x) => x.idx === k);
+      st.push(v.length ? Math.round((v.filter((x) => x.ok).length / v.length) * 100) + "%" : "");
+    }
+    rows.push([], st);
+  }
+  return { run, csv: "﻿" + rows.map((r) => r.map(cell).join(";")).join("\r\n"), n: sc.length };
+}
+async function sendRunCsv(env, to, chat_id, sid) {
+  const b = await buildRunCsv(env, chat_id, sid);
+  if (!b) return { ok: false };
+  const fd = new FormData();
+  fd.append("chat_id", String(to));
+  fd.append("caption", `📊 «${b.run.title}» natijalari — ${b.n} nafar o'quvchi\n(+ to'g'ri, - xato, bo'sh — javob bermagan; oxirgi qatorda har bir savol bo'yicha foiz)`);
+  fd.append("document", new Blob([b.csv], { type: "text/csv" }), `natijalar-${fmtT(b.run.started).slice(0, 10)}-${String(b.run.title).replace(/[^\wА-яЁё-]+/g, "_").slice(0, 40)}.csv`);
+  const r = await fetch(API(env, "sendDocument"), { method: "POST", body: fd });
+  const j = await r.json().catch(() => ({}));
+  return { ok: !!j.ok };
+}
+async function teacherReport(env, s) {
+  await ensureTeach(env);
+  const run = await env.DB.prepare("SELECT starter FROM runs WHERE chat_id=? AND session_id=?").bind(s.chat_id, s.session_id).first();
+  if (!run) return;
+  const u = await botUser(env);
+  const sent = run.starter ? (await sendRunCsv(env, run.starter, s.chat_id, s.session_id)).ok : false;
+  if (sent) return send(env, s.chat_id, "📊 Batafsil natijalar jadvali (Excel) o'qituvchiga shaxsiy xabarda yuborildi.");
+  return send(env, s.chat_id, "📊 O'qituvchi uchun batafsil natijalar jadvali tayyor:", {
+    reply_markup: { inline_keyboard: [[{ text: "📥 Jadvalni olish (faqat adminlar)", url: `https://t.me/${u}?start=res_${String(s.chat_id).replace("-", "m")}_${s.session_id}` }]] },
+  });
+}
+async function adminOf(env, chat_id, uid) {
+  const r = await tg(env, "getChatMember", { chat_id, user_id: uid });
+  return r.ok && ["creator", "administrator"].includes(r.result.status);
+}
+async function teacherGuide(env, chat_id) {
+  const u = await botUser(env);
+  return send(env, chat_id,
+    `👩‍🏫 <b>O'qituvchilar uchun</b>\n\nSinfingiz bilan test o'tkazing — natijalar avtomatik jadval bo'lib keladi:\n\n` +
+    `1️⃣ Pastdagi tugma orqali botni <b>sinf guruhingizga</b> qo'shing.\n` +
+    `2️⃣ Guruhga <b>/boshla</b> deb yozing va mavzuni tanlang.\n` +
+    `3️⃣ O'quvchilar javob beradi, vaqt tugagach keyingi savol o'zi chiqadi.\n` +
+    `4️⃣ Oxirida guruhga reyting, <b>sizga esa Excel jadval</b> keladi: har bir o'quvchining natijasi, foizi, bahosi va har bir savolga javobi.\n\n` +
+    `📌 Oxirgi test jadvalini qayta olish: guruhda <b>/natijalar</b>\n📌 Har kuni avtomatik "Kun savoli" va har yakshanba "Hafta g'oliblari" ham chiqadi.\n\n` +
+    `<i>Bepul. ${430}+ ta test: attestatsiya, Milliy sertifikat, 6–9-sinf tarix, huquq.</i>`,
+    { reply_markup: { inline_keyboard: [[{ text: "➕ Botni guruhga qo'shish", url: `https://t.me/${u}?startgroup=true` }]] }, protect_content: false });
+}
+
 // ---------- Adminmi? ----------
 async function isAdmin(env, msg) {
   if (msg.chat.type === "private") return true;
@@ -1080,6 +1176,13 @@ async function onMessage(env, msg) {
 
   if (cmd === "/start" && msg.chat.type === "private") {
     if (arg === "natija") return myResults(env, chat_id, msg.from);
+    if (arg === "oqituvchi") return teacherGuide(env, chat_id);
+    if (arg && arg.startsWith("res_")) {
+      const [, gc, sid] = arg.split("_"); const gid = Number(gc.replace("m", "-"));
+      if (!(await adminOf(env, gid, msg.from.id))) return send(env, chat_id, "⛔ Jadvalni faqat shu guruh adminlari olishi mumkin.");
+      const r = await sendRunCsv(env, chat_id, gid, sid);
+      return r.ok ? null : send(env, chat_id, "Natijalar topilmadi.");
+    }
     if (arg === "xato") return startMistakes(env, chat_id, msg.from);
     if (arg && arg.startsWith("g_")) return showGroup(env, chat_id, null, arg.slice(2), msg.from);
     if (arg && arg.startsWith("sp_")) { const [id, pg] = arg.slice(3).split("_"); return showSection(env, chat_id, null, id, +pg || 0, msg.from, true); }
@@ -1114,7 +1217,7 @@ async function onMessage(env, msg) {
     if (!arg && msg.chat.type !== "private") return showMain(env, chat_id, null, null);
     if (!arg || !/^[\w-]+$/.test(arg)) return send(env, chat_id, "Test nomini yozing: /quiz tarix1");
     if (msg.chat.type === "private") return startPrivate(env, chat_id, arg, msg.from);
-    const err = await startQuiz(env, chat_id, arg);
+    const err = await startQuiz(env, chat_id, arg, msg.from && msg.from.id);
     if (err) return send(env, chat_id, err);
     return;
   }
@@ -1157,6 +1260,18 @@ async function onMessage(env, msg) {
   if ((cmd === "/natijalarim" || cmd === "/natija") && msg.chat.type === "private") return myResults(env, chat_id, msg.from);
   if ((cmd === "/xatolarim" || cmd === "/xatolar") && msg.chat.type === "private") return startMistakes(env, chat_id, msg.from);
 
+  if (cmd === "/oqituvchi" || cmd === "/teacher") return teacherGuide(env, chat_id);
+  if (cmd === "/natijalar" && msg.chat.type !== "private") {
+    if (!(await isAdmin(env, msg))) return;
+    await ensureTeach(env);
+    const last = await env.DB.prepare("SELECT session_id FROM runs WHERE chat_id=? ORDER BY started DESC LIMIT 1").bind(chat_id).first();
+    if (!last) return send(env, chat_id, "Bu guruhda hali test o'tkazilmagan.");
+    const r = await sendRunCsv(env, msg.from.id, chat_id, last.session_id);
+    if (r.ok) return send(env, chat_id, "📊 Jadval sizga shaxsiy xabarda yuborildi.");
+    const u = await botUser(env);
+    return send(env, chat_id, "📊 Jadvalni olish uchun avval botni oching:", { reply_markup: { inline_keyboard: [[{ text: "📥 Jadvalni olish", url: `https://t.me/${u}?start=res_${String(chat_id).replace("-", "m")}_${last.session_id}` }]] } });
+  }
+
   if (cmd === "/stop") {
     if (!(await isAdmin(env, msg))) return;
     const s = await env.DB.prepare("SELECT * FROM sessions WHERE chat_id=? AND running=1").bind(chat_id).first();
@@ -1188,6 +1303,7 @@ async function onPollAnswer(env, pa) {
      ON CONFLICT(chat_id, session_id, user_id) DO UPDATE SET correct=correct+excluded.correct, answered=answered+1, name=excluded.name`
   ).bind(p.chat_id, p.session_id, u.id, name, ok).run();
   try { await trackMistake(env, p, u.id, ok); } catch (e) { console.log("xato yozish", e); }
+  try { await recordAnswer(env, p, u.id, ok); } catch (e) { console.log("javob yozish", e); }
 
   // Shaxsiy chatda (o'quvchi botni o'zi ochganda): javob berdi — 1 soniyadan keyin keyingi savol
   if (p.chat_id > 0 && p.chat_id === u.id) {
@@ -1241,6 +1357,8 @@ export default {
           { command: "natijalarim", description: "📈 Mening natijalarim" },
           { command: "xatolarim", description: "🧩 Xatolar ustida ishlash" },
           { command: "boshla", description: "Guruhda mavzu tanlab viktorina boshlash" },
+          { command: "natijalar", description: "📊 Oxirgi guruh testi jadvali (adminlar)" },
+          { command: "oqituvchi", description: "👩‍🏫 O'qituvchilar uchun qo'llanma" },
           { command: "quiz", description: "Viktorinani boshlash: /quiz nomi" },
           { command: "stop", description: "To'xtatish va natija" },
           { command: "natija", description: "Joriy natijalar" },
