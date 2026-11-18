@@ -1,0 +1,316 @@
+{
+ "title": "10-sinf · 30-mavzu. Afrikada mustaqillik, qashshoqlik va taraqqiyot muammolari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Mag‘rib davlatlariga kiradigan mamlakatlarni aniqlang.",
+   "options": [
+    "Jazoir, Tunis, Marokash, Mavritaniya",
+    "Nigeriya, Mali, Chad, Niger",
+    "Misr, Sudan, Liviya, Efiopiya",
+    "Gana, Gvineya, Keniya, Kamerun"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1952-yilda Misrda hokimiyatga kelgan “Yosh ofitserlar”ga kim boshchilik qilgan?",
+   "options": [
+    "Muammar Qazzofiy",
+    "Anvar Sadat",
+    "Husni Muborak",
+    "Jamol Abdul Nosir"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1952-yilgi Misr inqilobi qanday xarakterga ega bo‘lgan?",
+   "options": [
+    "Diniy-mutaassib",
+    "Sotsialistik va ateistik",
+    "Antiimperialistik va antifeodal",
+    "Monarxistik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nosir davrida Misrda tuzilgan yagona rasmiy siyosiy uyushma qanday nomlangan?",
+   "options": [
+    "“Ozodlik tashkiloti”",
+    "“Vafd”",
+    "“Musulmon birodarlar”",
+    "“Yosh ofitserlar”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Nosir hukumatiga qarshi chiqqan diniy-mutaassib tashkilot qaysi?",
+   "options": [
+    "“Yosh turklar”",
+    "“Musulmon birodarlar”",
+    "“Hamas”",
+    "“Ozodlik tashkiloti”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Musulmon birodarlar” qachon tor-mor qilingan?",
+   "options": [
+    "1956-yilda",
+    "1952-yilda",
+    "1954-yilda",
+    "1981-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nosir hukumati Misrni rivojlantirishda kimning yordamiga tayangan?",
+   "options": [
+    "Fransiya yordamiga",
+    "Buyuk Britaniya yordamiga",
+    "AQSH yordamiga",
+    "SSSR yordamiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Anvar Sadat qanday tashqi siyosat yuritgan?",
+   "options": [
+    "SSSR bilan aloqalarni uzib, AQSH bilan yaqinlashgan",
+    "AQSH bilan aloqalarni uzib, SSSR bilan yaqinlashgan",
+    "Betaraflik siyosatini yuritgan",
+    "Isroilga urush e’lon qilgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Anvar Sadat qachon o‘ldirilgan?",
+   "options": [
+    "1981-yil 6-oktyabrda",
+    "1970-yilda",
+    "1985-yilda",
+    "1979-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Anvar Sadatdan keyin Misr prezidenti kim bo‘lgan?",
+   "options": [
+    "Muammar Qazzofiy",
+    "Jamol Abdul Nosir",
+    "Husni Muborak",
+    "Ja’far Nimeyri"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sudan qachon mustaqil bo‘lgan?",
+   "options": [
+    "1969-yilda",
+    "1951-yilda",
+    "1960-yilda",
+    "1956-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sudanda e’lon qilingan tamoyillarni aniqlang.\n1) islom – davlat dini; 2) arab tili – davlat tili; 3) shariat – qonunlar asosi; 4) ingliz tili – davlat tili; 5) dunyoviy davlat.",
+   "options": [
+    "2, 3, 5",
+    "3, 4, 5",
+    "1, 2, 3",
+    "1, 4, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1969-yilda Sudanda Inqilobiy kengashga kim boshchilik qilgan?",
+   "options": [
+    "Muammar Qazzofiy",
+    "Jamol Abdul Nosir",
+    "Polkovnik Ja’far Nimeyri",
+    "Husni Muborak"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ja’far Nimeyri rejimi qachon ag‘darilgan?",
+   "options": [
+    "1985-yilda",
+    "1977-yilda",
+    "1981-yilda",
+    "1990-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Liviya podshohligi qaysi hududlar birlashtirilib tuzilgan?",
+   "options": [
+    "Darfur, Kordofan va Nubiya",
+    "Sinay, Delta va Nil vodiysi",
+    "Mag‘rib, Sahro va Sahel",
+    "Fessan, Kirenaika va Tripolitaniya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Liviya qachon mustaqil davlat deb e’lon qilingan?",
+   "options": [
+    "1949-yilda",
+    "1969-yilda",
+    "1956-yilda",
+    "1951-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1969-yilda Liviyada monarxiyani ag‘dargan “Yosh ofitserlar” rahbari kim?",
+   "options": [
+    "Ja’far Nimeyri",
+    "Jamol Abdul Nosir",
+    "Muammar Qazzofiy",
+    "Habib Burg‘iba"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1977-yilda Liviya qanday nom olgan?",
+   "options": [
+    "Liviya Qirolligi",
+    "Liviya Arab Sotsialistik Xalq Jamahiriyasi",
+    "Liviya Islom Respublikasi",
+    "Liviya Arab Respublikasi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "V Panafrika kongressi qachon va qayerda bo‘lgan?",
+   "options": [
+    "1919-yilda Parijda",
+    "1945-yil oktyabrda Manchesterda",
+    "1900-yilda Londonda",
+    "1960-yilda Akkrada"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Oltin Qirg‘oq mustaqillikdan keyin qanday nom olgan?",
+   "options": [
+    "Togo",
+    "Gvineya",
+    "Fil Suyagi Qirg‘og‘i",
+    "Gana"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fransiya mustamlakalaridan qaysi biri dastlabki bo‘lib mustaqillik e’lon qilgan?",
+   "options": [
+    "Gvineya",
+    "Kamerun",
+    "Mali",
+    "Senegal"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mustaqil Afrika davlatlarida to‘xtovsiz harbiy to‘ntarishlar yuz berishining sababi nima bo‘lgan?",
+   "options": [
+    "Xalqning monarxiyaga intilishi",
+    "Iqtisodiy farovonlik",
+    "Mustamlakachilarning qaytishi",
+    "Samarasiz byurokratik apparat sharoitida armiyaning yagona tartibli kuch bo‘lib qolgani"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Aparteid rejimi qaysi davlatda mavjud bo‘lgan?",
+   "options": [
+    "Nigeriyada",
+    "Keniyada",
+    "Janubiy Afrika Respublikasida",
+    "Misrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "JAR tarixidagi birinchi qora tanli prezident kim?",
+   "options": [
+    "Kvame Nkruma",
+    "Nelson Mandela",
+    "Kofi Annan",
+    "Jomo Keniata"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nelson Mandela qachon prezident bo‘lgan?",
+   "options": [
+    "1985-yilda",
+    "1960-yilda",
+    "1990-yilda",
+    "1994-yilgi saylovlardan so‘ng"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Aparteid rejimining ag‘darilishi Afrika uchun qanday ahamiyatga ega bo‘lgan?",
+   "options": [
+    "Afrikada mustamlakachilik to‘liq yakunlangan",
+    "Afrika davlatlari NATOga kirgan",
+    "Afrikada qashshoqlik butunlay tugagan",
+    "Afrika yagona davlatga birlashgan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Genotsid” nima?",
+   "options": [
+    "Davlat to‘ntarishi",
+    "Irqiy kamsitish siyosati",
+    "Irqi, millati, dini bo‘yicha aholi guruhlarini qirib yuborishga qaratilgan xalqaro jinoyat",
+    "Iqtisodiy sanksiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo‘sh joylarni to‘ldiruvchi javoblarni toping.\nVoqea | Sana\nMisrda “Yosh ofitserlar”ning hokimiyatga kelishi | 1) ________\nSudanning mustaqillikka erishishi | 2) ________\nAnvar Sadatning o‘ldirilishi | 3) ________\na) 1952-yil; b) 1956-yil; c) 1981-yil 6-oktyabr; d) 1954-yil; e) 1969-yil; f) 1994-yil.",
+   "options": [
+    "1-a, 2-e, 3-c",
+    "1-d, 2-b, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-b, 3-f"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o‘rniga mos keladigan javoblarni toping.\nMamlakat | Rahbar\nMisr | A\nLiviya | B\nJAR | C\n1) Jamol Abdul Nosir; 2) Muammar Qazzofiy; 3) Nelson Mandela; 4) Ja’far Nimeyri; 5) Hafiz Asad; 6) Habib Burg‘iba.",
+   "options": [
+    "A-2, B-1, C-3",
+    "A-1, B-4, C-3",
+    "A-5, B-2, C-6",
+    "A-1, B-2, C-3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Shimoliy Afrikaga oid to‘g‘ri hukmlarni aniqlang.\nI. Anvar Sadat SSSR bilan yaqinlashgan.\nII. Liviyada neft va gaz zaxiralari 1950-yilda aniqlangan.\nIII. Liviya podshohligi 1949-yilda tuzilgan.\nIV. Sudan 1956-yilda monarxiya deb e’lon qilingan.",
+   "options": [
+    "II va III",
+    "I va IV",
+    "III va IV",
+    "I va II"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tropik va Janubiy Afrikaga oid to‘g‘ri hukmlarni aniqlang.\nI. 1960-yilda jahon xaritasida 17 ta yangi Afrika davlati paydo bo‘lgan.\nII. Aparteid oq tanlilarning ustunligi g‘oyasiga asoslangan.\nIII. Gvineya Britaniya mustamlakalaridan birinchi bo‘lib mustaqil bo‘lgan.\nIV. V Panafrika kongressi 1960-yilda bo‘lgan.",
+   "options": [
+    "II va IV",
+    "I va II",
+    "I va III",
+    "III va IV"
+   ],
+   "answer": 1
+  }
+ ]
+}

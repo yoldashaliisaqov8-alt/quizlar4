@@ -1,0 +1,376 @@
+{
+ "title": "10-sinf · 11-mavzu. Totalitar va avtoritar diktatura mamlakatlari: yangi urush o‘chog‘ining paydo bo‘lishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "XX asrda qaysi ikki totalitar mafkura asosida totalitar davlatlar vujudga kelgan?",
+   "options": [
+    "Monarxizm va respublikachilik",
+    "Fashizm va bolshevizm",
+    "Liberalizm va konservatizm",
+    "Panislomizm va panturkizm"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Rossiyada monarxiya qaysi inqilob natijasida ag‘darilgan?",
+   "options": [
+    "1917-yilgi Fevral inqilobi",
+    "1905–1907-yillardagi inqilob",
+    "1922-yilgi inqilob",
+    "1917-yil 7-noyabrdagi to‘ntarish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Rossiyada sovet hokimiyati qachon o‘rnatilgan?",
+   "options": [
+    "1917-yil 7-noyabrda",
+    "1922-yil 30-dekabrda",
+    "1918-yil yanvarda",
+    "1917-yil fevralda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1917-yil noyabrda kim boshchiligida Xalq komissarlari soveti tuzilgan?",
+   "options": [
+    "I. Stalin",
+    "A. Kerenskiy",
+    "V. Lenin",
+    "L. Trotskiy"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Rossiyadagi fuqarolar urushi qachongacha davom etgan?",
+   "options": [
+    "1920-yilgacha",
+    "1922-yilgacha",
+    "1925-yilgacha",
+    "1918-yilgacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Turkistonda sovetlarga qarshi qurolli kurash qachongacha davom etgan?",
+   "options": [
+    "1918-yilgacha",
+    "1945-yilgacha",
+    "1922-yilgacha",
+    "1930-yillarning o‘rtalarigacha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Harbiy kommunizm” siyosati qaysi yillarda amal qilgan?",
+   "options": [
+    "1918–1922-yillarda",
+    "1928–1933-yillarda",
+    "1917–1918-yillarda",
+    "1921–1928-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Harbiy kommunizm” nima edi?",
+   "options": [
+    "Bozor iqtisodiyotini qisman tiklash siyosati",
+    "Qishloq xo‘jaligini kollektivlashtirish",
+    "Sanoatni xususiylashtirish",
+    "Fuqarolar urushida g‘alaba uchun barcha resurslarni safarbar qilishning favqulodda tizimi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "SSSR qachon tashkil topgan?",
+   "options": [
+    "1924-yilda",
+    "1917-yil 7-noyabrda",
+    "1918-yil yanvarda",
+    "1922-yil 30-dekabrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "SSSR tarkibiga dastlab kirgan respublikalarni aniqlang.",
+   "options": [
+    "Rossiya, Belorussiya, Turkmaniston, Gruziya",
+    "Rossiya, Ukraina, Belorussiya, Kavkazorti",
+    "Rossiya, Ukraina, O‘zbekiston, Qozog‘iston",
+    "Rossiya, Ukraina, Boltiqbo‘yi, Turkiston"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kavkazorti va O‘rta Osiyoda milliy-hududiy chegaralanish qachon o‘tkazilgan?",
+   "options": [
+    "1924-yilda",
+    "1922-yilda",
+    "1928-yilda",
+    "1936-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "YIS (yangi iqtisodiy siyosat)ning mohiyati nima edi?",
+   "options": [
+    "Xususiy mulkni to‘liq taqiqlash",
+    "Dehqonlarni majburan kolxozlarga birlashtirish",
+    "Bozor iqtisodiyotini qisman tiklash, iqtisodiy manfaatdorlik va xo‘jalik hisobi",
+    "Barcha resurslarni harbiy maqsadlarga safarbar qilish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Birinchi besh yillik qaysi yillarga mo‘ljallangan?",
+   "options": [
+    "1918–1922-yillar",
+    "1933–1937-yillar",
+    "1928–1932-yillar",
+    "1921–1925-yillar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Birinchi besh yillikda nechta yirik korxona qurilgan?",
+   "options": [
+    "1500 ta",
+    "5000 ta",
+    "150 ta",
+    "500 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "SSSRda kollektivlashtirish qaysi yillarda o‘tkazilgan?",
+   "options": [
+    "1937–1941-yillarda",
+    "1928–1933-yillarda",
+    "1918–1922-yillarda",
+    "1921–1925-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1933-yilgi ocharchilikda qancha kishi vafot etgan?",
+   "options": [
+    "7 mln dan ortiq",
+    "1 mln ga yaqin",
+    "13 mln",
+    "500 ming"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ikkinchi besh yillik natijasida SSSR sanoat ishlab chiqarishi bo‘yicha nechanchi o‘ringa chiqqan?",
+   "options": [
+    "To‘rtinchi o‘ringa",
+    "AQSHdan keyin ikkinchi o‘ringa",
+    "Birinchi o‘ringa",
+    "Germaniyadan keyin ikkinchi o‘ringa"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "SSSRda majburiy boshlang‘ich ta’lim qachon joriy qilingan?",
+   "options": [
+    "1918-yilda",
+    "1930-yilda",
+    "1922-yilda",
+    "1937-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Italiyada fashistlar partiyasi qachon va kim boshchiligida tuzilgan?",
+   "options": [
+    "1919-yilda Benito Mussolini boshchiligida",
+    "1923-yilda Adolf Gitler boshchiligida",
+    "1919-yilda Anton Dreksler boshchiligida",
+    "1922-yilda Viktor Emmanuel III boshchiligida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1922-yil oktyabrdagi “Rimga yurish”dan so‘ng nima yuz bergan?",
+   "options": [
+    "Qirol Viktor Emmanuel III Mussolinini hukumat boshlig‘i etib tayinlagan",
+    "Mussolini qamoqqa olingan",
+    "Italiyada monarxiya tugatilgan",
+    "Italiya Millatlar Ligasidan chiqqan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1935–1936-yillarda Italiya mustamlakaga aylantirgan hududlarni aniqlang.",
+   "options": [
+    "Misr, Sudan va Keniya",
+    "Albaniya, Gretsiya va Kipr",
+    "Liviya, Tunis va Jazoir",
+    "Efiopiya, Eritreya va Somalining bir qismi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Italiya Millatlar Ligasidan qachon chiqqan?",
+   "options": [
+    "1939-yilda",
+    "1933-yilda",
+    "1935-yilda",
+    "1937-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Veymar konstitutsiyasi qachon qabul qilingan?",
+   "options": [
+    "1933-yil 30-yanvarda",
+    "1919-yil 31-iyulda",
+    "1923-yil noyabrda",
+    "1918-yil 11-noyabrda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Germaniya natsional-sotsialistik ishchi partiyasiga kim asos solgan?",
+   "options": [
+    "Adolf Gitler",
+    "Anton Dreksler",
+    "Benito Mussolini",
+    "Paul fon Gindenburg"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Pivo isyoni” qachon va qayerda bo‘lgan?",
+   "options": [
+    "1933-yil yanvarda Berlinda",
+    "1922-yil oktyabrda Rimda",
+    "1919-yil iyulda Veymarda",
+    "1923-yil noyabrda Myunxenda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Gitler qachon reyxskansler etib tayinlangan?",
+   "options": [
+    "1935-yilda",
+    "1933-yil 30-yanvarda",
+    "1923-yil noyabrda",
+    "1934-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Gitlerni reyxskansler etib kim tayinlagan?",
+   "options": [
+    "Prezident Paul fon Gindenburg",
+    "Anton Dreksler",
+    "Kaizer Vilgelm II",
+    "Ta’sis majlisi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gitler qachon fyurer bo‘lib olgan?",
+   "options": [
+    "1936-yilda",
+    "1933-yil 30-yanvarda",
+    "1923-yilda",
+    "1934-yilda Gindenburg vafotidan so‘ng"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1936–1939-yillarda Germaniya harbiy xarajatlari necha barobar oshirilgan?",
+   "options": [
+    "50 barobar",
+    "2 barobar",
+    "5 barobar",
+    "10 barobar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Germaniyada umumiy harbiy majburiyat to‘g‘risidagi qonun qachon kuchga kirgan?",
+   "options": [
+    "1933-yilda",
+    "1939-yilda",
+    "1935-yilda",
+    "1937-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yaponiyada shakllangan totalitar tizim qanday shaklga ega bo‘lgan?",
+   "options": [
+    "Avtoritar-monarxistik",
+    "Federativ",
+    "Sotsialistik",
+    "Parlamentar-respublika"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yaponiya og‘ir sanoatida mustahkamlangan konsernlarni aniqlang.",
+   "options": [
+    "“Mitsubisi” va “Sumitomo”",
+    "“Fiat” va “Ansaldo”",
+    "“Ford” va “Jeneral Motors”",
+    "“Krupp” va “Simens”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Antikomintern pakti”ni 1936-yilda qaysi davlatlar imzolagan?",
+   "options": [
+    "Germaniya va SSSR",
+    "Yaponiya va Germaniya",
+    "Germaniya va Italiya",
+    "Italiya va Yaponiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi bo‘sh joylarni to‘ldiruvchi javoblarni toping.\nVoqea | Sana\nSSSRning tashkil topishi | 1) ________\n“Rimga yurish” | 2) ________\nGitlerning reyxskansler etib tayinlanishi | 3) ________\na) 1922-yil 30-dekabr; b) 1922-yil oktyabr; c) 1933-yil 30-yanvar; d) 1917-yil 7-noyabr; e) 1934-yil; f) 1919-yil.",
+   "options": [
+    "1-d, 2-b, 3-c",
+    "1-a, 2-b, 3-e",
+    "1-a, 2-f, 3-c",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o‘rniga mos keladigan javoblarni toping.\nMamlakat | Totalitar rejim yetakchisi yoki tashkiloti\nItaliya | A\nGermaniya | B\nYaponiya | C\n1) Benito Mussolini boshchiligidagi fashistlar partiyasi; 2) Adolf Gitler boshchiligidagi natsional-sotsialistik partiya; 3) avtoritar-monarxistik tizim; 4) Gomindan; 5) Yosh turklar; 6) Hindiston milliy kongressi.",
+   "options": [
+    "A-1, B-2, C-3",
+    "A-2, B-1, C-3",
+    "A-1, B-2, C-4",
+    "A-5, B-2, C-6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "SSSRga oid to‘g‘ri hukmlarni aniqlang.\nI. YIS bozor iqtisodiyotini qisman tiklashga qaratilgan.\nII. Kollektivlashtirish 1918–1922-yillarda o‘tkazilgan.\nIII. Birinchi besh yillikda 1500 ta yirik korxona qurilgan.\nIV. SSSR 1917-yil 7-noyabrda tashkil topgan.",
+   "options": [
+    "I va III",
+    "II va IV",
+    "III va IV",
+    "I va II"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Germaniya va Italiyaga oid to‘g‘ri hukmlarni aniqlang.\nI. Gitler 1919-yildan natsional-sotsialistik partiyaga boshchilik qilgan.\nII. “Pivo isyoni” natsistlarning hokimiyatni muvaffaqiyatli egallashi bilan yakunlangan.\nIII. Italiya 1937-yilda “Antikomintern pakti”ga qo‘shilgan.\nIV. Germaniya Millatlar Ligasidan 1937-yilda chiqqan.",
+   "options": [
+    "II va IV",
+    "I va III",
+    "I va II",
+    "III va IV"
+   ],
+   "answer": 1
+  }
+ ]
+}

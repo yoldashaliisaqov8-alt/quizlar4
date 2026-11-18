@@ -1,0 +1,316 @@
+{
+ "title": "10-sinf · 5-mavzu. Ikki xil Amerika: Shimoliy va Janubiy Amerikada taraqqiyot yo‘nalishlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "AQSHda fuqarolar urushi qachon bo‘lib o‘tgan?",
+   "options": [
+    "1898-yilda",
+    "1861–1865-yillarda",
+    "1812–1815-yillarda",
+    "1775–1783-yillarda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "AQSHdagi fuqarolar urushi o‘z mohiyatiga ko‘ra qanday inqilob bo‘lgan?",
+   "options": [
+    "Burjua-demokratik inqilob",
+    "Diniy inqilob",
+    "Milliy-ozodlik inqilobi",
+    "Sotsialistik inqilob"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fuqarolar urushidan keyin AQSH qishloq xo‘jaligida kapitalizmning qaysi yo‘li qaror topgan?",
+   "options": [
+    "Erkin fermerlikka asoslangan “amerikacha” yo‘l",
+    "Plantatsiya qulchiligi yo‘li",
+    "Pomeshchiklarga asoslangan “prusscha” yo‘l",
+    "Kolxoz yo‘li"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "AQSH sanoatini ishchi kuchi bilan kim ta’minlab turgan?",
+   "options": [
+    "Afrikadan keltirilgan qullar",
+    "Faqat mahalliy hindular",
+    "Yevropa va Osiyodan kelgan millionlab immigrantlar",
+    "Lotin Amerikasidan kelgan mardikorlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "AQSH sanoat mahsuloti hajmi bo‘yicha qachon dunyoda birinchi o‘ringa chiqqan?",
+   "options": [
+    "1901-yilda",
+    "1894-yilda",
+    "1913-yilda",
+    "1865-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1901-yilda AQSH prezidenti bo‘lgan, faoliyatini islohotlar zarurligiga xalqni ishontirishdan boshlagan siyosatchi kim?",
+   "options": [
+    "Avraam Linkoln",
+    "Franklin Ruzvelt",
+    "Teodor Ruzvelt",
+    "Vudro Vilson"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1912-yilgi saylovda g‘olib chiqqan demokrat, tarixchi kim?",
+   "options": [
+    "Uorren Garding",
+    "Uilyam Makkinli",
+    "Teodor Ruzvelt",
+    "Vudro Vilson"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vudro Vilson taklif qilgan siyosiy dastur qanday atalgan?",
+   "options": [
+    "“Yangi erkinlik”",
+    "“Yangi kurs”",
+    "“Adolatli bitim”",
+    "“Buyuk jamiyat”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "AQSH Rossiyadan qaysi hududni sotib olgan?",
+   "options": [
+    "Florida yarimorolini",
+    "Gavayi orollarini",
+    "Alyaska yarimorolini",
+    "Luiziana hududini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "I Panamerika konferensiyasi qachon va qayerda chaqirilgan?",
+   "options": [
+    "1901-yilda Nyu-Yorkda",
+    "1898-yilda Gavanada",
+    "1910-yilda Mexikoda",
+    "1889-yilda Vashingtonda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "I Panamerika konferensiyasida nima tuzilgan?",
+   "options": [
+    "NATO",
+    "Lotin Amerikasi erkin savdo zonasi",
+    "Millatlar Ligasi",
+    "Amerika respublikalari xalqaro assotsiatsiyasi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "AQSH Tinch okeandagi qaysi orollarni bosib olgan?",
+   "options": [
+    "Kanar orollarini",
+    "Azor orollarini",
+    "Falklend orollarini",
+    "Gavayi orollarini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1898-yilgi Ispaniya bilan urush natijasida AQSH ega bo‘lgan hududlarni aniqlang.\n1) Puerto Riko; 2) Guam; 3) Alyaska; 4) Filippin; 5) Meksika.",
+   "options": [
+    "2, 3, 4",
+    "1, 2, 4",
+    "3, 4, 5",
+    "1, 3, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "AQSH madaniyatining asosini kim belgilagan?",
+   "options": [
+    "Fransuzzabon aholi",
+    "Inglizzabon aholi",
+    "Ispanzabon aholi",
+    "Tub amerikaliklar (hindular)"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrning 60–90-yillarida AQSHda ijod qilgan yozuvchilarni aniqlang.",
+   "options": [
+    "Uolt Uitmen va Mark Tven",
+    "Lev Tolstoy va Anton Chexov",
+    "Redyard Kipling va Charlz Dikkens",
+    "Gabriela Mistral va Sezar Valyexo"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Shu davrda AQSH tasviriy san’atida faoliyat yuritganlarni aniqlang.",
+   "options": [
+    "Uinslou Homer, Tomas Ikins, Jeyms Uistler",
+    "Musorgskiy, Chaykovskiy, Rimskiy-Korsakov",
+    "Uolt Uitmen, Mark Tven, Jek London",
+    "Diyego Rivera, Xose Orosko, David Sikeyros"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XX asrdan Amerika madaniyatining o‘ziga xos jihati nima bo‘lgan?",
+   "options": [
+    "Diniy san’atning ustuvorligi",
+    "Saroy madaniyatining rivoji",
+    "Faqat Yevropa madaniyatiga taqlid",
+    "Ommaviy madaniyatning ustuvorligi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XIX asrda Lotin Amerikasiga kapital kiritishda qaysi davlat yetakchi bo‘lgan?",
+   "options": [
+    "Germaniya",
+    "Angliya",
+    "Ispaniya",
+    "AQSH"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Braziliyada qulchilik qachon bekor qilingan?",
+   "options": [
+    "1891-yilda",
+    "1865-yilda",
+    "1888-yilda",
+    "1910-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Braziliya qachon respublika deb e’lon qilingan?",
+   "options": [
+    "1891-yilda",
+    "1822-yilda",
+    "1888-yilda",
+    "1917-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Meksika inqilobi qachon bo‘lgan?",
+   "options": [
+    "1910–1917-yillarda",
+    "1920–1925-yillarda",
+    "1861–1865-yillarda",
+    "1898–1902-yillarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1911-yilda Meksikada hokimiyati ag‘darilgan diktator kim?",
+   "options": [
+    "Sapata",
+    "Madero",
+    "Dias",
+    "Uerta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1913-yil fevralidagi qo‘zg‘olon natijasida Meksikada kim hokimiyatga kelgan?",
+   "options": [
+    "Dias",
+    "General Uerta",
+    "Madero",
+    "Pancho Vilya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "AQSH Meksikaga qachon qo‘shin kiritgan?",
+   "options": [
+    "1913-yilda",
+    "1918-yilda",
+    "1911-yilda",
+    "1916-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "XX asr boshida ijod qilgan Lotin Amerikasi adiblarini aniqlang.",
+   "options": [
+    "Mark Tven, Uolt Uitmen",
+    "Sezar Valyexo, Gabriela Mistral",
+    "Diyego Rivera, Xose Orosko",
+    "Rabindranath Thakur, Lu Sin"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Lotin Amerikasi tasviriy san’atining mashhur vakillarini aniqlang.",
+   "options": [
+    "Diyego Rivera, Xose Orosko, David Sikeyros",
+    "Uinslou Homer, Tomas Ikins, Jeyms Uistler",
+    "Pablo Pikasso, Salvador Dali, Fransisko Goya",
+    "Sezar Valyexo, Gabriela Mistral, Pablo Neruda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Intervensiya” nima?",
+   "options": [
+    "Bir yoki bir necha davlatning boshqa davlat ichki ishlariga zo‘rlik bilan aralashuvi",
+    "Davlatlararo savdo shartnomasi",
+    "Saylov orqali hokimiyatni almashtirish",
+    "Boshqa davlat hududini o‘ziga qo‘shib olish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi bo‘sh joylarni to‘ldiruvchi javoblarni toping.\nVoqea | Sana\nAQSH sanoat mahsuloti bo‘yicha dunyoda birinchi o‘ringa chiqdi | 1) ________\nBraziliyada qulchilik bekor qilindi | 2) ________\nI Panamerika konferensiyasi chaqirildi | 3) ________\na) 1894-yil; b) 1888-yil; c) 1889-yil; d) 1891-yil; e) 1898-yil; f) 1865-yil.",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-a, 2-d, 3-c",
+    "1-a, 2-b, 3-f",
+    "1-e, 2-b, 3-c"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o‘rniga mos keladigan javoblarni toping (Meksika inqilobi).\nShaxs | Taqdiri\nDias | A\nMadero | B\nUerta | C\n1) 1911-yilda hokimiyati ag‘darilgan diktator; 2) 1911-yil oktyabr saylovida g‘olib chiqib, keyin qamalib otib tashlangan; 3) 1913-yil fevralidagi qo‘zg‘olon natijasida hokimiyatga kelgan general; 4) “Yangi erkinlik” dasturini taklif qilgan; 5) AQSH prezidenti; 6) Braziliya prezidenti.",
+   "options": [
+    "A-2, B-1, C-3",
+    "A-1, B-5, C-6",
+    "A-1, B-2, C-3",
+    "A-1, B-2, C-4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "AQSHga oid to‘g‘ri hukmlarni aniqlang.\nI. Fuqarolar urushi qulchilik taqdirini burjuacha ruhda hal qilgan.\nII. AQSH Alyaskani Angliyadan sotib olgan.\nIII. AQSH Gavayi orollarini bosib olgan.\nIV. AQSH 1913-yilda sanoat bo‘yicha dunyoda birinchi o‘ringa chiqqan.",
+   "options": [
+    "III va IV",
+    "I va III",
+    "II va IV",
+    "I va II"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Lotin Amerikasiga oid to‘g‘ri hukmlarni aniqlang.\nI. XIX asr oxirida Lotin Amerikasiga Germaniya va AQSH investorlari faollashgan.\nII. Braziliya 1888-yilda respublika deb e’lon qilingan.\nIII. AQSH Meksikadan qo‘shinlarini 1917-yil fevralda olib chiqqan.\nIV. Lotin Amerikasida siyosiy barqarorlik hukm surgan.",
+   "options": [
+    "II va IV",
+    "I va II",
+    "I va III",
+    "III va IV"
+   ],
+   "answer": 2
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "title": "10-sinf · 23-mavzu. Markaziy va Sharqiy Yevropa mamlakatlari totalitarizm va demokratiya oralig‘ida",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Urushdan keyin Markaziy va Sharqiy Yevropa (MSHY) mamlakatlarida qanday hukumatlar tuzilgan?",
+   "options": [
+    "Fashistik hukumatlar",
+    "Harbiy xuntalar",
+    "Koalitsion hukumatlar",
+    "Monarxistik hukumatlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "MSHYda turli siyosiy kuchlar o‘rtasidagi kurashning hal qiluvchi yillari qaysilar?",
+   "options": [
+    "1956–1957-yillar",
+    "1945–1946-yillar",
+    "1947–1948-yillar",
+    "1968–1969-yillar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Polshada faoliyat yuritgan antikommunistik qurolli kuchlar kimlar edi?",
+   "options": [
+    "“Birdamlik” a’zolari",
+    "Gretsiya demokratik armiyasi",
+    "Sobiq Krayova armiyasi (Vatan armiyasi) tarafdorlari",
+    "Vermaxt qoldiqlari"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chexoslovakiyada tub burilish qachon yuz bergan?",
+   "options": [
+    "1968-yil avgustda",
+    "1956-yil oktyabrda",
+    "1945-yil mayda",
+    "1948-yil fevralda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chexoslovakiyada hokimiyat kommunistlarga qanday yo‘l bilan o‘tgan?",
+   "options": [
+    "Qurolli qo‘zg‘olon orqali",
+    "Sovet qo‘shinlari kiritilishi orqali",
+    "Tinch yo‘l bilan – burjua partiyalari vakillari iste’foga chiqqan",
+    "Fuqarolar urushi orqali"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Klement Gotvald qachon Chexoslovakiya prezidenti etib saylangan?",
+   "options": [
+    "1950-yilda",
+    "1948-yil iyunda",
+    "1948-yil fevralda",
+    "1945-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1949-yilga kelib kommunistik partiyalar to‘liq hokimiyatni egallagan davlatlarni aniqlang.\n1) Albaniya; 2) Bolgariya; 3) Gretsiya; 4) Vengriya; 5) Polsha; 6) Avstriya.",
+   "options": [
+    "1, 2, 3, 6",
+    "2, 3, 5, 6",
+    "1, 2, 4, 5",
+    "1, 3, 4, 6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi ikki mamlakatda kommunistlar g‘alabasida sovet qo‘shinlarining joylashuvi rol o‘ynamagan?",
+   "options": [
+    "Bolgariya va Ruminiya",
+    "Chexoslovakiya va GDR",
+    "Polsha va Vengriya",
+    "Albaniya va Yugoslaviya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1940-yillar oxirida MSHYda o‘rnatilgan tuzum dastlab qanday atalgan?",
+   "options": [
+    "“Xalq-demokratik”",
+    "“Rivojlangan sotsializm”",
+    "“Liberal-demokratik”",
+    "“Sotsialistik”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qaysi MSHY davlatlarida bittadan partiya faoliyat yuritgan?",
+   "options": [
+    "Albaniya, Polsha, GDR, Bolgariya",
+    "Albaniya, Vengriya, Ruminiya, Yugoslaviya",
+    "Polsha, Chexoslovakiya, Bolgariya, GDR",
+    "Vengriya, Chexoslovakiya, Polsha, Ruminiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1956-yilda SSSRda Stalin shaxsiga sig‘inishning qoralanishi Sharqiy Yevropada nimaga olib kelgan?",
+   "options": [
+    "NATOga a’zo bo‘lishga",
+    "Varshava shartnomasining tarqatilishiga",
+    "Kommunistik partiyalarning taqiqlanishiga",
+    "Stalin davrida hokimiyatga kelgan rahbarlarning almashinishiga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Poznanda ishchilar nimaga qarshi ish tashlagan?",
+   "options": [
+    "Xususiylashtirishga",
+    "Sovet qo‘shinlarining olib chiqilishiga",
+    "Ish me’yorlarining oshirilishi va ish haqining pasaytirilishiga",
+    "Ko‘ppartiyaviylikka"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1956-yilda Vengriyada ko‘ppartiyaviylikka o‘tishga harakat qilgan hukumat rahbari kim?",
+   "options": [
+    "Aleksandr Dubchek",
+    "Yanosh Kadar",
+    "Imre Nad",
+    "Klement Gotvald"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1956-yilgi Vengriya qo‘zg‘olonining asosiy janglari qayerda bo‘lgan?",
+   "options": [
+    "Budapeshtda",
+    "Buxarestda",
+    "Pragada",
+    "Varshavada"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Imre Nad va uning safdoshlarining taqdiri qanday bo‘lgan?",
+   "options": [
+    "Hokimiyatda qolgan",
+    "Sud qilinib, o‘lim jazosiga hukm qilingan",
+    "G‘arbga qochib ketgan",
+    "Moskvaga elchi etib yuborilgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Praga bahori” qaysi mamlakatda yuz bergan?",
+   "options": [
+    "Vengriyada",
+    "Polshada",
+    "Chexoslovakiyada",
+    "GDRda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Praga bahori”ni bostirish uchun nima qilingan?",
+   "options": [
+    "BMT tinchlikparvar kuchlari yuborilgan",
+    "Iqtisodiy blokada e’lon qilingan",
+    "NATO qo‘shinlari kiritilgan",
+    "Varshava shartnomasi davlatlari qo‘shinlari Chexoslovakiyaga kiritilgan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Praga bahori”da Moskvaga olib ketilgan CHKP rahbari kim?",
+   "options": [
+    "N. Chaushesku",
+    "A. Dubchek",
+    "K. Gotvald",
+    "I. Nad"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1970-yillarning birinchi yarmida MSHYda sanoat ishlab chiqarishi yiliga qancha o‘sgan?",
+   "options": [
+    "15–20%",
+    "1–2%",
+    "6–8%",
+    "30%"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Polshada ishchilar tuzgan mustaqil kasaba uyushmasi qanday atalgan?",
+   "options": [
+    "“Ozodlik”",
+    "“Kapitanlar harakati”",
+    "“Birdamlik”",
+    "“Vatan”"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Birdamlik” vakillari Polshada qachon hokimiyatga kelgan?",
+   "options": [
+    "1980-yilda",
+    "1956-yilda",
+    "1991-yilda",
+    "1989-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Vengriya Xalq Respublikasi qachon Vengriya Respublikasi deb o‘zgartirilgan?",
+   "options": [
+    "1989-yilda",
+    "1991-yilda",
+    "1990-yilda",
+    "1956-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Bolgariyada muxolifat qachon hokimiyatga kelgan?",
+   "options": [
+    "1992-yilda",
+    "1989-yilda",
+    "1990-yilda",
+    "1991-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qaysi mamlakatda kommunistik rejim qo‘zg‘olon va harbiy to‘qnashuv natijasida qulagan?",
+   "options": [
+    "Polshada",
+    "Chexoslovakiyada",
+    "Ruminiyada",
+    "Vengriyada"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ruminiyada sud hukmi bilan otib tashlangan diktator kim?",
+   "options": [
+    "Erix Xonekker",
+    "Enver Xo‘ja",
+    "Nikolae Chaushesku",
+    "Todor Jivkov"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1992-yilda Albaniya prezidenti etib saylangan arbob kim?",
+   "options": [
+    "Imre Nad",
+    "Ramiz Aliya",
+    "Sali Berisha",
+    "Enver Xo‘ja"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "O‘zaro iqtisodiy yordam kengashi va Varshava shartnomasi tashkiloti qachon tarqalib ketgan?",
+   "options": [
+    "1989-yilda",
+    "1990-yilda",
+    "1991-yilda",
+    "1995-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo‘sh joylarni to‘ldiruvchi javoblarni toping.\nVoqea | Sana\nChexoslovakiyada tub burilish | 1) ________\n“Birdamlik”ning hokimiyatga kelishi | 2) ________\nO‘IYK va Varshava shartnomasining tarqalishi | 3) ________\na) 1948-yil fevral; b) 1989-yil; c) 1991-yil; d) 1956-yil; e) 1968-yil; f) 1990-yil.",
+   "options": [
+    "1-a, 2-e, 3-c",
+    "1-a, 2-b, 3-f",
+    "1-a, 2-b, 3-c",
+    "1-d, 2-b, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o‘rniga mos keladigan javoblarni toping.\nMamlakat | Voqea yoki shaxs\nVengriya | A\nChexoslovakiya | B\nRuminiya | C\n1) 1956-yilda Imre Nad hukumatining ko‘ppartiyaviylikka intilishi; 2) “Praga bahori” va A. Dubchek; 3) N. Chaushesku rejimining qo‘zg‘olon natijasida qulashi; 4) “Birdamlik” kasaba uyushmasi; 5) Sali Berisha prezidentligi; 6) Krayova armiyasi.",
+   "options": [
+    "A-6, B-2, C-5",
+    "A-1, B-2, C-3",
+    "A-1, B-2, C-4",
+    "A-2, B-1, C-3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "MSHY mamlakatlariga oid to‘g‘ri hukmlarni aniqlang.\nI. Albaniya va Yugoslaviyada kommunistlar g‘alabasida sovet qo‘shinlari hal qiluvchi rol o‘ynagan.\nII. GDR 1949-yil oktyabrda tashkil topgan.\nIII. MSHYdagi tuzum keyinchalik “sotsialistik” deb atala boshlagan.\nIV. Polshada barcha partiyalar taqiqlanib, faqat bitta partiya qolgan.",
+   "options": [
+    "I va II",
+    "III va IV",
+    "I va IV",
+    "II va III"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sharqiy Yevropadagi o‘zgarishlarga oid to‘g‘ri hukmlarni aniqlang.\nI. Vengriya qo‘zg‘oloni Imre Nad g‘alabasi bilan yakunlangan.\nII. Ruminiyada kommunistik rejim tinch yo‘l bilan almashgan.\nIII. Bolgariyada muxolifat 1991-yilda hokimiyatga kelgan.\nIV. Albaniya demokratik partiyasi antikommunistik kayfiyat ifodachisi bo‘lgan.",
+   "options": [
+    "II va IV",
+    "I va III",
+    "I va II",
+    "III va IV"
+   ],
+   "answer": 3
+  }
+ ]
+}

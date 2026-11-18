@@ -1,0 +1,296 @@
+{
+ "title": "10-sinf · 8-mavzu. Afrika mamlakatlarida mustamlakachilik va taraqqiyot muammolari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Yangi davrning eng sharmandali hodisalaridan biri nima bo‘lgan?",
+   "options": [
+    "Qulchilik va qul savdosi",
+    "Feodal tarqoqlik",
+    "Sanoat to‘ntarishi",
+    "Diniy urushlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qul savdosi Buyuk Britaniya, Fransiya, AQSH kabi davlatlarda rasman qachon taqiqlangan?",
+   "options": [
+    "XX asr boshida",
+    "XIX asrning birinchi yarmida",
+    "XVIII asr boshida",
+    "XVII asrda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Qul savdosini qaysi konferensiya taqiqlagan?",
+   "options": [
+    "1884–1885-yillardagi Berlin konferensiyasi",
+    "1919-yilgi Parij konferensiyasi",
+    "1889–1890-yillardagi Bryussel konferensiyasi",
+    "1889-yilgi Vashington konferensiyasi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Gullab-yashnashi qul savdosi bilan bog‘liq bo‘lgan shaharlarni aniqlang.\n1) Liverpul; 2) Nant; 3) Bristol; 4) Tokio; 5) Amsterdam; 6) Pekin.",
+   "options": [
+    "1, 4, 5, 6",
+    "1, 2, 4, 6",
+    "2, 3, 4, 6",
+    "1, 2, 3, 5"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qariyb to‘rt asr ichida yevropaliklar Amerikaga qancha qul olib kelgan?",
+   "options": [
+    "100 million",
+    "15–16 million",
+    "1–2 million",
+    "60–70 million"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Atlantika okeani orqali qul savdosida taxminan qancha kishi halok bo‘lgan?",
+   "options": [
+    "15–16 million",
+    "5 million",
+    "60–70 million",
+    "200 million"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qul savdosi qachongacha davom etgan?",
+   "options": [
+    "XVIII asr oxirigacha",
+    "XX asr o‘rtalarigacha",
+    "XVII asr boshigacha",
+    "XIX asrning 70-yillarigacha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qul savdosining Afrika uchun eng og‘ir oqibatlaridan biri nima bo‘lgan?",
+   "options": [
+    "Afrikada sanoatning tez rivojlanishi",
+    "Afrika aholisining keskin ko‘payishi",
+    "Afrika davlatlarining birlashuvi",
+    "Inson hayotining qadrsizlanishi, rasizm mafkurasining shakllanishi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Qulchilikning eng g‘ayriinsoniy ko‘rinishi sifatida qanday mafkura shakllangan?",
+   "options": [
+    "Rasizm (irqchilik)",
+    "Liberalizm",
+    "Panislomizm",
+    "Sotsializm"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ko‘p avlodlar haqida bexabar qolgan o‘ziga xos Afrika sivilizatsiyalarini aniqlang.",
+   "options": [
+    "Shumer, Akkad, Bobil, Ossuriya",
+    "Gana, Songay, Benin, Monomotapa",
+    "Xarappa, Mohenjodaro, Magadha, Kushon",
+    "Maya, Atstek, Inka, Olmek"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Berlin konferensiyasi qachon bo‘lib o‘tgan?",
+   "options": [
+    "1900-yilda",
+    "1878-yilda",
+    "1884–1885-yillarda",
+    "1889–1890-yillarda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Berlin konferensiyasi kimlarning tashabbusi bilan chaqirilgan?",
+   "options": [
+    "AQSH va Turkiya",
+    "Angliya va Rossiya",
+    "Belgiya va Portugaliya",
+    "Germaniya va Fransiya"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Berlin konferensiyasida kimlar qatnashgan?",
+   "options": [
+    "Faqat Angliya, Fransiya va Germaniya",
+    "12 ta Yevropa davlati hamda AQSH va Turkiya",
+    "38 ta davlat",
+    "Barcha Afrika davlatlari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Berlin konferensiyasi “Qora qit’a” taqdiriga bag‘ishlangan qanday yig‘ilish bo‘lgan?",
+   "options": [
+    "Birinchi maxsus yig‘ilish",
+    "Oxirgi yig‘ilish",
+    "Qul savdosini qo‘llab-quvvatlovchi yig‘ilish",
+    "Afrikaliklar chaqirgan yig‘ilish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Berlin konferensiyasida Afrikaga qanday qaralgan?",
+   "options": [
+    "Xalqaro vasiylikdagi hudud sifatida",
+    "Yevropa davlatlari mustamlakachilik va iqtisodiy ekspansiyasining obyekti sifatida",
+    "Teng huquqli hamkor sifatida",
+    "Mustaqil davlatlar ittifoqi sifatida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1876-yilgacha Yevropa davlatlari Afrikaning qancha qismini egallagan edi?",
+   "options": [
+    "9/10 qismini",
+    "10% ini",
+    "1/3 qismini",
+    "50% ini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1900-yilga kelib Afrikaning qancha qismi mustamlakachilar qo‘liga o‘tgan?",
+   "options": [
+    "Yarmi",
+    "9/10 qismi",
+    "10% i",
+    "1/3 qismi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Buyuk Britaniya egallagan hududlarda Afrika aholisining qancha qismi yashagan?",
+   "options": [
+    "10% i",
+    "9/10 qismi",
+    "Qariyb yarmi",
+    "Qariyb uchdan bir qismi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fransiya mustamlakalarida Afrika aholisining qancha qismi yashagan?",
+   "options": [
+    "To‘rtdan uch qismi",
+    "Qariyb uchdan bir qismi",
+    "10% i",
+    "Qariyb yarmi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Fransiya mustamlakalarining asosiy qismi qayerda joylashgan?",
+   "options": [
+    "Sharqiy Afrikada",
+    "Janubiy Afrikada",
+    "Madagaskar orolida",
+    "G‘arbiy va Ekvatorial Afrikada"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Afrikaning qolgan hududlari qaysi davlatlar o‘rtasida taqsimlangan?\n1) Belgiya; 2) Portugaliya; 3) Rossiya; 4) Ispaniya; 5) Germaniya; 6) AQSH; 7) Italiya.",
+   "options": [
+    "1, 2, 4, 5, 7",
+    "1, 2, 3, 5, 6",
+    "2, 3, 5, 6, 7",
+    "1, 3, 4, 6, 7"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Berlin konferensiyasini “katta miqyosdagi va surbetlarcha qilingan talonchilik” deb baholagan Tropik Afrika gazetasi qaysi?",
+   "options": [
+    "“Tarjimon”",
+    "“Tayms”",
+    "“Le Monde”",
+    "“Lagos observer”"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mustamlakachilikka qarshi kurashda jasorati bilan mashhur bo‘lgan Afrika rahnamolarini aniqlang.",
+   "options": [
+    "Samori, Behanzin, Raboh, Muhammad ibn Abdulla",
+    "Sun Yatsen, Gandi, Neru, Jinna",
+    "Anvar, Tal’at, Jamol, Midhat",
+    "Dias, Madero, Uerta, Vilya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Tropik Afrikada milliy mafkura shakllanishida kim katta rol o‘ynagan?",
+   "options": [
+    "Yangi o‘qimishli ijtimoiy qatlam (kichik amaldorlar, o‘qituvchilar, shifokorlar, yuristlar)",
+    "Arab savdogarlari",
+    "Yevropalik mustamlakachilar",
+    "Qul savdogarlari"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Afrikani bo‘lib olish jarayoni qachon yakunlangan?",
+   "options": [
+    "Birinchi jahon urushi arafasida",
+    "XIX asr o‘rtalarida",
+    "Berlin konferensiyasida",
+    "Ikkinchi jahon urushidan keyin"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi bo‘sh joylarni to‘ldiruvchi javoblarni toping.\nMa’lumot | Javob\nAmerikaga olib kelingan qullar soni | 1) ________\nAtlantika orqali qul savdosida halok bo‘lganlar | 2) ________\n1900-yilga kelib Afrikaning egallangan qismi | 3) ________\na) 15–16 million; b) 60–70 million; c) 9/10 qismi; d) 10%; e) 400 million; f) 1/3 qismi.",
+   "options": [
+    "1-a, 2-b, 3-c",
+    "1-b, 2-a, 3-c",
+    "1-e, 2-b, 3-f",
+    "1-a, 2-b, 3-d"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o‘rniga mos keladigan javoblarni toping.\nKonferensiya | Natijasi\nBryussel konferensiyasi (1889–1890) | A\nBerlin konferensiyasi (1884–1885) | B\nI Panamerika konferensiyasi (1889) | C\n1) qul savdosini taqiqladi; 2) Afrika taqdirini muhokama qilgan birinchi maxsus yig‘ilish bo‘ldi; 3) Amerika respublikalari xalqaro assotsiatsiyasi tuzildi; 4) Birinchi jahon urushini yakunladi; 5) Antanta tuzildi; 6) Uchlar ittifoqi tuzildi.",
+   "options": [
+    "A-1, B-5, C-6",
+    "A-2, B-1, C-3",
+    "A-1, B-2, C-3",
+    "A-1, B-2, C-4"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Afrikaning bo‘lib olinishiga oid to‘g‘ri hukmlarni aniqlang.\nI. 1876-yilgacha Afrikaning 9/10 qismi egallangan edi.\nII. Fransiya mustamlakalarining ancha qismi Sahroyi Kabirga to‘g‘ri kelgan.\nIII. Berlin konferensiyasida faqat Afrika davlatlari qatnashgan.\nIV. Buyuk Britaniya qit’aning katta qismini bosib olgan.",
+   "options": [
+    "II va IV",
+    "III va IV",
+    "I va III",
+    "I va II"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Qul savdosiga oid to‘g‘ri hukmlarni aniqlang.\nI. Qul savdosi Yevropa va Amerika mamlakatlarining iqtisodiy gullab-yashnashiga xizmat qilgan.\nII. Qul savdosi XVII asrda butunlay to‘xtagan.\nIII. Qul savdosi Afrika xalqlari haqida g‘ayriilmiy konsepsiyalarni keltirib chiqargan.\nIV. Bryussel konferensiyasi qul savdosini rag‘batlantirgan.",
+   "options": [
+    "I va III",
+    "II va IV",
+    "III va IV",
+    "I va II"
+   ],
+   "answer": 0
+  }
+ ]
+}

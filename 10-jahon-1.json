@@ -1,0 +1,306 @@
+{
+ "title": "10-sinf · 1-mavzu. Industrial sivilizatsiyaning qaror topishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "XVIII asr oxirida boshlangan sanoat to‘ntarishi nimaning rivojini belgilab berdi?",
+   "options": [
+    "Faqat harbiy sanoatning",
+    "Faqat sanoatning emas, qishloq xo‘jaligining ham",
+    "Faqat savdo va bank ishining",
+    "Faqat og‘ir sanoatning"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Sanoat to‘ntarishi yo‘lidan birinchi bo‘lib qaysi mamlakat borgan?",
+   "options": [
+    "Angliya",
+    "AQSH",
+    "Fransiya",
+    "Germaniya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Sanoat to‘ntarishi yo‘lidan borgan mamlakatlarning to‘g‘ri tartibini aniqlang.",
+   "options": [
+    "Germaniya → Angliya → Fransiya, AQSH",
+    "AQSH → Angliya → Fransiya, Germaniya",
+    "Angliya → Fransiya → AQSH, Germaniya",
+    "Fransiya → Angliya → Germaniya, AQSH"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Industrial sivilizatsiyaning bosh qadriyatlari nimalar edi?",
+   "options": [
+    "Harbiy qudrat va mustamlakalar",
+    "Yer egaligi va dehqonchilik",
+    "Texnik taraqqiyot va inson erkinligi",
+    "Diniy an’analar va jamoaviylik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Industrial sivilizatsiya qachon va qayerda uzil-kesil qaror topgan?",
+   "options": [
+    "XVIII asrda Osiyo va Afrikada",
+    "XIX asrda Yevropa va AQSHda",
+    "XVII asrda faqat Angliyada",
+    "XX asrda Lotin Amerikasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1870-yillarda qilingan kashfiyotlarni aniqlang.\n1) elektrdvigatel; 2) bug‘ mashinasi; 3) elektrlampa; 4) telefon; 5) parovoz; 6) teleskop.",
+   "options": [
+    "1, 3, 4",
+    "1, 5, 6",
+    "2, 3, 5",
+    "2, 4, 6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1880-yillar – 1890-yillar boshida qanday imkoniyat paydo bo‘lgan?",
+   "options": [
+    "Kosmosga sun’iy yo‘ldosh uchirish",
+    "Atom energiyasidan foydalanish",
+    "Kompyuter orqali axborot uzatish",
+    "Elektr energiyasini simlar orqali uzoq masofaga yetkazish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Benzinda ishlaydigan ichki yonuv dvigatellari yaratilgach, nimalar paydo bo‘lgan?",
+   "options": [
+    "Dastlabki suv tegirmonlari",
+    "Dastlabki telegraf va telefon",
+    "Dastlabki avtomobillar, keyinroq samolyotlar",
+    "Dastlabki paroxodlar va parovozlar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "XIX asr oxirida paydo bo‘lgan yangi sanoat sohalarini aniqlang.",
+   "options": [
+    "Metallurgiya va ko‘mir qazish",
+    "To‘qimachilik va kulolchilik",
+    "Kemasozlik va yog‘och ishlash",
+    "Elektrotexnika va kimyo sanoati"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Po‘lat eritishning yangi usullarini kimlar joriy etgan?",
+   "options": [
+    "Ingliz Sidney Tomas va fransuz Pyer Marten",
+    "Nemis Verner Simens va ingliz Sidney Tomas",
+    "Amerikalik Tomas Edison va ingliz Henri Bessemer",
+    "Fransuz Pyer Marten va ingliz Henri Bessemer"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ingliz metallurgi Sidney Tomas kashf etgan usul nima edi?",
+   "options": [
+    "Po‘latni elektr pechida eritish usuli",
+    "Ko‘mirdan koks olish usuli",
+    "Alyuminiy olish usuli",
+    "Suyuq cho‘yanni tozalash usuli"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Sidney Tomas usuli qanday imkoniyat yaratgan?",
+   "options": [
+    "Neftdan benzin ajratib olish",
+    "Mis rudalarini eritish",
+    "Oltin rudalarini boyitish",
+    "Fosfatlarga boy temir rudalaridan foydalanish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1870–1900-yillarda jahonda po‘lat ishlab chiqarish necha barobar o‘sgan?",
+   "options": [
+    "100 barobar",
+    "25 barobar",
+    "56 barobar",
+    "10 barobar"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Sanoatda qaysi davr o‘rniga po‘lat davri boshlangan?",
+   "options": [
+    "Temir davri",
+    "Bronza davri",
+    "Tosh davri",
+    "Mis davri"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Katta mablag‘larni bir joyga to‘plash uchun qanday tashkilotlar tuzilgan?",
+   "options": [
+    "Dehqon jamoalari",
+    "Aksionerlik kompaniyalari",
+    "Savdo gildiyalari",
+    "Hunarmandlar sexlari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Aksionerlik kompaniyalari natijasida paydo bo‘lgan, XX asr boshida iqtisodiy va siyosiy yetakchilikni qo‘lga olgan qatlam qanday atalgan?",
+   "options": [
+    "Ruhoniylar",
+    "Zodagonlar",
+    "Moliya oligarxiyasi",
+    "Ishchilar sinfi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Industrial davrda absolyut monarxiyalar o‘rnini nima egallagan?",
+   "options": [
+    "Feodal knyazliklar",
+    "Harbiy diktaturalar",
+    "Teokratik davlatlar",
+    "Cheklangan (konstitutsion) monarxiyalar va respublikalar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Huquqiy davlatning belgilarini aniqlang.\n1) qonunchilik, ijro va sud hokimiyatlari ajratilgan; 2) barcha hokimiyat monarx qo‘lida; 3) shaxs huquqi kafolatlangan; 4) fuqarolarning qonun oldida tengligi; 5) davlat dini majburiy.",
+   "options": [
+    "2, 3, 4",
+    "1, 3, 4",
+    "1, 2, 5",
+    "3, 4, 5"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Ilm-fanni ishlab chiqaruvchi kuchga aylantirish jarayoni XX asrda nimaga olib kelgan?",
+   "options": [
+    "Sanoat to‘ntarishiga",
+    "Agrar inqirozga",
+    "Ilmiy-texnik inqilobga",
+    "Neolit inqilobiga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ilm-fan yutuqlari natijasida din va ta’lim sohasida qanday o‘zgarish yuz bergan?",
+   "options": [
+    "Diniy muassasalar davlatdan, ta’lim dindan ajratildi",
+    "Din davlat mafkurasiga aylandi",
+    "Dunyoviy maktablar yopildi",
+    "Ta’lim to‘liq diniy muassasalarga topshirildi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Industrial davlatlarning tashqi siyosatida nima kuzatilgan?",
+   "options": [
+    "Mustamlakalarga mustaqillik berish",
+    "Faqat Yevropa ichida savdo qilish",
+    "Mustamlaka imperiyalarini yaratib, Osiyo, Afrika va Lotin Amerikasini bo‘lib olishga intilish",
+    "Boshqa davlatlar ishlariga aralashmaslik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi davr insonining asosiy qadriyatlari nima bo‘lib qolgan?",
+   "options": [
+    "Itoatkorlik va an’anaga sodiqlik",
+    "Urug‘-aymoq birligi",
+    "Boylik va hokimiyat",
+    "Ozodlik va shaxsiy erkinlik"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Industrial sivilizatsiyaning asosiy belgilarini aniqlang.\n1) bozor munosabatlari; 2) huquqiy davlat; 3) natural xo‘jalik; 4) inson huquqlari; 5) diniy bag‘rikenglik; 6) kasta tizimi.",
+   "options": [
+    "1, 3, 4, 6",
+    "1, 2, 3, 6",
+    "1, 2, 4, 5",
+    "2, 3, 5, 6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Sekulyarlik” nima?",
+   "options": [
+    "Mustamlakalarni boshqarish usuli",
+    "Davlat dinini majburiy qilish siyosati",
+    "Ishlab chiqarishni davlatlashtirish",
+    "Hukumat va huquq manbalari dinning har qanday turidan alohida bo‘lishi kerakligi haqidagi tushuncha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Huquqiy davlat odamlar hayotiga olib kelgan o‘zgarishni aniqlang.",
+   "options": [
+    "Siyosiy partiyalar taqiqlandi",
+    "Vijdon erkinligi e’lon qilindi va kafolatlandi",
+    "Feodal qaramlik kuchaydi",
+    "Ayollar saylov huquqidan mahrum etildi"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1895-yilda yuk lokomotivini ishlab chiqqan muhandis kim?",
+   "options": [
+    "Henri Bessemer",
+    "V. I. Lopushinskiy",
+    "Pyer Marten",
+    "Sidney Tomas"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi bo‘sh joylarni to‘ldiruvchi javoblarni toping.\nIxtirochi | Kashfiyoti\nPyer Marten, Henri Bessemer | 1) ________\nSidney Tomas | 2) ________\nV. I. Lopushinskiy | 3) ________\na) po‘lat eritishning yangi usullari; b) suyuq cho‘yanni tozalash usuli; c) yuk lokomotivi (1895-yil); d) elektrlampa; e) telefon; f) radio.",
+   "options": [
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-d",
+    "1-e, 2-b, 3-c",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o‘rniga mos keladigan javoblarni toping.\nDavr | Yangilik\n1870-yillar | A\n1880-yillar – 1890-yillar boshi | B\n1870–1900-yillar | C\n1) elektrdvigatel, elektrlampa, telefon kashf etildi; 2) elektr energiyasini simlar orqali uzoq masofaga yetkazish imkoniyati paydo bo‘ldi; 3) po‘lat ishlab chiqarish 56 barobar o‘sdi; 4) sanoat to‘ntarishi boshlandi; 5) ilmiy-texnik inqilob boshlandi; 6) dastlabki bug‘ mashinasi yaratildi.",
+   "options": [
+    "A-1, B-5, C-3",
+    "A-2, B-1, C-3",
+    "A-1, B-2, C-4",
+    "A-1, B-2, C-3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Industrial sivilizatsiyaga oid to‘g‘ri hukmlarni aniqlang.\nI. Industrial sivilizatsiya XIX asrda Yevropa va AQSHda qaror topgan.\nII. Sanoat to‘ntarishi yo‘lidan birinchi bo‘lib Germaniya borgan.\nIII. Aksionerlik kompaniyalari katta mablag‘larni bir joyga to‘plash uchun tuzilgan.\nIV. 1870–1900-yillarda po‘lat ishlab chiqarish ikki barobar kamaygan.",
+   "options": [
+    "III va IV",
+    "II va IV",
+    "I va III",
+    "I va II"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yangi davr jamiyatiga oid to‘g‘ri hukmlarni aniqlang.\nI. Absolyut monarxiyalar konstitutsion monarxiyalar va respublikalar bilan almashgan.\nII. Huquqiy davlatda barcha hokimiyat bir shaxs qo‘lida jamlangan.\nIII. Ko‘plab mamlakatlarda dunyoviy ta’lim yo‘lga qo‘yilgan.\nIV. Industrial davlatlar mustamlakalardan voz kechgan.",
+   "options": [
+    "II va IV",
+    "III va IV",
+    "I va III",
+    "I va II"
+   ],
+   "answer": 2
+  }
+ ]
+}

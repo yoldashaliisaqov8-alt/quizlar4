@@ -1,0 +1,326 @@
+{
+ "title": "10-sinf · 24-mavzu. Osiyo, Afrika va Lotin Amerikasi mamlakatlari rivojlanishining asosiy yo‘nalishlari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Oy yuzasiga qadam qo‘ygan birinchi odam kim?",
+   "options": [
+    "Sovet kosmonavti Aleksey Leonov",
+    "Amerikalik astronavt Nil Armstrong",
+    "Sovet kosmonavti Yuriy Gagarin",
+    "Amerikalik astronavt Jon Glenn"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Nil Armstrong Oy yuzasiga qachon qadam qo‘ygan?",
+   "options": [
+    "1957-yil 4-oktyabrda",
+    "1961-yil 12-aprelda",
+    "1969-yil 21-iyulda",
+    "1972-yil dekabrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Nil Armstrong qaysi kemada Oyga uchgan?",
+   "options": [
+    "“Vostok-1”",
+    "“Apollon-11”",
+    "“Soyuz-11”",
+    "“Jemini-4”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Bu – inson uchun kichik bir qadam, lekin butun insoniyat uchun ulkan sakrash” so‘zlari kimga tegishli?",
+   "options": [
+    "Jon Kennediga",
+    "Martin Lyuter Kingga",
+    "Nil Armstrongga",
+    "Yuriy Gagaringa"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Aparteid” nima?",
+   "options": [
+    "Xalqlarning o‘z taqdirini o‘zi belgilash huquqi",
+    "Aholi guruhlarini irqiy mansubligiga qarab huquqlardan mahrum etish",
+    "Mustamlakalarga mustaqillik berish",
+    "Diniy bag‘rikenglik siyosati"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Xalqaro huquqda aparteid qanday baholanadi?",
+   "options": [
+    "Insoniyatga qarshi jinoyat",
+    "Ma’muriy huquqbuzarlik",
+    "Ichki ish",
+    "Qonuniy siyosat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Milliy-ozodlik harakatini Malayyada shafqatsizlarcha bostirgan mustamlakachi davlat qaysi?",
+   "options": [
+    "Niderlandiya",
+    "Portugaliya",
+    "Buyuk Britaniya",
+    "Fransiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fransiya milliy-ozodlik harakatlarini qayerlarda shafqatsizlarcha bostirgan?",
+   "options": [
+    "Angola va Mozambikda",
+    "Indoneziya va Filippinda",
+    "Malayya va Hindistonda",
+    "Hindixitoy va Jazoirda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Portugaliya milliy-ozodlik harakatlarini qayerlarda bostirgan?",
+   "options": [
+    "Malayya va Keniyada",
+    "Hindixitoy va Jazoirda",
+    "Angola va Mozambikda",
+    "Kongo va Ruandada"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Qaysi yil tarixga “Afrika yili” sifatida kirgan?",
+   "options": [
+    "1955-yil",
+    "1947-yil",
+    "1975-yil",
+    "1960-yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1960-yilda Afrikadagi nechta mustamlaka mustaqilligini e’lon qilgan?",
+   "options": [
+    "30 ta",
+    "7 ta",
+    "50 ta",
+    "17 ta"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Tarixdagi oxirgi mustamlakachi imperiya qaysi?",
+   "options": [
+    "Portugaliya",
+    "Buyuk Britaniya",
+    "Fransiya",
+    "Ispaniya"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Portugaliya mustamlakachi imperiyasi qachon qulagan?",
+   "options": [
+    "1986-yilda",
+    "1975-yilda",
+    "1962-yilda",
+    "1960-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yangi mustaqil davlatlarda ko‘plab mojarolarga nima sabab bo‘lgan?",
+   "options": [
+    "Aholining kamligi",
+    "Tabiiy resurslarning ko‘pligi",
+    "Yagona tilning mavjudligi",
+    "Chegaralarning etnik va diniy chegaralar bilan mos tushmasligi"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Hindiston 1947-yilda qaysi belgi asosida ikki davlatga ajralgan?",
+   "options": [
+    "Diniy belgi asosida",
+    "Iqtisodiy belgi asosida",
+    "Kasta belgisi asosida",
+    "Til belgisi asosida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1947-yilda Hindiston qaysi davlatlarga ajralgan?",
+   "options": [
+    "Hindiston va Nepal",
+    "Hindiston Ittifoqi va Pokiston",
+    "Pokiston va Shri-Lanka",
+    "Hindiston va Bangladesh"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1947-yilda Yaqin Sharqda doimiy tanglik o‘chog‘ini nima vujudga keltirgan?",
+   "options": [
+    "Eron inqilobi",
+    "Iroq-Eron urushi",
+    "Falastinning arab va yahudiy davlatlariga bo‘linishi",
+    "Suvaysh kanalining milliylashtirilishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Mustaqillikning dastlabki davrlarida ichki va tashqi urushlarni boshdan kechirgan Janubi-sharqiy Osiyo mamlakatlarini aniqlang.",
+   "options": [
+    "Filippin, Koreya, Vyetnam",
+    "Hindiston, Pokiston, Nepal",
+    "Turkiya, Eron, Afg‘oniston",
+    "Yaponiya, Tayvan, Singapur"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xitoyda fuqarolar urushi qanday yakunlangan?",
+   "options": [
+    "1945-yilda Yaponiyaning taslim bo‘lishi bilan",
+    "1931-yilda Xitoy Sovet respublikasi e’lon qilinishi bilan",
+    "1928-yilda Gomindan g‘alabasi bilan",
+    "1949-yil 1-oktyabrda Xitoy Xalq Respublikasi e’lon qilinishi bilan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1950-yillarda Lotin Amerikasidagi demokratik hukumatlar nimaga qarshi kurashgan?",
+   "options": [
+    "Chet el, avvalo AQSH kapitalining ta’siriga",
+    "Kommunistik partiyalarga",
+    "Mahalliy hindularga",
+    "Katolik cherkoviga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1960–1970-yillarda ko‘pchilik Lotin Amerikasi mamlakatlarida nima yuz bergan?",
+   "options": [
+    "Ular AQSH tarkibiga kirgan",
+    "Monarxiyalar tiklangan",
+    "Davlat to‘ntarishlari yuz berib, hokimiyatga harbiy xuntalar kelgan",
+    "Barqaror demokratiya qaror topgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ayrim mustaqil mamlakatlarda ishga yaroqli aholining qancha qismi qishloq xo‘jaligida band bo‘lgan?",
+   "options": [
+    "50% gacha",
+    "10% gacha",
+    "30% gacha",
+    "90% gacha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Diniy omilni inobatga olmaslik oqibatlarini qaysi mamlakatdagi modernizatsiya yaqqol ko‘rsatgan?",
+   "options": [
+    "Misr",
+    "Eron",
+    "Turkiya",
+    "Pokiston"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1979-yildagi harakatdan so‘ng chet elga qochgan Eron shohi kim?",
+   "options": [
+    "Rizo Pahlaviy",
+    "Ahmad shoh Qojar",
+    "Muhammad Rizo Pahlaviy",
+    "Muzaffariddin shoh"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1979-yildan keyin Eronda hokimiyat kimlar qo‘liga o‘tgan?",
+   "options": [
+    "Harbiy xunta qo‘liga",
+    "Din peshvolari qo‘liga",
+    "Liberal partiyalar qo‘liga",
+    "Kommunistlar qo‘liga"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Avtoritar rejimlar sharoitida o‘rtacha rivojlanish darajasiga yetgan Lotin Amerikasi davlatlarini aniqlang.",
+   "options": [
+    "Meksika, Panama, Kosta-Rika",
+    "Braziliya, Argentina, Chili",
+    "Boliviya, Paragvay, Ekvador",
+    "Kuba, Nikaragua, Gaiti"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Harbiy xunta” nima?",
+   "options": [
+    "Diniy kengash",
+    "Saylangan parlament",
+    "Davlat to‘ntarishi orqali hokimiyatga kelgan harbiylar hokimiyati",
+    "Harbiy ittifoq"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Modernizatsiya” so‘zi qaysi tildan olingan?",
+   "options": [
+    "Ingliz tilidan",
+    "Fransuz tilidan",
+    "Nemis tilidan",
+    "Lotin tilidan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi bo‘sh joylarni to‘ldiruvchi javoblarni toping.\nVoqea | Sana\nHindistonning ikki davlatga ajralishi | 1) ________\nXitoy Xalq Respublikasining e’lon qilinishi | 2) ________\n“Afrika yili” | 3) ________\na) 1947-yil; b) 1949-yil 1-oktyabr; c) 1960-yil; d) 1975-yil; e) 1979-yil; f) 1969-yil.",
+   "options": [
+    "1-a, 2-e, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-f, 2-b, 3-c",
+    "1-a, 2-b, 3-d"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o‘rniga mos keladigan javoblarni toping.\nTushuncha | Mazmuni\nAparteid | A\nAvtoritarizm | B\nHarbiy xunta | C\n1) irqiy mansublikka qarab huquqlardan mahrum etish; 2) bir shaxs yoki guruh hokimiyatining almashmasligiga asoslangan, fuqarolarning ma’lum huquqlari saqlanadigan nodemokratik rejim; 3) to‘ntarish orqali hokimiyatga kelgan harbiylar hokimiyati; 4) zamonaviy talablarga muvofiq yangilash; 5) iqtisodiy o‘z-o‘zini ta’minlash; 6) davlat mulkini xususiylashtirish.",
+   "options": [
+    "A-1, B-2, C-3",
+    "A-1, B-4, C-3",
+    "A-5, B-2, C-6",
+    "A-2, B-1, C-3"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Mustamlakachilik tizimining qulashiga oid to‘g‘ri hukmlarni aniqlang.\nI. Mustamlakalarning ozod bo‘lish jarayoni barcha mamlakatlarda tinch yo‘l bilan amalga oshgan.\nII. Portugaliya mustamlakachi imperiyasi 1975-yilda qulagan.\nIII. 1960-yilda Afrikadagi 17 ta mustamlaka mustaqilligini e’lon qilgan.\nIV. Hindiston 1960-yilda ikki davlatga ajralgan.",
+   "options": [
+    "I va II",
+    "III va IV",
+    "I va IV",
+    "II va III"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Rivojlanayotgan mamlakatlarga oid to‘g‘ri hukmlarni aniqlang.\nI. Aksariyat musulmon mamlakatlarida modernizatsiya diniy urf-odatlarni hisobga olgan holda amalga oshirilgan.\nII. Lotin Amerikasida 1960–1970-yillarda demokratiya mustahkamlangan.\nIII. Eronda 1979-yilda an’anaviy islom qadriyatlariga qaytish harakati boshlangan.\nIV. Rivojlanayotgan mamlakatlarda texnika bilan ta’minlanganlik darajasi juda yuqori bo‘lgan.",
+   "options": [
+    "I va II",
+    "II va IV",
+    "I va III",
+    "III va IV"
+   ],
+   "answer": 2
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "title": "10-sinf · 3-mavzu. Fransiya va Germaniya: Yevropada yetakchilik uchun kurash",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Fransiyada Ikkinchi imperiya qachongacha mavjud bo‘lgan?",
+   "options": [
+    "1875-yilgacha",
+    "1815-yilgacha",
+    "1870-yilgacha",
+    "1848-yilgacha"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fransiya-Prussiya urushi natijasida imperator Napoleon III ning taqdiri qanday bo‘lgan?",
+   "options": [
+    "Parij kommunasi tomonidan qatl etilgan",
+    "Jangda halok bo‘lgan",
+    "Asir olingan",
+    "Taxtdan voz kechib, Angliyaga qochgan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Napoleon III asir olingach, hokimiyat kimlarning qo‘liga o‘tgan?",
+   "options": [
+    "“Milliy mudofaa hukumati” deb atalgan siyosatchilar va harbiylar guruhiga",
+    "Prussiya qiroliga",
+    "Burbonlar sulolasiga",
+    "Parij kommunasiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Parij aholisi qachon qo‘zg‘olon boshlagan?",
+   "options": [
+    "1871-yil martda",
+    "1870-yil sentyabrda",
+    "1875-yil mayda",
+    "1871-yil yanvarda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Parijda qo‘zg‘olon ko‘targan proletariat qaysi kuchga birlashgan?",
+   "options": [
+    "Qirollik armiyasiga",
+    "Xorijiy legionga",
+    "Prussiya armiyasiga",
+    "Milliy gvardiyaga"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Parij kommunasi amalga oshirgan tadbirlarni aniqlang.\n1) doimiy armiya bekor qilindi; 2) cherkov davlatdan ajratildi; 3) monarxiya tiklandi; 4) rahbar organlarni saylash haqida dekret qabul qilindi; 5) Prussiyaga tovon to‘landi.",
+   "options": [
+    "1, 2, 4",
+    "1, 3, 5",
+    "3, 4, 5",
+    "2, 3, 4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kommuna rejasiga ko‘ra Fransiya qanday davlat bo‘lishi kerak edi?",
+   "options": [
+    "Imperiya",
+    "Prussiya protektorati",
+    "Erkin kommunalarni birlashtirgan respublika",
+    "Konstitutsion monarxiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Parij kommunasi necha kun faoliyat yuritgan?",
+   "options": [
+    "100 kun",
+    "365 kun",
+    "40 kun",
+    "72 kun"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kommuna qulashi natijasida Parij qancha kishidan ayrilgan?",
+   "options": [
+    "10 ming",
+    "100 ming",
+    "30 ming",
+    "1 mln"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Parij kommunasi” atamasi nimani anglatadi?",
+   "options": [
+    "Napoleon III tuzgan hukumat",
+    "Uchinchi respublika parlamenti",
+    "1871-yil 18-martdan 28-maygacha Fransiyani boshqargan muvaqqat hukumat",
+    "Parij shahar kengashining doimiy nomi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fransiyada Uchinchi respublika qachon e’lon qilingan?",
+   "options": [
+    "1870-yil 4-sentyabrda",
+    "1848-yilda",
+    "1875-yilda",
+    "1871-yil 18-martda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Uchinchi respublika qachongacha mavjud bo‘lgan?",
+   "options": [
+    "Birinchi jahon urushigacha",
+    "Ikkinchi jahon urushigacha",
+    "1900-yilgacha",
+    "Hozirgi kungacha"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Uchinchi respublika konstitutsiyasi qachon qabul qilingan?",
+   "options": [
+    "1871-yilda",
+    "1875-yilda",
+    "1880-yilda",
+    "1870-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "XIX asrda Fransiya sanoat ishlab chiqarishi bo‘yicha qaysi davlatdan keyin ikkinchi o‘rinda bo‘lgan?",
+   "options": [
+    "Germaniyadan",
+    "AQSHdan",
+    "Rossiyadan",
+    "Angliyadan"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Fransiyada banklar konsentratsiyalashuvi va sanoat bilan qo‘shilishi natijasida asosiy kuchga aylangan qatlam qanday atalgan?",
+   "options": [
+    "Moliya oligarxiyasi",
+    "Dehqonlar",
+    "Zodagonlar",
+    "Proletariat"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Prussiya qiroli Vilgelm I qachon Germaniya imperatori deb e’lon qilingan?",
+   "options": [
+    "1871-yil yanvarda",
+    "1871-yil mayda",
+    "1888-yilda",
+    "1870-yil sentyabrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Vilgelm I Germaniya imperatori deb qayerda e’lon qilingan?",
+   "options": [
+    "Berlindagi qirollik saroyida",
+    "Versal saroyining oynaband zalida",
+    "Frankfurt parlamentida",
+    "Myunxen ratushasida"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Germaniyani birlashtirishni kim uddalagan?",
+   "options": [
+    "Bismark",
+    "Vilgelm II",
+    "Napoleon III",
+    "Garibaldi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Birinchi imperiya reyxstagi qabul qilgan konstitutsiya nimani mustahkamlagan?",
+   "options": [
+    "Avstriyaning imperiyaga kirishini",
+    "Prussiyaning imperiyadagi yetakchilik rolini",
+    "Bavariyaning mustaqilligini",
+    "Respublika tuzumini"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Germaniya muvaffaqiyatining asosiy siri nimada edi?",
+   "options": [
+    "Dehqonchilikning rivojida",
+    "Mustamlakalarning ko‘pligida",
+    "Mamlakat birlashtirilib, yagona ichki bozor shakllanganida",
+    "Angliya bilan ittifoqida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Germaniya birlashgach, qanday o‘zgarishlar yuz bergan?\n1) bojxona chegaralari yo‘qoldi; 2) yagona pul birligi joriy qilindi; 3) yagona og‘irlik va uzunlik o‘lchovlari kiritildi; 4) har bir yer o‘z pulini saqlab qoldi.",
+   "options": [
+    "1, 2, 4",
+    "1, 2, 3",
+    "2, 3, 4",
+    "1, 3, 4"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1913-yilda Germaniya sanoat ishlab chiqarishi bo‘yicha nechanchi o‘rinda bo‘lgan?",
+   "options": [
+    "AQSHdan keyin ikkinchi",
+    "To‘rtinchi",
+    "Birinchi",
+    "Angliyadan keyin uchinchi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1910-yilga kelib Germaniya aholisining qancha qismi shaharlarda yashagan?",
+   "options": [
+    "1/4 qismi",
+    "1/2 qismi",
+    "2/3 qismi",
+    "1/3 qismi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Germaniyada “yangi kurs”ni qaysi imperator e’lon qilgan?",
+   "options": [
+    "Vilgelm II",
+    "Fridrix III",
+    "Vilgelm I",
+    "Bismark"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Yangi kurs”ning asosini nima tashkil qilgan?",
+   "options": [
+    "Faqat ichki islohotlar",
+    "Fransiya bilan abadiy ittifoq tuzish",
+    "Mustamlakalardan voz kechish",
+    "Yevropada hukmronlikka intilish, ta’sir doiralarini qayta bo‘lish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Germaniya mustamlakalar bo‘linishiga qanday qaragan?",
+   "options": [
+    "Mavjud bo‘linishni to‘liq qo‘llab-quvvatlagan",
+    "Mustamlakalarni Angliyaga sotgan",
+    "“Adolatsiz” bo‘lingan deb hisoblab, o‘z qudratiga mos ulush talab qilgan",
+    "Mustamlakalarga umuman qiziqmagan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Dekret” nima?",
+   "options": [
+    "Parlament deputatlarining ro‘yxati",
+    "Saylov byulleteni",
+    "Xalqaro shartnoma",
+    "Oliy hokimiyat chiqargan, qonun kuchiga ega muhim qaror"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi bo‘sh joylarni to‘ldiruvchi javoblarni toping.\nVoqea | Sana\nFransiyada Uchinchi respublika e’lon qilindi | 1) ________\nVilgelm I Germaniya imperatori deb e’lon qilindi | 2) ________\nUchinchi respublika konstitutsiyasi qabul qilindi | 3) ________\na) 1870-yil 4-sentyabr; b) 1871-yil yanvar; c) 1875-yil; d) 1871-yil 18-mart; e) 1913-yil; f) 1848-yil.",
+   "options": [
+    "1-a, 2-b, 3-f",
+    "1-d, 2-b, 3-c",
+    "1-a, 2-e, 3-c",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o‘rniga mos keladigan javoblarni toping (Germaniyaning sanoat ishlab chiqarishidagi o‘rni).\nYil | O‘rni\n1870-yil | A\n1880-yil | B\n1913-yil | C\n1) to‘rtinchi; 2) uchinchi; 3) AQSHdan keyin ikkinchi; 4) birinchi; 5) beshinchi; 6) Fransiyadan keyin ikkinchi.",
+   "options": [
+    "A-2, B-1, C-3",
+    "A-1, B-2, C-4",
+    "A-5, B-2, C-6",
+    "A-1, B-2, C-3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Parij kommunasiga oid to‘g‘ri hukmlarni aniqlang.\nI. Kommuna 72 kun faoliyat yuritgan.\nII. Kommuna monarxiyani tiklagan.\nIII. Kommuna 28-mayda qulagan.\nIV. Kommuna cherkovni davlat diniga aylantirgan.",
+   "options": [
+    "I va III",
+    "I va II",
+    "II va IV",
+    "III va IV"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Germaniyaga oid to‘g‘ri hukmlarni aniqlang.\nI. Germaniyani Napoleon III birlashtirgan.\nII. 1871-yilda reyxstag Prussiyaning yetakchiligini mustahkamlovchi konstitutsiya qabul qilgan.\nIII. 1871-yilda Germaniya aholisining 1/3 qismi shaharlarda yashagan.\nIV. Vilgelm II mustamlakalardan voz kechishni e’lon qilgan.",
+   "options": [
+    "I va II",
+    "I va IV",
+    "II va III",
+    "III va IV"
+   ],
+   "answer": 2
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "title": "10-sinf · 25-mavzu. Yaponiya, Xitoy va Janubiy Koreya: Osiyo sivilizatsiyasi qadriyatlari va G‘arb ishlab chiqarish usuli uyg‘unligi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Urushdan keyin Yaponiyada hokimiyat kimning qo‘liga o‘tgan?",
+   "options": [
+    "SSSR harbiy ma’muriyatiga",
+    "Imperator Xirroxitoning harbiy hukumatiga",
+    "General Duglas Makartur boshchiligidagi AQSH okkupatsion qo‘shinlari shtabiga",
+    "BMT vasiylik kengashiga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Amerikaliklar Yaponiyada qanday maqsadlarni ko‘zlagan?",
+   "options": [
+    "Yaponiyani xavf solmaydigan demokratik davlatga aylantirish va jangovarlik ruhini sindirish",
+    "Yaponiyani AQSH shtatiga aylantirish",
+    "Yaponiyada monarxiyani mustahkamlash",
+    "Yaponiyani SSSRga qarshi harbiy bazaga aylantirish"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "D. Makartur agrar islohoti natijasida aholining asosiy qatlami kimlar bo‘lgan?",
+   "options": [
+    "Yirik yer egalari",
+    "Fermerlar",
+    "Ijarachi dehqonlar",
+    "Sanoat ishchilari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Yapon iqtisodiy mo‘jizasi” davri qachon boshlangan?",
+   "options": [
+    "1950-yillar o‘rtalarida",
+    "1970-yillarda",
+    "1980-yillarda",
+    "1945-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Yapon iqtisodiy mo‘jizasi” davrida sanoat o‘sishi asosan nima hisobiga yuz bergan?",
+   "options": [
+    "Mustamlakalardan olingan xomashyo",
+    "Harbiy buyurtmalar",
+    "Og‘ir sanoat, kimyo ishlab chiqarishi va mehnat unumdorligining o‘sishi",
+    "Qishloq xo‘jaligi va baliqchilik"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1960-yillar oxiriga kelib Yaponiya YIM hajmi bo‘yicha dunyoda nechanchi o‘ringa chiqqan?",
+   "options": [
+    "AQSHdan keyin ikkinchi o‘ringa",
+    "GFRdan keyin uchinchi o‘ringa",
+    "Birinchi o‘ringa",
+    "To‘rtinchi o‘ringa"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Postindustrial iqtisodiyotda “uchinchi sektor”ga kiradigan sohalarni aniqlang.",
+   "options": [
+    "Harbiy sanoat va kemasozlik",
+    "Og‘ir sanoat, kon qazish, metallurgiya",
+    "Dehqonchilik, chorvachilik, baliqchilik",
+    "Savdo, xizmat ko‘rsatish, moliya, fan, informatika"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1980-yillardan Yaponiyada nechta texnopolis tashkil qilingan?",
+   "options": [
+    "50 ta",
+    "4 ta",
+    "26 ta",
+    "10 ta"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yaponiya jahon bozoriga chiqargan yangi mahsulotlarni aniqlang.\n1) mikroprotsessorlar; 2) shaxsiy kompyuterlar; 3) sanoat robotlari; 4) bug‘ mashinalari; 5) yelkanli kemalar.",
+   "options": [
+    "1, 2, 3",
+    "2, 3, 5",
+    "3, 4, 5",
+    "1, 4, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xitoyda fuqarolar urushi qachon qaytadan boshlangan?",
+   "options": [
+    "1946-yil iyunda",
+    "1949-yil oktyabrda",
+    "1945-yil sentyabrda",
+    "1937-yil iyulda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XXR e’lon qilingach Gomindan ma’muriyati qayerga ko‘chgan?",
+   "options": [
+    "Tayvan oroliga",
+    "Gonkongga",
+    "Koreyaga",
+    "Yaponiyaga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "XXR raisi lavozimini kim egallagan?",
+   "options": [
+    "Mao Szedun",
+    "Den Syaopin",
+    "Chan Kayshi",
+    "Lyu Shaotsi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xitoyda “Yuzta gul” siyosati qaysi besh yillik reja bilan bog‘liq?",
+   "options": [
+    "Ikkinchi besh yillik (1958–1962)",
+    "To‘rtinchi besh yillik (1971–1975)",
+    "Birinchi besh yillik (1953–1957)",
+    "Uchinchi besh yillik (1966–1970)"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Xitoy va SSSR munosabatlari qachondan buzilgan?",
+   "options": [
+    "1976-yildan",
+    "1949-yildan",
+    "1956-yildan",
+    "1966-yildan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Katta sakrash” siyosati qachon qabul qilingan?",
+   "options": [
+    "1978-yilda",
+    "1953-yilda",
+    "1966-yilda",
+    "1958-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Katta sakrash” qanday shior ostida olib borilgan?",
+   "options": [
+    "“Bir mamlakat – ikki tizim”",
+    "“Uch yil matonatli mehnat – uch ming yil baxt-saodat”",
+    "“Mushukning rangi muhim emas”",
+    "“Yuzta gul ochilsin”"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Katta sakrash”ning tarkibiy qismi nima deb atalgan?",
+   "options": [
+    "“Texnik inqilob”",
+    "“Yashil inqilob”",
+    "“To‘rtta modernizatsiya”",
+    "“Madaniy inqilob”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Madaniy inqilob”ning to‘liq nomi qanday?",
+   "options": [
+    "“Buyuk proletar madaniy inqilobi”",
+    "“Sotsialistik madaniy inqilob”",
+    "“Buyuk xalq madaniy inqilobi”",
+    "“Katta sakrash inqilobi”"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Madaniy inqilob”ning asl maqsadi nima bo‘lgan?",
+   "options": [
+    "Savodsizlikni tugatish",
+    "Mao Szedunning shaxsiy hokimiyatini o‘rnatish va muxolifatni yo‘q qilish",
+    "Xitoy madaniyatini rivojlantirish",
+    "G‘arb bilan aloqalarni kuchaytirish"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "“Madaniy inqilob” davrida faol bo‘lgan tashkilotlarni aniqlang.",
+   "options": [
+    "Samuraylar va syogunlar",
+    "“Birdamlik” va “Kapitanlar harakati”",
+    "Gomindan va Komintern",
+    "Xunveybinlar va szaofanlar"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Mao Szedun qachon vafot etgan?",
+   "options": [
+    "1976-yil 9-sentyabrda",
+    "1966-yilda",
+    "1978-yilda",
+    "1949-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Den Syaopinning “to‘rtta modernizatsiya” islohoti qamragan sohalarni aniqlang.",
+   "options": [
+    "Din, san’at, adabiyot, falsafa",
+    "Bank, savdo, transport, aloqa",
+    "Ta’lim, sog‘liqni saqlash, madaniyat, sport",
+    "Qishloq xo‘jaligi, sanoat, fan-texnika, harbiy soha"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Chet el kapitalini jalb qilish uchun Xitoy janubida nechta erkin iqtisodiy zona tuzilgan?",
+   "options": [
+    "4 ta",
+    "10 ta",
+    "2 ta",
+    "26 ta"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Koreya qachon ikkiga bo‘lingan?",
+   "options": [
+    "1910-yilda",
+    "1953-yil iyulda",
+    "1950-yil iyunda",
+    "1945-yil avgustda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Koreyada urush qachon boshlangan?",
+   "options": [
+    "1950-yil iyunda",
+    "1948-yilda",
+    "1945-yil avgustda",
+    "1953-yil iyulda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Koreya urushi qachon tugagan?",
+   "options": [
+    "1955-yilda",
+    "1950-yil dekabrda",
+    "1953-yil iyulda",
+    "1961-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Koreya urushidan so‘ng chegara qaysi chiziq bo‘ylab o‘tkazilgan?",
+   "options": [
+    "17-parallel",
+    "Ekvator",
+    "38-parallel",
+    "Yalu daryosi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Koreya urushida KXDRga qaysi davlat yordam bergan?",
+   "options": [
+    "Yaponiya",
+    "AQSH",
+    "Buyuk Britaniya",
+    "Xitoy"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "1970-yillarda Janubiy Koreya po‘lat quyish bo‘yicha Osiyoda nechanchi o‘ringa chiqqan?",
+   "options": [
+    "Xitoydan keyin ikkinchi o‘ringa",
+    "Uchinchi o‘ringa",
+    "Birinchi o‘ringa",
+    "Yaponiyadan keyin ikkinchi o‘ringa"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Direktiva” nima?",
+   "options": [
+    "Xalqaro shartnoma",
+    "Saylovchilar ovozi",
+    "Iqtisodiy reja",
+    "Yuqori organlar bergan, bajarilishi majburiy rasmiy ko‘rsatma"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi bo‘sh joylarni to‘ldiruvchi javoblarni toping.\nVoqea | Sana\n“Katta sakrash” siyosatining qabul qilinishi | 1) ________\nKoreya urushining boshlanishi | 2) ________\nMao Szedunning vafoti | 3) ________\na) 1958-yil; b) 1950-yil iyun; c) 1976-yil 9-sentyabr; d) 1953-yil iyul; e) 1956-yil; f) 1946-yil iyun.",
+   "options": [
+    "1-a, 2-b, 3-f",
+    "1-a, 2-b, 3-c",
+    "1-e, 2-b, 3-c",
+    "1-a, 2-d, 3-c"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o‘rniga mos keladigan javoblarni toping.\nSiyosat yoki islohot | Mamlakat\n“Katta sakrash” | A\nMakartur agrar islohoti | B\nYerni dehqonlarga xususiy mulk qilib berish va po‘lat quyishda ikkinchi o‘ringa chiqish | C\n1) Xitoy; 2) Yaponiya; 3) Janubiy Koreya; 4) Hindiston; 5) KXDR; 6) Tayvan.",
+   "options": [
+    "A-1, B-2, C-5",
+    "A-1, B-2, C-3",
+    "A-4, B-6, C-3",
+    "A-2, B-1, C-3"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yaponiyaga oid to‘g‘ri hukmlarni aniqlang.\nI. Makartur islohoti natijasida yer unda ishlaydiganlarga berilgan.\nII. 1960-yillar oxirida Yaponiya YIM bo‘yicha dunyoda birinchi o‘ringa chiqqan.\nIII. 1980-yillardan Yaponiyada 26 ta texnopolis tashkil qilingan.\nIV. “Yapon iqtisodiy mo‘jizasi” 1945-yilda boshlangan.",
+   "options": [
+    "I va III",
+    "III va IV",
+    "I va II",
+    "II va IV"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Xitoy va Koreyaga oid to‘g‘ri hukmlarni aniqlang.\nI. “Madaniy inqilob” Mao Szedun vafotidan so‘ng rasman yakunlangan.\nII. Koreya urushida Janubga SSSR yordam bergan.\nIII. Den Syaopin “Katta sakrash” siyosatini boshlagan.\nIV. 1945-yilda Koreyaning shimoliga SSSR qo‘shin kiritgan.",
+   "options": [
+    "I va IV",
+    "III va IV",
+    "I va II",
+    "II va III"
+   ],
+   "answer": 0
+  }
+ ]
+}

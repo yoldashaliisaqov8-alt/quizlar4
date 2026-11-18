@@ -1,0 +1,276 @@
+{
+ "title": "10-sinf · 29-mavzu. Lotin Amerikasida milliy islohotchilik va taraqqiyotning boshqa yo‘llari",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Urushdan keyin Lotin Amerikasida islohotlar uchun qanday qulay sharoit vujudga kelgan?",
+   "options": [
+    "Mustamlakachilar barcha qarzlarni kechgan",
+    "Katta valyuta zaxirasi to‘plangan, jahon savdosidagi ulushi oshgan",
+    "Aholi keskin kamaygan",
+    "Hududlar kengaygan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1979-yilda qaysi Lotin Amerikasi mamlakatida inqilob bo‘lgan?",
+   "options": [
+    "Meksikada",
+    "Kubada",
+    "Nikaraguada",
+    "Chilida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Harbiy rejimlar fuqarolik hukumatlari bilan almashtirilgan Janubiy Amerika davlatlarini aniqlang.\n1) Ekvador; 2) Peru; 3) Kuba; 4) Argentina; 5) Braziliya; 6) Meksika.",
+   "options": [
+    "1, 2, 4, 5",
+    "2, 3, 5, 6",
+    "1, 2, 3, 6",
+    "1, 3, 4, 6"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lotin Amerikasida modernizatsiyalashning nechta varianti ko‘zga tashlangan?",
+   "options": [
+    "To‘rtta",
+    "Uchta",
+    "Ikkita",
+    "Beshta"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Modernizatsiyaning inqilobiy varianti qaysi mamlakat misolida ko‘riladi?",
+   "options": [
+    "Meksika",
+    "Chili",
+    "Kuba",
+    "Braziliya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Modernizatsiyaning neokonservativ varianti qaysi mamlakat misolida ko‘riladi?",
+   "options": [
+    "Kuba",
+    "Meksika",
+    "Chili",
+    "Argentina"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Modernizatsiyaning islohotchilik varianti qaysi mamlakat misolida ko‘riladi?",
+   "options": [
+    "Chili",
+    "Meksika",
+    "Kuba",
+    "Nikaragua"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kubada inqilob qachon g‘alaba qozongan?",
+   "options": [
+    "1962-yil oktyabrda",
+    "1959-yil 1-yanvarda",
+    "1953-yil iyulda",
+    "1979-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Kubada inqilobga kim boshchilik qilgan?",
+   "options": [
+    "Fidel Kastro",
+    "Avgusto Pinochet",
+    "Patrisio Eylvin",
+    "Salvador Alyende"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "F. Kastro hukumatining SSSR bilan harbiy kelishuvi qanday inqirozga olib kelgan?",
+   "options": [
+    "1962-yilgi “Karib inqirozi”ga",
+    "1973-yilgi neft inqiroziga",
+    "1929-yilgi jahon inqiroziga",
+    "1956-yilgi Suvaysh inqiroziga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kuba uchun qanday iqtisodiy kurs tanlangan?",
+   "options": [
+    "Postindustrial jamiyat qurish",
+    "Neft sanoatini rivojlantirish",
+    "To‘liq xususiylashtirish",
+    "Sof agrar mamlakatni agrar-industrial mamlakatga aylantirish"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kuba uchun qaysi voqea juda katta zarba bo‘lgan?",
+   "options": [
+    "Nikaragua inqilobi",
+    "Karib inqirozi",
+    "SSSRning parchalanishi",
+    "Chilidagi to‘ntarish"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Chilida Xalq birligi blokiga kirganlarni aniqlang.",
+   "options": [
+    "Monarxistlar, konservatorlar, harbiylar",
+    "Kommunistlar, sotsialistlar, radikallar",
+    "Faqat harbiylar",
+    "Xristian-demokratlar va liberallar"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "1970-yilda Chili prezidenti etib kim saylangan?",
+   "options": [
+    "Avgusto Pinochet",
+    "Patrisio Eylvin",
+    "Salvador Alyende",
+    "Fidel Kastro"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "1973-yilgi to‘ntarishdan keyin Chilida hokimiyatga kim kelgan?",
+   "options": [
+    "Xristian-demokratik partiya",
+    "General Avgusto Pinochet boshchiligidagi harbiy xunta",
+    "Salvador Alyende",
+    "Kommunistik partiya"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Pinochet hukumati davridagi modernizatsiya qanday oqibatlarga olib kelgan?",
+   "options": [
+    "Davlat sektori kengaygan",
+    "Ish haqi kamaygan, ishsizlik keskin oshgan",
+    "Ish haqi keskin oshgan",
+    "Ishsizlik butunlay yo‘qolgan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Chilida diktatura qanday tugagan?",
+   "options": [
+    "Pinochet o‘ldirilishi bilan",
+    "1989-yilgi saylovlarda Patrisio Eylvin g‘alaba qozonishi bilan",
+    "AQSH qo‘shinlari kiritilishi bilan",
+    "1973-yilgi to‘ntarish bilan"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Meksika qachon sanoat mahsulotlari hajmi bo‘yicha Lotin Amerikasida birinchi o‘ringa chiqqan?",
+   "options": [
+    "1985-yilda",
+    "1970-yilda",
+    "1945-yilda",
+    "1958-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Meksikaning muvaffaqiyatli rivojlanishida nima asosiy rol o‘ynagan?",
+   "options": [
+    "Qudratli davlat sektori",
+    "Chet el harbiy yordami",
+    "Harbiy xunta",
+    "Neokonservativ islohotlar"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "1980-yillardagi jahon iqtisodiy inqirozi Meksikaga qanday ta’sir qilgan?",
+   "options": [
+    "Ishsizlik va tashqi qarz keskin oshgan, AQSHga qaramlik ortgan",
+    "Tashqi qarzlar to‘liq to‘langan",
+    "Meksika SSSR bilan ittifoq tuzgan",
+    "Meksika jahon yetakchisiga aylangan"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Fidel Kastro O‘zbekistonga qachon tashrif buyurgan?",
+   "options": [
+    "1972-yilda",
+    "1991-yilda",
+    "1963-yilda",
+    "1959-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Agrar-industrial mamlakat” nima?",
+   "options": [
+    "Sanoati qishloq xo‘jaligidan ustun mamlakat",
+    "Faqat xizmat ko‘rsatish sohasi rivojlangan mamlakat",
+    "Xomashyosi yo‘q mamlakat",
+    "Asosiy boyligi qishloq xo‘jaligi mahsulotlari bo‘lgan, sanoati ularni qayta ishlashga yo‘naltirilgan mamlakat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Harbiy rejim” nima?",
+   "options": [
+    "Butun hokimiyat harbiylarga tegishli boshqaruv shakli",
+    "Konstitutsion monarxiya",
+    "Fuqarolik hukumati",
+    "Parlament respublikasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Jadvaldagi bo‘sh joylarni to‘ldiruvchi javoblarni toping.\nVoqea | Sana\nKuba inqilobining g‘alabasi | 1) ________\nSalvador Alyendening prezident etib saylanishi | 2) ________\nChilidagi harbiy to‘ntarish | 3) ________\na) 1959-yil 1-yanvar; b) 1970-yil; c) 1973-yil; d) 1962-yil; e) 1979-yil; f) 1989-yil.",
+   "options": [
+    "1-d, 2-b, 3-c",
+    "1-a, 2-b, 3-f",
+    "1-a, 2-e, 3-c",
+    "1-a, 2-b, 3-c"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o‘rniga mos keladigan javoblarni toping.\nMamlakat | Modernizatsiya varianti\nKuba | A\nChili | B\nMeksika | C\n1) inqilobiy; 2) neokonservativ; 3) islohotchilik; 4) avtarkiya; 5) postindustrial; 6) liberal-demokratik.",
+   "options": [
+    "A-1, B-3, C-2",
+    "A-2, B-1, C-3",
+    "A-1, B-2, C-3",
+    "A-4, B-2, C-6"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kuba va Chiliga oid to‘g‘ri hukmlarni aniqlang.\nI. Kubada qo‘zg‘olonchilar Gavanaga 1959-yil 1-yanvarda kirgan.\nII. Salvador Alyende 1973-yilda harbiy to‘ntarish o‘tkazgan.\nIII. Pinochet diktaturasi 1989-yilgi saylovlardan keyin tugagan.\nIV. Kuba AQSH bilan harbiy kelishuv tuzgan.",
+   "options": [
+    "I va III",
+    "II va IV",
+    "III va IV",
+    "I va II"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Lotin Amerikasiga oid to‘g‘ri hukmlarni aniqlang.\nI. 1979-yilda Nikaraguada inqilob bo‘lgan.\nII. Meksika 1958-yilda sanoat mahsulotlari bo‘yicha Lotin Amerikasida birinchi o‘ringa chiqqan.\nIII. Pinochet davrida ishsizlik butunlay tugatilgan.\nIV. SSSRning parchalanishi Kuba iqtisodiyotini mustahkamlagan.",
+   "options": [
+    "III va IV",
+    "I va III",
+    "II va IV",
+    "I va II"
+   ],
+   "answer": 3
+  }
+ ]
+}

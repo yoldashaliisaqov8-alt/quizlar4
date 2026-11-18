@@ -1,0 +1,336 @@
+{
+ "title": "10-sinf · 31-mavzu. XX asrning ikkinchi yarmida ilm-fan va madaniyatning rivojlanishi",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Ilmiy-texnik inqilobning asosiy belgilarini aniqlang.\n1) tovarlarni ommaviy ishlab chiqarish; 2) mashinalardan keng foydalanish; 3) konveyer liniyalari va sanoat robotlari; 4) qo‘l mehnatining ustuvorligi; 5) natural xo‘jalik.",
+   "options": [
+    "2, 3, 5",
+    "3, 4, 5",
+    "1, 2, 3",
+    "1, 4, 5"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Ilmiy-texnik inqilob jahon iqtisodiyotini qaysi davrga olib chiqqan?",
+   "options": [
+    "Kapitalizmning postindustrial davriga",
+    "Agrar davrga",
+    "Feodalizm davriga",
+    "Industrial davrning boshlanishiga"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ilmiy-texnik inqilobning salbiy oqibatlarini aniqlang.",
+   "options": [
+    "Ta’lim darajasi pasaygan",
+    "Mehnat unumdorligi pasaygan",
+    "Ish o‘rinlari kamayib, ishsizlik avj olgan; tabiatga zarar ortgan",
+    "Tovarlar tanqisligi kuchaygan"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Fandagi inqirozni bartaraf etgan ilmiy-texnik inqilob qaysi olimlar nomi bilan bog‘liq?",
+   "options": [
+    "Isaak Nyuton va Galileo Galiley",
+    "Charlz Darvin va Gregor Mendel",
+    "Nikolay Kopernik va Iogann Kepler",
+    "Maks Plank va Albert Eynshteyn"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Kvant nazariyasi nimani tushuntirib bergan?",
+   "options": [
+    "Turlarning kelib chiqishini",
+    "Butun olam tortishish qonunini",
+    "Yerning Quyosh atrofida aylanishini",
+    "Kimyoviy bog‘lanishlarning tabiatini"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Birinchi kompyuter qanday atalgan?",
+   "options": [
+    "IBM PC",
+    "Apple I",
+    "ENIAC",
+    "ARPANET"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Birinchi kompyuter ENIAC qachon yaratilgan?",
+   "options": [
+    "1984-yilda",
+    "1957-yilda",
+    "1969-yilda",
+    "1946-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "ENIAC qayerda yaratilgan?",
+   "options": [
+    "SSSRda, Moskva universitetida",
+    "Buyuk Britaniyada, Kembrij universitetida",
+    "AQSHda, Pensilvaniya universitetida",
+    "Germaniyada, Berlin universitetida"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Internetning o‘tmishdoshi qanday atalgan?",
+   "options": [
+    "ARPANET",
+    "Televerket",
+    "ENIAC",
+    "Motorola"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "ARPANET qachon yaratilgan?",
+   "options": [
+    "1946-yilda",
+    "1969-yilda",
+    "1957-yilda",
+    "1984-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Birinchi atom elektr stansiyasi qaysi?",
+   "options": [
+    "Fukusima AES",
+    "Novovoronej AES",
+    "Chernobil AES",
+    "Obninsk AES"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Birinchi atom elektr stansiyasi qachon ishga tushgan?",
+   "options": [
+    "1954-yilda",
+    "1961-yilda",
+    "1970-yilda",
+    "1945-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Gen muhandisligi kimlar nomi bilan bog‘liq?",
+   "options": [
+    "Maks Plank va Albert Eynshteyn",
+    "D. Kilbi va R. Noys",
+    "Stenli Kohen va Herbert Boyer",
+    "N. G. Basov va A. M. Proxorov"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Motorola” uyali telefoni qachon chiqqan?",
+   "options": [
+    "1969-yilda",
+    "1984-yilda",
+    "1973-yilda",
+    "1991-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Lazer qachon yaratilgan?",
+   "options": [
+    "1946-yilda",
+    "1973-yilda",
+    "1960-yilda",
+    "1954-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Lazerni yaratib, Nobel mukofotini olgan olimlarni aniqlang.",
+   "options": [
+    "N. G. Basov, A. M. Proxorov, Ch. Tauns",
+    "D. Kilbi, R. Noys, S. Kohen",
+    "S. Korolyov, Y. Gagarin, J. Keyns",
+    "M. Plank, A. Eynshteyn, N. Bor"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Yarimo‘tkazgichli integral mikrosxemalar kimlar tomonidan yaratilgan?",
+   "options": [
+    "Stenli Kohen va Herbert Boyer",
+    "Sovet fiziklari Basov va Proxorov",
+    "Maks Plank va Albert Eynshteyn",
+    "Amerikalik muhandislar D. Kilbi va R. Noys"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Integral mikrosxemalar qachon yaratilgan?",
+   "options": [
+    "1984-yilda",
+    "1969-yilda",
+    "1959-yilda",
+    "1946-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Olimlar XX asrning so‘nggi 50 yilidagi eng mashhur ixtiro deb nimani hisoblagan?",
+   "options": [
+    "Atom bombasining yaratilishini",
+    "Lazerning yaratilishini",
+    "Integral mikrosxemalarning yaratilishini",
+    "Televizorning ixtiro qilinishini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Uyali telefonlar ustida 1940-yillar oxiridayoq ish boshlagan kompaniya qaysi?",
+   "options": [
+    "Shvetsiyaning “Televerket” kompaniyasi",
+    "Finlyandiyaning “Nokia” kompaniyasi",
+    "Yaponiyaning “Mitsubisi” kompaniyasi",
+    "Amerikaning “Motorola” kompaniyasi"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Kompyuter orqali uzoq masofadan aloqa o‘rnatish mumkinligini kimlar asoslagan?",
+   "options": [
+    "Pensilvaniya universiteti xodimlari",
+    "Massachusets texnologiya instituti xodimlari",
+    "Obninsk institut xodimlari",
+    "Oksford universiteti xodimlari"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Yerning birinchi sun’iy yo‘ldoshi qachon uchirilgan?",
+   "options": [
+    "1961-yil 12-aprelda",
+    "1954-yilda",
+    "1969-yil 21-iyulda",
+    "1957-yil 4-oktyabrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Oyga kosmik kema uchirish bo‘yicha tadqiqotlarga kim rahbarlik qilgan?",
+   "options": [
+    "N. G. Basov",
+    "A. M. Proxorov",
+    "Y. A. Gagarin",
+    "Akademik S. P. Korolyov"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Makroiqtisodiyotni yaratgan ingliz iqtisodchisi kim?",
+   "options": [
+    "Karl Marks",
+    "Jon Keyns",
+    "Daniel Bell",
+    "Adam Smit"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "San’atda abstraksionizm nimaga javob tarzida paydo bo‘lgan?",
+   "options": [
+    "Ommaviy madaniyatga",
+    "Urush dahshatlariga",
+    "Fotografiya san’atining rivojlanishiga",
+    "Kino san’atining paydo bo‘lishiga"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Abstraksionizmga qarama-qarshi ravishda paydo bo‘lgan yo‘nalish qaysi?",
+   "options": [
+    "Impressionizm",
+    "Pop art (ommaviy san’at)",
+    "Postmodernizm",
+    "Realizm"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "G‘arb va Sharq, o‘tmish va zamonaviy uslublar, folklor va ommaviy madaniyatni jamlagan uslub qanday ataladi?",
+   "options": [
+    "Pop art",
+    "Abstraksionizm",
+    "Klassitsizm",
+    "Postmodernizm"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Ommaviy adabiyotning XX asr birinchi yarmi adabiyotidan farqi nimada?",
+   "options": [
+    "Ochiq tijoriy xarakteri, ko‘ngilochar funksiyasi va voqealar rivojining oldindan ma’lumligida",
+    "Faqat diniy mavzulardagi asarlarda",
+    "Faqat lotin tilida yozilishida",
+    "Faqat she’riy shaklda yozilishida"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "“Konveyer” nima?",
+   "options": [
+    "Atom reaktori",
+    "Narsalarni bir ish joyidan ikkinchisiga uzluksiz yetkazuvchi lentasimon transport qurilmasi",
+    "Elektron hisoblash mashinasi",
+    "Yarimo‘tkazgichli mikrosxema"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Jadvaldagi bo‘sh joylarni to‘ldiruvchi javoblarni toping.\nIxtiro | Yili\nBirinchi kompyuter ENIAC | 1) ________\nBirinchi atom elektr stansiyasi | 2) ________\nLazer | 3) ________\na) 1946-yil; b) 1954-yil; c) 1960-yil; d) 1959-yil; e) 1969-yil; f) 1984-yil.",
+   "options": [
+    "1-a, 2-b, 3-f",
+    "1-e, 2-b, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-a, 2-d, 3-c"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o‘rniga mos keladigan javoblarni toping.\nOlim yoki muhandis | Kashfiyoti\nD. Kilbi, R. Noys | A\nS. Kohen, H. Boyer | B\nN. G. Basov, A. M. Proxorov, Ch. Tauns | C\n1) yarimo‘tkazgichli integral mikrosxemalar; 2) gen muhandisligi; 3) lazer; 4) nisbiylik nazariyasi; 5) makroiqtisodiyot; 6) birinchi sun’iy yo‘ldosh.",
+   "options": [
+    "A-1, B-2, C-3",
+    "A-5, B-6, C-3",
+    "A-2, B-1, C-3",
+    "A-1, B-2, C-4"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ilm-fan yutuqlariga oid to‘g‘ri hukmlarni aniqlang.\nI. Birinchi sun’iy yo‘ldosh 1957-yilda SSSRda uchirilgan.\nII. ARPANET 1946-yilda yaratilgan.\nIII. Y. A. Gagarin “Vostok” kemasida koinotga parvoz qilgan.\nIV. Obninsk AES 1984-yilda ishga tushgan.",
+   "options": [
+    "II va IV",
+    "I va II",
+    "I va III",
+    "III va IV"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Madaniyatga oid to‘g‘ri hukmlarni aniqlang.\nI. Abstraksionizm fotografiyaning rivojiga javob sifatida paydo bo‘lgan.\nII. Pop art abstraksionizm bilan bir xil yo‘nalish hisoblanadi.\nIII. 1960-yillardan keyin realizm inson va tabiat o‘rtasidagi bog‘liqlikni aks ettirgan.\nIV. Ommaviy adabiyotda voqealar rivoji oldindan noma’lum bo‘ladi.",
+   "options": [
+    "III va IV",
+    "I va III",
+    "I va II",
+    "II va IV"
+   ],
+   "answer": 1
+  }
+ ]
+}

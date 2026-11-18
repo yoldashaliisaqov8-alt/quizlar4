@@ -1,0 +1,346 @@
+{
+ "title": "10-sinf · 19-mavzu. Germaniya va Italiya: mag‘lubiyatdan keyingi taraqqiyot",
+ "time": 30,
+ "questions": [
+  {
+   "q": "Germaniya Ikkinchi jahon urushida qancha aholisidan ayrilgan?",
+   "options": [
+    "330 ming",
+    "3 mln",
+    "6,5 mln",
+    "13,6 mln"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "G‘olib davlatlar Germaniyani nechta okkupatsiya zonasiga bo‘lgan?",
+   "options": [
+    "Uchta",
+    "Beshta",
+    "To‘rtta",
+    "Ikkita"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Kommunistlar va sotsial-demokratlar birlashib qaysi partiyani tuzgan?",
+   "options": [
+    "Natsional-sotsialistik partiya",
+    "Xristian-demokratik ittifoq",
+    "Germaniya birlashgan sotsialistik partiyasi (GBSP)",
+    "Erkin demokratik partiya"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "GFR Asosiy qonuni qachon tasdiqlangan?",
+   "options": [
+    "1945-yilda",
+    "1990-yilda",
+    "1949-yilda",
+    "1955-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "GFR Asosiy qonuni GFRni qanday davlat deb e’lon qilgan?",
+   "options": [
+    "Sotsialistik, unitar davlat",
+    "Neytral, unitar davlat",
+    "Konstitutsion monarxiya",
+    "Demokratik, federativ davlat"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "GFR qachon tashkil etilgan?",
+   "options": [
+    "1955-yilda",
+    "1945-yil 8-mayda",
+    "1949-yil 7-oktyabrda",
+    "1949-yil 7-sentyabrda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "GFRning poytaxti qaysi shahar bo‘lgan?",
+   "options": [
+    "Myunxen",
+    "Berlin",
+    "Frankfurt",
+    "Bonn"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "GFRning birinchi kansleri kim?",
+   "options": [
+    "Lyudvig Erhard",
+    "Gelmut Kol",
+    "Konrad Adenauer",
+    "Villi Brandt"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "GDR qachon tashkil qilingan?",
+   "options": [
+    "1961-yilda",
+    "1953-yilda",
+    "1949-yil 7-oktyabrda",
+    "1949-yil 7-sentyabrda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "GDRning poytaxti qaysi shahar bo‘lgan?",
+   "options": [
+    "Drezden",
+    "Sharqiy Berlin",
+    "Bonn",
+    "Leyptsig"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Germaniyaning ikki davlatga bo‘lingan davri qancha davom etgan?",
+   "options": [
+    "10 yil",
+    "50 yil",
+    "20 yil",
+    "40 yil"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "GFRning 1950–1960-yillardagi jadal rivojlanish omillarini aniqlang.\n1) harbiy xarajatlarning kamligi; 2) “Marshall rejasi” yordami; 3) arzon chet el ishchi kuchi; 4) yangi uskunalar; 5) mustamlakalardan olingan daromad.",
+   "options": [
+    "1, 2, 3, 4",
+    "2, 3, 4, 5",
+    "1, 3, 4, 5",
+    "1, 2, 3, 5"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "K. Adenauer Lyuksemburgda qanday shartnoma imzolagan?",
+   "options": [
+    "NATOga a’zo bo‘lish haqidagi shartnoma",
+    "Isroil davlatiga yordam ko‘zda tutilgan repatriatsion to‘lovlar haqidagi shartnoma",
+    "Rim shartnomasi",
+    "GDR bilan birlashish haqidagi shartnoma"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "GFR NATOga qachon a’zo bo‘lgan?",
+   "options": [
+    "1963-yilda",
+    "1949-yilda",
+    "1955-yilda",
+    "1990-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "K. Adenauer qachon iste’foga chiqqan?",
+   "options": [
+    "1969-yilda",
+    "1949-yilda",
+    "1955-yilda",
+    "1963-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Nemis iqtisodiy mo‘jizasining tan olingan otasi” kim?",
+   "options": [
+    "Konrad Adenauer",
+    "Gelmut Kol",
+    "Lyudvig Erhard",
+    "Robert Shuman"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "GFR kansleri Gelmut Kol qachon saylangan?",
+   "options": [
+    "1982-yilda",
+    "1990-yilda",
+    "1974-yilda",
+    "1969-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "GDRda inqilob boshlanib, Berlin devori qachon buzilgan?",
+   "options": [
+    "1990-yilda",
+    "1985-yilda",
+    "1961-yilda",
+    "1989-yilda"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Yagona Germaniya qachon tashkil topgan?",
+   "options": [
+    "1990-yil 3-oktyabrda",
+    "1989-yil 9-noyabrda",
+    "1991-yil 1-yanvarda",
+    "1949-yil 7-sentyabrda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Ikkinchi jahon urushida Italiya qancha kishidan ayrilgan?",
+   "options": [
+    "1 mln",
+    "6,5 mln",
+    "330 mingga yaqin",
+    "3 mln"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Urushdan keyin Italiyada milliy birlik hukumati o‘tkazgan islohotlarni aniqlang.\n1) foydalanilmayotgan pomeshchik yerlari dehqonlarga berildi; 2) ish haqi narx-navoga bog‘landi; 3) monarxiya mustahkamlandi; 4) ishchi kengashlari tuzildi; 5) kasaba uyushmalari taqiqlandi.",
+   "options": [
+    "2, 3, 4",
+    "1, 3, 5",
+    "3, 4, 5",
+    "1, 2, 4"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Italiyada kommunistlar hukumatdan qachon chiqarilgan?",
+   "options": [
+    "1957-yilda",
+    "1947-yilda",
+    "1949-yilda",
+    "1945-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Italiya NATOga qachon a’zo bo‘lgan?",
+   "options": [
+    "1949-yilda",
+    "1957-yilda",
+    "1955-yilda",
+    "1947-yilda"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Italiya NATOga a’zo bo‘lganda hukumatni kim boshqargan?",
+   "options": [
+    "Aldo Moro",
+    "Silvio Berluskoni",
+    "Alchide de Gasperi",
+    "Benito Mussolini"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Yevropa iqtisodiy hamjamiyatini (YIH) tuzish to‘g‘risidagi Rim shartnomasi qachon imzolangan?",
+   "options": [
+    "1992-yilda",
+    "1951-yilda",
+    "1957-yilda",
+    "1949-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Italiya iqtisodiy mo‘jizasi” qachon boshlangan?",
+   "options": [
+    "1980-yillarda",
+    "1970-yillarda",
+    "1950-yillar oxirida",
+    "1945-yilda"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "“Italiya iqtisodiy mo‘jizasi”dan asosan qaysi hudud ko‘proq foyda ko‘rgan?",
+   "options": [
+    "Sanoati rivojlangan shimol",
+    "Sitsiliya va Sardiniya orollari",
+    "Qishloq xo‘jaligiga asoslangan janub",
+    "Butun mamlakat teng"
+   ],
+   "answer": 0
+  },
+  {
+   "q": "Italiyada chuqur iqtisodiy inqiroz qachon boshlangan?",
+   "options": [
+    "1989-yilda",
+    "1974-yilda",
+    "1957-yilda",
+    "1947-yilda"
+   ],
+   "answer": 1
+  },
+  {
+   "q": "Italiyada mafiyaga qarshi kurash davri qachon bo‘lgan?",
+   "options": [
+    "XXI asr boshi",
+    "XX asrning 20–30-yillari",
+    "XX asrning 40–50-yillari",
+    "XX asrning 80–90-yillari"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "“Defitsit” nima?",
+   "options": [
+    "Davlat mulkini sotish",
+    "Narxlarning pasayishi",
+    "Daromadga nisbatan xarajatlarning oshib ketishi; tanqislik",
+    "Daromadning xarajatdan oshishi"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi bo‘sh joylarni to‘ldiruvchi javoblarni toping.\nVoqea | Sana\nGFRning tashkil etilishi | 1) ________\nGDRning tashkil etilishi | 2) ________\nYagona Germaniyaning tashkil topishi | 3) ________\na) 1949-yil 7-sentyabr; b) 1949-yil 7-oktyabr; c) 1990-yil 3-oktyabr; d) 1989-yil; e) 1955-yil; f) 1963-yil.",
+   "options": [
+    "1-a, 2-b, 3-d",
+    "1-b, 2-a, 3-c",
+    "1-a, 2-b, 3-c",
+    "1-e, 2-b, 3-f"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Jadvaldagi A, B, C harflari o‘rniga mos keladigan javoblarni toping.\nArbob | Faoliyati\nKonrad Adenauer | A\nLyudvig Erhard | B\nGelmut Kol | C\n1) GFRning birinchi kansleri; 2) “nemis iqtisodiy mo‘jizasining otasi”; 3) 1982-yilda kansler bo‘lib, soliqlarni qisqartirgan; 4) Italiya bosh vaziri; 5) Fransiya tashqi ishlar vaziri; 6) GDR rahbari.",
+   "options": [
+    "A-1, B-2, C-4",
+    "A-2, B-1, C-3",
+    "A-5, B-2, C-6",
+    "A-1, B-2, C-3"
+   ],
+   "answer": 3
+  },
+  {
+   "q": "Germaniyaga oid to‘g‘ri hukmlarni aniqlang.\nI. Berlin to‘rtta sektorga bo‘lingan.\nII. GFR 1949-yilda NATOga a’zo bo‘lgan.\nIII. Parij ahdnomasi bilan GFRda okkupatsiya davri tugagan.\nIV. GDRning poytaxti Bonn bo‘lgan.",
+   "options": [
+    "I va II",
+    "II va IV",
+    "I va III",
+    "III va IV"
+   ],
+   "answer": 2
+  },
+  {
+   "q": "Italiyaga oid to‘g‘ri hukmlarni aniqlang.\nI. Italiyada kommunistlar 1947-yilda AQSH aralashuvi bilan hukumatdan chiqarilgan.\nII. “Italiya iqtisodiy mo‘jizasi” janubni boyitgan.\nIII. Italiya 1957-yilgi Rim shartnomasini imzolagan davlatlardan biri.\nIV. Italiyada iqtisodiy inqiroz 1947-yilda boshlangan.",
+   "options": [
+    "I va II",
+    "III va IV",
+    "II va IV",
+    "I va III"
+   ],
+   "answer": 3
+  }
+ ]
+}
