@@ -253,7 +253,7 @@ async function showMain(env, chat_id, message_id, user) {
   const kb = [];
   for (const g of cat.groups || []) kb.push([await btn(env, chat_id, `${g.icon} ${g.title} (${cnt(g)})`, `g:${g.id}`, `g_${g.id}`)]);
   if (chat_id > 0) kb.push([await btn(env, chat_id, "📈 Natijalarim", "r", "natija"), await btn(env, chat_id, "🧩 Xatolarim", "x", "xato")]);
-  if (chat_id > 0) kb.push([await btn(env, chat_id, "👩‍🏫 O'qituvchilar uchun", "tch", "oqituvchi")]);
+  if (chat_id > 0) kb.push([await btn(env, chat_id, "🎁 Do'stni taklif qilish", "ref", "taklif"), await btn(env, chat_id, "👩‍🏫 O'qituvchilar uchun", "tch", "oqituvchi")]);
   const body = { chat_id, text: MAIN_TEXT, parse_mode: "HTML", reply_markup: { inline_keyboard: kb } };
   if (message_id) return tg(env, "editMessageText", { ...body, message_id });
   return tg(env, "sendMessage", body);
@@ -370,6 +370,7 @@ async function onCallback(env, cq) {
   if (d === "m") return showMain(env, chat.id, mid, user);
   if (d === "r" && chat.type === "private") return myResults(env, chat.id, cq.from);
   if (d === "tch" && chat.type === "private") return teacherGuide(env, chat.id);
+  if (d === "ref" && chat.type === "private") return showReferral(env, chat.id, cq.from);
   if (d === "x" && chat.type === "private") return startMistakes(env, chat.id, cq.from);
   if (d.startsWith("g:")) return showGroup(env, chat.id, mid, d.slice(2), user);
   if (d.startsWith("s:")) { const [, id, pg] = d.split(":"); return showSection(env, chat.id, mid, id, +pg || 0, user); }
@@ -425,6 +426,7 @@ async function sectionOf(env, name) {
 // true qaytarsa — davom etish mumkin; false — parol so'raldi
 async function gate(env, user, chat_id, secId, target) {
   if (String(user.id) === OWNER(env)) return true;
+  if (!(await refGate(env, user, chat_id, secId))) return false;
   const L = await getLock(env);
   if (!L || !L.pw) return true;
   if (L.secs && L.secs.length && secId !== "*" && !L.secs.includes(secId)) return true;
@@ -745,6 +747,7 @@ const ADMIN_KB = { inline_keyboard: [
   [{ text: "🏆 Reyting", callback_data: "a:reyting" }, { text: "📊 Excel", callback_data: "a:excel" }],
   [{ text: "📢 Hammaga xabar", callback_data: "a:xabar" }, { text: "📈 Hisobot", callback_data: "a:hisobot" }],
   [{ text: "🏆 Haftalik reyting", callback_data: "a:haftalik" }, { text: "☀️ Kun savoli", callback_data: "a:kun" }],
+  [{ text: "🎁 Referal", callback_data: "a:ref" }],
   [{ text: "🔒 Parol", callback_data: "a:parol" }, { text: "📣 Obuna", callback_data: "a:obuna" }],
   [{ text: "📚 Testlar menyusi", callback_data: "a:menyu" }],
 ] };
@@ -761,6 +764,7 @@ async function adminAction(env, cq, act) {
   if (act === "xabar") return xabarCmd(env, chat);
   if (act === "hisobot") return dailyReport(env, chat);
   if (act === "kun") return kunCmd(env, fake, "/kunsavoli");
+  if (act === "ref") return referalCmd(env, fake, "/referal");
   if (act === "haftalik") return send(env, chat, (await weeklyText(env, null)) + "\n\n<i>Guruhlarga hoziroq yuborish: /haftalik yubor</i>");
   if (act === "parol") return parolCmd(env, fake, "/parol");
   if (act === "obuna") return obunaCmd(env, fake, "/obuna");
@@ -900,6 +904,13 @@ async function touchGroup(env, chat) {
   await env.DB.prepare("INSERT INTO groups (chat_id, title, last_seen) VALUES (?,?,?) ON CONFLICT(chat_id) DO UPDATE SET title=excluded.title, last_seen=excluded.last_seen")
     .bind(chat.id, chat.title || "", Date.now()).run();
 }
+async function badgeMap(env, ids) {
+  const m = new Map(); if (!ids.length) return m;
+  await ensureRef(env);
+  const { results } = await env.DB.prepare(`SELECT inviter, COUNT(*) n FROM referrals WHERE inviter IN (${ids.map(() => "?").join(",")}) GROUP BY inviter`).bind(...ids).all();
+  for (const r of results) m.set(r.inviter, refBadge(r.n));
+  return m;
+}
 async function weeklyText(env, gid) {
   await ensureLearn(env);
   const since = Date.now() - 7 * 86400000;
@@ -909,12 +920,14 @@ async function weeklyText(env, gid) {
     const { results } = await env.DB.prepare(
       "SELECT user_id, MAX(name) name, SUM(correct) c, SUM(answered) a FROM scores WHERE chat_id=? AND session_id>=? GROUP BY user_id ORDER BY c DESC, a ASC LIMIT 10"
     ).bind(gid, String(since)).all();
-    t += `\n🎯 <b>Guruh viktorinalari:</b>\n` + (results.length ? results.map((r, i) => `${md[i] || i + 1 + "."} ${esc(r.name || "—")} — <b>${r.c}</b> ta to'g'ri`).join("\n") : "Bu hafta guruhda viktorina bo'lmadi.") + "\n";
+    const bm = await badgeMap(env, results.map((r) => r.user_id));
+    t += `\n🎯 <b>Guruh viktorinalari:</b>\n` + (results.length ? results.map((r, i) => `${md[i] || i + 1 + "."} ${esc(r.name || "—")}${bm.get(r.user_id) || ""} — <b>${r.c}</b> ta to'g'ri`).join("\n") : "Bu hafta guruhda viktorina bo'lmadi.") + "\n";
   }
   const { results: pr } = await env.DB.prepare(
     "SELECT r.user_id, MAX(u.name) name, SUM(r.correct) c, COUNT(*) n FROM results r LEFT JOIN users u ON u.user_id=r.user_id WHERE r.at>=? GROUP BY r.user_id ORDER BY c DESC LIMIT 5"
   ).bind(since).all();
-  if (pr.length) t += `\n🤖 <b>Botda eng ko'p ishlaganlar:</b>\n` + pr.map((r, i) => `${md[i] || i + 1 + "."} ${esc(r.name || "—")} — <b>${r.c}</b> ta to'g'ri (${r.n} test)`).join("\n") + "\n";
+  const bm2 = await badgeMap(env, pr.map((r) => r.user_id));
+  if (pr.length) t += `\n🤖 <b>Botda eng ko'p ishlaganlar:</b>\n` + pr.map((r, i) => `${md[i] || i + 1 + "."} ${esc(r.name || "—")}${bm2.get(r.user_id) || ""} — <b>${r.c}</b> ta to'g'ri (${r.n} test)`).join("\n") + "\n";
   t += `\n👏 G'oliblarni tabriklaymiz! Keyingi haftada siz ham ro'yxatda bo'ling 💪`;
   return t;
 }
@@ -1126,6 +1139,91 @@ async function teacherGuide(env, chat_id) {
     { reply_markup: { inline_keyboard: [[{ text: "➕ Botni guruhga qo'shish", url: `https://t.me/${u}?startgroup=true` }]] }, protect_content: false });
 }
 
+
+// ---------- Do'stni taklif qilish (referal) ----------
+const REF_DEFAULT = { need: 3, secs: [] };
+let REF_OK = false, REF_C = null, REF_T = 0;
+async function ensureRef(env) {
+  if (REF_OK) return;
+  REF_OK = true;
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS referrals (invitee INTEGER PRIMARY KEY, inviter INTEGER, at INTEGER)").run();
+  await env.DB.prepare("CREATE INDEX IF NOT EXISTS referrals_inviter ON referrals(inviter)").run();
+}
+async function getRef(env) {
+  if (REF_C && Date.now() - REF_T < 60000) return REF_C;
+  await ensureLock(env);
+  const r = await env.DB.prepare("SELECT v FROM settings WHERE k='ref'").first();
+  REF_C = r ? { ...REF_DEFAULT, ...JSON.parse(r.v) } : REF_DEFAULT; REF_T = Date.now();
+  return REF_C;
+}
+async function refCount(env, uid) {
+  await ensureRef(env);
+  const r = await env.DB.prepare("SELECT COUNT(*) n FROM referrals WHERE inviter=?").bind(uid).first();
+  return r ? r.n : 0;
+}
+const refBadge = (n) => (n >= 10 ? " 🌟" : n >= 3 ? " ⭐" : "");
+async function refLink(env, uid) { return `https://t.me/${await botUser(env)}?start=ref_${uid}`; }
+// Yangi foydalanuvchi /start ref_X bilan kirsa
+async function handleReferral(env, msg, isNew) {
+  const m = (msg.text || "").match(/^\/start(?:@\w+)?\s+ref_(\d+)/);
+  if (!m || !isNew) return;
+  const inviter = Number(m[1]);
+  if (!inviter || inviter === msg.from.id) return;
+  await ensureRef(env);
+  const r = await env.DB.prepare("INSERT OR IGNORE INTO referrals (invitee, inviter, at) VALUES (?,?,?)").bind(msg.from.id, inviter, Date.now()).run();
+  if (!r.meta || r.meta.changes !== 1) return;
+  const n = await refCount(env, inviter);
+  const R = await getRef(env);
+  const nm = ((msg.from.first_name || "") + (msg.from.last_name ? " " + msg.from.last_name : "")).trim() || "Do'stingiz";
+  let t = `🎉 <b>${esc(nm)}</b> sizning havolangiz orqali botga qo'shildi!\n\n👥 Taklif qilganlaringiz: <b>${n}</b>`;
+  if (R.secs.length) t += n >= R.need ? (n === R.need ? `\n\n🔓 <b>Tabriklaymiz!</b> Yopiq bo'limlar siz uchun ochildi!` : "") : `\n🎁 Yopiq bo'limlar ochilishiga yana <b>${R.need - n}</b> ta do'st qoldi.`;
+  if (n === 3 || n === 10) t += `\n\n${refBadge(n).trim()} Sizga reytingda «${n >= 10 ? "Oltin elchi 🌟" : "Elchi ⭐"}» belgisi berildi!`;
+  await send(env, inviter, t).catch(() => {});
+}
+async function refGate(env, user, chat_id, secId) {
+  if (String(user.id) === OWNER(env)) return true;
+  const R = await getRef(env);
+  if (!R.secs.length || secId === "*" || !R.secs.includes(secId)) return true;
+  const n = await refCount(env, user.id);
+  if (n >= R.need) return true;
+  await showReferral(env, chat_id, user, `🔒 <b>Bu bo'lim do'stlarini taklif qilganlar uchun ochiq.</b>\nBotga <b>${R.need} ta</b> do'stingizni taklif qiling — bo'lim siz uchun avtomatik ochiladi.\n\n`);
+  return false;
+}
+async function showReferral(env, chat_id, user, prefix = "") {
+  const n = await refCount(env, user.id);
+  const R = await getRef(env);
+  const link = await refLink(env, user.id);
+  const cat = await catalog(env).catch(() => ({ sections: [] }));
+  const names = R.secs.map((id) => { const x = cat.sections.find((y) => y.id === id); return x ? `${x.icon} ${x.title}` : id; });
+  const bar = R.secs.length ? "🟩".repeat(Math.min(n, R.need)) + "⬜".repeat(Math.max(0, R.need - n)) : "";
+  let t = prefix + `🎁 <b>Do'stlaringizni taklif qiling!</b>\n\nSizning shaxsiy havolangiz:\n${link}\n\n👥 Taklif qilganlaringiz: <b>${n}</b> ${bar}\n`;
+  if (R.secs.length) t += n >= R.need ? `🔓 Yopiq bo'limlar siz uchun ochiq:\n${names.map((x) => "• " + esc(x)).join("\n")}\n` : `🔒 ${R.need} ta do'st taklif qilsangiz, ochiladi:\n${names.map((x) => "• " + esc(x)).join("\n")}\n`;
+  t += `\n⭐ 3 ta do'st — «Elchi» belgisi, 🌟 10 ta — «Oltin elchi».\n<i>Do'stingiz havola orqali botga birinchi marta kirsa hisoblanadi.</i>`;
+  const share = `https://t.me/share/url?url=${encodeURIComponent(link)}&text=${encodeURIComponent("📚 Attestatsiya, Milliy sertifikat va tarix testlari — bepul! Isakov school botida ishlang 👇")}`;
+  return send(env, chat_id, t, { protect_content: false, disable_web_page_preview: true,
+    reply_markup: { inline_keyboard: [[{ text: "📤 Do'stlarga yuborish", url: share }], [await btn(env, chat_id, "📚 Testlar menyusi", "m", "menu")]] } });
+}
+async function referalCmd(env, msg, text) {
+  const chat = msg.chat.id;
+  const parts = text.trim().split(/\s+/).slice(1);
+  await ensureRef(env);
+  const R = { ...(await getRef(env)) };
+  if (parts.length) {
+    if (parts[0].toLowerCase() === "off") R.secs = [];
+    else if (/^\d+$/.test(parts[0])) { R.need = Math.max(1, Math.min(50, +parts[0])); if (parts.length > 1) R.secs = parts.slice(1); }
+    await ensureLock(env);
+    await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('ref', ?)").bind(JSON.stringify(R)).run();
+    REF_T = 0;
+  }
+  const tot = await env.DB.prepare("SELECT COUNT(*) n FROM referrals").first();
+  const wk = await env.DB.prepare("SELECT COUNT(*) n FROM referrals WHERE at>=?").bind(Date.now() - 7 * 86400000).first();
+  const { results } = await env.DB.prepare("SELECT r.inviter, COUNT(*) n, MAX(u.name) name, MAX(u.username) un FROM referrals r LEFT JOIN users u ON u.user_id=r.inviter GROUP BY r.inviter ORDER BY n DESC LIMIT 15").all();
+  const top = results.map((r, i) => `${i + 1}. ${esc(r.name || String(r.inviter))}${r.un ? " @" + esc(r.un) : ""} — <b>${r.n}</b>${refBadge(r.n)}`).join("\n") || "Hali yo'q.";
+  return send(env, chat,
+    `🎁 <b>Referal tizimi</b>\n\n👥 Jami taklif orqali kelganlar: <b>${tot.n}</b> (7 kunda: ${wk.n})\n🔒 Yopiq bo'limlar: ${R.secs.length ? esc(R.secs.join(", ")) + ` — ${R.need} ta do'st kerak` : "yo'q (faqat belgilar beriladi)"}\n\n🏆 <b>Eng ko'p taklif qilganlar:</b>\n${top}\n\n` +
+    `<code>/referal 3 att1213 att13</code> — shu bo'limlarni 3 ta do'stga yopish\n<code>/referal off</code> — yopiq bo'limlarni bekor qilish`);
+}
+
 // ---------- Adminmi? ----------
 async function isAdmin(env, msg) {
   if (msg.chat.type === "private") return true;
@@ -1136,7 +1234,12 @@ async function isAdmin(env, msg) {
 // ---------- Buyruqlar ----------
 async function onMessage(env, msg) {
   const text = msg.text || "";
-  if (msg.chat.type === "private" && msg.from) await touchUser(env, msg.from);
+  if (msg.chat.type === "private" && msg.from) {
+    let isNew = false;
+    if (/^\/start(@\w+)?\s+ref_/.test(text)) { await ensureUsers(env); isNew = !(await env.DB.prepare("SELECT 1 FROM users WHERE user_id=?").bind(msg.from.id).first()); }
+    await touchUser(env, msg.from);
+    if (isNew) await handleReferral(env, msg, true).catch((e) => console.log("referal", e));
+  }
   if ((msg.chat.type === "group" || msg.chat.type === "supergroup") && text.startsWith("/")) await touchGroup(env, msg.chat).catch(() => {});
   if (msg.chat.type === "private" && isOwner(env, msg)) {
     const t0 = (msg.text || "").trim().split(/\s+/)[0].split("@")[0].toLowerCase();
@@ -1152,6 +1255,7 @@ async function onMessage(env, msg) {
     if (t0 === "/excel") return excelCmd(env, msg.chat.id);
     if (t0 === "/xabar") return xabarCmd(env, msg.chat.id);
     if (t0 === "/hisobot") return dailyReport(env, msg.chat.id);
+    if (t0 === "/referal") return referalCmd(env, msg, msg.text || "");
     if (t0 === "/kunsavoli") return kunCmd(env, msg, msg.text || "");
     if (t0 === "/haftalik") {
       if ((msg.text || "").includes("yubor")) { const n = await weeklyPost(env); return send(env, msg.chat.id, `✅ Haftalik reyting ${n} ta guruhga yuborildi.`); }
@@ -1175,6 +1279,8 @@ async function onMessage(env, msg) {
   const chat_id = msg.chat.id;
 
   if (cmd === "/start" && msg.chat.type === "private") {
+    if (arg && arg.startsWith("ref_")) return showMain(env, chat_id, null, msg.from);
+    if (arg === "taklif") return showReferral(env, chat_id, msg.from);
     if (arg === "natija") return myResults(env, chat_id, msg.from);
     if (arg === "oqituvchi") return teacherGuide(env, chat_id);
     if (arg && arg.startsWith("res_")) {
@@ -1261,6 +1367,7 @@ async function onMessage(env, msg) {
   if ((cmd === "/xatolarim" || cmd === "/xatolar") && msg.chat.type === "private") return startMistakes(env, chat_id, msg.from);
 
   if (cmd === "/oqituvchi" || cmd === "/teacher") return teacherGuide(env, chat_id);
+  if ((cmd === "/taklif" || cmd === "/dost") && msg.chat.type === "private") return showReferral(env, chat_id, msg.from);
   if (cmd === "/natijalar" && msg.chat.type !== "private") {
     if (!(await isAdmin(env, msg))) return;
     await ensureTeach(env);
@@ -1356,6 +1463,7 @@ export default {
           { command: "menyu", description: "📚 Testlar katalogi (mavzular bo'yicha)" },
           { command: "natijalarim", description: "📈 Mening natijalarim" },
           { command: "xatolarim", description: "🧩 Xatolar ustida ishlash" },
+          { command: "taklif", description: "🎁 Do'stni taklif qilish" },
           { command: "boshla", description: "Guruhda mavzu tanlab viktorina boshlash" },
           { command: "natijalar", description: "📊 Oxirgi guruh testi jadvali (adminlar)" },
           { command: "oqituvchi", description: "👩‍🏫 O'qituvchilar uchun qo'llanma" },
@@ -1375,6 +1483,7 @@ export default {
           { command: "hisobot", description: "📈 Bugungi hisobot" },
           { command: "haftalik", description: "🏆 Haftalik reyting" },
           { command: "kunsavoli", description: "☀️ Kun savoli sozlamalari" },
+          { command: "referal", description: "🎁 Referal statistikasi" },
           { command: "xabar", description: "📢 Hammaga xabar" },
           { command: "excel", description: "📊 A'zolar jadvali" },
           { command: "reyting", description: "🏆 TOP-20" },
