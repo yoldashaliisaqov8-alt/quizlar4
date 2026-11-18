@@ -109,20 +109,24 @@ async function finish(env, s) {
     const pct = Math.round((r.correct / s.total) * 100);
     const baho = pct >= 86 ? "🏆 A'lo!" : pct >= 71 ? "👍 Yaxshi!" : pct >= 56 ? "🙂 Qoniqarli" : "📖 Mavzuni yana takrorlang";
     try { await saveResult(env, s, r.correct); } catch (e) { console.log("natija saqlash", e); }
+    let streak = null; try { streak = await bumpStreak(env, s.chat_id); } catch (e) { console.log("streak", e); }
+    const rmd = await getStreak(env, s.chat_id).catch(() => ({ active: 1 }));
     const mc = await mistakeCount(env, s.chat_id).catch(() => 0);
     const kb = [];
     for (const row of [
-      [`🔁 Qayta ishlash`, s.quiz_id === "xatolar" ? "x" : `q:${s.quiz_id}`, s.quiz_id === "xatolar" ? "xato" : s.quiz_id],
+      ...(s.quiz_id === "qidiruv" ? [] : [[s.quiz_id === "kun10" ? `🔁 Yana 10 ta savol` : `🔁 Qayta ishlash`, s.quiz_id === "xatolar" ? "x" : s.quiz_id === "kun10" ? "d10" : `q:${s.quiz_id}`, s.quiz_id === "xatolar" ? "xato" : s.quiz_id === "kun10" ? "kun10" : s.quiz_id]]),
       ...(mc && s.quiz_id !== "xatolar" ? [[`🧩 Xatolar ustida ishlash (${mc})`, "x", "xato"]] : []),
-      ...(s.quiz_id !== "xatolar" ? [[`📄 PDF yuklab olish`, `p:${s.quiz_id}`, `p_${s.quiz_id}`]] : []),
+      ...(!["xatolar", "kun10", "qidiruv"].includes(s.quiz_id) ? [[`📄 PDF yuklab olish`, `p:${s.quiz_id}`, `p_${s.quiz_id}`]] : []),
       [`📈 Natijalarim`, "r", "natija"],
+      ...(!rmd.active ? [[`⏰ Kunlik eslatma qo'yish`, "rmm", "eslatma"]] : []),
       [`📚 Boshqa test tanlash`, "m", "menu"],
     ]) kb.push([await btn(env, s.chat_id, row[0], row[1], row[2])]);
     await send(env, s.chat_id,
       `🏁 <b>«${esc(s.title)}» yakunlandi!</b>\n\n✅ To'g'ri javoblar: <b>${r.correct} / ${s.total}</b>\n📊 Natija: <b>${pct}%</b> — ${baho}` +
-      (s.quiz_id === "xatolar" ? `\n\n🧩 Qolgan xato savollar: <b>${mc}</b>` : ""),
+      (s.quiz_id === "xatolar" ? `\n\n🧩 Qolgan xato savollar: <b>${mc}</b>` : "") +
+      (streak ? `\n\n${fire(streak)} Ketma-ket kunlar: <b>${streak}</b>${[7, 30, 100].includes(streak) ? " — 🎉 Tabriklaymiz, yangi belgi!" : ""}` : ""),
       { reply_markup: { inline_keyboard: kb } });
-    if (pct >= 70 && s.quiz_id !== "xatolar" && s.total >= 10) {
+    if (pct >= 70 && !["xatolar", "kun10", "qidiruv"].includes(s.quiz_id) && s.total >= 10) {
       const user = await env.DB.prepare("SELECT name, username FROM users WHERE user_id=?").bind(s.chat_id).first().catch(() => null);
       await sendCertificate(env, s, user ? { first_name: user.name, username: user.username } : null, r.correct, pct).catch((e) => console.log("sertifikat", e));
     }
@@ -244,7 +248,7 @@ async function btn(env, chat_id, text, cb, start) {
   if (String(chat_id) === OWNER(env)) return { text, url: `https://t.me/${await botUser(env)}?start=${start}` };
   return { text, callback_data: cb };
 }
-const MAIN_TEXT = "📚 <b>ISAKOV SCHOOL — testlar</b>\n\nBo'limni tanlang, so'ng mavzuni bosing — test shu yerda boshlanadi 👇";
+const MAIN_TEXT = "📚 <b>ISAKOV SCHOOL — testlar</b>\n\nBo'limni tanlang, so'ng mavzuni bosing — test shu yerda boshlanadi 👇\n\n🔍 <i>Qidirish uchun mavzu nomini yozing, masalan: Amir Temur</i>";
 
 async function showMain(env, chat_id, message_id, user) {
   if (user && !(await gate(env, user, chat_id, "*", "m"))) return;
@@ -371,6 +375,10 @@ async function onCallback(env, cq) {
   const user = chat.type === "private" ? cq.from : null;
   if (d === "m") return showMain(env, chat.id, mid, user);
   if (d === "r" && chat.type === "private") return myResults(env, chat.id, cq.from);
+  if (d === "d10" && chat.type === "private") return startDaily10(env, chat.id, cq.from);
+  if (d === "rmm" && chat.type === "private") return remindMenu(env, chat.id, cq.from);
+  if (d.startsWith("rm:") && chat.type === "private") return setRemind(env, chat.id, cq.from, d.slice(3));
+  if (d.startsWith("sq:") && chat.type === "private") return startSearchQuiz(env, chat.id, cq.from, d.slice(3));
   if (d === "tch" && chat.type === "private") return teacherGuide(env, chat.id);
   if (d === "ref" && chat.type === "private") return showReferral(env, chat.id, cq.from);
   if (d === "x" && chat.type === "private") return startMistakes(env, chat.id, cq.from);
@@ -727,6 +735,7 @@ async function dailyReport(env, chat) {
     `📝 Ishlangan testlar: <b>${tests}</b> (shaxsiy: ${get("_shaxsiy")}, guruhda: ${get("_guruh")})\n`;
   if (secs.length) t += `\n🏆 <b>Eng faol bo'limlar:</b>\n` + secs.slice(0, 5).map((r, i) => `${i + 1}. ${esc(nm(r.sec))} — ${r.n} ta`).join("\n") + "\n";
   if (get("_pdf")) t += `📄 Yuklab olingan PDF: <b>${get("_pdf")}</b>\n`;
+  if (get("_qidiruv")) t += `🔍 Qidiruvlar: <b>${get("_qidiruv")}</b>\n`;
   const err = get("_xato");
   t += `\n${err ? `⚠️ Bugun nosozliklar: <b>${err}</b>` : "✅ Bugun nosozlik bo'lmadi"}`;
   return send(env, chat, t);
@@ -838,7 +847,7 @@ async function myResults(env, chat_id, user) {
   const ic = (p) => (p >= 86 ? "🏆" : p >= 70 ? "✅" : p >= 56 ? "🙂" : "📖");
   const lines = results.map((r) => { const p = Math.round((r.correct / r.total) * 100); return `${ic(p)} <b>${p}%</b> — ${esc(r.title)} · ${r.correct}/${r.total} · ${fmtT(r.at).slice(5, 10).split("-").reverse().join(".")}`; });
   return send(env, chat_id,
-    `📈 <b>Natijalarim</b>\n\n📝 Ishlangan testlar: <b>${agg.n}</b>\n🎯 O'rtacha natija: <b>${avg}%</b>\n🔁 Xato savollar: <b>${mc}</b>\n\n<b>Oxirgi natijalar:</b>\n${lines.join("\n")}`,
+    `📈 <b>Natijalarim</b>\n\n${fire((await getStreak(env, chat_id)).streak)} Ketma-ket kunlar: <b>${(await getStreak(env, chat_id)).streak}</b>\n📝 Ishlangan testlar: <b>${agg.n}</b>\n🎯 O'rtacha natija: <b>${avg}%</b>\n🔁 Xato savollar: <b>${mc}</b>\n\n<b>Oxirgi natijalar:</b>\n${lines.join("\n")}`,
     { reply_markup: { inline_keyboard: kb } });
 }
 
@@ -1226,6 +1235,176 @@ async function referalCmd(env, msg, text) {
     `<code>/referal 3 att1213 att13</code> — shu bo'limlarni 3 ta do'stga yopish\n<code>/referal off</code> — yopiq bo'limlarni bekor qilish`);
 }
 
+
+// ---------- Qidiruv ----------
+const STOPW = new Set("qaysi bilan uchun yilda aniqlang toping topin javob berilgan quyidagi ularning ushbu davrida hamda yillarda qanday nima kimning kim nechta asrda asrning bo'lgan bolgan edi etdi qilgan yil yili tomonidan haqida".split(" "));
+const normTok = (s) => (String(s).toLowerCase().replace(/[‘’ʻʼ`´'"]/g, "").match(/[\p{L}\p{N}]+/gu) || []).filter((t) => t.length >= 3 && !STOPW.has(t));
+function shardOf(key) {
+  let h = 5381;
+  for (const ch of key.slice(0, 2)) h = (((h * 33) >>> 0) ^ ch.codePointAt(0)) >>> 0;
+  return (h % 256).toString(16).padStart(2, "0");
+}
+const SCACHE = new Map();
+async function sfetch(env, f) {
+  const c = SCACHE.get(f);
+  if (c && Date.now() - c.t < 1800000) return c.d;
+  const r = await fetch(new URL("s/" + f, env.QUIZ_BASE_URL).href);
+  const d = r.ok ? await r.json() : (f === "tests.json" ? [] : {});
+  SCACHE.set(f, { d, t: Date.now() });
+  if (SCACHE.size > 60) SCACHE.delete(SCACHE.keys().next().value);
+  return d;
+}
+async function searchIds(env, query) {
+  const toks = [...new Set(normTok(query))].slice(0, 4);
+  if (!toks.length) return { ids: [], toks };
+  const sets = [];
+  for (const t of toks) {
+    const key = t.slice(0, 6);
+    const sh = await sfetch(env, shardOf(key) + ".json");
+    const set = new Set();
+    for (const k in sh) if (k === key || (key.length < 6 && k.startsWith(key))) for (const id of sh[k]) set.add(id);
+    sets.push(set);
+  }
+  const cnt = new Map();
+  for (const st of sets) for (const id of st) cnt.set(id, (cnt.get(id) || 0) + 1);
+  const ids = [...cnt.entries()].sort((a, b) => b[1] - a[1]).filter((e, _, arr) => e[1] === arr[0][1]).map((e) => e[0]);
+  return { ids, toks };
+}
+async function doSearch(env, chat_id, user, query) {
+  query = String(query || "").trim().slice(0, 60);
+  if (normTok(query).length === 0) return send(env, chat_id, "🔍 Qidirish uchun mavzu yoki atamani yozing.\nMasalan: <code>Amir Temur</code>, <code>Jaloliddin</code>, <code>Kushon</code>");
+  const { ids } = await searchIds(env, query);
+  const names = await sfetch(env, "tests.json");
+  if (!ids.length) return send(env, chat_id, `🔍 «${esc(query)}» bo'yicha hech narsa topilmadi.\nBoshqa so'z bilan urinib ko'ring.`);
+  const byTest = new Map();
+  for (const id of ids) { const n = names[Math.floor(id / 1000)]; if (n) byTest.set(n, (byTest.get(n) || 0) + 1); }
+  const cat = await catalog(env);
+  const all = cat.sections.flatMap((x) => x.tests.map((t) => ({ ...t, sec: x })));
+  const top = [...byTest.entries()].sort((a, b) => b[1] - a[1]).slice(0, 8);
+  const kb = [[{ text: `▶️ Topilgan savollardan test (${Math.min(ids.length, 30)})`, callback_data: ("sq:" + query).slice(0, 60) }]];
+  for (const [n, c] of top) { const t = all.find((x) => x.n === n); if (t) kb.push([await btn(env, chat_id, `${t.sec.icon} ${t.t}`.slice(0, 50) + ` · ${c}`, `q:${n}`, n)]); }
+  await bump(env, "_qidiruv");
+  return send(env, chat_id, `🔍 <b>«${esc(query)}»</b>\n\nTopildi: <b>${ids.length}</b> ta savol · <b>${byTest.size}</b> ta testda\n\nTopilgan savollardan test tuzing yoki mos testni tanlang 👇`, { reply_markup: { inline_keyboard: kb } });
+}
+async function startSearchQuiz(env, chat_id, user, query) {
+  if (user && !(await gate(env, user, chat_id, "*", "m"))) return;
+  const { ids } = await searchIds(env, query);
+  const names = await sfetch(env, "tests.json");
+  if (!ids.length) return send(env, chat_id, "Topilmadi.");
+  const byTest = new Map();
+  for (const id of ids) { const n = names[Math.floor(id / 1000)]; if (!n) continue; if (!byTest.has(n)) byTest.set(n, []); byTest.get(n).push(id % 1000); }
+  const tests = [...byTest.entries()].sort((a, b) => b[1].length - a[1].length).slice(0, 8);
+  const qs = [];
+  for (const [n, idxs] of tests) {
+    let d; try { d = await fetchQuiz(env, n); } catch (e) { continue; }
+    for (const i of idxs) if (d.questions[i]) qs.push({ ...d.questions[i], src: [n, i] });
+  }
+  for (let i = qs.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [qs[i], qs[j]] = [qs[j], qs[i]]; }
+  await env.DB.prepare("UPDATE sessions SET running=0 WHERE chat_id=? AND running=1").bind(chat_id).run();
+  await startWithQuestions(env, chat_id, "qidiruv", `🔍 «${query}» bo'yicha test`, qs.slice(0, 30), 30);
+}
+
+// ---------- Eslatmalar va 🔥 ketma-ketlik ----------
+let RM_OK = false;
+async function ensureRemind(env) {
+  if (RM_OK) return;
+  RM_OK = true;
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS remind (user_id INTEGER PRIMARY KEY, hhmm TEXT, active INTEGER DEFAULT 0, streak INTEGER DEFAULT 0, best INTEGER DEFAULT 0, last_day TEXT, sent_day TEXT)").run();
+  await env.DB.prepare("CREATE INDEX IF NOT EXISTS remind_time ON remind(hhmm, active)").run();
+}
+const prevDay = () => dayKey(Date.now() - 86400000);
+async function getStreak(env, uid) {
+  await ensureRemind(env);
+  const r = await env.DB.prepare("SELECT * FROM remind WHERE user_id=?").bind(uid).first();
+  if (!r) return { streak: 0, best: 0, active: 0, hhmm: null };
+  const alive = r.last_day === dayKey() || r.last_day === prevDay();
+  return { ...r, streak: alive ? r.streak : 0 };
+}
+async function bumpStreak(env, uid) {
+  await ensureRemind(env);
+  const r = await env.DB.prepare("SELECT streak, best, last_day FROM remind WHERE user_id=?").bind(uid).first();
+  const today = dayKey();
+  if (r && r.last_day === today) return null;
+  const st = r && r.last_day === prevDay() ? r.streak + 1 : 1;
+  const best = Math.max(st, (r && r.best) || 0);
+  await env.DB.prepare(`INSERT INTO remind (user_id, streak, best, last_day) VALUES (?,?,?,?)
+    ON CONFLICT(user_id) DO UPDATE SET streak=excluded.streak, best=excluded.best, last_day=excluded.last_day`).bind(uid, st, best, today).run();
+  return st;
+}
+const fire = (n) => (n >= 100 ? "👑" : n >= 30 ? "💎" : "🔥");
+async function remindMenu(env, chat_id, user) {
+  const r = await getStreak(env, user.id);
+  const times = ["07:00", "12:00", "18:00", "20:00", "21:00", "22:00"];
+  const kb = [times.slice(0, 3).map((t) => ({ text: (r.active && r.hhmm === t ? "✅ " : "") + t, callback_data: "rm:" + t })),
+    times.slice(3).map((t) => ({ text: (r.active && r.hhmm === t ? "✅ " : "") + t, callback_data: "rm:" + t }))];
+  if (r.active) kb.push([{ text: "🔕 Eslatmani o'chirish", callback_data: "rm:off" }]);
+  kb.push([{ text: "▶️ Bugungi 10 ta savol", callback_data: "d10" }]);
+  return send(env, chat_id,
+    `⏰ <b>Kunlik eslatma</b>\n\n${r.active ? `Hozir: har kuni <b>${r.hhmm}</b> da ✅` : "Hozir o'chiq."}\n${fire(r.streak)} Ketma-ket kunlar: <b>${r.streak}</b> (eng yaxshi: ${r.best || 0})\n\n` +
+    `Vaqtni tanlang — har kuni shu paytda <b>10 ta savol</b> yuboraman. Boshqa vaqt: <code>/eslatma 19:30</code>\n\n🔥 7 kun · 💎 30 kun · 👑 100 kun — belgilar!`,
+    { reply_markup: { inline_keyboard: kb } });
+}
+async function setRemind(env, chat_id, user, hhmm) {
+  await ensureRemind(env);
+  if (hhmm === "off") {
+    await env.DB.prepare("UPDATE remind SET active=0 WHERE user_id=?").bind(user.id).run();
+    return send(env, chat_id, "🔕 Eslatma o'chirildi. Qayta yoqish: /eslatma");
+  }
+  await env.DB.prepare("INSERT INTO remind (user_id, hhmm, active) VALUES (?,?,1) ON CONFLICT(user_id) DO UPDATE SET hhmm=excluded.hhmm, active=1").bind(user.id, hhmm).run();
+  return send(env, chat_id, `✅ Har kuni <b>${hhmm}</b> da 10 ta savol yuboraman. Ketma-ketlikni uzmang 🔥`);
+}
+async function remindTick(env) {
+  await ensureRemind(env);
+  const hm = new Date(Date.now() + TZ).toISOString().slice(11, 16), today = dayKey();
+  const { results } = await env.DB.prepare("SELECT user_id FROM remind WHERE hhmm=? AND active=1 AND (sent_day IS NULL OR sent_day<>?) LIMIT 600").bind(hm, today).all();
+  if (!results.length) return;
+  await env.DB.prepare("UPDATE remind SET sent_day=? WHERE hhmm=? AND active=1").bind(today, hm).run();
+  const ids = results.map((r) => r.user_id);
+  for (let i = 0; i < ids.length; i += 15) {
+    const body = { t: "rm", ids: ids.slice(i, i + 15) };
+    if (env.TIMER) await env.TIMER.send(body, { delaySeconds: Math.floor(i / 15) * 3 }); else await runRemindBatch(env, body);
+  }
+}
+async function runRemindBatch(env, b) {
+  for (const uid of b.ids) {
+    const r = await getStreak(env, uid);
+    const doneToday = r.last_day === dayKey();
+    if (doneToday) continue;
+    const res = await send(env, uid, r.streak
+      ? `${fire(r.streak)} <b>${r.streak}-kun ketma-ket!</b> Zanjirni uzmang — bugungi 10 ta savolingiz tayyor 👇`
+      : "☀️ <b>Bugungi 10 ta savolingiz tayyor!</b> 5 daqiqada bilimingizni yangilang 👇",
+      { reply_markup: { inline_keyboard: [[{ text: "▶️ Boshlash", callback_data: "d10" }], [{ text: "⏰ Eslatma sozlamalari", callback_data: "rmm" }]] } });
+    if (!res.ok && res.error_code === 403) { await env.DB.prepare("UPDATE remind SET active=0 WHERE user_id=?").bind(uid).run(); await env.DB.prepare("UPDATE users SET blocked=1 WHERE user_id=?").bind(uid).run().catch(() => {}); }
+    await new Promise((x) => setTimeout(x, 40));
+  }
+}
+async function startDaily10(env, chat_id, user) {
+  if (user && !(await gate(env, user, chat_id, "*", "d10"))) return;
+  await ensureLearn(env);
+  const qs = [];
+  const { results: ms } = await env.DB.prepare("SELECT quiz_id, idx FROM mistakes WHERE user_id=? ORDER BY at DESC LIMIT 40").bind(chat_id).all();
+  const mq = [...new Set(ms.map((r) => r.quiz_id))].slice(0, 3);
+  for (const qid of mq) {
+    let d; try { d = await fetchQuiz(env, qid); } catch (e) { continue; }
+    for (const r of ms.filter((x) => x.quiz_id === qid)) if (d.questions[r.idx] && qs.length < 5) qs.push({ ...d.questions[r.idx], src: [qid, r.idx] });
+  }
+  const { results: rs } = await env.DB.prepare("SELECT quiz_id FROM results WHERE user_id=? ORDER BY at DESC LIMIT 20").bind(chat_id).all();
+  const cat = await catalog(env);
+  const secIds = new Set();
+  for (const r of rs) for (const x of cat.sections) if (x.tests.some((t) => t.n === r.quiz_id)) secIds.add(x.id);
+  let pool = cat.sections.filter((x) => (secIds.size ? secIds.has(x.id) : x.id !== "attru")).flatMap((x) => x.tests.map((t) => t.n));
+  if (!pool.length) pool = cat.sections.flatMap((x) => x.tests.map((t) => t.n));
+  for (let k = 0; k < 4 && qs.length < 10; k++) {
+    const n = pool[Math.floor(Math.random() * pool.length)];
+    let d; try { d = await fetchQuiz(env, n); } catch (e) { continue; }
+    const idxs = d.questions.map((_, i) => i).sort(() => Math.random() - 0.5).slice(0, Math.max(2, Math.ceil((10 - qs.length) / (4 - k))));
+    for (const i of idxs) if (qs.length < 10) qs.push({ ...d.questions[i], src: [n, i] });
+  }
+  if (!qs.length) return send(env, chat_id, "Savollar topilmadi.");
+  await env.DB.prepare("UPDATE sessions SET running=0 WHERE chat_id=? AND running=1").bind(chat_id).run();
+  await startWithQuestions(env, chat_id, "kun10", "🔥 Bugungi 10 ta savol", qs, 30);
+}
+
 // ---------- Adminmi? ----------
 async function isAdmin(env, msg) {
   if (msg.chat.type === "private") return true;
@@ -1273,7 +1452,9 @@ async function onMessage(env, msg) {
       `📢 <b>${esc(fch.title || "")}</b>\nID: <code>${fch.id}</code>${fch.username ? "\nUsername: @" + fch.username : ""}\nBot bu kanalda admin: ${adm ? "HA ✅" : "YO'Q ❌ — avval admin qiling"}\n\nObunaga qo'shish uchun (taklif havolasini o'zingiznikiga almashtiring):\n<code>/obuna hammasi @yoldashaliisakov ${fch.id} https://t.me/+taklif</code>`);
   }
   if (!text.startsWith("/")) {
-    if (msg.chat.type === "private" && text && msg.from) await tryPassword(env, msg);
+    if (msg.chat.type === "private" && text && msg.from) {
+      if (!(await tryPassword(env, msg))) await doSearch(env, msg.chat.id, msg.from, text);
+    }
     return;
   }
   const [cmdRaw, arg] = text.trim().split(/\s+/, 2);
@@ -1284,6 +1465,8 @@ async function onMessage(env, msg) {
     if (arg && arg.startsWith("ref_")) return showMain(env, chat_id, null, msg.from);
     if (arg === "taklif") return showReferral(env, chat_id, msg.from);
     if (arg === "natija") return myResults(env, chat_id, msg.from);
+    if (arg === "eslatma") return remindMenu(env, chat_id, msg.from);
+    if (arg === "kun10") return startDaily10(env, chat_id, msg.from);
     if (arg === "oqituvchi") return teacherGuide(env, chat_id);
     if (arg && arg.startsWith("res_")) {
       const [, gc, sid] = arg.split("_"); const gid = Number(gc.replace("m", "-"));
@@ -1369,6 +1552,14 @@ async function onMessage(env, msg) {
   if ((cmd === "/xatolarim" || cmd === "/xatolar") && msg.chat.type === "private") return startMistakes(env, chat_id, msg.from);
 
   if (cmd === "/oqituvchi" || cmd === "/teacher") return teacherGuide(env, chat_id);
+  if (cmd === "/qidir" && msg.chat.type === "private") return doSearch(env, chat_id, msg.from, text.replace(/^\/qidir(@\w+)?\s*/, ""));
+  if (cmd === "/kun10" && msg.chat.type === "private") return startDaily10(env, chat_id, msg.from);
+  if (cmd === "/eslatma" && msg.chat.type === "private") {
+    const m = text.match(/(\d{1,2}):(\d{2})/);
+    if (m && +m[1] < 24 && +m[2] < 60) return setRemind(env, chat_id, msg.from, m[1].padStart(2, "0") + ":" + m[2]);
+    if (/off|o'chir/i.test(text)) return setRemind(env, chat_id, msg.from, "off");
+    return remindMenu(env, chat_id, msg.from);
+  }
   if ((cmd === "/taklif" || cmd === "/dost") && msg.chat.type === "private") return showReferral(env, chat_id, msg.from);
   if (cmd === "/natijalar" && msg.chat.type !== "private") {
     if (!(await isAdmin(env, msg))) return;
@@ -1466,6 +1657,9 @@ export default {
           { command: "natijalarim", description: "📈 Mening natijalarim" },
           { command: "xatolarim", description: "🧩 Xatolar ustida ishlash" },
           { command: "taklif", description: "🎁 Do'stni taklif qilish" },
+          { command: "qidir", description: "🔍 Savol qidirish: /qidir Amir Temur" },
+          { command: "eslatma", description: "⏰ Kunlik eslatma va 🔥 ketma-ketlik" },
+          { command: "kun10", description: "▶️ Bugungi 10 ta savol" },
           { command: "boshla", description: "Guruhda mavzu tanlab viktorina boshlash" },
           { command: "natijalar", description: "📊 Oxirgi guruh testi jadvali (adminlar)" },
           { command: "oqituvchi", description: "👩‍🏫 O'qituvchilar uchun qo'llanma" },
@@ -1552,6 +1746,7 @@ export default {
       try {
         const b = m.body;
         if (b.t === "bc") await runBroadcastBatch(env, b);
+        else if (b.t === "rm") await runRemindBatch(env, b);
         else await advance(env, b.chat_id, b.session_id, b.idx);
       } catch (e) { await alertOwner(env, "taymer / xabar tarqatish", e); }
       m.ack();
@@ -1564,5 +1759,6 @@ export default {
     ctx.waitUntil(reportTick(env).catch((e) => alertOwner(env, "kunlik hisobot", e)));
     ctx.waitUntil(weeklyTick(env).catch((e) => alertOwner(env, "haftalik reyting", e)));
     ctx.waitUntil(dailyQTick(env).catch((e) => alertOwner(env, "kun savoli", e)));
+    ctx.waitUntil(remindTick(env).catch((e) => alertOwner(env, "eslatmalar", e)));
   },
 };
