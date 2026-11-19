@@ -136,6 +136,19 @@ body.playing .tabbar{display:none}
 .qbar button,.mini{background:#eef1f6}.qbar button.pri{background:var(--accent)}
 .tbl th{background:#f4f6fa}
 .tabbar,.qbar{box-shadow:0 -2px 10px rgba(0,0,0,.04)}
+.climb{position:relative;border-radius:20px;overflow:hidden;background:linear-gradient(#0a1530,#1a2f63 45%,#3b4f86 80%,#6d7fb0);box-shadow:0 4px 18px rgba(10,20,50,.25)}
+.climb svg{display:block;width:100%;height:auto}
+.climb .node{cursor:pointer}
+.chead{background:linear-gradient(135deg,#0b1730,#1b3a72);color:#fff;border-radius:20px;padding:16px;margin-bottom:12px}
+.chead .alt{font-size:30px;font-weight:800;line-height:1.1}
+.chead select{width:100%;margin-top:10px;font:inherit;font-size:14px;padding:9px 10px;border-radius:12px;border:0;background:rgba(255,255,255,.14);color:#fff}
+.chead select option{color:#000}
+.cbar{height:8px;border-radius:8px;background:rgba(255,255,255,.18);overflow:hidden;margin-top:10px}.cbar i{display:block;height:100%;background:linear-gradient(90deg,#3ddc84,#f3d58a)}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@keyframes pulse{0%{r:20;opacity:.7}100%{r:34;opacity:0}}
+.pulse{animation:pulse 1.6s ease-out infinite}
+.mini-climb{display:flex;align-items:center;gap:12px;padding:14px;border-radius:16px;background:linear-gradient(135deg,#0b1730,#24407a);color:#fff;width:100%;text-align:left;margin-top:12px;box-shadow:0 4px 14px rgba(10,20,50,.18)}
+.mini-climb .m{font-size:34px}
 .exp{font-size:calc(14px * var(--fs,1))}
 .exp{margin-top:12px;border-left:3px solid var(--gold);background:color-mix(in srgb,var(--gold) 10%,var(--card));padding:10px 12px;border-radius:0 12px 12px 0;font-size:14px;white-space:pre-wrap}
 .nav{display:flex;gap:8px;margin-top:14px}
@@ -253,6 +266,7 @@ function Home() {
   let h = `<div class="hero"><div class="brand">ISAKOV SCHOOL</div><div class="hello">Assalomu alaykum${name ? ", " + esc(name) : ""} 👋</div>
   <div class="chips"><div class="chip"><b>${fire} ${st}</b><span>kun ketma-ket</span></div><div class="chip"><b>${ME ? ME.stats.n : 0}</b><span>ishlangan test</span></div><div class="chip"><b>${ME ? ME.stats.avg : 0}%</b><span>o'rtacha natija</span></div></div></div>`;
   if (ME && ME.owner) h += `<button class="simc" style="margin-top:12px" onclick="go(Admin)"><b>🛠 Admin panel</b><small>Statistika, eng qiyin savollar, test qo'shish</small></button>`;
+  h += miniClimb();
   if (ME && ME.tasks && ME.tasks.length) {
     h += `<h2>📌 Ustoz topshiriqlari</h2><div class="list">`;
     ME.tasks.forEach((t) => { const ok = t.p !== null && t.p !== undefined; h += `<button class="item" onclick="Q=null;go(Intro,'${esc(t.quiz_id)}')"><span class="ic">${ok ? "✅" : "📌"}</span><span class="tx"><b>${esc(t.title)}</b><small>${esc(t.cls)} · ${ok ? "bajarildi: " + Math.round(t.p) + "%" : "hali bajarilmagan"}</small></span><span class="ar">›</span></button>`; });
@@ -864,6 +878,84 @@ async function giveTask(n) {
   const r = await api2("class/task", { id: CV.cls.id, n });
   if (!r || r.error) return toast((r && r.error) || "Xato");
   toast(`📨 ${r.sent} ta o'quvchiga yuborildi`); STACK.pop(); ClassView(CV.cls.id); syncBack();
+}
+
+
+// ---------- 🏔 Cho'qqiga yo'l (Everest) ----------
+const EV_BASE = 5364, EV_TOP = 8849;
+const PASS = 70;
+function routeSecs() { return CAT.sections.filter((x) => x.tests.length >= 5 && x.id !== "attru" && x.id !== "yangi"); }
+function curRoute() {
+  const rs = routeSecs(); let id = LS.get("isk_route", null);
+  if (!id || !rs.some((x) => x.id === id)) { const r = ((ME && ME.results) || []).map((x) => secOf(x.quiz_id)).find((x) => x && rs.includes(x)); id = r ? r.id : (rs.find((x) => x.id === "t6") || rs[0]).id; }
+  return rs.find((x) => x.id === id);
+}
+function routeState(sec) {
+  const tests = sec.tests, passed = tests.map((t) => (DONE.get(t.n) || 0) >= PASS);
+  let cur = passed.indexOf(false); if (cur < 0) cur = tests.length;
+  const done = passed.filter(Boolean).length, frac = done / tests.length;
+  return { tests, passed, cur, done, frac, alt: Math.round(EV_BASE + (EV_TOP - EV_BASE) * frac) };
+}
+const fmtM = (m) => String(m).replace(/\B(?=(\d{3})+(?!\d))/g, " ") + " m";
+function miniClimb() {
+  const sec = curRoute(); if (!sec) return "";
+  const st = routeState(sec);
+  return `<button class="mini-climb" onclick="go(Climb)"><span class="m">🏔</span><span style="flex:1"><b style="display:block;font-size:15.5px">Cho'qqiga yo'l · ${esc(sec.title)}</b><small style="opacity:.85">${st.done}/${st.tests.length} mavzu · balandlik ${fmtM(st.alt)}</small><div class="cbar" style="margin-top:7px"><i style="width:${Math.max(3, st.frac * 100)}%"></i></div></span><span style="font-size:20px;opacity:.7">›</span></button>`;
+}
+function Climb() {
+  const sec = curRoute(); if (!sec) return render('<div class="empty">Yo\'l topilmadi</div>');
+  const st = routeState(sec), n = st.tests.length;
+  const W = 360, GAP = 92, TOPPAD = 250, H = TOPPAD + n * GAP + 90;
+  const P = st.tests.map((_, i) => ({ x: 180 + 105 * Math.sin(i * 0.95 + 0.4), y: H - 70 - i * GAP }));
+  const S = { x: 180, y: 118 }; // cho'qqi
+  const pts = [{ x: 180, y: H - 10 }, ...P, S];
+  let d = `M${pts[0].x} ${pts[0].y}`;
+  for (let i = 0; i < pts.length - 1; i++) { const p0 = pts[Math.max(0, i - 1)], p1 = pts[i], p2 = pts[i + 1], p3 = pts[Math.min(pts.length - 1, i + 2)]; d += ` C${(p1.x + (p2.x - p0.x) / 6).toFixed(1)} ${(p1.y + (p2.y - p0.y) / 6).toFixed(1)} ${(p2.x - (p3.x - p1.x) / 6).toFixed(1)} ${(p2.y - (p3.y - p1.y) / 6).toFixed(1)} ${p2.x} ${p2.y}`; }
+  // tog'lar va manzara
+  let stars = ""; for (let i = 0; i < 40; i++) stars += `<circle cx="${(i * 97) % W}" cy="${(i * 53) % 230}" r="${i % 3 ? 0.9 : 1.6}" fill="#fff" opacity="${0.3 + (i % 4) * 0.15}"/>`;
+  let side = ""; for (let y = 380; y < H; y += 260) { side += `<path d="M-40 ${y + 200} L40 ${y} L120 ${y + 200}Z" fill="#20345f" opacity=".55"/><path d="M${W - 120} ${y + 330} L${W - 30} ${y + 120} L${W + 60} ${y + 330}Z" fill="#20345f" opacity=".5"/><path d="M40 ${y} L58 ${y + 40} L40 ${y + 32} L24 ${y + 36}Z" fill="#e8eefb" opacity=".55"/>`; }
+  const ev = `<path d="M-30 330 L95 200 L140 230 L180 92 L222 175 L260 150 L390 330Z" fill="#2a4277"/><path d="M180 92 L203 140 L190 135 L180 150 L168 132 L156 140Z" fill="#f4f7ff"/><path d="M95 200 L110 218 L98 214 L84 218Z" fill="#dfe7f7"/><path d="M260 150 L276 172 L262 168 L248 175Z" fill="#dfe7f7"/>`;
+  const flag = `<g transform="translate(180 92)"><line x1="0" y1="0" x2="0" y2="-34" stroke="#f3d58a" stroke-width="3"/><path d="M0 -34 L26 -26 L0 -18Z" fill="#e63946"/></g>`;
+  // lagerlar
+  const camps = [0.25, 0.5, 0.75].map((f, k) => { const i = Math.min(n - 1, Math.round(f * n) - 1); return i < 0 ? "" : `<g transform="translate(${P[i].x > 180 ? 10 : W - 96} ${P[i].y - GAP / 2})"><text font-size="20">⛺</text><text x="26" y="-2" font-size="10.5" fill="#cfd9f2" font-weight="700">${k + 2}-lager</text><text x="26" y="11" font-size="10" fill="#9fb0d6">${fmtM(Math.round(EV_BASE + (EV_TOP - EV_BASE) * ((i + 1) / n)))}</text></g>`; }).join("");
+  const nodes = P.map((p, i) => {
+    const t = st.tests[i], best = DONE.get(t.n), pass = st.passed[i], cur = i === st.cur;
+    const fill = pass ? "#2ecc71" : best != null ? "#f0b429" : cur ? "#ffffff" : "#33497d", stroke = pass ? "#bff5d4" : cur ? "#f3d58a" : "#7d8fbf";
+    const lbl = p.x > 180 ? -22 : 22, anc = p.x > 180 ? "end" : "start";
+    const num = (t.t.match(/^(\d+)(?:[–-]\d+)?-mavzu/) || [])[1] || i + 1;
+    const short = t.t.replace(/^\d+(?:[–-]\d+)?-mavzu\.?\s*/, "").slice(0, 26) + (t.t.length > 30 ? "…" : "");
+    return `<g class="node" onclick="Q=null;go(Intro,'${t.n}')">${cur ? `<circle cx="${p.x}" cy="${p.y}" r="20" fill="none" stroke="#f3d58a" stroke-width="2" class="pulse"/>` : ""}<circle cx="${p.x}" cy="${p.y}" r="16" fill="${fill}" stroke="${stroke}" stroke-width="3"/><text x="${p.x}" y="${p.y + 4.5}" text-anchor="middle" font-size="12" font-weight="800" fill="${pass || best != null ? "#fff" : cur ? "#0b1730" : "#c9d3ee"}">${pass ? "✓" : num}</text>
+      <text x="${p.x + lbl}" y="${p.y - 2}" text-anchor="${anc}" font-size="11" font-weight="700" fill="${cur ? "#fff" : "#c9d3ee"}">${esc(short)}</text><text x="${p.x + lbl}" y="${p.y + 12}" text-anchor="${anc}" font-size="10" fill="${pass ? "#8ff0b7" : best != null ? "#ffd479" : "#8fa1cc"}">${best != null ? "eng yaxshi: " + best + "%" : cur ? "keyingi qadam" : ""}</text></g>`;
+  }).join("");
+  const photo = TG && TG.initDataUnsafe && TG.initDataUnsafe.user && TG.initDataUnsafe.user.photo_url;
+  const av = `<g id="av"><g style="animation:bob 1.4s ease-in-out infinite"><circle r="19" fill="#f3d58a"/><circle r="16" fill="#0b1730"/>${photo ? `<image href="${esc(photo)}" x="-16" y="-16" width="32" height="32" clip-path="url(#avc)" preserveAspectRatio="xMidYMid slice"/>` : `<text y="7" text-anchor="middle" font-size="20">🧗</text>`}<path d="M-6 18 L0 26 L6 18Z" fill="#f3d58a"/></g></g>`;
+  const summitTxt = st.cur >= n ? `<text x="180" y="44" text-anchor="middle" font-size="16" font-weight="800" fill="#f3d58a">🎉 Cho'qqidasiz!</text>` : `<text x="180" y="44" text-anchor="middle" font-size="14" font-weight="800" fill="#f3d58a">EVEREST · ${fmtM(EV_TOP)}</text>`;
+  const svg = `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg"><defs><clipPath id="avc"><circle r="16"/></clipPath></defs>${stars}${side}${ev}${flag}${summitTxt}
+    <path id="trail" d="${d}" fill="none" stroke="#7d8fbf" stroke-width="5" stroke-dasharray="2 11" stroke-linecap="round" opacity=".8"/>
+    <path id="trailDone" d="${d}" fill="none" stroke="#3ddc84" stroke-width="6" stroke-linecap="round"/>
+    <g transform="translate(180 ${H - 10})"><text x="-58" y="-6" font-size="22">🏕</text><text x="-28" y="-14" font-size="11" fill="#cfd9f2" font-weight="700">Baza lageri</text><text x="-28" y="-1" font-size="10" fill="#9fb0d6">${fmtM(EV_BASE)}</text></g>
+    ${camps}${nodes}${av}</svg>`;
+  const nxt = st.tests[st.cur];
+  render(`<div class="chead"><div style="font-size:12px;letter-spacing:.14em;color:#d6aa4c;font-weight:700">CHO'QQIGA YO'L</div>
+    <div style="display:flex;align-items:flex-end;justify-content:space-between;margin-top:6px"><div><div class="alt">${fmtM(st.alt)}</div><small style="opacity:.8">balandlik · Everest ${fmtM(EV_TOP)}</small></div><div style="text-align:right"><b style="font-size:20px">${st.done}/${n}</b><br><small style="opacity:.8">mavzu o'zlashtirildi</small></div></div>
+    <div class="cbar"><i style="width:${Math.max(2, st.frac * 100)}%"></i></div>
+    <select onchange="LS.set('isk_route',this.value);Climb()">${routeSecs().map((x) => `<option value="${x.id}" ${x.id === sec.id ? "selected" : ""}>${x.icon} ${esc(x.title)} (${x.tests.length})</option>`).join("")}</select></div>
+    ${nxt ? `<button class="btn" style="margin:0 0 12px" onclick="Q=null;go(Intro,'${nxt.n}')">▶️ Keyingi qadam: ${esc(nxt.t.slice(0, 40))}</button>` : `<div class="note" style="margin:0 0 12px;text-align:center">🏔 Siz Everest cho'qqisiga chiqdingiz! Boshqa yo'lni tanlang.</div>`}
+    <div class="climb" id="climb">${svg}</div><div style="color:var(--hint);font-size:12.5px;margin:10px 4px">Har bir mavzu — bitta qadam. Testdan ${PASS}% va undan yuqori olsangiz, keyingi qadamga chiqasiz. Mavzuni bosing — test ochiladi.</div>`);
+  // yurish animatsiyasi
+  const path = document.getElementById("trail"), done = document.getElementById("trailDone"), avg = document.getElementById("av");
+  const total = path.getTotalLength();
+  const lenAt = (pt) => { let best = 0, bd = 1e9; for (let L = 0; L <= total; L += 3) { const q = path.getPointAtLength(L), dd = (q.x - pt.x) ** 2 + (q.y - pt.y) ** 2; if (dd < bd) { bd = dd; best = L; } } return best; };
+  const target = st.cur >= n ? total : st.cur === 0 ? 0 : lenAt(P[st.cur]);
+  const key = "isk_pos_" + sec.id, from = Math.min(LS.get(key, target), target);
+  LS.set(key, target);
+  const place = (L) => { const q = path.getPointAtLength(L); avg.setAttribute("transform", `translate(${q.x} ${q.y - 26})`); done.setAttribute("stroke-dasharray", `${L} ${total}`); };
+  const svgEl = document.querySelector("#climb svg"), scrollTo = (L) => { const q = path.getPointAtLength(L), r = svgEl.getBoundingClientRect(), y = window.scrollY + r.top + (q.y / H) * r.height; window.scrollTo({ top: Math.max(0, y - innerHeight * 0.55), behavior: "smooth" }); };
+  place(from); scrollTo(from);
+  if (target > from + 2) {
+    const dur = Math.min(4000, 900 + (target - from) * 4); let t0 = null;
+    setTimeout(() => { const step = (ts) => { if (!document.getElementById("av")) return; t0 = t0 || ts; const k = Math.min(1, (ts - t0) / dur), e = k < 0.5 ? 2 * k * k : 1 - (-2 * k + 2) ** 2 / 2; place(from + (target - from) * e); if (k < 1) requestAnimationFrame(step); else { hap("success"); if (st.cur >= n) toast("🏔 Tabriklaymiz! Siz cho'qqidasiz!"); else toast(`🧗 Yangi balandlik: ${fmtM(st.alt)}`); } }; requestAnimationFrame(step); setTimeout(() => scrollTo(target), 300); }, 500);
+  }
 }
 
 // ---------- obuna ----------
