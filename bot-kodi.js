@@ -1985,7 +1985,7 @@ async function customApi(env, url, b) {
 
 // ---------- 📣 Testni kanalga quiz qilib yuborish (faqat egasi) ----------
 function parseTestText(txt) {
-  const lines = String(txt || "").replace(/\r/g, "").split("\n");
+  const lines = String(txt || "").replace(/\r/g, "").replace(/[\uFE0E\uFE0F]/g, "").replace(/[✓☑✅]/g, "✔").split("\n");
   const qs = []; let cur = null, last = null;
   const optRe = /^\s*([+*✔✅]\s*)?([A-Ha-hА-Еа-е])\s*[).]\s*(.*)$/, qRe = /^\s*(\d{1,3})\s*[.)]\s*(.+)$/, LET = "ABCDEFGH", CYR = "АБВГДЕ";
   for (const raw of lines) {
