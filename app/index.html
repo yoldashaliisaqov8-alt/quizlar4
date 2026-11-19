@@ -543,6 +543,9 @@ async function boot() {
   CAT = c; ME = m;
   if (ME && ME.missing && ME.missing.length) return SubGate();
   home();
+  const sp = (TG && TG.initDataUnsafe && TG.initDataUnsafe.start_param) || "";
+  const want = (location.hash.match(/t=([\w-]+)/) || [])[1] || (sp.startsWith("t_") ? sp.slice(2) : "");
+  if (want && allTests().some((x) => x.n === want)) go(Intro, want);
 }
 boot();
 </script>

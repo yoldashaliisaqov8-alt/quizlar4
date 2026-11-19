@@ -1465,6 +1465,7 @@ async function onMessage(env, msg) {
   if (cmd === "/start" && msg.chat.type === "private") {
     if (arg && arg.startsWith("ref_")) return showMain(env, chat_id, null, msg.from);
     if (arg === "taklif") return showReferral(env, chat_id, msg.from);
+    if (arg && arg.startsWith("app_")) return appOpen(env, chat_id, arg.slice(4));
     if (arg === "natija") return myResults(env, chat_id, msg.from);
     if (arg === "eslatma") return remindMenu(env, chat_id, msg.from);
     if (arg === "kun10") return startDaily10(env, chat_id, msg.from);
@@ -1554,6 +1555,7 @@ async function onMessage(env, msg) {
 
   if (cmd === "/oqituvchi" || cmd === "/teacher") return teacherGuide(env, chat_id);
   if (cmd === "/ilova" && msg.chat.type === "private") return appCmd(env, chat_id);
+  if (cmd === "/havola" && String(msg.from && msg.from.id) === OWNER(env)) return havolaCmd(env, chat_id, (text.split(/\s+/)[1] || "").trim());
   if (cmd === "/qidir" && msg.chat.type === "private") return doSearch(env, chat_id, msg.from, text.replace(/^\/qidir(@\w+)?\s*/, ""));
   if (cmd === "/kun10" && msg.chat.type === "private") return startDaily10(env, chat_id, msg.from);
   if (cmd === "/eslatma" && msg.chat.type === "private") {
@@ -1735,6 +1737,24 @@ async function handleApi(env, req, url) {
   }
   return jres({ error: "404" }, 404);
 }
+async function appOpen(env, chat_id, name) {
+  const cat = await catalog(env);
+  const t = cat.sections.flatMap((x) => x.tests).find((x) => x.n === name);
+  if (!t) return appCmd(env, chat_id);
+  return send(env, chat_id, `📝 <b>${esc(t.t)}</b>\n\n❓ ${t.c} ta test savoli${t.w ? ` + ✍️ ${t.w} ta yozma javobli savol` : ""}\n\nIlovada imtihon rejimi, taymer va natija tahlili bor 👇`,
+    { reply_markup: { inline_keyboard: [[{ text: "📱 Ilovada ishlash", web_app: { url: APP_URL(env) + "#t=" + name } }], [{ text: "▶️ Bot ichida ishlash (" + t.c + " ta savol)", callback_data: "q:" + name }]] } });
+}
+async function havolaCmd(env, chat_id, name) {
+  const cat = await catalog(env);
+  const t = cat.sections.flatMap((x) => x.tests).find((x) => x.n === name);
+  if (!t) return send(env, chat_id, "Test nomini yozing: <code>/havola ms-19-11</code>\n\nNomlar ro'yxati: testlar-royxati.txt");
+  const u = await botUser(env);
+  await send(env, chat_id,
+    `🔗 <b>${esc(t.t)}</b>\n\n📱 Ilovada (${t.c}${t.w ? " + " + t.w + " yozma" : ""} savol):\n<code>https://t.me/${u}?start=app_${name}</code>\n\n🤖 Bot ichida (${t.c} savol):\n<code>https://t.me/${u}?start=${name}</code>\n\n<i>Havolani bossangiz nusxa olinadi. Pastdagi tayyor e'lonni kanalga forward qilishingiz mumkin 👇</i>`, { protect_content: false });
+  return send(env, chat_id,
+    `🔥 <b>YANGI TEST: ${esc(t.t)}</b>\n\n📝 ${t.c} ta test savoli${t.w ? ` + ✍️ ${t.w} ta yozma javobli savol (36–45)` : ""}\n⏱ Imtihon rejimi, taymer, ball va daraja bilan natija\n🎖 70% dan yuqori natijaga — sertifikat\n\n👇 Bosing va hoziroq ishlang!`,
+    { protect_content: false, reply_markup: { inline_keyboard: [[{ text: "📱 Testni boshlash", url: `https://t.me/${u}?start=app_${name}` }], [{ text: "🤖 Bot ichida ishlash", url: `https://t.me/${u}?start=${name}` }]] } });
+}
 async function appCmd(env, chat_id) {
   return send(env, chat_id, "📱 <b>Isakov school ilovasi</b>\n\nTestlar, imtihon rejimi, taymer, natijalar grafigi va reyting — hammasi bitta ilovada.\n\nPastdagi tugmani yoki chap pastdagi <b>«📚 Isakov school»</b> tugmasini bosing 👇",
     { reply_markup: { inline_keyboard: [[{ text: "📱 Ilovani ochish", web_app: { url: APP_URL(env) } }]] } });
@@ -1786,6 +1806,7 @@ export default {
           { command: "haftalik", description: "🏆 Haftalik reyting" },
           { command: "kunsavoli", description: "☀️ Kun savoli sozlamalari" },
           { command: "referal", description: "🎁 Referal statistikasi" },
+          { command: "havola", description: "🔗 Test havolasi: /havola ms-19-11" },
           { command: "xabar", description: "📢 Hammaga xabar" },
           { command: "excel", description: "📊 A'zolar jadvali" },
           { command: "reyting", description: "🏆 TOP-20" },
