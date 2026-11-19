@@ -1746,6 +1746,7 @@ async function handleApi(env, req, url) {
       streak: st.streak, best: st.best || 0, remind: st.active ? st.hhmm : null,
       stats: { n: agg.n || 0, avg: agg.t ? Math.round((agg.c / agg.t) * 100) : 0 },
       extra: await customList(env).catch(() => []), tasks: await myTasks(env, uid).catch(() => []),
+      done: (await env.DB.prepare("SELECT quiz_id, MAX(correct*100/total) p FROM results WHERE user_id=? GROUP BY quiz_id LIMIT 800").bind(uid).all()).results.map((r) => [r.quiz_id, r.p]),
       mistakes: await mistakeCount(env, uid), results, topics: (await getTopics(env, uid)).map((r) => [r.quiz_id, r.ok, r.n]),
       top: top.map((r) => ({ name: r.name || "—", c: r.c, n: r.n, me: r.user_id === uid })),
     });

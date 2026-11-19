@@ -102,6 +102,32 @@ h2{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--hint
 .tiles div{background:var(--card);border-radius:14px;padding:12px}
 .tiles b{display:block;font-size:22px}.tiles small{color:var(--hint);font-size:12px}
 .mini{font-size:12.5px;padding:6px 10px;border-radius:10px;background:var(--card);font-weight:600}
+.tabbar{position:fixed;left:0;right:0;bottom:0;z-index:5;background:#fff;border-top:1px solid var(--line);display:flex;justify-content:center;padding:6px 6px calc(6px + env(safe-area-inset-bottom))}
+.tabbar div{display:flex;width:100%;max-width:640px}
+.tabbar button{flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;font-size:11px;color:var(--hint);padding:4px 0;font-weight:600}
+.tabbar button .ti{font-size:21px;filter:grayscale(1);opacity:.65}
+.tabbar button.on{color:var(--accent)}.tabbar button.on .ti{filter:none;opacity:1}
+body.playing .tabbar{display:none}
+.qbar{position:fixed;left:0;right:0;bottom:0;z-index:5;background:#fff;border-top:1px solid var(--line);padding:8px 10px calc(8px + env(safe-area-inset-bottom));display:flex;justify-content:center}
+.qbar div{display:flex;gap:8px;width:100%;max-width:640px}
+.qbar button{flex:1;height:48px;border-radius:14px;background:var(--card);font-weight:700;font-size:15px}
+.qbar button.pri{flex:2;background:var(--accent);color:#fff}
+.qbar button:disabled{opacity:.35}
+.qbar button.fl{color:#b07d12}
+.tbar{height:7px;background:var(--line);border-radius:7px;overflow:hidden;margin:2px 0 12px}
+.tbar i{display:block;height:100%;border-radius:7px;transition:width .5s linear,background .5s}
+.aa{background:var(--card);border-radius:10px;padding:4px 10px;font-weight:800;font-size:14px}
+.sheet-bg{position:fixed;inset:0;background:rgba(10,15,30,.45);z-index:8;display:flex;align-items:flex-end;justify-content:center}
+.sheet{background:#fff;width:100%;max-width:640px;border-radius:20px 20px 0 0;padding:14px 16px calc(16px + env(safe-area-inset-bottom));max-height:80vh;overflow:auto}
+.sheet .grab{width:40px;height:5px;border-radius:5px;background:var(--line);margin:0 auto 12px}
+.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;color:var(--hint);margin-top:10px}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:4px;vertical-align:-2px;margin-right:4px}
+.st{flex:none;width:46px;text-align:center;font-size:12.5px;font-weight:800}
+.prog{background:var(--card);border-radius:14px;padding:12px 14px;margin-bottom:10px;font-size:13.5px}
+.q{font-size:calc(16px * var(--fs,1))}
+.opt{font-size:calc(15px * var(--fs,1))}
+.wp label{font-size:calc(14.5px * var(--fs,1))}
+.exp{font-size:calc(14px * var(--fs,1))}
 .exp{margin-top:12px;border-left:3px solid var(--gold);background:color-mix(in srgb,var(--gold) 10%,var(--card));padding:10px 12px;border-radius:0 12px 12px 0;font-size:14px;white-space:pre-wrap}
 .nav{display:flex;gap:8px;margin-top:14px}
 .nav .btn{margin:0}
@@ -137,6 +163,11 @@ h2{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--hint
 </head>
 <body>
 <div id="app"><div class="spin"></div></div>
+<nav class="tabbar" id="tabbar"><div>
+<button data-t="home" onclick="setTab('home')"><span class="ti">🏠</span>Bosh sahifa</button>
+<button data-t="tests" onclick="setTab('tests')"><span class="ti">📚</span>Testlar</button>
+<button data-t="res" onclick="setTab('res')"><span class="ti">📈</span>Natijalar</button>
+<button data-t="me" onclick="setTab('me')"><span class="ti">👤</span>Men</button></div></nav>
 <script>
 const TG = window.Telegram && Telegram.WebApp;
 const INIT = (TG && TG.initData) || "";
@@ -180,10 +211,30 @@ const locked = (secId) => ME && ME.locked && (ME.locked.includes("*") || ME.lock
 // ---------- navigatsiya ----------
 function go(fn, ...a) { stopTimer(); STACK.push([fn, a]); fn(...a); window.scrollTo(0, 0); syncBack(); }
 function back() { stopTimer(); if (STACK.length > 1) STACK.pop(); const [fn, a] = STACK[STACK.length - 1]; fn(...a); window.scrollTo(0, 0); syncBack(); }
-function home() { stopTimer(); STACK = []; go(Home); }
+function home() { stopTimer(); STACK = []; CURTAB = "home"; go(Home); }
 function syncBack() { if (!TG) return; if (STACK.length > 1) TG.BackButton.show(); else TG.BackButton.hide(); }
 if (TG) { TG.ready(); TG.expand(); TG.BackButton.onClick(async () => { if (Q && Q.live && !(await ask("Testni to'xtatasizmi? Natija saqlanmaydi."))) return; if (Q) Q.live = false; back(); }); try { TG.setHeaderColor("#ffffff"); TG.setBackgroundColor("#ffffff"); TG.setBottomBarColor && TG.setBottomBarColor("#ffffff"); } catch (e) {} }
-const render = (h) => { $app.innerHTML = h; };
+let CURTAB = "home";
+const render = (h, playing) => { $app.innerHTML = h; document.body.classList.toggle("playing", !!playing); const q = document.getElementById("qbar"); if (q && !playing) q.remove(); document.querySelectorAll("#tabbar button").forEach((b) => b.classList.toggle("on", b.dataset.t === CURTAB)); };
+async function setTab(t) {
+  if (Q && Q.live && !(await ask("Testni to'xtatasizmi? Natija saqlanmaydi."))) return;
+  if (Q) Q.live = false; CURTAB = t; stopTimer(); STACK = [];
+  go({ home: Home, tests: Catalog, res: Results, me: Profile }[t]);
+}
+// ---------- progress (ishlangan / boshlangan testlar) ----------
+const LS = { get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch (e) { return d; } }, set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} } };
+let DONE = new Map();
+const SPECIAL = (id) => ["xatolar", "kun10", "qidiruv"].includes(id) || String(id).startsWith("sim-");
+function stOf(n) {
+  if (DONE.has(n)) return { k: "done", p: DONE.get(n) };
+  const S = LS.get("isk_st", {}); if (S[n] && Date.now() - S[n] < 14 * 86400000) return { k: "start" };
+  return { k: "new" };
+}
+function stBadge(n) { const s = stOf(n); return s.k === "done" ? `<span class="st" style="color:${pcol(s.p)}">✅<br>${s.p}%</span>` : s.k === "start" ? `<span class="st">⏳</span>` : `<span class="st" style="opacity:.45">⚪</span>`; }
+function secProg(tests) { const d = tests.filter((t) => DONE.has(t.n)).length; return [d, tests.length]; }
+function progBox([d, n]) { const p = n ? Math.round((d / n) * 100) : 0; return `<div class="prog"><div style="display:flex;justify-content:space-between"><span><b>${n}</b> tadan <b>${d}</b> tasi ishlangan</span><b style="color:var(--accent)">${p}%</b></div><div class="hbar"><i style="width:${Math.max(2, p)}%;background:var(--accent)"></i></div></div>`; }
+let FS = LS.get("isk_fs", 1); document.documentElement.style.setProperty("--fs", FS);
+function bumpFs() { FS = FS >= 1.3 ? 1 : FS >= 1.15 ? 1.3 : 1.15; LS.set("isk_fs", FS); document.documentElement.style.setProperty("--fs", FS); toast("Shrift: " + Math.round(FS * 100) + "%"); }
 
 // ---------- bosh sahifa ----------
 function Home() {
@@ -203,13 +254,25 @@ function Home() {
   <div class="row2"><button class="act" onclick="startDaily()"><span class="ic">${fire}</span><b>Bugungi 10 ta savol</b><small>Har kuni zanjirni davom ettiring</small></button>
   <button class="act" onclick="startMistakes()"><span class="ic">🧩</span><b>Xatolar ustida ishlash</b><small>${ME ? ME.mistakes + " ta xato savol" : "Xato savollaringiz"}</small></button></div>
   <button class="simc" style="background:linear-gradient(135deg,#0b1730,#1b3a72);color:#fff;border:0" onclick="go(SimMenu)"><b>🎓 Imtihon simulyatsiyasi</b><small style="color:#d6dcea">Milliy sertifikat va attestatsiya — rasmiy tuzilma, 90 daqiqa, natija ballda</small></button>
-  <h2>Bo'limlar</h2><div class="list">`;
-  CAT.groups.forEach((g, i) => { const n = g.secs.reduce((a, s) => a + ((CAT.sections.find((x) => x.id === s) || { tests: [] }).tests.length), 0); h += `<button class="item" onclick="go(Group,${i})"><span class="ic">${g.icon}</span><span class="tx"><b>${esc(g.title)}</b><small>${n} ta test</small></span><span class="ar">›</span></button>`; });
-  h += `</div><h2>Mening yutuqlarim</h2><div class="list">
-  <button class="item" onclick="go(Analysis)"><span class="ic">🎯</span><span class="tx"><b>Zaif va kuchli mavzularim</b><small>Qaysi mavzuni takrorlash kerak</small></span><span class="ar">›</span></button>
-  <button class="item" onclick="go(Results)"><span class="ic">📈</span><span class="tx"><b>Natijalarim</b><small>Grafik va oxirgi testlar</small></span><span class="ar">›</span></button>
-  <button class="item" onclick="go(Classes)"><span class="ic">👩‍🏫</span><span class="tx"><b>Sinflarim</b><small>O'qituvchilar uchun: sinf ochish va natijalar jadvali</small></span><span class="ar">›</span></button>
-  <button class="item" onclick="go(Rating)"><span class="ic">🏆</span><span class="tx"><b>Haftalik reyting</b><small>Eng faol o'quvchilar</small></span><span class="ar">›</span></button></div>`;
+`;
+  render(h);
+}
+function Catalog() {
+  let h = `<div class="title">📚 Testlar</div><form class="search" style="margin-top:0" onsubmit="event.preventDefault();go(Search,this.q.value)"><span>🔍</span><input name="q" placeholder="Mavzu yoki atama: Amir Temur…" enterkeyhint="search"></form>`;
+  h += progBox(secProg(CAT.sections.flatMap((x) => x.tests))) + `<div class="list">`;
+  CAT.groups.forEach((g, i) => { const tests = g.secs.flatMap((id) => (CAT.sections.find((x) => x.id === id) || { tests: [] }).tests), [d, n] = secProg(tests); h += `<button class="item" onclick="go(Group,${i})"><span class="ic">${g.icon}</span><span class="tx"><b>${esc(g.title)}</b><small>${n} ta test${d ? ` · ✅ ${d} tasi ishlangan` : ""}</small>${d ? `<div class="hbar"><i style="width:${Math.round((d / n) * 100)}%;background:var(--accent)"></i></div>` : ""}</span><span class="ar">›</span></button>`; });
+  h += `</div><div class="legend" style="margin:12px 4px"><span>✅ ishlangan (eng yaxshi natija)</span><span>⏳ boshlangan</span><span>⚪ hali ochilmagan</span></div>`;
+  render(h);
+}
+function Profile() {
+  const name = (ME && ME.user.name) || (TG && TG.initDataUnsafe && TG.initDataUnsafe.user && TG.initDataUnsafe.user.first_name) || "O'quvchi";
+  let h = `<div class="hero"><div class="brand">ISAKOV SCHOOL</div><div class="hello">👤 ${esc(name)}</div><div class="chips"><div class="chip"><b>🔥 ${ME ? ME.streak : 0}</b><span>kun ketma-ket</span></div><div class="chip"><b>🏅 ${ME ? ME.best : 0}</b><span>eng uzun zanjir</span></div><div class="chip"><b>${DONE.size}</b><span>ishlangan test</span></div></div></div><div class="list" style="margin-top:12px">`;
+  if (ME && ME.owner) h += `<button class="item" onclick="go(Admin)"><span class="ic">🛠</span><span class="tx"><b>Admin panel</b><small>Statistika va test qo'shish</small></span><span class="ar">›</span></button>`;
+  h += `<button class="item" onclick="go(Classes)"><span class="ic">👩‍🏫</span><span class="tx"><b>Sinflarim</b><small>O'qituvchilar uchun: sinf va natijalar jadvali</small></span><span class="ar">›</span></button>
+  <button class="item" onclick="toBot('eslatma')"><span class="ic">⏰</span><span class="tx"><b>Kunlik eslatma</b><small>${ME && ME.remind ? "Har kuni " + ME.remind + " da" : "O'chiq — yoqish uchun bosing"}</small></span><span class="ar">›</span></button>
+  <button class="item" onclick="bumpFs();Profile()"><span class="ic" style="font-weight:800">Aa</span><span class="tx"><b>Shrift o'lchami</b><small>Hozir: ${Math.round(FS * 100)}% — bosib o'zgartiring</small></span></button>
+  <button class="item" onclick="toBot('taklif')"><span class="ic">🎁</span><span class="tx"><b>Do'stni taklif qilish</b><small>Havolangizni ulashing</small></span><span class="ar">›</span></button></div>
+  <div style="text-align:center;color:var(--hint);font-size:12.5px;margin-top:18px">Isakov school · Ustoz Yo'ldashali Isaqov<br>t.me/yoldashaliisakov</div>`;
   render(h);
 }
 function Group(i) {
@@ -217,13 +280,14 @@ function Group(i) {
   const secs = g.secs.map((id) => CAT.sections.find((s) => s.id === id)).filter(Boolean);
   if (secs.length === 1) return Section(secs[0].id);
   let h = `<div class="title">${g.icon} ${esc(g.title)}</div><div class="list">`;
-  for (const s of secs) h += `<button class="item" onclick="go(Section,'${s.id}')"><span class="ic">${s.icon}</span><span class="tx"><b>${esc(s.title)}</b><small>${s.tests.length} ta test</small></span>${locked(s.id) ? "🔒" : '<span class="ar">›</span>'}</button>`;
+  h = `<div class="title">${g.icon} ${esc(g.title)}</div>` + progBox(secProg(secs.flatMap((x) => x.tests))) + `<div class="list">`;
+  for (const s of secs) { const [d, n] = secProg(s.tests); h += `<button class="item" onclick="go(Section,'${s.id}')"><span class="ic">${s.icon}</span><span class="tx"><b>${esc(s.title)}</b><small>${n} ta test${d ? ` · ✅ ${d} tasi ishlangan` : ""}</small>${d ? `<div class="hbar"><i style="width:${Math.round((d / n) * 100)}%;background:var(--accent)"></i></div>` : ""}</span>${locked(s.id) ? "🔒" : '<span class="ar">›</span>'}</button>`; }
   render(h + "</div>");
 }
 function Section(id) {
   const s = CAT.sections.find((x) => x.id === id);
-  let h = `<div class="title">${s.icon} ${esc(s.title)}</div><div class="list">`;
-  s.tests.forEach((t) => { h += `<button class="item" onclick="go(Intro,'${t.n}')"><span class="tx"><b>${esc(t.t)}</b></span><span class="badge">${t.c}${t.w ? " + ✍️" + t.w : ""}</span></button>`; });
+  let h = `<div class="title">${s.icon} ${esc(s.title)}</div>` + progBox(secProg(s.tests)) + `<div class="list">`;
+  s.tests.forEach((t) => { h += `<button class="item" onclick="go(Intro,'${t.n}')">${stBadge(t.n)}<span class="tx"><b>${esc(t.t)}</b><small>${t.c} savol${t.w ? " + ✍️ " + t.w + " yozma" : ""}</small></span><span class="ar">›</span></button>`; });
   render(h + "</div>");
 }
 
@@ -250,6 +314,7 @@ function IntroView() {
 }
 function begin() {
   Q.qs = Q.raw.map((q) => { if (q.w) return { w: true, q: q.q, parts: q.parts, exp: q.explanation, src: q.src, pos: q.pos }; const o = q.options.map((t, i) => ({ t, ok: i === q.answer })); shuffle(o); return { q: q.q, img: q.image, exp: q.explanation, src: q.src, pos: q.pos, opts: o.map((x) => x.t), ans: o.findIndex((x) => x.ok) }; });
+  if (!SPECIAL(Q.id)) { const S = LS.get("isk_st", {}); S[Q.id] = Date.now(); LS.set("isk_st", S); }
   Q.i = 0; Q.chk = new Set(); Q.picks = Array(Q.qs.length).fill(null); Q.flags = new Set(); Q.t0 = Date.now(); Q.live = true;
   if (Q.mode === "exam") Q.deadline = Date.now() + (Q.sim ? SIMS[Q.sim].mins * 60 : Q.qs.reduce((a, q) => a + qTime(q), 0)) * 1000;
   STACK.push([Play, []]); syncBack(); Play();
@@ -260,38 +325,62 @@ function Play() {
   stopTimer();
   const q = Q.qs[Q.i], n = Q.qs.length, p = Q.picks[Q.i], learn = Q.mode === "learn";
   const answered = learn && (q.w ? Q.chk.has(Q.i) : p !== null);
-  let h = `<div class="top"><span class="n">${Q.i + 1} / ${n}</span><span class="t" id="tm">…</span></div><div class="bar"><i style="width:${((Q.i + (answered ? 1 : 0)) / n) * 100}%"></i></div>
+  let h = `<div class="top"><span class="n">${Q.i + 1} / ${n}</span>${Q.flags.has(Q.i) ? '<span style="color:#b07d12">★</span>' : ""}<button class="aa" onclick="bumpFs()">Aa</button><span class="t" id="tm">…</span></div><div class="tbar"><i id="tb" style="width:100%;background:#1f9d55"></i></div>
   <div class="card">${q.w ? `<span class="wtag">✍️ Yozma javob</span>` : ""}<div class="q">${esc(q.q)}${q.img ? `<img src="${BASE + esc(q.img)}" alt="">` : ""}</div></div>`;
   if (q.w) h += writtenHtml(q, Q.i, answered);
-  else { h += `<div class="opts">`;
-  q.opts.forEach((o, k) => {
-    let c = "";
-    if (answered) c = k === q.ans ? "ok" : k === p ? "bad" : "";
-    else if (p === k) c = "sel";
-    h += `<button class="opt ${c}" onclick="pick(${k})" ${answered ? "disabled" : ""}><span class="l">${L[k]}</span><span>${esc(o)}</span></button>`;
-  });
-  h += "</div>"; }
-  if (q.w && learn && !answered) h += `<button class="btn" onclick="checkW()">✔️ Tekshirish</button>`;
-  if (answered) {
-    if (q.exp) h += `<div class="exp">💡 ${esc(q.exp)}</div>`;
-    h += `<button class="btn" onclick="next()">${Q.i + 1 < n ? "Keyingi savol ▶" : "Natijani ko'rish 🏁"}</button>`;
+  else {
+    h += `<div class="opts">`;
+    q.opts.forEach((o, k) => {
+      let c = "";
+      if (answered) c = k === q.ans ? "ok" : k === p ? "bad" : "";
+      else if (p === k) c = "sel";
+      h += `<button class="opt ${c}" onclick="pick(${k})" ${answered ? "disabled" : ""}><span class="l">${L[k]}</span><span>${esc(o)}</span></button>`;
+    });
+    h += "</div>";
   }
-  if (!learn) {
-    h += `<div class="nav"><button class="btn ghost" onclick="move(-1)" ${Q.i ? "" : "disabled style='opacity:.4'"}>◀</button><button class="btn ghost" onclick="flag()">${Q.flags.has(Q.i) ? "★ Belgilangan" : "☆ Belgilash"}</button><button class="btn ghost" onclick="move(1)" ${Q.i + 1 < n ? "" : "disabled style='opacity:.4'"}>▶</button></div><div class="grid">`;
-    Q.qs.forEach((_, k) => { h += `<button class="${Q.picks[k] !== null ? "done" : ""} ${k === Q.i ? "cur" : ""} ${Q.flags.has(k) ? "flag" : ""}" onclick="jump(${k})">${k + 1}</button>`; });
-    h += `</div><button class="btn" onclick="tryFinish()">🏁 Yakunlash (${Q.picks.filter((x) => x !== null).length}/${n})</button>`;
+  if (answered && q.exp) h += `<div class="exp">💡 ${esc(q.exp)}</div>`;
+  render(h, true);
+  // pastki doimiy panel
+  const last = Q.i + 1 >= n;
+  let bar;
+  if (learn) {
+    const right = q.w && !answered ? `<button class="pri" onclick="checkW()">✔️ Tekshirish</button>` : `<button class="pri" onclick="next()" ${answered ? "" : "disabled"}>${last ? "🏁 Natija" : "Keyingi ▶"}</button>`;
+    bar = `<button onclick="openMap()">☰ ${Q.i + 1}/${n}</button>${right}`;
+  } else {
+    bar = `<button onclick="move(-1)" ${Q.i ? "" : "disabled"}>◀</button><button onclick="openMap()">☰ ${Q.picks.filter((x) => x !== null).length}/${n}</button><button class="fl" onclick="flag()">${Q.flags.has(Q.i) ? "★" : "☆"}</button>` +
+      (last ? `<button class="pri" onclick="tryFinish()">🏁 Yakunlash</button>` : `<button class="pri" onclick="move(1)">Keyingi ▶</button>`);
   }
-  render(h);
-  const tm = document.getElementById("tm");
-  if (learn && answered) { tm.textContent = "✓"; return; }
+  let qb = document.getElementById("qbar");
+  if (!qb) { qb = document.createElement("nav"); qb.className = "qbar"; qb.id = "qbar"; document.body.appendChild(qb); }
+  qb.innerHTML = `<div>${bar}</div>`;
+  const tm = document.getElementById("tm"), tb = document.getElementById("tb");
+  if (learn && answered) { tm.textContent = "✓"; tb.style.width = "100%"; tb.style.background = "var(--line)"; return; }
+  const total = learn ? qTime(q) * 1000 : Q.deadline - Q.t0;
   const end = learn ? (Q.qEnd = Q.qEnd && Q.qIdx === Q.i ? Q.qEnd : Date.now() + qTime(q) * 1000) : Q.deadline;
   Q.qIdx = Q.i;
   const tick = () => {
-    const left = (end - Date.now()) / 1000; tm.textContent = "⏱ " + fmt(left); tm.classList.toggle("low", left < (learn ? 6 : 60));
+    const leftMs = end - Date.now(), left = leftMs / 1000, fr = Math.max(0, Math.min(1, leftMs / total));
+    tm.textContent = "⏱ " + fmt(left); tm.classList.toggle("low", fr < 0.2);
+    tb.style.width = fr * 100 + "%"; tb.style.background = fr > 0.5 ? "#1f9d55" : fr > 0.2 ? "#e0a020" : "#de4545";
     if (left <= 0) { stopTimer(); if (learn) { if (q.w) return checkW(true); Q.picks[Q.i] = -1; hap("error"); Play(); } else { toast("⏱ Vaqt tugadi"); finish(); } }
   };
   tick(); TIMER = setInterval(tick, 500);
 }
+function openMap() {
+  const n = Q.qs.length, learn = Q.mode === "learn";
+  const cls = (k) => { if (learn) { const q = Q.qs[k], p = Q.picks[k]; const done = q.w ? Q.chk.has(k) : p !== null; if (!done) return ""; const [g, m] = pts(k); return g === m ? "ok" : "bad"; } return Q.picks[k] !== null ? "done" : ""; };
+  const d = document.createElement("div"); d.className = "sheet-bg"; d.onclick = (e) => { if (e.target === d) d.remove(); };
+  d.innerHTML = `<div class="sheet"><div class="grab"></div><b>Savollar xaritasi</b><div class="grid">${Q.qs.map((_, k) => `<button class="${cls(k)} ${k === Q.i ? "cur" : ""} ${Q.flags.has(k) ? "flag" : ""}" onclick="this.closest('.sheet-bg').remove();${learn ? "" : `jump(${k})`}">${k + 1}</button>`).join("")}</div>
+  <div class="legend">${learn ? '<span><i style="background:var(--ok)"></i>to\'g\'ri</span><span><i style="background:var(--bad)"></i>xato</span>' : '<span><i style="background:color-mix(in srgb,var(--accent) 16%,#fff)"></i>javob berilgan</span><span><i style="box-shadow:inset 0 -3px 0 var(--gold);background:#fff;border:1px solid var(--line)"></i>belgilangan ★</span>'}<span><i style="border:2px solid var(--accent);background:#fff"></i>hozirgi</span></div>
+  ${learn ? "" : `<button class="btn" onclick="this.closest('.sheet-bg').remove();tryFinish()">🏁 Yakunlash (${Q.picks.filter((x) => x !== null).length}/${n})</button>`}<button class="btn ghost" onclick="this.closest('.sheet-bg').remove()">Yopish</button></div>`;
+  document.body.appendChild(d);
+}
+// barmoq bilan surish
+(() => { let sx = 0, sy = 0, ok = false;
+  document.addEventListener("touchstart", (e) => { const t = e.target; ok = document.body.classList.contains("playing") && !t.closest("input,textarea,.sheet-bg,.tbl,.qbar"); sx = e.touches[0].clientX; sy = e.touches[0].clientY; }, { passive: true });
+  document.addEventListener("touchend", (e) => { if (!ok || !Q || !Q.live) return; const dx = e.changedTouches[0].clientX - sx, dy = e.changedTouches[0].clientY - sy; if (Math.abs(dx) < 70 || Math.abs(dy) > 50) return;
+    if (Q.mode === "exam") move(dx < 0 ? 1 : -1); else if (dx < 0) { const q = Q.qs[Q.i]; if (q.w ? Q.chk.has(Q.i) : Q.picks[Q.i] !== null) next(); } }, { passive: true });
+})();
 function pick(k) {
   if (!Q.live) return;
   if (Q.mode === "exam") { Q.picks[Q.i] = k; tap(); if (Q.i + 1 < Q.qs.length) setTimeout(() => move(1), 180); else Play(); return; }
@@ -327,6 +416,7 @@ async function finish() {
   const pct = Math.round((correct / maxp) * 100);
   Q.P = P; Q.maxp = maxp;
   Q.res = { correct, pct, secs: Math.round((Date.now() - Q.t0) / 1000) };
+  if (!SPECIAL(Q.id)) { DONE.set(Q.id, Math.max(DONE.get(Q.id) || 0, pct)); const S = LS.get("isk_st", {}); delete S[Q.id]; LS.set("isk_st", S); }
   STACK.pop(); STACK.push([Result, []]); syncBack();
   Result(true);
   const sc = Q.sim ? simScore() : null;
@@ -529,7 +619,7 @@ async function startSearch() {
 function Results() {
   if (!ME) return render(`<div class="empty">Natijalarni ko'rish uchun ilovani bot orqali oching.</div>`);
   const rs = ME.results || [];
-  let h = `<div class="title">📈 Natijalarim</div><div class="card"><div class="stats3" style="margin:0"><div><b>${ME.stats.n}</b><small>testlar</small></div><div><b>${ME.stats.avg}%</b><small>o'rtacha</small></div><div><b>${ME.streak}</b><small>kun ketma-ket</small></div></div>`;
+  let h = `<div class="title">📈 Natijalarim</div><div class="row2"><button class="act" style="min-height:70px" onclick="go(Analysis)"><span class="ic">🎯</span><b>Zaif va kuchli mavzular</b></button><button class="act" style="min-height:70px" onclick="go(Rating)"><span class="ic">🏆</span><b>Haftalik reyting</b></button></div><div class="card"><div class="stats3" style="margin:0"><div><b>${ME.stats.n}</b><small>testlar</small></div><div><b>${ME.stats.avg}%</b><small>o'rtacha</small></div><div><b>${ME.streak}</b><small>kun ketma-ket</small></div></div>`;
   if (rs.length) {
     const a = rs.slice().reverse(), W = 320, H = 150, bw = W / a.length;
     h += `<svg class="chart" viewBox="0 0 ${W} ${H + 20}" style="margin-top:14px"><line x1="0" x2="${W}" y1="${H - H * 0.7}" y2="${H - H * 0.7}" stroke="var(--gold)" stroke-dasharray="4 4"/><text x="2" y="${H - H * 0.7 - 4}" font-size="9" fill="var(--hint)">70% — sertifikat</text>`;
@@ -759,9 +849,9 @@ function SubGate() {
   let h = `<div class="hero"><div class="brand">ISAKOV SCHOOL</div><div class="hello">📢 Kanalimizga obuna bo'ling</div><div style="opacity:.85">Ilovadan foydalanish uchun kanalga obuna bo'lish kerak. Kanalda yangi testlar va foydali materiallar chiqadi.</div></div><div class="list" style="margin-top:12px">`;
   ME.missing.forEach((c) => { h += `<button class="item" onclick="TG?TG.openTelegramLink('${esc(c.link)}'):open('${esc(c.link)}')"><span class="ic">📢</span><span class="tx"><b>${esc(c.name)}</b><small>Obuna bo'lish</small></span><span class="ar">›</span></button>`; });
   h += `</div><button class="btn" onclick="boot()">✅ Obuna bo'ldim — tekshirish</button>`;
-  render(h);
+  render(h, true);
 }
-async function refreshMe() { const m = await api("me"); if (m) ME = m; }
+async function refreshMe() { const m = await api("me"); if (m) { ME = m; if (m.done) for (const [n, p] of m.done) DONE.set(n, Math.max(DONE.get(n) || 0, p)); } }
 
 async function boot() {
   render('<div class="spin"></div>');
@@ -769,6 +859,7 @@ async function boot() {
   if (!c) return render('<div class="empty">Yuklanmadi. Internetni tekshirib, ilovani qayta oching.</div>');
   CAT = c; ME = m;
   if (ME && ME.extra && ME.extra.length) mergeExtra(ME.extra);
+  if (ME && ME.done) DONE = new Map(ME.done);
   if (ME && ME.missing && ME.missing.length) return SubGate();
   home();
   const sp = (TG && TG.initDataUnsafe && TG.initDataUnsafe.start_param) || "";
