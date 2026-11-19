@@ -75,6 +75,17 @@ h2{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--hint
 .wp input.bad{border-color:var(--bad);background:color-mix(in srgb,var(--bad) 8%,#fff)}
 .wp .ans{font-size:13.5px;margin-top:5px}
 .wtag{display:inline-block;font-size:12px;font-weight:700;color:#8a6414;background:color-mix(in srgb,var(--gold) 22%,#fff);border-radius:8px;padding:2px 8px;margin-bottom:8px}
+.simc{border:2px solid var(--line);border-radius:16px;padding:14px;text-align:left;width:100%;background:var(--card);margin-bottom:10px;display:block}
+.simc b{display:block;font-size:16px}.simc small{color:var(--hint);font-size:13px}
+.score{background:linear-gradient(135deg,#0b1730,#1b3a72);color:#fff;border-radius:18px;padding:18px;text-align:center}
+.score .big{font-size:42px;font-weight:800;line-height:1.1}
+.score .lv{display:inline-block;margin-top:6px;background:var(--gold);color:#1b1300;font-weight:800;border-radius:10px;padding:4px 14px;font-size:20px}
+.score small{display:block;opacity:.8;margin-top:8px;font-size:12.5px}
+.brk{margin-top:12px}.brk div{display:flex;justify-content:space-between;padding:8px 2px;border-top:1px solid var(--line);font-size:14px}
+.brk div:first-child{border-top:0}
+.scale{display:grid;grid-template-columns:repeat(6,1fr);gap:4px;margin-top:12px}
+.scale span{text-align:center;font-size:11.5px;border-radius:8px;padding:5px 0;background:var(--card);color:var(--hint)}
+.scale span.on{background:var(--gold);color:#1b1300;font-weight:800}
 .exp{margin-top:12px;border-left:3px solid var(--gold);background:color-mix(in srgb,var(--gold) 10%,var(--card));padding:10px 12px;border-radius:0 12px 12px 0;font-size:14px;white-space:pre-wrap}
 .nav{display:flex;gap:8px;margin-top:14px}
 .nav .btn{margin:0}
@@ -169,6 +180,7 @@ function Home() {
   h += `<form class="search" onsubmit="event.preventDefault();go(Search,this.q.value)"><span>🔍</span><input name="q" placeholder="Mavzu yoki atama: Amir Temur…" enterkeyhint="search"></form>
   <div class="row2"><button class="act" onclick="startDaily()"><span class="ic">${fire}</span><b>Bugungi 10 ta savol</b><small>Har kuni zanjirni davom ettiring</small></button>
   <button class="act" onclick="startMistakes()"><span class="ic">🧩</span><b>Xatolar ustida ishlash</b><small>${ME ? ME.mistakes + " ta xato savol" : "Xato savollaringiz"}</small></button></div>
+  <button class="simc" style="background:linear-gradient(135deg,#0b1730,#1b3a72);color:#fff;border:0" onclick="go(SimMenu)"><b>🎓 Imtihon simulyatsiyasi</b><small style="color:#d6dcea">Milliy sertifikat va attestatsiya — rasmiy tuzilma, 90 daqiqa, natija ballda</small></button>
   <h2>Bo'limlar</h2><div class="list">`;
   CAT.groups.forEach((g, i) => { const n = g.secs.reduce((a, s) => a + ((CAT.sections.find((x) => x.id === s) || { tests: [] }).tests.length), 0); h += `<button class="item" onclick="go(Group,${i})"><span class="ic">${g.icon}</span><span class="tx"><b>${esc(g.title)}</b><small>${n} ta test</small></span><span class="ar">›</span></button>`; });
   h += `</div><h2>Mening yutuqlarim</h2><div class="list">
@@ -202,7 +214,7 @@ async function Intro(n) {
   IntroView();
 }
 function prepare(id, title, qs, time) {
-  Q = { id, title, time, mode: Q && Q.mode ? Q.mode : "learn", raw: qs, live: false };
+  Q = { id, title, time, mode: Q && Q.mode && !Q.sim ? Q.mode : "learn", raw: qs, live: false, sim: null };
 }
 function IntroView() {
   const nw = Q.raw.filter((q) => q.w).length, n = Q.raw.length - nw, mins = Math.ceil(((n + nw * 3) * Q.time) / 60);
@@ -213,9 +225,9 @@ function IntroView() {
   <button class="btn" onclick="begin()">▶️ Boshlash</button></div>`);
 }
 function begin() {
-  Q.qs = Q.raw.map((q) => { if (q.w) return { w: true, q: q.q, parts: q.parts, exp: q.explanation, src: q.src }; const o = q.options.map((t, i) => ({ t, ok: i === q.answer })); shuffle(o); return { q: q.q, img: q.image, exp: q.explanation, src: q.src, opts: o.map((x) => x.t), ans: o.findIndex((x) => x.ok) }; });
+  Q.qs = Q.raw.map((q) => { if (q.w) return { w: true, q: q.q, parts: q.parts, exp: q.explanation, src: q.src, pos: q.pos }; const o = q.options.map((t, i) => ({ t, ok: i === q.answer })); shuffle(o); return { q: q.q, img: q.image, exp: q.explanation, src: q.src, pos: q.pos, opts: o.map((x) => x.t), ans: o.findIndex((x) => x.ok) }; });
   Q.i = 0; Q.chk = new Set(); Q.picks = Array(Q.qs.length).fill(null); Q.flags = new Set(); Q.t0 = Date.now(); Q.live = true;
-  if (Q.mode === "exam") Q.deadline = Date.now() + Q.qs.reduce((a, q) => a + qTime(q), 0) * 1000;
+  if (Q.mode === "exam") Q.deadline = Date.now() + (Q.sim ? SIMS[Q.sim].mins * 60 : Q.qs.reduce((a, q) => a + qTime(q), 0)) * 1000;
   STACK.push([Play, []]); syncBack(); Play();
 }
 function stopTimer() { if (TIMER) clearInterval(TIMER); TIMER = null; }
@@ -293,7 +305,8 @@ async function finish() {
   Q.res = { correct, pct, secs: Math.round((Date.now() - Q.t0) / 1000) };
   STACK.pop(); STACK.push([Result, []]); syncBack();
   Result(true);
-  const r = await api("result", { quiz_id: Q.id, title: Q.title, total: maxp, correct,
+  const sc = Q.sim ? simScore() : null;
+  const r = await api("result", { quiz_id: Q.id, title: Q.title, total: sc ? (SIMS[Q.sim].kind === "att" ? 50 : 100) : maxp, correct: sc ? (SIMS[Q.sim].kind === "att" ? Math.round(sc.raw / 2) : Math.round((sc.raw / sc.max) * 100)) : correct,
     wrong: qs.filter((q, k) => P[k][0] < P[k][1]).map((q) => q.src), right: qs.filter((q, k) => P[k][0] === P[k][1]).map((q) => q.src) });
   if (r) { Q.res.saved = r; if (ME) { ME.streak = r.streak; ME.mistakes = r.mistakes; ME.stats.n++; } refreshMe(); Result(); }
 }
@@ -304,14 +317,15 @@ function ring(p) {
 function Result(first) {
   const { correct, pct, secs, saved } = Q.res, n = Q.maxp, nq = Q.qs.length, bad = Q.P.filter((x) => x[0] < x[1]).length, hasW = Q.qs.some((q) => q.w);
   const msg = pct >= 86 ? "🏆 A'lo natija!" : pct >= 70 ? "✅ Yaxshi natija!" : pct >= 56 ? "🙂 Yomon emas" : "📖 Mavzuni yana takrorlang";
-  let h = `<div class="card" style="text-align:center"><div class="title" style="margin:0 0 4px">${msg}</div><div class="res-n">${esc(Q.title)}</div>${ring(pct)}${hasW ? `<div class="res-n" style="font-size:13px">Ball: ${correct} / ${n} (yozma savolning har bir bandi — 1 ball)</div>` : ""}
+  let h = Q.sim ? simCard().html + "<div style='height:12px'></div>" : "";
+  h += `<div class="card" style="text-align:center"><div class="title" style="margin:0 0 4px">${Q.sim ? "Javoblar" : msg}</div><div class="res-n">${esc(Q.title)}</div>${ring(pct)}${hasW ? `<div class="res-n" style="font-size:13px">Ball: ${correct} / ${n} (yozma savolning har bir bandi — 1 ball)</div>` : ""}
   <div class="stats3"><div><b style="color:var(--ok)">${correct}</b><small>to'g'ri</small></div><div><b style="color:var(--bad)">${n - correct}</b><small>xato / javobsiz</small></div><div><b>${fmt(secs)}</b><small>sarflangan vaqt</small></div></div>`;
   if (saved) {
     const s = saved.streak, f = s >= 100 ? "👑" : s >= 30 ? "💎" : "🔥";
     h += `<div class="note">${f} Ketma-ket kunlar: <b>${s}</b>${[7, 30, 100].includes(s) ? " — 🎉 yangi belgi!" : ""}${saved.cert ? "<br>🎖 <b>Sertifikatingiz botga yuborildi!</b> Chatni oching." : ""}</div>`;
   } else if (!INIT) h += `<div class="warn">Natija saqlanmadi: ilovani bot orqali oching.</div>`;
   else if (first) h += `<div class="res-n" style="margin-top:10px;font-size:13px">Natija saqlanmoqda…</div>`;
-  h += `<button class="btn" onclick="begin()">🔁 Qayta ishlash</button><button class="btn ghost" onclick="home()">📚 Bosh sahifa</button></div>`;
+  h += `<button class="btn" onclick="${Q.sim ? `go(SimIntro,'${Q.sim}')` : "begin()"}">${Q.sim ? "🔁 Yangi variant" : "🔁 Qayta ishlash"}</button><button class="btn ghost" onclick="home()">📚 Bosh sahifa</button></div>`;
   const tab = Q.tab || "bad";
   h += `<div class="tabs"><button class="${tab === "bad" ? "on" : ""}" onclick="Q.tab='bad';Result()">Xatolar (${bad})</button><button class="${tab === "all" ? "on" : ""}" onclick="Q.tab='all';Result()">Hammasi (${nq})</button></div>`;
   let cnt = 0;
@@ -360,6 +374,93 @@ async function startDaily() {
   STACK.push([IntroView, []]); syncBack(); IntroView();
 }
 
+// ---------- imtihon simulyatsiyasi ----------
+const r1 = (x) => Math.round(x * 10) / 10;
+const f1 = (x) => r1(x).toFixed(1).replace(".", ",");
+const MS_W = (pos) => ([1, 3, 12, 14, 21, 24, 25, 28, 29, 32].includes(pos) ? 1.3 : [5, 6, 11, 13, 16, 19, 20, 37, 38, 39].includes(pos) ? 3.2 : 2.2);
+const MS_SEC = [["Siyosiy tarix", 1, 20], ["Ijtimoiy-iqtisodiy tarix", 21, 26], ["Mamlakatlar madaniyati", 27, 32], ["Moslashtirish (A–F)", 33, 35], ["Ochiq (yozma) savollar", 36, 45]];
+const HQ_SEC = [["Yopiq savollar", 1, 35], ["Ochiq (yozma) savollar", 36, 45]];
+const ATT_SEC = [["Mutaxassislik fani (tarix)", 1, 35], ["Kasb standarti", 36, 40], ["Pedagogika va pedagogik mahorat", 41, 47], ["Tarix o'qitish metodikasi", 48, 50]];
+const SIMS = {
+  ms: { title: "🎯 Milliy sertifikat · Tarix", id: "sim-ms", vars: ["ms-14-11", "ms-15-11", "ms-qiyin"], closed: 35, open: 10, mins: 90, kind: "ms", sec: MS_SEC,
+    desc: "45 topshiriq: 35 ta yopiq + 10 ta yozma · 90 daqiqa · rasmiy ball jadvali (1,3 / 2,2 / 3,2) · natija 75 ballik shkalada, A+ … C daraja" },
+  hq: { title: "⚖️ Milliy sertifikat · Huquq", id: "sim-huquq", vars: ["huquq-demo-1", "huquq-demo-2", "huquq-demo-3", "huquq-demo-4", "huquq-demo-5", "huquq-demo-6", "huquq-demo-7", "huquq-demo-8", "huquq-aprob-7"], closed: 35, open: 10, mins: 90, kind: "ms", sec: HQ_SEC,
+    desc: "45 topshiriq: 35 ta yopiq + 10 ta yozma · 90 daqiqa · natija 75 ballik shkalada, A+ … C daraja" },
+  att: { title: "🎓 Attestatsiya · Tarix", id: "sim-att", vars: [], closed: 50, open: 0, mins: 90, kind: "att", sec: ATT_SEC,
+    desc: "50 ta test: 35 tarix + 5 kasb standarti + 7 pedagogika + 3 metodika · 90 daqiqa · har biri 2 ball · toifa natijasi" },
+};
+function SimMenu() {
+  let h = `<div class="title">🎓 Imtihon simulyatsiyasi</div><div style="color:var(--hint);margin:-6px 4px 12px;font-size:13.5px">Haqiqiy imtihondagidek: rasmiy savol tartibi, umumiy vaqt, javoblar oxirida. Har safar har bir raqamdagi savol turli variantlardan olinadi — yangi variant chiqadi.</div>`;
+  for (const k in SIMS) h += `<button class="simc" onclick="go(SimIntro,'${k}')"><b>${SIMS[k].title}</b><small>${SIMS[k].desc}</small></button>`;
+  render(h);
+}
+async function buildSim(k) {
+  const S = SIMS[k];
+  if (k === "att") S.vars = CAT.sections.find((x) => x.id === "att").tests.filter((t) => t.c === 50).map((t) => t.n);
+  const data = {};
+  await Promise.all(S.vars.map(async (n) => { try { data[n] = await getQuiz(n); } catch (e) {} }));
+  const V = Object.keys(data), qs = [];
+  for (let pos = 1; pos <= S.closed; pos++) {
+    const c = shuffle(V.filter((n) => data[n].questions.length >= S.closed));
+    if (!c.length) continue; const n = c[0];
+    qs.push({ ...data[n].questions[pos - 1], src: [n, pos - 1], pos });
+  }
+  for (let j = 0; j < S.open; j++) {
+    const c = shuffle(V.filter((n) => data[n].written && data[n].written[j]));
+    if (!c.length) continue; const n = c[0];
+    qs.push({ ...data[n].written[j], w: true, src: [n, 500 + j], pos: S.closed + j + 1 });
+  }
+  return qs;
+}
+function SimIntro(k) {
+  const S = SIMS[k];
+  const rules = S.kind === "ms"
+    ? `<div class="brk">${S.sec.map(([t, a, b]) => `<div><span>${a}–${b}. ${t}</span><b>${f1(Array.from({ length: b - a + 1 }, (_, i) => MS_W(a + i)).reduce((x, y) => x + y, 0))} ball</b></div>`).join("")}</div>
+      <div class="note" style="font-size:13px">Xom ball 100 dan hisoblanadi va 75 ballik shkalaga o'tkaziladi: A+ 70+, A 65+, B+ 60+, B 55+, C+ 50+, C 46+. 46 dan past — sertifikat berilmaydi.${k === "hq" ? " Huquq uchun ham tarixdagi rasmiy ball jadvali asos qilib olindi." : ""}</div>`
+    : `<div class="brk">${S.sec.map(([t, a, b]) => `<div><span>${a}–${b}. ${t}</span><b>${(b - a + 1) * 2} ball</b></div>`).join("")}</div>
+      <div class="note" style="font-size:13px">Toifa chegaralari: 80+ — oliy, 70–79 — birinchi, 60–69 — ikkinchi, 55–59 — mutaxassis. Toifa bir attestatsiyada faqat bir pog'onaga o'zgaradi.</div>`;
+  render(`<div class="card"><div class="title" style="margin:0 0 6px">${S.title}</div><div style="color:var(--hint);font-size:14px">${S.desc}</div>${rules}
+  <div class="warn">⏱ Vaqt boshlangach to'xtatib bo'lmaydi. Javoblarni istalgan tartibda belgilashingiz va o'zgartirishingiz mumkin.</div>
+  <button class="btn" onclick="startSim('${k}')">▶️ Imtihonni boshlash</button></div>`);
+}
+async function startSim(k) {
+  render('<div class="spin"></div>');
+  const S = SIMS[k], qs = await buildSim(k);
+  if (!qs.length) return render('<div class="empty">Savollar yuklanmadi. Internetni tekshiring.</div>');
+  prepare(S.id, S.title + " (simulyatsiya)", qs, 45); Q.mode = "exam"; Q.sim = k;
+  begin();
+}
+function simScore() {
+  const S = SIMS[Q.sim];
+  const per = Q.qs.map((q, k) => {
+    const p = Q.picks[k];
+    if (S.kind === "att") return { pos: q.pos, got: p === q.ans ? 2 : 0, max: 2 };
+    const W = MS_W(q.pos);
+    if (!q.w) return { pos: q.pos, got: p === q.ans ? W : 0, max: W };
+    const n = q.parts.length, ws = n === 2 ? (W === 3.2 ? [1.5, 1.7] : [W / 2, W / 2]) : Array(n).fill(W / n);
+    return { pos: q.pos, got: q.parts.reduce((a, pt, j) => a + (p && okAns(p[j], pt.a) ? ws[j] : 0), 0), max: W };
+  });
+  const raw = per.reduce((a, x) => a + x.got, 0), max = per.reduce((a, x) => a + x.max, 0);
+  const secs = S.sec.map(([t, a, b]) => { const xs = per.filter((x) => x.pos >= a && x.pos <= b); return [t, a, b, xs.reduce((s, x) => s + x.got, 0), xs.reduce((s, x) => s + x.max, 0)]; });
+  return { raw, max, secs };
+}
+const MS_LV = [["A+", 70], ["A", 65], ["B+", 60], ["B", 55], ["C+", 50], ["C", 46]];
+function simCard() {
+  const S = SIMS[Q.sim], { raw, max, secs } = simScore();
+  let h = "";
+  if (S.kind === "ms") {
+    const sc = r1((raw / max) * 75), lv = (MS_LV.find((x) => sc >= x[1]) || ["—"])[0];
+    h += `<div class="score"><div style="font-size:13px;opacity:.85">Taxminiy ball</div><div class="big">${f1(sc)}</div><div class="lv">${lv === "—" ? "Sertifikat berilmaydi" : lv + " daraja"}</div><small>Xom ball: ${f1(raw)} / ${f1(max)} · 75 ballik shkala</small></div>
+    <div class="scale">${MS_LV.map(([l, b]) => `<span class="${l === lv ? "on" : ""}">${l}<br>${b}+</span>`).join("")}</div>`;
+  } else {
+    const b = Math.round(raw), t = b >= 80 ? "Oliy toifa darajasi" : b >= 70 ? "Birinchi toifa darajasi" : b >= 60 ? "Ikkinchi toifa darajasi" : b >= 55 ? "Mutaxassis darajasi" : "Lavozimga muvofiq emas";
+    h += `<div class="score"><div style="font-size:13px;opacity:.85">Attestatsiya natijasi</div><div class="big">${b} <span style="font-size:20px;opacity:.7">/ 100</span></div><div class="lv">${t}</div><small>${b / 2} ta to'g'ri javob · har biri 2 ball</small></div>
+    <div class="scale" style="grid-template-columns:repeat(4,1fr)">${[["Oliy", 80], ["1-toifa", 70], ["2-toifa", 60], ["Mutaxassis", 55]].map(([l, x], i, a) => `<span class="${b >= x && (i === 0 || b < a[i - 1][1]) ? "on" : ""}">${l}<br>${x}+</span>`).join("")}</div>`;
+  }
+  const fx = S.kind === "att" ? (x) => String(Math.round(x)) : f1;
+  h += `<div class="card brk" style="margin-top:12px">${secs.map(([t, a, b, g, m]) => `<div><span>${a}–${b}. ${t}</span><b style="white-space:nowrap;padding-left:8px">${fx(g)} / ${fx(m)}</b></div>`).join("")}</div>`;
+  return { html: h, raw, max };
+}
 // ---------- qidiruv ----------
 const STOPW = new Set("qaysi bilan uchun yilda aniqlang toping topin javob berilgan quyidagi ularning ushbu davrida hamda yillarda qanday nima kimning kim nechta asrda asrning bo'lgan bolgan edi etdi qilgan yil yili tomonidan haqida".split(" "));
 const normTok = (s) => (String(s).toLowerCase().replace(/[‘’ʻʼ`´'"]/g, "").match(/[\p{L}\p{N}]+/gu) || []).filter((t) => t.length >= 3 && !STOPW.has(t));
