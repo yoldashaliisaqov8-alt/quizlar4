@@ -1492,6 +1492,12 @@ async function onMessage(env, msg) {
       await ensureLock(env);
       const kw = await env.DB.prepare("SELECT v FROM settings WHERE k='kanal_wait'").first();
       if (kw) return kanalPrepare(env, msg.chat.id, msg.text || msg.caption || "", msg.photo ? msg.photo[msg.photo.length - 1].file_id : null, kw.v);
+      // /kanal yozilmagan bo'lsa ham: matn tayyor test bo'lsa (variantlar + belgilangan javob) — kanalga tayyorlash
+      const body = msg.text || msg.caption || "";
+      if (parseTestText(body).some((q) => q.answer >= 0 && q.options.length >= 2)) {
+        const ch = ((await env.DB.prepare("SELECT v FROM settings WHERE k='post_ch'").first()) || {}).v || "@yoldashaliisakov";
+        return kanalPrepare(env, msg.chat.id, body, msg.photo ? msg.photo[msg.photo.length - 1].file_id : null, ch);
+      }
     }
     if (!t0.startsWith("/")) {
       await ensureLock(env);
