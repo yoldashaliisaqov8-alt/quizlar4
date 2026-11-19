@@ -171,6 +171,26 @@ body.playing .tabbar{display:none}
 .srow .sl{flex:none;width:34px;height:34px;border-radius:10px;display:grid;place-items:center;font-weight:800;background:#eef1f6}
 .srow b{display:block;font-size:15px}.srow small{color:var(--hint);font-size:12.5px}
 .srow .sa{margin-left:auto;font-weight:700;color:var(--accent);font-size:14px;flex:none}
+.seg{display:flex;background:#eef1f6;border-radius:14px;padding:4px;gap:4px;flex-wrap:wrap}
+.seg button{flex:1 1 0;min-width:22%;padding:10px 6px;border-radius:11px;font-weight:600;font-size:14px;color:var(--text);border:2px solid transparent}
+.seg button.on{background:#fff;border-color:var(--accent);color:var(--accent)}
+.sset{background:var(--card);border-radius:18px;padding:14px;margin-bottom:12px;box-shadow:0 1px 3px rgba(20,30,60,.07)}
+.sset h3{margin:0;font-size:16px}.sset p{margin:2px 0 10px;color:var(--hint);font-size:12.5px}
+.prev{background:var(--bg);border-radius:14px;padding:12px;margin-bottom:10px}
+.tgl{display:flex;align-items:center;gap:12px;width:100%;text-align:left}
+.tgl .sw{margin-left:auto;flex:none;width:50px;height:30px;border-radius:30px;background:#cfd5df;position:relative;transition:.2s}
+.tgl .sw:after{content:"";position:absolute;top:3px;left:3px;width:24px;height:24px;border-radius:50%;background:#fff;transition:.2s;box-shadow:0 1px 3px rgba(0,0,0,.2)}
+.tgl.on .sw{background:var(--accent)}.tgl.on .sw:after{left:23px}
+:root[data-theme=dark]{--bg:#0f1420;--card:#1a2130;--text:#e8ecf4;--hint:#8e98ab;--line:#2b3447;color-scheme:dark}
+:root[data-theme=dark] body{background:#0f1420;color:#e8ecf4}
+:root[data-theme=dark] .tabbar,:root[data-theme=dark] .qbar,:root[data-theme=dark] .sheet,:root[data-theme=dark] .plan,:root[data-theme=dark] .mcard,:root[data-theme=dark] .subj button,:root[data-theme=dark] .tbl,:root[data-theme=dark] .grid button,:root[data-theme=dark] .seg button.on{background:#1a2130}
+:root[data-theme=dark] .qbar button,:root[data-theme=dark] .mini,:root[data-theme=dark] .seg,:root[data-theme=dark] .srow .sl,:root[data-theme=dark] .ptask .ck,:root[data-theme=dark] .qbar button.fl{background:#252e40}
+:root[data-theme=dark] .qbar button.pri{background:var(--accent)}
+:root[data-theme=dark] .wp input,:root[data-theme=dark] .fld input,:root[data-theme=dark] .fld select,:root[data-theme=dark] .fld textarea{background:#11182a;color:#e8ecf4}
+:root[data-theme=dark] .q img{background:#fff}
+:root[data-theme=dark] .plan{border-color:#2b4a7a}
+:root[data-theme=dark] .tbl th{background:#141a28}
+:root[data-theme=dark] .wtag{background:#3a2f12;color:#f3d58a}
 .exp{font-size:calc(14px * var(--fs,1))}
 .exp{margin-top:12px;border-left:3px solid var(--gold);background:color-mix(in srgb,var(--gold) 10%,var(--card));padding:10px 12px;border-radius:0 12px 12px 0;font-size:14px;white-space:pre-wrap}
 .nav{display:flex;gap:8px;margin-top:14px}
@@ -223,8 +243,11 @@ let CAT = null, ME = null, Q = null, STACK = [], TIMER = null;
 const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const L = "ABCDEFGH";
 const shuffle = (a) => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
-const hap = (t) => { try { TG.HapticFeedback.notificationOccurred(t); } catch (e) {} };
-const tap = () => { try { TG.HapticFeedback.selectionChanged(); } catch (e) {} };
+const CFGD = { theme: "light", qt: null, order: "mix", exp: true, auto: true, hap: true };
+const cfg = () => ({ ...CFGD, ...LS.get("isk_cfg", {}) });
+const setCfg = (k, v) => { const c = cfg(); c[k] = v; LS.set("isk_cfg", c); };
+const hap = (t) => { if (!cfg().hap) return; try { TG.HapticFeedback.notificationOccurred(t); } catch (e) {} };
+const tap = () => { if (!cfg().hap) return; try { TG.HapticFeedback.selectionChanged(); } catch (e) {} };
 function toast(t) { const d = document.createElement("div"); d.className = "toast"; d.textContent = t; document.body.appendChild(d); setTimeout(() => d.remove(), 2600); }
 function ask(t) { return new Promise((r) => { if (TG && TG.showConfirm && INIT) TG.showConfirm(t, r); else r(confirm(t)); }); }
 
@@ -248,7 +271,8 @@ function okAns(v, forms) { const x = nrm(v); if (!x) return false; return forms.
 const qOf = (d, i) => (i >= 500 ? d.written && d.written[i - 500] && { ...d.written[i - 500], w: true } : d.questions[i]);
 // [olingan ball, maksimal ball]
 function pts(k) { const q = Q.qs[k], p = Q.picks[k]; if (!q.w) return [p === q.ans ? 1 : 0, 1]; return [q.parts.filter((pt, j) => p && okAns(p[j], pt.a)).length, q.parts.length]; }
-const qTime = (q) => (q.w ? Q.time * 3 : Q.time);
+const qTime = (q) => { const c = cfg(), base = Q.mode === "learn" && !Q.sim && c.qt ? c.qt : Q.time; return q.w ? base * 3 : base; };
+const noTimer = () => Q.mode === "learn" && !Q.sim && cfg().qt === 0;
 const allTests = () => CAT.sections.flatMap((s) => s.tests.map((t) => ({ ...t, sec: s })));
 const secOf = (n) => CAT.sections.find((s) => s.tests.some((t) => t.n === n));
 const locked = (secId) => ME && ME.locked && (ME.locked.includes("*") || ME.locked.includes(secId));
@@ -258,7 +282,12 @@ function go(fn, ...a) { stopTimer(); STACK.push([fn, a]); fn(...a); window.scrol
 function back() { stopTimer(); if (STACK.length > 1) STACK.pop(); const [fn, a] = STACK[STACK.length - 1]; fn(...a); window.scrollTo(0, 0); syncBack(); }
 function home() { stopTimer(); STACK = []; CURTAB = "home"; go(Home); }
 function syncBack() { if (!TG) return; if (STACK.length > 1) TG.BackButton.show(); else TG.BackButton.hide(); }
-if (TG) { TG.ready(); TG.expand(); TG.BackButton.onClick(async () => { if (Q && Q.live && !(await ask("Testni to'xtatasizmi? Natija saqlanmaydi."))) return; if (Q) Q.live = false; back(); }); try { TG.setHeaderColor("#f4f6fa"); TG.setBackgroundColor("#f4f6fa"); TG.setBottomBarColor && TG.setBottomBarColor("#ffffff"); } catch (e) {} }
+if (TG) { TG.ready(); TG.expand(); TG.BackButton.onClick(async () => { if (Q && Q.live && !(await ask("Testni to'xtatasizmi? Natija saqlanmaydi."))) return; if (Q) Q.live = false; back(); }); }
+function applyTheme() {
+  const t = cfg().theme, dark = t === "dark" || (t === "auto" && ((TG && TG.colorScheme === "dark") || (window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches)));
+  document.documentElement.dataset.theme = dark ? "dark" : "light";
+  try { TG.setHeaderColor(dark ? "#0f1420" : "#f4f6fa"); TG.setBackgroundColor(dark ? "#0f1420" : "#f4f6fa"); TG.setBottomBarColor && TG.setBottomBarColor(dark ? "#161c2a" : "#ffffff"); } catch (e) {}
+}
 let CURTAB = "home";
 const render = (h, playing) => { $app.innerHTML = h; document.body.classList.toggle("playing", !!playing); const q = document.getElementById("qbar"); if (q && !playing) q.remove(); document.querySelectorAll("#tabbar button").forEach((b) => b.classList.toggle("on", b.dataset.t === CURTAB)); };
 async function setTab(t) {
@@ -278,8 +307,10 @@ function stOf(n) {
 function stBadge(n) { const s = stOf(n); return s.k === "done" ? `<span class="st" style="color:${pcol(s.p)}">✅<br>${s.p}%</span>` : s.k === "start" ? `<span class="st">⏳</span>` : `<span class="st" style="opacity:.45">⚪</span>`; }
 function secProg(tests) { const d = tests.filter((t) => DONE.has(t.n)).length; return [d, tests.length]; }
 function progBox([d, n]) { const p = n ? Math.round((d / n) * 100) : 0; return `<div class="prog"><div style="display:flex;justify-content:space-between"><span><b>${n}</b> tadan <b>${d}</b> tasi ishlangan</span><b style="color:var(--accent)">${p}%</b></div><div class="hbar"><i style="width:${Math.max(2, p)}%;background:var(--accent)"></i></div></div>`; }
-let FS = LS.get("isk_fs", 1); document.documentElement.style.setProperty("--fs", FS);
-function bumpFs() { FS = FS >= 1.3 ? 1 : FS >= 1.15 ? 1.3 : 1.15; LS.set("isk_fs", FS); document.documentElement.style.setProperty("--fs", FS); toast("Shrift: " + Math.round(FS * 100) + "%"); }
+let FS = LS.get("isk_fs", 1); document.documentElement.style.setProperty("--fs", FS); applyTheme();
+if (TG && TG.onEvent) TG.onEvent("themeChanged", applyTheme);
+function setFs(v) { FS = v; LS.set("isk_fs", FS); document.documentElement.style.setProperty("--fs", FS); }
+function bumpFs() { FS = FS >= 1.3 ? 0.9 : FS >= 1.15 ? 1.3 : FS >= 1 ? 1.15 : 1; LS.set("isk_fs", FS); document.documentElement.style.setProperty("--fs", FS); toast("Shrift: " + Math.round(FS * 100) + "%"); }
 
 // ---------- bosh sahifa ----------
 function Home() {
@@ -379,7 +410,7 @@ function Profile() {
   h += `<button class="item" onclick="go(Results)"><span class="ic">📈</span><span class="tx"><b>Natijalarim</b><small>Grafik, oxirgi testlar, zaif mavzular</small></span><span class="ar">›</span></button>
   <button class="item" onclick="go(Classes)"><span class="ic">👩‍🏫</span><span class="tx"><b>Sinflarim</b><small>O'qituvchilar uchun: sinf va natijalar jadvali</small></span><span class="ar">›</span></button>
   <button class="item" onclick="toBot('eslatma')"><span class="ic">⏰</span><span class="tx"><b>Kunlik eslatma</b><small>${ME && ME.remind ? "Har kuni " + ME.remind + " da" : "O'chiq — yoqish uchun bosing"}</small></span><span class="ar">›</span></button>
-  <button class="item" onclick="bumpFs();Profile()"><span class="ic" style="font-weight:800">Aa</span><span class="tx"><b>Shrift o'lchami</b><small>Hozir: ${Math.round(FS * 100)}% — bosib o'zgartiring</small></span></button>
+  <button class="item" onclick="go(Settings)"><span class="ic">⚙️</span><span class="tx"><b>Sozlamalar</b><small>Ekran rangi, yozuv o'lchami, vaqt, savollar tartibi</small></span><span class="ar">›</span></button>
   <button class="item" onclick="toBot('taklif')"><span class="ic">🎁</span><span class="tx"><b>Do'stni taklif qilish</b><small>Havolangizni ulashing</small></span><span class="ar">›</span></button></div>
   <div style="text-align:center;color:var(--hint);font-size:12.5px;margin-top:18px">Isakov school · Ustoz Yo'ldashali Isaqov<br>t.me/yoldashaliisakov</div>`;
   render(h);
@@ -423,6 +454,7 @@ function IntroView() {
 }
 function begin() {
   Q.qs = Q.raw.map((q) => { if (q.w) return { w: true, q: q.q, parts: q.parts, exp: q.explanation, src: q.src, pos: q.pos }; const o = q.options.map((t, i) => ({ t, ok: i === q.answer })); shuffle(o); return { q: q.q, img: q.image, exp: q.explanation, src: q.src, pos: q.pos, opts: o.map((x) => x.t), ans: o.findIndex((x) => x.ok) }; });
+  if (cfg().order === "mix" && !Q.sim) { const cl = Q.qs.filter((q) => !q.w), wr = Q.qs.filter((q) => q.w); Q.qs = shuffle(cl).concat(wr); }
   if (!SPECIAL(Q.id)) { const S = LS.get("isk_st", {}); S[Q.id] = Date.now(); LS.set("isk_st", S); }
   Q.i = 0; Q.chk = new Set(); Q.picks = Array(Q.qs.length).fill(null); Q.flags = new Set(); Q.t0 = Date.now(); Q.live = true;
   if (Q.mode === "exam") Q.deadline = Date.now() + (Q.sim ? SIMS[Q.sim].mins * 60 : Q.qs.reduce((a, q) => a + qTime(q), 0)) * 1000;
@@ -447,7 +479,7 @@ function Play() {
     });
     h += "</div>";
   }
-  if (answered && q.exp) h += `<div class="exp">💡 ${esc(q.exp)}</div>`;
+  if (answered && q.exp && cfg().exp) h += `<div class="exp">💡 ${esc(q.exp)}</div>`;
   render(h, true);
   // pastki doimiy panel
   const last = Q.i + 1 >= n;
@@ -464,6 +496,7 @@ function Play() {
   qb.innerHTML = `<div>${bar}</div>`;
   const tm = document.getElementById("tm"), tb = document.getElementById("tb");
   if (learn && answered) { tm.textContent = "✓"; tb.style.width = "100%"; tb.style.background = "var(--line)"; return; }
+  if (noTimer()) { tm.textContent = "⏱ ∞"; tb.style.width = "100%"; tb.style.background = "var(--line)"; return; }
   const total = learn ? qTime(q) * 1000 : Q.deadline - Q.t0;
   const end = learn ? (Q.qEnd = Q.qEnd && Q.qIdx === Q.i ? Q.qEnd : Date.now() + qTime(q) * 1000) : Q.deadline;
   Q.qIdx = Q.i;
@@ -495,7 +528,7 @@ function pick(k) {
   if (Q.mode === "exam") { Q.picks[Q.i] = k; tap(); if (Q.i + 1 < Q.qs.length) setTimeout(() => move(1), 180); else Play(); return; }
   if (Q.picks[Q.i] !== null) return;
   Q.picks[Q.i] = k; const ok = k === Q.qs[Q.i].ans; hap(ok ? "success" : "error"); Play();
-  if (ok && !Q.qs[Q.i].exp) setTimeout(() => { if (Q.live && Q.picks[Q.i] === k) next(); }, 1000);
+  if (ok && cfg().auto && (!Q.qs[Q.i].exp || !cfg().exp)) setTimeout(() => { if (Q.live && Q.picks[Q.i] === k) next(); }, 1000);
 }
 function writtenHtml(q, k, show) {
   const p = Q.picks[k] || [];
@@ -1045,6 +1078,32 @@ function Climb() {
     setTimeout(() => { const step = (ts) => { if (!document.getElementById("av")) return; t0 = t0 || ts; const k = Math.min(1, (ts - t0) / dur), e = k < 0.5 ? 2 * k * k : 1 - (-2 * k + 2) ** 2 / 2; place(from + (target - from) * e); if (k < 1) requestAnimationFrame(step); else { hap("success"); if (st.cur >= n) toast("🏔 Tabriklaymiz! Siz cho'qqidasiz!"); else toast(`🧗 Yangi balandlik: ${fmtM(st.alt)}`); } }; requestAnimationFrame(step); setTimeout(() => scrollTo(target), 300); }, 500);
   }
 }
+
+
+// ---------- sozlamalar ----------
+function Settings() {
+  const c = cfg();
+  const seg = (k, opts, cur) => `<div class="seg">${opts.map(([v, t]) => `<button class="${JSON.stringify(cur) === JSON.stringify(v) ? "on" : ""}" onclick='${k}(${JSON.stringify(v)})'>${t}</button>`).join("")}</div>`;
+  const tg = (k, title, sub) => `<button class="tgl ${c[k] ? "on" : ""}" onclick="setCfg('${k}',${!c[k]});Settings()"><span><b style="display:block;font-size:16px">${title}</b><small style="color:var(--hint);font-size:12.5px">${sub}</small></span><span class="sw"></span></button>`;
+  const qtList = [[0, "O'chiq"], [5, "5 s"], [10, "10 s"], [15, "15 s"], [20, "20 s"], [30, "30 s"], [45, "45 s"], [null, "Test bo'yicha"]];
+  const custom = c.qt && !qtList.some(([v]) => v === c.qt);
+  render(`<div class="title">⚙️ Sozlamalar</div>
+  <div class="sset"><h3>Ekran rangi</h3><p>Avto — Telegramdagi kabi o'zi almashadi</p>${seg("stTheme", [["auto", "Avto"], ["light", "Yorug'"], ["dark", "Qorong'i"]], c.theme)}</div>
+  <div class="sset"><h3>Yozuv o'lchami</h3><p>Savol va javoblar matni</p>
+    <div class="prev"><div class="card" style="padding:12px"><div class="q" style="font-weight:700">Amir Temur qachon tug'ilgan?</div></div><div class="opts" style="margin-top:8px"><div class="opt"><span class="l">A</span><span>1336-yil</span></div><div class="opt"><span class="l">B</span><span>1370-yil</span></div></div></div>
+    ${seg("stFs", [[0.9, "Kichik"], [1, "Oddiy"], [1.15, "Katta"], [1.3, "Juda katta"]], FS)}</div>
+  <div class="sset"><h3>Har bir savolga vaqt</h3><p>O'rganish rejimida: vaqt tugasa, javob o'zi ochiladi. «O'chiq» — vaqt cheklanmaydi.</p>
+    ${seg("stQt", qtList, custom ? -1 : c.qt)}<div style="display:flex;gap:8px;margin-top:8px;align-items:center"><input id="qtc" type="number" inputmode="numeric" min="5" max="300" value="${custom ? c.qt : ""}" placeholder="Boshqa: soniya (5–300)" style="flex:1;font:inherit;font-size:15px;padding:10px 12px;border-radius:12px;border:2px solid ${custom ? "var(--accent)" : "var(--line)"};background:var(--card);color:var(--text)"><button class="mini" style="padding:11px 14px" onclick="stQtCustom()">Saqlash</button></div></div>
+  <div class="sset"><h3>Savollar tartibi</h3><p>Keyingi boshlashda qo'llanadi. Imtihon simulyatsiyasida doim rasmiy tartib.</p>${seg("stOrder", [["mix", "Aralash"], ["seq", "Ketma-ket"]], c.order)}</div>
+  <div class="sset">${tg("exp", "Izohni ko'rsatish", "Javob ostida, izoh bo'lsa")}</div>
+  <div class="sset">${tg("auto", "To'g'ri javobdan keyin o'zi o'tsin", "1 soniyadan keyin keyingi savol")}</div>
+  <div class="sset">${tg("hap", "Tebranish", "Javob berganda telefon yengil tebranadi")}</div>`);
+}
+function stTheme(v) { setCfg("theme", v); applyTheme(); Settings(); }
+function stFs(v) { setFs(v); Settings(); }
+function stQt(v) { setCfg("qt", v); Settings(); }
+function stOrder(v) { setCfg("order", v); Settings(); }
+function stQtCustom() { const n = parseInt(document.getElementById("qtc").value, 10); if (n >= 5 && n <= 300) { setCfg("qt", n); toast("Saqlandi: " + n + " soniya"); Settings(); } else toast("5 dan 300 gacha son yozing"); }
 
 // ---------- obuna ----------
 function toBot(p) { const u = ME && ME.bot ? `https://t.me/${ME.bot}?start=${p}` : ""; if (u && TG) { TG.openTelegramLink(u); TG.close(); } }
