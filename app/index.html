@@ -212,8 +212,8 @@ body.playing .tabbar{display:none}
 .paper .po button.sel{background:#e7efff;border-color:#2b62d9}
 .paper .pw{margin:6px 0 0 4px;color:#333}.paper .pw div{margin-top:4px}
 .paper .pw span.ln{display:inline-block;min-width:150px;border-bottom:1.5px solid #888;color:#2b62d9;font-weight:700;padding:0 4px}
-.bub{display:flex;align-items:center;gap:6px;padding:5px 0;border-top:1px solid var(--line)}
-.bub .bn{width:30px;font-weight:800;color:var(--hint);text-align:right;margin-right:4px;flex:none}
+.bub{display:flex;align-items:center;gap:6px;padding:5px 0}
+.bub .bn{width:30px;font-weight:800;color:var(--accent);cursor:pointer;text-align:right;margin-right:4px;flex:none}
 .bub button.c{width:36px;height:36px;border-radius:50%;border:2px solid #b9c2d3;font-weight:800;color:#6b7590;font-size:13.5px;flex:none;background:transparent}
 .bub button.c.on{background:var(--accent);border-color:var(--accent);color:#fff}
 .bub input{flex:1;min-width:0;font:inherit;font-size:16px;padding:8px 10px;border-radius:10px;border:2px solid var(--line);background:var(--card);color:var(--text)}
@@ -1168,9 +1168,22 @@ function ppick(k, j) {
 function pwIn(k, j, v) { wIn(k, j, v); const ln = document.querySelectorAll(`#pq${k} .ln`)[j]; if (ln) ln.innerHTML = esc(v) + "&nbsp;"; pcount(); }
 function ansSheet() {
   const d = document.createElement("div"); d.className = "sheet-bg"; d.onclick = (e) => { if (e.target === d) d.remove(); };
-  d.innerHTML = `<div class="sheet"><div class="grab"></div><div style="display:flex;justify-content:space-between;align-items:center"><b style="font-size:17px">Javob varaqasi</b><small style="color:var(--hint)">raqamni bossangiz — savolga o'tadi</small></div><div style="margin-top:8px">${Q.qs.map((q, k) => q.w
-    ? q.parts.map((pt, j) => `<div class="bub" id="ab${k}"><span class="bn" onclick="pgo(${k})">${j ? "" : k + 1}</span><span style="width:18px;color:var(--hint);font-weight:700">${esc(pt.l || "")}</span><input value="${esc((Q.picks[k] || [])[j] || "")}" placeholder="javob" oninput="pwIn(${k},${j},this.value)" autocomplete="off"></div>`).join("")
-    : `<div class="bub" id="ab${k}"><span class="bn" onclick="pgo(${k})">${k + 1}</span>${q.opts.map((_, j) => `<button class="c ${Q.picks[k] === j ? "on" : ""}" onclick="ppick(${k},${j})">${L[j]}</button>`).join("")}</div>`).join("")}</div>
+  // bo'limlarga ajratish: oddiy test, moslashtirish (A–F), yozma
+  const kind = (q) => (q.w ? "w" : q.opts.length > 4 ? "m" : "t");
+  const head = { t: "TEST · BITTA TO'G'RI JAVOB", m: "MOSLASHTIRISH (A–F)", w: "JAVOBNI YOZING" };
+  let html = "", prev = null;
+  Q.qs.forEach((q, k) => {
+    const kd = kind(q);
+    if (kd !== prev) {
+      let e = k; while (e + 1 < Q.qs.length && kind(Q.qs[e + 1]) === kd) e++;
+      html += `<div style="margin:14px 0 6px;font-size:12.5px;font-weight:800;letter-spacing:.06em;color:var(--hint)">${k + 1}${e > k ? "–" + (e + 1) : ""} · ${head[kd]}</div>`;
+      if (kd === "w") html += `<div style="font-size:13px;color:var(--hint);margin-bottom:6px">Javobni so'z bilan yozing: <b style="color:var(--text)">Direktoriya</b>, <b style="color:var(--text)">1847</b>, <b style="color:var(--text)">Suasson</b>. Katta-kichik harf va tutuq belgisi (o', g') muhim emas.</div>`;
+      prev = kd;
+    }
+    if (kd === "w") html += `<div class="bub" id="ab${k}"><span class="bn" onclick="pgo(${k})">${k + 1}</span>${q.parts.map((pt, j) => `<input value="${esc((Q.picks[k] || [])[j] || "")}" placeholder="${esc(pt.l ? pt.l + ")" : "javob")}" oninput="pwIn(${k},${j},this.value)" autocomplete="off" autocapitalize="off" spellcheck="false">`).join("")}</div>`;
+    else html += `<div class="bub" id="ab${k}"><span class="bn" onclick="pgo(${k})">${k + 1}</span>${q.opts.map((_, j) => `<button class="c ${Q.picks[k] === j ? "on" : ""}" onclick="ppick(${k},${j})">${L[j]}</button>`).join("")}</div>`;
+  });
+  d.innerHTML = `<div class="sheet"><div class="grab"></div><div style="display:flex;justify-content:space-between;align-items:center"><b style="font-size:17px">Javob varaqasi</b><small style="color:var(--hint)">raqamni bossangiz — savolga o'tadi</small></div>${html}
   <button class="btn" onclick="this.closest('.sheet-bg').remove();tryFinish()">🏁 Yakunlash</button><button class="btn ghost" onclick="this.closest('.sheet-bg').remove()">Yopish</button></div>`;
   document.body.appendChild(d);
 }
