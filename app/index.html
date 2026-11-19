@@ -217,6 +217,11 @@ body.playing .tabbar{display:none}
 .bub button.c{width:36px;height:36px;border-radius:50%;border:2px solid #b9c2d3;font-weight:800;color:#6b7590;font-size:13.5px;flex:none;background:transparent}
 .bub button.c.on{background:var(--accent);border-color:var(--accent);color:#fff}
 .bub input{flex:1;min-width:0;font:inherit;font-size:16px;padding:8px 10px;border-radius:10px;border:2px solid var(--line);background:var(--card);color:var(--text)}
+.mapv{position:fixed;inset:0;z-index:6;background:#fff;display:flex;flex-direction:column}
+.mapv .mt{display:flex;align-items:center;gap:10px;padding:8px 12px;background:#121a2e;color:#fff;flex:none}
+.mapv .mt button{width:40px;height:40px;border-radius:12px;background:rgba(255,255,255,.1);color:#fff;font-size:20px}
+.mapv iframe{flex:1;width:100%;border:0;background:#fff}
+.mapv .ml{position:absolute;inset:56px 0 0;display:grid;place-items:center;color:var(--hint);pointer-events:none}
 .exp{font-size:calc(14px * var(--fs,1))}
 .exp{margin-top:12px;border-left:3px solid var(--gold);background:color-mix(in srgb,var(--gold) 10%,var(--card));padding:10px 12px;border-radius:0 12px 12px 0;font-size:14px;white-space:pre-wrap}
 .nav{display:flex;gap:8px;margin-top:14px}
@@ -417,6 +422,7 @@ function Catalog() {
   const sj = curSubj(), my = mySubj(), want = LS.get("isk_want", []);
   let h = `<div class="subj">${my.map((id) => { const x = SUBJECTS.find((y) => y.id === id); return `<button class="${x.id === sj.id ? "on" : ""}" onclick="LS.set('isk_csubj','${x.id}');Catalog()"><span class="sl">${x.icon}</span>${esc(x.title)}</button>`; }).join("")}<button class="add" onclick="document.getElementById('others').scrollIntoView({behavior:'smooth'})">＋ Fan qo'shish</button></div>`;
   h += `<form class="search" style="margin-top:0" onsubmit="event.preventDefault();go(Search,this.q.value)"><span>🔍</span><input name="q" placeholder="${sj.id === "huquq" ? "Mavzu yoki atama: mehnat shartnomasi…" : "Mavzu yoki atama: Amir Temur…"}" enterkeyhint="search"></form>`;
+  if (sj.id === "tarix") h += `<button class="mini-climb" style="margin:0 0 12px" onclick="go(Maps)"><span class="m">🗺</span><span style="flex:1"><b style="display:block;font-size:15.5px">Interaktiv xaritalar</b><small style="opacity:.85">${MAPS.length} ta xarita · davlatlar, poytaxtlar, o'yinlar</small></span><span style="font-size:20px;opacity:.7">›</span></button>`;
   const G = subjGroups(sj);
   h += progBox(secProg(G.flatMap(({ g }) => g.secs.flatMap((id) => (CAT.sections.find((x) => x.id === id) || { tests: [] }).tests)))) + `<div class="list">`;
   G.forEach(({ g, i }) => { const tests = g.secs.flatMap((id) => (CAT.sections.find((x) => x.id === id) || { tests: [] }).tests), [d, n] = secProg(tests); h += `<button class="item" onclick="go(Group,${i})"><span class="ic">${g.icon}</span><span class="tx"><b>${esc(g.title)}</b><small>${n} ta test${d ? ` · ✅ ${d} tasi ishlangan` : ""}</small>${d ? `<div class="hbar"><i style="width:${Math.round((d / n) * 100)}%;background:var(--accent)"></i></div>` : ""}</span><span class="ar">›</span></button>`; });
@@ -1188,6 +1194,36 @@ function ansSheet() {
   document.body.appendChild(d);
 }
 function pgo(k) { document.querySelectorAll(".sheet-bg").forEach((x) => x.remove()); const el = document.getElementById("pq" + k); if (el) window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - 80, behavior: "smooth" }); }
+
+
+// ---------- 🗺 Interaktiv xaritalar (Beruniy ilmi maktabi saytidan) ----------
+const SITE = "https://yoldashaliisaqov8-alt.github.io/beruniy-ilmi-maktabi-/";
+const MAPS = [
+  ["xarita-osiyo", "🌏", "Osiyo xaritasi", "Davlatlar, poytaxtlar, tuzilgan yili · 4 xil o'yin"],
+  ["xarita-yevropa", "🇪🇺", "Yevropa xaritasi", "Davlatlar, poytaxtlar va tarixiy ma'lumot"],
+  ["xarita-afrika", "🌍", "Afrika xaritasi", "Davlatlar, poytaxtlar, mustaqillik yillari"],
+  ["xarita-afrika-darslar", "🧭", "Afrika hududlari: 5 dars", "Mintaqalar bo'yicha bosqichma-bosqich"],
+  ["xarita-amerika", "🗽", "Shimoliy Amerika xaritasi", "Davlatlar va poytaxtlar"],
+  ["xarita-janubiy", "🌎", "Janubiy Amerika xaritasi", "Davlatlar va poytaxtlar"],
+  ["xarita-somoniylar", "🏰", "Somoniylar davlati", "Viloyatlar va shaharlar · 7-sinf"],
+  ["xarita-xiva", "🐪", "Xiva xonligining tugatilishi", "10-sinf O'zbekiston tarixi, 99–101-betlar"],
+];
+function Maps() {
+  render(`<div class="title">🗺 Interaktiv xaritalar</div><div style="color:var(--hint);margin:-6px 4px 12px;font-size:13.5px">Davlat yoki shaharni bosing — nomi, poytaxti va tarixiy ma'lumot chiqadi. Har bir xaritada «Xaritada toping» va «Qaysi davlat?» o'yinlari bor.</div>
+  <div class="list">${MAPS.map(([f, ic, t, d], i) => `<button class="item" onclick="go(MapView,${i})"><span class="ic">${ic}</span><span class="tx"><b>${t}</b><small>${d}</small></span><span class="ar">›</span></button>`).join("")}</div>`);
+}
+function MapView(i) {
+  const [f, ic, t] = MAPS[i];
+  render(`<div class="mapv"><div class="mt"><button onclick="back()">‹</button><b style="flex:1;font-size:16px">${ic} ${t}</b></div><div class="ml" id="ml">Xarita yuklanmoqda…</div><iframe id="mapf" src="${SITE + f}.html" allow="fullscreen"></iframe></div>`, true);
+  const fr = document.getElementById("mapf");
+  fr.onload = () => {
+    const ml = document.getElementById("ml"); if (ml) ml.remove();
+    try { // sayt sahifasidagi «← ISAKOV SCHOOL» kabi chiqish havolalarini yashirish
+      const d = fr.contentDocument;
+      d.querySelectorAll("a").forEach((a) => { if (/^\s*←/.test(a.textContent)) a.style.display = "none"; });
+    } catch (e) {}
+  };
+}
 
 // ---------- obuna ----------
 function toBot(p) { const u = ME && ME.bot ? `https://t.me/${ME.bot}?start=${p}` : ""; if (u && TG) { TG.openTelegramLink(u); TG.close(); } }
