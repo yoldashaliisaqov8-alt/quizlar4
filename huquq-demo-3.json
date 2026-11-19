@@ -352,5 +352,216 @@
    ],
    "answer": 1
   }
+ ],
+ "written": [
+  {
+   "n": 36,
+   "q": "Ommaviy axborot vositalariga oid Konstitutsiya normalarini to'ldiring. (Konstitutsiya, 81–82-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“________ ga yo'l qo'yilmaydi.” (82-modda)",
+     "a": [
+      "Senzura",
+      "senzura"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Davlat OAVning axborotni izlash, olish, undan foydalanish va uni ________ bo'lgan huquqlari amalga oshirilishini kafolatlaydi.” (81-modda)",
+     "a": [
+      "tarqatishga",
+      "tarqatish"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "q": "Nikoh shartnomasiga oid savollarga javob bering. (Oila kodeksi, 29–30-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Nikohlanuvchilar yoki er-xotinning nikohda bo'lgan davrida va nikohdan ajratilgan taqdirda mulkiy huquq va majburiyatlarini belgilovchi kelishuvi qanday ataladi?",
+     "a": [
+      "nikoh shartnomasi"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Nikoh shartnomasi nikoh davlat ro'yxatiga olinguniga qadar ham, shuningdek nikoh ________ ham tuzilishi mumkin.”",
+     "a": [
+      "davrida",
+      "davomida"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "q": "Jinoyat ishlari yuritiladigan tilga oid savollarga javob bering. (JPK, 20-modda)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“Ayblanuvchiga taqdim etilishi lozim bo'lgan tergov va sud hujjatlari uning ________ tiliga yoki u biladigan boshqa tilga tarjima qilib berilishi lozim.”",
+     "a": [
+      "ona"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Ish yuritilayotgan tilni bilmaydigan protsess ishtirokchisi ish materiallari bilan tanishishda qaysi shaxsning xizmatidan foydalanishi mumkin?",
+     "a": [
+      "tarjimon"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "q": "Qoraqalpog'iston Respublikasiga oid savollarga javob bering. (Konstitutsiya, 85–86-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "O'zbekiston Respublikasi tarkibiga kiruvchi, o'z Konstitutsiyasiga ega bo'lgan suveren respublika qaysi?",
+     "a": [
+      "Qoraqalpog'iston Respublikasi",
+      "Qoraqalpog'iston"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Qoraqalpog'iston Respublikasining Konstitutsiyasi O'zbekiston Respublikasining Konstitutsiyasiga ________ bo'lishi mumkin emas.”",
+     "a": [
+      "zid"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "q": "Konstitutsiyaning XIII–XIV boblariga oid savollarga javob bering. (Konstitutsiya, 75, 78-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Davlatdan ajratilgan hamda qonun oldida teng bo'lgan, faoliyatiga davlat aralashmaydigan tashkilotlar qanday ataladi?",
+     "a": [
+      "diniy tashkilotlar"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Onalik, otalik va bolalik ________ tomonidan muhofaza qilinadi.”",
+     "a": [
+      "davlat"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "q": "O'zbekiston va Qoraqalpog'iston Respublikasi munosabatlariga oid normalarni to'ldiring. (Konstitutsiya, 88, 90-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“O'zbekiston Respublikasi va Qoraqalpog'iston Respublikasi o'rtasidagi nizolar ________ vositalar yordamida hal etiladi.”",
+     "a": [
+      "murosaga keltiruvchi"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Qoraqalpog'iston Respublikasi o'z ________ tuzilishi masalalarini mustaqil hal qiladi.”",
+     "a": [
+      "ma'muriy-hududiy",
+      "ma'muriy hududiy"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "q": "Advokatlarning malaka komissiyalariga oid savollarga javob bering. (Advokatura to'g'risidagi qonun, 13-modda)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“Malaka komissiyalari ... toq miqdorda Advokatlar palatasi hududiy boshqarmalarining va ________ organlarining qo'shma qarorlari bilan tuziladi.”",
+     "a": [
+      "adliya"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Malaka komissiyalarining qarorlari ustidan keltirilgan apellyatsiyalarni ko'rib chiqish uchun Advokatlar palatasi huzurida tuziladigan organ qanday ataladi?",
+     "a": [
+      "Oliy malaka komissiyasi"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "q": "Er-xotinning mulkiy munosabatlariga oid normalarni to'ldiring. (Oila kodeksi, 24, 27-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“Er va xotinning umumiy mol-mulkni bo'lish to'g'risidagi o'zaro kelishuvi ________ tartibda tasdiqlanishi mumkin.”",
+     "a": [
+      "notarial"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Er va xotin ularning birgalikdagi umumiy mulki bo'lgan mol-mulkka egalik qilish, undan foydalanish va uni tasarruf etishda ________ huquqlarga egadir.”",
+     "a": [
+      "teng"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "q": "Sudda jinoyat ishlarining oshkora ko'rilishiga oid normalarni to'ldiring. (JPK, 19-modda)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“Sudlarda jinoyat ishlarini oshkora ko'rish audio- va videoyozuvdan foydalangan holda, shuningdek ________ rejimida o'tkazilishi mumkin.”",
+     "a": [
+      "videokonferensaloqa",
+      "videokonferens aloqa"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“O'n sakkiz yoshga to'lmagan shaxslarning jinoyatlari to'g'risidagi ishlarni ... sud ________ bilan yopiq sud majlisida ko'rishga yo'l qo'yiladi.”",
+     "a": [
+      "ajrimi",
+      "ajrim"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "q": "Voyaga yetmaganlarning ma'muriy javobgarligiga oid savollarga javob bering. (MJtK, 13–14-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Ma'muriy huquqbuzarlik sodir etgan paytda necha yoshga to'lgan shaxslar ma'muriy javobgarlikka tortiladi? (so'z bilan yozing)",
+     "a": [
+      "o'n olti",
+      "16"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“16 yoshdan 18 yoshgacha bo'lgan huquqbuzarlarga nisbatan Bolalar masalalari bo'yicha ________ to'g'risidagi nizomda nazarda tutilgan choralar qo'llaniladi.”",
+     "a": [
+      "komissiyalar",
+      "komissiya"
+     ]
+    }
+   ]
+  }
  ]
 }

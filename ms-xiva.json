@@ -167,5 +167,82 @@
    "answer": 2,
    "explanation": "Manba: qiyin"
   }
+ ],
+ "written": [
+  {
+   "n": 16,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Xiva xonligida bosh vazir lavozimi ________ deb atalgan.",
+     "a": [
+      "mehtar"
+     ]
+    }
+   ],
+   "explanation": "oson"
+  },
+  {
+   "n": 17,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Xon navkarlaridan iborat muntazam qo'shin ________ ming askardan iborat bo'lgan.",
+     "a": [
+      "2",
+      "ikki",
+      "2 ming",
+      "ikki ming"
+     ]
+    }
+   ],
+   "explanation": "oson"
+  },
+  {
+   "n": 18,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Payg'ambar avlodlari jamoasi vakillari bo'lgan va ta'lim sohasiga mas'ul shaxslar ________ deb atalgan.",
+     "a": [
+      "naqiblar",
+      "naqib"
+     ]
+    }
+   ],
+   "explanation": "o'rta"
+  },
+  {
+   "n": 19,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Xiva xonligida oliy sud vazifasini bajargan qozi ________ deb atalgan.",
+     "a": [
+      "qozi kalon",
+      "qozikalon"
+     ]
+    }
+   ],
+   "explanation": "o'rta"
+  },
+  {
+   "n": 20,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Xavfsizlik xizmati, qo'riqlash va harbiy qo'mondonlikka mas'ul amaldor ________ deb atalgan.",
+     "a": [
+      "yasovulboshi"
+     ]
+    }
+   ],
+   "explanation": "o'rta"
+  }
  ]
 }

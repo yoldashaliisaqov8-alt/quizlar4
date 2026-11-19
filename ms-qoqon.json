@@ -167,5 +167,80 @@
    "answer": 2,
    "explanation": "Manba: qiyin"
   }
+ ],
+ "written": [
+  {
+   "n": 16,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Qo'qon xonligida bosh vazir va qo'shin bosh qo'mondoni ________ deb atalgan.",
+     "a": [
+      "mingboshi"
+     ]
+    }
+   ],
+   "explanation": "oson"
+  },
+  {
+   "n": 17,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Qo'shinning chap qanot qismi ________ deb atalgan.",
+     "a": [
+      "maysara"
+     ]
+    }
+   ],
+   "explanation": "oson"
+  },
+  {
+   "n": 18,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Jangda askarlarni ruhlantirgan soqchilar ________ deb atalgan.",
+     "a": [
+      "xos soqchilari",
+      "xos soqchi"
+     ]
+    }
+   ],
+   "explanation": "o'rta"
+  },
+  {
+   "n": 19,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "O'z tug'iga ega harbiy bo'linma boshlig'i ________ deb atalgan.",
+     "a": [
+      "to'qsoba",
+      "toqsoba"
+     ]
+    }
+   ],
+   "explanation": "o'rta"
+  },
+  {
+   "n": 20,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Qo'shinning oldingi qismi ________ deb atalgan.",
+     "a": [
+      "ilg'or",
+      "ilgor"
+     ]
+    }
+   ],
+   "explanation": "o'rta"
+  }
  ]
 }

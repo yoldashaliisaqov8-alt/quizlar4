@@ -352,5 +352,218 @@
    ],
    "answer": 3
   }
+ ],
+ "written": [
+  {
+   "n": 36,
+   "q": "Konstitutsiyaning birinchi bobiga oid savollarga javob bering. (Konstitutsiya, 4, 6-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "O'zbekiston Respublikasining davlat tili qaysi til?",
+     "a": [
+      "o'zbek tili",
+      "o'zbek"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "O'zbekiston Respublikasining poytaxti qaysi shahar?",
+     "a": [
+      "Toshkent",
+      "Toshkent shahri"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "q": "Inson huquqlari kafolatlariga oid normalarni to'ldiring. (Konstitutsiya, 56–57-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“Inson huquqlari bo'yicha ________ institutlar inson huquqlari va erkinliklarini himoya qilishning mavjud shakllari hamda vositalarini to'ldiradi.”",
+     "a": [
+      "milliy"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Mehnatga layoqatsiz va yolg'iz keksalar, ________ bo'lgan shaxslar hamda aholining ijtimoiy jihatdan ehtiyojmand boshqa toifalarining huquqlari davlat himoyasidadir.”",
+     "a": [
+      "nogironligi",
+      "nogironlik"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "q": "Fuqarolarning burchlariga oid normalarni to'ldiring. (Konstitutsiya, 63–64-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“Fuqarolar qonun bilan belgilangan soliqlar va ________ to'lashi shart.”",
+     "a": [
+      "yig'imlarni",
+      "yig'imlar"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Fuqarolar qonunda belgilangan tartibda harbiy yoki ________ xizmatni o'tashga majburdirlar.”",
+     "a": [
+      "muqobil"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "q": "Jamiyatning iqtisodiy negizlariga oid normalarni to'ldiring. (Konstitutsiya, 65, 68-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“________ mulk daxlsizdir.”",
+     "a": [
+      "xususiy"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Yer, yer osti boyliklari, suv, o'simlik va hayvonot dunyosi hamda boshqa tabiiy resurslar ________ boylikdir.”",
+     "a": [
+      "umummilliy"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "q": "Saylov tizimiga oid savollarga javob bering. (Konstitutsiya, 128-modda)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "O'zbekiston Respublikasining necha yoshga to'lgan fuqarolari saylash huquqiga ega? (so'z bilan yozing)",
+     "a": [
+      "o'n sakkiz",
+      "18"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Har bir saylovchi bir ________ ga ega.”",
+     "a": [
+      "ovoz",
+      "ovozga"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "q": "Moliya, pul va bank tizimiga oid normalarni to'ldiring. (Konstitutsiya, 147, 151-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“O'zbekiston Respublikasi o'zining yagona moliya, pul va ________ tizimiga ega.”",
+     "a": [
+      "bank"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“O'zbekiston Respublikasi Markaziy banki pul-kredit va ________ siyosatini ishlab chiqadi hamda amalga oshiradi.”",
+     "a": [
+      "valyuta"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "q": "Mudofaa va Konstitutsiyani o'zgartirish tartibiga oid savollarga javob bering. (Konstitutsiya, 152, 154-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Davlat suvereniteti va hududiy yaxlitligini, aholining tinch hayoti va xavfsizligini himoya qilish uchun tuziladigan kuchlar qanday ataladi?",
+     "a": [
+      "Qurolli Kuchlar",
+      "Qurolli kuchlar"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Konstitutsiyaga o'zgartish Qonunchilik palatasi deputatlari va Senat a'zolari umumiy sonining kamida ________ qismidan iborat ko'pchiligi tomonidan qabul qilingan konstitutsiyaviy qonun yoki referendum bilan kiritiladi.”",
+     "a": [
+      "uchdan ikki",
+      "2/3"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "q": "Fuqarolarning tabiat va merosga munosabatiga oid normalarni to'ldiring. (Konstitutsiya, 61–62-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“Fuqarolar atrof tabiiy muhitga ________ munosabatda bo'lishga majburdirlar.”",
+     "a": [
+      "ehtiyotkorona",
+      "ehtiyotkor"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Fuqarolar O'zbekiston xalqining tarixiy, ma'naviy, madaniy, ilmiy va tabiiy ________ asrab-avaylashi shart.”",
+     "a": [
+      "merosini",
+      "meros"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "q": "Bolalarning ota-onasiga ta'minot berish majburiyatiga oid normalarni to'ldiring. (Oila kodeksi, 109–110-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“Voyaga yetgan, mehnatga layoqatli bolalar mehnatga layoqatsiz, yordamga muhtoj o'z ota-onasiga ________ berishlari shart.”",
+     "a": [
+      "ta'minot"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Bolalar moddiy yordam berishdan bo'yin tovlasalar, ta'minot miqdori sudning ________ qaroriga asosan belgilanadi.”",
+     "a": [
+      "hal qiluv"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "q": "Xotin-qizlar huquqlari va davlat ramzlariga oid normalarni to'ldiring. (Konstitutsiya, 5, 58-moddalar)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“Xotin-qizlar va erkaklar ________ huquqlidirlar.”",
+     "a": [
+      "teng"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Davlat ramzlari davlat ________.”",
+     "a": [
+      "himoyasidadir",
+      "himoyasida"
+     ]
+    }
+   ]
+  }
  ]
 }

@@ -387,5 +387,230 @@
    "answer": 0,
    "explanation": "Manba: 9-sinf, 23–24-dars"
   }
+ ],
+ "written": [
+  {
+   "n": 36,
+   "q": "Fuqarolik va huquqiy holatga oid atamalarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Ma'lum bir toifadagi fuqarolar huquqining jinsi, millati, diniy yoki siyosiy e'tiqodi sabab asossiz cheklanishi yoki kamsitilishi qanday ataladi?",
+     "a": [
+      "diskriminatsiya"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Fuqaroligi bo'lmagan shaxs yoki chet davlat fuqarosining shaxsini va O'zbekistonda doimiy yashashga ruxsat etilganini tasdiqlaydigan hujjat qanday ataladi?",
+     "a": [
+      "yashash guvohnomasi"
+     ]
+    }
+   ],
+   "explanation": "9-sinf, 10-dars"
+  },
+  {
+   "n": 37,
+   "q": "Fuqarolik jamiyati va yoshlarga oid ma'lumotlarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Fuqarolik jamiyati haqidagi ilk tasavvurlar Aristotelning qaysi asarida bayon etilgan?",
+     "a": [
+      "Siyosat"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "O'zbekistonda \"Yoshlar kuni\" qaysi sanada nishonlanadi?",
+     "a": [
+      "30-iyun",
+      "30 iyun"
+     ]
+    }
+   ],
+   "explanation": "9-sinf, 27-dars"
+  },
+  {
+   "n": 38,
+   "q": "Ijtimoiy huquqlarga oid atamalarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Alohida ta'lim ehtiyojlari va individual imkoniyatlarning xilma-xilligini hisobga olib, barcha uchun teng imkoniyatlarni ta'minlaydigan ta'lim qanday ataladi?",
+     "a": [
+      "inklyuziv ta'lim",
+      "inklyuziv"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Biror shaxsga jazoni qo'llash tahdidi ostida, uning ixtiyoriga qarshi muayyan ishni bajartirish qanday ataladi?",
+     "a": [
+      "majburiy mehnat"
+     ]
+    }
+   ],
+   "explanation": "9-sinf, 21-dars"
+  },
+  {
+   "n": 39,
+   "q": "Madaniy huquqlarga oid atamalarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Sifat jihatidan yangi moddiy va ma'naviy qadriyatlarni yaratish jarayoni qanday ataladi?",
+     "a": [
+      "ijod"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Intellektual mulkni himoya qilish masalalari bilan jahon miqyosida shug'ullanadigan tashkilot qanday nomlanadi?",
+     "a": [
+      "Jahon intellektual mulk tashkiloti",
+      "JIMT",
+      "WIPO",
+      "Jahon intellektual mulk"
+     ]
+    }
+   ],
+   "explanation": "9-sinf, 20-dars"
+  },
+  {
+   "n": 40,
+   "q": "Davlat va inson qadriyatiga oid atamalarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Turmush sharoitlaridagi tabaqalanishning oldini olishni maqsad qiladigan, aholining ijtimoiy himoyasini ta'minlaydigan davlat qanday ataladi?",
+     "a": [
+      "ijtimoiy davlat"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "\"Insonni sevish\" ma'nosini bildirib, insonga oliy qadriyat sifatida yondashishni anglatuvchi tamoyil qanday ataladi?",
+     "a": [
+      "insonparvarlik",
+      "gumanizm"
+     ]
+    }
+   ],
+   "explanation": "10- sinf, 1–2, 6-dars"
+  },
+  {
+   "n": 41,
+   "q": "Inson huquqlari madaniyatiga oid atamalarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Muayyan jismoniy shaxsga taalluqli bo'lgan yoki uni identifikatsiya qilish imkonini beradigan ma'lumotlar qanday ataladi?",
+     "a": [
+      "shaxsga doir ma'lumotlar",
+      "shaxsiy ma'lumotlar"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Inson sha'ni, huquq va erkinliklarini tan olish va hurmat qilishga qaratilgan bilimlar hamda ularni himoya qilish ko'nikmalari majmui qanday ataladi?",
+     "a": [
+      "inson huquqlari madaniyati"
+     ]
+    }
+   ],
+   "explanation": "10-sinf, 5, 7-dars"
+  },
+  {
+   "n": 42,
+   "q": "Xalqaro hamjamiyatga oid atamalarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Davlatning ichki va tashqi ishlarda mustaqil ekanini anglatuvchi tushuncha qanday ataladi?",
+     "a": [
+      "suverenitet"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "BMT tinchlik va xavfsizlikni ta'minlashda qanday qoidaga amal qiladi? (ikki so'z)",
+     "a": [
+      "jamoaviy xavfsizlik",
+      "kollektiv xavfsizlik"
+     ]
+    }
+   ],
+   "explanation": "10-sinf, 27, 29-dars"
+  },
+  {
+   "n": 43,
+   "q": "Aholini ishga joylashtirishga oid atamalarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Ish izlayotgan shaxslar uchun ish beruvchilar bilan hamkorlikda uchrashuvlar tashkil qilinadigan tadbir qanday ataladi?",
+     "a": [
+      "mehnat yarmarkasi",
+      "bo'sh ish o'rinlari yarmarkasi"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Fuqarolarni bepul kasb-hunarga o'rgatish va chet tillarini o'rgatishga ko'maklashadigan maxsus markazlar qanday ataladi?",
+     "a": [
+      "kasbiy ko'nikmalar markazlari",
+      "kasbiy ko'nikmalar markazi",
+      "kasbiy ko'nikmalar"
+     ]
+    }
+   ],
+   "explanation": "11-sinf, 2-dars"
+  },
+  {
+   "n": 44,
+   "q": "Mehnat muhofazasiga oid ma'lumotlarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Ish beruvchilarni mehnat qonunchiligiga rioya etilishi yuzasidan rejali va rejadan tashqari tekshiradigan shaxslar kimlar?",
+     "a": [
+      "davlat mehnat inspektorlari",
+      "mehnat inspektorlari"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "\"Tibbiyotning asosiy vazifasi — inson sog'lig'ini saqlash...\" degan fikr Ibn Sinoning qaysi asaridan olingan?",
+     "a": [
+      "Tib qonunlari",
+      "Al-qonun fit-tib"
+     ]
+    }
+   ],
+   "explanation": "11- sinf, 8-dars"
+  },
+  {
+   "n": 45,
+   "q": "Xavfsizlik va inson qadriga oid ma'lumotlarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Konstitutsiyaviy tuzumni zo'rlik bilan o'zgartirishga, milliy, irqiy yoki diniy adovat qo'zg'atishga qaratilgan harakatlarning ashaddiy shakli qanday ataladi?",
+     "a": [
+      "ekstremizm"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "\"Borchadin insonni sharif aylading\" misrasi Alisher Navoiyning qaysi asaridan olingan?",
+     "a": [
+      "Hayrat ul-abror"
+     ]
+    }
+   ],
+   "explanation": "11-sinf, 19–20, 23-dars"
+  }
  ]
 }

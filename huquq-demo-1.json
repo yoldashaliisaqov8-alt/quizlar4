@@ -371,5 +371,152 @@
    "answer": 1,
    "explanation": "Manba: Oila kodeksi, 17-modda"
   }
+ ],
+ "written": [
+  {
+   "n": 36,
+   "q": "Ma'muriy huquqbuzarlikni sodir etish quroli bo'lgan ashyoni yoki huquqbuzarlikning bevosita ashyosini haq to'lamasdan majburiy tarzda davlat mulkiga o'tkazishdan iborat ma'muriy jazo qanday ataladi?",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "musodara",
+      "musodara qilish"
+     ]
+    }
+   ],
+   "explanation": "MJtK, 27-modda"
+  },
+  {
+   "n": 37,
+   "q": "O'n olti yoshga to'lgan, mehnat shartnomasi bo'yicha ishlayotgan yoki tadbirkorlik bilan shug'ullanayotgan voyaga yetmagan shaxsni to'la muomalaga layoqatli deb e'lon qilish qanday ataladi?",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "emansipatsiya",
+      "emansipatsiya qilish"
+     ]
+    }
+   ],
+   "explanation": "Oila kodeksi, 15-modda"
+  },
+  {
+   "n": 38,
+   "q": "Oliy Majlis Senati Prezidentning taqdimiga binoan qabul qiladigan, jinoyat sodir etgan shaxslar doirasini jazodan to'liq yoki qisman ozod etish (jazoni yengillashtirish) to'g'risidagi hujjat qanday ataladi?",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "amnistiya",
+      "amnistiya akti"
+     ]
+    }
+   ],
+   "explanation": "Konstitutsiya, 95-modda"
+  },
+  {
+   "n": 39,
+   "q": "Jamiyat va davlat hayotining eng muhim masalalari xalq muhokamasiga taqdim etilib, umumxalq ovoziga qo'yilishi qanday ataladi?",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "referendum",
+      "umumxalq ovoz berishi"
+     ]
+    }
+   ],
+   "explanation": "Konstitutsiya, 9-modda"
+  },
+  {
+   "n": 40,
+   "q": "Davlatning ilgari tuzilgan xalqaro shartnomadan bir tomonlama chiqishi (uning amal qilishini to'xtatishi) qanday ataladi? Konstitutsiyaga ko'ra bu masala Oliy Majlis Qonunchilik palatasi va Senatining birgalikdagi vakolatiga kiradi.",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "denonsatsiya",
+      "denonsatsiya qilish"
+     ]
+    }
+   ],
+   "explanation": "Konstitutsiya, 93-modda"
+  },
+  {
+   "n": 41,
+   "q": "Nuqtalar o'rniga to'ldiring: “O'zbekiston — boshqaruvning respublika shakliga ega bo'lgan suveren, demokratik, huquqiy, ijtimoiy va ________ davlat.”",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "dunyoviy"
+     ]
+    }
+   ],
+   "explanation": "Konstitutsiya, 1-modda"
+  },
+  {
+   "n": 42,
+   "q": "Nuqtalar o'rniga to'ldiring: “O'zbekiston Respublikasi Oliy Majlisining Senati ________ palatasi bo'lib, Senat a'zolaridan (senatorlardan) iborat.”",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "hududiy vakillik"
+     ]
+    }
+   ],
+   "explanation": "Konstitutsiya, 92-modda"
+  },
+  {
+   "n": 43,
+   "q": "Nuqtalar o'rniga to'ldiring: “Voyaga yetmagan bolalariga ta'minot berish majburiyatini ixtiyoriy ravishda bajarmagan ota (ona)dan sudning hal qiluv qaroriga yoki sud buyrug'iga asosan ________ undiriladi.”",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "aliment"
+     ]
+    }
+   ],
+   "explanation": "Oila kodeksi, 96-modda"
+  },
+  {
+   "n": 44,
+   "q": "Nuqtalar o'rniga to'ldiring: “Advokat ilmiy va pedagogik faoliyatdan tashqari patent vakili va ________ sifatidagi haq to'lanadigan faoliyat bilan shug'ullanishga haqli.”",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "mediator"
+     ]
+    }
+   ],
+   "explanation": "“Advokatura to'g'risida”gi qonun, 3-modda"
+  },
+  {
+   "n": 45,
+   "q": "Nuqtalar o'rniga to'ldiring: “Alohida hollarda ushlab turilgan gumon qilinuvchiga nisbatan sud tomonidan qamoqqa olish, uy qamog'i yoki ________ tarzidagi ehtiyot choralari qo'llanilishi mumkin.”",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "garov"
+     ]
+    }
+   ],
+   "explanation": "JPK, 226-modda"
+  }
  ]
 }

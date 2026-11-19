@@ -222,5 +222,168 @@
    "answer": 0,
    "explanation": "Liviya — Italiya mustamlakasi bo'lgan (1951-yilda mustaqil), JAR — Britaniya dominioni. Manba: E2, 518-bet; J10, 170-bet."
   }
+ ],
+ "written": [
+  {
+   "n": 21,
+   "q": "Liberiya.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Liberiya ozod davlati qachon tuzilgan? (yilni yozing)",
+     "a": [
+      "1847",
+      "1847-yil",
+      "1847 yil"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Liberiyaga qaysi mamlakatdan chiqqan qora tanlilar asos solgan?",
+     "a": [
+      "AQSh",
+      "Amerika",
+      "Amerikadan",
+      "AQShdan",
+      "Amerika Qo'shma Shtatlari"
+     ]
+    }
+   ],
+   "explanation": "Amerikadan chiqqan qora tanlilar asos solgan; AQSh homiyligi ostida mustaqil bo'lib qolgan. Manba: J9, 178-bet; E2, 519-bet. Diqqat: Monroviya AQSh Prezidenti Monro nomi bilan atalgan."
+  },
+  {
+   "n": 22,
+   "q": "Ingliz-bur urushi.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Burlar Janubiy Afrikada qaysi respublikalarni tuzgan? (ikkalasini yozing)",
+     "a": [
+      "Transvaal va Oranj",
+      "Oranj va Transvaal",
+      "Transvaal Oranj",
+      "Oranj Transvaal",
+      "Transvaal va Oranj respublikalari"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Urush qaysi yilda tugagan, ya'ni Angliya har ikki respublikani o'ziga bo'ysundirgan?",
+     "a": [
+      "1902",
+      "1902-yil",
+      "1902 yil"
+     ]
+    }
+   ],
+   "explanation": "1902-yilda Angliya har ikki respublikani o'ziga bo'ysundirgan. Manba: J10, 13–14-betlar."
+  },
+  {
+   "n": 23,
+   "q": "Suvaysh kanali.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "1875-yilda kanal aksiyalarini Angliyaga sotishga majbur bo'lgan Misr hukmdori kim?",
+     "a": [
+      "Ismoil I",
+      "Ismoil",
+      "Ismoil 1"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "U necha foiz aksiyani sotgan?",
+     "a": [
+      "45%",
+      "45",
+      "45 foiz",
+      "45 %"
+     ]
+    }
+   ],
+   "explanation": "Manba: J9, 118-bet. Diqqat: kanal qurilishiga Ferdinand de Lesseps rahbarlik qilgan, ruxsatni Said posho bergan."
+  },
+  {
+   "n": 24,
+   "q": "Marokash.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Marokashni Fransiya protektoratiga aylantirgan shartnoma qanday nomlanadi?",
+     "a": [
+      "Fes shartnomasi",
+      "Fes",
+      "Fes shartnomasi 1912",
+      "Fes shartnomasi 1912-yil"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Shartnomani qaysi sulton imzolagan?",
+     "a": [
+      "Abd al-Hafiz",
+      "Abd al Hafiz",
+      "Abdulhafiz",
+      "Abd-al-Hafiz",
+      "Abdelhafid"
+     ]
+    }
+   ],
+   "explanation": "Fes shartnomasi, 1912-yil; sulton Abd al-Hafiz. Manba: E2, 510-bet."
+  },
+  {
+   "n": 25,
+   "q": "Germaniyaning Janubi-G'arbiy Afrikadagi mustamlakasi (hozirgi Namibiya).",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Bu hududda xalq qo'zg'oloni qaysi yillarda bo'lgan?",
+     "a": [
+      "1904-1907",
+      "1904–1907",
+      "1904-1907-yillar",
+      "1904–1907-yillar",
+      "1904 1907"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Qo'zg'olonni bostirish vaqtida gerero qabilasidan necha kishi qirib tashlangan?",
+     "a": [
+      "65 ming",
+      "65 ming kishi",
+      "65000",
+      "65 mingta",
+      "65 ming nafar"
+     ]
+    }
+   ],
+   "explanation": "Gerero qabilasidan 65 ming kishi (qabila aholisining 80%) qirib tashlangan. Manba: E2, 524-bet. 1984-yili BMT bu qirg'inni genotsid deb baholagan."
+  },
+  {
+   "n": 26,
+   "q": "Afrikaning ozod bo'lishi.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "1950-yillarning ikkinchi yarmida mustaqillikni e'lon qilib, o'zini Gana deb atagan Britaniya mustamlakasi qanday nomlangan?",
+     "a": [
+      "Oltin qirg'oq",
+      "Oltin qirgoq",
+      "Oltin Qirg'oq"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Shu davrda mustaqillikni e'lon qilgan Fransiya mustamlakasi qaysi?",
+     "a": [
+      "Gvineya",
+      "Fransiya Gvineyasi"
+     ]
+    }
+   ],
+   "explanation": "Oltin Qirg'oq; Gvineya (1958). Manba: J10, 170-bet."
+  }
  ]
 }

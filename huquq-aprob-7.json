@@ -359,5 +359,155 @@
    ],
    "answer": 3
   }
+ ],
+ "written": [
+  {
+   "n": 36,
+   "q": "Nuqtalar o'rnini to'ldiring:\n\"Muayyan hududning tabiat muvozanati, tabiiy ekologiya tizimlari buzilishi bilan bog'liq holda tabiiy muhitda barqaror yoki tuzatib bo'lmas o'zgarishlar ro'y bergan yoki ro'y berayotgan qismi mintaqalari ___ deb e'lon qilinadi.\"",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "ekologik ofat",
+      "ekologiya ofati"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "q": "Nuqtalar o'rnini to'ldiring:\nOila kodeksining 56-moddasiga ko'ra, nikohning haqiqiy emas deb topilishi shunday nikohdan tug'ilgan yoki nikoh haqiqiy emas deb topilgan kundan keyin ___ ichida tug'ilgan bolalarning huquqlariga ta'sir etmaydi.",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "300 kun",
+      "uch yuz kun"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "q": "Nuqtalar o'rnini to'ldiring:\nFuqarolik kodeksining 228-moddasiga ko'ra, mulkdorning o'z mol-mulkini boshqa shaxsning qonunsiz egaligidan talab qilib olishi da'vosi ___ deb nomlanadi.",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "vindikatsiya",
+      "vindikatsiya da'vosi"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "q": "Sud hukmi bilan Aliga BHMning 200 baravari miqdorida jarima tayinlandi. Ali 50 BHM qismini to'ladi, qolganini to'lashdan bo'yin tovlagani sababli sud jarimani majburiy jamoat ishlariga almashtirdi. Ali qolgan jarima evaziga necha soat majburiy jamoat ishlarini o'tashi kerak?",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "375 soat",
+      "375"
+     ]
+    }
+   ],
+   "explanation": "JK, 44-modda"
+  },
+  {
+   "n": 40,
+   "q": "Jinoyat-protsessual kodeksiga muvofiq, voyaga yetmagan gumon qilinuvchi/ayblanuvchini so'roq qilishning umumiy davomiyligi kun davomida (1 soatlik tanaffusdan tashqari) ko'pi bilan necha soatdan oshmasligi kerak?",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "6 soat",
+      "olti soat",
+      "6"
+     ]
+    }
+   ],
+   "explanation": "JPK, 553-modda"
+  },
+  {
+   "n": 41,
+   "q": "O'zbekiston Respublikasining \"Iste'molchilarning huquqlarini himoya qilish to'g'risida\"gi Qonuniga muvofiq, nuqsonli tovar sotilganda va qo'shimcha tekshirish talab etilmagan taqdirda, sotuvchi (ishlab chiqaruvchi) ushbu tovarni almashtirish haqidagi talab bildirilgan paytdan necha kun ichida almashtirib berishi shart?",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "7 kun",
+      "yetti kun",
+      "7"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "q": "Ma'muriy jazoga tortilgan shaxs jazoni o'tash muddati tugagan kundan boshlab qancha muddat yangi huquqbuzarlik sodir etmasa, jazoga tortilmagan deb hisoblanadi?",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "1 yil",
+      "bir yil"
+     ]
+    }
+   ],
+   "explanation": "MJtK, 37-modda"
+  },
+  {
+   "n": 43,
+   "q": "Xodim nomuayyan yoki muddatli mehnat shartnomasini qancha muddat oldin ish beruvchini yozma ogohlantirgan holda bekor qilishga haqli?",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "14 kalendar kun",
+      "o'n to'rt kalendar kun"
+     ]
+    }
+   ],
+   "explanation": "Mehnat kodeksi, 160-modda"
+  },
+  {
+   "n": 44,
+   "q": "Davlat organlari, xo'jalik boshqaruvi organlari yuridik xizmati xodimi, sudya, tergovchi, surishtiruvchi yoki prokuror lavozimida kamida qancha yuridik mutaxassislik ish stajiga ega shaxs stajirovkadan o'tmasdan malaka imtihonida ishtirok etishga haqli?",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "3 yil",
+      "uch yil"
+     ]
+    }
+   ],
+   "explanation": "Advokatura to'g'risidagi qonun, 31-modda"
+  },
+  {
+   "n": 45,
+   "q": "Ombudsman shikoyatni murojaatchiga huquqbuzarlik ma'lum bo'lgan yoki qarordan qanoatlanmagan paytdan e'tiboran qancha muddat ichida ko'rib chiqadi?",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "1 yil",
+      "bir yil"
+     ]
+    }
+   ],
+   "explanation": "Ombudsman to'g'risidagi qonun, 20-modda"
+  }
  ]
 }

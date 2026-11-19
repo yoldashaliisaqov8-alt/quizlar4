@@ -352,5 +352,141 @@
    ],
    "answer": 1
   }
+ ],
+ "written": [
+  {
+   "n": 36,
+   "q": "Ta'lim tashkilotlarida alohida ta'lim ehtiyojlariga ega bo'lgan bolalar uchun ta'minlanadigan, ularni boshqa bolalar bilan birga o'qitishga asoslangan ta'lim qanday ataladi? (Konstitutsiya, 50-modda)",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "inklyuziv",
+      "inklyuziv ta'lim"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "q": "Haq to'lanadigan jamoat ishlarini o'tash joylari va turlarini belgilovchi ichki ishlar organlarining bo'linmalari qanday ataladi? (MJtK, 28¹-modda)",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "probatsiya",
+      "probatsiya bo'linmalari"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "q": "Konstitutsiyaning 41-moddasiga ko'ra bank operatsiyalari, omonatlar va hisobvaraqlarning sir tutilishi bilan birga qonun bilan kafolatlanadigan, shaxs vafotidan keyin mol-mulkning o'tishiga oid huquq qanday ataladi? (Konstitutsiya, 41-modda)",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "meros",
+      "meros huquqi"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "q": "Sud ota-onani ota-onalik huquqidan mahrum qilmay turib, bolani ulardan olish to'g'risida qaror chiqarsa, bu ota-onalik huquqini … deb ataladi. Bitta so'z bilan yozing. (Oila kodeksi, 83-modda)",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "cheklash"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "q": "Konstitutsiyaga ko'ra O'zbekistonda tuzilishiga yo'l qo'yilmaydigan sudlar qanday ataladi? (Konstitutsiya, 131-modda)",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "favqulodda",
+      "favqulodda sudlar"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "q": "Nuqtalar o'rniga to'ldiring: “Davlat ________ rivojlanish prinsipiga muvofiq, atrof-muhitni yaxshilash, tiklash va muhofaza qilish, ekologik muvozanatni saqlash bo'yicha chora-tadbirlarni amalga oshiradi.” (Konstitutsiya, 49-modda)",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "barqaror"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "q": "Nuqtalar o'rniga to'ldiring: “Mehnatga haq to'lashning eng kam miqdori insonning munosib ________ darajasini ta'minlash zarurati hisobga olingan holda belgilanadi.” (Konstitutsiya, 42-modda)",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "turmush"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "q": "Nuqtalar o'rniga to'ldiring: “Sud qarori bilan tayinlangan jazoni ijro etish tartibidan yoxud qonunda nazarda tutilgan boshqa hollardan tashqari ________ mehnat taqiqlanadi.” (Konstitutsiya, 44-modda)",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "majburiy"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "q": "Nuqtalar o'rniga to'ldiring: “Advokat ________ sirini saqlashi shart.” (Advokatura to'g'risidagi qonun, 9-modda)",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "advokatlik"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "q": "Nuqtalar o'rniga to'ldiring: “Ma'muriy qamoq muddati ________ bilan, maxsus huquqdan mahrum etish muddati esa kunlar, oylar, yillar bilan hisoblanadi.” (MJtK, 35-modda)",
+   "parts": [
+    {
+     "l": "",
+     "q": "",
+     "a": [
+      "sutkalar"
+     ]
+    }
+   ]
+  }
  ]
 }

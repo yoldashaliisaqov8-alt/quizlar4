@@ -387,5 +387,235 @@
    "answer": 0,
    "explanation": "Manba: 9-sinf, 19, 27-dars"
   }
+ ],
+ "written": [
+  {
+   "n": 36,
+   "q": "Iqtiboslar mualliflarini yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“Haqqoniylik hamma joyda, ayniqsa, tarbiya masalasida eng muhim omildir” degan fikr muallifi kim?",
+     "a": [
+      "Lev Tolstoy",
+      "Tolstoy"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Agar ta'lim-tarbiya va jazo to'g'risida qonun-qoida bo'lmasa, mamlakat ishlari buziladi” degan fikr muallifi kim?",
+     "a": [
+      "Husayn Voiz Koshifiy",
+      "Koshifiy"
+     ]
+    }
+   ],
+   "explanation": "8-sinf, 17–18, 21–22-dars"
+  },
+  {
+   "n": 37,
+   "q": "She'riy parchalar mualliflarini yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“Kishi farosatda qancha nogiron, Aybini oqlashda shuncha bilag'on” misralari muallifi kim?",
+     "a": [
+      "Xusrav Dehlaviy",
+      "Amir Xusrav Dehlaviy"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Tolibman deb yururlar, ko'nglida yo'q zarra nur...” misralari muallifi kim?",
+     "a": [
+      "Ahmad Yassaviy",
+      "Xoja Ahmad Yassaviy"
+     ]
+    }
+   ],
+   "explanation": "8-sinf, 23–24, 27-dars"
+  },
+  {
+   "n": 38,
+   "q": "Hikmat va ruboiy mualliflarini yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "“G'azab vaqtidagi ozgina sabr minglab afsuslarning oldini oladi” hikmati muallifi kim?",
+     "a": [
+      "Ali ibn Abu Tolib",
+      "Hazrati Ali"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "“Har kimki vafo qilsa, vafo topqusidur, Har kimki jafo qilsa, jafo topqusidur...” ruboiysi muallifi kim?",
+     "a": [
+      "Zahiriddin Muhammad Bobur",
+      "Bobur"
+     ]
+    }
+   ],
+   "explanation": "8-sinf, 28–30-dars"
+  },
+  {
+   "n": 39,
+   "q": "Mohandas Gandi haqidagi ma'lumotlarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Hindiston mustaqilligining asoschisi Mohandas Karamchand Gandi qaysi kasb egasi bo'lgan?",
+     "a": [
+      "huquqshunos (advokat)",
+      "huquqshunos",
+      "advokat"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Gandi 1893–1914-yillarda qaysi mamlakatda huquqshunos bo'lib ishlagan?",
+     "a": [
+      "Janubiy Afrika",
+      "Janubiy Afrikada"
+     ]
+    }
+   ],
+   "explanation": "8-sinf, 21–22-dars"
+  },
+  {
+   "n": 40,
+   "q": "Hammurapi qonunlariga oid ma'lumotlarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Hammurapi qonunlari necha banddan iborat?",
+     "a": [
+      "282",
+      "282 ta",
+      "282 band"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Hammurapi qonunlari Eron hududidagi qaysi qadimiy shaharda topilgan?",
+     "a": [
+      "Suza",
+      "Suza shahri"
+     ]
+    }
+   ],
+   "explanation": "8-sinf, 13-dars"
+  },
+  {
+   "n": 41,
+   "q": "Jinoyat huquqiga oid atamalarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Qilmishni jinoyat deb xarakterlovchi obyektiv va subyektiv belgilarning minimal va yetarli yig'indisi nima deyiladi?",
+     "a": [
+      "jinoyat tarkibi"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Jinoyat kodeksi bilan qo'riqlanadigan obyektlarga zarar yetkazadigan yoki shunday zarar yetkazish real xavfini keltirib chiqaradigan qilmish qanday ataladi?",
+     "a": [
+      "ijtimoiy xavfli qilmish"
+     ]
+    }
+   ],
+   "explanation": "8-sinf, 28-dars"
+  },
+  {
+   "n": 42,
+   "q": "Huquqbuzarlik va xulq-atvorga oid atamalarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Huquqbuzarlik sodir etish vaqtida o'z harakatlarining ijtimoiy xavfli xususiyatini anglagan va ularni boshqara olgan shaxs qanday ataladi?",
+     "a": [
+      "aqli raso shaxs",
+      "aqli raso"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Shaxsning jamiyatda qabul qilingan xulq-atvor normalari va qoidalarini buzuvchi harakati yoki harakatsizligi qanday ataladi?",
+     "a": [
+      "g'ayriijtimoiy xulq-atvor"
+     ]
+    }
+   ],
+   "explanation": "8-sinf, 17–20-dars"
+  },
+  {
+   "n": 43,
+   "q": "Xulq-atvor baholanishiga oid atamalarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Xulq-atvor ijobiy ma'noda qanday baholanadi?",
+     "a": [
+      "xushxulqlilik"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Xulq-atvor salbiy ma'noda qanday baholanadi?",
+     "a": [
+      "odobsizlik"
+     ]
+    }
+   ],
+   "explanation": "8-sinf, 17–18-dars"
+  },
+  {
+   "n": 44,
+   "q": "Javobgarlik va axloqqa oid atamalarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Huquqbuzarlikni sodir etgan shaxsning o'z qilmishi uchun huquq normalariga asosan javob berishi va davlat majburlov choralari ko'rinishidagi oqibatlarga duchor bo'lishi qanday ataladi?",
+     "a": [
+      "yuridik javobgarlik",
+      "huquqiy javobgarlik"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Shaxsning “odobli”, “xushmuomala” kabi ijobiy ta'riflanishi va xulq-atvor xususiyatlari qaysi fanlarda o'rganiladi?",
+     "a": [
+      "axloqshunoslik",
+      "etika"
+     ]
+    }
+   ],
+   "explanation": "8-sinf, 17–18, 21–22-dars"
+  },
+  {
+   "n": 45,
+   "q": "Xalqaro munosabatlarga oid atamalarni yozing.",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Mamlakat rahbarlarining uchrashuvlari hamda elchixona va vakolatxonalar ochish bilan bog'liq munosabatlar qaysi huquq tarmog'i bilan tartibga solinadi?",
+     "a": [
+      "diplomatik va konsullik huquqi",
+      "diplomatik huquq"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Mamlakatlar o'rtasidagi savdo qoidalarini tartibga soluvchi yagona global tashkilot qanday nomlanadi?",
+     "a": [
+      "Jahon savdo tashkiloti",
+      "JST",
+      "WTO"
+     ]
+    }
+   ],
+   "explanation": "8-sinf, 14-dars; 10-sinf, 27-dars"
+  }
  ]
 }

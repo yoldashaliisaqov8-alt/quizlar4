@@ -67,6 +67,14 @@ h2{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--hint
 .opt.ok .l{background:var(--ok);color:#fff}
 .opt.bad{border-color:var(--bad);background:color-mix(in srgb,var(--bad) 10%,var(--card))}
 .opt.bad .l{background:var(--bad);color:#fff}
+.wp{margin-top:12px}
+.wp label{display:block;font-size:14.5px;margin-bottom:6px;white-space:pre-wrap}
+.wp input{width:100%;font:inherit;font-size:16px;padding:12px 14px;border-radius:12px;border:2px solid var(--line);background:#fff;color:#000;outline:0}
+.wp input:focus{border-color:var(--accent)}
+.wp input.ok{border-color:var(--ok);background:color-mix(in srgb,var(--ok) 8%,#fff)}
+.wp input.bad{border-color:var(--bad);background:color-mix(in srgb,var(--bad) 8%,#fff)}
+.wp .ans{font-size:13.5px;margin-top:5px}
+.wtag{display:inline-block;font-size:12px;font-weight:700;color:#8a6414;background:color-mix(in srgb,var(--gold) 22%,#fff);border-radius:8px;padding:2px 8px;margin-bottom:8px}
 .exp{margin-top:12px;border-left:3px solid var(--gold);background:color-mix(in srgb,var(--gold) 10%,var(--card));padding:10px 12px;border-radius:0 12px 12px 0;font-size:14px;white-space:pre-wrap}
 .nav{display:flex;gap:8px;margin-top:14px}
 .nav .btn{margin:0}
@@ -130,6 +138,14 @@ async function getQuiz(n) {
   const r = await fetch(BASE + n + ".json"); if (!r.ok) throw new Error(n);
   const d = await r.json(); QC.set(n, d); return d;
 }
+// ---------- yozma javoblarni tekshirish ----------
+const nrm = (s) => String(s || "").toLowerCase().replace(/[‘’ʻʼ`´'"«»“”]/g, "").replace(/ё/g, "е").replace(/[-–—.,;:!?()/]/g, " ").replace(/\s+/g, " ").trim();
+function lev(a, b) { const m = a.length, n = b.length; if (Math.abs(m - n) > 2) return 9; let p = Array.from({ length: n + 1 }, (_, j) => j); for (let i = 1; i <= m; i++) { const c = [i]; for (let j = 1; j <= n; j++) c[j] = Math.min(p[j] + 1, c[j - 1] + 1, p[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1)); p = c; } return p[n]; }
+function okAns(v, forms) { const x = nrm(v); if (!x) return false; return forms.some((f) => { const y = nrm(f); if (x === y) return true; const tol = y.length >= 10 ? 2 : y.length >= 5 ? 1 : 0; return tol > 0 && !/\d/.test(y) && lev(x, y) <= tol; }); }
+const qOf = (d, i) => (i >= 500 ? d.written && d.written[i - 500] && { ...d.written[i - 500], w: true } : d.questions[i]);
+// [olingan ball, maksimal ball]
+function pts(k) { const q = Q.qs[k], p = Q.picks[k]; if (!q.w) return [p === q.ans ? 1 : 0, 1]; return [q.parts.filter((pt, j) => p && okAns(p[j], pt.a)).length, q.parts.length]; }
+const qTime = (q) => (q.w ? Q.time * 3 : Q.time);
 const allTests = () => CAT.sections.flatMap((s) => s.tests.map((t) => ({ ...t, sec: s })));
 const secOf = (n) => CAT.sections.find((s) => s.tests.some((t) => t.n === n));
 const locked = (secId) => ME && ME.locked && (ME.locked.includes("*") || ME.locked.includes(secId));
@@ -171,7 +187,7 @@ function Group(i) {
 function Section(id) {
   const s = CAT.sections.find((x) => x.id === id);
   let h = `<div class="title">${s.icon} ${esc(s.title)}</div><div class="list">`;
-  s.tests.forEach((t) => { h += `<button class="item" onclick="go(Intro,'${t.n}')"><span class="tx"><b>${esc(t.t)}</b></span><span class="badge">${t.c} savol</span></button>`; });
+  s.tests.forEach((t) => { h += `<button class="item" onclick="go(Intro,'${t.n}')"><span class="tx"><b>${esc(t.t)}</b></span><span class="badge">${t.c}${t.w ? " + ✍️" + t.w : ""}</span></button>`; });
   render(h + "</div>");
 }
 
@@ -182,24 +198,24 @@ async function Intro(n) {
   render('<div class="spin"></div>');
   let d; try { d = await getQuiz(n); } catch (e) { return render('<div class="empty">Test yuklanmadi. Internetni tekshiring.</div>'); }
   const t = allTests().find((x) => x.n === n) || { t: d.title };
-  prepare(n, t.t || d.title, d.questions.map((q, i) => ({ ...q, src: [n, i] })), d.time || 30);
+  prepare(n, t.t || d.title, d.questions.map((q, i) => ({ ...q, src: [n, i] })).concat((d.written || []).map((q, k) => ({ ...q, w: true, src: [n, 500 + k] }))), d.time || 30);
   IntroView();
 }
 function prepare(id, title, qs, time) {
   Q = { id, title, time, mode: Q && Q.mode ? Q.mode : "learn", raw: qs, live: false };
 }
 function IntroView() {
-  const n = Q.raw.length, mins = Math.ceil((n * Q.time) / 60);
+  const nw = Q.raw.filter((q) => q.w).length, n = Q.raw.length - nw, mins = Math.ceil(((n + nw * 3) * Q.time) / 60);
   render(`<div class="card"><div style="font-size:12px;color:var(--hint);font-weight:600;letter-spacing:.05em">TEST</div><div class="title" style="margin:4px 0 6px">${esc(Q.title)}</div>
-  <div style="color:var(--hint)">❓ ${n} ta savol · ⏱ har biriga ${Q.time} soniya</div>
+  <div style="color:var(--hint)">❓ ${n} ta test savoli${nw ? ` + ✍️ <b style="color:#000">${nw} ta yozma javobli</b>` : ""} · ⏱ ${Q.time} soniyadan${nw ? ` (yozmaga ${Q.time * 3})` : ""}</div>${nw ? `<div class="note" style="font-size:13.5px">✍️ Yozma savollarda javobni o'zingiz yozasiz. Kichik imlo xatolari kechiriladi, bosh yoki kichik harf farqi yo'q.</div>` : ""}
   <div class="modes"><button class="mode ${Q.mode === "learn" ? "on" : ""}" onclick="Q.mode='learn';IntroView()"><b>📖 O'rganish</b><small>Javob va izoh darhol ko'rinadi</small></button>
   <button class="mode ${Q.mode === "exam" ? "on" : ""}" onclick="Q.mode='exam';IntroView()"><b>📝 Imtihon</b><small>Umumiy vaqt ${mins} daqiqa, natija oxirida</small></button></div>
   <button class="btn" onclick="begin()">▶️ Boshlash</button></div>`);
 }
 function begin() {
-  Q.qs = Q.raw.map((q) => { const o = q.options.map((t, i) => ({ t, ok: i === q.answer })); shuffle(o); return { q: q.q, img: q.image, exp: q.explanation, src: q.src, opts: o.map((x) => x.t), ans: o.findIndex((x) => x.ok) }; });
-  Q.i = 0; Q.picks = Array(Q.qs.length).fill(null); Q.flags = new Set(); Q.t0 = Date.now(); Q.live = true;
-  if (Q.mode === "exam") Q.deadline = Date.now() + Q.qs.length * Q.time * 1000;
+  Q.qs = Q.raw.map((q) => { if (q.w) return { w: true, q: q.q, parts: q.parts, exp: q.explanation, src: q.src }; const o = q.options.map((t, i) => ({ t, ok: i === q.answer })); shuffle(o); return { q: q.q, img: q.image, exp: q.explanation, src: q.src, opts: o.map((x) => x.t), ans: o.findIndex((x) => x.ok) }; });
+  Q.i = 0; Q.chk = new Set(); Q.picks = Array(Q.qs.length).fill(null); Q.flags = new Set(); Q.t0 = Date.now(); Q.live = true;
+  if (Q.mode === "exam") Q.deadline = Date.now() + Q.qs.reduce((a, q) => a + qTime(q), 0) * 1000;
   STACK.push([Play, []]); syncBack(); Play();
 }
 function stopTimer() { if (TIMER) clearInterval(TIMER); TIMER = null; }
@@ -207,16 +223,19 @@ function fmt(s) { s = Math.max(0, Math.ceil(s)); const m = Math.floor(s / 60); r
 function Play() {
   stopTimer();
   const q = Q.qs[Q.i], n = Q.qs.length, p = Q.picks[Q.i], learn = Q.mode === "learn";
-  const answered = learn && p !== null;
+  const answered = learn && (q.w ? Q.chk.has(Q.i) : p !== null);
   let h = `<div class="top"><span class="n">${Q.i + 1} / ${n}</span><span class="t" id="tm">…</span></div><div class="bar"><i style="width:${((Q.i + (answered ? 1 : 0)) / n) * 100}%"></i></div>
-  <div class="card"><div class="q">${esc(q.q)}${q.img ? `<img src="${BASE + esc(q.img)}" alt="">` : ""}</div></div><div class="opts">`;
+  <div class="card">${q.w ? `<span class="wtag">✍️ Yozma javob</span>` : ""}<div class="q">${esc(q.q)}${q.img ? `<img src="${BASE + esc(q.img)}" alt="">` : ""}</div></div>`;
+  if (q.w) h += writtenHtml(q, Q.i, answered);
+  else { h += `<div class="opts">`;
   q.opts.forEach((o, k) => {
     let c = "";
     if (answered) c = k === q.ans ? "ok" : k === p ? "bad" : "";
     else if (p === k) c = "sel";
     h += `<button class="opt ${c}" onclick="pick(${k})" ${answered ? "disabled" : ""}><span class="l">${L[k]}</span><span>${esc(o)}</span></button>`;
   });
-  h += "</div>";
+  h += "</div>"; }
+  if (q.w && learn && !answered) h += `<button class="btn" onclick="checkW()">✔️ Tekshirish</button>`;
   if (answered) {
     if (q.exp) h += `<div class="exp">💡 ${esc(q.exp)}</div>`;
     h += `<button class="btn" onclick="next()">${Q.i + 1 < n ? "Keyingi savol ▶" : "Natijani ko'rish 🏁"}</button>`;
@@ -229,11 +248,11 @@ function Play() {
   render(h);
   const tm = document.getElementById("tm");
   if (learn && answered) { tm.textContent = "✓"; return; }
-  const end = learn ? (Q.qEnd = Q.qEnd && Q.qIdx === Q.i ? Q.qEnd : Date.now() + Q.time * 1000) : Q.deadline;
+  const end = learn ? (Q.qEnd = Q.qEnd && Q.qIdx === Q.i ? Q.qEnd : Date.now() + qTime(q) * 1000) : Q.deadline;
   Q.qIdx = Q.i;
   const tick = () => {
     const left = (end - Date.now()) / 1000; tm.textContent = "⏱ " + fmt(left); tm.classList.toggle("low", left < (learn ? 6 : 60));
-    if (left <= 0) { stopTimer(); if (learn) { Q.picks[Q.i] = -1; hap("error"); Play(); } else { toast("⏱ Vaqt tugadi"); finish(); } }
+    if (left <= 0) { stopTimer(); if (learn) { if (q.w) return checkW(true); Q.picks[Q.i] = -1; hap("error"); Play(); } else { toast("⏱ Vaqt tugadi"); finish(); } }
   };
   tick(); TIMER = setInterval(tick, 500);
 }
@@ -243,6 +262,20 @@ function pick(k) {
   if (Q.picks[Q.i] !== null) return;
   Q.picks[Q.i] = k; const ok = k === Q.qs[Q.i].ans; hap(ok ? "success" : "error"); Play();
   if (ok && !Q.qs[Q.i].exp) setTimeout(() => { if (Q.live && Q.picks[Q.i] === k) next(); }, 1000);
+}
+function writtenHtml(q, k, show) {
+  const p = Q.picks[k] || [];
+  return q.parts.map((pt, j) => {
+    const ok = show && okAns(p[j], pt.a);
+    return `<div class="wp">${pt.q ? `<label><b>${esc(pt.l ? pt.l + ") " : "")}</b>${esc(pt.q)}</label>` : ""}<input ${show ? "disabled" : ""} class="${show ? (ok ? "ok" : "bad") : ""}" value="${esc(p[j] || "")}" placeholder="Javobingizni yozing…" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="done" oninput="wIn(${k},${j},this.value)" onkeydown="if(event.key==='Enter')this.blur()">${show ? `<div class="ans">${ok ? '<span class="c-ok">✓ To\'g\'ri</span>' : `<span class="c-bad" style="text-decoration:none">✗</span> To'g'ri javob: <b class="c-ok">${esc(pt.a[0])}</b>`}</div>` : ""}</div>`;
+  }).join("");
+}
+function wIn(k, j, v) { if (!Q.live) return; const p = Q.picks[k] || Array(Q.qs[k].parts.length).fill(""); p[j] = v; Q.picks[k] = p.some((x) => x && x.trim()) ? p : null; if (Q.mode === "exam") { const b = document.querySelectorAll(".grid button")[k]; if (b) b.classList.toggle("done", !!Q.picks[k]); } }
+function checkW(timeout) {
+  const q = Q.qs[Q.i];
+  if (!timeout && !Q.picks[Q.i]) return toast("Avval javobni yozing");
+  if (!Q.picks[Q.i]) Q.picks[Q.i] = Array(q.parts.length).fill("");
+  Q.chk.add(Q.i); const [g, m] = pts(Q.i); hap(g === m ? "success" : "error"); Play();
 }
 function next() { if (Q.i + 1 < Q.qs.length) { Q.i++; Q.qEnd = null; Play(); window.scrollTo(0, 0); } else finish(); }
 function move(d) { Q.i = Math.min(Q.qs.length - 1, Math.max(0, Q.i + d)); Play(); window.scrollTo(0, 0); }
@@ -254,13 +287,14 @@ async function tryFinish() { const left = Q.picks.filter((x) => x === null).leng
 async function finish() {
   stopTimer(); if (!Q.live) return; Q.live = false;
   const qs = Q.qs, n = qs.length;
-  const correct = qs.filter((q, k) => Q.picks[k] === q.ans).length;
-  const pct = Math.round((correct / n) * 100);
+  const P = qs.map((_, k) => pts(k)), correct = P.reduce((a, x) => a + x[0], 0), maxp = P.reduce((a, x) => a + x[1], 0);
+  const pct = Math.round((correct / maxp) * 100);
+  Q.P = P; Q.maxp = maxp;
   Q.res = { correct, pct, secs: Math.round((Date.now() - Q.t0) / 1000) };
   STACK.pop(); STACK.push([Result, []]); syncBack();
   Result(true);
-  const r = await api("result", { quiz_id: Q.id, title: Q.title, total: n, correct,
-    wrong: qs.filter((q, k) => Q.picks[k] !== q.ans).map((q) => q.src), right: qs.filter((q, k) => Q.picks[k] === q.ans).map((q) => q.src) });
+  const r = await api("result", { quiz_id: Q.id, title: Q.title, total: maxp, correct,
+    wrong: qs.filter((q, k) => P[k][0] < P[k][1]).map((q) => q.src), right: qs.filter((q, k) => P[k][0] === P[k][1]).map((q) => q.src) });
   if (r) { Q.res.saved = r; if (ME) { ME.streak = r.streak; ME.mistakes = r.mistakes; ME.stats.n++; } refreshMe(); Result(); }
 }
 function ring(p) {
@@ -268,9 +302,9 @@ function ring(p) {
   return `<svg class="ring" width="150" height="150" viewBox="0 0 140 140"><circle cx="70" cy="70" r="${R}" fill="none" stroke="var(--line)" stroke-width="12"/>${p ? "" : "<!--"}<circle cx="70" cy="70" r="${R}" fill="none" stroke="${col}" stroke-width="12" stroke-linecap="round" stroke-dasharray="${(C * p) / 100} ${C}" transform="rotate(-90 70 70)"/>${p ? "" : "-->"}<text x="70" y="78" text-anchor="middle" font-size="28" font-weight="700" fill="currentColor">${p}%</text></svg>`;
 }
 function Result(first) {
-  const { correct, pct, secs, saved } = Q.res, n = Q.qs.length;
+  const { correct, pct, secs, saved } = Q.res, n = Q.maxp, nq = Q.qs.length, bad = Q.P.filter((x) => x[0] < x[1]).length, hasW = Q.qs.some((q) => q.w);
   const msg = pct >= 86 ? "🏆 A'lo natija!" : pct >= 70 ? "✅ Yaxshi natija!" : pct >= 56 ? "🙂 Yomon emas" : "📖 Mavzuni yana takrorlang";
-  let h = `<div class="card" style="text-align:center"><div class="title" style="margin:0 0 4px">${msg}</div><div class="res-n">${esc(Q.title)}</div>${ring(pct)}
+  let h = `<div class="card" style="text-align:center"><div class="title" style="margin:0 0 4px">${msg}</div><div class="res-n">${esc(Q.title)}</div>${ring(pct)}${hasW ? `<div class="res-n" style="font-size:13px">Ball: ${correct} / ${n} (yozma savolning har bir bandi — 1 ball)</div>` : ""}
   <div class="stats3"><div><b style="color:var(--ok)">${correct}</b><small>to'g'ri</small></div><div><b style="color:var(--bad)">${n - correct}</b><small>xato / javobsiz</small></div><div><b>${fmt(secs)}</b><small>sarflangan vaqt</small></div></div>`;
   if (saved) {
     const s = saved.streak, f = s >= 100 ? "👑" : s >= 30 ? "💎" : "🔥";
@@ -279,11 +313,12 @@ function Result(first) {
   else if (first) h += `<div class="res-n" style="margin-top:10px;font-size:13px">Natija saqlanmoqda…</div>`;
   h += `<button class="btn" onclick="begin()">🔁 Qayta ishlash</button><button class="btn ghost" onclick="home()">📚 Bosh sahifa</button></div>`;
   const tab = Q.tab || "bad";
-  h += `<div class="tabs"><button class="${tab === "bad" ? "on" : ""}" onclick="Q.tab='bad';Result()">Xatolar (${n - correct})</button><button class="${tab === "all" ? "on" : ""}" onclick="Q.tab='all';Result()">Hammasi (${n})</button></div>`;
+  h += `<div class="tabs"><button class="${tab === "bad" ? "on" : ""}" onclick="Q.tab='bad';Result()">Xatolar (${bad})</button><button class="${tab === "all" ? "on" : ""}" onclick="Q.tab='all';Result()">Hammasi (${nq})</button></div>`;
   let cnt = 0;
   Q.qs.forEach((q, k) => {
-    const p = Q.picks[k], ok = p === q.ans;
+    const p = Q.picks[k], ok = Q.P[k][0] === Q.P[k][1];
     if (tab === "bad" && ok) return; cnt++;
+    if (q.w) { h += `<div class="rev"><div class="h">${k + 1}-savol · ✍️ yozma · ${Q.P[k][0]}/${Q.P[k][1]} ball</div><div class="q" style="font-size:15px">${esc(q.q)}</div>${q.parts.map((pt, j) => { const v = p && p[j], g = okAns(v, pt.a); return `<div class="a">${pt.q ? `<div style="color:var(--hint)">${esc(pt.l ? pt.l + ") " : "")}${esc(pt.q)}</div>` : ""}${!g ? `<div class="c-bad">${v ? esc(v) : "— javob yo'q"}</div>` : ""}<div class="c-ok">✓ ${esc(g ? v : pt.a[0])}</div></div>`; }).join("")}${q.exp ? `<div class="exp">💡 ${esc(q.exp)}</div>` : ""}</div>`; return; }
     h += `<div class="rev"><div class="h">${k + 1}-savol · ${ok ? "✅ to'g'ri" : p === null || p === -1 ? "⏳ javob berilmagan" : "❌ xato"}</div><div class="q" style="font-size:15px">${esc(q.q)}${q.img ? `<img src="${BASE + esc(q.img)}" alt="">` : ""}</div>
     <div class="a">${!ok && p >= 0 ? `<div class="c-bad">${L[p]}) ${esc(q.opts[p])}</div>` : ""}<div class="c-ok">✓ ${L[q.ans]}) ${esc(q.opts[q.ans])}</div></div>${q.exp ? `<div class="exp">💡 ${esc(q.exp)}</div>` : ""}</div>`;
   });
@@ -301,7 +336,7 @@ async function startMistakes() {
   const qs = [];
   for (const n of [...new Set(r.items.map((x) => x[0]))].slice(0, 8)) {
     let d; try { d = await getQuiz(n); } catch (e) { continue; }
-    for (const [qn, i] of r.items) if (qn === n && d.questions[i]) qs.push({ ...d.questions[i], src: [n, i] });
+    for (const [qn, i] of r.items) if (qn === n && qOf(d, i)) qs.push({ ...qOf(d, i), src: [n, i] });
   }
   prepare("xatolar", "🧩 Xatolar ustida ishlash", shuffle(qs).slice(0, 30), 45); Q.mode = "learn";
   STACK.push([IntroView, []]); syncBack(); IntroView();
@@ -312,7 +347,7 @@ async function startDaily() {
   const r = await api("mistakes");
   if (r && r.items.length) {
     const n = r.items[0][0];
-    try { const d = await getQuiz(n); for (const [qn, i] of r.items) if (qn === n && d.questions[i] && qs.length < 4) qs.push({ ...d.questions[i], src: [qn, i] }); } catch (e) {}
+    try { const d = await getQuiz(n); for (const [qn, i] of r.items) if (qn === n && qOf(d, i) && qs.length < 4) qs.push({ ...qOf(d, i), src: [qn, i] }); } catch (e) {}
   }
   const recent = new Set(((ME && ME.results) || []).map((x) => (secOf(x.quiz_id) || {}).id).filter(Boolean));
   let pool = CAT.sections.filter((s) => (recent.size ? recent.has(s.id) : !["attru", "hd", "h8", "h9", "h10", "h11"].includes(s.id))).flatMap((s) => s.tests.map((t) => t.n));

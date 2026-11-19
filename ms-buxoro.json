@@ -222,5 +222,80 @@
    "answer": 2,
    "explanation": "Manba: qiyin"
   }
+ ],
+ "written": [
+  {
+   "n": 21,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Shariat qonunlari bajarilishini nazorat qilgan oliy ruhoniy ________ deb atalgan.",
+     "a": [
+      "shayxulislom"
+     ]
+    }
+   ],
+   "explanation": "oson"
+  },
+  {
+   "n": 22,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Amir kutubxonasining boshlig'i ________ deb atalgan.",
+     "a": [
+      "kitobdor"
+     ]
+    }
+   ],
+   "explanation": "oson"
+  },
+  {
+   "n": 23,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Oliy sud raisi va sudlov ishlariga boshchilik qilgan amaldor ________ deb atalgan.",
+     "a": [
+      "qozikalon",
+      "qozi kalon"
+     ]
+    }
+   ],
+   "explanation": "o'rta"
+  },
+  {
+   "n": 24,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Davlat bayrog'i va harbiy qismlar uchun mas'ul sarkarda ________ deb atalgan.",
+     "a": [
+      "to'qsoba",
+      "toqsoba"
+     ]
+    }
+   ],
+   "explanation": "o'rta"
+  },
+  {
+   "n": 25,
+   "q": "Nuqtalar o'rniga to'g'ri javobni yozing.",
+   "parts": [
+    {
+     "l": "",
+     "q": "Xon va shahzodalar orasidagi munosabatlar bilan shug'ullangan amaldor ________ deb atalgan.",
+     "a": [
+      "xon yasovuli",
+      "xonyasovuli"
+     ]
+    }
+   ],
+   "explanation": "qiyin"
+  }
  ]
 }

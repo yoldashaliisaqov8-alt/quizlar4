@@ -352,5 +352,215 @@
    ],
    "answer": 2
   }
+ ],
+ "written": [
+  {
+   "n": 36,
+   "q": "Shartnoma tuzish bosqichlariga oid atamalarni yozing. (10-sinf, 22-dars)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Shartnoma tuzish haqidagi taklif (lotincha “offero” — “taklif etaman”) qanday ataladi?",
+     "a": [
+      "oferta"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Taklifda ko'rsatilgan shartlarga ko'ra shartnoma tuzishga rozilik bildirish qanday ataladi?",
+     "a": [
+      "aksept"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "q": "Majburiyatlarni ta'minlash usullariga oid atamalarni yozing. (10-sinf, 21-dars)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Qarzdor majburiyatni bajarmaganda kreditorga to'laydigan, jarima yoki penya shaklidagi pul summasi qanday ataladi?",
+     "a": [
+      "neustoyka"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Qarzdor majburiyatlarining bajarilishi uchun uchinchi shaxs javobgar bo'ladigan munosabat qanday ataladi?",
+     "a": [
+      "kafillik"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "q": "BMTga oid atamalarni yozing. (10-sinf, 30-dars)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Xavfsizlik kengashining doimiy a'zolaridan birining qarorga qarshi ovoz berish huquqi qanday ataladi?",
+     "a": [
+      "veto",
+      "veto huquqi"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Hozirda faoliyati to'xtatilgan BMT asosiy organi qaysi?",
+     "a": [
+      "Vasiylik kengashi"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "q": "Konstitutsiya va shaxsni tasdiqlovchi hujjatlarga oid savollarga javob bering. (9-sinf, 2, 11-dars)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Biografik va biometrik ma'lumotlari kiritilgan chipga ega, egasining O'zbekiston hududida shaxsini va fuqaroligini tasdiqlaydigan hujjat qanday ataladi?",
+     "a": [
+      "ID-karta",
+      "identifikatsiyalovchi ID-karta"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "1992-yilgi Konstitutsiya loyihasini tayyorlash uchun necha kishidan iborat komissiya tuzilgan? (so'z bilan yozing)",
+     "a": [
+      "oltmish to'rt",
+      "64"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "q": "Orol fojiasiga oid savollarga javob bering. (9-sinf, 22-dars)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Orol dengizining chekinishi natijasida “kemalar qabristoni”ga aylangan sobiq port shahar qaysi?",
+     "a": [
+      "Mo'ynoq"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Orol dengizi qurigan tubida qancha maydonda yangi o'simlik va daraxtzorlar yaratish rejalashtirilgan? (so'z bilan yozing)",
+     "a": [
+      "ikki million gektar",
+      "2 million gektar"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "q": "Mehnatga haq to'lash tarixiga oid savollarga javob bering. (11-sinf, 6-dars)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Lotincha “salarium” atamasi qaysi so'zdan olingan? (o'zbekcha tarjimasini yozing)",
+     "a": [
+      "tuz",
+      "sal"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Hozirgi ingliz tilidagi qaysi so'zning ildizi “salarium” atamasiga borib taqaladi?",
+     "a": [
+      "salary"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "q": "Jinoyat huquqi tarixi va fanlariga oid savollarga javob bering. (11-sinf, 18, 26–27-dars)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Miloddan avvalgi XVIII asrda Bobil shohi tuzgan, “ko'zga ko'z, tishga tish” prinsipiga asoslangan qonunlar qanday ataladi?",
+     "a": [
+      "Hammurapi",
+      "Hammurapi qonunlari"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Jinoyatlarning kelib chiqish sabablari, jinoyatchilar xususiyatlari va jinoyatchilik darajasini o'rganuvchi fan qaysi?",
+     "a": [
+      "kriminologiya"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "q": "Ekologiya huquqiga oid atamalarni yozing. (11-sinf, 32– 33-dars)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Yo'qolib ketish xavfi ostida turgan yovvoyi hayvonlar va o'simliklar turlari ro'yxati kiritilgan rasmiy nashr qanday ataladi?",
+     "a": [
+      "Qizil kitob"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Yerni hisobga olish, baholash va qonuniy nazorat qilishga xizmat qiladigan maxsus hujjatlar tizimi qanday ataladi?",
+     "a": [
+      "kadastr",
+      "yer kadastri"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "q": "Ma'muriy huquqqa oid savollarga javob bering. (11-sinf, 10, 12-dars)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "2023-yil 1-yanvardan ichki ishlar organlari faoliyatiga joriy etilgan, fuqaroning shaxsini aniqlash uchun bo'limga olib borish amaliyotidan voz kechish imkonini bergan tizim qanday ataladi?",
+     "a": [
+      "E-patrul",
+      "“E-patrul”"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Davlat boshqaruvi faoliyatida yuzaga keluvchi munosabatlarni, shu jumladan davlat organlari va fuqarolar o'rtasidagi munosabatlarni tartibga soluvchi huquq sohasi qaysi?",
+     "a": [
+      "ma'muriy huquq"
+     ]
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "q": "Huquq normasining tarkibiy elementlariga oid atamalarni yozing. (8-sinf, 13-dars)",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Yunoncha “faraz” ma'nosini anglatadigan, norma qachon va qanday sharoitda amal qilishini ko'rsatuvchi element qanday ataladi?",
+     "a": [
+      "gipoteza"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Lotincha “majburiy chora” ma'nosini anglatadigan, norma buzilganda qo'llaniladigan davlat chorasini ko'rsatuvchi element qanday ataladi?",
+     "a": [
+      "sanksiya"
+     ]
+    }
+   ]
+  }
  ]
 }

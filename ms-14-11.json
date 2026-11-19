@@ -393,5 +393,278 @@
    "answer": 2,
    "explanation": "Manba: J10, 58-b.: «1932-yil noyabrdagi saylovlarda amerika xalqiga yangi kurs va'da qilgan Franklin Ruzvelt g'olib chiqdi». Diqqat: Chalg'ituvchi: Germaniyada «yangi kurs»ni imperator Vilgelm II e'lo"
   }
+ ],
+ "written": [
+  {
+   "n": 36,
+   "q": "Buyuk Karl imperiyasining parchalanishi haqida:",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Uning nabiralari Verden shahrida shartnomani qaysi yili tuzgan?",
+     "a": [
+      "843-yilda",
+      "843-yil",
+      "843"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Shartnoma natijasida qaysi uch davlat tashkil topgan?",
+     "a": [
+      "Fransiya, Germaniya va Italiya",
+      "Fransiya, Italiya va Germaniya",
+      "Germaniya, Fransiya va Italiya",
+      "Germaniya, Italiya va Fransiya",
+      "Italiya, Fransiya va Germaniya",
+      "Italiya, Germaniya va Fransiya",
+      "Fransiya, Germaniya, Italiya",
+      "Fransiya, Italiya, Germaniya",
+      "Germaniya, Fransiya, Italiya",
+      "Germaniya, Italiya, Fransiya",
+      "Italiya, Fransiya, Germaniya",
+      "Italiya, Germaniya, Fransiya"
+     ]
+    }
+   ],
+   "explanation": "J7, 21-b.: «Uning nabiralari davrida Verden shahrida 843-yili tuzilgan shartnomaga muvofiq imperiya uchga bo'linib, ularning asosida uchta – Fransiya, Germaniya va Italiya davlatlari tashkil topadi»."
+  },
+  {
+   "n": 37,
+   "q": "AQShdagi fuqarolar urushi haqida:",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Urush qaysi yillarda bo'lib o'tgan?",
+     "a": [
+      "1861–1865-yillarda",
+      "1861-1865-yillarda",
+      "1861-1865",
+      "1861–1865",
+      "1861-1865-yillar",
+      "1861–1865-yillar"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Kongress qullikni bekor qilgan Konstitutsiyaga nechanchi tuzatishni va qachon kiritgan?",
+     "a": [
+      "13-tuzatishni, 1865-yil 1-fevralda",
+      "13-tuzatish, 1865-yil 1-fevralda",
+      "13-tuzatish, 1865-yil 1-fevral",
+      "13-tuzatishni 1865-yil 1-fevralda"
+     ]
+    }
+   ],
+   "explanation": "J9, 142-b.: «…1861-yili boshlangan fuqarolar urushi 1865-yilgacha davom etdi»; «1865-yil 1-fevralda Kongress AQSH Konstitutsiyasiga 13-tuzatish kiritib, qullikni bekor qildi». Diqqat: 1863-yil — «Qullarni ozod qilish to'g'risida proklamatsiya»; 1866-yil 9-iyul — 14-tuzatish (fuqarolik huquqi)."
+  },
+  {
+   "n": 38,
+   "q": "«Sovuq urush» davridagi harbiy-siyosiy bloklar haqida:",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Shimoliy Atlantika shartnomasi tashkiloti (NATO) qachon tuzilgan?",
+     "a": [
+      "1949-yil aprelda",
+      "1949-yil aprel",
+      "1949-yilda",
+      "1949"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Unga javoban SSSR va Sharqiy Yevropa davlatlari qaysi yili qanday ittifoq tuzgan?",
+     "a": [
+      "1955-yilda Varshava shartnomasi tashkilotini",
+      "1955-yil Varshava shartnomasi tashkiloti",
+      "1955-yilda Varshava shartnomasi tashkiloti",
+      "Varshava shartnomasi tashkiloti",
+      "Varshava shartnomasi",
+      "1955-yilda Varshava shartnomasi"
+     ]
+    }
+   ],
+   "explanation": "J10, 93-b.: «G'arb davlatlari 1949-yil aprelda Shimoliy Atlantika shartnomasi tashkiloti (NATO)… tuzdilar… javob tariqasida 1955-yili SSSR bilan… Varshava shartnomasi tashkiloti tuzildi»."
+  },
+  {
+   "n": 39,
+   "q": "Afrikaning mustamlakachilikdan ozod bo'lishi haqida:",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Qaysi yil tarixga «Afrika yili» sifatida kirgan?",
+     "a": [
+      "1960-yil",
+      "1960-yilda",
+      "1960"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Shu yili nechta Afrika mustamlakasi mustaqilligini e'lon qilgan?",
+     "a": [
+      "17 ta",
+      "17",
+      "17 ta mustamlaka",
+      "17 ta davlat"
+     ]
+    }
+   ],
+   "explanation": "J10, 139-b.: «1960-yil tarixga “Afrika yili” sifatida kirdi. Shu yili qit'adagi 17 ta mustamlaka mamlakat o'z mustaqilligini e'lon qildi»; 170-b. ham shunday."
+  },
+  {
+   "n": 40,
+   "q": "Somoniylar davlatining tashkil topishi haqida:",
+   "parts": [
+    {
+     "l": "a",
+     "q": "888-yilgi jangda Ismoil Somoniy kim bilan jang qilib, g'olib chiqqan?",
+     "a": [
+      "Akasi Nasr bilan",
+      "Nasr bilan",
+      "Akasi Nasr",
+      "Nasr"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Ismoil Somoniy Movarounnahr va Xurosonni birlashtirgach, qaysi shahar davlat poytaxtiga aylangan?",
+     "a": [
+      "Buxoro",
+      "Buxoro shahri"
+     ]
+    }
+   ],
+   "explanation": "O'7, 87-b.: «Ko'p o'tmay aka-uka Nasr va Ismoil o'rtasida toj-taxt uchun kurash boshlanadi. 888-yilgi jangda Ismoil g'olib chiqadi»; «Buxoro shahri bu davlatning poytaxtiga aylandi»."
+  },
+  {
+   "n": 41,
+   "q": "1370-yilgi Balx qurultoyi haqida:",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Qurultoy qaroriga ko'ra Amir Temur qanday nom bilan davlat boshqaruvini qo'lga olgan?",
+     "a": [
+      "Movarounnahr amiri",
+      "Movarounnahr amiri nomi bilan"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Amir Temur Keshdan qaysi shaharga ko'chib, uni poytaxtga aylantirgan?",
+     "a": [
+      "Samarqandga",
+      "Samarqand"
+     ]
+    }
+   ],
+   "explanation": "O'8, 89-b.: «Davlat boshqaruvi esa Movarounnahr amiri nomini olgan Amir Temur qo'liga o'tdi. Amir Temur Keshdan Samarqandga ko'chib, uni o'z davlatining poytaxtiga aylantirdi». Diqqat: Xon qilib chingiziy Suyurg'atmish (1370–1388) ko'tarilgan; o'shanda Temur 34 yoshda bo'lgan."
+  },
+  {
+   "n": 42,
+   "q": "Qo'qon xonligida davlat boshqaruvi haqida:",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Toshkent bekligini xonlikka qo'shib olgan xon kim?",
+     "a": [
+      "Olimxon",
+      "Olim xon"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Umarxon davrida bosh vazir (qushbegi) lavozimi qanday nom bilan almashtirilgan?",
+     "a": [
+      "mingboshi",
+      "mingboshiga",
+      "mingboshi lavozimi"
+     ]
+    }
+   ],
+   "explanation": "O'9, 150-b.: «Olimxon tomonidan Toshkent bekligining qo'shib olinishi xonlik hududining yanada kengayishiga olib keladi»; 148-b.: «1810-yilga qadar bosh vazir vazifasini… qushbegi bajargan. Umarxon davriga kelib bu lavozim mingboshiga o'zgartiriladi»."
+  },
+  {
+   "n": 43,
+   "q": "O'rta Osiyoda milliy-hududiy chegaralanish haqida:",
+   "parts": [
+    {
+     "l": "a",
+     "q": "1924-yil 27-oktyabrda O'rta Osiyoda milliy respublikalar tuzish to'g'risida qaysi organ qaror qabul qilgan?",
+     "a": [
+      "SSSR Markaziy Ijroiya Qo'mitasining III sessiyasi",
+      "SSSR MIKning III sessiyasi",
+      "SSSR MIK III sessiyasi",
+      "Markaziy Ijroiya Qo'mitasining III sessiyasi",
+      "Butunittifoq Markaziy Ijroiya Qo'mitasining III sessiyasi"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "1929-yilgacha O'zbekiston SSR tarkibida qaysi muxtor respublika bo'lgan?",
+     "a": [
+      "Tojikiston ASSR",
+      "Tojikiston muxtor respublikasi",
+      "Tojikiston"
+     ]
+    }
+   ],
+   "explanation": "O'10, 119-b.: «1924-yil 27-oktyabrda Moskvada bo'lgan Butunittifoq (SSSR) Markaziy Ijroiya Qo'mitasining III sessiyasi… maxsus qaror qabul qildi»; 120-b.: «O'zbekiston SSR tarkibida Tojikiston ASSR (1929-yilgacha)»."
+  },
+  {
+   "n": 44,
+   "q": "Ikkinchi jahon urushi yillarida O'zbekiston haqida:",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Respublikaga rahbarlik qilgan Usmon Yusupovni qanday nom bilan atashgan?",
+     "a": [
+      "«Mamlakat ichkarisidagi marshal»",
+      "Mamlakat ichkarisidagi marshal",
+      "«mamlakat ichkarisidagi marshal»"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "Stalingraddagi «Pavlov uyi»ni himoya qilganlar orasida bo'lgan o'zbekistonlik kim?",
+     "a": [
+      "Kamol Turg'unov",
+      "Turg'unov",
+      "Kamol Turgunov"
+     ]
+    }
+   ],
+   "explanation": "O'10, 149-b.: «Usmon Yusupovni – «mamlakat ichkarisidagi marshal» deb atashar edi»; 157-b.: «…Stalingraddagi «Pavlov uyi»ni himoya qilgan Kamol Turg'unov ham bor edi»."
+  },
+  {
+   "n": 45,
+   "q": "«Paxta ishi» haqida:",
+   "parts": [
+    {
+     "l": "a",
+     "q": "Bu siyosiy qatag'onlar qachon va qaysi qarorlar bilan boshlangan?",
+     "a": [
+      "1984-yil 23-iyunda O'zbekiston Kompartiyasi MKning XVI plenumi qarorlari bilan",
+      "1984-yil 23-iyunda O'zbekiston Kompartiyasi Markaziy Komitetining XVI plenumi qarorlari bilan",
+      "1984-yil 23-iyunda XVI plenum qarorlari bilan",
+      "1984-yil 23-iyunda MKning XVI plenumi qarorlari bilan"
+     ]
+    },
+    {
+     "l": "b",
+     "q": "1985–1990-yillarda «paxta ishi» bo'yicha jami qancha kishi tergov qilingan?",
+     "a": [
+      "40 000 kishi",
+      "40000 kishi",
+      "40 000",
+      "40000",
+      "40 ming kishi",
+      "40 ming"
+     ]
+    }
+   ],
+   "explanation": "O'10, 178-b.: «1984-yil 23-iyunda O'zbekiston Kompartiyasi Markaziy Komitetining XVI plenumi qarorlari bilan… «paxta ishi» deb atalgan siyosiy qatag'onlar boshlandi»; «1985–1990-yillarda… jami 40 000 kishi tergov qilindi… 5 000 nafar kishi… jinoiy javobgarlikka tortildi». Diqqat: Maxsus tergov guruhlarining dastlabkisi 1983-yil boshida yuborilgan; T. Gdlyan va N. Ivanov guruhi 1983-yil aprelda tuzilgan."
+  }
  ]
 }
