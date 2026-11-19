@@ -1,0 +1,418 @@
+<!doctype html>
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Isakov school</title>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<style>
+:root{
+  --bg:var(--tg-theme-secondary-bg-color,#eef1f6);
+  --card:var(--tg-theme-bg-color,#ffffff);
+  --text:var(--tg-theme-text-color,#14181f);
+  --hint:var(--tg-theme-hint-color,#7c8594);
+  --accent:var(--tg-theme-button-color,#2b62d9);
+  --accent-t:var(--tg-theme-button-text-color,#ffffff);
+  --line:color-mix(in srgb,var(--hint) 22%,transparent);
+  --ok:#1f9d55;--bad:#de4545;--gold:#d6aa4c;--navy:#0f2148;
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;background:var(--bg);color:var(--text);font:15px/1.45 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
+#app{max-width:640px;margin:0 auto;padding:12px 14px 96px}
+button{font:inherit;color:inherit;border:0;background:none;cursor:pointer;padding:0}
+.hero{background:linear-gradient(135deg,#0b1730,#1b3a72);color:#fff;border-radius:20px;padding:18px 18px 16px;position:relative;overflow:hidden}
+.hero:after{content:"";position:absolute;right:-40px;top:-40px;width:160px;height:160px;border-radius:50%;border:2px solid rgba(214,170,76,.35)}
+.brand{font-size:12px;letter-spacing:.18em;font-weight:700;color:var(--gold)}
+.hello{font-size:21px;font-weight:700;margin:6px 0 12px}
+.chips{display:flex;gap:8px}
+.chip{flex:1;background:rgba(255,255,255,.1);border-radius:12px;padding:8px 10px}
+.chip b{display:block;font-size:19px}
+.chip span{font-size:11.5px;opacity:.8}
+.search{display:flex;align-items:center;gap:8px;background:var(--card);border-radius:14px;padding:0 12px;margin:12px 0}
+.search input{flex:1;border:0;outline:0;background:none;color:var(--text);font:inherit;padding:12px 0}
+.row2{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px}
+.act{background:var(--card);border-radius:16px;padding:14px;text-align:left;display:flex;flex-direction:column;gap:4px;min-height:84px}
+.act .ic{font-size:24px}
+.act b{font-size:14.5px}
+.act small{color:var(--hint);font-size:12px}
+h2{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--hint);margin:18px 4px 8px;font-weight:600}
+.list{background:var(--card);border-radius:16px;overflow:hidden}
+.item{display:flex;align-items:center;gap:12px;width:100%;padding:13px 14px;text-align:left;border-top:1px solid var(--line)}
+.item:first-child{border-top:0}
+.item .ic{font-size:22px;width:30px;text-align:center;flex:none}
+.item .tx{flex:1;min-width:0}
+.item .tx b{display:block;font-weight:600;font-size:14.5px}
+.item .tx small{color:var(--hint);font-size:12.5px}
+.item .ar{color:var(--hint);font-size:18px}
+.badge{background:color-mix(in srgb,var(--accent) 14%,transparent);color:var(--accent);border-radius:20px;padding:2px 9px;font-size:12px;font-weight:600;flex:none}
+.title{font-size:20px;font-weight:700;margin:6px 4px 12px}
+.card{background:var(--card);border-radius:18px;padding:16px}
+.btn{display:block;width:100%;background:var(--accent);color:var(--accent-t);border-radius:14px;padding:14px;font-weight:600;text-align:center;margin-top:10px}
+.btn.ghost{background:color-mix(in srgb,var(--accent) 12%,transparent);color:var(--accent)}
+.modes{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:14px 0 4px}
+.mode{border:2px solid var(--line);border-radius:14px;padding:12px;text-align:left}
+.mode.on{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 8%,transparent)}
+.mode b{display:block}
+.mode small{color:var(--hint);font-size:12px}
+.top{display:flex;align-items:center;gap:10px;margin:2px 2px 8px}
+.top .n{font-weight:700}
+.top .t{margin-left:auto;font-variant-numeric:tabular-nums;font-weight:700;background:var(--card);border-radius:10px;padding:4px 10px}
+.top .t.low{color:var(--bad)}
+.bar{height:6px;background:var(--line);border-radius:6px;overflow:hidden;margin-bottom:12px}
+.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--accent),#5fa0ff);border-radius:6px;transition:width .3s}
+.q{white-space:pre-wrap;font-size:16px;font-weight:500}
+.q img{display:block;max-width:100%;border-radius:12px;margin:10px 0 0;background:#fff}
+.opts{display:flex;flex-direction:column;gap:9px;margin-top:14px}
+.opt{display:flex;gap:10px;align-items:flex-start;text-align:left;background:var(--card);border:2px solid var(--line);border-radius:14px;padding:12px;width:100%;transition:border-color .15s,background .15s}
+.opt .l{flex:none;width:26px;height:26px;border-radius:50%;display:grid;place-items:center;font-weight:700;font-size:13px;background:var(--line)}
+.opt.sel{border-color:var(--accent)}
+.opt.sel .l{background:var(--accent);color:var(--accent-t)}
+.opt.ok{border-color:var(--ok);background:color-mix(in srgb,var(--ok) 10%,var(--card))}
+.opt.ok .l{background:var(--ok);color:#fff}
+.opt.bad{border-color:var(--bad);background:color-mix(in srgb,var(--bad) 10%,var(--card))}
+.opt.bad .l{background:var(--bad);color:#fff}
+.exp{margin-top:12px;border-left:3px solid var(--gold);background:color-mix(in srgb,var(--gold) 10%,var(--card));padding:10px 12px;border-radius:0 12px 12px 0;font-size:14px;white-space:pre-wrap}
+.nav{display:flex;gap:8px;margin-top:14px}
+.nav .btn{margin:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(38px,1fr));gap:6px;margin-top:14px}
+.grid button{height:38px;border-radius:10px;background:var(--card);border:2px solid var(--line);font-weight:600;font-size:13px}
+.grid .done{background:color-mix(in srgb,var(--accent) 16%,var(--card));border-color:transparent}
+.grid .cur{border-color:var(--accent)}
+.grid .flag{box-shadow:inset 0 -3px 0 var(--gold)}
+.grid .ok{background:var(--ok);color:#fff;border-color:transparent}
+.grid .bad{background:var(--bad);color:#fff;border-color:transparent}
+.ring{display:block;margin:4px auto 8px}
+.res-n{text-align:center;color:var(--hint)}
+.stats3{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:14px}
+.stats3 div{background:var(--bg);border-radius:12px;padding:10px;text-align:center}
+.stats3 b{display:block;font-size:18px}
+.stats3 small{color:var(--hint);font-size:11.5px}
+.note{border-radius:14px;padding:12px 14px;margin-top:12px;font-size:14px;background:color-mix(in srgb,var(--gold) 14%,var(--card))}
+.tabs{display:flex;gap:6px;margin:16px 0 8px}
+.tabs button{padding:7px 14px;border-radius:20px;background:var(--card);font-weight:600;font-size:13px}
+.tabs .on{background:var(--accent);color:var(--accent-t)}
+.rev{background:var(--card);border-radius:16px;padding:14px;margin-bottom:10px}
+.rev .h{font-size:12px;color:var(--hint);margin-bottom:4px}
+.rev .a{margin-top:8px;font-size:14px}
+.rev .a div{padding:2px 0}
+.c-ok{color:var(--ok);font-weight:600}.c-bad{color:var(--bad);text-decoration:line-through}
+.empty{text-align:center;color:var(--hint);padding:30px 10px}
+.spin{width:34px;height:34px;border:3px solid var(--line);border-top-color:var(--accent);border-radius:50%;margin:60px auto;animation:s 0.8s linear infinite}
+@keyframes s{to{transform:rotate(360deg)}}
+.warn{background:color-mix(in srgb,var(--bad) 10%,var(--card));border-radius:14px;padding:10px 12px;font-size:13px;margin-top:10px}
+.chart{width:100%;height:auto;display:block}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#1d2433;color:#fff;padding:10px 16px;border-radius:12px;font-size:14px;z-index:9;max-width:90%}
+</style>
+</head>
+<body>
+<div id="app"><div class="spin"></div></div>
+<script>
+const TG = window.Telegram && Telegram.WebApp;
+const INIT = (TG && TG.initData) || "";
+const API = "https://quizbot.yoldashaliisaqov8.workers.dev/api/";
+const BASE = "../";
+const $app = document.getElementById("app");
+let CAT = null, ME = null, Q = null, STACK = [], TIMER = null;
+const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+const L = "ABCDEFGH";
+const shuffle = (a) => { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const hap = (t) => { try { TG.HapticFeedback.notificationOccurred(t); } catch (e) {} };
+const tap = () => { try { TG.HapticFeedback.selectionChanged(); } catch (e) {} };
+function toast(t) { const d = document.createElement("div"); d.className = "toast"; d.textContent = t; document.body.appendChild(d); setTimeout(() => d.remove(), 2600); }
+function ask(t) { return new Promise((r) => { if (TG && TG.showConfirm && INIT) TG.showConfirm(t, r); else r(confirm(t)); }); }
+
+async function api(path, body) {
+  if (!INIT) return null;
+  try {
+    const r = await fetch(API + path, { method: body ? "POST" : "GET", headers: { "X-Init-Data": INIT, "Content-Type": "application/json" }, body: body ? JSON.stringify(body) : undefined });
+    return r.ok ? await r.json() : null;
+  } catch (e) { return null; }
+}
+const QC = new Map();
+async function getQuiz(n) {
+  if (QC.has(n)) return QC.get(n);
+  const r = await fetch(BASE + n + ".json"); if (!r.ok) throw new Error(n);
+  const d = await r.json(); QC.set(n, d); return d;
+}
+const allTests = () => CAT.sections.flatMap((s) => s.tests.map((t) => ({ ...t, sec: s })));
+const secOf = (n) => CAT.sections.find((s) => s.tests.some((t) => t.n === n));
+const locked = (secId) => ME && ME.locked && (ME.locked.includes("*") || ME.locked.includes(secId));
+
+// ---------- navigatsiya ----------
+function go(fn, ...a) { stopTimer(); STACK.push([fn, a]); fn(...a); window.scrollTo(0, 0); syncBack(); }
+function back() { stopTimer(); if (STACK.length > 1) STACK.pop(); const [fn, a] = STACK[STACK.length - 1]; fn(...a); window.scrollTo(0, 0); syncBack(); }
+function home() { stopTimer(); STACK = []; go(Home); }
+function syncBack() { if (!TG) return; if (STACK.length > 1) TG.BackButton.show(); else TG.BackButton.hide(); }
+if (TG) { TG.ready(); TG.expand(); TG.BackButton.onClick(async () => { if (Q && Q.live && !(await ask("Testni to'xtatasizmi? Natija saqlanmaydi."))) return; if (Q) Q.live = false; back(); }); try { TG.setHeaderColor("#0b1730"); } catch (e) {} }
+const render = (h) => { $app.innerHTML = h; };
+
+// ---------- bosh sahifa ----------
+function Home() {
+  const name = (ME && ME.user.name) || (TG && TG.initDataUnsafe && TG.initDataUnsafe.user && TG.initDataUnsafe.user.first_name) || "";
+  const st = ME ? ME.streak : 0;
+  const fire = st >= 100 ? "👑" : st >= 30 ? "💎" : "🔥";
+  let h = `<div class="hero"><div class="brand">ISAKOV SCHOOL</div><div class="hello">Assalomu alaykum${name ? ", " + esc(name) : ""} 👋</div>
+  <div class="chips"><div class="chip"><b>${fire} ${st}</b><span>kun ketma-ket</span></div><div class="chip"><b>${ME ? ME.stats.n : 0}</b><span>ishlangan test</span></div><div class="chip"><b>${ME ? ME.stats.avg : 0}%</b><span>o'rtacha natija</span></div></div></div>`;
+  if (!INIT) h += `<div class="warn">Ilovani bot orqali oching — shunda natijalaringiz saqlanadi va sertifikat beriladi.</div>`;
+  h += `<form class="search" onsubmit="event.preventDefault();go(Search,this.q.value)"><span>🔍</span><input name="q" placeholder="Mavzu yoki atama: Amir Temur…" enterkeyhint="search"></form>
+  <div class="row2"><button class="act" onclick="startDaily()"><span class="ic">${fire}</span><b>Bugungi 10 ta savol</b><small>Har kuni zanjirni davom ettiring</small></button>
+  <button class="act" onclick="startMistakes()"><span class="ic">🧩</span><b>Xatolar ustida ishlash</b><small>${ME ? ME.mistakes + " ta xato savol" : "Xato savollaringiz"}</small></button></div>
+  <h2>Bo'limlar</h2><div class="list">`;
+  CAT.groups.forEach((g, i) => { const n = g.secs.reduce((a, s) => a + ((CAT.sections.find((x) => x.id === s) || { tests: [] }).tests.length), 0); h += `<button class="item" onclick="go(Group,${i})"><span class="ic">${g.icon}</span><span class="tx"><b>${esc(g.title)}</b><small>${n} ta test</small></span><span class="ar">›</span></button>`; });
+  h += `</div><h2>Mening yutuqlarim</h2><div class="list">
+  <button class="item" onclick="go(Results)"><span class="ic">📈</span><span class="tx"><b>Natijalarim</b><small>Grafik va oxirgi testlar</small></span><span class="ar">›</span></button>
+  <button class="item" onclick="go(Rating)"><span class="ic">🏆</span><span class="tx"><b>Haftalik reyting</b><small>Eng faol o'quvchilar</small></span><span class="ar">›</span></button></div>`;
+  render(h);
+}
+function Group(i) {
+  const g = CAT.groups[i];
+  const secs = g.secs.map((id) => CAT.sections.find((s) => s.id === id)).filter(Boolean);
+  if (secs.length === 1) return Section(secs[0].id);
+  let h = `<div class="title">${g.icon} ${esc(g.title)}</div><div class="list">`;
+  for (const s of secs) h += `<button class="item" onclick="go(Section,'${s.id}')"><span class="ic">${s.icon}</span><span class="tx"><b>${esc(s.title)}</b><small>${s.tests.length} ta test</small></span>${locked(s.id) ? "🔒" : '<span class="ar">›</span>'}</button>`;
+  render(h + "</div>");
+}
+function Section(id) {
+  const s = CAT.sections.find((x) => x.id === id);
+  let h = `<div class="title">${s.icon} ${esc(s.title)}</div><div class="list">`;
+  s.tests.forEach((t) => { h += `<button class="item" onclick="go(Intro,'${t.n}')"><span class="tx"><b>${esc(t.t)}</b></span><span class="badge">${t.c} savol</span></button>`; });
+  render(h + "</div>");
+}
+
+// ---------- test boshlash ----------
+async function Intro(n) {
+  const sec = secOf(n);
+  if (sec && locked(sec.id)) return render(`<div class="card"><div class="title">🔒 Parol kerak</div>Bu bo'lim parol bilan himoyalangan. Botga qaytib, bo'limni oching va parolni yozing.<br><br><small style="color:var(--hint)">Parolni olish uchun: @ustoztarix1</small><button class="btn" onclick="toBot('menu')">Botga o'tish</button></div>`);
+  render('<div class="spin"></div>');
+  let d; try { d = await getQuiz(n); } catch (e) { return render('<div class="empty">Test yuklanmadi. Internetni tekshiring.</div>'); }
+  const t = allTests().find((x) => x.n === n) || { t: d.title };
+  prepare(n, t.t || d.title, d.questions.map((q, i) => ({ ...q, src: [n, i] })), d.time || 30);
+  IntroView();
+}
+function prepare(id, title, qs, time) {
+  Q = { id, title, time, mode: Q && Q.mode ? Q.mode : "learn", raw: qs, live: false };
+}
+function IntroView() {
+  const n = Q.raw.length, mins = Math.ceil((n * Q.time) / 60);
+  render(`<div class="card"><div style="font-size:12px;color:var(--hint);font-weight:600;letter-spacing:.05em">TEST</div><div class="title" style="margin:4px 0 6px">${esc(Q.title)}</div>
+  <div style="color:var(--hint)">❓ ${n} ta savol · ⏱ har biriga ${Q.time} soniya</div>
+  <div class="modes"><button class="mode ${Q.mode === "learn" ? "on" : ""}" onclick="Q.mode='learn';IntroView()"><b>📖 O'rganish</b><small>Javob va izoh darhol ko'rinadi</small></button>
+  <button class="mode ${Q.mode === "exam" ? "on" : ""}" onclick="Q.mode='exam';IntroView()"><b>📝 Imtihon</b><small>Umumiy vaqt ${mins} daqiqa, natija oxirida</small></button></div>
+  <button class="btn" onclick="begin()">▶️ Boshlash</button></div>`);
+}
+function begin() {
+  Q.qs = Q.raw.map((q) => { const o = q.options.map((t, i) => ({ t, ok: i === q.answer })); shuffle(o); return { q: q.q, img: q.image, exp: q.explanation, src: q.src, opts: o.map((x) => x.t), ans: o.findIndex((x) => x.ok) }; });
+  Q.i = 0; Q.picks = Array(Q.qs.length).fill(null); Q.flags = new Set(); Q.t0 = Date.now(); Q.live = true;
+  if (Q.mode === "exam") Q.deadline = Date.now() + Q.qs.length * Q.time * 1000;
+  STACK.push([Play, []]); syncBack(); Play();
+}
+function stopTimer() { if (TIMER) clearInterval(TIMER); TIMER = null; }
+function fmt(s) { s = Math.max(0, Math.ceil(s)); const m = Math.floor(s / 60); return m + ":" + String(s % 60).padStart(2, "0"); }
+function Play() {
+  stopTimer();
+  const q = Q.qs[Q.i], n = Q.qs.length, p = Q.picks[Q.i], learn = Q.mode === "learn";
+  const answered = learn && p !== null;
+  let h = `<div class="top"><span class="n">${Q.i + 1} / ${n}</span><span class="t" id="tm">…</span></div><div class="bar"><i style="width:${((Q.i + (answered ? 1 : 0)) / n) * 100}%"></i></div>
+  <div class="card"><div class="q">${esc(q.q)}${q.img ? `<img src="${BASE + esc(q.img)}" alt="">` : ""}</div></div><div class="opts">`;
+  q.opts.forEach((o, k) => {
+    let c = "";
+    if (answered) c = k === q.ans ? "ok" : k === p ? "bad" : "";
+    else if (p === k) c = "sel";
+    h += `<button class="opt ${c}" onclick="pick(${k})" ${answered ? "disabled" : ""}><span class="l">${L[k]}</span><span>${esc(o)}</span></button>`;
+  });
+  h += "</div>";
+  if (answered) {
+    if (q.exp) h += `<div class="exp">💡 ${esc(q.exp)}</div>`;
+    h += `<button class="btn" onclick="next()">${Q.i + 1 < n ? "Keyingi savol ▶" : "Natijani ko'rish 🏁"}</button>`;
+  }
+  if (!learn) {
+    h += `<div class="nav"><button class="btn ghost" onclick="move(-1)" ${Q.i ? "" : "disabled style='opacity:.4'"}>◀</button><button class="btn ghost" onclick="flag()">${Q.flags.has(Q.i) ? "★ Belgilangan" : "☆ Belgilash"}</button><button class="btn ghost" onclick="move(1)" ${Q.i + 1 < n ? "" : "disabled style='opacity:.4'"}>▶</button></div><div class="grid">`;
+    Q.qs.forEach((_, k) => { h += `<button class="${Q.picks[k] !== null ? "done" : ""} ${k === Q.i ? "cur" : ""} ${Q.flags.has(k) ? "flag" : ""}" onclick="jump(${k})">${k + 1}</button>`; });
+    h += `</div><button class="btn" onclick="tryFinish()">🏁 Yakunlash (${Q.picks.filter((x) => x !== null).length}/${n})</button>`;
+  }
+  render(h);
+  const tm = document.getElementById("tm");
+  if (learn && answered) { tm.textContent = "✓"; return; }
+  const end = learn ? (Q.qEnd = Q.qEnd && Q.qIdx === Q.i ? Q.qEnd : Date.now() + Q.time * 1000) : Q.deadline;
+  Q.qIdx = Q.i;
+  const tick = () => {
+    const left = (end - Date.now()) / 1000; tm.textContent = "⏱ " + fmt(left); tm.classList.toggle("low", left < (learn ? 6 : 60));
+    if (left <= 0) { stopTimer(); if (learn) { Q.picks[Q.i] = -1; hap("error"); Play(); } else { toast("⏱ Vaqt tugadi"); finish(); } }
+  };
+  tick(); TIMER = setInterval(tick, 500);
+}
+function pick(k) {
+  if (!Q.live) return;
+  if (Q.mode === "exam") { Q.picks[Q.i] = k; tap(); if (Q.i + 1 < Q.qs.length) setTimeout(() => move(1), 180); else Play(); return; }
+  if (Q.picks[Q.i] !== null) return;
+  Q.picks[Q.i] = k; const ok = k === Q.qs[Q.i].ans; hap(ok ? "success" : "error"); Play();
+  if (ok && !Q.qs[Q.i].exp) setTimeout(() => { if (Q.live && Q.picks[Q.i] === k) next(); }, 1000);
+}
+function next() { if (Q.i + 1 < Q.qs.length) { Q.i++; Q.qEnd = null; Play(); window.scrollTo(0, 0); } else finish(); }
+function move(d) { Q.i = Math.min(Q.qs.length - 1, Math.max(0, Q.i + d)); Play(); window.scrollTo(0, 0); }
+function jump(k) { Q.i = k; Play(); window.scrollTo(0, 0); }
+function flag() { Q.flags.has(Q.i) ? Q.flags.delete(Q.i) : Q.flags.add(Q.i); Play(); }
+async function tryFinish() { const left = Q.picks.filter((x) => x === null).length; if (left && !(await ask(`${left} ta savolga javob berilmagan. Yakunlaysizmi?`))) return; finish(); }
+
+// ---------- natija ----------
+async function finish() {
+  stopTimer(); if (!Q.live) return; Q.live = false;
+  const qs = Q.qs, n = qs.length;
+  const correct = qs.filter((q, k) => Q.picks[k] === q.ans).length;
+  const pct = Math.round((correct / n) * 100);
+  Q.res = { correct, pct, secs: Math.round((Date.now() - Q.t0) / 1000) };
+  STACK.pop(); STACK.push([Result, []]); syncBack();
+  Result(true);
+  const r = await api("result", { quiz_id: Q.id, title: Q.title, total: n, correct,
+    wrong: qs.filter((q, k) => Q.picks[k] !== q.ans).map((q) => q.src), right: qs.filter((q, k) => Q.picks[k] === q.ans).map((q) => q.src) });
+  if (r) { Q.res.saved = r; if (ME) { ME.streak = r.streak; ME.mistakes = r.mistakes; ME.stats.n++; } refreshMe(); Result(); }
+}
+function ring(p) {
+  const R = 54, C = 2 * Math.PI * R, col = p >= 86 ? "#1f9d55" : p >= 70 ? "#2b62d9" : p >= 56 ? "#e0a020" : "#de4545";
+  return `<svg class="ring" width="150" height="150" viewBox="0 0 140 140"><circle cx="70" cy="70" r="${R}" fill="none" stroke="var(--line)" stroke-width="12"/>${p ? "" : "<!--"}<circle cx="70" cy="70" r="${R}" fill="none" stroke="${col}" stroke-width="12" stroke-linecap="round" stroke-dasharray="${(C * p) / 100} ${C}" transform="rotate(-90 70 70)"/>${p ? "" : "-->"}<text x="70" y="78" text-anchor="middle" font-size="28" font-weight="700" fill="currentColor">${p}%</text></svg>`;
+}
+function Result(first) {
+  const { correct, pct, secs, saved } = Q.res, n = Q.qs.length;
+  const msg = pct >= 86 ? "🏆 A'lo natija!" : pct >= 70 ? "✅ Yaxshi natija!" : pct >= 56 ? "🙂 Yomon emas" : "📖 Mavzuni yana takrorlang";
+  let h = `<div class="card" style="text-align:center"><div class="title" style="margin:0 0 4px">${msg}</div><div class="res-n">${esc(Q.title)}</div>${ring(pct)}
+  <div class="stats3"><div><b style="color:var(--ok)">${correct}</b><small>to'g'ri</small></div><div><b style="color:var(--bad)">${n - correct}</b><small>xato / javobsiz</small></div><div><b>${fmt(secs)}</b><small>sarflangan vaqt</small></div></div>`;
+  if (saved) {
+    const s = saved.streak, f = s >= 100 ? "👑" : s >= 30 ? "💎" : "🔥";
+    h += `<div class="note">${f} Ketma-ket kunlar: <b>${s}</b>${[7, 30, 100].includes(s) ? " — 🎉 yangi belgi!" : ""}${saved.cert ? "<br>🎖 <b>Sertifikatingiz botga yuborildi!</b> Chatni oching." : ""}</div>`;
+  } else if (!INIT) h += `<div class="warn">Natija saqlanmadi: ilovani bot orqali oching.</div>`;
+  else if (first) h += `<div class="res-n" style="margin-top:10px;font-size:13px">Natija saqlanmoqda…</div>`;
+  h += `<button class="btn" onclick="begin()">🔁 Qayta ishlash</button><button class="btn ghost" onclick="home()">📚 Bosh sahifa</button></div>`;
+  const tab = Q.tab || "bad";
+  h += `<div class="tabs"><button class="${tab === "bad" ? "on" : ""}" onclick="Q.tab='bad';Result()">Xatolar (${n - correct})</button><button class="${tab === "all" ? "on" : ""}" onclick="Q.tab='all';Result()">Hammasi (${n})</button></div>`;
+  let cnt = 0;
+  Q.qs.forEach((q, k) => {
+    const p = Q.picks[k], ok = p === q.ans;
+    if (tab === "bad" && ok) return; cnt++;
+    h += `<div class="rev"><div class="h">${k + 1}-savol · ${ok ? "✅ to'g'ri" : p === null || p === -1 ? "⏳ javob berilmagan" : "❌ xato"}</div><div class="q" style="font-size:15px">${esc(q.q)}${q.img ? `<img src="${BASE + esc(q.img)}" alt="">` : ""}</div>
+    <div class="a">${!ok && p >= 0 ? `<div class="c-bad">${L[p]}) ${esc(q.opts[p])}</div>` : ""}<div class="c-ok">✓ ${L[q.ans]}) ${esc(q.opts[q.ans])}</div></div>${q.exp ? `<div class="exp">💡 ${esc(q.exp)}</div>` : ""}</div>`;
+  });
+  if (!cnt) h += `<div class="empty">🎉 Xato yo'q!</div>`;
+  render(h);
+  if (first) hap(pct >= 70 ? "success" : "warning");
+}
+
+// ---------- maxsus testlar ----------
+async function startMistakes() {
+  if (!INIT) return toast("Ilovani bot orqali oching");
+  render('<div class="spin"></div>');
+  const r = await api("mistakes");
+  if (!r || !r.items.length) { render(`<div class="empty">🎉 Xatolaringiz yo'q!<br><br>Test ishlaganingizda xato qilgan savollaringiz shu yerga yig'iladi.</div>`); STACK.push([Home, []]); syncBack(); return; }
+  const qs = [];
+  for (const n of [...new Set(r.items.map((x) => x[0]))].slice(0, 8)) {
+    let d; try { d = await getQuiz(n); } catch (e) { continue; }
+    for (const [qn, i] of r.items) if (qn === n && d.questions[i]) qs.push({ ...d.questions[i], src: [n, i] });
+  }
+  prepare("xatolar", "🧩 Xatolar ustida ishlash", shuffle(qs).slice(0, 30), 45); Q.mode = "learn";
+  STACK.push([IntroView, []]); syncBack(); IntroView();
+}
+async function startDaily() {
+  render('<div class="spin"></div>');
+  const qs = [];
+  const r = await api("mistakes");
+  if (r && r.items.length) {
+    const n = r.items[0][0];
+    try { const d = await getQuiz(n); for (const [qn, i] of r.items) if (qn === n && d.questions[i] && qs.length < 4) qs.push({ ...d.questions[i], src: [qn, i] }); } catch (e) {}
+  }
+  const recent = new Set(((ME && ME.results) || []).map((x) => (secOf(x.quiz_id) || {}).id).filter(Boolean));
+  let pool = CAT.sections.filter((s) => (recent.size ? recent.has(s.id) : !["attru", "hd", "h8", "h9", "h10", "h11"].includes(s.id))).flatMap((s) => s.tests.map((t) => t.n));
+  for (let k = 0; k < 4 && qs.length < 10; k++) {
+    const n = pool[Math.floor(Math.random() * pool.length)];
+    let d; try { d = await getQuiz(n); } catch (e) { continue; }
+    for (const i of shuffle(d.questions.map((_, i) => i)).slice(0, 3)) if (qs.length < 10) qs.push({ ...d.questions[i], src: [n, i] });
+  }
+  prepare("kun10", "🔥 Bugungi 10 ta savol", shuffle(qs), 30); Q.mode = "learn";
+  STACK.push([IntroView, []]); syncBack(); IntroView();
+}
+
+// ---------- qidiruv ----------
+const STOPW = new Set("qaysi bilan uchun yilda aniqlang toping topin javob berilgan quyidagi ularning ushbu davrida hamda yillarda qanday nima kimning kim nechta asrda asrning bo'lgan bolgan edi etdi qilgan yil yili tomonidan haqida".split(" "));
+const normTok = (s) => (String(s).toLowerCase().replace(/[‘’ʻʼ`´'"]/g, "").match(/[\p{L}\p{N}]+/gu) || []).filter((t) => t.length >= 3 && !STOPW.has(t));
+function shardOf(key) { let h = 5381; for (const ch of key.slice(0, 2)) h = (((h * 33) >>> 0) ^ ch.codePointAt(0)) >>> 0; return (h % 256).toString(16).padStart(2, "0"); }
+const SC = new Map();
+async function sget(f) { if (!SC.has(f)) { const r = await fetch(BASE + "s/" + f); SC.set(f, r.ok ? await r.json() : (f === "tests.json" ? [] : {})); } return SC.get(f); }
+async function Search(query) {
+  query = String(query || "").trim();
+  const toks = [...new Set(normTok(query))].slice(0, 4);
+  if (!toks.length) return render(`<div class="empty">🔍 Kamida 3 harfli so'z yozing.</div>`);
+  render('<div class="spin"></div>');
+  const cnt = new Map();
+  for (const t of toks) {
+    const key = t.slice(0, 6), sh = await sget(shardOf(key) + ".json"), set = new Set();
+    for (const k in sh) if (k === key || (key.length < 6 && k.startsWith(key))) for (const id of sh[k]) set.add(id);
+    for (const id of set) cnt.set(id, (cnt.get(id) || 0) + 1);
+  }
+  const names = await sget("tests.json");
+  const max = Math.max(0, ...cnt.values());
+  const ids = [...cnt.entries()].filter((e) => e[1] === max).map((e) => e[0]);
+  if (!ids.length) return render(`<div class="title">🔍 «${esc(query)}»</div><div class="empty">Hech narsa topilmadi. Boshqa so'z bilan urinib ko'ring.</div>`);
+  const by = new Map();
+  for (const id of ids) { const n = names[Math.floor(id / 1000)]; if (n) { if (!by.has(n)) by.set(n, []); by.get(n).push(id % 1000); } }
+  window._SR = { query, by };
+  const tests = allTests();
+  let h = `<div class="title">🔍 «${esc(query)}»</div><div class="card"><b>${ids.length}</b> ta savol · <b>${by.size}</b> ta testda topildi<button class="btn" onclick="startSearch()">▶️ Topilgan savollardan test (${Math.min(30, ids.length)})</button></div><h2>Mos testlar</h2><div class="list">`;
+  [...by.entries()].sort((a, b) => b[1].length - a[1].length).slice(0, 20).forEach(([n, a]) => { const t = tests.find((x) => x.n === n); if (t) h += `<button class="item" onclick="go(Intro,'${n}')"><span class="ic">${t.sec.icon}</span><span class="tx"><b>${esc(t.t)}</b><small>${esc(t.sec.title)}</small></span><span class="badge">${a.length}</span></button>`; });
+  render(h + "</div>");
+}
+async function startSearch() {
+  const { query, by } = window._SR; render('<div class="spin"></div>');
+  const qs = [];
+  for (const [n, idx] of [...by.entries()].sort((a, b) => b[1].length - a[1].length).slice(0, 8)) {
+    let d; try { d = await getQuiz(n); } catch (e) { continue; }
+    for (const i of idx) if (d.questions[i]) qs.push({ ...d.questions[i], src: [n, i] });
+  }
+  prepare("qidiruv", `🔍 «${query}» bo'yicha test`, shuffle(qs).slice(0, 30), 30);
+  STACK.push([IntroView, []]); syncBack(); IntroView();
+}
+
+// ---------- natijalar va reyting ----------
+function Results() {
+  if (!ME) return render(`<div class="empty">Natijalarni ko'rish uchun ilovani bot orqali oching.</div>`);
+  const rs = ME.results || [];
+  let h = `<div class="title">📈 Natijalarim</div><div class="card"><div class="stats3" style="margin:0"><div><b>${ME.stats.n}</b><small>testlar</small></div><div><b>${ME.stats.avg}%</b><small>o'rtacha</small></div><div><b>${ME.streak}</b><small>kun ketma-ket</small></div></div>`;
+  if (rs.length) {
+    const a = rs.slice().reverse(), W = 320, H = 150, bw = W / a.length;
+    h += `<svg class="chart" viewBox="0 0 ${W} ${H + 20}" style="margin-top:14px"><line x1="0" x2="${W}" y1="${H - H * 0.7}" y2="${H - H * 0.7}" stroke="var(--gold)" stroke-dasharray="4 4"/><text x="2" y="${H - H * 0.7 - 4}" font-size="9" fill="var(--hint)">70% — sertifikat</text>`;
+    a.forEach((r, i) => { const p = Math.round((r.correct / r.total) * 100), bh = Math.max(3, (H - 10) * p / 100), col = p >= 70 ? "#1f9d55" : p >= 56 ? "#e0a020" : "#de4545"; h += `<rect x="${i * bw + bw * 0.18}" y="${H - bh}" width="${bw * 0.64}" height="${bh}" rx="4" fill="${col}"/><text x="${i * bw + bw / 2}" y="${H + 13}" font-size="9" text-anchor="middle" fill="var(--hint)">${p}</text>`; });
+    h += `</svg>`;
+  }
+  h += `</div><h2>Oxirgi testlar</h2>`;
+  if (!rs.length) h += `<div class="empty">Hali test ishlamadingiz.</div>`;
+  else { h += `<div class="list">`; rs.forEach((r) => { const p = Math.round((r.correct / r.total) * 100), d = new Date(r.at); h += `<div class="item"><span class="ic">${p >= 86 ? "🏆" : p >= 70 ? "✅" : p >= 56 ? "🙂" : "📖"}</span><span class="tx"><b>${esc(r.title)}</b><small>${r.correct}/${r.total} · ${d.getDate()}.${String(d.getMonth() + 1).padStart(2, "0")}</small></span><span class="badge">${p}%</span></div>`; }); h += `</div>`; }
+  render(h);
+}
+function Rating() {
+  if (!ME) return render(`<div class="empty">Reytingni ko'rish uchun ilovani bot orqali oching.</div>`);
+  const md = ["🥇", "🥈", "🥉"];
+  let h = `<div class="title">🏆 Haftalik reyting</div><div style="color:var(--hint);margin:-6px 4px 10px;font-size:13px">So'nggi 7 kunda to'g'ri javoblar soni</div><div class="list">`;
+  if (!ME.top.length) h += `<div class="empty">Bu hafta hali natija yo'q.</div>`;
+  ME.top.forEach((r, i) => { h += `<div class="item" ${r.me ? 'style="background:color-mix(in srgb,var(--accent) 10%,transparent)"' : ""}><span class="ic">${md[i] || i + 1}</span><span class="tx"><b>${esc(r.name)}${r.me ? " (siz)" : ""}</b><small>${r.n} ta test</small></span><span class="badge">${r.c}</span></div>`; });
+  render(h + "</div>");
+}
+
+// ---------- obuna ----------
+function toBot(p) { const u = ME && ME.bot ? `https://t.me/${ME.bot}?start=${p}` : ""; if (u && TG) { TG.openTelegramLink(u); TG.close(); } }
+function SubGate() {
+  let h = `<div class="hero"><div class="brand">ISAKOV SCHOOL</div><div class="hello">📢 Kanalimizga obuna bo'ling</div><div style="opacity:.85">Ilovadan foydalanish uchun kanalga obuna bo'lish kerak. Kanalda yangi testlar va foydali materiallar chiqadi.</div></div><div class="list" style="margin-top:12px">`;
+  ME.missing.forEach((c) => { h += `<button class="item" onclick="TG?TG.openTelegramLink('${esc(c.link)}'):open('${esc(c.link)}')"><span class="ic">📢</span><span class="tx"><b>${esc(c.name)}</b><small>Obuna bo'lish</small></span><span class="ar">›</span></button>`; });
+  h += `</div><button class="btn" onclick="boot()">✅ Obuna bo'ldim — tekshirish</button>`;
+  render(h);
+}
+async function refreshMe() { const m = await api("me"); if (m) ME = m; }
+
+async function boot() {
+  render('<div class="spin"></div>');
+  const [c, m] = await Promise.all([fetch(BASE + "catalog.json").then((r) => r.json()).catch(() => null), api("me")]);
+  if (!c) return render('<div class="empty">Yuklanmadi. Internetni tekshirib, ilovani qayta oching.</div>');
+  CAT = c; ME = m;
+  if (ME && ME.missing && ME.missing.length) return SubGate();
+  home();
+}
+boot();
+</script>
+</body>
+</html>

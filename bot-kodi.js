@@ -735,6 +735,7 @@ async function dailyReport(env, chat) {
     `📝 Ishlangan testlar: <b>${tests}</b> (shaxsiy: ${get("_shaxsiy")}, guruhda: ${get("_guruh")})\n`;
   if (secs.length) t += `\n🏆 <b>Eng faol bo'limlar:</b>\n` + secs.slice(0, 5).map((r, i) => `${i + 1}. ${esc(nm(r.sec))} — ${r.n} ta`).join("\n") + "\n";
   if (get("_pdf")) t += `📄 Yuklab olingan PDF: <b>${get("_pdf")}</b>\n`;
+  if (get("_app")) t += `📱 Ilova ochildi: <b>${get("_app")}</b> marta, ilovada test: <b>${get("_ilova")}</b>\n`;
   if (get("_qidiruv")) t += `🔍 Qidiruvlar: <b>${get("_qidiruv")}</b>\n`;
   const err = get("_xato");
   t += `\n${err ? `⚠️ Bugun nosozliklar: <b>${err}</b>` : "✅ Bugun nosozlik bo'lmadi"}`;
@@ -1552,6 +1553,7 @@ async function onMessage(env, msg) {
   if ((cmd === "/xatolarim" || cmd === "/xatolar") && msg.chat.type === "private") return startMistakes(env, chat_id, msg.from);
 
   if (cmd === "/oqituvchi" || cmd === "/teacher") return teacherGuide(env, chat_id);
+  if (cmd === "/ilova" && msg.chat.type === "private") return appCmd(env, chat_id);
   if (cmd === "/qidir" && msg.chat.type === "private") return doSearch(env, chat_id, msg.from, text.replace(/^\/qidir(@\w+)?\s*/, ""));
   if (cmd === "/kun10" && msg.chat.type === "private") return startDaily10(env, chat_id, msg.from);
   if (cmd === "/eslatma" && msg.chat.type === "private") {
@@ -1639,9 +1641,112 @@ async function watchdog(env) {
     await env.DB.prepare("DELETE FROM polls WHERE session_id < ?").bind(String(now - 3 * 864e5)).run();
 }
 
+// ---------- Mini App (Web ilova) API ----------
+const APP_URL = (env) => new URL("app/", env.QUIZ_BASE_URL).href;
+const CORS = { "Access-Control-Allow-Origin": "*", "Access-Control-Allow-Headers": "Content-Type, X-Init-Data", "Access-Control-Allow-Methods": "GET, POST, OPTIONS" };
+const jres = (o, st = 200) => new Response(JSON.stringify(o), { status: st, headers: { "content-type": "application/json; charset=utf-8", ...CORS } });
+async function hmacRaw(key, data) {
+  const k = await crypto.subtle.importKey("raw", typeof key === "string" ? new TextEncoder().encode(key) : key, { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
+  return new Uint8Array(await crypto.subtle.sign("HMAC", k, new TextEncoder().encode(data)));
+}
+async function webAppUser(env, initData) {
+  if (!initData) return null;
+  const p = new URLSearchParams(initData);
+  const hash = p.get("hash");
+  if (!hash) return null;
+  p.delete("hash");
+  const dcs = [...p.entries()].sort((a, b) => (a[0] < b[0] ? -1 : 1)).map(([k, v]) => k + "=" + v).join("\n");
+  const secret = await hmacRaw("WebAppData", env.BOT_TOKEN);
+  const h = [...(await hmacRaw(secret, dcs))].map((b) => b.toString(16).padStart(2, "0")).join("");
+  if (h !== hash) return null;
+  if (Date.now() / 1000 - Number(p.get("auth_date") || 0) > 7 * 86400) return null;
+  try { return JSON.parse(p.get("user")); } catch (e) { return null; }
+}
+async function appAccess(env, user) {
+  if (String(user.id) === OWNER(env)) return { missing: [], locked: [] };
+  const missing = [];
+  const S = await getSubs(env);
+  if (S.on) {
+    const seen = new Set();
+    for (const c of [...(S.tarix || []), ...(S.huquq || [])]) {
+      const ch = chObj(c);
+      if (seen.has(ch.id)) continue; seen.add(ch.id);
+      const r = await tg(env, "getChatMember", { chat_id: ch.id, user_id: user.id });
+      if (!r.ok) continue;
+      const st = r.result.status;
+      if (!(["creator", "administrator", "member"].includes(st) || (st === "restricted" && r.result.is_member))) missing.push({ name: ch.name, link: ch.link });
+    }
+  }
+  let locked = [];
+  const L = await getLock(env);
+  if (L && L.pw) {
+    const a = await env.DB.prepare("SELECT ver FROM access WHERE user_id=?").bind(user.id).first();
+    if (!(a && a.ver === L.ver)) locked = L.secs && L.secs.length ? L.secs : ["*"];
+  }
+  return { missing, locked };
+}
+async function handleApi(env, req, url) {
+  if (req.method === "OPTIONS") return new Response(null, { headers: CORS });
+  const user = await webAppUser(env, req.headers.get("X-Init-Data"));
+  if (!user) return jres({ error: "auth" }, 401);
+  await ensureLearn(env);
+  const uid = user.id;
+  if (url.pathname === "/api/me") {
+    await touchUser(env, user);
+    const acc = await appAccess(env, user);
+    const { results } = await env.DB.prepare("SELECT quiz_id, title, correct, total, at FROM results WHERE user_id=? ORDER BY at DESC LIMIT 12").bind(uid).all();
+    const agg = await env.DB.prepare("SELECT COUNT(*) n, SUM(correct) c, SUM(total) t FROM results WHERE user_id=?").bind(uid).first();
+    const st = await getStreak(env, uid);
+    const since = Date.now() - 7 * 86400000;
+    const { results: top } = await env.DB.prepare(
+      "SELECT r.user_id, MAX(u.name) name, SUM(r.correct) c, COUNT(*) n FROM results r LEFT JOIN users u ON u.user_id=r.user_id WHERE r.at>=? GROUP BY r.user_id ORDER BY c DESC LIMIT 10"
+    ).bind(since).all();
+    await bump(env, "_app");
+    return jres({
+      user: { id: uid, name: user.first_name || "" }, bot: await botUser(env), owner: String(uid) === OWNER(env), ...acc,
+      streak: st.streak, best: st.best || 0, remind: st.active ? st.hhmm : null,
+      stats: { n: agg.n || 0, avg: agg.t ? Math.round((agg.c / agg.t) * 100) : 0 },
+      mistakes: await mistakeCount(env, uid), results,
+      top: top.map((r) => ({ name: r.name || "—", c: r.c, n: r.n, me: r.user_id === uid })),
+    });
+  }
+  if (url.pathname === "/api/mistakes") {
+    const { results } = await env.DB.prepare("SELECT quiz_id, idx FROM mistakes WHERE user_id=? ORDER BY at DESC LIMIT 60").bind(uid).all();
+    return jres({ items: results.map((r) => [r.quiz_id, r.idx]) });
+  }
+  if (url.pathname === "/api/result" && req.method === "POST") {
+    const b = await req.json().catch(() => ({}));
+    const total = Math.min(200, Math.max(1, b.total | 0)), correct = Math.min(total, Math.max(0, b.correct | 0));
+    const quiz_id = String(b.quiz_id || "app").slice(0, 40), title = String(b.title || "Test").slice(0, 80);
+    await touchUser(env, user);
+    await saveResult(env, { chat_id: uid, quiz_id, title, total }, correct);
+    const now = Date.now(), stmts = [];
+    for (const [q, i] of (b.wrong || []).slice(0, 100)) stmts.push(env.DB.prepare("INSERT OR REPLACE INTO mistakes (user_id, quiz_id, idx, at) VALUES (?,?,?,?)").bind(uid, String(q).slice(0, 40), i | 0, now));
+    for (const [q, i] of (b.right || []).slice(0, 200)) stmts.push(env.DB.prepare("DELETE FROM mistakes WHERE user_id=? AND quiz_id=? AND idx=?").bind(uid, String(q).slice(0, 40), i | 0));
+    if (stmts.length) { if (env.DB.batch) await env.DB.batch(stmts); else for (const x of stmts) await x.run(); }
+    const streak = await bumpStreak(env, uid);
+    const pct = Math.round((correct / total) * 100);
+    let cert = false;
+    if (pct >= 70 && total >= 10 && !["xatolar", "kun10", "qidiruv"].includes(quiz_id)) {
+      try { await sendCertificate(env, { chat_id: uid, title, total }, user, correct, pct); cert = true; } catch (e) { console.log("app sert", e); }
+    }
+    await bump(env, (await sectionOf(env, quiz_id)) || "boshqa"); await bump(env, "_ilova");
+    return jres({ ok: true, streak: streak || (await getStreak(env, uid)).streak, cert, mistakes: await mistakeCount(env, uid) });
+  }
+  return jres({ error: "404" }, 404);
+}
+async function appCmd(env, chat_id) {
+  return send(env, chat_id, "📱 <b>Isakov school ilovasi</b>\n\nTestlar, imtihon rejimi, taymer, natijalar grafigi va reyting — hammasi bitta ilovada.\n\nPastdagi tugmani yoki chap pastdagi <b>«📚 Isakov school»</b> tugmasini bosing 👇",
+    { reply_markup: { inline_keyboard: [[{ text: "📱 Ilovani ochish", web_app: { url: APP_URL(env) } }]] } });
+}
+
 export default {
   async fetch(req, env, ctx) {
     const url = new URL(req.url);
+
+    if (url.pathname.startsWith("/api/")) {
+      try { return await handleApi(env, req, url); } catch (e) { console.log("api", e); return jres({ error: "server" }, 500); }
+    }
 
     if (url.pathname === "/setup") {
       if (url.searchParams.get("secret") !== env.WEBHOOK_SECRET) return new Response("Ruxsat yo'q", { status: 403 });
@@ -1654,6 +1759,7 @@ export default {
       await tg(env, "setMyCommands", {
         commands: [
           { command: "menyu", description: "📚 Testlar katalogi (mavzular bo'yicha)" },
+          { command: "ilova", description: "📱 Isakov school ilovasi" },
           { command: "natijalarim", description: "📈 Mening natijalarim" },
           { command: "xatolarim", description: "🧩 Xatolar ustida ishlash" },
           { command: "taklif", description: "🎁 Do'stni taklif qilish" },
@@ -1687,6 +1793,7 @@ export default {
           { command: "obuna", description: "📣 Majburiy obuna" },
         ],
       });
+      await tg(env, "setChatMenuButton", { menu_button: { type: "web_app", text: "📚 Isakov school", web_app: { url: APP_URL(env) } } });
       return new Response(w.ok ? "✅ Bot ulandi! Endi Telegramga qayting." : "❌ Xato: " + JSON.stringify(w),
         { headers: { "content-type": "text/plain; charset=utf-8" } });
     }
