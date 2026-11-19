@@ -7,7 +7,7 @@
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
 <style>
 :root{
-  --bg:#ffffff;--card:#f3f5f9;--text:#000000;--hint:#5f6673;
+  --bg:#f4f6fa;--card:#ffffff;--text:#000000;--hint:#5f6673;
   --accent:#2b62d9;--accent-t:#ffffff;--line:#dfe3ea;
   --ok:#1f9d55;--bad:#de4545;--gold:#c99a3a;--navy:#0f2148;
   color-scheme:light;
@@ -127,6 +127,15 @@ body.playing .tabbar{display:none}
 .q{font-size:calc(16px * var(--fs,1))}
 .opt{font-size:calc(15px * var(--fs,1))}
 .wp label{font-size:calc(14.5px * var(--fs,1))}
+.hero,.simc.dark{background:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%2764%27%20height%3D%2764%27%20viewBox%3D%270%200%2064%2064%27%3E%3Cg%20fill%3D%27none%27%20stroke%3D%27%23e9c46a%27%20stroke-opacity%3D%270.22%27%20stroke-width%3D%271.4%27%3E%3Cpath%20d%3D%27M32%206%20L38%2020%20L52%2014%20L46%2028%20L60%2032%20L46%2036%20L52%2050%20L38%2044%20L32%2058%20L26%2044%20L12%2050%20L18%2036%20L4%2032%20L18%2028%20L12%2014%20L26%2020%20Z%27/%3E%3Ccircle%20cx%3D%2732%27%20cy%3D%2732%27%20r%3D%277%27/%3E%3Cpath%20d%3D%27M0%200%20L12%2014%20M64%200%20L52%2014%20M0%2064%20L12%2050%20M64%2064%20L52%2050%27/%3E%3C/g%3E%3C/svg%3E") 0 0/64px 64px,linear-gradient(135deg,#0b1730,#1b3a72)!important;color:#fff;border:0!important}
+.chip{background:rgba(255,255,255,.13)!important}
+.list,.act,.search,.card,.prog,.simc,.rev,.tbl{box-shadow:0 1px 3px rgba(20,30,60,.07),0 4px 14px rgba(20,30,60,.04)}
+.list .item .ic{width:40px;height:40px;border-radius:12px;display:grid;place-items:center;font-size:21px}
+.list .item:nth-child(6n+1) .ic{background:#2b62d91f}.list .item:nth-child(6n+2) .ic{background:#c0392b1f}.list .item:nth-child(6n+3) .ic{background:#b7791f1f}.list .item:nth-child(6n+4) .ic{background:#1f9d551f}.list .item:nth-child(6n+5) .ic{background:#6d4fc21f}.list .item:nth-child(6n+6) .ic{background:#0f8a8a1f}
+.act .ic{width:42px;height:42px;border-radius:12px;display:grid;place-items:center}.row2 .act:nth-child(1) .ic{background:#b7791f1f}.row2 .act:nth-child(2) .ic{background:#1f9d551f}
+.qbar button,.mini{background:#eef1f6}.qbar button.pri{background:var(--accent)}
+.tbl th{background:#f4f6fa}
+.tabbar,.qbar{box-shadow:0 -2px 10px rgba(0,0,0,.04)}
 .exp{font-size:calc(14px * var(--fs,1))}
 .exp{margin-top:12px;border-left:3px solid var(--gold);background:color-mix(in srgb,var(--gold) 10%,var(--card));padding:10px 12px;border-radius:0 12px 12px 0;font-size:14px;white-space:pre-wrap}
 .nav{display:flex;gap:8px;margin-top:14px}
@@ -213,7 +222,7 @@ function go(fn, ...a) { stopTimer(); STACK.push([fn, a]); fn(...a); window.scrol
 function back() { stopTimer(); if (STACK.length > 1) STACK.pop(); const [fn, a] = STACK[STACK.length - 1]; fn(...a); window.scrollTo(0, 0); syncBack(); }
 function home() { stopTimer(); STACK = []; CURTAB = "home"; go(Home); }
 function syncBack() { if (!TG) return; if (STACK.length > 1) TG.BackButton.show(); else TG.BackButton.hide(); }
-if (TG) { TG.ready(); TG.expand(); TG.BackButton.onClick(async () => { if (Q && Q.live && !(await ask("Testni to'xtatasizmi? Natija saqlanmaydi."))) return; if (Q) Q.live = false; back(); }); try { TG.setHeaderColor("#ffffff"); TG.setBackgroundColor("#ffffff"); TG.setBottomBarColor && TG.setBottomBarColor("#ffffff"); } catch (e) {} }
+if (TG) { TG.ready(); TG.expand(); TG.BackButton.onClick(async () => { if (Q && Q.live && !(await ask("Testni to'xtatasizmi? Natija saqlanmaydi."))) return; if (Q) Q.live = false; back(); }); try { TG.setHeaderColor("#f4f6fa"); TG.setBackgroundColor("#f4f6fa"); TG.setBottomBarColor && TG.setBottomBarColor("#ffffff"); } catch (e) {} }
 let CURTAB = "home";
 const render = (h, playing) => { $app.innerHTML = h; document.body.classList.toggle("playing", !!playing); const q = document.getElementById("qbar"); if (q && !playing) q.remove(); document.querySelectorAll("#tabbar button").forEach((b) => b.classList.toggle("on", b.dataset.t === CURTAB)); };
 async function setTab(t) {
@@ -253,7 +262,7 @@ function Home() {
   h += `<form class="search" onsubmit="event.preventDefault();go(Search,this.q.value)"><span>🔍</span><input name="q" placeholder="Mavzu yoki atama: Amir Temur…" enterkeyhint="search"></form>
   <div class="row2"><button class="act" onclick="startDaily()"><span class="ic">${fire}</span><b>Bugungi 10 ta savol</b><small>Har kuni zanjirni davom ettiring</small></button>
   <button class="act" onclick="startMistakes()"><span class="ic">🧩</span><b>Xatolar ustida ishlash</b><small>${ME ? ME.mistakes + " ta xato savol" : "Xato savollaringiz"}</small></button></div>
-  <button class="simc" style="background:linear-gradient(135deg,#0b1730,#1b3a72);color:#fff;border:0" onclick="go(SimMenu)"><b>🎓 Imtihon simulyatsiyasi</b><small style="color:#d6dcea">Milliy sertifikat va attestatsiya — rasmiy tuzilma, 90 daqiqa, natija ballda</small></button>
+  <button class="simc dark" onclick="go(SimMenu)"><b>🎓 Imtihon simulyatsiyasi</b><small style="color:#d6dcea">Milliy sertifikat va attestatsiya — rasmiy tuzilma, 90 daqiqa, natija ballda</small></button>
 `;
   render(h);
 }
