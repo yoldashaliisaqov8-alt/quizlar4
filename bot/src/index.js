@@ -964,6 +964,7 @@ async function sendCertificate(env, s, user, correct, pct) {
     reply_markup: { inline_keyboard: [[{ text: "📚 Isakov school — bepul testlar", url: `https://t.me/${u}` }]] },
   });
   if (!r.ok) await send(env, s.chat_id, `🎖 Sertifikatingiz: ${svgUrl}`, { protect_content: false });
+  return { png, svg: svgUrl, bot: u };
 }
 
 // Guruhlarni eslab qolish va haftalik reyting
@@ -1805,7 +1806,7 @@ async function handleApi(env, req, url) {
     const pct = Math.round((correct / total) * 100);
     let cert = false;
     if (pct >= 70 && total >= 10 && !["xatolar", "kun10", "qidiruv"].includes(quiz_id)) {
-      try { await sendCertificate(env, { chat_id: uid, title, total, quiz_id }, user, correct, pct); cert = true; } catch (e) { console.log("app sert", e); }
+      try { cert = (await sendCertificate(env, { chat_id: uid, title, total, quiz_id }, user, correct, pct)) || true; } catch (e) { console.log("app sert", e); }
     }
     await bump(env, (await sectionOf(env, quiz_id)) || "boshqa"); await bump(env, "_ilova");
     return jres({ ok: true, streak: streak || (await getStreak(env, uid)).streak, cert, mistakes: await mistakeCount(env, uid) });

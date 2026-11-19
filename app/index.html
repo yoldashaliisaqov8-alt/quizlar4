@@ -433,6 +433,17 @@ async function finish() {
     wrong: qs.filter((q, k) => P[k][0] < P[k][1]).map((q) => q.src), right: qs.filter((q, k) => P[k][0] === P[k][1]).map((q) => q.src) });
   if (r) { Q.res.saved = r; if (ME) { ME.streak = r.streak; ME.mistakes = r.mistakes; ME.stats.n++; } refreshMe(); Result(); }
 }
+function certShare() {
+  const c = Q.res.saved.cert, link = `https://t.me/${c.bot}`;
+  const txt = `🎖 Men «${Q.title}» testini ${Q.res.pct}% natija bilan topshirdim!\nSertifikatim: ${c.png}\n\n📚 Siz ham bepul sinab ko'ring: ${link}`;
+  const u = `https://t.me/share/url?url=${encodeURIComponent(link)}&text=${encodeURIComponent(txt)}`;
+  if (TG && TG.openTelegramLink) TG.openTelegramLink(u); else open(u);
+}
+function certSave() {
+  const c = Q.res.saved.cert;
+  try { if (TG && TG.downloadFile) return TG.downloadFile({ url: c.png, file_name: "sertifikat.png" }); } catch (e) {}
+  if (TG && TG.openLink) TG.openLink(c.png); else open(c.png);
+}
 function ring(p) {
   const R = 54, C = 2 * Math.PI * R, col = p >= 86 ? "#1f9d55" : p >= 70 ? "#2b62d9" : p >= 56 ? "#e0a020" : "#de4545";
   return `<svg class="ring" width="150" height="150" viewBox="0 0 140 140"><circle cx="70" cy="70" r="${R}" fill="none" stroke="var(--line)" stroke-width="12"/>${p ? "" : "<!--"}<circle cx="70" cy="70" r="${R}" fill="none" stroke="${col}" stroke-width="12" stroke-linecap="round" stroke-dasharray="${(C * p) / 100} ${C}" transform="rotate(-90 70 70)"/>${p ? "" : "-->"}<text x="70" y="78" text-anchor="middle" font-size="28" font-weight="700" fill="currentColor">${p}%</text></svg>`;
@@ -445,7 +456,10 @@ function Result(first) {
   <div class="stats3"><div><b style="color:var(--ok)">${correct}</b><small>to'g'ri</small></div><div><b style="color:var(--bad)">${n - correct}</b><small>xato / javobsiz</small></div><div><b>${fmt(secs)}</b><small>sarflangan vaqt</small></div></div>`;
   if (saved) {
     const s = saved.streak, f = s >= 100 ? "👑" : s >= 30 ? "💎" : "🔥";
-    h += `<div class="note">${f} Ketma-ket kunlar: <b>${s}</b>${[7, 30, 100].includes(s) ? " — 🎉 yangi belgi!" : ""}${saved.cert ? "<br>🎖 <b>Sertifikatingiz botga yuborildi!</b> Chatni oching." : ""}</div>`;
+    h += `<div class="note">${f} Ketma-ket kunlar: <b>${s}</b>${[7, 30, 100].includes(s) ? " — 🎉 yangi belgi!" : ""}</div>`;
+    if (saved.cert && saved.cert.png) h += `<div class="card" style="margin-top:12px;text-align:center"><div class="title" style="margin:0 0 10px">🎖 Tabriklaymiz! Sertifikatingiz</div><img src="${esc(saved.cert.png)}" alt="Sertifikat" style="width:100%;border-radius:10px;background:#f3ead4;min-height:200px" onerror="this.replaceWith(Object.assign(document.createElement('a'),{href:'${esc(saved.cert.svg)}',textContent:'Sertifikatni ochish',target:'_blank'}))">
+      <div class="nav"><button class="btn ghost" onclick="certShare()">📤 Ulashish</button><button class="btn ghost" onclick="certSave()">⬇️ Yuklab olish</button></div><div style="font-size:12.5px;color:var(--hint);margin-top:8px">Sertifikat botdagi chatga ham yuborildi.</div></div>`;
+    else if (saved.cert) h += `<div class="note">🎖 <b>Sertifikatingiz botga yuborildi!</b> Chatni oching.</div>`;
   } else if (!INIT) h += `<div class="warn">Natija saqlanmadi: ilovani bot orqali oching.</div>`;
   else if (first) h += `<div class="res-n" style="margin-top:10px;font-size:13px">Natija saqlanmoqda…</div>`;
   h += `<button class="btn" onclick="${Q.sim ? `go(SimIntro,'${Q.sim}')` : "begin()"}">${Q.sim ? "🔁 Yangi variant" : "🔁 Qayta ishlash"}</button><button class="btn ghost" onclick="home()">📚 Bosh sahifa</button></div>`;
