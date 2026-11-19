@@ -1786,6 +1786,12 @@ async function handleApi(env, req, url) {
     if (url.pathname === "/api/admin") return jres(await adminApi(env));
     return jres(await customApi(env, url, await req.json().catch(() => ({}))));
   }
+  if (url.pathname === "/api/want" && req.method === "POST") {
+    const b = await req.json().catch(() => ({}));
+    const id = String(b.s || "").replace(/[^a-z]/g, "").slice(0, 20);
+    if (id) await bump(env, "_want_" + id);
+    return jres({ ok: true });
+  }
   if (url.pathname === "/api/mistakes") {
     const { results } = await env.DB.prepare("SELECT quiz_id, idx FROM mistakes WHERE user_id=? ORDER BY at DESC LIMIT 60").bind(uid).all();
     return jres({ items: results.map((r) => [r.quiz_id, r.idx]) });
@@ -1943,7 +1949,8 @@ async function adminApi(env) {
   const { results: top } = await env.DB.prepare("SELECT quiz_id, MAX(title) title, COUNT(*) n, ROUND(AVG(correct*100.0/total)) p FROM results WHERE at>=? GROUP BY quiz_id ORDER BY n DESC LIMIT 12").bind(since).all();
   const { results: hard } = await env.DB.prepare("SELECT quiz_id, MAX(title) title, COUNT(*) n, ROUND(AVG(correct*100.0/total)) p FROM results WHERE at>=? AND quiz_id NOT LIKE 'sim-%' AND quiz_id NOT IN ('xatolar','kun10','qidiruv') GROUP BY quiz_id HAVING n>=3 ORDER BY p ASC LIMIT 12").bind(since).all();
   const { results: miss } = await env.DB.prepare("SELECT quiz_id, idx, COUNT(*) n FROM mistakes GROUP BY quiz_id, idx ORDER BY n DESC LIMIT 25").all();
-  return { act, tot, top, hard, miss: miss.map((m) => [m.quiz_id, m.idx, m.n]), custom: await customList(env) };
+  const { results: want } = await env.DB.prepare("SELECT substr(sec, 7) s, SUM(n) n FROM stats WHERE sec LIKE '_want_%' GROUP BY sec ORDER BY n DESC").all();
+  return { want, act, tot, top, hard, miss: miss.map((m) => [m.quiz_id, m.idx, m.n]), custom: await customList(env) };
 }
 async function customApi(env, url, b) {
   await ensureCustom(env);

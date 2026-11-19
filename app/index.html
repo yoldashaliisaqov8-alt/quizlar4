@@ -162,6 +162,15 @@ body.playing .tabbar{display:none}
 .mcard .mi{width:44px;height:44px;border-radius:12px;background:#fde8e8;display:grid;place-items:center;font-size:22px;margin-bottom:10px}
 .rrow{display:flex;justify-content:space-between;align-items:center;width:100%;text-align:left;padding:13px 14px;border-top:1px solid var(--line)}.rrow:first-child{border-top:0}
 .rrow b{font-size:15px}.rrow small{color:var(--hint);font-size:12.5px}
+.subj{display:flex;gap:8px;overflow-x:auto;padding:2px 2px 10px;margin:0 -2px}
+.subj button{flex:none;display:flex;align-items:center;gap:7px;padding:8px 14px 8px 8px;border-radius:24px;background:#fff;font-weight:700;font-size:14.5px;border:1.5px solid var(--line)}
+.subj button .sl{width:26px;height:26px;border-radius:50%;display:grid;place-items:center;font-size:13px;background:#eef1f6}
+.subj button.on{background:var(--accent);color:#fff;border-color:var(--accent)}.subj button.on .sl{background:rgba(255,255,255,.22)}
+.subj button.add{border-style:dashed;color:var(--accent);padding-left:14px}
+.srow{display:flex;align-items:center;gap:14px;padding:12px 14px;border-top:1px solid var(--line)}.srow:first-child{border-top:0}
+.srow .sl{flex:none;width:34px;height:34px;border-radius:10px;display:grid;place-items:center;font-weight:800;background:#eef1f6}
+.srow b{display:block;font-size:15px}.srow small{color:var(--hint);font-size:12.5px}
+.srow .sa{margin-left:auto;font-weight:700;color:var(--accent);font-size:14px;flex:none}
 .exp{font-size:calc(14px * var(--fs,1))}
 .exp{margin-top:12px;border-left:3px solid var(--gold);background:color-mix(in srgb,var(--gold) 10%,var(--card));padding:10px 12px;border-radius:0 12px 12px 0;font-size:14px;white-space:pre-wrap}
 .nav{display:flex;gap:8px;margin-top:14px}
@@ -200,7 +209,7 @@ body.playing .tabbar{display:none}
 <div id="app"><div class="spin"></div></div>
 <nav class="tabbar" id="tabbar"><div>
 <button data-t="home" onclick="setTab('home')"><span class="ti">🏠</span>Bosh</button>
-<button data-t="tests" onclick="setTab('tests')"><span class="ti">📚</span>Testlar</button>
+<button data-t="tests" onclick="setTab('tests')"><span class="ti">📚</span>Fanlar</button>
 <button data-t="exam" onclick="setTab('exam')"><span class="ti">⏱</span>Imtihon</button>
 <button data-t="top" onclick="setTab('top')"><span class="ti">🏆</span>Reyting</button>
 <button data-t="me" onclick="setTab('me')"><span class="ti">👤</span>Profil</button></div></nav>
@@ -335,11 +344,32 @@ function recentCard() {
   if (!rs.length) return "";
   return `<h2>So'nggi natijalar</h2><div class="list">${rs.map((r) => { const p = Math.round((r.correct / r.total) * 100); return `<button class="rrow" onclick="${secOf(r.quiz_id) ? `Q=null;go(Intro,'${esc(r.quiz_id)}')` : "go(Results)"}"><span style="min-width:0;flex:1;padding-right:10px"><b style="display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(r.title)}</b><small>${agoMin(r.at)}</small></span><span style="text-align:right"><b>${r.correct} / ${r.total}</b><br><small style="color:${pcol(p)};font-weight:700">${p} %</small></span></button>`; }).join("")}</div><button style="display:block;margin:10px auto 0;color:var(--accent);font-weight:700" onclick="go(Results)">Barcha natijalar va tahlil ›</button>`;
 }
+// ---------- fanlar ----------
+const SUBJECTS = [
+  { id: "tarix", icon: "🏛", title: "Tarix", groups: ["tarix", "ms", "att", "atama", "yangi"] },
+  { id: "huquq", icon: "⚖️", title: "Huquq", groups: ["huquq"] },
+  ...[["geografiya", "🌍", "Geografiya"], ["onatili", "📖", "Ona tili va adabiyot"], ["matematika", "➗", "Matematika"], ["fizika", "⚛️", "Fizika"], ["kimyo", "🧪", "Kimyo"], ["biologiya", "🧬", "Biologiya"], ["ingliz", "🇬🇧", "Ingliz tili"], ["rus", "🇷🇺", "Rus tili"], ["informatika", "💻", "Informatika"], ["iqtisod", "📊", "Iqtisodiyot asoslari"], ["tarbiya", "🤝", "Tarbiya"], ["chizmachilik", "📐", "Chizmachilik"]].map(([id, icon, title]) => ({ id, icon, title, soon: true })),
+];
+function subjGroups(sj) { return CAT.groups.map((g, i) => ({ g, i })).filter(({ g }) => sj.groups.includes(g.id) || (sj.id === "tarix" && !SUBJECTS.some((x) => x.groups && x.groups.includes(g.id)))); }
+function mySubj() { let m = LS.get("isk_subj", null); if (!m) { m = ["tarix"]; if (((ME && ME.results) || []).some((r) => /^huquq/.test(r.quiz_id))) m.push("huquq"); } return m.filter((id) => SUBJECTS.some((x) => x.id === id && !x.soon)); }
+function curSubj() { const m = mySubj(); let c = LS.get("isk_csubj", m[0]); if (!m.includes(c)) c = m[0] || "tarix"; return SUBJECTS.find((x) => x.id === c); }
+function addSubj(id) { const m = mySubj(); if (!m.includes(id)) m.push(id); LS.set("isk_subj", m); LS.set("isk_csubj", id); Catalog(); window.scrollTo({ top: 0, behavior: "smooth" }); }
+function delSubj(id) { const m = mySubj().filter((x) => x !== id); if (!m.length) return toast("Kamida bitta fan qolishi kerak"); LS.set("isk_subj", m); Catalog(); }
+async function wantSubj(id) { const w = LS.get("isk_want", []); if (!w.includes(id)) { w.push(id); LS.set("isk_want", w); api("want", { s: id }); } toast("🔔 Qabul qilindi! Ustoz bu fanni kutayotganingizni ko'radi."); Catalog(); }
 function Catalog() {
-  let h = `<div class="title">📚 Testlar</div><form class="search" style="margin-top:0" onsubmit="event.preventDefault();go(Search,this.q.value)"><span>🔍</span><input name="q" placeholder="Mavzu yoki atama: Amir Temur…" enterkeyhint="search"></form>`;
-  h += progBox(secProg(CAT.sections.flatMap((x) => x.tests))) + `<div class="list">`;
-  CAT.groups.forEach((g, i) => { const tests = g.secs.flatMap((id) => (CAT.sections.find((x) => x.id === id) || { tests: [] }).tests), [d, n] = secProg(tests); h += `<button class="item" onclick="go(Group,${i})"><span class="ic">${g.icon}</span><span class="tx"><b>${esc(g.title)}</b><small>${n} ta test${d ? ` · ✅ ${d} tasi ishlangan` : ""}</small>${d ? `<div class="hbar"><i style="width:${Math.round((d / n) * 100)}%;background:var(--accent)"></i></div>` : ""}</span><span class="ar">›</span></button>`; });
+  const sj = curSubj(), my = mySubj(), want = LS.get("isk_want", []);
+  let h = `<div class="subj">${my.map((id) => { const x = SUBJECTS.find((y) => y.id === id); return `<button class="${x.id === sj.id ? "on" : ""}" onclick="LS.set('isk_csubj','${x.id}');Catalog()"><span class="sl">${x.icon}</span>${esc(x.title)}</button>`; }).join("")}<button class="add" onclick="document.getElementById('others').scrollIntoView({behavior:'smooth'})">＋ Fan qo'shish</button></div>`;
+  h += `<form class="search" style="margin-top:0" onsubmit="event.preventDefault();go(Search,this.q.value)"><span>🔍</span><input name="q" placeholder="${sj.id === "huquq" ? "Mavzu yoki atama: mehnat shartnomasi…" : "Mavzu yoki atama: Amir Temur…"}" enterkeyhint="search"></form>`;
+  const G = subjGroups(sj);
+  h += progBox(secProg(G.flatMap(({ g }) => g.secs.flatMap((id) => (CAT.sections.find((x) => x.id === id) || { tests: [] }).tests)))) + `<div class="list">`;
+  G.forEach(({ g, i }) => { const tests = g.secs.flatMap((id) => (CAT.sections.find((x) => x.id === id) || { tests: [] }).tests), [d, n] = secProg(tests); h += `<button class="item" onclick="go(Group,${i})"><span class="ic">${g.icon}</span><span class="tx"><b>${esc(g.title)}</b><small>${n} ta test${d ? ` · ✅ ${d} tasi ishlangan` : ""}</small>${d ? `<div class="hbar"><i style="width:${Math.round((d / n) * 100)}%;background:var(--accent)"></i></div>` : ""}</span><span class="ar">›</span></button>`; });
   h += `</div><div class="legend" style="margin:12px 4px"><span>✅ ishlangan (eng yaxshi natija)</span><span>⏳ boshlangan</span><span>⚪ hali ochilmagan</span></div>`;
+  h += `<h2 id="others">Boshqa fanlar</h2><div class="list">${SUBJECTS.filter((x) => !my.includes(x.id)).map((x) => {
+    const cnt = x.soon ? 0 : CAT.groups.filter((g) => x.groups.includes(g.id)).reduce((a, g) => a + g.secs.reduce((b, id) => b + ((CAT.sections.find((z) => z.id === id) || { tests: [] }).tests.length), 0), 0);
+    const act = x.soon ? (want.includes(x.id) ? `<span class="sa" style="color:var(--ok)">✓ Kutyapsiz</span>` : `<button class="sa" onclick="wantSubj('${x.id}')">🔔 Kutaman</button>`) : `<button class="sa" onclick="addSubj('${x.id}')">Qo'shish</button>`;
+    return `<div class="srow"><span class="sl">${x.icon}</span><span style="min-width:0"><b>${esc(x.title)}</b><small>${x.soon ? "Testlar tayyorlanmoqda · tez orada" : cnt + " ta test tayyor"}</small></span>${act}</div>`;
+  }).join("")}</div>`;
+  if (my.length > 1) h += `<div style="text-align:center;margin-top:14px"><button style="color:var(--hint);font-size:13px" onclick="delSubj('${sj.id}')">«${esc(sj.title)}» fanini ro'yxatdan olib tashlash</button></div>`;
   render(h);
 }
 function Profile() {
@@ -790,6 +820,7 @@ async function Admin() {
   <button class="btn" onclick="go(AddTest)">➕ Yangi test qo'shish</button>
   <h2>Kunlik faollik (14 kun)</h2><div class="card">${bars(A.act, "tests", "#2b62d9", "ishlangan testlar")}<div style="height:10px"></div>${bars(A.act, "new", "#1f9d55", "yangi a'zolar")}<div style="height:10px"></div>${bars(A.act, "app", "#c99a3a", "ilova ochilishi")}</div>`;
   const tl = (arr, f) => `<div class="list">${arr.map((r) => `<div class="item"><span class="tx"><b>${esc(r.title || r.quiz_id)}</b><small>${r.n} marta ishlangan</small></span><span class="badge" style="color:${pcol(r.p)};background:color-mix(in srgb,${pcol(r.p)} 12%,#fff)">${r.p}%</span></div>`).join("") || '<div class="empty">Ma\'lumot yo\'q</div>'}</div>`;
+  if (A.want && A.want.length) h += `<h2>🔔 O'quvchilar kutayotgan fanlar</h2><div class="list">${A.want.map((w) => { const x = SUBJECTS.find((y) => y.id === w.s); return `<div class="item"><span class="ic">${x ? x.icon : "📘"}</span><span class="tx"><b>${esc(x ? x.title : w.s)}</b></span><span class="badge">${w.n} kishi</span></div>`; }).join("")}</div>`;
   h += `<h2>🔥 Eng ko'p ishlangan testlar (30 kun)</h2>` + tl(A.top);
   h += `<h2>🧗 Eng qiyin testlar (o'rtacha natija bo'yicha)</h2>` + tl(A.hard);
   h += `<h2>❗ Eng ko'p xato qilinayotgan savollar</h2><div style="color:var(--hint);font-size:12.5px;margin:-4px 4px 8px">Ko'p o'quvchi xato qilgan savolda kalit noto'g'ri bo'lishi mumkin — tekshirib ko'ring.</div><div id="miss"><div class="spin" style="margin:20px auto"></div></div>`;
