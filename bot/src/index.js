@@ -374,6 +374,10 @@ async function onCallback(env, cq) {
   }
   await tg(env, "answerCallbackQuery", { callback_query_id: cq.id });
   if (!chat) return;
+  if (d.startsWith("kp:") && chat.type === "private" && String(cq.from.id) === OWNER(env)) {
+    if (d === "kp:ok") return kanalSend(env, chat.id);
+    await env.DB.prepare("DELETE FROM settings WHERE k='kanal_pending'").run(); return send(env, chat.id, "❌ Bekor qilindi.");
+  }
   if (d.startsWith("a:")) {
     if (chat.type === "private" && String(cq.from.id) === OWNER(env)) return adminAction(env, cq, d.slice(2));
     return;
@@ -1482,7 +1486,13 @@ async function onMessage(env, msg) {
   if ((msg.chat.type === "group" || msg.chat.type === "supergroup") && text.startsWith("/")) await touchGroup(env, msg.chat).catch(() => {});
   if (msg.chat.type === "private" && isOwner(env, msg)) {
     const t0 = (msg.text || "").trim().split(/\s+/)[0].split("@")[0].toLowerCase();
-    if (t0 === "/bekor") { await ensureLock(env); await env.DB.prepare("DELETE FROM settings WHERE k='bc_wait'").run(); return send(env, msg.chat.id, "❌ Bekor qilindi."); }
+    if (t0 === "/bekor") { await ensureLock(env); await env.DB.prepare("DELETE FROM settings WHERE k IN ('bc_wait','kanal_wait','kanal_pending')").run(); return send(env, msg.chat.id, "❌ Bekor qilindi."); }
+    if (t0 === "/kanal") return kanalStart(env, msg, msg.text || "");
+    if (!t0.startsWith("/") || msg.photo) {
+      await ensureLock(env);
+      const kw = await env.DB.prepare("SELECT v FROM settings WHERE k='kanal_wait'").first();
+      if (kw) return kanalPrepare(env, msg.chat.id, msg.text || msg.caption || "", msg.photo ? msg.photo[msg.photo.length - 1].file_id : null, kw.v);
+    }
     if (!t0.startsWith("/")) {
       await ensureLock(env);
       const w = await env.DB.prepare("SELECT v FROM settings WHERE k='bc_wait'").first();
@@ -1973,6 +1983,81 @@ async function customApi(env, url, b) {
   return { error: "404" };
 }
 
+// ---------- 📣 Testni kanalga quiz qilib yuborish (faqat egasi) ----------
+function parseTestText(txt) {
+  const lines = String(txt || "").replace(/\r/g, "").split("\n");
+  const qs = []; let cur = null, last = null;
+  const optRe = /^\s*([+*✔✅]\s*)?([A-Ha-hА-Еа-е])\s*[).]\s*(.*)$/, qRe = /^\s*(\d{1,3})\s*[.)]\s*(.+)$/, LET = "ABCDEFGH", CYR = "АБВГДЕ";
+  for (const raw of lines) {
+    const line = raw.trim(); if (!line) continue; let m;
+    if ((m = line.match(/^(javob|to'g'ri javob|to‘g‘ri javob|ответ)\s*[:\-]\s*([A-Ha-hА-Еа-е])\b/i)) && cur) { const c = m[2].toUpperCase(); cur.answer = LET.includes(c) ? LET.indexOf(c) : CYR.indexOf(c); last = null; continue; }
+    if ((m = line.match(/^(izoh|manba|пояснение)\s*[:\-]\s*(.*)$/i)) && cur) { cur.explanation = (cur.explanation ? cur.explanation + " " : "") + m[2]; last = "e"; continue; }
+    if ((m = line.match(qRe)) && (!cur || cur.options.length >= 2)) { cur = { q: m[2], options: [], answer: -1 }; qs.push(cur); last = "q"; continue; }
+    if (!cur && !qRe.test(line) && !optRe.test(line)) { cur = { q: line, options: [], answer: -1 }; qs.push(cur); last = "q"; continue; }
+    if (cur && (m = line.match(optRe)) && (cur.options.length > 0 || /^[AaАа]$/.test(m[2]))) {
+      let t = m[3]; const mark = !!m[1] || /\s*(✔|✅|\(\+\)|\*)\s*$/.test(t);
+      t = t.replace(/\s*(✔|✅|\(\+\)|\*)\s*$/, ""); if (mark) cur.answer = cur.options.length; cur.options.push(t); last = "o"; continue;
+    }
+    if (cur && line.startsWith("+") && last === "q") { cur.answer = cur.options.length; cur.options.push(line.replace(/^\+\s*/, "")); last = "o"; continue; }
+    if (cur && last === "o") cur.options[cur.options.length - 1] += " " + line;
+    else if (cur && last === "e") cur.explanation += " " + line;
+    else if (cur) cur.q += "\n" + line;
+  }
+  return qs;
+}
+const KANAL_HELP = `📣 <b>Testni kanalga yuborish</b>\n\nTestni shu shaklda yuboring (bir xabarda 1–20 ta savol):\n\n<code>1. Amir Temur qachon tug'ilgan?\nA) 1336-yil ✔\nB) 1370-yil\nC) 1405-yil\nD) 1320-yil\nIzoh: Kesh yaqinidagi Xo'ja Ilg'or qishlog'ida.</code>\n\nTo'g'ri javob: variant oxirida ✔ yoki *, oldida +, yoki alohida qatorda «Javob: A».\nRasmli savol: rasm yuboring, testni rasm ostiga (izohga) yozing.\n\nBoshqa kanalga: <code>/kanal @kanal_nomi</code>\nBekor qilish: /bekor`;
+async function kanalStart(env, msg, text) {
+  await ensureLock(env);
+  const m = String(text || "").match(/@\w{4,}/);
+  const ch = m ? m[0] : ((await env.DB.prepare("SELECT v FROM settings WHERE k='post_ch'").first()) || {}).v || "@yoldashaliisakov";
+  if (m) await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('post_ch', ?)").bind(ch).run();
+  const rest = String(text || "").replace(/^\/kanal(@\w+)?/i, "").replace(/@\w{4,}/, "").trim();
+  if (rest) return kanalPrepare(env, msg.chat.id, rest, null, ch);
+  await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('kanal_wait', ?)").bind(ch).run();
+  return send(env, msg.chat.id, KANAL_HELP + `\n\nHozirgi kanal: <b>${esc(ch)}</b>`);
+}
+async function kanalPrepare(env, chat_id, txt, photo, ch) {
+  await ensureLock(env);
+  await env.DB.prepare("DELETE FROM settings WHERE k='kanal_wait'").run();
+  const all = parseTestText(txt), qs = all.filter((q) => q.answer >= 0 && q.options.length >= 2 && q.options.length <= 10).slice(0, 20);
+  if (!qs.length) return send(env, chat_id, "❌ Savol o'qilmadi yoki to'g'ri javob belgilanmagan.\n\n" + KANAL_HELP);
+  if (photo) qs[0].photo = photo;
+  await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('kanal_pending', ?)").bind(JSON.stringify({ ch, qs })).run();
+  for (const q of qs) await postQuiz(env, chat_id, q, true);
+  const skipped = all.length - qs.length;
+  return send(env, chat_id, `👆 Namuna. <b>${qs.length}</b> ta savol tayyor${skipped ? ` (⚠️ ${skipped} tasida javob belgilanmagan — tashlab ketildi)` : ""}.\n\nKanal: <b>${esc(ch)}</b>`,
+    { reply_markup: { inline_keyboard: [[{ text: "✅ Kanalga yuborish", callback_data: "kp:ok" }], [{ text: "❌ Bekor qilish", callback_data: "kp:no" }]] } });
+}
+async function postQuiz(env, chat_id, q, preview) {
+  const L = "ABCDEFGHIJ";
+  const longQ = q.q.length > 290, longO = q.options.some((o) => o.length > 100);
+  let head = null;
+  if (longQ || longO) head = `<b>${esc(q.q)}</b>` + (longO ? "\n\n" + q.options.map((o, i) => `${L[i]}) ${esc(o)}`).join("\n") : "");
+  if (q.photo) { const r = await tg(env, "sendPhoto", { chat_id, photo: q.photo, caption: head && head.length <= 1000 ? head : undefined, parse_mode: "HTML", protect_content: false }); if (!r.ok) return r; if (head && head.length > 1000) await send(env, chat_id, head, { protect_content: false }); }
+  else if (head) { const r = await send(env, chat_id, head, { protect_content: false }); if (r && r.ok === false) return r; }
+  return tg(env, "sendPoll", {
+    chat_id, type: "quiz", is_anonymous: true, protect_content: false,
+    question: (longQ ? (q.photo ? "Savolni yuqoridagi rasmda o'qing 👆" : "Savolni yuqorida o'qing 👆") : q.q).slice(0, 300),
+    options: (longO ? q.options.map((_, i) => L[i]) : q.options).map((t) => ({ text: String(t).slice(0, 100) })),
+    correct_option_id: q.answer, ...(q.explanation ? { explanation: String(q.explanation).slice(0, 200) } : {}),
+  });
+}
+async function kanalSend(env, chat_id) {
+  await ensureLock(env);
+  const row = await env.DB.prepare("SELECT v FROM settings WHERE k='kanal_pending'").first();
+  if (!row) return send(env, chat_id, "Yuboriladigan test topilmadi. /kanal");
+  const { ch, qs } = JSON.parse(row.v);
+  await env.DB.prepare("DELETE FROM settings WHERE k='kanal_pending'").run();
+  let ok = 0, err = null;
+  for (const q of qs) { const r = await postQuiz(env, ch, q, false); if (r && r.ok) ok++; else { err = r; break; } await new Promise((x) => setTimeout(x, 300)); }
+  if (err) {
+    const d = String((err && err.description) || "");
+    return send(env, chat_id, `⚠️ ${ok} ta savol yuborildi, keyin xato: <code>${esc(d)}</code>\n\n` + (/not enough rights|administrator|chat not found|forbidden/i.test(d)
+      ? `Botni <b>${esc(ch)}</b> kanaliga <b>admin</b> qilib qo'shing va «Xabarlarni joylash» (Post messages) huquqini yoqing, so'ng qayta yuboring.` : "Qayta urinib ko'ring."));
+  }
+  return send(env, chat_id, `✅ ${ok} ta savol <b>${esc(ch)}</b> kanaliga quiz bo'lib yuborildi!`);
+}
+
 async function appOpen(env, chat_id, name) {
   const cat = await catalog(env);
   const t = cat.sections.flatMap((x) => x.tests).find((x) => x.n === name);
@@ -2043,6 +2128,7 @@ export default {
           { command: "kunsavoli", description: "☀️ Kun savoli sozlamalari" },
           { command: "referal", description: "🎁 Referal statistikasi" },
           { command: "havola", description: "🔗 Test havolasi: /havola ms-19-11" },
+          { command: "kanal", description: "📣 Testni kanalga quiz qilib yuborish" },
           { command: "xabar", description: "📢 Hammaga xabar" },
           { command: "excel", description: "📊 A'zolar jadvali" },
           { command: "reyting", description: "🏆 TOP-20" },
