@@ -792,6 +792,7 @@ async function ensureLearn(env) {
   await env.DB.prepare("CREATE TABLE IF NOT EXISTS results (id INTEGER PRIMARY KEY AUTOINCREMENT, user_id INTEGER, quiz_id TEXT, title TEXT, correct INTEGER, total INTEGER, at INTEGER)").run();
   await env.DB.prepare("CREATE INDEX IF NOT EXISTS results_user ON results(user_id, at)").run();
   await env.DB.prepare("CREATE INDEX IF NOT EXISTS results_at ON results(at)").run();
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS topic (user_id INTEGER, quiz_id TEXT, ok INTEGER DEFAULT 0, n INTEGER DEFAULT 0, at INTEGER, PRIMARY KEY (user_id, quiz_id))").run();
   await env.DB.prepare("CREATE TABLE IF NOT EXISTS mistakes (user_id INTEGER, quiz_id TEXT, idx INTEGER, at INTEGER, PRIMARY KEY (user_id, quiz_id, idx))").run();
   await env.DB.prepare("CREATE TABLE IF NOT EXISTS groups (chat_id INTEGER PRIMARY KEY, title TEXT, last_seen INTEGER)").run();
 }
@@ -805,6 +806,33 @@ async function trackMistake(env, p, uid, ok) {
   const [qid, qi] = q.src || [s.quiz_id, p.idx];
   if (ok) await env.DB.prepare("DELETE FROM mistakes WHERE user_id=? AND quiz_id=? AND idx=?").bind(uid, qid, qi).run();
   else await env.DB.prepare("INSERT OR REPLACE INTO mistakes (user_id, quiz_id, idx, at) VALUES (?,?,?,?)").bind(uid, qid, qi, Date.now()).run();
+  await topicAdd(env, uid, qid, ok ? 1 : 0, 1);
+}
+// Mavzular bo'yicha statistika (har bir savol o'z testi/mavzusiga yoziladi)
+const topicStmt = (env, uid, qid, ok, n) => env.DB.prepare("INSERT INTO topic (user_id, quiz_id, ok, n, at) VALUES (?,?,?,?,?) ON CONFLICT(user_id, quiz_id) DO UPDATE SET ok=ok+excluded.ok, n=n+excluded.n, at=excluded.at").bind(uid, String(qid).slice(0, 40), ok, n, Date.now());
+async function topicAdd(env, uid, qid, ok, n) { try { await topicStmt(env, uid, qid, ok, n).run(); } catch (e) { console.log("topic", e); } }
+const SPECIAL_Q = ["xatolar", "kun10", "qidiruv", "sim-ms", "sim-huquq", "sim-att"];
+async function getTopics(env, uid) {
+  await ensureLearn(env);
+  const seeded = await env.DB.prepare("SELECT 1 FROM topic WHERE user_id=? AND quiz_id='_seed'").bind(uid).first();
+  if (!seeded) { // eski natijalardan boshlang'ich ma'lumot (faqat statistika yuritilishidan oldingilari)
+    const m = await env.DB.prepare("SELECT MIN(at) t FROM topic WHERE user_id=?").bind(uid).first();
+    const before = (m && m.t) || Date.now() + 1;
+    await env.DB.prepare(`INSERT INTO topic (user_id, quiz_id, ok, n, at) SELECT user_id, quiz_id, SUM(correct), SUM(total), MAX(at) FROM results WHERE user_id=? AND at<? AND quiz_id NOT IN (${SPECIAL_Q.map(() => "?").join(",")}) GROUP BY quiz_id
+      ON CONFLICT(user_id, quiz_id) DO UPDATE SET ok=ok+excluded.ok, n=n+excluded.n`).bind(uid, before, ...SPECIAL_Q).run();
+    await env.DB.prepare("INSERT OR IGNORE INTO topic (user_id, quiz_id, ok, n, at) VALUES (?, '_seed', 0, 0, ?)").bind(uid, Date.now()).run();
+  }
+  const { results } = await env.DB.prepare("SELECT quiz_id, ok, n FROM topic WHERE user_id=? AND quiz_id<>'_seed' LIMIT 600").bind(uid).all();
+  return results;
+}
+async function weakText(env, uid) {
+  const tp = (await getTopics(env, uid)).filter((r) => r.n >= 5);
+  if (!tp.length) return "";
+  const cat = await catalog(env);
+  const all = cat.sections.flatMap((x) => x.tests.map((t) => ({ ...t, sec: x })));
+  const weak = tp.map((r) => ({ ...r, p: Math.round((r.ok / r.n) * 100), t: all.find((x) => x.n === r.quiz_id) })).filter((r) => r.t && r.p < 60).sort((a, b) => a.p - b.p).slice(0, 3);
+  if (!weak.length) return "\n\n💪 Zaif mavzular yo'q — barcha mavzularda 60% dan yuqori!";
+  return "\n\n<b>⚠️ Takrorlash kerak:</b>\n" + weak.map((r) => `🔴 <b>${r.p}%</b> — ${esc(r.t.t)}`).join("\n");
 }
 async function mistakeCount(env, uid) {
   await ensureLearn(env);
@@ -848,7 +876,7 @@ async function myResults(env, chat_id, user) {
   const ic = (p) => (p >= 86 ? "🏆" : p >= 70 ? "✅" : p >= 56 ? "🙂" : "📖");
   const lines = results.map((r) => { const p = Math.round((r.correct / r.total) * 100); return `${ic(p)} <b>${p}%</b> — ${esc(r.title)} · ${r.correct}/${r.total} · ${fmtT(r.at).slice(5, 10).split("-").reverse().join(".")}`; });
   return send(env, chat_id,
-    `📈 <b>Natijalarim</b>\n\n${fire((await getStreak(env, chat_id)).streak)} Ketma-ket kunlar: <b>${(await getStreak(env, chat_id)).streak}</b>\n📝 Ishlangan testlar: <b>${agg.n}</b>\n🎯 O'rtacha natija: <b>${avg}%</b>\n🔁 Xato savollar: <b>${mc}</b>\n\n<b>Oxirgi natijalar:</b>\n${lines.join("\n")}`,
+    `📈 <b>Natijalarim</b>\n\n${fire((await getStreak(env, chat_id)).streak)} Ketma-ket kunlar: <b>${(await getStreak(env, chat_id)).streak}</b>\n📝 Ishlangan testlar: <b>${agg.n}</b>\n🎯 O'rtacha natija: <b>${avg}%</b>\n🔁 Xato savollar: <b>${mc}</b>${await weakText(env, chat_id)}\n\n<b>Oxirgi natijalar:</b>\n${lines.join("\n")}\n\n📱 To'liq tahlil — ilovada: /ilova`,
     { reply_markup: { inline_keyboard: kb } });
 }
 
@@ -1708,7 +1736,7 @@ async function handleApi(env, req, url) {
       user: { id: uid, name: user.first_name || "" }, bot: await botUser(env), owner: String(uid) === OWNER(env), ...acc,
       streak: st.streak, best: st.best || 0, remind: st.active ? st.hhmm : null,
       stats: { n: agg.n || 0, avg: agg.t ? Math.round((agg.c / agg.t) * 100) : 0 },
-      mistakes: await mistakeCount(env, uid), results,
+      mistakes: await mistakeCount(env, uid), results, topics: (await getTopics(env, uid)).map((r) => [r.quiz_id, r.ok, r.n]),
       top: top.map((r) => ({ name: r.name || "—", c: r.c, n: r.n, me: r.user_id === uid })),
     });
   }
@@ -1725,6 +1753,9 @@ async function handleApi(env, req, url) {
     const now = Date.now(), stmts = [];
     for (const [q, i] of (b.wrong || []).slice(0, 100)) stmts.push(env.DB.prepare("INSERT OR REPLACE INTO mistakes (user_id, quiz_id, idx, at) VALUES (?,?,?,?)").bind(uid, String(q).slice(0, 40), i | 0, now));
     for (const [q, i] of (b.right || []).slice(0, 200)) stmts.push(env.DB.prepare("DELETE FROM mistakes WHERE user_id=? AND quiz_id=? AND idx=?").bind(uid, String(q).slice(0, 40), i | 0));
+    const agg = new Map();
+    for (const [q, ok] of [...(b.wrong || []).slice(0, 100).map((x) => [x[0], 0]), ...(b.right || []).slice(0, 200).map((x) => [x[0], 1])]) { const a = agg.get(q) || [0, 0]; a[0] += ok; a[1]++; agg.set(q, a); }
+    for (const [q, [ok, n]] of [...agg].slice(0, 40)) stmts.push(topicStmt(env, uid, q, ok, n));
     if (stmts.length) { if (env.DB.batch) await env.DB.batch(stmts); else for (const x of stmts) await x.run(); }
     const streak = await bumpStreak(env, uid);
     const pct = Math.round((correct / total) * 100);

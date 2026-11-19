@@ -85,6 +85,11 @@ h2{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--hint
 .scale{display:grid;grid-template-columns:repeat(6,1fr);gap:4px;margin-top:12px}
 .scale span{text-align:center;font-size:11.5px;border-radius:8px;padding:5px 0;background:var(--card);color:var(--hint)}
 .scale span.on{background:var(--gold);color:#1b1300;font-weight:800}
+.hbar{height:8px;background:var(--line);border-radius:8px;overflow:hidden;margin-top:6px}
+.hbar i{display:block;height:100%;border-radius:8px}
+.secrow{padding:10px 0;border-top:1px solid var(--line)}.secrow:first-child{border-top:0}
+.secrow .h{display:flex;justify-content:space-between;font-size:14px;gap:8px}
+.tip{background:color-mix(in srgb,var(--accent) 9%,#fff);border-radius:14px;padding:12px 14px;font-size:14.5px;margin-bottom:12px}
 .exp{margin-top:12px;border-left:3px solid var(--gold);background:color-mix(in srgb,var(--gold) 10%,var(--card));padding:10px 12px;border-radius:0 12px 12px 0;font-size:14px;white-space:pre-wrap}
 .nav{display:flex;gap:8px;margin-top:14px}
 .nav .btn{margin:0}
@@ -183,6 +188,7 @@ function Home() {
   <h2>Bo'limlar</h2><div class="list">`;
   CAT.groups.forEach((g, i) => { const n = g.secs.reduce((a, s) => a + ((CAT.sections.find((x) => x.id === s) || { tests: [] }).tests.length), 0); h += `<button class="item" onclick="go(Group,${i})"><span class="ic">${g.icon}</span><span class="tx"><b>${esc(g.title)}</b><small>${n} ta test</small></span><span class="ar">›</span></button>`; });
   h += `</div><h2>Mening yutuqlarim</h2><div class="list">
+  <button class="item" onclick="go(Analysis)"><span class="ic">🎯</span><span class="tx"><b>Zaif va kuchli mavzularim</b><small>Qaysi mavzuni takrorlash kerak</small></span><span class="ar">›</span></button>
   <button class="item" onclick="go(Results)"><span class="ic">📈</span><span class="tx"><b>Natijalarim</b><small>Grafik va oxirgi testlar</small></span><span class="ar">›</span></button>
   <button class="item" onclick="go(Rating)"><span class="ic">🏆</span><span class="tx"><b>Haftalik reyting</b><small>Eng faol o'quvchilar</small></span><span class="ar">›</span></button></div>`;
   render(h);
@@ -514,6 +520,35 @@ function Results() {
   h += `</div><h2>Oxirgi testlar</h2>`;
   if (!rs.length) h += `<div class="empty">Hali test ishlamadingiz.</div>`;
   else { h += `<div class="list">`; rs.forEach((r) => { const p = Math.round((r.correct / r.total) * 100), d = new Date(r.at); h += `<div class="item"><span class="ic">${p >= 86 ? "🏆" : p >= 70 ? "✅" : p >= 56 ? "🙂" : "📖"}</span><span class="tx"><b>${esc(r.title)}</b><small>${r.correct}/${r.total} · ${d.getDate()}.${String(d.getMonth() + 1).padStart(2, "0")}</small></span><span class="badge">${p}%</span></div>`; }); h += `</div>`; }
+  render(h);
+}
+// ---------- mavzular tahlili ----------
+const pcol = (p) => (p >= 85 ? "#1f9d55" : p >= 60 ? "#2b62d9" : p >= 40 ? "#e0a020" : "#de4545");
+function Analysis() {
+  if (!ME) return render(`<div class="empty">Tahlilni ko'rish uchun ilovani bot orqali oching.</div>`);
+  const tests = allTests();
+  const rows = (ME.topics || []).map(([n, ok, cnt]) => ({ n, ok, cnt, p: Math.round((ok / cnt) * 100), t: tests.find((x) => x.n === n) })).filter((r) => r.t && r.cnt > 0);
+  let h = `<div class="title">🎯 Zaif va kuchli mavzularim</div>`;
+  if (!rows.length) return render(h + `<div class="empty">Hali ma'lumot yetarli emas.<br><br>Bir nechta mavzuli test ishlang — ilova qaysi mavzularni yaxshi bilishingiz va qaysilarini takrorlash kerakligini ko'rsatadi.</div><button class="btn" onclick="home()">📚 Testlarga o'tish</button>`);
+  const enough = rows.filter((r) => r.cnt >= 5);
+  const weak = enough.filter((r) => r.p < 60).sort((a, b) => a.p - b.p || b.cnt - a.cnt);
+  const strong = enough.filter((r) => r.p >= 85).sort((a, b) => b.p - a.p || b.cnt - a.cnt);
+  const mid = enough.filter((r) => r.p >= 60 && r.p < 85).sort((a, b) => a.p - b.p);
+  if (weak.length) h += `<div class="tip">💡 Eng avvalo <b>«${esc(weak[0].t.t)}»</b> mavzusini takrorlang — natijangiz <b>${weak[0].p}%</b>.${weak.length > 1 ? ` Keyin: «${esc(weak[1].t.t)}» (${weak[1].p}%).` : ""}</div>`;
+  else if (enough.length) h += `<div class="tip">💪 Ajoyib! Ishlagan mavzularingizning hammasida natija 60% dan yuqori. Yangi bo'limlarni ham sinab ko'ring.</div>`;
+  // bo'limlar kesimida
+  const bySec = new Map();
+  for (const r of rows) { const k = r.t.sec.id; const a = bySec.get(k) || { sec: r.t.sec, ok: 0, cnt: 0, k: 0 }; a.ok += r.ok; a.cnt += r.cnt; a.k++; bySec.set(k, a); }
+  h += `<h2>Bo'limlar bo'yicha</h2><div class="card">`;
+  [...bySec.values()].filter((a) => a.cnt >= 5).sort((a, b) => a.ok / a.cnt - b.ok / b.cnt).forEach((a) => { const p = Math.round((a.ok / a.cnt) * 100); h += `<div class="secrow"><div class="h"><span>${a.sec.icon} ${esc(a.sec.title)}</span><b style="color:${pcol(p)}">${p}%</b></div><div class="hbar"><i style="width:${Math.max(3, p)}%;background:${pcol(p)}"></i></div><small style="color:var(--hint);font-size:12px">${a.k} ta mavzu · ${a.cnt} ta savol</small></div>`; });
+  h += `</div>`;
+  const list = (arr, max) => `<div class="list">${arr.slice(0, max).map((r) => `<button class="item" onclick="Q=null;go(Intro,'${r.n}')"><span class="ic" style="font-size:13px;font-weight:800;color:${pcol(r.p)}">${r.p}%</span><span class="tx"><b>${esc(r.t.t)}</b><small>${esc(r.t.sec.title)} · ${r.ok}/${r.cnt}</small><div class="hbar"><i style="width:${Math.max(3, r.p)}%;background:${pcol(r.p)}"></i></div></span><span class="ar">›</span></button>`).join("")}</div>`;
+  if (weak.length) h += `<h2>⚠️ Takrorlash kerak (60% dan past)</h2>` + list(weak, 10);
+  if (mid.length) h += `<h2>📖 Yaxshi, lekin mustahkamlash kerak</h2>` + list(mid, 6);
+  if (strong.length) h += `<h2>💪 Kuchli mavzular (85% va yuqori)</h2>` + list(strong, 6);
+  const few = rows.filter((r) => r.cnt < 5).length;
+  if (few) h += `<div style="color:var(--hint);font-size:12.5px;margin:12px 4px">${few} ta mavzuda savollar kam (5 tadan oz) — ular baholanmadi.</div>`;
+  h += `<div style="color:var(--hint);font-size:12.5px;margin:6px 4px">Hisobga bot va ilovada ishlangan barcha savollar kiradi: simulyatsiya, «Bugungi 10 ta savol» va xatolar ustida ishlash ham.</div>`;
   render(h);
 }
 function Rating() {
