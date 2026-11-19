@@ -6,6 +6,7 @@ Avtomatik: /avto 20 6-1..6-44  ·  Holat: /avto  ·  To'xtatish: /avto stop
 === Milliy sertifikat (Tarix) · variantlar ===
 /quiz ms-14-11  —  Milliy sertifikat 14.11.2026 (35 ta)
 /quiz ms-15-11  —  Milliy sertifikat 15.11.2026 (35 ta)
+/quiz ms-19-11  —  Milliy sertifikat 19.11.2026 (o'ta qiyin) (35 ta)
 /quiz ms-qiyin  —  Milliy sertifikat (o'ta qiyin variant) (35 ta)
 /quiz ms-9  —  Milliy sertifikat — 1-variant (29 ta)
 /quiz ms-10  —  Milliy sertifikat — 2-variant (6 ta)
@@ -400,6 +401,8 @@ Avtomatik: /avto 20 6-1..6-44  ·  Holat: /avto  ·  To'xtatish: /avto stop
 /quiz huquq-demo-6  —  Huquqshunoslik Milliy sertifikat demo test 6 (35 ta)
 /quiz huquq-demo-7  —  Huquqshunoslik Milliy sertifikat demo test 7 (35 ta)
 /quiz huquq-demo-8  —  Huquqshunoslik Milliy sertifikat demo test 8 (35 ta)
+/quiz huquq-1811  —  Huquq · Milliy sertifikat 18.11.2026 (H-01) (35 ta)
+/quiz huquq-1911  —  Huquq · Milliy sertifikat 19.11.2026 (H-02) (35 ta)
 /quiz huquq-aprob-7  —  Huquqshunoslik Milliy sertifikat aprobatsiya test 7 (35 ta)
 
 === Huquq · 8-sinf (Davlat va huquq asoslari) ===
