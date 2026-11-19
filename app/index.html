@@ -90,6 +90,18 @@ h2{font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--hint
 .secrow{padding:10px 0;border-top:1px solid var(--line)}.secrow:first-child{border-top:0}
 .secrow .h{display:flex;justify-content:space-between;font-size:14px;gap:8px}
 .tip{background:color-mix(in srgb,var(--accent) 9%,#fff);border-radius:14px;padding:12px 14px;font-size:14.5px;margin-bottom:12px}
+.tbl{overflow-x:auto;background:#fff;border-radius:14px;border:1px solid var(--line)}
+.tbl table{border-collapse:collapse;font-size:13px;min-width:100%}
+.tbl th,.tbl td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;white-space:nowrap}
+.tbl th{background:var(--card);font-size:12px;color:var(--hint);position:sticky;top:0}
+.fld{display:block;margin:10px 0}
+.fld span{display:block;font-size:13px;color:var(--hint);margin-bottom:5px}
+.fld input,.fld select,.fld textarea{width:100%;font:inherit;font-size:15px;padding:11px 12px;border-radius:12px;border:2px solid var(--line);background:#fff;color:#000;outline:0}
+.fld textarea{min-height:220px;font-size:14px;font-family:ui-monospace,Menlo,Consolas,monospace}
+.tiles{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+.tiles div{background:var(--card);border-radius:14px;padding:12px}
+.tiles b{display:block;font-size:22px}.tiles small{color:var(--hint);font-size:12px}
+.mini{font-size:12.5px;padding:6px 10px;border-radius:10px;background:var(--card);font-weight:600}
 .exp{margin-top:12px;border-left:3px solid var(--gold);background:color-mix(in srgb,var(--gold) 10%,var(--card));padding:10px 12px;border-radius:0 12px 12px 0;font-size:14px;white-space:pre-wrap}
 .nav{display:flex;gap:8px;margin-top:14px}
 .nav .btn{margin:0}
@@ -150,7 +162,7 @@ async function api(path, body) {
 const QC = new Map();
 async function getQuiz(n) {
   if (QC.has(n)) return QC.get(n);
-  const r = await fetch(BASE + n + ".json"); if (!r.ok) throw new Error(n);
+  const r = n.startsWith("u-") ? await fetch(API + "test?n=" + encodeURIComponent(n), { headers: { "X-Init-Data": INIT } }) : await fetch(BASE + n + ".json"); if (!r.ok) throw new Error(n);
   const d = await r.json(); QC.set(n, d); return d;
 }
 // ---------- yozma javoblarni tekshirish ----------
@@ -180,6 +192,12 @@ function Home() {
   const fire = st >= 100 ? "👑" : st >= 30 ? "💎" : "🔥";
   let h = `<div class="hero"><div class="brand">ISAKOV SCHOOL</div><div class="hello">Assalomu alaykum${name ? ", " + esc(name) : ""} 👋</div>
   <div class="chips"><div class="chip"><b>${fire} ${st}</b><span>kun ketma-ket</span></div><div class="chip"><b>${ME ? ME.stats.n : 0}</b><span>ishlangan test</span></div><div class="chip"><b>${ME ? ME.stats.avg : 0}%</b><span>o'rtacha natija</span></div></div></div>`;
+  if (ME && ME.owner) h += `<button class="simc" style="margin-top:12px" onclick="go(Admin)"><b>🛠 Admin panel</b><small>Statistika, eng qiyin savollar, test qo'shish</small></button>`;
+  if (ME && ME.tasks && ME.tasks.length) {
+    h += `<h2>📌 Ustoz topshiriqlari</h2><div class="list">`;
+    ME.tasks.forEach((t) => { const ok = t.p !== null && t.p !== undefined; h += `<button class="item" onclick="Q=null;go(Intro,'${esc(t.quiz_id)}')"><span class="ic">${ok ? "✅" : "📌"}</span><span class="tx"><b>${esc(t.title)}</b><small>${esc(t.cls)} · ${ok ? "bajarildi: " + Math.round(t.p) + "%" : "hali bajarilmagan"}</small></span><span class="ar">›</span></button>`; });
+    h += `</div>`;
+  }
   if (!INIT) h += `<div class="warn">Ilovani bot orqali oching — shunda natijalaringiz saqlanadi va sertifikat beriladi.</div>`;
   h += `<form class="search" onsubmit="event.preventDefault();go(Search,this.q.value)"><span>🔍</span><input name="q" placeholder="Mavzu yoki atama: Amir Temur…" enterkeyhint="search"></form>
   <div class="row2"><button class="act" onclick="startDaily()"><span class="ic">${fire}</span><b>Bugungi 10 ta savol</b><small>Har kuni zanjirni davom ettiring</small></button>
@@ -190,6 +208,7 @@ function Home() {
   h += `</div><h2>Mening yutuqlarim</h2><div class="list">
   <button class="item" onclick="go(Analysis)"><span class="ic">🎯</span><span class="tx"><b>Zaif va kuchli mavzularim</b><small>Qaysi mavzuni takrorlash kerak</small></span><span class="ar">›</span></button>
   <button class="item" onclick="go(Results)"><span class="ic">📈</span><span class="tx"><b>Natijalarim</b><small>Grafik va oxirgi testlar</small></span><span class="ar">›</span></button>
+  <button class="item" onclick="go(Classes)"><span class="ic">👩‍🏫</span><span class="tx"><b>Sinflarim</b><small>O'qituvchilar uchun: sinf ochish va natijalar jadvali</small></span><span class="ar">›</span></button>
   <button class="item" onclick="go(Rating)"><span class="ic">🏆</span><span class="tx"><b>Haftalik reyting</b><small>Eng faol o'quvchilar</small></span><span class="ar">›</span></button></div>`;
   render(h);
 }
@@ -560,6 +579,180 @@ function Rating() {
   render(h + "</div>");
 }
 
+
+// ---------- o'z testlari katalogga ----------
+function mergeExtra(list) {
+  for (const t of list) {
+    let sec = CAT.sections.find((x) => x.id === t.sec);
+    if (!sec) { sec = CAT.sections.find((x) => x.id === "yangi"); if (!sec) { sec = { id: "yangi", icon: "🆕", title: "Yangi testlar", tests: [] }; CAT.sections.push(sec); } }
+    if (!sec.tests.some((x) => x.n === t.n)) sec.tests.unshift({ n: t.n, t: t.title, c: t.cnt });
+  }
+  if (CAT.sections.some((x) => x.id === "yangi") && !CAT.groups.some((g) => g.secs.includes("yangi"))) CAT.groups.unshift({ id: "yangi", icon: "🆕", title: "Yangi testlar", secs: ["yangi"] });
+}
+const api2 = (path, body) => api(path, body || undefined);
+const ago = (t) => { if (!t) return "—"; const d = Math.floor((Date.now() - t) / 86400000); return d <= 0 ? "bugun" : d === 1 ? "kecha" : d + " kun oldin"; };
+function bars(data, key, col, label) {
+  const W = 320, H = 110, max = Math.max(1, ...data.map((x) => x[key])), bw = W / data.length;
+  return `<svg class="chart" viewBox="0 0 ${W} ${H + 18}">${data.map((x, i) => { const h = Math.max(2, (H - 14) * x[key] / max); return `<rect x="${i * bw + bw * 0.15}" y="${H - h}" width="${bw * 0.7}" height="${h}" rx="3" fill="${col}"/>${x[key] ? `<text x="${i * bw + bw / 2}" y="${H - h - 3}" font-size="8" text-anchor="middle" fill="var(--hint)">${x[key]}</text>` : ""}<text x="${i * bw + bw / 2}" y="${H + 12}" font-size="7.5" text-anchor="middle" fill="var(--hint)">${x.d.slice(8)}</text>`; }).join("")}</svg><div style="font-size:12px;color:var(--hint);text-align:center">${label}</div>`;
+}
+
+// ---------- admin panel ----------
+async function Admin() {
+  render('<div class="spin"></div>');
+  const A = await api2("admin");
+  if (!A || A.error) return render('<div class="empty">Ruxsat yo\'q yoki yuklanmadi.</div>');
+  const T = A.tot || {};
+  let h = `<div class="title">🛠 Admin panel</div><div class="tiles"><div><b>${T.n || 0}</b><small>jami a'zolar</small></div><div><b>${T.d1 || 0}</b><small>bugun faol</small></div><div><b>${T.d7 || 0}</b><small>7 kunda faol</small></div><div><b>${T.b || 0}</b><small>botni bloklagan</small></div></div>
+  <button class="btn" onclick="go(AddTest)">➕ Yangi test qo'shish</button>
+  <h2>Kunlik faollik (14 kun)</h2><div class="card">${bars(A.act, "tests", "#2b62d9", "ishlangan testlar")}<div style="height:10px"></div>${bars(A.act, "new", "#1f9d55", "yangi a'zolar")}<div style="height:10px"></div>${bars(A.act, "app", "#c99a3a", "ilova ochilishi")}</div>`;
+  const tl = (arr, f) => `<div class="list">${arr.map((r) => `<div class="item"><span class="tx"><b>${esc(r.title || r.quiz_id)}</b><small>${r.n} marta ishlangan</small></span><span class="badge" style="color:${pcol(r.p)};background:color-mix(in srgb,${pcol(r.p)} 12%,#fff)">${r.p}%</span></div>`).join("") || '<div class="empty">Ma\'lumot yo\'q</div>'}</div>`;
+  h += `<h2>🔥 Eng ko'p ishlangan testlar (30 kun)</h2>` + tl(A.top);
+  h += `<h2>🧗 Eng qiyin testlar (o'rtacha natija bo'yicha)</h2>` + tl(A.hard);
+  h += `<h2>❗ Eng ko'p xato qilinayotgan savollar</h2><div style="color:var(--hint);font-size:12.5px;margin:-4px 4px 8px">Ko'p o'quvchi xato qilgan savolda kalit noto'g'ri bo'lishi mumkin — tekshirib ko'ring.</div><div id="miss"><div class="spin" style="margin:20px auto"></div></div>`;
+  if (A.custom && A.custom.length) h += `<h2>🆕 Ilovadan qo'shilgan testlar</h2><div class="list">${A.custom.map((t) => `<div class="item"><span class="tx"><b>${esc(t.title)}</b><small>${t.cnt} savol · ${esc(t.n)}</small></span><button class="mini" style="color:var(--bad)" onclick="delTest('${t.n}')">O'chirish</button></div>`).join("")}</div>`;
+  render(h);
+  let m = "";
+  for (const [n, i, c] of A.miss) {
+    let q; try { q = qOf(await getQuiz(n), i); } catch (e) { continue; }
+    if (!q) continue;
+    const t = allTests().find((x) => x.n === n);
+    const key = q.w ? q.parts.map((p) => (p.l ? p.l + ") " : "") + p.a[0]).join("; ") : `${L[q.answer]}) ${q.options[q.answer]}`;
+    m += `<div class="rev"><div class="h">❌ ${c} o'quvchi xato qilgan · ${esc(t ? t.t : n)} · ${q.w ? "yozma " : ""}${(i % 500) + 1}-savol</div><div class="q" style="font-size:14.5px">${esc(String(q.q).slice(0, 400))}</div><div class="a"><div class="c-ok">Kalit: ${esc(key)}</div></div></div>`;
+  }
+  const el = document.getElementById("miss"); if (el) el.innerHTML = m || '<div class="empty">Hali ma\'lumot yo\'q</div>';
+}
+async function delTest(n) { if (!(await ask("Testni o'chirasizmi?"))) return; await api2("test/del", { n }); toast("O'chirildi"); CAT.sections.forEach((s) => (s.tests = s.tests.filter((t) => t.n !== n))); Admin(); }
+
+// ---------- test qo'shish formasi ----------
+let DRAFT = null;
+function parseTests(txt) {
+  const lines = String(txt).replace(/\r/g, "").split("\n");
+  const qs = []; let cur = null, last = null;
+  const optRe = /^\s*([+*✔✅]\s*)?([A-Ha-hА-Еа-е])\s*[).]\s*(.*)$/;
+  const qRe = /^\s*(\d{1,3})\s*[.)]\s*(.+)$/;
+  const LET = "ABCDEFGH", CYR = "АБВГДЕ";
+  for (let raw of lines) {
+    const line = raw.trim();
+    if (!line) continue;
+    let m;
+    if ((m = line.match(/^(javob|to'g'ri javob|to‘g‘ri javob|ответ)\s*[:\-]\s*([A-Ha-hА-Еа-е])\b/i)) && cur) { const L1 = m[2].toUpperCase(); cur.answer = LET.includes(L1) ? LET.indexOf(L1) : CYR.indexOf(L1); last = null; continue; }
+    if ((m = line.match(/^(izoh|изоҳ|пояснение|manba)\s*[:\-]\s*(.*)$/i)) && cur) { cur.explanation = (cur.explanation ? cur.explanation + " " : "") + m[2]; last = "e"; continue; }
+    if ((m = line.match(qRe)) && (!cur || cur.options.length >= 2)) { cur = { q: m[2], options: [], answer: -1 }; qs.push(cur); last = "q"; continue; }
+    if (cur && (m = line.match(optRe)) && (cur.options.length > 0 || /^[Aa]$|^[Аа]$/.test(m[2]))) {
+      let t = m[3]; const mark = !!m[1] || /\s*(✔|✅|\(\+\)|\*)\s*$/.test(t);
+      t = t.replace(/\s*(✔|✅|\(\+\)|\*)\s*$/, "");
+      if (mark) cur.answer = cur.options.length;
+      cur.options.push(t); last = "o"; continue;
+    }
+    if (cur && line.startsWith("+") && last === "q") { /* "+ variant" ko'rinishi (Word) */ cur.answer = cur.options.length; cur.options.push(line.replace(/^\+\s*/, "")); last = "o"; continue; }
+    if (cur && last === "o") cur.options[cur.options.length - 1] += " " + line;
+    else if (cur && last === "e") cur.explanation += " " + line;
+    else if (cur) cur.q += "\n" + line;
+  }
+  return qs;
+}
+function AddTest() {
+  const secs = CAT.sections.filter((x) => x.id !== "yangi");
+  render(`<div class="title">➕ Yangi test qo'shish</div>
+  <div class="card" style="font-size:13.5px"><b>Matn shakli:</b><pre style="white-space:pre-wrap;font-size:12.5px;margin:8px 0 0;background:#fff;padding:10px;border-radius:10px">1. Amir Temur qachon tug'ilgan?
+A) 1336-yil ✔
+B) 1370-yil
+C) 1405-yil
+D) 1320-yil
+Izoh: Kesh yaqinidagi Xo'ja Ilg'or qishlog'ida.</pre><div style="margin-top:8px;color:var(--hint)">To'g'ri javobni ✔ yoki * bilan belgilang, yoki variant oldiga + qo'ying, yoki alohida qatorda «Javob: A» deb yozing. «Izoh:» qatori ixtiyoriy.</div></div>
+  <label class="fld"><span>Test nomi</span><input id="tt" placeholder="Masalan: Amir Temur davri — 2-test" maxlength="80"></label>
+  <label class="fld"><span>Bo'lim</span><select id="ts"><option value="yangi">🆕 Yangi testlar (alohida bo'lim)</option>${secs.map((x) => `<option value="${x.id}">${x.icon} ${esc(x.title)}</option>`).join("")}</select></label>
+  <label class="fld"><span>Har bir savolga vaqt</span><select id="tm2">${[15, 20, 30, 45, 60, 90].map((x) => `<option ${x === 30 ? "selected" : ""} value="${x}">${x} soniya</option>`).join("")}</select></label>
+  <label class="fld"><span>Savollar matni</span><textarea id="tx" placeholder="Savollarni shu yerga joylang…"></textarea></label>
+  <label class="fld"><span>yoki fayl yuklang (.txt yoki Word .docx)</span><input type="file" id="tf" accept=".txt,.docx" onchange="loadFile(this.files[0])"></label>
+  <button class="btn" onclick="previewTest()">🔍 Tekshirish</button><div id="pv"></div>`);
+}
+async function loadFile(f) {
+  if (!f) return;
+  const ta = document.getElementById("tx");
+  if (/\.docx$/i.test(f.name)) {
+    toast("Word fayl o'qilmoqda…");
+    if (!window.mammoth) await new Promise((ok, no) => { const sc = document.createElement("script"); sc.src = "https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.6.0/mammoth.browser.min.js"; sc.onload = ok; sc.onerror = no; document.head.appendChild(sc); });
+    const r = await mammoth.extractRawText({ arrayBuffer: await f.arrayBuffer() });
+    ta.value = r.value.replace(/\n{2,}/g, "\n");
+  } else ta.value = await f.text();
+  const tt = document.getElementById("tt"); if (!tt.value) tt.value = f.name.replace(/\.(txt|docx)$/i, "");
+  previewTest();
+}
+function previewTest() {
+  const qs = parseTests(document.getElementById("tx").value);
+  const bad = qs.map((q, i) => (q.answer < 0 ? `${i + 1}-savol: to'g'ri javob belgilanmagan` : q.options.length < 2 ? `${i + 1}-savol: variantlar topilmadi` : new Set(q.options).size < q.options.length ? `${i + 1}-savol: variantlar takrorlangan` : null)).filter(Boolean);
+  const good = qs.filter((q) => q.answer >= 0 && q.options.length >= 2);
+  DRAFT = good;
+  let h = `<div class="note">✅ To'g'ri o'qilgan savollar: <b>${good.length}</b>${qs.length - good.length ? ` · ⚠️ chiqarib tashlanadi: <b>${qs.length - good.length}</b>` : ""}</div>`;
+  if (bad.length) h += `<div class="warn">${bad.slice(0, 12).map(esc).join("<br>")}${bad.length > 12 ? "<br>…" : ""}</div>`;
+  good.slice(0, 3).forEach((q, i) => { h += `<div class="rev" style="margin-top:10px"><div class="h">${i + 1}-savol (namuna)</div><div class="q" style="font-size:14.5px">${esc(q.q)}</div><div class="a">${q.options.map((o, k) => `<div class="${k === q.answer ? "c-ok" : ""}">${L[k]}) ${esc(o)}${k === q.answer ? " ✓" : ""}</div>`).join("")}</div>${q.explanation ? `<div class="exp">💡 ${esc(q.explanation)}</div>` : ""}</div>`; });
+  if (good.length) h += `<button class="btn" onclick="saveTest()">💾 Saqlash va menyuga qo'shish (${good.length} savol)</button>`;
+  document.getElementById("pv").innerHTML = h;
+}
+async function saveTest() {
+  const title = document.getElementById("tt").value.trim();
+  if (!title) return toast("Test nomini yozing");
+  const r = await api2("test/save", { title, sec: document.getElementById("ts").value, time: +document.getElementById("tm2").value, questions: DRAFT });
+  if (!r || r.error) return toast((r && r.error) || "Saqlanmadi");
+  ME.extra = [{ n: r.n, sec: document.getElementById("ts").value, title, cnt: r.cnt }, ...(ME.extra || [])]; mergeExtra(ME.extra);
+  render(`<div class="card" style="text-align:center"><div style="font-size:44px">✅</div><div class="title">Test qo'shildi!</div><div>«${esc(title)}» — ${r.cnt} ta savol.<br><br>Botda: <code>/quiz ${r.n}</code><br><span style="color:var(--hint);font-size:13px">Bot menyusida 10 daqiqa ichida paydo bo'ladi.</span></div>
+  <button class="btn" onclick="Q=null;go(Intro,'${r.n}')">▶️ Testni ochib ko'rish</button><button class="btn ghost" onclick="go(AddTest)">➕ Yana test qo'shish</button></div>`);
+}
+
+// ---------- sinflar (o'qituvchi rejimi) ----------
+async function Classes() {
+  render('<div class="spin"></div>');
+  const r = await api2("class/list");
+  if (!r) return render(`<div class="empty">Sinflar uchun ilovani bot orqali oching.</div>`);
+  let h = `<div class="title">👩‍🏫 Sinflarim</div><div style="color:var(--hint);margin:-6px 4px 12px;font-size:13.5px">Sinf oching, havolani o'quvchilarga yuboring. Ular qo'shilgach, har birining natijasini jadvalda ko'rasiz va topshiriq berasiz.</div>`;
+  if (r.mine.length) h += `<div class="list">${r.mine.map((c) => `<button class="item" onclick="go(ClassView,${c.id})"><span class="ic">🏫</span><span class="tx"><b>${esc(c.name)}</b><small>${c.n} ta o'quvchi</small></span><span class="ar">›</span></button>`).join("")}</div>`;
+  h += `<div class="card" style="margin-top:12px"><label class="fld" style="margin-top:0"><span>Yangi sinf nomi</span><input id="cn" placeholder="Masalan: 9-B sinf yoki Abituriyentlar-2027" maxlength="40"></label><button class="btn" onclick="newClass()">➕ Sinf ochish</button></div>`;
+  if (r.joined.length) h += `<h2>Men a'zo bo'lgan sinflar</h2><div class="list">${r.joined.map((c) => `<div class="item"><span class="ic">🎒</span><span class="tx"><b>${esc(c.name)}</b></span><button class="mini" onclick="leaveClass(${c.id})">Chiqish</button></div>`).join("")}</div>`;
+  render(h);
+}
+async function newClass() { const name = document.getElementById("cn").value.trim(); if (!name) return toast("Sinf nomini yozing"); const r = await api2("class/new", { name }); if (!r || r.error) return toast((r && r.error) || "Xato"); toast("Sinf ochildi"); Classes(); }
+async function leaveClass(id) { if (!(await ask("Sinfdan chiqasizmi?"))) return; await api2("class/leave", { id }); Classes(); }
+let CV = null;
+async function ClassView(id) {
+  render('<div class="spin"></div>');
+  const r = await api2("class/view", { id });
+  if (!r || r.error) return render('<div class="empty">Yuklanmadi.</div>');
+  CV = r;
+  const link = `https://t.me/${r.bot}?start=sinf_${r.cls.code}`;
+  let h = `<div class="title">🏫 ${esc(r.cls.name)}</div>
+  <div class="card"><div style="font-size:13px;color:var(--hint)">O'quvchilarni taklif qilish havolasi:</div><div style="font-weight:600;word-break:break-all;margin:6px 0">${esc(link)}</div>
+  <div class="nav" style="margin-top:8px"><button class="btn ghost" onclick="copyTxt('${link}')">📋 Nusxa olish</button><button class="btn ghost" onclick="shareCls('${link}')">📤 Ulashish</button></div></div>
+  <button class="btn" onclick="go(PickTask)">📌 Topshiriq berish</button>`;
+  h += `<h2>O'quvchilar (${r.students.length}) · oxirgi 30 kun</h2>`;
+  if (!r.students.length) h += `<div class="empty">Hali o'quvchi yo'q. Havolani sinf guruhiga yuboring.</div>`;
+  else {
+    const st = r.students.slice().sort((a, b) => (b.avg ?? -1) - (a.avg ?? -1));
+    h += `<div class="tbl"><table><tr><th>#</th><th>O'quvchi</th><th>Testlar</th><th>O'rtacha</th>${r.tasks.map((t, i) => `<th title="${esc(t.title)}">📌${r.tasks.length - i}</th>`).join("")}<th>Faol</th><th></th></tr>
+    ${st.map((s, i) => `<tr><td>${i + 1}</td><td><b>${esc(s.name)}</b>${s.u ? `<br><small style="color:var(--hint)">@${esc(s.u)}</small>` : ""}</td><td>${s.n}</td><td style="color:${s.avg == null ? "var(--hint)" : pcol(s.avg)};font-weight:700">${s.avg == null ? "—" : s.avg + "%"}</td>${s.tasks.map((p) => `<td style="font-weight:700;color:${p == null ? "var(--hint)" : pcol(p)}">${p == null ? "—" : Math.round(p) + "%"}</td>`).join("")}<td>${ago(s.last)}</td><td><button class="mini" style="color:var(--bad)" onclick="kick(${s.id})">✕</button></td></tr>`).join("")}</table></div>`;
+    if (r.tasks.length) h += `<div style="font-size:12.5px;color:var(--hint);margin:8px 4px">${r.tasks.map((t, i) => `📌${r.tasks.length - i} — ${esc(t.title)} (${new Date(t.at).getDate()}.${String(new Date(t.at).getMonth() + 1).padStart(2, "0")})`).join("<br>")}</div>`;
+  }
+  h += `<button class="btn ghost" style="color:var(--bad);margin-top:24px" onclick="delClass()">🗑 Sinfni o'chirish</button>`;
+  render(h);
+}
+function copyTxt(t) { try { navigator.clipboard.writeText(t).then(() => toast("Nusxa olindi")); } catch (e) { toast(t); } }
+function shareCls(link) { const u = `https://t.me/share/url?url=${encodeURIComponent(link)}&text=${encodeURIComponent("📚 Sinfimizga qo'shiling — testlar va natijalar Isakov school ilovasida!")}`; if (TG && TG.openTelegramLink) TG.openTelegramLink(u); else open(u); }
+async function kick(uid) { if (!(await ask("O'quvchini sinfdan chiqarasizmi?"))) return; await api2("class/kick", { id: CV.cls.id, uid }); ClassView(CV.cls.id); }
+async function delClass() { if (!(await ask("Sinf butunlay o'chirilsinmi?"))) return; await api2("class/del", { id: CV.cls.id }); STACK.pop(); back(); }
+function PickTask(f) {
+  f = f || "";
+  const all = allTests().filter((t) => !f || (t.t + " " + t.sec.title).toLowerCase().includes(f.toLowerCase())).slice(0, 40);
+  render(`<div class="title">📌 Topshiriq uchun test</div><div class="search" style="margin-top:0"><span>🔍</span><input id="pf" value="${esc(f)}" placeholder="Test nomi yoki bo'lim…" oninput="clearTimeout(window._pt);window._pt=setTimeout(()=>{const v=this.value;PickTask(v);const i=document.getElementById('pf');i.focus();i.setSelectionRange(v.length,v.length)},350)"></div>
+  <div class="list">${all.map((t) => `<button class="item" onclick="giveTask('${t.n}')"><span class="ic">${t.sec.icon}</span><span class="tx"><b>${esc(t.t)}</b><small>${esc(t.sec.title)} · ${t.c} savol</small></span></button>`).join("")}</div>`);
+}
+async function giveTask(n) {
+  const t = allTests().find((x) => x.n === n);
+  if (!(await ask(`«${t.t}» testini «${CV.cls.name}» o'quvchilariga topshiriq qilib yuborasizmi?`))) return;
+  const r = await api2("class/task", { id: CV.cls.id, n });
+  if (!r || r.error) return toast((r && r.error) || "Xato");
+  toast(`📨 ${r.sent} ta o'quvchiga yuborildi`); STACK.pop(); ClassView(CV.cls.id); syncBack();
+}
+
 // ---------- obuna ----------
 function toBot(p) { const u = ME && ME.bot ? `https://t.me/${ME.bot}?start=${p}` : ""; if (u && TG) { TG.openTelegramLink(u); TG.close(); } }
 function SubGate() {
@@ -575,6 +768,7 @@ async function boot() {
   const [c, m] = await Promise.all([fetch(BASE + "catalog.json").then((r) => r.json()).catch(() => null), api("me")]);
   if (!c) return render('<div class="empty">Yuklanmadi. Internetni tekshirib, ilovani qayta oching.</div>');
   CAT = c; ME = m;
+  if (ME && ME.extra && ME.extra.length) mergeExtra(ME.extra);
   if (ME && ME.missing && ME.missing.length) return SubGate();
   home();
   const sp = (TG && TG.initDataUnsafe && TG.initDataUnsafe.start_param) || "";

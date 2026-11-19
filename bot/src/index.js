@@ -154,6 +154,12 @@ const QCACHE = new Map();
 async function fetchQuiz(env, name) {
   const c = QCACHE.get(name);
   if (c && Date.now() - c.t < 600000) return c.d;
+  if (name.startsWith("u-")) {
+    await ensureCustom(env);
+    const row = await env.DB.prepare("SELECT data FROM custom_tests WHERE n=?").bind(name).first();
+    if (!row) throw new Error("topilmadi");
+    const d = JSON.parse(row.data); QCACHE.set(name, { d, t: Date.now() }); return d;
+  }
   const r = await fetch(new URL(name + ".json", env.QUIZ_BASE_URL).href + "?v=" + Math.floor(Date.now() / 600000));
   if (!r.ok) throw new Error("topilmadi");
   const d = await r.json();
@@ -234,7 +240,9 @@ let CAT = null, CAT_AT = 0, BOTU = null;
 async function catalog(env) {
   if (CAT && Date.now() - CAT_AT < 600000) return CAT;
   const r = await fetch(new URL("catalog.json", env.QUIZ_BASE_URL).href + "?v=" + Date.now());
-  CAT = await r.json(); CAT_AT = Date.now();
+  const base = await r.json();
+  try { CAT = mergeCustom(base, await customList(env)); } catch (e) { console.log("custom", e); CAT = base; }
+  CAT_AT = Date.now();
   return CAT;
 }
 async function botUser(env) {
@@ -1494,6 +1502,7 @@ async function onMessage(env, msg) {
     if (arg && arg.startsWith("ref_")) return showMain(env, chat_id, null, msg.from);
     if (arg === "taklif") return showReferral(env, chat_id, msg.from);
     if (arg && arg.startsWith("app_")) return appOpen(env, chat_id, arg.slice(4));
+    if (arg && arg.startsWith("sinf_")) return joinClass(env, chat_id, msg.from, arg.slice(5));
     if (arg === "natija") return myResults(env, chat_id, msg.from);
     if (arg === "eslatma") return remindMenu(env, chat_id, msg.from);
     if (arg === "kun10") return startDaily10(env, chat_id, msg.from);
@@ -1736,9 +1745,23 @@ async function handleApi(env, req, url) {
       user: { id: uid, name: user.first_name || "" }, bot: await botUser(env), owner: String(uid) === OWNER(env), ...acc,
       streak: st.streak, best: st.best || 0, remind: st.active ? st.hhmm : null,
       stats: { n: agg.n || 0, avg: agg.t ? Math.round((agg.c / agg.t) * 100) : 0 },
+      extra: await customList(env).catch(() => []), tasks: await myTasks(env, uid).catch(() => []),
       mistakes: await mistakeCount(env, uid), results, topics: (await getTopics(env, uid)).map((r) => [r.quiz_id, r.ok, r.n]),
       top: top.map((r) => ({ name: r.name || "—", c: r.c, n: r.n, me: r.user_id === uid })),
     });
+  }
+  if (url.pathname === "/api/test" && req.method === "GET") {
+    const n = url.searchParams.get("n") || "";
+    try { return jres(await fetchQuiz(env, n)); } catch (e) { return jres({ error: "404" }, 404); }
+  }
+  if (url.pathname.startsWith("/api/class/")) {
+    const b = req.method === "POST" ? await req.json().catch(() => ({})) : {};
+    try { return jres(await classApi(env, uid, url, b)); } catch (e) { return jres({ error: String(e.message || e) }, 403); }
+  }
+  if (url.pathname === "/api/admin" || url.pathname.startsWith("/api/test/")) {
+    if (String(uid) !== OWNER(env)) return jres({ error: "ruxsat" }, 403);
+    if (url.pathname === "/api/admin") return jres(await adminApi(env));
+    return jres(await customApi(env, url, await req.json().catch(() => ({}))));
   }
   if (url.pathname === "/api/mistakes") {
     const { results } = await env.DB.prepare("SELECT quiz_id, idx FROM mistakes WHERE user_id=? ORDER BY at DESC LIMIT 60").bind(uid).all();
@@ -1768,6 +1791,158 @@ async function handleApi(env, req, url) {
   }
   return jres({ error: "404" }, 404);
 }
+// ---------- O'z testlari (ilovadagi forma orqali qo'shilgan, D1 da saqlanadi) ----------
+let CUS_OK = false;
+async function ensureCustom(env) {
+  if (CUS_OK) return; CUS_OK = true;
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS custom_tests (n TEXT PRIMARY KEY, sec TEXT, title TEXT, cnt INTEGER, data TEXT, at INTEGER)").run();
+}
+async function customList(env) {
+  await ensureCustom(env);
+  const { results } = await env.DB.prepare("SELECT n, sec, title, cnt FROM custom_tests ORDER BY at DESC LIMIT 300").all();
+  return results;
+}
+const NEW_SEC = { id: "yangi", icon: "🆕", title: "Yangi testlar", tests: [] };
+function mergeCustom(base, list) {
+  const c = JSON.parse(JSON.stringify(base));
+  for (const t of list) {
+    let sec = c.sections.find((x) => x.id === t.sec);
+    if (!sec) { sec = c.sections.find((x) => x.id === "yangi"); if (!sec) { sec = { ...NEW_SEC, tests: [] }; c.sections.push(sec); } }
+    if (!sec.tests.some((x) => x.n === t.n)) sec.tests.unshift({ n: t.n, t: t.title, c: t.cnt });
+  }
+  if (c.sections.some((x) => x.id === "yangi") && !(c.groups || []).some((g) => g.secs.includes("yangi"))) (c.groups = c.groups || []).unshift({ id: "yangi", icon: "🆕", title: "Yangi testlar", secs: ["yangi"] });
+  return c;
+}
+
+// ---------- Sinflar (o'qituvchi rejimi) ----------
+let CLS_OK = false;
+async function ensureClass(env) {
+  if (CLS_OK) return; CLS_OK = true;
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS classes (id INTEGER PRIMARY KEY AUTOINCREMENT, owner INTEGER, name TEXT, code TEXT UNIQUE, at INTEGER)").run();
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS class_members (class_id INTEGER, user_id INTEGER, at INTEGER, PRIMARY KEY (class_id, user_id))").run();
+  await env.DB.prepare("CREATE INDEX IF NOT EXISTS cm_user ON class_members(user_id)").run();
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS class_tasks (id INTEGER PRIMARY KEY AUTOINCREMENT, class_id INTEGER, quiz_id TEXT, title TEXT, at INTEGER)").run();
+}
+async function joinClass(env, chat_id, user, code) {
+  await ensureClass(env);
+  const c = await env.DB.prepare("SELECT * FROM classes WHERE code=?").bind(code).first();
+  if (!c) return send(env, chat_id, "❌ Sinf topilmadi. Havolani o'qituvchingizdan qayta so'rang.");
+  const n = await env.DB.prepare("SELECT COUNT(*) n FROM class_members WHERE class_id=?").bind(c.id).first();
+  if (n.n >= 300) return send(env, chat_id, "Sinf to'lgan (300 o'quvchi).");
+  const r = await env.DB.prepare("INSERT OR IGNORE INTO class_members (class_id, user_id, at) VALUES (?,?,?)").bind(c.id, user.id, Date.now()).run();
+  await touchUser(env, user);
+  if (r.meta && r.meta.changes) await send(env, c.owner, `👩‍🏫 «${esc(c.name)}» sinfiga yangi o'quvchi qo'shildi: <b>${esc(((user.first_name || "") + " " + (user.last_name || "")).trim())}</b>${user.username ? " @" + esc(user.username) : ""}`);
+  return send(env, chat_id, `✅ Siz <b>«${esc(c.name)}»</b> sinfiga qo'shildingiz!\n\nUstozingiz topshiriq bersa, shu yerga xabar keladi. Natijalaringizni ustozingiz ko'ra oladi.`,
+    { reply_markup: { inline_keyboard: [[{ text: "📱 Ilovani ochish", web_app: { url: APP_URL(env) } }]] } });
+}
+async function runClassBatch(env, b) {
+  for (const uid of b.ids) {
+    await send(env, uid, `📌 <b>Ustoz topshirig'i</b> — «${esc(b.cls)}»\n\n📝 ${esc(b.title)}\n\nTestni ishlang, natijangiz ustozingizga ko'rinadi 👇`,
+      { reply_markup: { inline_keyboard: [[{ text: "📱 Ilovada ishlash", web_app: { url: APP_URL(env) + "#t=" + b.n } }], [{ text: "▶️ Bot ichida ishlash", callback_data: "q:" + b.n }]] } });
+    await new Promise((x) => setTimeout(x, 40));
+  }
+}
+const nm = (r) => r.name || "—";
+async function classApi(env, uid, url, b) {
+  await ensureClass(env); await ensureLearn(env);
+  const own = async (id) => { const c = await env.DB.prepare("SELECT * FROM classes WHERE id=? AND owner=?").bind(id | 0, uid).first(); if (!c) throw new Error("ruxsat"); return c; };
+  const P = url.pathname;
+  if (P === "/api/class/list") {
+    const { results: mine } = await env.DB.prepare("SELECT c.id, c.name, c.code, (SELECT COUNT(*) FROM class_members m WHERE m.class_id=c.id) n FROM classes c WHERE owner=? ORDER BY id DESC").bind(uid).all();
+    const { results: joined } = await env.DB.prepare("SELECT c.id, c.name FROM class_members m JOIN classes c ON c.id=m.class_id WHERE m.user_id=?").bind(uid).all();
+    return { mine, joined, bot: await botUser(env) };
+  }
+  if (P === "/api/class/new") {
+    const name = String(b.name || "").trim().slice(0, 40);
+    if (!name) return { error: "Sinf nomini yozing" };
+    const k = await env.DB.prepare("SELECT COUNT(*) n FROM classes WHERE owner=?").bind(uid).first();
+    if (k.n >= 10) return { error: "Ko'pi bilan 10 ta sinf" };
+    const code = Math.random().toString(36).slice(2, 8) + Date.now().toString(36).slice(-3);
+    await env.DB.prepare("INSERT INTO classes (owner, name, code, at) VALUES (?,?,?,?)").bind(uid, name, code, Date.now()).run();
+    return { ok: true };
+  }
+  if (P === "/api/class/view") {
+    const c = await own(b.id);
+    const { results: tasks } = await env.DB.prepare("SELECT id, quiz_id, title, at FROM class_tasks WHERE class_id=? ORDER BY id DESC LIMIT 8").bind(c.id).all();
+    const since = Date.now() - 30 * 86400000;
+    const { results: st } = await env.DB.prepare(`SELECT m.user_id, u.name, u.username, u.last_seen,
+      (SELECT COUNT(*) FROM results r WHERE r.user_id=m.user_id AND r.at>=?) n,
+      (SELECT SUM(correct) FROM results r WHERE r.user_id=m.user_id AND r.at>=?) c,
+      (SELECT SUM(total) FROM results r WHERE r.user_id=m.user_id AND r.at>=?) t
+      FROM class_members m LEFT JOIN users u ON u.user_id=m.user_id WHERE m.class_id=? LIMIT 300`).bind(since, since, since, c.id).all();
+    const res = {};
+    if (tasks.length && st.length) {
+      const qids = [...new Set(tasks.map((t) => t.quiz_id))], minAt = Math.min(...tasks.map((t) => t.at));
+      const { results: rr } = await env.DB.prepare(`SELECT r.user_id, r.quiz_id, MAX(r.correct*100/r.total) p FROM results r JOIN class_members m ON m.user_id=r.user_id AND m.class_id=? WHERE r.quiz_id IN (${qids.map(() => "?").join(",")}) AND r.at>=? GROUP BY r.user_id, r.quiz_id`).bind(c.id, ...qids, minAt).all();
+      for (const r of rr) res[r.user_id + ":" + r.quiz_id] = r.p;
+    }
+    return { cls: { id: c.id, name: c.name, code: c.code }, bot: await botUser(env), tasks,
+      students: st.map((r) => ({ id: r.user_id, name: nm(r), u: r.username || "", last: r.last_seen || 0, n: r.n || 0, avg: r.t ? Math.round((r.c / r.t) * 100) : null, tasks: tasks.map((t) => res[r.user_id + ":" + t.quiz_id] ?? null) })) };
+  }
+  if (P === "/api/class/task") {
+    const c = await own(b.id);
+    const cat = await catalog(env), t = cat.sections.flatMap((x) => x.tests).find((x) => x.n === b.n);
+    if (!t) return { error: "Test topilmadi" };
+    await env.DB.prepare("INSERT INTO class_tasks (class_id, quiz_id, title, at) VALUES (?,?,?,?)").bind(c.id, t.n, t.t, Date.now()).run();
+    const { results } = await env.DB.prepare("SELECT user_id FROM class_members WHERE class_id=?").bind(c.id).all();
+    const ids = results.map((r) => r.user_id);
+    for (let i = 0; i < ids.length; i += 15) {
+      const body = { t: "ct", ids: ids.slice(i, i + 15), cls: c.name, title: t.t, n: t.n };
+      if (env.TIMER) await env.TIMER.send(body, { delaySeconds: Math.floor(i / 15) * 3 }); else await runClassBatch(env, body);
+    }
+    return { ok: true, sent: ids.length };
+  }
+  if (P === "/api/class/kick") { const c = await own(b.id); await env.DB.prepare("DELETE FROM class_members WHERE class_id=? AND user_id=?").bind(c.id, b.uid | 0).run(); return { ok: true }; }
+  if (P === "/api/class/del") { const c = await own(b.id); for (const q of ["DELETE FROM class_members WHERE class_id=?", "DELETE FROM class_tasks WHERE class_id=?", "DELETE FROM classes WHERE id=?"]) await env.DB.prepare(q).bind(c.id).run(); return { ok: true }; }
+  if (P === "/api/class/leave") { await env.DB.prepare("DELETE FROM class_members WHERE class_id=? AND user_id=?").bind(b.id | 0, uid).run(); return { ok: true }; }
+  return { error: "404" };
+}
+async function myTasks(env, uid) {
+  await ensureClass(env);
+  const since = Date.now() - 21 * 86400000;
+  const { results } = await env.DB.prepare(`SELECT t.id, t.quiz_id, t.title, t.at, c.name cls,
+    (SELECT MAX(r.correct*100/r.total) FROM results r WHERE r.user_id=? AND r.quiz_id=t.quiz_id AND r.at>=t.at) p
+    FROM class_tasks t JOIN class_members m ON m.class_id=t.class_id AND m.user_id=? JOIN classes c ON c.id=t.class_id WHERE t.at>=? ORDER BY t.id DESC LIMIT 10`).bind(uid, uid, since).all();
+  return results;
+}
+
+// ---------- Admin statistikasi (ilova uchun) ----------
+async function adminApi(env) {
+  await ensureLearn(env); await ensureStats(env); await ensureUsers(env);
+  const days = [];
+  for (let i = 13; i >= 0; i--) days.push(dayKey(Date.now() - i * 86400000));
+  const { results: sr } = await env.DB.prepare(`SELECT day, sec, n FROM stats WHERE day>=?`).bind(days[0]).all();
+  const tz = TZ, dstart = Date.parse(days[0] + "T00:00:00Z") - tz;
+  const { results: nu } = await env.DB.prepare("SELECT first_seen f FROM users WHERE first_seen>=?").bind(dstart).all();
+  const act = days.map((d) => ({ d, tests: sr.filter((r) => r.day === d && !r.sec.startsWith("_")).reduce((a, r) => a + r.n, 0), app: (sr.find((r) => r.day === d && r.sec === "_app") || { n: 0 }).n, new: nu.filter((u) => dayKey(u.f) === d).length }));
+  const tot = await env.DB.prepare("SELECT COUNT(*) n, SUM(CASE WHEN last_seen>=? THEN 1 ELSE 0 END) d1, SUM(CASE WHEN last_seen>=? THEN 1 ELSE 0 END) d7, SUM(blocked) b FROM users").bind(Date.now() - 86400000, Date.now() - 7 * 86400000).first();
+  const since = Date.now() - 30 * 86400000;
+  const { results: top } = await env.DB.prepare("SELECT quiz_id, MAX(title) title, COUNT(*) n, ROUND(AVG(correct*100.0/total)) p FROM results WHERE at>=? GROUP BY quiz_id ORDER BY n DESC LIMIT 12").bind(since).all();
+  const { results: hard } = await env.DB.prepare("SELECT quiz_id, MAX(title) title, COUNT(*) n, ROUND(AVG(correct*100.0/total)) p FROM results WHERE at>=? AND quiz_id NOT LIKE 'sim-%' AND quiz_id NOT IN ('xatolar','kun10','qidiruv') GROUP BY quiz_id HAVING n>=3 ORDER BY p ASC LIMIT 12").bind(since).all();
+  const { results: miss } = await env.DB.prepare("SELECT quiz_id, idx, COUNT(*) n FROM mistakes GROUP BY quiz_id, idx ORDER BY n DESC LIMIT 25").all();
+  return { act, tot, top, hard, miss: miss.map((m) => [m.quiz_id, m.idx, m.n]), custom: await customList(env) };
+}
+async function customApi(env, url, b) {
+  await ensureCustom(env);
+  if (url.pathname === "/api/test/save") {
+    const qs = (b.questions || []).slice(0, 200).map((q) => ({ q: String(q.q || "").slice(0, 3000), options: (q.options || []).slice(0, 8).map((o) => String(o).slice(0, 500)), answer: q.answer | 0, ...(q.explanation ? { explanation: String(q.explanation).slice(0, 1000) } : {}) }))
+      .filter((q) => q.q && q.options.length >= 2 && q.answer < q.options.length);
+    const title = String(b.title || "").trim().slice(0, 80);
+    if (!title || !qs.length) return { error: "Sarlavha va kamida 1 ta to'g'ri savol kerak" };
+    const time = [15, 20, 30, 45, 60, 90].includes(b.time | 0) ? b.time | 0 : 30;
+    const n = "u-" + Date.now().toString(36);
+    const cat = await catalog(env); const sec = cat.sections.some((x) => x.id === b.sec) ? b.sec : "yangi";
+    await env.DB.prepare("INSERT INTO custom_tests (n, sec, title, cnt, data, at) VALUES (?,?,?,?,?,?)").bind(n, sec, title, qs.length, JSON.stringify({ title, time, questions: qs }), Date.now()).run();
+    CAT = null;
+    return { ok: true, n, cnt: qs.length };
+  }
+  if (url.pathname === "/api/test/del") {
+    await env.DB.prepare("DELETE FROM custom_tests WHERE n=?").bind(String(b.n || "")).run(); CAT = null; QCACHE.delete(String(b.n || ""));
+    return { ok: true };
+  }
+  return { error: "404" };
+}
+
 async function appOpen(env, chat_id, name) {
   const cat = await catalog(env);
   const t = cat.sections.flatMap((x) => x.tests).find((x) => x.n === name);
@@ -1906,6 +2081,7 @@ export default {
         const b = m.body;
         if (b.t === "bc") await runBroadcastBatch(env, b);
         else if (b.t === "rm") await runRemindBatch(env, b);
+        else if (b.t === "ct") await runClassBatch(env, b);
         else await advance(env, b.chat_id, b.session_id, b.idx);
       } catch (e) { await alertOwner(env, "taymer / xabar tarqatish", e); }
       m.ack();
