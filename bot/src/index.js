@@ -366,6 +366,7 @@ async function startPrivate(env, chat_id, name, user) {
 async function onCallback(env, cq) {
   const d = cq.data || "";
   const chat = cq.message && cq.message.chat;
+  if (d === "noop") return tg(env, "answerCallbackQuery", { callback_query_id: cq.id, text: "👇 Pastdagi testlardan birini tanlang" });
   if (chat && chat.type !== "private") {
     const r = await tg(env, "getChatMember", { chat_id: chat.id, user_id: cq.from.id });
     if (!(r.ok && ["creator", "administrator"].includes(r.result.status)))
@@ -374,6 +375,8 @@ async function onCallback(env, cq) {
   }
   await tg(env, "answerCallbackQuery", { callback_query_id: cq.id });
   if (!chat) return;
+  if (d.startsWith("pk:") && chat.type === "private" && String(cq.from.id) === OWNER(env)) return paketSend(env, chat.id, d.slice(3));
+  if (d.startsWith("mx:") && chat.type === "private") return startMix(env, chat.id, "mx_" + d.slice(3), cq.from);
   if (d.startsWith("kp:") && chat.type === "private" && String(cq.from.id) === OWNER(env)) {
     if (d === "kp:ok") return kanalSend(env, chat.id);
     await env.DB.prepare("DELETE FROM settings WHERE k='kanal_pending'").run(); return send(env, chat.id, "❌ Bekor qilindi.");
@@ -1514,6 +1517,7 @@ async function onMessage(env, msg) {
     const t0 = (msg.text || "").trim().split(/\s+/)[0].split("@")[0].toLowerCase();
     if (t0 === "/bekor") { await ensureLock(env); await env.DB.prepare("DELETE FROM settings WHERE k IN ('bc_wait','kanal_wait','kanal_pending')").run(); return send(env, msg.chat.id, "❌ Bekor qilindi."); }
     if (t0 === "/kanal") return kanalStart(env, msg, msg.text || "");
+    if (t0 === "/paket") return paketCmd(env, msg.chat.id, ((msg.text || "").trim().split(/\s+/)[1] || "").trim());
     if (!t0.startsWith("/") || msg.photo) {
       await ensureLock(env);
       const kw = await env.DB.prepare("SELECT v FROM settings WHERE k='kanal_wait'").first();
@@ -1562,10 +1566,18 @@ async function onMessage(env, msg) {
   const cmd = cmdRaw.split("@")[0].toLowerCase();
   const chat_id = msg.chat.id;
 
+  if (cmd === "/start" && msg.chat.type !== "private" && arg && /^[\w-]+$/.test(arg)) {
+    if (!(await isAdmin(env, msg))) return send(env, chat_id, "⛔ Guruhda testni faqat admin boshlay oladi.");
+    if (arg.startsWith("mx_")) return startMix(env, chat_id, arg, null);
+    const err = await startQuiz(env, chat_id, arg, msg.from && msg.from.id);
+    if (err) return send(env, chat_id, err);
+    return;
+  }
   if (cmd === "/start" && msg.chat.type === "private") {
     if (arg && arg.startsWith("ref_")) return showMain(env, chat_id, null, msg.from);
     if (arg === "taklif") return showReferral(env, chat_id, msg.from);
     if (arg && arg.startsWith("app_")) return appOpen(env, chat_id, arg.slice(4));
+    if (arg && arg.startsWith("mx_")) return mxCard(env, chat_id, arg);
     if (arg && arg.startsWith("sinf_")) return joinClass(env, chat_id, msg.from, arg.slice(5));
     if (arg === "natija") return myResults(env, chat_id, msg.from);
     if (arg === "eslatma") return remindMenu(env, chat_id, msg.from);
@@ -2091,12 +2103,89 @@ async function kanalSend(env, chat_id) {
   return send(env, chat_id, `✅ ${ok} ta savol <b>${esc(ch)}</b> kanaliga quiz bo'lib yuborildi!`);
 }
 
+// ---------- 📦 Test paketlari (kanal posti: tugmalar to'ri) ----------
+const PKG_GROUPS = { t6: [[1, 5, "1–5"], [6, 10, "6–10"], [11, 16, "11–16"], [17, 20, "17–21"], [21, 25, "22–28"], [26, 29, "29–32"], [30, 32, "33–37"], [33, 36, "38–42"], [37, 40, "43–46"], [41, 43, "47–50"]] };
+const topicNo = (t, i) => (String(t.t).match(/^(\d+(?:[–-]\d+)?)-mavzu/) || [])[1];
+function pkgParts(sec) {
+  const tests = sec.tests, core = [];
+  tests.forEach((t, i) => { if (topicNo(t, i)) core.push(i); });
+  const a = core[0], b = core[core.length - 1];
+  let groups = PKG_GROUPS[sec.id];
+  if (!groups) { groups = []; for (let k = 0; k < core.length; k += 5) { const ch = core.slice(k, k + 5); groups.push([ch[0], ch[ch.length - 1], `${topicNo(tests[ch[0]])}–${String(topicNo(tests[ch[ch.length - 1]])).split(/[–-]/).pop()}`]); } }
+  return { tests, core, a, b, groups };
+}
+async function pkgPost(env, secId) {
+  const cat = await catalog(env), sec = cat.sections.find((x) => x.id === secId);
+  if (!sec) return null;
+  const u = await botUser(env), P = pkgParts(sec), L = (pl) => `https://t.me/${u}?start=${pl}`;
+  const H = (t) => [{ text: t, callback_data: "noop" }];
+  const kb = [H("📚 Yakuniy testlar – butun kitob")];
+  for (const n of [100, 50, 30]) kb.push([{ text: `Kitob boʻyicha – ${n} talik`, url: L(`mx_${sec.id}_${P.a}_${P.b}_${n}`) }]);
+  kb.push(H("📦 Jamlanma – 50 talik"));
+  for (let k = 0; k < P.groups.length; k += 2) kb.push(P.groups.slice(k, k + 2).map(([x, y, lab]) => ({ text: `${lab}-mavzular`, url: L(`mx_${sec.id}_${x}_${y}_50`) })));
+  kb.push(H("📝 Mavzular boʻyicha"));
+  const btns = P.tests.map((t, i) => ({ t, i, lab: topicNo(t, i) || (/kirish/i.test(t.t) ? "Kirish" : null) })).filter((x) => x.lab);
+  for (let k = 0; k < btns.length; k += 4) kb.push(btns.slice(k, k + 4).map((x) => ({ text: x.lab, url: L("app_" + x.t.n) })));
+  for (const [i, t] of P.tests.entries()) if (!topicNo(t, i) && !/kirish/i.test(t.t)) kb.push([{ text: t.t.replace(/^Ilova\.\s*/, "").slice(0, 40), url: L("app_" + t.n) }]);
+  const PT = { t6: "6-sinf «Qadimgi dunyo tarixi» (2022)", t7u: "7-sinf «Oʻzbekiston tarixi»", t7j: "7-sinf «Jahon tarixi»", t8u: "8-sinf «Oʻzbekiston tarixi»", t8j: "8-sinf «Jahon tarixi»", t9u: "9-sinf «Oʻzbekiston tarixi»", t9j: "9-sinf «Jahon tarixi»", t10j: "10-sinf «Jahon tarixi»" };
+  const text = `${sec.icon} <b>${esc(PT[sec.id] || sec.title)} — QUIZ testlar</b>\n\nKerakli testning ustiga bosing — test ochiladi. Undan <b>«Bu testni boshlash»</b> (oʻzingiz ishlaysiz), <b>«Ilovada ishlash»</b> yoki <b>«Guruhda boshlash»</b> (guruhingizda birga) ni tanlang.\n\n👨‍🏫 Testlar muallifi: <b>Ustoz Yoʻldashali Isaqov</b> · @yoldashaliisakov`;
+  return { text, kb };
+}
+async function paketCmd(env, chat_id, secId) {
+  const cat = await catalog(env);
+  if (!secId) return send(env, chat_id, "📦 <b>Test paketi posti</b>\n\nBuyruq: <code>/paket boʻlim</code>\n\n" + cat.sections.filter((x) => x.tests.length >= 5).map((x) => `• <code>/paket ${x.id}</code> — ${esc(x.title)}`).join("\n"));
+  const P = await pkgPost(env, secId);
+  if (!P) return send(env, chat_id, "Boʻlim topilmadi: /paket");
+  await send(env, chat_id, P.text, { protect_content: false, reply_markup: { inline_keyboard: P.kb } });
+  const ch = ((await env.DB.prepare("SELECT v FROM settings WHERE k='post_ch'").first().catch(() => null)) || {}).v || "@yoldashaliisakov";
+  return send(env, chat_id, `👆 Post namunasi. Kanal: <b>${esc(ch)}</b>`, { reply_markup: { inline_keyboard: [[{ text: "📣 Kanalga yuborish", callback_data: "pk:" + secId }]] } });
+}
+async function paketSend(env, chat_id, secId) {
+  await ensureLock(env);
+  const ch = ((await env.DB.prepare("SELECT v FROM settings WHERE k='post_ch'").first()) || {}).v || "@yoldashaliisakov";
+  const P = await pkgPost(env, secId);
+  const r = await send(env, ch, P.text, { protect_content: false, reply_markup: { inline_keyboard: P.kb } });
+  if (r && r.ok === false) return send(env, chat_id, `⚠️ Yuborilmadi: <code>${esc(r.description || "")}</code>\nBotni kanalga admin qiling («Xabarlarni joylash» huquqi).`);
+  return send(env, chat_id, `✅ Post <b>${esc(ch)}</b> kanaliga yuborildi!`);
+}
+// Aralash test: mx_<boʻlim>_<boshi>_<oxiri>_<soni>
+function parseMx(pl) { const m = String(pl).match(/^mx_([a-z0-9]+)_(\d+)_(\d+)_(\d+)$/); return m ? { sec: m[1], a: +m[2], b: +m[3], n: Math.min(100, +m[4]) } : null; }
+async function mxInfo(env, pl) {
+  const x = parseMx(pl); if (!x) return null;
+  const cat = await catalog(env), sec = cat.sections.find((s) => s.id === x.sec); if (!sec) return null;
+  const T = sec.tests.slice(x.a, x.b + 1); if (!T.length) return null;
+  const f = topicNo(T[0]) || "Kirish", l = String(topicNo(T[T.length - 1]) || "").split(/[–-]/).pop();
+  const whole = x.a <= 1 && x.b >= sec.tests.length - 2;
+  return { ...x, sec, T, title: `${sec.title} · ${whole ? "butun kitob" : `${f}–${l}-mavzular`} (${x.n} talik)` };
+}
+async function mxCard(env, chat_id, pl) {
+  const I = await mxInfo(env, pl); if (!I) return appCmd(env, chat_id);
+  const u = await botUser(env);
+  return send(env, chat_id, `📦 <b>${esc(I.title)}</b>\n\n❓ ${I.n} ta savol · ${I.T.length} ta mavzudan aralash\n⏱ har biriga 30 soniya`,
+    { reply_markup: { inline_keyboard: [[{ text: "▶️ Bu testni boshlash", callback_data: "mx:" + pl.slice(3) }], [{ text: "👥 Guruhda boshlash", url: `https://t.me/${u}?startgroup=${pl}` }]] } });
+}
+async function startMix(env, chat_id, pl, user) {
+  const I = await mxInfo(env, pl); if (!I) return send(env, chat_id, "Test topilmadi.");
+  if (user && chat_id > 0 && !(await gate(env, user, chat_id, I.sec.id, "mx:" + pl.slice(3)))) return;
+  // ko'pi bilan 12 ta mavzu faylini o'qiymiz (bepul limit), savollar teng taqsimlanadi
+  const pick = I.T.slice().sort(() => Math.random() - 0.5).slice(0, 12);
+  const per = Math.ceil(I.n / pick.length), qs = [];
+  for (const t of pick) {
+    let d; try { d = await fetchQuiz(env, t.n); } catch (e) { continue; }
+    d.questions.map((q, i) => ({ ...q, src: [t.n, i] })).sort(() => Math.random() - 0.5).slice(0, per).forEach((q) => qs.push(q));
+  }
+  qs.sort(() => Math.random() - 0.5);
+  if (!qs.length) return send(env, chat_id, "Savollar yuklanmadi.");
+  await env.DB.prepare("UPDATE sessions SET running=0 WHERE chat_id=? AND running=1").bind(chat_id).run();
+  await startWithQuestions(env, chat_id, "mx-" + I.sec.id, "📦 " + I.title, qs.slice(0, I.n), 30);
+}
+
 async function appOpen(env, chat_id, name) {
   const cat = await catalog(env);
   const t = cat.sections.flatMap((x) => x.tests).find((x) => x.n === name);
   if (!t) return appCmd(env, chat_id);
   return send(env, chat_id, `📝 <b>${esc(t.t)}</b>\n\n❓ ${t.c} ta test savoli${t.w ? ` + ✍️ ${t.w} ta yozma javobli savol` : ""}\n\nIlovada imtihon rejimi, taymer va natija tahlili bor 👇`,
-    { reply_markup: { inline_keyboard: [[{ text: "📱 Ilovada ishlash", web_app: { url: APP_URL(env) + "#t=" + name } }], [{ text: "▶️ Bot ichida ishlash (" + t.c + " ta savol)", callback_data: "q:" + name }]] } });
+    { reply_markup: { inline_keyboard: [[{ text: "▶️ Bu testni boshlash (" + t.c + " ta savol)", callback_data: "q:" + name }], [{ text: "📱 Ilovada ishlash", web_app: { url: APP_URL(env) + "#t=" + name } }], [{ text: "👥 Guruhda boshlash", url: `https://t.me/${await botUser(env)}?startgroup=${name}` }]] } });
 }
 async function havolaCmd(env, chat_id, name) {
   const cat = await catalog(env);
@@ -2162,6 +2251,7 @@ export default {
           { command: "referal", description: "🎁 Referal statistikasi" },
           { command: "havola", description: "🔗 Test havolasi: /havola ms-19-11" },
           { command: "kanal", description: "📣 Testni kanalga quiz qilib yuborish" },
+          { command: "paket", description: "📦 Boʻlim testlari posti (tugmalar): /paket t6" },
           { command: "xabar", description: "📢 Hammaga xabar" },
           { command: "excel", description: "📊 A'zolar jadvali" },
           { command: "testnatija", description: "📊 Test natijalari Excelda: /testnatija ms-20-11" },
