@@ -69,10 +69,11 @@ async function sendQuestion(env, s, idx) {
   if (q.explanation) body.explanation = String(q.explanation).slice(0, 200);
   const r = await tg(env, "sendPoll", body);
   if (r.ok) {
-    if (env.TIMER) {
+    // Shaxsiy chatda keyingi savolni javob yoki har daqiqalik tekshiruv chiqaradi — navbat (Queue) faqat guruhlarda
+    if (env.TIMER && s.chat_id < 0 && Date.now() > QDOWN) {
       try {
         await env.TIMER.send({ chat_id: s.chat_id, session_id: s.session_id, idx }, { delaySeconds: s.time + 1 });
-      } catch (e) { console.log("Navbat xato:", e.stack || e); }
+      } catch (e) { QDOWN = Date.now() + 10 * 60000; console.log("Navbat xato:", e.stack || e); }
     }
     await env.DB.prepare(
       "INSERT OR REPLACE INTO polls (poll_id, chat_id, session_id, idx, correct) VALUES (?,?,?,?,?)"
@@ -706,8 +707,7 @@ async function startBroadcast(env, msg) {
   await send(env, msg.chat.id, `⏳ Xabar <b>${ids.length}</b> nafar a'zoga yuborilmoqda (taxminan ${Math.max(1, Math.ceil(batches * 6 / 60))} daqiqa). Tugagach hisobot keladi.`);
   for (let i = 0; i < batches; i++) {
     const body = { t: "bc", bc: id, from: msg.chat.id, mid: msg.message_id, ids: ids.slice(i * per, i * per + per) };
-    if (env.TIMER) await env.TIMER.send(body, { delaySeconds: Math.min(i * 6, 43200) });
-    else await runBroadcastBatch(env, body);
+    await enqueue(env, body, Math.min(i * 6, 43200), true);
   }
 }
 async function runBroadcastBatch(env, b) {
@@ -1453,7 +1453,29 @@ async function remindTick(env) {
   const ids = results.map((r) => r.user_id);
   for (let i = 0; i < ids.length; i += 15) {
     const body = { t: "rm", ids: ids.slice(i, i + 15) };
-    if (env.TIMER) await env.TIMER.send(body, { delaySeconds: Math.floor(i / 15) * 3 }); else await runRemindBatch(env, body);
+    await enqueue(env, body, 0, false);
+  }
+}
+// ---------- Bazadagi navbat (Cloudflare Queue chegarasini tejash uchun) ----------
+let OB_OK = false;
+async function ensureOutbox(env) { if (OB_OK) return; OB_OK = true; await env.DB.prepare("CREATE TABLE IF NOT EXISTS outbox (id INTEGER PRIMARY KEY AUTOINCREMENT, body TEXT, due INTEGER)").run(); }
+async function enqueue(env, body, delaySec = 0, preferQueue = false) {
+  if (preferQueue && env.TIMER && Date.now() > QDOWN) {
+    try { await env.TIMER.send(body, { delaySeconds: delaySec }); return; } catch (e) { QDOWN = Date.now() + 10 * 60000; console.log("Navbat to'ldi, bazaga yozildi", e); }
+  }
+  await ensureOutbox(env);
+  await env.DB.prepare("INSERT INTO outbox (body, due) VALUES (?, ?)").bind(JSON.stringify(body), Date.now() + delaySec * 1000).run();
+}
+async function outboxTick(env) {
+  await ensureOutbox(env);
+  // har daqiqada 2 ta paket (har biri 15 kishi) — bepul limit ichida
+  const { results } = await env.DB.prepare("SELECT id, body FROM outbox WHERE due<=? ORDER BY id LIMIT 2").bind(Date.now()).all();
+  for (const r of results) {
+    await env.DB.prepare("DELETE FROM outbox WHERE id=?").bind(r.id).run();
+    const b = JSON.parse(r.body);
+    if (b.t === "bc") await runBroadcastBatch(env, b);
+    else if (b.t === "rm") await runRemindBatch(env, b);
+    else if (b.t === "ct") await runClassBatch(env, b);
   }
 }
 async function runRemindBatch(env, b) {
@@ -1744,13 +1766,21 @@ async function ensureIndexes(env) {
   await env.DB.prepare("CREATE INDEX IF NOT EXISTS polls_sid ON polls(session_id)").run();
   IDX_OK = true;
 }
+let QDOWN = 0; // navbat chegarasi tugagan bo'lsa — shu vaqtgacha navbatga yozmaymiz
 async function watchdog(env) {
   await ensureIndexes(env);
-  const now = Date.now();
-  const { results } = await env.DB.prepare("SELECT chat_id, session_id, idx, time, last_sent FROM sessions WHERE running=1").all();
-  for (const s of results) {
-    if (now - s.last_sent > (s.time + 25) * 1000) await advance(env, s.chat_id, s.session_id, s.idx);
-  }
+  const pass = async () => {
+    const now = Date.now();
+    const { results } = await env.DB.prepare("SELECT chat_id, session_id, idx, time, last_sent FROM sessions WHERE running=1").all();
+    for (const s of results) {
+      // guruhda navbat ishlayotgan bo'lsa unga ishonamiz; aks holda vaqti tugashi bilan o'zimiz o'tkazamiz
+      const grace = s.chat_id < 0 && Date.now() > QDOWN ? 25 : 3;
+      if (now - s.last_sent > (s.time + grace) * 1000) await advance(env, s.chat_id, s.session_id, s.idx);
+    }
+    return results.length;
+  };
+  // daqiqada 3 marta tekshiramiz (0, 20, 40-soniya) — faqat faol viktorina bo'lsa
+  if (await pass()) for (let k = 0; k < 2; k++) { await new Promise((r) => setTimeout(r, 20000)); if (!(await pass())) break; }
   // 3 kundan eski so'rovnomalarni tozalash — soatiga bir marta
   if (new Date().getUTCMinutes() === 7)
     await env.DB.prepare("DELETE FROM polls WHERE session_id < ?").bind(String(now - 3 * 864e5)).run();
@@ -1972,7 +2002,7 @@ async function classApi(env, uid, url, b) {
     const ids = results.map((r) => r.user_id);
     for (let i = 0; i < ids.length; i += 15) {
       const body = { t: "ct", ids: ids.slice(i, i + 15), cls: c.name, title: t.t, n: t.n };
-      if (env.TIMER) await env.TIMER.send(body, { delaySeconds: Math.floor(i / 15) * 3 }); else await runClassBatch(env, body);
+      await enqueue(env, body, Math.floor(i / 15) * 3, true);
     }
     return { ok: true, sent: ids.length };
   }
@@ -2335,5 +2365,6 @@ export default {
     ctx.waitUntil(weeklyTick(env).catch((e) => alertOwner(env, "haftalik reyting", e)));
     ctx.waitUntil(dailyQTick(env).catch((e) => alertOwner(env, "kun savoli", e)));
     ctx.waitUntil(remindTick(env).catch((e) => alertOwner(env, "eslatmalar", e)));
+    ctx.waitUntil(outboxTick(env).catch((e) => alertOwner(env, "xabarlar navbati", e)));
   },
 };
