@@ -660,6 +660,32 @@ async function excelCmd(env, chat) {
   if (!r.ok) console.log("excel xato", await r.text());
 }
 
+// /testnatija <test>: shu testni ishlagan o'quvchilar natijasi (Excel/CSV)
+async function testExcelCmd(env, chat, name) {
+  await ensureUsers(env); await ensureLearn(env);
+  if (!name) {
+    const { results } = await env.DB.prepare("SELECT quiz_id, MAX(title) t, COUNT(DISTINCT user_id) n FROM results WHERE at>=? GROUP BY quiz_id ORDER BY n DESC LIMIT 15").bind(Date.now() - 30 * 86400000).all();
+    return send(env, chat, "📊 <b>Test natijalarini Excelga olish</b>\n\nBuyruq: <code>/testnatija test_nomi</code>\n\nOxirgi 30 kunda eng ko'p ishlanganlar:\n" +
+      (results.map((r) => `• <code>/testnatija ${esc(r.quiz_id)}</code> — ${esc(r.t || "")} (${r.n} kishi)`).join("\n") || "hali natija yo'q"));
+  }
+  const { results } = await env.DB.prepare(`SELECT r.user_id, MAX(u.name) name, MAX(u.username) un, COUNT(*) urin, MAX(r.correct * 1.0 / r.total) best, MIN(r.at) birinchi, MAX(r.at) oxirgi, MAX(r.title) title
+    FROM results r LEFT JOIN users u ON u.user_id = r.user_id WHERE r.quiz_id = ? GROUP BY r.user_id ORDER BY best DESC, oxirgi ASC`).bind(name).all();
+  if (!results.length) return send(env, chat, `«${esc(name)}» testini hali hech kim yakunlamagan.\n\nTest nomlari: <code>/testnatija</code>`);
+  const { results: last } = await env.DB.prepare("SELECT user_id, correct, total FROM results WHERE quiz_id = ? ORDER BY at").bind(name).all();
+  const lastBy = new Map(); for (const r of last) lastBy.set(r.user_id, r);
+  const cell = (v) => `"${String(v ?? "").replace(/"/g, '""')}"`;
+  const rows = [["O'rin", "Ism", "Username", "Telegram ID", "Eng yaxshi natija %", "Oxirgi urinish (to'g'ri / jami)", "Urinishlar soni", "Birinchi marta", "Oxirgi marta"]];
+  results.forEach((r, i) => { const l = lastBy.get(r.user_id); rows.push([i + 1, r.name || "", r.un ? "@" + r.un : "", r.user_id, Math.round(r.best * 100), l ? `${l.correct} / ${l.total}` : "", r.urin, fmtT(r.birinchi), fmtT(r.oxirgi)]); });
+  const avg = Math.round(results.reduce((a, r) => a + r.best, 0) / results.length * 100);
+  const csv = "\ufeff" + rows.map((r) => r.map(cell).join(";")).join("\r\n");
+  const fd = new FormData();
+  fd.append("chat_id", String(chat));
+  fd.append("caption", `📊 «${results[0].title || name}»\n👥 ${results.length} nafar o'quvchi · o'rtacha eng yaxshi natija ${avg}%\n🥇 ${results[0].name || "—"} — ${Math.round(results[0].best * 100)}%`);
+  fd.append("document", new Blob([csv], { type: "text/csv" }), `natijalar-${name}-${fmtT(Date.now()).slice(0, 10)}.csv`);
+  const r = await fetch(API(env, "sendDocument"), { method: "POST", body: fd });
+  if (!r.ok) console.log("testnatija xato", await r.text());
+}
+
 // /xabar: keyingi xabar hammaga
 async function xabarCmd(env, chat) {
   await ensureLock(env);
@@ -1508,6 +1534,7 @@ async function onMessage(env, msg) {
     if (t0 === "/faollar") return faollarCmd(env, msg.chat.id);
     if (t0 === "/reyting") return reytingCmd(env, msg.chat.id);
     if (t0 === "/excel") return excelCmd(env, msg.chat.id);
+    if (t0 === "/testnatija") return testExcelCmd(env, msg.chat.id, ((msg.text || "").trim().split(/\s+/)[1] || "").trim());
     if (t0 === "/xabar") return xabarCmd(env, msg.chat.id);
     if (t0 === "/hisobot") return dailyReport(env, msg.chat.id);
     if (t0 === "/referal") return referalCmd(env, msg, msg.text || "");
@@ -2137,6 +2164,7 @@ export default {
           { command: "kanal", description: "📣 Testni kanalga quiz qilib yuborish" },
           { command: "xabar", description: "📢 Hammaga xabar" },
           { command: "excel", description: "📊 A'zolar jadvali" },
+          { command: "testnatija", description: "📊 Test natijalari Excelda: /testnatija ms-20-11" },
           { command: "reyting", description: "🏆 TOP-20" },
           { command: "parol", description: "🔒 Parol" },
           { command: "obuna", description: "📣 Majburiy obuna" },
