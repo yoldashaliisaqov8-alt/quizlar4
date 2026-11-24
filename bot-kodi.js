@@ -1783,7 +1783,7 @@ async function watchdog(env) {
   if (await pass()) for (let k = 0; k < 2; k++) { await new Promise((r) => setTimeout(r, 20000)); if (!(await pass())) break; }
   // 3 kundan eski so'rovnomalarni tozalash — soatiga bir marta
   if (new Date().getUTCMinutes() === 7)
-    await env.DB.prepare("DELETE FROM polls WHERE session_id < ?").bind(String(now - 3 * 864e5)).run();
+    await env.DB.prepare("DELETE FROM polls WHERE session_id < ?").bind(String(Date.now() - 3 * 864e5)).run();
 }
 
 // ---------- Mini App (Web ilova) API ----------
