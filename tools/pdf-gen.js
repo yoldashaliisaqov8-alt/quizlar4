@@ -10,7 +10,15 @@ function ansBody(d) {
     `<div class="keys">${list.map((q, i) => `<span><b>${i + 1}</b>–${L[q.answer]}</span>`).join('')}</div>` +
     (list.some(q => q.explanation) ? `<div class="iz">${list.map((q, i) => q.explanation ? `<p><b>${i + 1}. ${L[q.answer]})</b> ${esc(q.explanation)}</p>` : '').join('')}</div>` : '')).join('');
 }
-const SPLIT = (id) => /^ist/.test(id); // savollar va parolli javoblar alohida
+function wrQ(d) {
+  if (!d.written || !d.written.length) return '';
+  return `<h4 class="ph">✍️ Yozma javobli savollar</h4>` + d.written.map((w) => `<div class="q"><div class="qt"><b>${w.n}.</b> ${esc(w.q).replace(/\n/g, '<br>')}</div>${w.image ? `<img src="file://${R}/${w.image}">` : ''}<div class="op">${(w.parts || []).map((x) => `<div>${esc(x.l)}) ${esc(x.q)} <span style="color:#9aa">______________</span></div>`).join('')}</div></div>`).join('');
+}
+function wrA(d) {
+  if (!d.written || !d.written.length) return '';
+  return `<h4 class="ph">✍️ Yozma savollar javoblari</h4><div class="iz">` + d.written.map((w) => `<p><b>${w.n}.</b> ${(w.parts || []).map((x) => `${esc(x.l)}) ${esc((x.a || [])[0] || '')}`).join('; ')}${w.explanation ? ` <i>— ${esc(w.explanation)}</i>` : ''}</p>`).join('') + `</div>`;
+}
+const SPLIT = () => true; // hamma bo‘limlar: savollar va parolli javoblar alohida
 const { execFileSync } = require('child_process');
 function lock(f) {
   const pw = process.env.PDF_PASS;
@@ -50,7 +58,7 @@ function html(name, d, sec, mode = 'full') {
   </style></head><body>
   <div class="hd"><img src="${face}"><div><div class="b">ISAKOV SCHOOL</div><div class="s">Ustoz Yo‘ldashali Isaqov · t.me/yoldashaliisakov</div></div></div>
   <h1>${esc(d.title || name)}</h1><div class="meta">${esc(sec)} · ${qs.length} ta savol · Telegram bot: @${'BOTNAME'}</div>
-  ${mode === 'ans' ? `<div class="meta">🔑 Javoblar kaliti${d.parts ? '' : ''}</div>` + ansBody(d) : body + (mode === 'q' ? '' : `<h2>Javoblar</h2>${keys}${iz}`)}</body></html>`;
+  ${mode === 'ans' ? `<div class="meta">🔑 Javoblar kaliti${d.parts ? '' : ''}</div>` + ansBody(d) + wrA(d) : body + wrQ(d) + (mode === 'q' ? '' : `<h2>Javoblar</h2>${keys}${iz}`)}</body></html>`;
 }
 (async () => {
   const only = process.argv[2];

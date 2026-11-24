@@ -324,7 +324,7 @@ async function showSection(env, chat_id, message_id, id, page, user, pdf = false
   return tg(env, "sendMessage", body);
 }
 
-const PDF_SPLIT = (id) => /^ist/.test(String(id || "")); // savollar va parolli javoblar alohida PDF
+const PDF_SPLIT = () => true; // hamma testlar: savollar va parolli javoblar alohida PDF
 async function pdfInfo(env, name) {
   const cat = await catalog(env);
   const s = cat.sections.find((x) => x.id === name);
