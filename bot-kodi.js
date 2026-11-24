@@ -2135,7 +2135,8 @@ async function kanalSend(env, chat_id) {
 
 // ---------- 📦 Test paketlari (kanal posti: tugmalar to'ri) ----------
 const PKG_GROUPS = { t6: [[1, 5, "1–5"], [6, 10, "6–10"], [11, 16, "11–16"], [17, 20, "17–21"], [21, 25, "22–28"], [26, 29, "29–32"], [30, 32, "33–37"], [33, 36, "38–42"], [37, 40, "43–46"], [41, 43, "47–50"]] };
-const topicNo = (t, i) => (String(t.t).match(/^(\d+(?:[–-]\d+)?)-mavzu/) || [])[1];
+const topicNo = (t, i) => (String(t.t).match(/^(\d+(?:[–-]\d+)?)(?:-mavzu|\.\s)/) || [])[1];
+const topicPart = (t) => (String(t.t).match(/\((\d+)\/\d+\)\s*$/) || [])[1];
 function pkgParts(sec) {
   const tests = sec.tests, core = [];
   tests.forEach((t, i) => { if (topicNo(t, i)) core.push(i); });
@@ -2148,16 +2149,16 @@ async function pkgPost(env, secId) {
   const cat = await catalog(env), sec = cat.sections.find((x) => x.id === secId);
   if (!sec) return null;
   const u = await botUser(env), P = pkgParts(sec), L = (pl) => `https://t.me/${u}?start=${pl}`;
-  const H = (t) => [{ text: t, callback_data: "noop" }];
+  const H = (t) => [{ text: t, url: `https://t.me/${u}` }];
   const kb = [H("📚 Yakuniy testlar – butun kitob")];
   for (const n of [100, 50, 30]) kb.push([{ text: `Kitob boʻyicha – ${n} talik`, url: L(`mx_${sec.id}_${P.a}_${P.b}_${n}`) }]);
   kb.push(H("📦 Jamlanma – 50 talik"));
   for (let k = 0; k < P.groups.length; k += 2) kb.push(P.groups.slice(k, k + 2).map(([x, y, lab]) => ({ text: `${lab}-mavzular`, url: L(`mx_${sec.id}_${x}_${y}_50`) })));
   kb.push(H("📝 Mavzular boʻyicha"));
-  const btns = P.tests.map((t, i) => ({ t, i, lab: topicNo(t, i) || (/kirish/i.test(t.t) ? "Kirish" : null) })).filter((x) => x.lab);
+  const btns = P.tests.map((t, i) => ({ t, i, lab: topicNo(t, i) ? topicNo(t, i) + (topicPart(t) ? "." + topicPart(t) : "") : (/kirish/i.test(t.t) ? "Kirish" : null) })).filter((x) => x.lab);
   for (let k = 0; k < btns.length; k += 4) kb.push(btns.slice(k, k + 4).map((x) => ({ text: x.lab, url: L("app_" + x.t.n) })));
   for (const [i, t] of P.tests.entries()) if (!topicNo(t, i) && !/kirish/i.test(t.t)) kb.push([{ text: t.t.replace(/^Ilova\.\s*/, "").slice(0, 40), url: L("app_" + t.n) }]);
-  const PT = { t6: "6-sinf «Qadimgi dunyo tarixi» (2022)", t7u: "7-sinf «Oʻzbekiston tarixi»", t7j: "7-sinf «Jahon tarixi»", t8u: "8-sinf «Oʻzbekiston tarixi»", t8j: "8-sinf «Jahon tarixi»", t9u: "9-sinf «Oʻzbekiston tarixi»", t9j: "9-sinf «Jahon tarixi»", t10j: "10-sinf «Jahon tarixi»" };
+  const PT = { t6: "6-sinf «Qadimgi dunyo tarixi» (2022)", t7u: "7-sinf «Oʻzbekiston tarixi»", t7j: "7-sinf «Jahon tarixi»", t8u: "8-sinf «Oʻzbekiston tarixi»", t8j: "8-sinf «Jahon tarixi»", t9u: "9-sinf «Oʻzbekiston tarixi»", t9j: "9-sinf «Jahon tarixi»", t10j: "10-sinf «Jahon tarixi»", ist6: "6-класс · История Древнего мира", ist7: "7-класс · Всемирная история", ist72: "7-класс · Всемирная история (2)", ist8: "8-класс · Всемирная история", ist7u: "7-класс · История Узбекистана", ist8u: "8-класс · История Узбекистана", ist9u: "9-класс · История Узбекистана" };
   const text = `${sec.icon} <b>${esc(PT[sec.id] || sec.title)} — QUIZ testlar</b>\n\nKerakli testning ustiga bosing — test ochiladi. Undan <b>«Bu testni boshlash»</b> (oʻzingiz ishlaysiz), <b>«Ilovada ishlash»</b> yoki <b>«Guruhda boshlash»</b> (guruhingizda birga) ni tanlang.\n\n👨‍🏫 Testlar muallifi: <b>Ustoz Yoʻldashali Isaqov</b> · @yoldashaliisakov`;
   return { text, kb };
 }
