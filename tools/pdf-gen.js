@@ -58,7 +58,7 @@ function html(name, d, sec, mode = 'full') {
   </style></head><body>
   <div class="hd"><img src="${face}"><div><div class="b">ISAKOV SCHOOL</div><div class="s">Ustoz Yo‘ldashali Isaqov · t.me/yoldashaliisakov</div></div></div>
   <h1>${esc(d.title || name)}</h1><div class="meta">${esc(sec)} · ${qs.length} ta savol · Telegram bot: @${'BOTNAME'}</div>
-  ${mode === 'ans' ? `<div class="meta">🔑 Javoblar kaliti${d.parts ? '' : ''}</div>` + ansBody(d) + wrA(d) : body + wrQ(d) + (mode === 'q' ? '' : `<h2>Javoblar</h2>${keys}${iz}`)}</body></html>`;
+  ${mode === 'ans' ? `<div class="meta">🔑 Javoblar kaliti${d.parts ? '' : ''}</div>` + ansBody(d) + wrA(d) : body + wrQ(d) + (mode === 'q' ? '' : `<h2>Javoblar</h2>${d.parts ? ansBody(d) : keys + iz}${wrA(d)}`)}</body></html>`;
 }
 (async () => {
   const only = process.argv[2];
@@ -78,7 +78,7 @@ function html(name, d, sec, mode = 'full') {
   const need = (f) => process.env.FORCE || !fs.existsSync(f);
   for (const s of cat.sections) {
     if (s.nopdf) continue; // PDFsiz bo‘limlar (ingliz tili)
-    const split = SPLIT(s.id), secT = `${s.icon} ${s.title}`;
+    const split = SPLIT(s.id) && !s.ansend, secT = `${s.icon} ${s.title}`;
     for (const t of s.tests) {
       if (only && t.n !== only && s.id !== only) continue;
       const main = `${R}/pdf/${t.n}.pdf`, ans = `${R}/pdf/${t.n}-javob.pdf`;
@@ -87,11 +87,12 @@ function html(name, d, sec, mode = 'full') {
       await render(main, html(t.n, d, secT, split ? 'q' : 'full'));
       if (split) { await render(ans, html(t.n, { ...d, title: d.title + ' — javoblar' }, secT, 'ans')); lock(ans); }
     }
-    if (split && (!only || only === s.id)) { // butun kitob: bitta PDF + parolli javoblar
+    if ((split || s.ansend) && (!only || only === s.id)) { // butun kitob: bitta PDF + parolli javoblar
       const main = `${R}/pdf/${s.id}.pdf`, ans = `${R}/pdf/${s.id}-javob.pdf`;
       if (!only && !need(main) && !need(ans)) continue;
       const parts = s.tests.map((t) => { const d = JSON.parse(fs.readFileSync(`${R}/${t.n}.json`, 'utf8')); return [t.t, d.questions]; });
       const all = { title: s.title + ' — butun kitob', questions: parts.flatMap((x) => x[1]), parts };
+      if (!split) { await render(main, html(s.id, all, secT, 'full')); continue; }
       await render(main, html(s.id, all, secT, 'q'));
       await render(ans, html(s.id, { ...all, title: s.title + ' — javoblar' }, secT, 'ans')); lock(ans);
     }

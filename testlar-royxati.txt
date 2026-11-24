@@ -820,6 +820,20 @@ Avtomatik: /avto 20 6-1..6-44  ·  Holat: /avto  ·  To'xtatish: /avto stop
 
 === Ingliz tili (English) ===
 
+— Mavzulashgan grammatika
+/quiz en-mav-1  —  1. Verb to be (Elementary) (30 ta)
+/quiz en-mav-2  —  2. Possessive adjectives & subject pronouns (Elementary) (30 ta)
+/quiz en-mav-3  —  3. Present Simple (Elementary) (30 ta)
+/quiz en-mav-4  —  4. Present Continuous (Elementary) (30 ta)
+/quiz en-mav-5  —  5. Past Simple (Elementary) (30 ta)
+/quiz en-mav-6  —  6. Future: will / going to (Pre-Intermediate) (30 ta)
+/quiz en-mav-7  —  7. Comparatives & superlatives (Pre-Intermediate) (30 ta)
+/quiz en-mav-8  —  8. Present Perfect (Pre-Intermediate) (30 ta)
+/quiz en-mav-9  —  9. Modal verbs (Pre-Intermediate) (30 ta)
+/quiz en-mav-10  —  10. Conditionals (Intermediate) (30 ta)
+/quiz en-mav-11  —  11. Passive voice (Intermediate) (30 ta)
+/quiz en-mav-12  —  12. Reported speech (Intermediate) (30 ta)
+
 — Articles (Elementary)
 /quiz en-art-1  —  Articles (29 ta)
 
