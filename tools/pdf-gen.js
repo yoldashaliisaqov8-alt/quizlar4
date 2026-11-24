@@ -96,4 +96,7 @@ function html(name, d, sec, mode = 'full') {
     }
   }
   await b.close(); console.log(n, 'ta PDF');
+  // R2 ko'chirish ro'yxati (bot /pdfsync shu ro'yxat bo'yicha ishlaydi)
+  const fl = fs.readdirSync(R + '/pdf').filter((f) => f.endsWith('.pdf')).sort().map((f) => [f, fs.statSync(R + '/pdf/' + f).size]);
+  fs.writeFileSync(R + '/pdf-list.json', JSON.stringify(fl));
 })();

@@ -324,6 +324,52 @@ async function showSection(env, chat_id, message_id, id, page, user, pdf = false
   return tg(env, "sendMessage", body);
 }
 
+// PDF fayllar Cloudflare R2 omborida (binding PDF). Ombor ulanmagan bo'lsa — GitHub'dan.
+const pdfUrl = (env, f) => (env.PDF ? `${BOT_URL(env)}/pdf/${f}` : new URL(`pdf/${f}`, env.QUIZ_BASE_URL).href);
+async function servePdf(env, ctx, key) {
+  if (!/^[\w.-]+\.pdf$/.test(key)) return new Response("not found", { status: 404 });
+  const H = { "content-type": "application/pdf", "cache-control": "public, max-age=3600", "content-disposition": `inline; filename="${key}"` };
+  if (env.PDF) { const o = await env.PDF.get(key); if (o) return new Response(o.body, { headers: H }); }
+  const r = await fetch(new URL(`pdf/${key}`, env.QUIZ_BASE_URL).href);
+  if (!r.ok) return new Response("not found", { status: 404 });
+  if (env.PDF) { const [a, b] = r.body.tee(); ctx.waitUntil(env.PDF.put(key, b, { httpMetadata: { contentType: "application/pdf" } }).catch(() => {})); return new Response(a, { headers: H }); }
+  return new Response(r.body, { headers: H });
+}
+// GitHub'dagi PDFlarni R2 ga ko'chirish: /pdfsync → har daqiqada 25 tadan
+async function pdfSyncCmd(env, chat_id) {
+  if (!env.PDF) return send(env, chat_id, "❌ R2 ombori hali ulanmagan (binding <code>PDF</code> yo'q).");
+  await ensureLock(env);
+  await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('r2sync', ?)").bind(JSON.stringify({ i: 0, up: 0, ok: 0, bad: 0 })).run();
+  return send(env, chat_id, "☁️ PDFlarni R2 omboriga ko'chirish boshlandi. Har daqiqada 25 tadan — tugagach xabar beraman.");
+}
+async function pdfSyncTick(env) {
+  if (!env.PDF) return;
+  await ensureLock(env);
+  const row = await env.DB.prepare("SELECT v FROM settings WHERE k='r2sync'").first();
+  if (!row) return;
+  const st = JSON.parse(row.v);
+  const lr = await fetch(new URL("pdf-list.json?" + Date.now(), env.QUIZ_BASE_URL).href);
+  if (!lr.ok) throw new Error("pdf-list.json topilmadi");
+  const list = await lr.json();
+  for (const [f, size] of list.slice(st.i, st.i + 25)) {
+    st.i++;
+    const h = await env.PDF.head(f);
+    if (h && h.size === size) { st.ok++; continue; }
+    const r = await fetch(new URL(`pdf/${f}`, env.QUIZ_BASE_URL).href);
+    if (!r.ok) { st.bad++; continue; }
+    await env.PDF.put(f, r.body, { httpMetadata: { contentType: "application/pdf" } }); st.up++;
+  }
+  if (st.i >= list.length) {
+    await env.DB.prepare("DELETE FROM settings WHERE k='r2sync'").run();
+    return send(env, OWNER(env), `☁️ <b>R2 ko'chirish tugadi</b>
+
+📄 Jami: ${list.length}
+⬆️ Yuklandi: ${st.up}
+✅ Oldindan bor edi: ${st.ok}
+❌ Topilmadi: ${st.bad}`);
+  }
+  await env.DB.prepare("UPDATE settings SET v=? WHERE k='r2sync'").bind(JSON.stringify(st)).run();
+}
 const PDF_SPLIT = () => true; // hamma testlar: savollar va parolli javoblar alohida PDF
 async function pdfInfo(env, name) {
   const cat = await catalog(env);
@@ -354,7 +400,7 @@ ${split ? "Javoblar alohida, parolli PDF faylda 👇" : "Javoblar va izohlar —
 
 🤖 Test ishlash: @${u}`;
   const r = await tg(env, "sendDocument", {
-    chat_id, document: new URL(`pdf/${name}${ans ? "-javob" : ""}.pdf`, env.QUIZ_BASE_URL).href, parse_mode: "HTML", caption,
+    chat_id, document: pdfUrl(env, `${name}${ans ? "-javob" : ""}.pdf`), parse_mode: "HTML", caption,
     ...(kb.length ? { reply_markup: { inline_keyboard: kb } } : {}),
   });
   if (!r.ok) await send(env, chat_id, "❌ Bu test uchun PDF hali tayyor emas.");
@@ -1562,6 +1608,7 @@ async function onMessage(env, msg) {
     const t0 = (msg.text || "").trim().split(/\s+/)[0].split("@")[0].toLowerCase();
     if (t0 === "/bekor") { await ensureLock(env); await env.DB.prepare("DELETE FROM settings WHERE k IN ('bc_wait','kanal_wait','kanal_pending')").run(); return send(env, msg.chat.id, "❌ Bekor qilindi."); }
     if (t0 === "/kanal") return kanalStart(env, msg, msg.text || "");
+    if (t0 === "/pdfsync") return pdfSyncCmd(env, msg.chat.id);
     if (t0 === "/paket") return paketCmd(env, msg.chat.id, ((msg.text || "").trim().split(/\s+/)[1] || "").trim());
     if (!t0.startsWith("/") || msg.photo) {
       await ensureLock(env);
@@ -2263,6 +2310,7 @@ export default {
   async fetch(req, env, ctx) {
     const url = new URL(req.url);
 
+    if (url.pathname.startsWith("/pdf/") && req.method === "GET") return servePdf(env, ctx, decodeURIComponent(url.pathname.slice(5)));
     if (url.pathname.startsWith("/api/")) {
       try { return await handleApi(env, req, url); } catch (e) { console.log("api", e); return jres({ error: "server" }, 500); }
     }
@@ -2308,6 +2356,7 @@ export default {
           { command: "havola", description: "🔗 Test havolasi: /havola ms-19-11" },
           { command: "kanal", description: "📣 Testni kanalga quiz qilib yuborish" },
           { command: "paket", description: "📦 Boʻlim testlari posti (tugmalar): /paket t6" },
+          { command: "pdfsync", description: "☁️ PDFlarni R2 omboriga koʻchirish" },
           { command: "xabar", description: "📢 Hammaga xabar" },
           { command: "excel", description: "📊 A'zolar jadvali" },
           { command: "testnatija", description: "📊 Test natijalari Excelda: /testnatija ms-20-11" },
@@ -2392,5 +2441,6 @@ export default {
     ctx.waitUntil(dailyQTick(env).catch((e) => alertOwner(env, "kun savoli", e)));
     ctx.waitUntil(remindTick(env).catch((e) => alertOwner(env, "eslatmalar", e)));
     ctx.waitUntil(outboxTick(env).catch((e) => alertOwner(env, "xabarlar navbati", e)));
+    ctx.waitUntil(pdfSyncTick(env).catch((e) => alertOwner(env, "PDF ko'chirish", e)));
   },
 };
