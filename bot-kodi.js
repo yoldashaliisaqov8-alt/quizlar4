@@ -297,7 +297,7 @@ async function showSection(env, chat_id, message_id, id, page, user, pdf = false
   page = Math.min(Math.max(0, page), pages - 1);
   const P = pdf ? "sp" : "s"; // callback prefiksi
   const kb = [];
-  if (pdf && PDF_SPLIT(id)) kb.push([await btn(env, chat_id, "📚 Butun kitob – PDF", `p:${id}`, `p_${id}`), await btn(env, chat_id, "🔑 Javoblar – PDF", `pj:${id}`, `pj_${id}`)]);
+  if (pdf && PDF_SPLIT(id) && !sec.nopdf) kb.push([await btn(env, chat_id, "📚 Butun kitob – PDF", `p:${id}`, `p_${id}`), await btn(env, chat_id, "🔑 Javoblar – PDF", `pj:${id}`, `pj_${id}`)]);
   for (const t of sec.tests.slice(page * per, page * per + per)) {
     let label = `${pdf ? "📄 " : ""}${t.t} (${t.c})`;
     if (label.length > 60) label = (pdf ? "📄 " : "") + t.t.slice(0, 50) + "… (" + t.c + ")";
@@ -310,7 +310,7 @@ async function showSection(env, chat_id, message_id, id, page, user, pdf = false
     if (page < pages - 1) nav.push(await btn(env, chat_id, "Keyingi ▶️", `${P}:${id}:${page + 1}`, `${P}_${id}_${page + 1}`));
     kb.push(nav);
   }
-  if (chat_id > 0) kb.push([pdf
+  if (chat_id > 0 && !sec.nopdf) kb.push([pdf
     ? await btn(env, chat_id, "📝 Test ishlash rejimi", `s:${id}:${page}`, `s_${id}_${page}`)
     : await btn(env, chat_id, "📄 PDF yuklab olish", `sp:${id}:${page}`, `sp_${id}_${page}`)]);
   const grp = (cat.groups || []).find((x) => x.secs.includes(id));
@@ -382,15 +382,16 @@ const PDF_SPLIT = () => true; // hamma testlar: savollar va parolli javoblar alo
 async function pdfInfo(env, name) {
   const cat = await catalog(env);
   const s = cat.sections.find((x) => x.id === name);
-  if (s) return { sec: s.id, title: s.title + " — butun kitob", c: s.tests.reduce((a, t) => a + t.c, 0), whole: true };
+  if (s) return { sec: s.id, title: s.title + " — butun kitob", c: s.tests.reduce((a, t) => a + t.c, 0), whole: true, nopdf: !!s.nopdf };
   const sec = cat.sections.find((x) => x.tests.some((t) => t.n === name));
   const t = sec && sec.tests.find((x) => x.n === name);
-  return { sec: sec ? sec.id : "*", title: t ? t.t : name, c: t ? t.c : 0 };
+  return { sec: sec ? sec.id : "*", title: t ? t.t : name, c: t ? t.c : 0, nopdf: !!(sec && sec.nopdf) };
 }
 async function sendPdf(env, chat_id, name, user, ans = false) {
   const I = await pdfInfo(env, name);
   if (user && !(await gate(env, user, chat_id, I.sec, `${ans ? "pj" : "p"}:${name}`))) return;
   if (user && !(await needSubs(env, user, chat_id, name))) return;
+  if (I.nopdf) return send(env, chat_id, "📄 Bu bo'lim testlari uchun PDF yo'q — testni bot yoki ilovada ishlang.");
   const u = await botUser(env), split = PDF_SPLIT(I.sec);
   if (ans && !split) ans = false;
   const kb = [];
@@ -1149,7 +1150,7 @@ async function saveDQ(env, c) {
 }
 async function pickDaily(env, secs) {
   const cat = await catalog(env);
-  const def = (cat.groups || []).filter((g) => g.id !== "huquq" && !/^ist/.test(g.id)).flatMap((g) => g.secs).filter((id) => id !== "attru");
+  const def = (cat.groups || []).filter((g) => g.id !== "huquq" && !/^(ist|en)/.test(g.id)).flatMap((g) => g.secs).filter((id) => id !== "attru");
   const ids = secs && secs.length ? secs : def;
   const pool = cat.sections.filter((x) => ids.includes(x.id)).flatMap((x) => x.tests.map((t) => ({ sec: x, t })));
   for (let k = 0; k < 6 && pool.length; k++) {
@@ -1582,7 +1583,7 @@ async function startDaily10(env, chat_id, user) {
   const cat = await catalog(env);
   const secIds = new Set();
   for (const r of rs) for (const x of cat.sections) if (x.tests.some((t) => t.n === r.quiz_id)) secIds.add(x.id);
-  let pool = cat.sections.filter((x) => (secIds.size ? secIds.has(x.id) : x.id !== "attru" && !/^ist/.test(x.id))).flatMap((x) => x.tests.map((t) => t.n));
+  let pool = cat.sections.filter((x) => (secIds.size ? secIds.has(x.id) : x.id !== "attru" && !/^(ist|en)/.test(x.id))).flatMap((x) => x.tests.map((t) => t.n));
   if (!pool.length) pool = cat.sections.flatMap((x) => x.tests.map((t) => t.n));
   for (let k = 0; k < 4 && qs.length < 10; k++) {
     const n = pool[Math.floor(Math.random() * pool.length)];
@@ -2230,7 +2231,7 @@ async function pkgPost(env, secId) {
   const u = await botUser(env), P = pkgParts(sec), L = (pl) => `https://t.me/${u}?start=${pl}`;
   const H = (t) => [{ text: t, url: `https://t.me/${u}` }];
   const kb = [H("📚 Yakuniy testlar – butun kitob")];
-  if (PDF_SPLIT(sec.id)) kb.push([{ text: "📄 Butun kitob – PDF", url: L("p_" + sec.id) }, { text: "🔑 Javoblar – PDF", url: L("pj_" + sec.id) }]);
+  if (PDF_SPLIT(sec.id) && !sec.nopdf) kb.push([{ text: "📄 Butun kitob – PDF", url: L("p_" + sec.id) }, { text: "🔑 Javoblar – PDF", url: L("pj_" + sec.id) }]);
   for (const n of [100, 50, 30]) kb.push([{ text: `Kitob boʻyicha – ${n} talik`, url: L(`mx_${sec.id}_${P.a}_${P.b}_${n}`) }]);
   kb.push(H("📦 Jamlanma – 50 talik"));
   for (let k = 0; k < P.groups.length; k += 2) kb.push(P.groups.slice(k, k + 2).map(([x, y, lab]) => ({ text: `${lab}-mavzular`, url: L(`mx_${sec.id}_${x}_${y}_50`) })));
@@ -2296,7 +2297,7 @@ async function appOpen(env, chat_id, name) {
   const t = cat.sections.flatMap((x) => x.tests).find((x) => x.n === name);
   if (!t) return appCmd(env, chat_id);
   return send(env, chat_id, `📝 <b>${esc(t.t)}</b>\n\n❓ ${t.c} ta test savoli${t.w ? ` + ✍️ ${t.w} ta yozma javobli savol` : ""}\n\nIlovada imtihon rejimi, taymer va natija tahlili bor 👇`,
-    { reply_markup: { inline_keyboard: [[{ text: "▶️ Bu testni boshlash (" + t.c + " ta savol)", callback_data: "q:" + name }], [{ text: "📱 Ilovada ishlash", web_app: { url: APP_URL(env) + "#t=" + name } }], [{ text: "👥 Guruhda boshlash", url: `https://t.me/${await botUser(env)}?startgroup=${name}` }], [{ text: "📄 PDF yuklash", callback_data: "p:" + name }, ...(PDF_SPLIT((await pdfInfo(env, name)).sec) ? [{ text: "🔑 Javoblar (parolli)", callback_data: "pj:" + name }] : [])]] } });
+    { reply_markup: { inline_keyboard: [[{ text: "▶️ Bu testni boshlash (" + t.c + " ta savol)", callback_data: "q:" + name }], [{ text: "📱 Ilovada ishlash", web_app: { url: APP_URL(env) + "#t=" + name } }], [{ text: "👥 Guruhda boshlash", url: `https://t.me/${await botUser(env)}?startgroup=${name}` }], ...((await pdfInfo(env, name)).nopdf ? [] : [[{ text: "📄 PDF yuklash", callback_data: "p:" + name }, { text: "🔑 Javoblar (parolli)", callback_data: "pj:" + name }]])] } });
 }
 async function havolaCmd(env, chat_id, name) {
   const cat = await catalog(env);

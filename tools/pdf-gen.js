@@ -77,6 +77,7 @@ function html(name, d, sec, mode = 'full') {
   };
   const need = (f) => process.env.FORCE || !fs.existsSync(f);
   for (const s of cat.sections) {
+    if (s.nopdf) continue; // PDFsiz bo‘limlar (ingliz tili)
     const split = SPLIT(s.id), secT = `${s.icon} ${s.title}`;
     for (const t of s.tests) {
       if (only && t.n !== only && s.id !== only) continue;
