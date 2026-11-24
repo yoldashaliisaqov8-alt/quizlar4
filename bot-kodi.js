@@ -2216,14 +2216,19 @@ async function kanalSend(env, chat_id) {
 // ---------- 📦 Test paketlari (kanal posti: tugmalar to'ri) ----------
 const PKG_GROUPS = { t6: [[1, 5, "1–5"], [6, 10, "6–10"], [11, 16, "11–16"], [17, 20, "17–21"], [21, 25, "22–28"], [26, 29, "29–32"], [30, 32, "33–37"], [33, 36, "38–42"], [37, 40, "43–46"], [41, 43, "47–50"]] };
 const topicNo = (t, i) => (String(t.t).match(/^(\d+(?:[–-]\d+)?)(?:-mavzu|\.\s)/) || [])[1];
+const tailNo = (t) => (String(t.t).match(/\s(\d+)$/) || [])[1]; // "Phrasal Verbs 12" → 12
 const topicPart = (t) => (String(t.t).match(/\((\d+)\/\d+\)\s*$/) || [])[1];
 function pkgParts(sec) {
   const tests = sec.tests, core = [];
   tests.forEach((t, i) => { if (topicNo(t, i)) core.push(i); });
+  const tail = !core.length && tests.every((t) => tailNo(t));
+  if (tail) tests.forEach((t, i) => core.push(i));
+  const no = (t) => topicNo(t) || (tail ? tailNo(t) : null);
   const a = core[0], b = core[core.length - 1];
   let groups = PKG_GROUPS[sec.id];
-  if (!groups) { groups = []; for (let k = 0; k < core.length; k += 5) { const ch = core.slice(k, k + 5); groups.push([ch[0], ch[ch.length - 1], `${topicNo(tests[ch[0]])}–${String(topicNo(tests[ch[ch.length - 1]])).split(/[–-]/).pop()}`]); } }
-  return { tests, core, a, b, groups };
+  const gs = Math.max(5, Math.ceil(core.length / 20)); // tugmalar soni Telegram chegarasidan oshmasin
+  if (!groups) { groups = []; for (let k = 0; k < core.length; k += gs) { const ch = core.slice(k, k + gs); const x1 = no(tests[ch[0]]), y1 = String(no(tests[ch[ch.length - 1]])).split(/[–-]/).pop(); groups.push([ch[0], ch[ch.length - 1], x1 === y1 ? x1 : `${x1}–${y1}`]); } }
+  return { tests, core, a, b, groups, no };
 }
 async function pkgPost(env, secId) {
   const cat = await catalog(env), sec = cat.sections.find((x) => x.id === secId);
@@ -2235,10 +2240,10 @@ async function pkgPost(env, secId) {
   for (const n of [100, 50, 30]) kb.push([{ text: `Kitob boʻyicha – ${n} talik`, url: L(`mx_${sec.id}_${P.a}_${P.b}_${n}`) }]);
   kb.push(H("📦 Jamlanma – 50 talik"));
   for (let k = 0; k < P.groups.length; k += 2) kb.push(P.groups.slice(k, k + 2).map(([x, y, lab]) => ({ text: `${lab}-mavzular`, url: L(`mx_${sec.id}_${x}_${y}_50`) })));
-  kb.push(H("📝 Mavzular boʻyicha"));
-  const btns = P.tests.map((t, i) => ({ t, i, lab: topicNo(t, i) ? topicNo(t, i) + (topicPart(t) ? "." + topicPart(t) : "") : (/kirish/i.test(t.t) ? "Kirish" : null) })).filter((x) => x.lab);
-  for (let k = 0; k < btns.length; k += 4) kb.push(btns.slice(k, k + 4).map((x) => ({ text: x.lab, url: L("app_" + x.t.n) })));
-  for (const [i, t] of P.tests.entries()) if (!topicNo(t, i) && !/kirish/i.test(t.t)) kb.push([{ text: t.t.replace(/^Ilova\.\s*/, "").slice(0, 40), url: L("app_" + t.n) }]);
+  if (P.tests.length <= 60) kb.push(H("📝 Mavzular boʻyicha"));
+  const btns = P.tests.map((t, i) => ({ t, i, lab: P.no(t) ? P.no(t) + (topicPart(t) ? "." + topicPart(t) : "") : (/kirish/i.test(t.t) ? "Kirish" : null) })).filter((x) => x.lab);
+  if (P.tests.length <= 60) for (let k = 0; k < btns.length; k += 4) kb.push(btns.slice(k, k + 4).map((x) => ({ text: x.lab, url: L("app_" + x.t.n) })));
+  if (P.tests.length <= 60) for (const [i, t] of P.tests.entries()) if (!P.no(t) && !/kirish/i.test(t.t)) kb.push([{ text: t.t.replace(/^Ilova\.\s*/, "").slice(0, 40), url: L("app_" + t.n) }]);
   const PT = { t6: "6-sinf «Qadimgi dunyo tarixi» (2022)", t7u: "7-sinf «Oʻzbekiston tarixi»", t7j: "7-sinf «Jahon tarixi»", t8u: "8-sinf «Oʻzbekiston tarixi»", t8j: "8-sinf «Jahon tarixi»", t9u: "9-sinf «Oʻzbekiston tarixi»", t9j: "9-sinf «Jahon tarixi»", t10j: "10-sinf «Jahon tarixi»", ist6: "6-класс · История Древнего мира", ist7: "7-класс · Всемирная история", ist72: "7-класс · Всемирная история (2)", ist8: "8-класс · Всемирная история", ist7u: "7-класс · История Узбекистана", ist8u: "8-класс · История Узбекистана", ist9u: "9-класс · История Узбекистана" };
   const text = `${sec.icon} <b>${esc(PT[sec.id] || sec.title)} — QUIZ testlar</b>\n\nKerakli testning ustiga bosing — test ochiladi. Undan <b>«Bu testni boshlash»</b> (oʻzingiz ishlaysiz), <b>«Ilovada ishlash»</b> yoki <b>«Guruhda boshlash»</b> (guruhingizda birga) ni tanlang.\n\n👨‍🏫 Testlar muallifi: <b>Ustoz Yoʻldashali Isaqov</b> · @yoldashaliisakov`;
   return { text, kb };
