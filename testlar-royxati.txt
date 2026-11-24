@@ -1756,6 +1756,11 @@ Avtomatik: /avto 20 6-1..6-44  ·  Holat: /avto  ·  To'xtatish: /avto stop
 
 === Olimpiada testlari (Sardorbek Xalilov) ===
 
+— 8-sinf O'zbekiston tarixi
+/quiz olim8u-1  —  1-variant (olimpiada viloyat bosqichi namunasi) (40 ta)
+/quiz olim8u-2  —  2-variant (olimpiada viloyat bosqichi namunasi) (40 ta)
+/quiz olim8u-3  —  3-variant (olimpiada viloyat bosqichi namunasi) (40 ta)
+
 — 8-sinf Jahon tarixi
 /quiz olim8-1  —  1-variant: 1–6-mavzular (Fransiya, Angliya va Germaniya) (40 ta)
 /quiz olim8-2  —  2-variant: 7–15-mavzular (Yevropa va Osiyo davlatlari) (40 ta)
