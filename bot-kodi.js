@@ -1150,7 +1150,7 @@ async function saveDQ(env, c) {
 }
 async function pickDaily(env, secs) {
   const cat = await catalog(env);
-  const def = (cat.groups || []).filter((g) => g.id !== "huquq" && !/^(ist|en)/.test(g.id)).flatMap((g) => g.secs).filter((id) => id !== "attru");
+  const def = (cat.groups || []).filter((g) => g.id !== "huquq" && !/^(ist|en|ot)/.test(g.id)).flatMap((g) => g.secs).filter((id) => id !== "attru");
   const ids = secs && secs.length ? secs : def;
   const pool = cat.sections.filter((x) => ids.includes(x.id)).flatMap((x) => x.tests.map((t) => ({ sec: x, t })));
   for (let k = 0; k < 6 && pool.length; k++) {
@@ -1583,7 +1583,7 @@ async function startDaily10(env, chat_id, user) {
   const cat = await catalog(env);
   const secIds = new Set();
   for (const r of rs) for (const x of cat.sections) if (x.tests.some((t) => t.n === r.quiz_id)) secIds.add(x.id);
-  let pool = cat.sections.filter((x) => (secIds.size ? secIds.has(x.id) : x.id !== "attru" && !/^(ist|en)/.test(x.id))).flatMap((x) => x.tests.map((t) => t.n));
+  let pool = cat.sections.filter((x) => (secIds.size ? secIds.has(x.id) : x.id !== "attru" && !/^(ist|en|ot)/.test(x.id))).flatMap((x) => x.tests.map((t) => t.n));
   if (!pool.length) pool = cat.sections.flatMap((x) => x.tests.map((t) => t.n));
   for (let k = 0; k < 4 && qs.length < 10; k++) {
     const n = pool[Math.floor(Math.random() * pool.length)];
