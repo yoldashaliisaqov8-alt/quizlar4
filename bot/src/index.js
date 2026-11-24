@@ -297,6 +297,7 @@ async function showSection(env, chat_id, message_id, id, page, user, pdf = false
   page = Math.min(Math.max(0, page), pages - 1);
   const P = pdf ? "sp" : "s"; // callback prefiksi
   const kb = [];
+  if (pdf && PDF_SPLIT(id)) kb.push([await btn(env, chat_id, "📚 Butun kitob – PDF", `p:${id}`, `p_${id}`), await btn(env, chat_id, "🔑 Javoblar – PDF", `pj:${id}`, `pj_${id}`)]);
   for (const t of sec.tests.slice(page * per, page * per + per)) {
     let label = `${pdf ? "📄 " : ""}${t.t} (${t.c})`;
     if (label.length > 60) label = (pdf ? "📄 " : "") + t.t.slice(0, 50) + "… (" + t.c + ")";
@@ -317,26 +318,47 @@ async function showSection(env, chat_id, message_id, id, page, user, pdf = false
   kb.push([await btn(env, chat_id, "⬅️ Orqaga", back ? `g:${grp.id}` : "m", back ? `g_${grp.id}` : "menu")]);
   const body = {
     chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb },
-    text: `${sec.icon} <b>${esc(sec.title)}</b>\n${sec.tests.length} ta test · ` + (pdf ? "📄 PDF olish uchun mavzuni tanlang 👇\n<i>(PDF oxirida javoblar va izohlar bor)</i>" : "mavzuni tanlang 👇"),
+    text: `${sec.icon} <b>${esc(sec.title)}</b>\n${sec.tests.length} ta test · ` + (pdf ? "📄 PDF olish uchun mavzuni tanlang 👇\n<i>" + (PDF_SPLIT(id) ? "(javoblar alohida, parolli PDF)" : "(PDF oxirida javoblar va izohlar bor)") + "</i>" : "mavzuni tanlang 👇"),
   };
   if (message_id) return tg(env, "editMessageText", { ...body, message_id });
   return tg(env, "sendMessage", body);
 }
 
-async function sendPdf(env, chat_id, name, user) {
-  const sec = (await sectionOf(env, name)) || "*";
-  if (user && !(await gate(env, user, chat_id, sec, `p:${name}`))) return;
-  if (user && !(await needSubs(env, user, chat_id, name))) return;
+const PDF_SPLIT = (id) => /^ist/.test(String(id || "")); // savollar va parolli javoblar alohida PDF
+async function pdfInfo(env, name) {
   const cat = await catalog(env);
-  const t = cat.sections.flatMap((x) => x.tests).find((x) => x.n === name);
-  const u = await botUser(env);
+  const s = cat.sections.find((x) => x.id === name);
+  if (s) return { sec: s.id, title: s.title + " — butun kitob", c: s.tests.reduce((a, t) => a + t.c, 0), whole: true };
+  const sec = cat.sections.find((x) => x.tests.some((t) => t.n === name));
+  const t = sec && sec.tests.find((x) => x.n === name);
+  return { sec: sec ? sec.id : "*", title: t ? t.t : name, c: t ? t.c : 0 };
+}
+async function sendPdf(env, chat_id, name, user, ans = false) {
+  const I = await pdfInfo(env, name);
+  if (user && !(await gate(env, user, chat_id, I.sec, `${ans ? "pj" : "p"}:${name}`))) return;
+  if (user && !(await needSubs(env, user, chat_id, name))) return;
+  const u = await botUser(env), split = PDF_SPLIT(I.sec);
+  if (ans && !split) ans = false;
+  const kb = [];
+  if (split && !ans) kb.push([await btn(env, chat_id, "🔑 Javoblar (parolli PDF)", `pj:${name}`, `pj_${name}`)]);
+  if (!I.whole) kb.push([await btn(env, chat_id, "📝 Shu testni ishlash", `q:${name}`, name)]);
+  const head = `📄 <b>${esc(I.title)}</b>${I.c ? ` · ${I.c} ta savol` : ""}`;
+  const caption = ans
+    ? `🔑 <b>Javoblar:</b> ${esc(I.title)}
+
+🔒 Fayl parolli. Parolni ustozingizdan oling: @ustoztarix1
+
+🤖 Test ishlash: @${u}`
+    : `${head}
+${split ? "Javoblar alohida, parolli PDF faylda 👇" : "Javoblar va izohlar — fayl oxirida."}
+
+🤖 Test ishlash: @${u}`;
   const r = await tg(env, "sendDocument", {
-    chat_id, document: new URL(`pdf/${name}.pdf`, env.QUIZ_BASE_URL).href, parse_mode: "HTML",
-    caption: `📄 <b>${esc(t ? t.t : name)}</b>${t ? ` · ${t.c} ta savol` : ""}\nJavoblar va izohlar — fayl oxirida.\n\n🤖 Test ishlash: @${u}`,
-    reply_markup: { inline_keyboard: [[await btn(env, chat_id, "📝 Shu testni ishlash", `q:${name}`, name)]] },
+    chat_id, document: new URL(`pdf/${name}${ans ? "-javob" : ""}.pdf`, env.QUIZ_BASE_URL).href, parse_mode: "HTML", caption,
+    ...(kb.length ? { reply_markup: { inline_keyboard: kb } } : {}),
   });
   if (!r.ok) await send(env, chat_id, "❌ Bu test uchun PDF hali tayyor emas.");
-  else await bump(env, "_pdf");
+  else await bump(env, ans ? "_pdfj" : "_pdf");
 }
 
 // Guruh uchun katalog: tugma bosilsa, bot shaxsiy chatda ochiladi va mavzular chiqadi
@@ -401,6 +423,7 @@ async function onCallback(env, cq) {
   if (d.startsWith("g:")) return showGroup(env, chat.id, mid, d.slice(2), user);
   if (d.startsWith("s:")) { const [, id, pg] = d.split(":"); return showSection(env, chat.id, mid, id, +pg || 0, user); }
   if (d.startsWith("sp:")) { const [, id, pg] = d.split(":"); return showSection(env, chat.id, mid, id, +pg || 0, user, true); }
+  if (d.startsWith("pj:") && chat.type === "private") { const name = d.slice(3); if (/^[\w-]+$/.test(name)) return sendPdf(env, chat.id, name, cq.from, true); }
   if (d.startsWith("p:") && chat.type === "private") { const name = d.slice(2); if (/^[\w-]+$/.test(name)) return sendPdf(env, chat.id, name, cq.from); }
   if (d.startsWith("q:") && chat.type === "private") {
     const name = d.slice(2);
@@ -1614,6 +1637,7 @@ async function onMessage(env, msg) {
     if (arg === "xato") return startMistakes(env, chat_id, msg.from);
     if (arg && arg.startsWith("g_")) return showGroup(env, chat_id, null, arg.slice(2), msg.from);
     if (arg && arg.startsWith("sp_")) { const [id, pg] = arg.slice(3).split("_"); return showSection(env, chat_id, null, id, +pg || 0, msg.from, true); }
+    if (arg && arg.startsWith("pj_")) return sendPdf(env, chat_id, arg.slice(3), msg.from, true);
     if (arg && arg.startsWith("p_")) return sendPdf(env, chat_id, arg.slice(2), msg.from);
     if (arg && arg.startsWith("s_")) { const [id, pg] = arg.slice(2).split("_"); return showSection(env, chat_id, null, id, +pg || 0, msg.from); }
     if (arg && arg !== "menu" && /^[\w-]+$/.test(arg)) return startPrivate(env, chat_id, arg, msg.from);
@@ -2151,6 +2175,7 @@ async function pkgPost(env, secId) {
   const u = await botUser(env), P = pkgParts(sec), L = (pl) => `https://t.me/${u}?start=${pl}`;
   const H = (t) => [{ text: t, url: `https://t.me/${u}` }];
   const kb = [H("📚 Yakuniy testlar – butun kitob")];
+  if (PDF_SPLIT(sec.id)) kb.push([{ text: "📄 Butun kitob – PDF", url: L("p_" + sec.id) }, { text: "🔑 Javoblar – PDF", url: L("pj_" + sec.id) }]);
   for (const n of [100, 50, 30]) kb.push([{ text: `Kitob boʻyicha – ${n} talik`, url: L(`mx_${sec.id}_${P.a}_${P.b}_${n}`) }]);
   kb.push(H("📦 Jamlanma – 50 talik"));
   for (let k = 0; k < P.groups.length; k += 2) kb.push(P.groups.slice(k, k + 2).map(([x, y, lab]) => ({ text: `${lab}-mavzular`, url: L(`mx_${sec.id}_${x}_${y}_50`) })));
@@ -2216,7 +2241,7 @@ async function appOpen(env, chat_id, name) {
   const t = cat.sections.flatMap((x) => x.tests).find((x) => x.n === name);
   if (!t) return appCmd(env, chat_id);
   return send(env, chat_id, `📝 <b>${esc(t.t)}</b>\n\n❓ ${t.c} ta test savoli${t.w ? ` + ✍️ ${t.w} ta yozma javobli savol` : ""}\n\nIlovada imtihon rejimi, taymer va natija tahlili bor 👇`,
-    { reply_markup: { inline_keyboard: [[{ text: "▶️ Bu testni boshlash (" + t.c + " ta savol)", callback_data: "q:" + name }], [{ text: "📱 Ilovada ishlash", web_app: { url: APP_URL(env) + "#t=" + name } }], [{ text: "👥 Guruhda boshlash", url: `https://t.me/${await botUser(env)}?startgroup=${name}` }]] } });
+    { reply_markup: { inline_keyboard: [[{ text: "▶️ Bu testni boshlash (" + t.c + " ta savol)", callback_data: "q:" + name }], [{ text: "📱 Ilovada ishlash", web_app: { url: APP_URL(env) + "#t=" + name } }], [{ text: "👥 Guruhda boshlash", url: `https://t.me/${await botUser(env)}?startgroup=${name}` }], [{ text: "📄 PDF yuklash", callback_data: "p:" + name }, ...(PDF_SPLIT((await pdfInfo(env, name)).sec) ? [{ text: "🔑 Javoblar (parolli)", callback_data: "pj:" + name }] : [])]] } });
 }
 async function havolaCmd(env, chat_id, name) {
   const cat = await catalog(env);

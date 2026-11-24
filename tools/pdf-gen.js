@@ -5,9 +5,21 @@ const cat = JSON.parse(fs.readFileSync(R + '/catalog.json', 'utf8'));
 const face = 'data:image/png;base64,' + fs.readFileSync(__dirname + '/face.png').toString('base64');
 const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const L = 'ABCDEFGHIJ';
-function html(name, d, sec) {
+function ansBody(d) {
+  return (d.parts || [[null, d.questions]]).map(([h, list]) => (h ? `<h4 class="ph">${esc(h)}</h4>` : '') +
+    `<div class="keys">${list.map((q, i) => `<span><b>${i + 1}</b>–${L[q.answer]}</span>`).join('')}</div>` +
+    (list.some(q => q.explanation) ? `<div class="iz">${list.map((q, i) => q.explanation ? `<p><b>${i + 1}. ${L[q.answer]})</b> ${esc(q.explanation)}</p>` : '').join('')}</div>` : '')).join('');
+}
+const SPLIT = (id) => /^ist/.test(id); // savollar va parolli javoblar alohida
+const { execFileSync } = require('child_process');
+function lock(f) {
+  const pw = process.env.PDF_PASS;
+  if (!pw) { console.warn('PDF_PASS yo‘q — javoblar paroli qo‘yilmadi:', f); return; }
+  const t = f + '.tmp'; execFileSync('qpdf', ['--encrypt', pw, pw + '-own-' + Date.now(), '256', '--', f, t]); fs.renameSync(t, f);
+}
+function html(name, d, sec, mode = 'full') {
   const qs = d.questions;
-  const body = qs.map((q, i) => {
+  const body = (d.parts || [[null, qs]]).map(([h, list], pi) => (h ? `<h4 class="ph">${esc(h)}</h4>` : '') + list.map((q, i) => {
     const img = q.image ? `<img src="file://${R}/${q.image}">` : '';
     const lines = esc(q.q).replace(/\n?\(Jadval rasmda 👆\)/, '').split('\n');
     const tab = lines.filter(l => l.includes(' | '));
@@ -17,7 +29,7 @@ function html(name, d, sec) {
       qtxt = pre.join('<br>') + `<table>${tab.map((r, k) => `<tr>${r.split(' | ').map(c => k ? `<td>${c}</td>` : `<th>${c}</th>`).join('')}</tr>`).join('')}</table>` + post.join('<br>');
     } else qtxt = lines.join('<br>');
     return `<div class="q"><div class="qt"><b>${i + 1}.</b> ${qtxt}</div>${img}<div class="op">${q.options.map((o, k) => `<div>${L[k]}) ${esc(o)}</div>`).join('')}</div></div>`;
-  }).join('');
+  }).join('')).join('');
   const keys = `<div class="keys">${qs.map((q, i) => `<span><b>${i + 1}</b>–${L[q.answer]}</span>`).join('')}</div>`;
   const iz = qs.some(q => q.explanation) ? `<h3>Izohlar</h3><div class="iz">${qs.map((q, i) => q.explanation ? `<p><b>${i + 1}. ${L[q.answer]})</b> ${esc(q.explanation)}</p>` : '').join('')}</div>` : '';
   return `<!doctype html><html><head><meta charset="utf-8"><style>
@@ -33,29 +45,47 @@ function html(name, d, sec) {
   table{border-collapse:collapse;margin:5px 0;font-size:9.5pt} td,th{border:1px solid #b9c3d3;padding:3px 6px;text-align:left;vertical-align:top} th{background:#e9eef6}
   h2{page-break-before:always;font-family:Lora,serif;color:#0b1730;border-bottom:2.5px solid #c9a24a;padding-bottom:5px}
   .keys{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:11pt}.keys span{min-width:48px}
+  .ph{font-family:Lora,serif;font-size:12.5pt;color:#0b1730;margin:14px 0 6px;border-bottom:1.5px solid #e3d3a6;padding-bottom:3px;break-after:avoid}
   h3{font-family:Lora,serif;margin-top:16px} .iz p{margin:3px 0;font-size:9.5pt;break-inside:avoid}
   </style></head><body>
   <div class="hd"><img src="${face}"><div><div class="b">ISAKOV SCHOOL</div><div class="s">Ustoz Yo‘ldashali Isaqov · t.me/yoldashaliisakov</div></div></div>
   <h1>${esc(d.title || name)}</h1><div class="meta">${esc(sec)} · ${qs.length} ta savol · Telegram bot: @${'BOTNAME'}</div>
-  ${body}<h2>Javoblar</h2>${keys}${iz}</body></html>`;
+  ${mode === 'ans' ? `<div class="meta">🔑 Javoblar kaliti${d.parts ? '' : ''}</div>` + ansBody(d) : body + (mode === 'q' ? '' : `<h2>Javoblar</h2>${keys}${iz}`)}</body></html>`;
 }
 (async () => {
   const only = process.argv[2];
   const b = await chromium.launch(); const p = await b.newPage();
   fs.mkdirSync(R + '/pdf', { recursive: true });
   let n = 0;
-  for (const s of cat.sections) for (const t of s.tests) {
-    if (only && t.n !== only) continue;
-    if (!only && !process.env.FORCE && fs.existsSync(`${R}/pdf/${t.n}.pdf`)) continue;
-    const d = JSON.parse(fs.readFileSync(`${R}/${t.n}.json`, 'utf8'));
+  const render = async (file, h) => {
     const f = path.join(require('os').tmpdir(), 'isakov-h.html');
-    fs.writeFileSync(f, html(t.n, d, `${s.icon} ${s.title}`).replace('@BOTNAME', process.env.BOTNAME || 'Isakov school Quiz'));
+    fs.writeFileSync(f, h.replace('@BOTNAME', process.env.BOTNAME || 'Isakov school Quiz'));
     await p.goto('file://' + f);
-    await p.pdf({ path: `${R}/pdf/${t.n}.pdf`, format: 'A4', printBackground: true, displayHeaderFooter: true,
+    await p.pdf({ path: file, format: 'A4', printBackground: true, displayHeaderFooter: true,
       headerTemplate: '<span></span>',
       footerTemplate: `<div style="width:100%;font-size:8px;color:#7a6020;padding:0 14mm;display:flex;justify-content:space-between;font-family:Inter,sans-serif"><span>Isakov school · t.me/yoldashaliisakov</span><span><span class="pageNumber"></span> / <span class="totalPages"></span></span></div>` ,
       margin: { top: '14mm', bottom: '16mm', left: '14mm', right: '14mm' } });
     n++;
+  };
+  const need = (f) => process.env.FORCE || !fs.existsSync(f);
+  for (const s of cat.sections) {
+    const split = SPLIT(s.id), secT = `${s.icon} ${s.title}`;
+    for (const t of s.tests) {
+      if (only && t.n !== only && s.id !== only) continue;
+      const main = `${R}/pdf/${t.n}.pdf`, ans = `${R}/pdf/${t.n}-javob.pdf`;
+      if (!only && !need(main) && (!split || !need(ans))) continue;
+      const d = JSON.parse(fs.readFileSync(`${R}/${t.n}.json`, 'utf8'));
+      await render(main, html(t.n, d, secT, split ? 'q' : 'full'));
+      if (split) { await render(ans, html(t.n, { ...d, title: d.title + ' — javoblar' }, secT, 'ans')); lock(ans); }
+    }
+    if (split && (!only || only === s.id)) { // butun kitob: bitta PDF + parolli javoblar
+      const main = `${R}/pdf/${s.id}.pdf`, ans = `${R}/pdf/${s.id}-javob.pdf`;
+      if (!only && !need(main) && !need(ans)) continue;
+      const parts = s.tests.map((t) => { const d = JSON.parse(fs.readFileSync(`${R}/${t.n}.json`, 'utf8')); return [t.t, d.questions]; });
+      const all = { title: s.title + ' — butun kitob', questions: parts.flatMap((x) => x[1]), parts };
+      await render(main, html(s.id, all, secT, 'q'));
+      await render(ans, html(s.id, { ...all, title: s.title + ' — javoblar' }, secT, 'ans')); lock(ans);
+    }
   }
   await b.close(); console.log(n, 'ta PDF');
 })();
