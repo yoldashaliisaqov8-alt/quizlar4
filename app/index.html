@@ -1240,7 +1240,7 @@ async function refreshMe() { const m = await api("me"); if (m) { ME = m; if (m.d
 
 async function boot() {
   render('<div class="spin"></div>');
-  const [c, m] = await Promise.all([fetch(BASE + "catalog.json").then((r) => r.json()).catch(() => null), api("me")]);
+  const [c, m] = await Promise.all([fetch(BASE + "catalog.json?v=" + Math.floor(Date.now() / 3e5)).then((r) => r.json()).catch(() => null), api("me")]);
   if (!c) return render('<div class="empty">Yuklanmadi. Internetni tekshirib, ilovani qayta oching.</div>');
   CAT = c; ME = m;
   if (ME && ME.extra && ME.extra.length) mergeExtra(ME.extra);
