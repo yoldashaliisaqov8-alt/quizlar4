@@ -332,7 +332,7 @@ async function servePdf(env, ctx, key) {
   if (env.PDF) { const o = await env.PDF.get(key); if (o) return new Response(o.body, { headers: H }); }
   const r = await fetch(new URL(`pdf/${key}`, env.QUIZ_BASE_URL).href);
   if (!r.ok) return new Response("not found", { status: 404 });
-  if (env.PDF) { const [a, b] = r.body.tee(); ctx.waitUntil(env.PDF.put(key, b, { httpMetadata: { contentType: "application/pdf" } }).catch(() => {})); return new Response(a, { headers: H }); }
+  if (env.PDF) { const buf = await r.arrayBuffer(); ctx.waitUntil(env.PDF.put(key, buf, { httpMetadata: { contentType: "application/pdf" } }).catch(() => {})); return new Response(buf, { headers: H }); }
   return new Response(r.body, { headers: H });
 }
 // GitHub'dagi PDFlarni R2 ga ko'chirish: /pdfsync → har daqiqada 25 tadan
@@ -355,9 +355,17 @@ async function pdfSyncTick(env) {
     st.i++;
     const h = await env.PDF.head(f);
     if (h && h.size === size) { st.ok++; continue; }
-    const r = await fetch(new URL(`pdf/${f}`, env.QUIZ_BASE_URL).href);
-    if (!r.ok) { st.bad++; continue; }
-    await env.PDF.put(f, r.body, { httpMetadata: { contentType: "application/pdf" } }); st.up++;
+    let done = false;
+    for (let k = 0; k < 2 && !done; k++) {
+      try {
+        const r = await fetch(new URL(`pdf/${f}`, env.QUIZ_BASE_URL).href);
+        if (!r.ok) break;
+        const buf = await r.arrayBuffer(); // uzunligi aniq bo'lishi uchun to'liq o'qiladi
+        await env.PDF.put(f, buf, { httpMetadata: { contentType: "application/pdf" } });
+        done = true;
+      } catch (e) { console.log("r2 put", f, e && e.message); }
+    }
+    if (done) st.up++; else { st.bad++; (st.fail = st.fail || []).push(f); }
   }
   if (st.i >= list.length) {
     await env.DB.prepare("DELETE FROM settings WHERE k='r2sync'").run();
@@ -366,7 +374,7 @@ async function pdfSyncTick(env) {
 📄 Jami: ${list.length}
 ⬆️ Yuklandi: ${st.up}
 ✅ Oldindan bor edi: ${st.ok}
-❌ Topilmadi: ${st.bad}`);
+❌ Yuklanmadi: ${st.bad}${st.fail && st.fail.length ? "\n<code>" + esc(st.fail.slice(0, 20).join(", ")) + "</code>\n\nQayta urinish: /pdfsync" : ""}`);
   }
   await env.DB.prepare("UPDATE settings SET v=? WHERE k='r2sync'").bind(JSON.stringify(st)).run();
 }
