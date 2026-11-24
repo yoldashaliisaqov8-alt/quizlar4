@@ -11,6 +11,9 @@
   "d1_databases": [
     { "binding": "DB", "database_name": "quizdb", "database_id": "5629a061-f187-44f0-a004-a5ee22445e7e" }
   ],
+  "r2_buckets": [
+    { "binding": "PDF", "bucket_name": "isakov-pdf" }
+  ],
   "queues": {
     "producers": [{ "binding": "TIMER", "queue": "quiz-timer" }],
     "consumers": [{ "queue": "quiz-timer", "max_batch_size": 1, "max_batch_timeout": 1 }]
