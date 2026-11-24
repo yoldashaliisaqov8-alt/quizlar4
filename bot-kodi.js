@@ -503,7 +503,7 @@ async function parolCmd(env, msg, text) {
     const c = await env.DB.prepare("SELECT COUNT(*) AS n FROM access WHERE ver=?").bind(L.ver).first();
     return send(env, msg.chat.id, L.pw
       ? `🔒 <b>Parol yoqiq</b>\nParol: <code>${esc(L.pw)}</code>\nYopiq bo'limlar: ${L.secs.length ? esc(L.secs.join(", ")) : "hammasi"}\nKirgan o'quvchilar: ${c ? c.n : 0} nafar\n\nO'zgartirish: <code>/parol yangi_soz</code>\nFaqat ayrim bo'limlar: <code>/parol soz att hd</code>\nO'chirish: <code>/parol off</code>`
-      : "🔓 Parol o'chiq — testlar hamma uchun ochiq.\n\nYoqish: <code>/parol soz</code>\nFaqat ayrim bo'limlar: <code>/parol soz att attru hd</code>\n\nBo'lim kodlari: t6 t7u t7j t8u t8j t9u t9j att attru hd h8 h9 h10 h11");
+      : "🔓 Parol o'chiq — testlar hamma uchun ochiq.\n\nYoqish: <code>/parol soz</code>\nFaqat ayrim bo'limlar: <code>/parol soz att attru hd</code>\n\nBo'lim kodlari: t6 t7u t7j t8u t8j t9u t9j att attru hd h8 h9 h10 h11 ist6 ist7 ist72 ist8 ist7u ist8u ist9u");
   }
   if (parts[0].toLowerCase() === "off") {
     L.pw = ""; await env.DB.prepare("INSERT OR REPLACE INTO settings (k, v) VALUES ('lock', ?)").bind(JSON.stringify(L)).run(); LOCK_T = 0;
@@ -1072,7 +1072,7 @@ async function saveDQ(env, c) {
 }
 async function pickDaily(env, secs) {
   const cat = await catalog(env);
-  const def = (cat.groups || []).filter((g) => g.id !== "huquq").flatMap((g) => g.secs).filter((id) => id !== "attru");
+  const def = (cat.groups || []).filter((g) => g.id !== "huquq" && !/^ist/.test(g.id)).flatMap((g) => g.secs).filter((id) => id !== "attru");
   const ids = secs && secs.length ? secs : def;
   const pool = cat.sections.filter((x) => ids.includes(x.id)).flatMap((x) => x.tests.map((t) => ({ sec: x, t })));
   for (let k = 0; k < 6 && pool.length; k++) {
@@ -1505,7 +1505,7 @@ async function startDaily10(env, chat_id, user) {
   const cat = await catalog(env);
   const secIds = new Set();
   for (const r of rs) for (const x of cat.sections) if (x.tests.some((t) => t.n === r.quiz_id)) secIds.add(x.id);
-  let pool = cat.sections.filter((x) => (secIds.size ? secIds.has(x.id) : x.id !== "attru")).flatMap((x) => x.tests.map((t) => t.n));
+  let pool = cat.sections.filter((x) => (secIds.size ? secIds.has(x.id) : x.id !== "attru" && !/^ist/.test(x.id))).flatMap((x) => x.tests.map((t) => t.n));
   if (!pool.length) pool = cat.sections.flatMap((x) => x.tests.map((t) => t.n));
   for (let k = 0; k < 4 && qs.length < 10; k++) {
     const n = pool[Math.floor(Math.random() * pool.length)];

@@ -410,7 +410,8 @@ function recentCard() {
 const SUBJECTS = [
   { id: "tarix", icon: "🏛", title: "Tarix", groups: ["tarix", "ms", "att", "atama", "yangi"] },
   { id: "huquq", icon: "⚖️", title: "Huquq", groups: ["huquq"] },
-  ...[["geografiya", "🌍", "Geografiya"], ["onatili", "📖", "Ona tili va adabiyot"], ["matematika", "➗", "Matematika"], ["fizika", "⚛️", "Fizika"], ["kimyo", "🧪", "Kimyo"], ["biologiya", "🧬", "Biologiya"], ["ingliz", "🇬🇧", "Ingliz tili"], ["rus", "🇷🇺", "Rus tili"], ["informatika", "💻", "Informatika"], ["iqtisod", "📊", "Iqtisodiyot asoslari"], ["tarbiya", "🤝", "Tarbiya"], ["chizmachilik", "📐", "Chizmachilik"]].map(([id, icon, title]) => ({ id, icon, title, soon: true })),
+  { id: "istoriya", icon: "🇷🇺", title: "Istoriya", groups: ["istj", "istu", "istatt"] },
+  ...[["geografiya", "🌍", "Geografiya"], ["onatili", "📖", "Ona tili va adabiyot"], ["matematika", "➗", "Matematika"], ["fizika", "⚛️", "Fizika"], ["kimyo", "🧪", "Kimyo"], ["biologiya", "🧬", "Biologiya"], ["ingliz", "🇬🇧", "Ingliz tili"], ["rus", "🔤", "Rus tili"], ["informatika", "💻", "Informatika"], ["iqtisod", "📊", "Iqtisodiyot asoslari"], ["tarbiya", "🤝", "Tarbiya"], ["chizmachilik", "📐", "Chizmachilik"]].map(([id, icon, title]) => ({ id, icon, title, soon: true })),
 ];
 function subjGroups(sj) { return CAT.groups.map((g, i) => ({ g, i })).filter(({ g }) => sj.groups.includes(g.id) || (sj.id === "tarix" && !SUBJECTS.some((x) => x.groups && x.groups.includes(g.id)))); }
 function mySubj() { let m = LS.get("isk_subj", null); if (!m) { m = ["tarix"]; if (((ME && ME.results) || []).some((r) => /^huquq/.test(r.quiz_id))) m.push("huquq"); } return m.filter((id) => SUBJECTS.some((x) => x.id === id && !x.soon)); }
