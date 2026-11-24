@@ -1754,7 +1754,16 @@ Avtomatik: /avto 20 6-1..6-44  ·  Holat: /avto  ·  To'xtatish: /avto stop
 — Uslubiyat va matn
 /quiz ot-uslub-1  —  Uslubiyat va matn (14 ta)
 
-=== Olimpiada testlari · Jahon tarixi 9-sinf (Sardorbek Xalilov) ===
+=== Olimpiada testlari (Sardorbek Xalilov) ===
+
+— 8-sinf Jahon tarixi
+/quiz olim8-1  —  1-variant: 1–6-mavzular (Fransiya, Angliya va Germaniya) (40 ta)
+/quiz olim8-2  —  2-variant: 7–15-mavzular (Yevropa va Osiyo davlatlari) (40 ta)
+/quiz olim8-3  —  3-variant: 16–25-mavzular (Osiyo, Afrika, Amerika va madaniyat) (40 ta)
+/quiz olim8-4  —  4-variant: 1–18-mavzular (umumlashtiruvchi, I–II bob) (40 ta)
+/quiz olim8-5  —  5-variant: 1–25-mavzular (to'liq qo'llanma bo'yicha yakuniy) (40 ta)
+
+— 9-sinf Jahon tarixi
 /quiz olim-ms-1  —  Milliy sertifikat 1-variant (9-sinf) (35 ta)
 /quiz olim-ms-2  —  Milliy sertifikat 2-variant (9-sinf) (35 ta)
 /quiz olim-ms-3  —  Milliy sertifikat 3-variant (9-sinf) (35 ta)
