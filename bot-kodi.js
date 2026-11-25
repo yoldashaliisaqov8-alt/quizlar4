@@ -257,17 +257,41 @@ async function btn(env, chat_id, text, cb, start) {
   if (String(chat_id) === OWNER(env)) return { text, url: `https://t.me/${await botUser(env)}?start=${start}` };
   return { text, callback_data: cb };
 }
-const MAIN_TEXT = "📚 <b>ISAKOV SCHOOL — testlar</b>\n\nBo'limni tanlang, so'ng mavzuni bosing — test shu yerda boshlanadi 👇\n\n🔍 <i>Qidirish uchun mavzu nomini yozing, masalan: Amir Temur</i>";
+const MAIN_TEXT = "📚 <b>ISAKOV SCHOOL — testlar</b>\n\nFanni tanlang, so'ng mavzuni bosing — test shu yerda boshlanadi 👇\n\n🔍 <i>Qidirish uchun mavzu nomini yozing, masalan: Amir Temur</i>";
 
+// Fanlar: bosh menyuda faqat fan nomlari; fan → guruhlar → bo'limlar → testlar
+function subjects(cat) {
+  const S = (cat.subjects || []).map((x) => ({ ...x, groups: x.groups.filter((id) => (cat.groups || []).some((g) => g.id === id)) })).filter((x) => x.groups.length);
+  const used = new Set(S.flatMap((x) => x.groups));
+  const rest = (cat.groups || []).filter((g) => !used.has(g.id)).map((g) => g.id);
+  if (rest.length) { const t = S.find((x) => x.id === "tarix"); if (t) t.groups.push(...rest); else S.push(...rest.map((id) => { const g = cat.groups.find((x) => x.id === id); return { id: "g-" + id, icon: g.icon, title: g.title, groups: [id] }; })); }
+  return S;
+}
+const subjOfGroup = (cat, gid) => subjects(cat).find((x) => x.groups.includes(gid));
+const grpCount = (cat, g) => g.secs.reduce((a, id) => a + ((cat.sections.find((x) => x.id === id) || { tests: [] }).tests.length), 0);
+const subjCount = (cat, sj) => sj.groups.reduce((a, gid) => a + grpCount(cat, cat.groups.find((g) => g.id === gid)), 0);
 async function showMain(env, chat_id, message_id, user) {
   if (user && !(await gate(env, user, chat_id, "*", "m"))) return;
   const cat = await catalog(env);
-  const cnt = (g) => g.secs.reduce((a, id) => a + ((cat.sections.find((x) => x.id === id) || { tests: [] }).tests.length), 0);
   const kb = [];
-  for (const g of cat.groups || []) kb.push([await btn(env, chat_id, `${g.icon} ${g.title} (${cnt(g)})`, `g:${g.id}`, `g_${g.id}`)]);
+  for (const sj of subjects(cat)) kb.push([await btn(env, chat_id, `${sj.icon} ${sj.title} (${subjCount(cat, sj)})`, `f:${sj.id}`, `f_${sj.id}`)]);
   if (chat_id > 0) kb.push([await btn(env, chat_id, "📈 Natijalarim", "r", "natija"), await btn(env, chat_id, "🧩 Xatolarim", "x", "xato")]);
   if (chat_id > 0) kb.push([await btn(env, chat_id, "🎁 Do'stni taklif qilish", "ref", "taklif"), await btn(env, chat_id, "👩‍🏫 O'qituvchilar uchun", "tch", "oqituvchi")]);
   const body = { chat_id, text: MAIN_TEXT, parse_mode: "HTML", reply_markup: { inline_keyboard: kb } };
+  if (message_id) return tg(env, "editMessageText", { ...body, message_id });
+  return tg(env, "sendMessage", body);
+}
+async function showSubject(env, chat_id, message_id, sid, user) {
+  if (user && !(await gate(env, user, chat_id, "*", `f:${sid}`))) return;
+  const cat = await catalog(env);
+  const sj = subjects(cat).find((x) => x.id === sid);
+  if (!sj) return showMain(env, chat_id, message_id, user);
+  if (sj.groups.length === 1) return showGroup(env, chat_id, message_id, sj.groups[0], user);
+  const kb = [];
+  for (const g of sj.groups.map((id) => cat.groups.find((x) => x.id === id)))
+    kb.push([await btn(env, chat_id, `${g.icon} ${g.title.replace(/^(Istoriya|English|Ona tili): /, "")} (${grpCount(cat, g)})`, `g:${g.id}`, `g_${g.id}`)]);
+  kb.push([await btn(env, chat_id, "⬅️ Bosh menyu", "m", "menu")]);
+  const body = { chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb }, text: `${sj.icon} <b>${esc(sj.title)}</b>\n\nBo'limni tanlang 👇` };
   if (message_id) return tg(env, "editMessageText", { ...body, message_id });
   return tg(env, "sendMessage", body);
 }
@@ -281,7 +305,8 @@ async function showGroup(env, chat_id, message_id, gid, user) {
   const kb = [];
   for (const sec of g.secs.map((id) => cat.sections.find((x) => x.id === id)).filter(Boolean))
     kb.push([await btn(env, chat_id, `${sec.icon} ${sec.title} (${sec.tests.length})`, `s:${sec.id}:0`, `s_${sec.id}`)]);
-  kb.push([await btn(env, chat_id, "⬅️ Bosh menyu", "m", "menu")]);
+  const sjb = subjOfGroup(cat, gid);
+  kb.push([sjb && sjb.groups.length > 1 ? await btn(env, chat_id, "⬅️ Orqaga", `f:${sjb.id}`, `f_${sjb.id}`) : await btn(env, chat_id, "⬅️ Bosh menyu", "m", "menu")]);
   const body = { chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb },
     text: `${g.icon} <b>${esc(g.title)}</b>\n\nBo'limni tanlang 👇` };
   if (message_id) return tg(env, "editMessageText", { ...body, message_id });
@@ -315,7 +340,8 @@ async function showSection(env, chat_id, message_id, id, page, user, pdf = false
     : await btn(env, chat_id, "📄 PDF yuklab olish", `sp:${id}:${page}`, `sp_${id}_${page}`)]);
   const grp = (cat.groups || []).find((x) => x.secs.includes(id));
   const back = grp && grp.secs.length > 1;
-  kb.push([await btn(env, chat_id, "⬅️ Orqaga", back ? `g:${grp.id}` : "m", back ? `g_${grp.id}` : "menu")]);
+  const sjs = grp && subjOfGroup(cat, grp.id), up = !back && sjs && sjs.groups.length > 1;
+  kb.push([await btn(env, chat_id, "⬅️ Orqaga", back ? `g:${grp.id}` : up ? `f:${sjs.id}` : "m", back ? `g_${grp.id}` : up ? `f_${sjs.id}` : "menu")]);
   const body = {
     chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb },
     text: `${sec.icon} <b>${esc(sec.title)}</b>\n${sec.tests.length} ta test · ` + (pdf ? "📄 PDF olish uchun mavzuni tanlang 👇\n<i>" + (PDF_SPLIT(id) && !sec.ansend ? "(javoblar alohida, parolli PDF)" : "(PDF oxirida javoblar va izohlar bor)") + "</i>" : "mavzuni tanlang 👇"),
@@ -421,7 +447,7 @@ async function postGroupMenu(env, chat_id) {
   const cat = await catalog(env);
   const u = await botUser(env);
   const cnt = (g) => g.secs.reduce((a, id) => a + ((cat.sections.find((x) => x.id === id) || { tests: [] }).tests.length), 0);
-  const kb = (cat.groups || []).map((g) => [{ text: `${g.icon} ${g.title} (${cnt(g)})`, url: `https://t.me/${u}?start=g_${g.id}` }]);
+  const kb = subjects(cat).map((sj) => [{ text: `${sj.icon} ${sj.title} (${subjCount(cat, sj)})`, url: `https://t.me/${u}?start=f_${sj.id}` }]);
   const total = cat.sections.reduce((a, x) => a + x.tests.length, 0);
   const r = await tg(env, "sendMessage", {
     chat_id, parse_mode: "HTML", reply_markup: { inline_keyboard: kb }, protect_content: false,
@@ -475,6 +501,7 @@ async function onCallback(env, cq) {
   if (d === "tch" && chat.type === "private") return teacherGuide(env, chat.id);
   if (d === "ref" && chat.type === "private") return showReferral(env, chat.id, cq.from);
   if (d === "x" && chat.type === "private") return startMistakes(env, chat.id, cq.from);
+  if (d.startsWith("f:")) return showSubject(env, chat.id, mid, d.slice(2), user);
   if (d.startsWith("g:")) return showGroup(env, chat.id, mid, d.slice(2), user);
   if (d.startsWith("s:")) { const [, id, pg] = d.split(":"); return showSection(env, chat.id, mid, id, +pg || 0, user); }
   if (d.startsWith("sp:")) { const [, id, pg] = d.split(":"); return showSection(env, chat.id, mid, id, +pg || 0, user, true); }
@@ -1691,6 +1718,7 @@ async function onMessage(env, msg) {
       return r.ok ? null : send(env, chat_id, "Natijalar topilmadi.");
     }
     if (arg === "xato") return startMistakes(env, chat_id, msg.from);
+    if (arg && arg.startsWith("f_")) return showSubject(env, chat_id, null, arg.slice(2), msg.from);
     if (arg && arg.startsWith("g_")) return showGroup(env, chat_id, null, arg.slice(2), msg.from);
     if (arg && arg.startsWith("sp_")) { const [id, pg] = arg.slice(3).split("_"); return showSection(env, chat_id, null, id, +pg || 0, msg.from, true); }
     if (arg && arg.startsWith("pj_")) return sendPdf(env, chat_id, arg.slice(3), msg.from, true);
