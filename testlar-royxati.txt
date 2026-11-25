@@ -6,6 +6,7 @@ Avtomatik: /avto 20 6-1..6-44  ·  Holat: /avto  ·  To'xtatish: /avto stop
 === Milliy sertifikat (Tarix) · variantlar ===
 /quiz ms-14-11  —  Milliy sertifikat 14.11.2026 (35 ta)
 /quiz ms-15-11  —  Milliy sertifikat 15.11.2026 (35 ta)
+/quiz ms-25-11  —  Milliy sertifikat — 2026-yil 25-noyabr (murakkab variant) (35 ta + 10 yozma)
 /quiz ms-20-11  —  Milliy sertifikat — 2026-yil 20-noyabr (35 ta)
 /quiz ms-31-10-1  —  Milliy sertifikat — 2026-yil 31-oktyabr, 1-smena (35 ta)
 /quiz ms-31-10-2  —  Milliy sertifikat — 2026-yil 31-oktyabr, 2-smena (35 ta)
