@@ -413,6 +413,7 @@ const SUBJECTS = [
   { id: "istoriya", icon: "🇷🇺", title: "Istoriya", groups: ["istj", "istu", "istatt"] },
   { id: "ingliz", icon: "🇬🇧", title: "Ingliz tili", groups: ["enm", "eng", "env"] },
   { id: "onatili", icon: "📖", title: "Ona tili va adabiyot", groups: ["ottil", "otadab", "otmix"] },
+  { id: "chqbt", icon: "🎖", title: "CHQBT", groups: ["chqbt"] },
   ...[["geografiya", "🌍", "Geografiya"], ["matematika", "➗", "Matematika"], ["fizika", "⚛️", "Fizika"], ["kimyo", "🧪", "Kimyo"], ["biologiya", "🧬", "Biologiya"], ["rus", "🔤", "Rus tili"], ["informatika", "💻", "Informatika"], ["iqtisod", "📊", "Iqtisodiyot asoslari"], ["tarbiya", "🤝", "Tarbiya"], ["chizmachilik", "📐", "Chizmachilik"]].map(([id, icon, title]) => ({ id, icon, title, soon: true })),
 ];
 function subjGroups(sj) { return CAT.groups.map((g, i) => ({ g, i })).filter(({ g }) => sj.groups.includes(g.id) || (sj.id === "tarix" && !SUBJECTS.some((x) => x.groups && x.groups.includes(g.id)))); }
