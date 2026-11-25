@@ -444,7 +444,8 @@ const SUBJECTS = [
   { id: "tarbiya", icon: "🤝", title: "Tarbiya", groups: ["tarbiya"] },
   { id: "biologiya", icon: "🧬", title: "Biologiya", groups: ["bio"] },
   { id: "kimyo", icon: "🧪", title: "Kimyo", groups: ["kimyo"] },
-  ...[["geografiya", "🌍", "Geografiya"], ["matematika", "➗", "Matematika"], ["fizika", "⚛️", "Fizika"], ["rus", "🔤", "Rus tili"], ["informatika", "💻", "Informatika"], ["iqtisod", "📊", "Iqtisodiyot asoslari"], ["chizmachilik", "📐", "Chizmachilik"]].map(([id, icon, title]) => ({ id, icon, title, soon: true })),
+  { id: "rus", icon: "🔤", title: "Rus tili", groups: ["rus"] },
+  ...[["geografiya", "🌍", "Geografiya"], ["matematika", "➗", "Matematika"], ["fizika", "⚛️", "Fizika"], ["informatika", "💻", "Informatika"], ["iqtisod", "📊", "Iqtisodiyot asoslari"], ["chizmachilik", "📐", "Chizmachilik"]].map(([id, icon, title]) => ({ id, icon, title, soon: true })),
 ];
 function subjGroups(sj) { return CAT.groups.map((g, i) => ({ g, i })).filter(({ g }) => sj.groups.includes(g.id) || (sj.id === "tarix" && !SUBJECTS.some((x) => x.groups && x.groups.includes(g.id)))); }
 function mySubj() { let m = LS.get("isk_subj", null); if (!m) { m = ["tarix"]; if (((ME && ME.results) || []).some((r) => /^huquq/.test(r.quiz_id))) m.push("huquq"); } return m.filter((id) => SUBJECTS.some((x) => x.id === id && !x.soon)); }
