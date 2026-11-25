@@ -260,7 +260,7 @@ async function btn(env, chat_id, text, cb, start) {
 const MAIN_TEXT = "📚 <b>ISAKOV SCHOOL — testlar</b>\n\nFanni tanlang, so'ng mavzuni bosing — test shu yerda boshlanadi 👇\n\n🔍 <i>Qidirish uchun mavzu nomini yozing, masalan: Amir Temur</i>";
 
 // Fanlar: bosh menyuda faqat fan nomlari; fan → guruhlar → bo'limlar → testlar
-const SUBJ_DEFAULT = [{"id": "tarix", "icon": "🏛", "title": "Tarix", "groups": ["ms", "att", "olimp", "tarix", "atama", "yangi"]}, {"id": "huquq", "icon": "⚖️", "title": "Huquq", "groups": ["huquq"]}, {"id": "istoriya", "icon": "🇷🇺", "title": "Istoriya (rus tilida)", "groups": ["istj", "istu", "istatt"]}, {"id": "ingliz", "icon": "🇬🇧", "title": "Ingliz tili", "groups": ["enm", "eng", "env"]}, {"id": "onatili", "icon": "📖", "title": "Ona tili va adabiyot", "groups": ["ottil", "otadab", "otmix"]}, {"id": "chqbt", "icon": "🎖", "title": "CHQBT", "groups": ["chqbt"]}];
+const SUBJ_DEFAULT = [{"id": "tarix", "icon": "🏛", "title": "Tarix", "groups": ["ms", "att", "olimp", "tarix", "atama", "yangi"]}, {"id": "huquq", "icon": "⚖️", "title": "Huquq", "groups": ["huquq"]}, {"id": "istoriya", "icon": "🇷🇺", "title": "Istoriya (rus tilida)", "groups": ["istj", "istu", "istatt"]}, {"id": "ingliz", "icon": "🇬🇧", "title": "Ingliz tili", "groups": ["enm", "eng", "env"]}, {"id": "onatili", "icon": "📖", "title": "Ona tili va adabiyot", "groups": ["ottil", "otadab", "otmix"]}, {"id": "chqbt", "icon": "🎖", "title": "CHQBT", "groups": ["chqbt"]}, {"id": "tarbiya", "icon": "🤝", "title": "Tarbiya", "groups": ["tarbiya"]}];
 function subjects(cat) {
   const S = (cat.subjects || SUBJ_DEFAULT).map((x) => ({ ...x, groups: x.groups.filter((id) => (cat.groups || []).some((g) => g.id === id)) })).filter((x) => x.groups.length);
   const used = new Set(S.flatMap((x) => x.groups));
@@ -1178,7 +1178,7 @@ async function saveDQ(env, c) {
 }
 async function pickDaily(env, secs) {
   const cat = await catalog(env);
-  const def = (cat.groups || []).filter((g) => g.id !== "huquq" && !/^(ist|en|ot|chqbt)/.test(g.id)).flatMap((g) => g.secs).filter((id) => id !== "attru");
+  const def = (cat.groups || []).filter((g) => g.id !== "huquq" && !/^(ist|en|ot|chqbt|tarbiya)/.test(g.id)).flatMap((g) => g.secs).filter((id) => id !== "attru");
   const ids = secs && secs.length ? secs : def;
   const pool = cat.sections.filter((x) => ids.includes(x.id)).flatMap((x) => x.tests.map((t) => ({ sec: x, t })));
   for (let k = 0; k < 6 && pool.length; k++) {
@@ -1611,7 +1611,7 @@ async function startDaily10(env, chat_id, user) {
   const cat = await catalog(env);
   const secIds = new Set();
   for (const r of rs) for (const x of cat.sections) if (x.tests.some((t) => t.n === r.quiz_id)) secIds.add(x.id);
-  let pool = cat.sections.filter((x) => (secIds.size ? secIds.has(x.id) : x.id !== "attru" && !/^(ist|en|ot|cq)/.test(x.id))).flatMap((x) => x.tests.map((t) => t.n));
+  let pool = cat.sections.filter((x) => (secIds.size ? secIds.has(x.id) : x.id !== "attru" && !/^(ist|en|ot|cq|tb)/.test(x.id))).flatMap((x) => x.tests.map((t) => t.n));
   if (!pool.length) pool = cat.sections.flatMap((x) => x.tests.map((t) => t.n));
   for (let k = 0; k < 4 && qs.length < 10; k++) {
     const n = pool[Math.floor(Math.random() * pool.length)];

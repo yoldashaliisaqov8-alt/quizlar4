@@ -414,7 +414,8 @@ const SUBJECTS = [
   { id: "ingliz", icon: "🇬🇧", title: "Ingliz tili", groups: ["enm", "eng", "env"] },
   { id: "onatili", icon: "📖", title: "Ona tili va adabiyot", groups: ["ottil", "otadab", "otmix"] },
   { id: "chqbt", icon: "🎖", title: "CHQBT", groups: ["chqbt"] },
-  ...[["geografiya", "🌍", "Geografiya"], ["matematika", "➗", "Matematika"], ["fizika", "⚛️", "Fizika"], ["kimyo", "🧪", "Kimyo"], ["biologiya", "🧬", "Biologiya"], ["rus", "🔤", "Rus tili"], ["informatika", "💻", "Informatika"], ["iqtisod", "📊", "Iqtisodiyot asoslari"], ["tarbiya", "🤝", "Tarbiya"], ["chizmachilik", "📐", "Chizmachilik"]].map(([id, icon, title]) => ({ id, icon, title, soon: true })),
+  { id: "tarbiya", icon: "🤝", title: "Tarbiya", groups: ["tarbiya"] },
+  ...[["geografiya", "🌍", "Geografiya"], ["matematika", "➗", "Matematika"], ["fizika", "⚛️", "Fizika"], ["kimyo", "🧪", "Kimyo"], ["biologiya", "🧬", "Biologiya"], ["rus", "🔤", "Rus tili"], ["informatika", "💻", "Informatika"], ["iqtisod", "📊", "Iqtisodiyot asoslari"], ["chizmachilik", "📐", "Chizmachilik"]].map(([id, icon, title]) => ({ id, icon, title, soon: true })),
 ];
 function subjGroups(sj) { return CAT.groups.map((g, i) => ({ g, i })).filter(({ g }) => sj.groups.includes(g.id) || (sj.id === "tarix" && !SUBJECTS.some((x) => x.groups && x.groups.includes(g.id)))); }
 function mySubj() { let m = LS.get("isk_subj", null); if (!m) { m = ["tarix"]; if (((ME && ME.results) || []).some((r) => /^huquq/.test(r.quiz_id))) m.push("huquq"); } return m.filter((id) => SUBJECTS.some((x) => x.id === id && !x.soon)); }
