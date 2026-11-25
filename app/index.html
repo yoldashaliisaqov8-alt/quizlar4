@@ -254,6 +254,7 @@ body.playing .tabbar{display:none}
 .warn{background:color-mix(in srgb,var(--bad) 10%,var(--card));border-radius:14px;padding:10px 12px;font-size:13px;margin-top:10px}
 .chart{width:100%;height:auto;display:block}
 .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:#1d2433;color:#fff;padding:10px 16px;border-radius:12px;font-size:14px;z-index:9;max-width:90%}
+.replink{display:block;margin:10px 0 0 auto;background:none;border:0;color:var(--hint);font-size:13px;padding:4px 2px;cursor:pointer}.rlist .srow{display:flex;gap:10px;align-items:center;padding:10px 4px}
 </style>
 </head>
 <body>
@@ -293,7 +294,33 @@ const QC = new Map();
 async function getQuiz(n) {
   if (QC.has(n)) return QC.get(n);
   const r = n.startsWith("u-") ? await fetch(API + "test?n=" + encodeURIComponent(n), { headers: { "X-Init-Data": INIT } }) : await fetch(BASE + n + ".json"); if (!r.ok) throw new Error(n);
-  const d = await r.json(); QC.set(n, d); return d;
+  const d = applyFx(n, await r.json()); QC.set(n, d); return d;
+}
+// Ustoz tasdiqlagan tuzatishlar (⚠️ Xato savol xabarlari) — /api/me → fx
+function applyFx(n, d) {
+  const fx = ME && ME.fx && ME.fx[n]; if (!fx || !fx.length) return d;
+  const qs = (d.questions || []).slice(), wr = (d.written || []).slice();
+  for (const [i, act, ans] of fx) {
+    if (i >= 500) { if (wr[i - 500] && act === "del") wr[i - 500] = { ...wr[i - 500], _del: 1 }; continue; }
+    if (!qs[i]) continue;
+    if (act === "del") qs[i] = { ...qs[i], _del: 1 }; else if (act === "ans" && ans >= 0 && ans < qs[i].options.length) qs[i] = { ...qs[i], answer: ans };
+  }
+  return { ...d, questions: qs, written: wr };
+}
+function repQ(n, i) {
+  if (!n || n.startsWith("u-")) return;
+  const d = document.createElement("div"); d.className = "sheet-bg"; d.onclick = (e) => { if (e.target === d) d.remove(); };
+  d.innerHTML = `<div class="sheet"><div class="grab"></div><b>⚠️ Savolda nima xato?</b><div style="color:var(--hint);font-size:13.5px;margin:4px 0 10px">Xabaringiz ustozga boradi. U tekshirib, savolni tuzatadi yoki olib tashlaydi.</div>
+  <div class="rlist">${[["ans", "To'g'ri javob noto'g'ri belgilangan"], ["q", "Savol xato yoki tushunarsiz"], ["o", "Boshqa sabab"]].map(([k, t], j) => `<label class="srow" style="cursor:pointer"><input type="radio" name="rr" value="${k}" ${j ? "" : "checked"}> <span>${t}</span></label>`).join("")}</div>
+  <input id="rnote" maxlength="200" placeholder="Izoh (ixtiyoriy): masalan, to'g'ri javob C" style="width:100%;margin:10px 0;padding:11px 12px;border:1px solid var(--line);border-radius:12px;font-size:16px;background:var(--card);color:var(--txt)">
+  <button class="btn" id="rsend">Yuborish</button></div>`;
+  document.body.appendChild(d);
+  d.querySelector("#rsend").onclick = async () => {
+    const r = (d.querySelector("input[name=rr]:checked") || {}).value || "o", note = d.querySelector("#rnote").value.trim();
+    d.querySelector("#rsend").disabled = true;
+    const res = await api("report", { q: n, i, r, note });
+    d.remove(); toast(res && res.dup ? "Bu savol haqida avval xabar bergansiz. Rahmat!" : res && res.ok ? "✅ Rahmat! Ustoz tekshiradi." : "Xabar yuborilmadi, keyinroq urinib ko'ring.");
+  };
 }
 // ---------- yozma javoblarni tekshirish ----------
 const nrm = (s) => String(s || "").toLowerCase().replace(/[‘’ʻʼ`´'"«»“”]/g, "").replace(/ё/g, "е").replace(/[-–—.,;:!?()/]/g, " ").replace(/\s+/g, " ").trim();
@@ -481,6 +508,7 @@ async function Intro(n) {
   IntroView();
 }
 function prepare(id, title, qs, time) {
+  qs = qs.filter((q) => !q._del);
   Q = { id, title, time, mode: Q && Q.mode && !Q.sim ? Q.mode : "learn", raw: qs, live: false, sim: null };
 }
 function IntroView() {
@@ -521,6 +549,7 @@ function Play() {
     h += "</div>";
   }
   if (answered && q.exp && cfg().exp) h += `<div class="exp">💡 ${esc(q.exp)}</div>`;
+  if (answered && q.src) h += `<button class="replink" onclick="repQ('${q.src[0]}',${q.src[1]})">⚠️ Savolda xato bormi?</button>`;
   render(h, true);
   // pastki doimiy panel
   const last = Q.i + 1 >= n;
@@ -646,7 +675,7 @@ function Result(first) {
     if (tab === "bad" && ok) return; cnt++;
     if (q.w) { h += `<div class="rev"><div class="h">${k + 1}-savol · ✍️ yozma · ${Q.P[k][0]}/${Q.P[k][1]} ball</div><div class="q" style="font-size:15px">${esc(q.q)}</div>${q.parts.map((pt, j) => { const v = p && p[j], g = okAns(v, pt.a); return `<div class="a">${pt.q ? `<div style="color:var(--hint)">${esc(pt.l ? pt.l + ") " : "")}${esc(pt.q)}</div>` : ""}${!g ? `<div class="c-bad">${v ? esc(v) : "— javob yo'q"}</div>` : ""}<div class="c-ok">✓ ${esc(g ? v : pt.a[0])}</div></div>`; }).join("")}${q.exp ? `<div class="exp">💡 ${esc(q.exp)}</div>` : ""}</div>`; return; }
     h += `<div class="rev"><div class="h">${k + 1}-savol · ${ok ? "✅ to'g'ri" : p === null || p === -1 ? "⏳ javob berilmagan" : "❌ xato"}</div><div class="q" style="font-size:15px">${esc(q.q)}${q.img ? `<img src="${BASE + esc(q.img)}" alt="">` : ""}</div>
-    <div class="a">${!ok && p >= 0 ? `<div class="c-bad">${L[p]}) ${esc(q.opts[p])}</div>` : ""}<div class="c-ok">✓ ${L[q.ans]}) ${esc(q.opts[q.ans])}</div></div>${q.exp ? `<div class="exp">💡 ${esc(q.exp)}</div>` : ""}</div>`;
+    <div class="a">${!ok && p >= 0 ? `<div class="c-bad">${L[p]}) ${esc(q.opts[p])}</div>` : ""}<div class="c-ok">✓ ${L[q.ans]}) ${esc(q.opts[q.ans])}</div></div>${q.exp ? `<div class="exp">💡 ${esc(q.exp)}</div>` : ""}${q.src ? `<button class="replink" onclick="repQ('${q.src[0]}',${q.src[1]})">⚠️ Xato bormi?</button>` : ""}</div>`;
   });
   if (!cnt) h += `<div class="empty">🎉 Xato yo'q!</div>`;
   render(h);

@@ -67,6 +67,7 @@ async function sendQuestion(env, s, idx) {
     open_period: s.time,
   };
   if (q.explanation) body.explanation = String(q.explanation).slice(0, 200);
+  if (s.chat_id > 0) { const [rq, ri] = q.src || [s.quiz_id, idx]; const cd = `rp:${rq}:${ri}`; if (cd.length <= 64 && !/^(kun|mx|xatolar)/.test(rq)) body.reply_markup = { inline_keyboard: [[{ text: "⚠️ Savolda xato bor", callback_data: cd }]] }; }
   const r = await tg(env, "sendPoll", body);
   if (r.ok) {
     // Shaxsiy chatda keyingi savolni javob yoki har daqiqalik tekshiruv chiqaradi — navbat (Queue) faqat guruhlarda
@@ -152,7 +153,7 @@ async function finish(env, s) {
 
 // ---------- Testni boshlash ----------
 const QCACHE = new Map();
-async function fetchQuiz(env, name) {
+async function fetchQuizRaw(env, name) {
   const c = QCACHE.get(name);
   if (c && Date.now() - c.t < 600000) return c.d;
   if (name.startsWith("u-")) {
@@ -167,12 +168,99 @@ async function fetchQuiz(env, name) {
   QCACHE.set(name, { d, t: Date.now() });
   return d;
 }
+// ---------- «⚠️ Xato savol»: o'quvchi xabari → ustoz tasdiqlaydi → tuzatish ----------
+let REP_OK = false, FIXC = null, FIXT = 0;
+async function ensureRep(env) {
+  if (REP_OK) return; REP_OK = true;
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS qrep (id INTEGER PRIMARY KEY AUTOINCREMENT, quiz_id TEXT, idx INTEGER, n INTEGER DEFAULT 0, status TEXT DEFAULT 'open', note TEXT DEFAULT '', at INTEGER, UNIQUE(quiz_id, idx))").run();
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS qrep_u (rid INTEGER, user_id INTEGER, PRIMARY KEY (rid, user_id))").run();
+  await env.DB.prepare("CREATE TABLE IF NOT EXISTS qfix (quiz_id TEXT, idx INTEGER, act TEXT, ans INTEGER, at INTEGER, PRIMARY KEY (quiz_id, idx))").run();
+}
+async function getFixes(env) {
+  if (FIXC && Date.now() - FIXT < 120000) return FIXC;
+  await ensureRep(env);
+  const { results } = await env.DB.prepare("SELECT quiz_id, idx, act, ans FROM qfix").all();
+  const m = {}; for (const r of results) (m[r.quiz_id] = m[r.quiz_id] || []).push([r.idx, r.act, r.ans]);
+  FIXC = m; FIXT = Date.now(); return m;
+}
+const REASONS = { ans: "javob noto'g'ri belgilangan", q: "savol xato yoki tushunarsiz", o: "boshqa" };
+async function reportQ(env, user, quiz, idx, reason, note) {
+  await ensureRep(env);
+  quiz = String(quiz).slice(0, 40); idx = idx | 0;
+  await env.DB.prepare("INSERT OR IGNORE INTO qrep (quiz_id, idx, at) VALUES (?,?,?)").bind(quiz, idx, Date.now()).run();
+  const row = await env.DB.prepare("SELECT id, n, status FROM qrep WHERE quiz_id=? AND idx=?").bind(quiz, idx).first();
+  const ins = await env.DB.prepare("INSERT OR IGNORE INTO qrep_u (rid, user_id) VALUES (?,?)").bind(row.id, user.id).run();
+  if (!ins.meta || !ins.meta.changes) return { dup: true };
+  const line = `• ${user.first_name || user.id}: ${REASONS[reason] || REASONS.o}${note ? " — " + String(note).slice(0, 200) : ""}`;
+  await env.DB.prepare("UPDATE qrep SET n=n+1, at=?, status=CASE WHEN status='ok' AND n+1>=3 THEN 'open' ELSE status END, note=substr(note || char(10) || ?, -1500) WHERE id=?").bind(Date.now(), line, row.id).run();
+  const n = row.n + 1;
+  if ((row.status === "open" && (n === 1 || n === 3 || n === 10)) || (row.status === "ok" && n === 3)) await repToOwner(env, row.id).catch((e) => console.log("rep", e));
+  return { ok: true, n };
+}
+async function repToOwner(env, rid, chat_id, message_id, done) {
+  await ensureRep(env);
+  const r = await env.DB.prepare("SELECT * FROM qrep WHERE id=?").bind(rid).first();
+  if (!r) return;
+  let d; try { d = await fetchQuiz(env, r.quiz_id); } catch (e) { return; }
+  const w = r.idx >= 500, q = w ? (d.written || [])[r.idx - 500] : (d.questions || [])[r.idx];
+  if (!q) return;
+  const cat = await catalog(env), t = cat.sections.flatMap((x) => x.tests).find((x) => x.n === r.quiz_id);
+  const L = "ABCDEFGH";
+  let text = `⚠️ <b>Xato savol haqida xabar</b> (${r.n} ta o'quvchi)\n📝 ${esc(t ? t.t : d.title || r.quiz_id)} · <code>${esc(r.quiz_id)}</code> · ${w ? "yozma " + (r.idx - 499) : r.idx + 1}-savol\n\n<b>${esc(String(q.q).slice(0, 900))}</b>\n`;
+  if (w) text += (q.parts || []).map((p) => `${esc(p.l ? p.l + ") " : "")}${esc(p.q || "")} → <b>${esc((p.a || [])[0] || "")}</b>`).join("\n");
+  else text += q.options.map((o, k) => `${k === q.answer ? "✅" : "▫️"} ${L[k]}) ${esc(String(o).slice(0, 200))}`).join("\n");
+  if (q._del) text += "\n\n🗑 <i>Savol o'chirilgan</i>";
+  text += `\n\n💬 <b>Xabarlar:</b>${esc(r.note || "").slice(0, 1200)}`;
+  if (done) text += `\n\n${done}`;
+  const kb = done ? [] : [[{ text: "✅ Savol to'g'ri — yopish", callback_data: `fx:ok:${rid}` }]];
+  if (!done && !w) kb.push(q.options.map((_, k) => ({ text: `${k === q.answer ? "• " : ""}${L[k]} to'g'ri`, callback_data: `fx:a:${rid}:${k}` })).slice(0, 6));
+  if (!done) kb.push([{ text: "🗑 Savolni o'chirish", callback_data: `fx:del:${rid}` }]);
+  const body = { chat_id: chat_id || OWNER(env), text: text.slice(0, 4000), parse_mode: "HTML", reply_markup: { inline_keyboard: kb } };
+  if (message_id) return tg(env, "editMessageText", { ...body, message_id });
+  return tg(env, "sendMessage", body);
+}
+async function fixAction(env, chat_id, message_id, parts) {
+  const [act, rid, k] = parts; await ensureRep(env);
+  const r = await env.DB.prepare("SELECT * FROM qrep WHERE id=?").bind(rid | 0).first();
+  if (!r) return;
+  let done;
+  if (act === "ok") { await env.DB.prepare("UPDATE qrep SET status='ok' WHERE id=?").bind(r.id).run(); done = "✅ <b>Yopildi:</b> savol to'g'ri deb topildi."; }
+  if (act === "a") { await env.DB.prepare("INSERT OR REPLACE INTO qfix (quiz_id, idx, act, ans, at) VALUES (?,?,?,?,?)").bind(r.quiz_id, r.idx, "ans", k | 0, Date.now()).run(); await env.DB.prepare("UPDATE qrep SET status='fixed' WHERE id=?").bind(r.id).run(); done = `✏️ <b>Tuzatildi:</b> to'g'ri javob endi ${"ABCDEFGH"[k | 0]}.`; }
+  if (act === "del") { await env.DB.prepare("INSERT OR REPLACE INTO qfix (quiz_id, idx, act, ans, at) VALUES (?,?,?,?,?)").bind(r.quiz_id, r.idx, "del", null, Date.now()).run(); await env.DB.prepare("UPDATE qrep SET status='deleted' WHERE id=?").bind(r.id).run(); done = "🗑 <b>O'chirildi:</b> savol bot va ilovada endi chiqmaydi."; }
+  FIXC = null;
+  return repToOwner(env, r.id, chat_id, message_id, done);
+}
+async function shikoyatCmd(env, chat_id) {
+  await ensureRep(env);
+  const { results } = await env.DB.prepare("SELECT id FROM qrep WHERE status='open' AND n>0 ORDER BY n DESC, at DESC LIMIT 5").all();
+  const tot = await env.DB.prepare("SELECT COUNT(*) c FROM qrep WHERE status='open' AND n>0").first();
+  if (!results.length) return send(env, chat_id, "✅ Ochiq xabar yo'q — hamma savollar tekshirilgan.");
+  await send(env, chat_id, `⚠️ Ochiq xabarlar: <b>${tot.c}</b> ta. Eng ko'p belgilangan ${results.length} tasi 👇\n<i>Har biri ostidagi tugma bilan hal qiling. Keyingilari uchun yana /shikoyat yozing.</i>`);
+  for (const r of results) await repToOwner(env, r.id);
+}
+// O'quvchilar xabar bergan va ustoz tasdiqlagan tuzatishlar (D1 qfix) — test fayliga ustidan qo'llanadi
+function applyFix(d, fx) {
+  if (!fx || !fx.length) return d;
+  const qs = (d.questions || []).slice(), wr = (d.written || []).slice();
+  for (const [i, act, ans] of fx) {
+    if (i >= 500) { if (wr[i - 500] && act === "del") wr[i - 500] = { ...wr[i - 500], _del: 1 }; continue; }
+    if (!qs[i]) continue;
+    if (act === "del") qs[i] = { ...qs[i], _del: 1 };
+    else if (act === "ans" && ans >= 0 && ans < qs[i].options.length) qs[i] = { ...qs[i], answer: ans };
+  }
+  return { ...d, questions: qs, written: wr };
+}
+async function fetchQuiz(env, name) {
+  const d = await fetchQuizRaw(env, name);
+  const fx = await getFixes(env).catch(() => ({}));
+  return applyFix(d, fx[name]);
+}
 async function startQuiz(env, chat_id, arg, starter = null) {
   const cur = await env.DB.prepare("SELECT running FROM sessions WHERE chat_id=?").bind(chat_id).first();
   if (cur && cur.running) return "⏳ Viktorina davom etyapti. Avval /stop bosing.";
   let data;
   try { data = await fetchQuiz(env, arg); } catch (e) { return `❌ «${esc(arg)}» testi topilmadi yoki fayl xato.`; }
-  const qs = (data.questions || []).filter((q) => q.q && Array.isArray(q.options) && q.options.length >= 2);
+  const qs = (data.questions || []).map((q, i) => ({ ...q, src: q.src || [arg, i] })).filter((q) => !q._del && q.q && Array.isArray(q.options) && q.options.length >= 2);
   if (!qs.length) return "❌ Testda savol yo'q.";
   const time = Math.max(5, Math.min(600, parseInt(data.time) || 30));
   const sid = await startWithQuestions(env, chat_id, arg, data.title || arg, qs, time);
@@ -472,6 +560,12 @@ async function onCallback(env, cq) {
   const d = cq.data || "";
   const chat = cq.message && cq.message.chat;
   if (d === "noop") return tg(env, "answerCallbackQuery", { callback_query_id: cq.id, text: "👇 Pastdagi testlardan birini tanlang" });
+  if (d.startsWith("rp:")) {
+    const m = d.slice(3).match(/^(.+):(\d+)$/);
+    if (!m) return;
+    const r = await reportQ(env, cq.from, m[1], +m[2], "o", "botdagi savol");
+    return tg(env, "answerCallbackQuery", { callback_query_id: cq.id, text: r.dup ? "Siz bu savol haqida xabar bergansiz. Rahmat!" : "✅ Rahmat! Xabaringiz ustozga yuborildi — tekshirib, tuzatadi.", show_alert: true });
+  }
   if (chat && chat.type !== "private") {
     const r = await tg(env, "getChatMember", { chat_id: chat.id, user_id: cq.from.id });
     if (!(r.ok && ["creator", "administrator"].includes(r.result.status)))
@@ -481,6 +575,7 @@ async function onCallback(env, cq) {
   await tg(env, "answerCallbackQuery", { callback_query_id: cq.id });
   if (!chat) return;
   if (d.startsWith("pk:") && chat.type === "private" && String(cq.from.id) === OWNER(env)) return paketSend(env, chat.id, d.slice(3));
+  if (d.startsWith("fx:") && chat.type === "private" && String(cq.from.id) === OWNER(env)) return fixAction(env, chat.id, cq.message.message_id, d.slice(3).split(":"));
   if (d.startsWith("mx:") && chat.type === "private") return startMix(env, chat.id, "mx_" + d.slice(3), cq.from);
   if (d.startsWith("kp:") && chat.type === "private" && String(cq.from.id) === OWNER(env)) {
     if (d === "kp:ok") return kanalSend(env, chat.id);
@@ -996,7 +1091,7 @@ async function startMistakes(env, chat_id, user) {
   for (const qid of quizzes) {
     let d; try { d = await fetchQuiz(env, qid); } catch (e) { continue; }
     for (const r of results.filter((x) => x.quiz_id === qid)) {
-      const q = (d.questions || [])[r.idx];
+      const q = (d.questions || [])[r.idx]; if (q && q._del) continue;
       if (q) qs.push({ ...q, src: [qid, r.idx] });
     }
   }
@@ -1184,7 +1279,7 @@ async function pickDaily(env, secs) {
   for (let k = 0; k < 6 && pool.length; k++) {
     const it = pool[Math.floor(Math.random() * pool.length)];
     let d; try { d = await fetchQuiz(env, it.t.n); } catch (e) { continue; }
-    const ok = (d.questions || []).filter((q) => q.q && q.q.length <= 280 && q.options && q.options.length >= 2 && q.options.length <= 10 && q.options.every((o) => String(o).length <= 100));
+    const ok = (d.questions || []).filter((q) => !q._del && q.q && q.q.length <= 280 && q.options && q.options.length >= 2 && q.options.length <= 10 && q.options.every((o) => String(o).length <= 100));
     if (ok.length) return { q: ok[Math.floor(Math.random() * ok.length)], sec: it.sec, test: d.title || it.t.t };
   }
   return null;
@@ -1202,6 +1297,7 @@ async function sendDaily(env, chat_id, pick, isChannel) {
     reply_markup: { inline_keyboard: [[{ text: "📚 Ko'proq testlar — Isakov school", url: `https://t.me/${u}?start=menu` }]] },
   };
   if (q.explanation) body.explanation = String(q.explanation).slice(0, 200);
+  if (s.chat_id > 0) { const [rq, ri] = q.src || [s.quiz_id, idx]; const cd = `rp:${rq}:${ri}`; if (cd.length <= 64 && !/^(kun|mx|xatolar)/.test(rq)) body.reply_markup = { inline_keyboard: [[{ text: "⚠️ Savolda xato bor", callback_data: cd }]] }; }
   const r = await tg(env, "sendPoll", body);
   // Guruhda javoblar haftalik reytingga qo'shiladi
   if (r.ok && !isChannel)
@@ -1494,7 +1590,7 @@ async function startSearchQuiz(env, chat_id, user, query) {
   const qs = [];
   for (const [n, idxs] of tests) {
     let d; try { d = await fetchQuiz(env, n); } catch (e) { continue; }
-    for (const i of idxs) if (d.questions[i]) qs.push({ ...d.questions[i], src: [n, i] });
+    for (const i of idxs) if (d.questions[i] && !d.questions[i]._del) qs.push({ ...d.questions[i], src: [n, i] });
   }
   for (let i = qs.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [qs[i], qs[j]] = [qs[j], qs[i]]; }
   await env.DB.prepare("UPDATE sessions SET running=0 WHERE chat_id=? AND running=1").bind(chat_id).run();
@@ -1605,7 +1701,7 @@ async function startDaily10(env, chat_id, user) {
   const mq = [...new Set(ms.map((r) => r.quiz_id))].slice(0, 3);
   for (const qid of mq) {
     let d; try { d = await fetchQuiz(env, qid); } catch (e) { continue; }
-    for (const r of ms.filter((x) => x.quiz_id === qid)) if (d.questions[r.idx] && qs.length < 5) qs.push({ ...d.questions[r.idx], src: [qid, r.idx] });
+    for (const r of ms.filter((x) => x.quiz_id === qid)) if (d.questions[r.idx] && !d.questions[r.idx]._del && qs.length < 5) qs.push({ ...d.questions[r.idx], src: [qid, r.idx] });
   }
   const { results: rs } = await env.DB.prepare("SELECT quiz_id FROM results WHERE user_id=? ORDER BY at DESC LIMIT 20").bind(chat_id).all();
   const cat = await catalog(env);
@@ -1617,7 +1713,7 @@ async function startDaily10(env, chat_id, user) {
     const n = pool[Math.floor(Math.random() * pool.length)];
     let d; try { d = await fetchQuiz(env, n); } catch (e) { continue; }
     const idxs = d.questions.map((_, i) => i).sort(() => Math.random() - 0.5).slice(0, Math.max(2, Math.ceil((10 - qs.length) / (4 - k))));
-    for (const i of idxs) if (qs.length < 10) qs.push({ ...d.questions[i], src: [n, i] });
+    for (const i of idxs) if (qs.length < 10 && !d.questions[i]._del) qs.push({ ...d.questions[i], src: [n, i] });
   }
   if (!qs.length) return send(env, chat_id, "Savollar topilmadi.");
   await env.DB.prepare("UPDATE sessions SET running=0 WHERE chat_id=? AND running=1").bind(chat_id).run();
@@ -1646,6 +1742,7 @@ async function onMessage(env, msg) {
     if (t0 === "/bekor") { await ensureLock(env); await env.DB.prepare("DELETE FROM settings WHERE k IN ('bc_wait','kanal_wait','kanal_pending')").run(); return send(env, msg.chat.id, "❌ Bekor qilindi."); }
     if (t0 === "/kanal") return kanalStart(env, msg, msg.text || "");
     if (t0 === "/pdfsync") return pdfSyncCmd(env, msg.chat.id);
+    if (t0 === "/shikoyat") return shikoyatCmd(env, msg.chat.id);
     if (t0 === "/paket") return paketCmd(env, msg.chat.id, ((msg.text || "").trim().split(/\s+/)[1] || "").trim());
     if (!t0.startsWith("/") || msg.photo) {
       await ensureLock(env);
@@ -1965,7 +2062,13 @@ async function handleApi(env, req, url) {
       mtopics: ((await env.DB.prepare("SELECT COUNT(DISTINCT quiz_id) n FROM mistakes WHERE user_id=?").bind(uid).first()) || { n: 0 }).n,
       mistakes: await mistakeCount(env, uid), results, topics: (await getTopics(env, uid)).map((r) => [r.quiz_id, r.ok, r.n]),
       top: top.map((r) => ({ name: r.name || "—", c: r.c, n: r.n, me: r.user_id === uid })),
+      fx: await getFixes(env).catch(() => ({})),
     });
+  }
+  if (url.pathname === "/api/report" && req.method === "POST") {
+    const b = await req.json().catch(() => ({}));
+    if (!b.q || !/^[\w-]+$/.test(String(b.q))) return jres({ error: "bad" }, 400);
+    return jres(await reportQ(env, user, b.q, b.i, b.r, b.note));
   }
   if (url.pathname === "/api/test" && req.method === "GET") {
     const n = url.searchParams.get("n") || "";
@@ -2318,7 +2421,7 @@ async function startMix(env, chat_id, pl, user) {
   const per = Math.ceil(I.n / pick.length), qs = [];
   for (const t of pick) {
     let d; try { d = await fetchQuiz(env, t.n); } catch (e) { continue; }
-    d.questions.map((q, i) => ({ ...q, src: [t.n, i] })).sort(() => Math.random() - 0.5).slice(0, per).forEach((q) => qs.push(q));
+    d.questions.map((q, i) => ({ ...q, src: [t.n, i] })).filter((q) => !q._del).sort(() => Math.random() - 0.5).slice(0, per).forEach((q) => qs.push(q));
   }
   qs.sort(() => Math.random() - 0.5);
   if (!qs.length) return send(env, chat_id, "Savollar yuklanmadi.");
@@ -2400,6 +2503,7 @@ export default {
           { command: "kanal", description: "📣 Testni kanalga quiz qilib yuborish" },
           { command: "paket", description: "📦 Boʻlim testlari posti (tugmalar): /paket t6" },
           { command: "pdfsync", description: "☁️ PDFlarni R2 omboriga koʻchirish" },
+          { command: "shikoyat", description: "⚠️ Xato savollar haqidagi xabarlar" },
           { command: "xabar", description: "📢 Hammaga xabar" },
           { command: "excel", description: "📊 A'zolar jadvali" },
           { command: "testnatija", description: "📊 Test natijalari Excelda: /testnatija ms-20-11" },
