@@ -406,6 +406,7 @@ Avtomatik: /avto 20 6-1..6-44  ·  Holat: /avto  ·  To'xtatish: /avto stop
 /quiz huquq-demo-7  —  Huquqshunoslik Milliy sertifikat demo test 7 (35 ta)
 /quiz huquq-demo-8  —  Huquqshunoslik Milliy sertifikat demo test 8 (35 ta)
 /quiz huquq-1811  —  Huquq · Milliy sertifikat 18.11.2026 (H-01) (35 ta)
+/quiz huquq-h03  —  Huquq · Mashq varianti H-03 (35 ta + 10 yozma)
 /quiz huquq-1911  —  Huquq · Milliy sertifikat 19.11.2026 (H-02) (35 ta)
 /quiz huquq-aprob-7  —  Huquqshunoslik Milliy sertifikat aprobatsiya test 7 (35 ta)
 
