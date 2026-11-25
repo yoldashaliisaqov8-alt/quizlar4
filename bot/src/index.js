@@ -260,8 +260,9 @@ async function btn(env, chat_id, text, cb, start) {
 const MAIN_TEXT = "📚 <b>ISAKOV SCHOOL — testlar</b>\n\nFanni tanlang, so'ng mavzuni bosing — test shu yerda boshlanadi 👇\n\n🔍 <i>Qidirish uchun mavzu nomini yozing, masalan: Amir Temur</i>";
 
 // Fanlar: bosh menyuda faqat fan nomlari; fan → guruhlar → bo'limlar → testlar
+const SUBJ_DEFAULT = [{"id": "tarix", "icon": "🏛", "title": "Tarix", "groups": ["ms", "att", "olimp", "tarix", "atama", "yangi"]}, {"id": "huquq", "icon": "⚖️", "title": "Huquq", "groups": ["huquq"]}, {"id": "istoriya", "icon": "🇷🇺", "title": "Istoriya (rus tilida)", "groups": ["istj", "istu", "istatt"]}, {"id": "ingliz", "icon": "🇬🇧", "title": "Ingliz tili", "groups": ["enm", "eng", "env"]}, {"id": "onatili", "icon": "📖", "title": "Ona tili va adabiyot", "groups": ["ottil", "otadab", "otmix"]}, {"id": "chqbt", "icon": "🎖", "title": "CHQBT", "groups": ["chqbt"]}];
 function subjects(cat) {
-  const S = (cat.subjects || []).map((x) => ({ ...x, groups: x.groups.filter((id) => (cat.groups || []).some((g) => g.id === id)) })).filter((x) => x.groups.length);
+  const S = (cat.subjects || SUBJ_DEFAULT).map((x) => ({ ...x, groups: x.groups.filter((id) => (cat.groups || []).some((g) => g.id === id)) })).filter((x) => x.groups.length);
   const used = new Set(S.flatMap((x) => x.groups));
   const rest = (cat.groups || []).filter((g) => !used.has(g.id)).map((g) => g.id);
   if (rest.length) { const t = S.find((x) => x.id === "tarix"); if (t) t.groups.push(...rest); else S.push(...rest.map((id) => { const g = cat.groups.find((x) => x.id === id); return { id: "g-" + id, icon: g.icon, title: g.title, groups: [id] }; })); }
