@@ -91,7 +91,7 @@ function html(name, d, sec, mode = 'full') {
     }
     if ((split || s.ansend) && (!only || only === s.id)) { // butun kitob: bitta PDF + parolli javoblar
       const main = `${R}/pdf/${s.id}.pdf`, ans = `${R}/pdf/${s.id}-javob.pdf`;
-      if (!only && !need(main) && !need(ans)) continue;
+      if (!only && !need(main) && (!split || !need(ans))) continue;
       const parts = s.tests.map((t) => { const d = JSON.parse(fs.readFileSync(`${R}/${t.n}.json`, 'utf8')); return [t.t, d.questions]; });
       const all = { title: s.title + ' — butun kitob', questions: parts.flatMap((x) => x[1]), parts };
       if (!split) { await render(main, html(s.id, all, secT, 'full')); continue; }
