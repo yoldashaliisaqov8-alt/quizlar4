@@ -75,7 +75,9 @@ function html(name, d, sec, mode = 'full') {
       margin: { top: '14mm', bottom: '16mm', left: '14mm', right: '14mm' } });
     n++;
   };
-  const need = (f) => process.env.FORCE || !fs.existsSync(f);
+  // R2 ga ko'chirilganlar (pdf-list.json) ham «bor» hisoblanadi — qayta yaratilmaydi
+  let synced = new Set(); try { synced = new Set(JSON.parse(fs.readFileSync(R + '/pdf-list.json', 'utf8')).map((x) => x[0])); } catch (e) {}
+  const need = (f) => process.env.FORCE || !(fs.existsSync(f) || synced.has(path.basename(f)));
   for (const s of cat.sections) {
     if (s.nopdf) continue; // PDFsiz bo‘limlar (ingliz tili)
     const split = SPLIT(s.id) && !s.ansend, secT = `${s.icon} ${s.title}`;
@@ -99,6 +101,8 @@ function html(name, d, sec, mode = 'full') {
   }
   await b.close(); console.log(n, 'ta PDF');
   // R2 ko'chirish ro'yxati (bot /pdfsync shu ro'yxat bo'yicha ishlaydi)
-  const fl = fs.readdirSync(R + '/pdf').filter((f) => f.endsWith('.pdf')).sort().map((f) => [f, fs.statSync(R + '/pdf/' + f).size]);
-  fs.writeFileSync(R + '/pdf-list.json', JSON.stringify(fl));
+  // ro'yxatni birlashtiramiz: R2 dagilar + yangi yaratilganlar
+  let old = []; try { old = JSON.parse(fs.readFileSync(R + '/pdf-list.json', 'utf8')); } catch (e) {}
+  const m = new Map(old); for (const f of fs.readdirSync(R + '/pdf').filter((f) => f.endsWith('.pdf'))) m.set(f, fs.statSync(R + '/pdf/' + f).size);
+  fs.writeFileSync(R + '/pdf-list.json', JSON.stringify([...m].sort((a, b) => a[0] < b[0] ? -1 : 1)));
 })();
