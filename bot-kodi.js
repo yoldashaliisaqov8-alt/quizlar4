@@ -804,8 +804,10 @@ async function ensureUsers(env) {
   }
 }
 let USERS_OK = false;
+const TOUCHED = new Map(); // D1 yozuvlarini kamaytirish: bir foydalanuvchini 30 daqiqada bir marta yangilaymiz
 async function touchUser(env, u) {
   if (!u || u.is_bot) return;
+  const lt = TOUCHED.get(u.id); if (lt && Date.now() - lt < 1800000) return; TOUCHED.set(u.id, Date.now()); if (TOUCHED.size > 5000) TOUCHED.clear();
   if (!USERS_OK) { await ensureUsers(env); USERS_OK = true; }
   const name = ((u.first_name || "") + (u.last_name ? " " + u.last_name : "")).trim();
   const now = Date.now();
@@ -937,11 +939,18 @@ async function ensureStats(env) {
   STATS_OK = true;
   await env.DB.prepare("CREATE TABLE IF NOT EXISTS stats (day TEXT, sec TEXT, n INTEGER, PRIMARY KEY (day, sec))").run();
 }
+// Statistika hisoblagichlari xotirada yig'iladi va daqiqada bir marta bitta yozuv bilan bazaga tushadi
+const BUMPS = new Map(); let BUMP_T = Date.now();
 async function bump(env, sec, by = 1) {
+  const k = dayKey() + "|" + sec; BUMPS.set(k, (BUMPS.get(k) || 0) + by);
+  if (Date.now() - BUMP_T > 60000 || BUMPS.size > 30) await flushBumps(env);
+}
+async function flushBumps(env) {
+  if (!BUMPS.size) return; const items = [...BUMPS]; BUMPS.clear(); BUMP_T = Date.now();
   try {
     await ensureStats(env);
-    await env.DB.prepare("INSERT INTO stats (day, sec, n) VALUES (?,?,?) ON CONFLICT(day, sec) DO UPDATE SET n=n+excluded.n")
-      .bind(dayKey(), sec, by).run();
+    const st = items.map(([k, n]) => { const [day, sec] = k.split("|"); return env.DB.prepare("INSERT INTO stats (day, sec, n) VALUES (?,?,?) ON CONFLICT(day, sec) DO UPDATE SET n=n+excluded.n").bind(day, sec, n); });
+    if (env.DB.batch) await env.DB.batch(st); else for (const x of st) await x.run();
   } catch (e) { console.log("stats xato", e); }
 }
 let ALERT_AT = 0;
@@ -1969,7 +1978,7 @@ let IDX_OK = false;
 async function ensureIndexes(env) {
   if (IDX_OK) return;
   await env.DB.prepare("CREATE INDEX IF NOT EXISTS sessions_running ON sessions(running)").run();
-  await env.DB.prepare("CREATE INDEX IF NOT EXISTS polls_sid ON polls(session_id)").run();
+  await env.DB.prepare("DROP INDEX IF EXISTS polls_sid").run(); // har so'rovnoma uchun ortiqcha yozuv bermasin
   IDX_OK = true;
 }
 let QDOWN = 0; // navbat chegarasi tugagan bo'lsa — shu vaqtgacha navbatga yozmaymiz
@@ -1988,8 +1997,9 @@ async function watchdog(env) {
   // daqiqada 3 marta tekshiramiz (0, 20, 40-soniya) — faqat faol viktorina bo'lsa
   if (await pass()) for (let k = 0; k < 2; k++) { await new Promise((r) => setTimeout(r, 20000)); if (!(await pass())) break; }
   // 3 kundan eski so'rovnomalarni tozalash — soatiga bir marta
-  if (new Date().getUTCMinutes() === 7)
-    await env.DB.prepare("DELETE FROM polls WHERE session_id < ?").bind(String(Date.now() - 3 * 864e5)).run();
+  const nd = new Date();
+  if (nd.getUTCHours() === 22 && nd.getUTCMinutes() === 7)
+    await env.DB.prepare("DELETE FROM polls WHERE session_id < ?").bind(String(Date.now() - 2 * 864e5)).run();
 }
 
 // ---------- Mini App (Web ilova) API ----------
@@ -2589,5 +2599,6 @@ export default {
     ctx.waitUntil(remindTick(env).catch((e) => alertOwner(env, "eslatmalar", e)));
     ctx.waitUntil(outboxTick(env).catch((e) => alertOwner(env, "xabarlar navbati", e)));
     ctx.waitUntil(pdfSyncTick(env).catch((e) => alertOwner(env, "PDF ko'chirish", e)));
+    ctx.waitUntil(flushBumps(env).catch(() => {}));
   },
 };
