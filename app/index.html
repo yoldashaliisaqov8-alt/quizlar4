@@ -445,6 +445,7 @@ const SUBJECTS = [
   { id: "biologiya", icon: "🧬", title: "Biologiya", groups: ["bio"] },
   { id: "kimyo", icon: "🧪", title: "Kimyo", groups: ["kimyo"] },
   { id: "rus", icon: "🔤", title: "Rus tili", groups: ["rus"] },
+  { id: "pedagogika", icon: "🎓", title: "Pedagogika", groups: ["pedag"] },
   ...[["geografiya", "🌍", "Geografiya"], ["matematika", "➗", "Matematika"], ["fizika", "⚛️", "Fizika"], ["informatika", "💻", "Informatika"], ["iqtisod", "📊", "Iqtisodiyot asoslari"], ["chizmachilik", "📐", "Chizmachilik"]].map(([id, icon, title]) => ({ id, icon, title, soon: true })),
 ];
 function subjGroups(sj) { return CAT.groups.map((g, i) => ({ g, i })).filter(({ g }) => sj.groups.includes(g.id) || (sj.id === "tarix" && !SUBJECTS.some((x) => x.groups && x.groups.includes(g.id)))); }

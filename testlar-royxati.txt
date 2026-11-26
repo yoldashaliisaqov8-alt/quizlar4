@@ -2977,3 +2977,12 @@ Avtomatik: /avto 20 6-1..6-44  ·  Holat: /avto  ·  To'xtatish: /avto stop
 /quiz rs-boshqa-13  —  Aralash testlar 13 (30 ta)
 /quiz rs-boshqa-14  —  Aralash testlar 14 (30 ta)
 /quiz rs-boshqa-15  —  Aralash testlar 15 (25 ta)
+
+=== Pedagogika · Umumiy pedagogika (R. Mavlonova, 2018) ===
+/quiz ped-mav-1  —  1-mavzu. Didaktika tamoyillari (30 ta)
+/quiz ped-mav-2  —  2-mavzu. O‘quv jarayonini tashkil etish shakllari. Dars — o‘quv ishlarini tashkil qilishning asosiy shakli (27 ta)
+/quiz ped-mav-3  —  3-mavzu. Dars tizimi strukturasi, elementlari, tiplari va turlari (27 ta)
+/quiz ped-mav-4  —  4-mavzu. Darsga qo‘yiladigan psixologik talablar. Darsga tayyorlanish (24 ta)
+/quiz ped-mav-5  —  5-mavzu. O‘qitish metodlarining nazariy asoslari va tasnifi (28 ta)
+/quiz ped-mav-6  —  6-mavzu. O‘qitish metodlarining mohiyati va mazmuni (30 ta)
+/quiz ped-mav-7  —  7-mavzu. O‘qitishning induktiv va deduktiv metodlari. Mashqlar va o‘yinlar (26 ta)

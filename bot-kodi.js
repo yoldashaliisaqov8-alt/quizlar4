@@ -348,7 +348,7 @@ async function btn(env, chat_id, text, cb, start) {
 const MAIN_TEXT = "📚 <b>ISAKOV SCHOOL — testlar</b>\n\nFanni tanlang, so'ng mavzuni bosing — test shu yerda boshlanadi 👇\n\n🔍 <i>Qidirish uchun mavzu nomini yozing, masalan: Amir Temur</i>";
 
 // Fanlar: bosh menyuda faqat fan nomlari; fan → guruhlar → bo'limlar → testlar
-const SUBJ_DEFAULT = [{"id": "tarix", "icon": "🏛", "title": "Tarix", "groups": ["ms", "att", "olimp", "tarix", "atama", "yangi"]}, {"id": "huquq", "icon": "⚖️", "title": "Huquq", "groups": ["huquq"]}, {"id": "istoriya", "icon": "🇷🇺", "title": "Istoriya (rus tilida)", "groups": ["istj", "istu", "istatt"]}, {"id": "ingliz", "icon": "🇬🇧", "title": "Ingliz tili", "groups": ["enm", "eng", "env"]}, {"id": "onatili", "icon": "📖", "title": "Ona tili va adabiyot", "groups": ["ottil", "otadab", "otmix"]}, {"id": "chqbt", "icon": "🎖", "title": "CHQBT", "groups": ["chqbt"]}, {"id": "tarbiya", "icon": "🤝", "title": "Tarbiya", "groups": ["tarbiya"]}, {"id": "biologiya", "icon": "🧬", "title": "Biologiya", "groups": ["bio"]}, {"id": "kimyo", "icon": "🧪", "title": "Kimyo", "groups": ["kimyo"]}, {"id": "rus", "icon": "🔤", "title": "Rus tili", "groups": ["rus"]}];
+const SUBJ_DEFAULT = [{"id": "tarix", "icon": "🏛", "title": "Tarix", "groups": ["ms", "att", "olimp", "tarix", "atama", "yangi"]}, {"id": "huquq", "icon": "⚖️", "title": "Huquq", "groups": ["huquq"]}, {"id": "istoriya", "icon": "🇷🇺", "title": "Istoriya (rus tilida)", "groups": ["istj", "istu", "istatt"]}, {"id": "ingliz", "icon": "🇬🇧", "title": "Ingliz tili", "groups": ["enm", "eng", "env"]}, {"id": "onatili", "icon": "📖", "title": "Ona tili va adabiyot", "groups": ["ottil", "otadab", "otmix"]}, {"id": "chqbt", "icon": "🎖", "title": "CHQBT", "groups": ["chqbt"]}, {"id": "tarbiya", "icon": "🤝", "title": "Tarbiya", "groups": ["tarbiya"]}, {"id": "biologiya", "icon": "🧬", "title": "Biologiya", "groups": ["bio"]}, {"id": "kimyo", "icon": "🧪", "title": "Kimyo", "groups": ["kimyo"]}, {"id": "rus", "icon": "🔤", "title": "Rus tili", "groups": ["rus"]}, {"id": "pedagogika", "icon": "🎓", "title": "Pedagogika", "groups": ["pedag"]}];
 function subjects(cat) {
   const S = (cat.subjects || SUBJ_DEFAULT).map((x) => ({ ...x, groups: x.groups.filter((id) => (cat.groups || []).some((g) => g.id === id)) })).filter((x) => x.groups.length);
   const used = new Set(S.flatMap((x) => x.groups));
@@ -1282,7 +1282,7 @@ async function saveDQ(env, c) {
 }
 async function pickDaily(env, secs) {
   const cat = await catalog(env);
-  const def = (cat.groups || []).filter((g) => g.id !== "huquq" && !/^(ist|en|ot|chqbt|tarbiya|bio|kimyo|rus)/.test(g.id)).flatMap((g) => g.secs).filter((id) => id !== "attru");
+  const def = (cat.groups || []).filter((g) => g.id !== "huquq" && !/^(ist|en|ot|chqbt|tarbiya|bio|kimyo|rus|pedag)/.test(g.id)).flatMap((g) => g.secs).filter((id) => id !== "attru");
   const ids = secs && secs.length ? secs : def;
   const pool = cat.sections.filter((x) => ids.includes(x.id)).flatMap((x) => x.tests.map((t) => ({ sec: x, t })));
   for (let k = 0; k < 6 && pool.length; k++) {
@@ -1716,7 +1716,7 @@ async function startDaily10(env, chat_id, user) {
   const cat = await catalog(env);
   const secIds = new Set();
   for (const r of rs) for (const x of cat.sections) if (x.tests.some((t) => t.n === r.quiz_id)) secIds.add(x.id);
-  let pool = cat.sections.filter((x) => (secIds.size ? secIds.has(x.id) : x.id !== "attru" && !/^(ist|en|ot|cq|tb|bi|km|rs)/.test(x.id))).flatMap((x) => x.tests.map((t) => t.n));
+  let pool = cat.sections.filter((x) => (secIds.size ? secIds.has(x.id) : x.id !== "attru" && !/^(ist|en|ot|cq|tb|bi|km|rs|ped)/.test(x.id))).flatMap((x) => x.tests.map((t) => t.n));
   if (!pool.length) pool = cat.sections.flatMap((x) => x.tests.map((t) => t.n));
   for (let k = 0; k < 4 && qs.length < 10; k++) {
     const n = pool[Math.floor(Math.random() * pool.length)];
@@ -2386,7 +2386,7 @@ async function pkgPost(env, secId) {
   const btns = P.tests.map((t, i) => ({ t, i, lab: P.no(t) ? P.no(t) + (topicPart(t) ? "." + topicPart(t) : "") : (/kirish/i.test(t.t) ? "Kirish" : null) })).filter((x) => x.lab);
   if (P.tests.length <= 60) for (let k = 0; k < btns.length; k += 4) kb.push(btns.slice(k, k + 4).map((x) => ({ text: x.lab, url: L("app_" + x.t.n) })));
   if (P.tests.length <= 60) for (const [i, t] of P.tests.entries()) if (!P.no(t) && !/kirish/i.test(t.t)) kb.push([{ text: t.t.replace(/^Ilova\.\s*/, "").slice(0, 40), url: L("app_" + t.n) }]);
-  const PT = { t6: "6-sinf «Qadimgi dunyo tarixi» (2022)", t7u: "7-sinf «Oʻzbekiston tarixi»", t7j: "7-sinf «Jahon tarixi»", t8u: "8-sinf «Oʻzbekiston tarixi»", t8j: "8-sinf «Jahon tarixi»", t9u: "9-sinf «Oʻzbekiston tarixi»", t9j: "9-sinf «Jahon tarixi»", t10u: "10-sinf «Oʻzbekiston tarixi»", t11u: "11-sinf «Oʻzbekiston tarixi»", t11j: "11-sinf «Jahon tarixi»", t10j: "10-sinf «Jahon tarixi»", ist6: "6-класс · История Древнего мира", ist7: "7-класс · Всемирная история", ist72: "7-класс · Всемирная история (2)", ist8: "8-класс · Всемирная история", ist7u: "7-класс · История Узбекистана", ist8u: "8-класс · История Узбекистана", ist9u: "9-класс · История Узбекистана", ist10: "10-класс · Всемирная история (2022)", ist10u: "10-класс · История Узбекистана (2022)", ist11u: "11-класс · История Узбекистана (2025)", ist11: "11-класс · Всемирная история (2025)" };
+  const PT = { t6: "6-sinf «Qadimgi dunyo tarixi» (2022)", t7u: "7-sinf «Oʻzbekiston tarixi»", t7j: "7-sinf «Jahon tarixi»", t8u: "8-sinf «Oʻzbekiston tarixi»", t8j: "8-sinf «Jahon tarixi»", t9u: "9-sinf «Oʻzbekiston tarixi»", t9j: "9-sinf «Jahon tarixi»", t10u: "10-sinf «Oʻzbekiston tarixi»", t11u: "11-sinf «Oʻzbekiston tarixi»", t11j: "11-sinf «Jahon tarixi»", t10j: "10-sinf «Jahon tarixi»", ist6: "6-класс · История Древнего мира", ist7: "7-класс · Всемирная история", ist72: "7-класс · Всемирная история (2)", ist8: "8-класс · Всемирная история", ist7u: "7-класс · История Узбекистана", ist8u: "8-класс · История Узбекистана", ist9u: "9-класс · История Узбекистана", ist10: "10-класс · Всемирная история (2022)", ist10u: "10-класс · История Узбекистана (2022)", ist11u: "11-класс · История Узбекистана (2025)", pedmav: "«Umumiy pedagogika» (R. Mavlonova, 2018)", ist11: "11-класс · Всемирная история (2025)" };
   const text = `${sec.icon} <b>${esc(PT[sec.id] || sec.title)} — QUIZ testlar</b>\n\nKerakli testning ustiga bosing — test ochiladi. Undan <b>«Bu testni boshlash»</b> (oʻzingiz ishlaysiz), <b>«Ilovada ishlash»</b> yoki <b>«Guruhda boshlash»</b> (guruhingizda birga) ni tanlang.\n\n👨‍🏫 Testlar muallifi: <b>Ustoz Yoʻldashali Isaqov</b> · @yoldashaliisakov`;
   return { text, kb };
 }
