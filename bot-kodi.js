@@ -1306,7 +1306,6 @@ async function sendDaily(env, chat_id, pick, isChannel) {
     reply_markup: { inline_keyboard: [[{ text: "📚 Ko'proq testlar — Isakov school", url: `https://t.me/${u}?start=menu` }]] },
   };
   if (q.explanation) body.explanation = String(q.explanation).slice(0, 200);
-  if (s.chat_id > 0) { const [rq, ri] = q.src || [s.quiz_id, idx]; const cd = `rp:${rq}:${ri}`; if (cd.length <= 64 && !/^(kun|mx|xatolar)/.test(rq)) body.reply_markup = { inline_keyboard: [[{ text: "⚠️ Savolda xato bor", callback_data: cd }]] }; }
   const r = await tg(env, "sendPoll", body);
   // Guruhda javoblar haftalik reytingga qo'shiladi
   if (r.ok && !isChannel)
